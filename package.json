@@ -1,6 +1,6 @@
 {
   "name": "e4k-data",
-  "version": "4.123.23",
+  "version": "4.123.24",
   "description": "All recent data from Empire: Four Kingdoms",
   "main": "index.js",
   "types": "./typings/types.d.ts",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vanBrusselGames/E4K-data.git"
+    "url": "git+https://github.com/476f6f6467616d6553747564696f73/E4K-data.git"
   },
   "keywords": [
     "GoodGame Studios",
@@ -26,10 +26,10 @@
     "empire",
     "e4k"
   ],
-  "author": "vanBrusselGames",
+  "author": "476f6f6467616d6553747564696f73",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vanBrusselGames/E4K-data/issues"
+    "url": "https://github.com/476f6f6467616d6553747564696f73/E4K-data/issues"
   },
-  "homepage": "https://github.com/vanBrusselGames/E4K-data#readme"
+  "homepage": "https://github.com/476f6f6467616d6553747564696f73/E4K-data#readme"
 }
