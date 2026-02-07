@@ -4,7 +4,7 @@ module.exports = {
     country: {},
     data: {},
     imageData: {},
-    imageBaseUrl: "https://raw.githubusercontent.com/vanBrusselGames/E4K-data/main/images/",
+    imageBaseUrl: "https://raw.githubusercontent.com/476f6f6467616d6553747564696f73/E4K-data/main/images/",
     languages: {},
     network: {},
 }
