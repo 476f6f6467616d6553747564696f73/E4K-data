@@ -692,6 +692,16 @@
       "skinID": 136,
       "crossplayID": 136,
       "name": "Xmas2025Com"
+    },
+    {
+      "skinID": 137,
+      "crossplayID": 137,
+      "name": "CarnivalMaskComm"
+    },
+    {
+      "skinID": 138,
+      "crossplayID": 138,
+      "name": "CarnivalMaskCast"
     }
   ]
 }

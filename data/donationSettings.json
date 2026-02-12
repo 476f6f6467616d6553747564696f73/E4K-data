@@ -35,6 +35,12 @@
       "crossplayID": 6,
       "donationItemSetID": 6,
       "rewardSetID": 6
+    },
+    {
+      "donationSettingID": 7,
+      "crossplayID": 7,
+      "donationItemSetID": 7,
+      "rewardSetID": 7
     }
   ]
 }

@@ -68213,6 +68213,54 @@
       "maxLegendLevel": 199,
       "sortOrder": 19,
       "relationIDs": "999,411"
+    },
+    {
+      "packageID": 4824,
+      "packageType": "currency",
+      "comment1": "February Carnival Gacha",
+      "comment2": "Gold Shop - Merchants Key cheap",
+      "costGoldToken": 1950,
+      "addCarnivalMask": 150,
+      "stock": 1,
+      "minLevel": 20,
+      "sortOrder": 3.7,
+      "relationIDs": "400,999"
+    },
+    {
+      "packageID": 4825,
+      "packageType": "currency",
+      "comment1": "February Carnival Gacha",
+      "comment2": "Gold Shop - Merchants Key expensive",
+      "costGoldToken": 4950,
+      "addCarnivalMask": 350,
+      "stock": 1,
+      "minLevel": 20,
+      "sortOrder": 3.8,
+      "relationIDs": "400,999"
+    },
+    {
+      "packageID": 3913,
+      "packageType": "currency",
+      "comment1": "Stone Mask",
+      "comment2": "Belongs to Dio Brando",
+      "costGoldToken": 1950,
+      "addCarnivalMask": 150,
+      "stock": 1,
+      "minLevel": 20,
+      "relationIDs": "400,999",
+      "sortOrder": 3.5
+    },
+    {
+      "packageID": 3915,
+      "packageType": "currency",
+      "comment1": "Stone Mask",
+      "comment2": "Belongs to Dio Brando",
+      "costGoldToken": 4950,
+      "addCarnivalMask": 350,
+      "stock": 1,
+      "minLevel": 20,
+      "relationIDs": "400,999",
+      "sortOrder": 3.6
     }
   ]
 }

@@ -4027,7 +4027,7 @@
       "effectID": 448,
       "crossplayID": 448,
       "name": "equipmentAREWallProtection",
-      "effectTypeID": 6,
+      "effectTypeID": 19,
       "capID": 99,
       "areaTypeID": 43
     },
@@ -4035,7 +4035,7 @@
       "effectID": 449,
       "crossplayID": 449,
       "name": "equipmentAREGateProtection",
-      "effectTypeID": 7,
+      "effectTypeID": 20,
       "capID": 99,
       "areaTypeID": 43
     },

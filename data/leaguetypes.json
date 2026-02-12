@@ -649,6 +649,13 @@
       "eventID": 134,
       "minLevel": 10,
       "maxLevel": 1020
+    },
+    {
+      "comment2": "carnival gachaEvent",
+      "leaguetypeID": 1,
+      "eventID": 135,
+      "minLevel": 10,
+      "maxLevel": 1020
     }
   ]
 }

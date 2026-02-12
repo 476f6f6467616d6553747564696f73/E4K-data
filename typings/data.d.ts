@@ -1734,6 +1734,7 @@ export interface FusionSystem {
 export interface GachaEvent {
     "comment1": string;
     "comment2"?: string;
+    "costCarnivalMask"?: number;
     "costFrozenCarrot"?: number;
     "costHollowMoonEgg"?: number;
     "costLuckySlice"?: number;
@@ -2424,6 +2425,7 @@ export interface Package {
     "addBalloonsBoosterKey"?: number;
     "addBeadBowlBoosterKey"?: number;
     "addBusyBeesBoosterKey"?: number;
+    "addCarnivalMask"?: number;
     "addCastlePassageToken"?: number;
     "addCommonBricks"?: number;
     "addCommonClay"?: number;
@@ -3043,6 +3045,7 @@ export interface Reward {
     "addAshiraToken"?: number;
     "addBarinToken"?: number;
     "addBastionDoubloon"?: number;
+    "addCarnivalMask"?: number;
     "addCastlePassageToken"?: number;
     "addCommonStraw"?: number;
     "addCommonTimber"?: number;

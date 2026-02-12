@@ -1282,6 +1282,13 @@
       "assetName": "LegendaryRiftCoin"
     },
     {
+      "currencyID": 87,
+      "crossplayID": 87,
+      "Name": "CarnivalMask",
+      "JSONKey": "CMK",
+      "assetName": "CarnivalMask"
+    },
+    {
       "currencyID": 100000,
       "crossplayID": 100000,
       "Name": "DecoDust",

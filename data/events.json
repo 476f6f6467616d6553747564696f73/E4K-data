@@ -1103,6 +1103,17 @@
       "eventDuration": "Long",
       "minLevel": 10,
       "maxLevel": 1020
+    },
+    {
+      "eventID": 135,
+      "comment1": "CarnivalGacha",
+      "kIDs": 0,
+      "areaTypes": 1,
+      "eventType": "CarnivalGacha",
+      "hubType": "Adventure",
+      "eventDuration": "Long",
+      "minLevel": 10,
+      "maxLevel": 1020
     }
   ]
 }

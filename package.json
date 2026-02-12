@@ -1,6 +1,6 @@
 {
   "name": "e4k-data",
-  "version": "4.123.25",
+  "version": "4.124.89",
   "description": "All recent data from Empire: Four Kingdoms",
   "main": "index.js",
   "types": "./typings/types.d.ts",

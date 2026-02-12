@@ -29311,7 +29311,8 @@
       "addLegendaryToken": 6,
       "addLegendaryMaterial": 26,
       "addImperialDucat": 1,
-      "addPlaster": 21
+      "addPlaster": 21,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50673,
@@ -29321,7 +29322,8 @@
       "addLegendaryToken": 10,
       "addLegendaryMaterial": 38,
       "addImperialDucat": 1,
-      "addPlaster": 19
+      "addPlaster": 19,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50674,
@@ -29331,7 +29333,8 @@
       "addLegendaryToken": 13,
       "addLegendaryMaterial": 50,
       "addImperialDucat": 1,
-      "addPlaster": 17
+      "addPlaster": 17,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50675,
@@ -29341,7 +29344,8 @@
       "addLegendaryToken": 16,
       "addLegendaryMaterial": 63,
       "addImperialDucat": 2,
-      "addPlaster": 16
+      "addPlaster": 16,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50676,
@@ -29351,7 +29355,8 @@
       "addLegendaryToken": 19,
       "addLegendaryMaterial": 76,
       "addImperialDucat": 2,
-      "addPlaster": 12
+      "addPlaster": 12,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50677,
@@ -29361,7 +29366,8 @@
       "addLegendaryToken": 22,
       "addLegendaryMaterial": 89,
       "addImperialDucat": 2,
-      "addPlaster": 10
+      "addPlaster": 10,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50678,
@@ -29371,7 +29377,8 @@
       "addLegendaryToken": 25,
       "addLegendaryMaterial": 102,
       "addImperialDucat": 2,
-      "addPlaster": 8
+      "addPlaster": 8,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50679,
@@ -29381,7 +29388,8 @@
       "addLegendaryToken": 29,
       "addLegendaryMaterial": 114,
       "addImperialDucat": 3,
-      "addPlaster": 6
+      "addPlaster": 6,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50680,
@@ -29391,7 +29399,8 @@
       "addLegendaryToken": 32,
       "addLegendaryMaterial": 127,
       "addImperialDucat": 3,
-      "addPlaster": 4
+      "addPlaster": 4,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50681,
@@ -29408,7 +29417,8 @@
       "addLegendaryToken": 6,
       "addLegendaryMaterial": 26,
       "addImperialDucat": 1,
-      "addPlaster": 46
+      "addPlaster": 46,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50683,
@@ -29418,7 +29428,8 @@
       "addLegendaryToken": 13,
       "addLegendaryMaterial": 50,
       "addImperialDucat": 1,
-      "addPlaster": 42
+      "addPlaster": 42,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50684,
@@ -29428,7 +29439,8 @@
       "addLegendaryToken": 19,
       "addLegendaryMaterial": 76,
       "addImperialDucat": 2,
-      "addPlaster": 38
+      "addPlaster": 38,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50685,
@@ -29438,7 +29450,8 @@
       "addLegendaryToken": 25,
       "addLegendaryMaterial": 102,
       "addImperialDucat": 2,
-      "addPlaster": 33
+      "addPlaster": 33,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50686,
@@ -29448,7 +29461,8 @@
       "addLegendaryToken": 32,
       "addLegendaryMaterial": 127,
       "addImperialDucat": 3,
-      "addPlaster": 32
+      "addPlaster": 32,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50687,
@@ -29458,7 +29472,8 @@
       "addLegendaryToken": 38,
       "addLegendaryMaterial": 152,
       "addImperialDucat": 4,
-      "addPlaster": 25
+      "addPlaster": 25,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50688,
@@ -29468,7 +29483,8 @@
       "addLegendaryToken": 44,
       "addLegendaryMaterial": 178,
       "addImperialDucat": 4,
-      "addPlaster": 21
+      "addPlaster": 21,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50689,
@@ -29478,7 +29494,8 @@
       "addLegendaryToken": 51,
       "addLegendaryMaterial": 203,
       "addImperialDucat": 5,
-      "addPlaster": 16
+      "addPlaster": 16,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50690,
@@ -29488,7 +29505,8 @@
       "addLegendaryToken": 57,
       "addLegendaryMaterial": 229,
       "addImperialDucat": 6,
-      "addPlaster": 12
+      "addPlaster": 12,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50691,
@@ -29498,7 +29516,8 @@
       "addLegendaryToken": 63,
       "addLegendaryMaterial": 254,
       "addImperialDucat": 6,
-      "addPlaster": 8
+      "addPlaster": 8,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50692,
@@ -29515,7 +29534,8 @@
       "addLegendaryToken": 10,
       "addLegendaryMaterial": 38,
       "addImperialDucat": 1,
-      "addPlaster": 69
+      "addPlaster": 69,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50694,
@@ -29525,7 +29545,8 @@
       "addLegendaryToken": 19,
       "addLegendaryMaterial": 76,
       "addImperialDucat": 2,
-      "addPlaster": 63
+      "addPlaster": 63,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50695,
@@ -29535,7 +29556,8 @@
       "addLegendaryToken": 29,
       "addLegendaryMaterial": 114,
       "addImperialDucat": 3,
-      "addPlaster": 57
+      "addPlaster": 57,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50696,
@@ -29545,7 +29567,8 @@
       "addLegendaryToken": 38,
       "addLegendaryMaterial": 152,
       "addImperialDucat": 4,
-      "addPlaster": 50
+      "addPlaster": 50,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50697,
@@ -29555,7 +29578,8 @@
       "addLegendaryToken": 48,
       "addLegendaryMaterial": 190,
       "addImperialDucat": 5,
-      "addPlaster": 48
+      "addPlaster": 48,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50698,
@@ -29565,7 +29589,8 @@
       "addLegendaryToken": 57,
       "addLegendaryMaterial": 229,
       "addImperialDucat": 6,
-      "addPlaster": 37
+      "addPlaster": 37,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50699,
@@ -29575,7 +29600,8 @@
       "addLegendaryToken": 67,
       "addLegendaryMaterial": 266,
       "addImperialDucat": 6,
-      "addPlaster": 31
+      "addPlaster": 31,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50700,
@@ -29585,7 +29611,8 @@
       "addLegendaryToken": 76,
       "addLegendaryMaterial": 305,
       "addImperialDucat": 7,
-      "addPlaster": 25
+      "addPlaster": 25,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50701,
@@ -29595,7 +29622,8 @@
       "addLegendaryToken": 86,
       "addLegendaryMaterial": 343,
       "addImperialDucat": 8,
-      "addPlaster": 18
+      "addPlaster": 18,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50702,
@@ -29605,7 +29633,8 @@
       "addLegendaryToken": 95,
       "addLegendaryMaterial": 381,
       "addImperialDucat": 9,
-      "addPlaster": 12
+      "addPlaster": 12,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50703,
@@ -29622,7 +29651,8 @@
       "addLegendaryToken": 13,
       "addLegendaryMaterial": 50,
       "addImperialDucat": 1,
-      "addPlaster": 92
+      "addPlaster": 92,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50705,
@@ -29632,7 +29662,8 @@
       "addLegendaryToken": 25,
       "addLegendaryMaterial": 102,
       "addImperialDucat": 2,
-      "addPlaster": 84
+      "addPlaster": 84,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50706,
@@ -29642,7 +29673,8 @@
       "addLegendaryToken": 38,
       "addLegendaryMaterial": 152,
       "addImperialDucat": 4,
-      "addPlaster": 75
+      "addPlaster": 75,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50707,
@@ -29652,7 +29684,8 @@
       "addLegendaryToken": 51,
       "addLegendaryMaterial": 203,
       "addImperialDucat": 5,
-      "addPlaster": 67
+      "addPlaster": 67,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50708,
@@ -29662,7 +29695,8 @@
       "addLegendaryToken": 63,
       "addLegendaryMaterial": 254,
       "addImperialDucat": 6,
-      "addPlaster": 64
+      "addPlaster": 64,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50709,
@@ -29672,7 +29706,8 @@
       "addLegendaryToken": 76,
       "addLegendaryMaterial": 305,
       "addImperialDucat": 7,
-      "addPlaster": 50
+      "addPlaster": 50,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50710,
@@ -29682,7 +29717,8 @@
       "addLegendaryToken": 89,
       "addLegendaryMaterial": 355,
       "addImperialDucat": 9,
-      "addPlaster": 41
+      "addPlaster": 41,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50711,
@@ -29692,7 +29728,8 @@
       "addLegendaryToken": 102,
       "addLegendaryMaterial": 406,
       "addImperialDucat": 10,
-      "addPlaster": 33
+      "addPlaster": 33,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50712,
@@ -29702,7 +29739,8 @@
       "addLegendaryToken": 114,
       "addLegendaryMaterial": 457,
       "addImperialDucat": 11,
-      "addPlaster": 24
+      "addPlaster": 24,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50713,
@@ -29712,7 +29750,8 @@
       "addLegendaryToken": 127,
       "addLegendaryMaterial": 508,
       "addImperialDucat": 12,
-      "addPlaster": 16
+      "addPlaster": 16,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50714,
@@ -29729,7 +29768,8 @@
       "addLegendaryToken": 22,
       "addLegendaryMaterial": 89,
       "addImperialDucat": 2,
-      "addPlaster": 162
+      "addPlaster": 162,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50716,
@@ -29739,7 +29779,8 @@
       "addLegendaryToken": 44,
       "addLegendaryMaterial": 178,
       "addImperialDucat": 4,
-      "addPlaster": 147
+      "addPlaster": 147,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50717,
@@ -29749,7 +29790,8 @@
       "addLegendaryToken": 67,
       "addLegendaryMaterial": 266,
       "addImperialDucat": 6,
-      "addPlaster": 132
+      "addPlaster": 132,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50718,
@@ -29759,7 +29801,8 @@
       "addLegendaryToken": 89,
       "addLegendaryMaterial": 355,
       "addImperialDucat": 9,
-      "addPlaster": 117
+      "addPlaster": 117,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50719,
@@ -29769,7 +29812,8 @@
       "addLegendaryToken": 111,
       "addLegendaryMaterial": 445,
       "addImperialDucat": 11,
-      "addPlaster": 111
+      "addPlaster": 111,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50720,
@@ -29779,7 +29823,8 @@
       "addLegendaryToken": 133,
       "addLegendaryMaterial": 534,
       "addImperialDucat": 13,
-      "addPlaster": 87
+      "addPlaster": 87,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50721,
@@ -29789,7 +29834,8 @@
       "addLegendaryToken": 156,
       "addLegendaryMaterial": 622,
       "addImperialDucat": 15,
-      "addPlaster": 72
+      "addPlaster": 72,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50722,
@@ -29799,7 +29845,8 @@
       "addLegendaryToken": 178,
       "addLegendaryMaterial": 711,
       "addImperialDucat": 17,
-      "addPlaster": 58
+      "addPlaster": 58,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50723,
@@ -29809,7 +29856,8 @@
       "addLegendaryToken": 200,
       "addLegendaryMaterial": 800,
       "addImperialDucat": 19,
-      "addPlaster": 43
+      "addPlaster": 43,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50724,
@@ -29819,7 +29867,8 @@
       "addLegendaryToken": 222,
       "addLegendaryMaterial": 889,
       "addImperialDucat": 22,
-      "addPlaster": 28
+      "addPlaster": 28,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50725,
@@ -29836,7 +29885,8 @@
       "addLegendaryToken": 22,
       "addLegendaryMaterial": 89,
       "addImperialDucat": 2,
-      "addPlaster": 162
+      "addPlaster": 162,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50727,
@@ -29846,7 +29896,8 @@
       "addLegendaryToken": 44,
       "addLegendaryMaterial": 178,
       "addImperialDucat": 4,
-      "addPlaster": 147
+      "addPlaster": 147,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50728,
@@ -29856,7 +29907,8 @@
       "addLegendaryToken": 67,
       "addLegendaryMaterial": 266,
       "addImperialDucat": 6,
-      "addPlaster": 132
+      "addPlaster": 132,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50729,
@@ -29866,7 +29918,8 @@
       "addLegendaryToken": 89,
       "addLegendaryMaterial": 355,
       "addImperialDucat": 9,
-      "addPlaster": 117
+      "addPlaster": 117,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50730,
@@ -29876,7 +29929,8 @@
       "addLegendaryToken": 111,
       "addLegendaryMaterial": 445,
       "addImperialDucat": 11,
-      "addPlaster": 111
+      "addPlaster": 111,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50731,
@@ -29886,7 +29940,8 @@
       "addLegendaryToken": 133,
       "addLegendaryMaterial": 534,
       "addImperialDucat": 13,
-      "addPlaster": 87
+      "addPlaster": 87,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50732,
@@ -29896,7 +29951,8 @@
       "addLegendaryToken": 156,
       "addLegendaryMaterial": 622,
       "addImperialDucat": 15,
-      "addPlaster": 72
+      "addPlaster": 72,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50733,
@@ -29906,7 +29962,8 @@
       "addLegendaryToken": 178,
       "addLegendaryMaterial": 711,
       "addImperialDucat": 17,
-      "addPlaster": 58
+      "addPlaster": 58,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50734,
@@ -29916,7 +29973,8 @@
       "addLegendaryToken": 200,
       "addLegendaryMaterial": 800,
       "addImperialDucat": 19,
-      "addPlaster": 43
+      "addPlaster": 43,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50735,
@@ -29926,7 +29984,8 @@
       "addLegendaryToken": 222,
       "addLegendaryMaterial": 889,
       "addImperialDucat": 22,
-      "addPlaster": 28
+      "addPlaster": 28,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50736,
@@ -29943,7 +30002,8 @@
       "addLegendaryToken": 41,
       "addLegendaryMaterial": 165,
       "addImperialDucat": 4,
-      "addPlaster": 300
+      "addPlaster": 300,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50738,
@@ -29953,7 +30013,8 @@
       "addLegendaryToken": 83,
       "addLegendaryMaterial": 330,
       "addImperialDucat": 8,
-      "addPlaster": 273
+      "addPlaster": 273,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50739,
@@ -29963,7 +30024,8 @@
       "addLegendaryToken": 124,
       "addLegendaryMaterial": 495,
       "addImperialDucat": 12,
-      "addPlaster": 245
+      "addPlaster": 245,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50740,
@@ -29973,7 +30035,8 @@
       "addLegendaryToken": 165,
       "addLegendaryMaterial": 660,
       "addImperialDucat": 16,
-      "addPlaster": 217
+      "addPlaster": 217,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50741,
@@ -29983,7 +30046,8 @@
       "addLegendaryToken": 206,
       "addLegendaryMaterial": 826,
       "addImperialDucat": 20,
-      "addPlaster": 207
+      "addPlaster": 207,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50742,
@@ -29993,7 +30057,8 @@
       "addLegendaryToken": 248,
       "addLegendaryMaterial": 990,
       "addImperialDucat": 24,
-      "addPlaster": 162
+      "addPlaster": 162,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50743,
@@ -30003,7 +30068,8 @@
       "addLegendaryToken": 289,
       "addLegendaryMaterial": 1155,
       "addImperialDucat": 28,
-      "addPlaster": 135
+      "addPlaster": 135,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50744,
@@ -30013,7 +30079,8 @@
       "addLegendaryToken": 330,
       "addLegendaryMaterial": 1321,
       "addImperialDucat": 32,
-      "addPlaster": 107
+      "addPlaster": 107,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50745,
@@ -30023,7 +30090,8 @@
       "addLegendaryToken": 371,
       "addLegendaryMaterial": 1486,
       "addImperialDucat": 36,
-      "addPlaster": 79
+      "addPlaster": 79,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50746,
@@ -30033,7 +30101,8 @@
       "addLegendaryToken": 413,
       "addLegendaryMaterial": 1650,
       "addImperialDucat": 40,
-      "addPlaster": 52
+      "addPlaster": 52,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50747,
@@ -30050,7 +30119,8 @@
       "addLegendaryToken": 48,
       "addLegendaryMaterial": 190,
       "addImperialDucat": 5,
-      "addPlaster": 346
+      "addPlaster": 346,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50749,
@@ -30060,7 +30130,8 @@
       "addLegendaryToken": 95,
       "addLegendaryMaterial": 381,
       "addImperialDucat": 9,
-      "addPlaster": 314
+      "addPlaster": 314,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50750,
@@ -30070,7 +30141,8 @@
       "addLegendaryToken": 143,
       "addLegendaryMaterial": 571,
       "addImperialDucat": 14,
-      "addPlaster": 283
+      "addPlaster": 283,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50751,
@@ -30080,7 +30152,8 @@
       "addLegendaryToken": 190,
       "addLegendaryMaterial": 762,
       "addImperialDucat": 18,
-      "addPlaster": 251
+      "addPlaster": 251,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50752,
@@ -30090,7 +30163,8 @@
       "addLegendaryToken": 238,
       "addLegendaryMaterial": 952,
       "addImperialDucat": 23,
-      "addPlaster": 239
+      "addPlaster": 239,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50753,
@@ -30100,7 +30174,8 @@
       "addLegendaryToken": 286,
       "addLegendaryMaterial": 1143,
       "addImperialDucat": 28,
-      "addPlaster": 187
+      "addPlaster": 187,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50754,
@@ -30110,7 +30185,8 @@
       "addLegendaryToken": 333,
       "addLegendaryMaterial": 1334,
       "addImperialDucat": 32,
-      "addPlaster": 155
+      "addPlaster": 155,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50755,
@@ -30120,7 +30196,8 @@
       "addLegendaryToken": 381,
       "addLegendaryMaterial": 1524,
       "addImperialDucat": 37,
-      "addPlaster": 123
+      "addPlaster": 123,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50756,
@@ -30130,7 +30207,8 @@
       "addLegendaryToken": 429,
       "addLegendaryMaterial": 1714,
       "addImperialDucat": 42,
-      "addPlaster": 92
+      "addPlaster": 92,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 50757,
@@ -30140,7 +30218,8 @@
       "addLegendaryToken": 476,
       "addLegendaryMaterial": 1905,
       "addImperialDucat": 46,
-      "addPlaster": 60
+      "addPlaster": 60,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 8606,
@@ -33059,6 +33138,382 @@
       "comment1": "Semi-Giant Deco",
       "decoWodID": 4364,
       "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9567,
+      "crossplayID": 9567,
+      "comment1": "This should be rank 1",
+      "comment2": "Premium Carnival DwellingPremium Carnival KeepTopX Gacha Commander",
+      "constructionItemIDs": "1083+7#1084",
+      "equipmentIDs": 1380
+    },
+    {
+      "rewardID": 9568,
+      "crossplayID": 9568,
+      "comment1": "This should be rank 2",
+      "comment2": "TopX Gacha CommanderTopX Gacha Castellan",
+      "equipmentIDs": 1380
+    },
+    {
+      "rewardID": 9569,
+      "crossplayID": 9569,
+      "comment1": "This should be rank 3",
+      "comment2": "Gacha Currency",
+      "equipmentIDs": 1381
+    },
+    {
+      "rewardID": 9570,
+      "crossplayID": 9570,
+      "comment1": "This should be milestone 1",
+      "comment2": "Carnival Honey Gardens (Economy 2)",
+      "addCarnivalMask": 100
+    },
+    {
+      "rewardID": 9571,
+      "crossplayID": 9571,
+      "comment1": "This should be milestone 2",
+      "comment2": "Gen XP15000",
+      "constructionItemIDs": 1090
+    },
+    {
+      "rewardID": 9572,
+      "crossplayID": 9572,
+      "comment1": "This should be milestone 3",
+      "comment2": "Carnival Gondola (2639)",
+      "addGenXP15000": 10
+    },
+    {
+      "rewardID": 9573,
+      "crossplayID": 9573,
+      "comment2": "Offering to Fat King",
+      "decoWodID": 2639,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9574,
+      "crossplayID": 9574,
+      "comment2": "Upgrade Tokens",
+      "addRelicFragment": 2000
+    },
+    {
+      "rewardID": 9575,
+      "crossplayID": 9575,
+      "comment2": "Construction Tokens",
+      "addFatKingToken": 15
+    },
+    {
+      "rewardID": 9576,
+      "crossplayID": 9576,
+      "comment2": "Gen XP1000",
+      "addLegendaryMaterial": 100
+    },
+    {
+      "rewardID": 9577,
+      "crossplayID": 9577,
+      "comment2": "Offering to Knight",
+      "addLegendaryToken": 50
+    },
+    {
+      "rewardID": 9578,
+      "crossplayID": 9578,
+      "comment2": "ARE Temp Commander",
+      "addGenXP1000": 10
+    },
+    {
+      "rewardID": 9579,
+      "crossplayID": 9579,
+      "comment2": "Valenta Offerings",
+      "addKnightToken": 10
+    },
+    {
+      "rewardID": 9580,
+      "crossplayID": 9580,
+      "comment2": "Offering to Princess",
+      "equipmentIDs": 1382
+    },
+    {
+      "rewardID": 9581,
+      "crossplayID": 9581,
+      "comment2": "Hasan Offerings",
+      "addValentaToken": 5
+    },
+    {
+      "rewardID": 9582,
+      "crossplayID": 9582,
+      "comment2": "Sasaki Offerings",
+      "addPrincessToken": 5
+    },
+    {
+      "rewardID": 9583,
+      "crossplayID": 9583,
+      "comment2": "End of Spring 2024 Sales Deco (2974)",
+      "addHasanToken": 5
+    },
+    {
+      "rewardID": 9586,
+      "crossplayID": 9586,
+      "comment2": "Exalted Purple Carnival Canal",
+      "addSasakiToken": 1
+    },
+    {
+      "rewardID": 9587,
+      "crossplayID": 9587,
+      "comment2": "Carnival Barrel Workshop",
+      "decoWodID": 2974,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9588,
+      "crossplayID": 9588,
+      "comment2": "Carnival Honey Gardens",
+      "decoWodID": 4383,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9589,
+      "crossplayID": 9589,
+      "comment2": "Carnival Keep",
+      "constructionItemIDs": 1076
+    },
+    {
+      "rewardID": 9590,
+      "crossplayID": 9590,
+      "comment2": "Carnival Hall of Legends",
+      "constructionItemIDs": 1077
+    },
+    {
+      "rewardID": 9591,
+      "crossplayID": 9591,
+      "comment2": "Carnival Dwelling",
+      "constructionItemIDs": 1078
+    },
+    {
+      "rewardID": 9592,
+      "crossplayID": 9592,
+      "comment2": "Carnival Granary",
+      "constructionItemIDs": 1079
+    },
+    {
+      "rewardID": 9593,
+      "crossplayID": 9593,
+      "comment2": "Carnival Mask",
+      "constructionItemIDs": 1080
+    },
+    {
+      "rewardID": 9594,
+      "crossplayID": 9594,
+      "comment2": "Flight of the Phoenix",
+      "constructionItemIDs": 1081
+    },
+    {
+      "rewardID": 9595,
+      "crossplayID": 9595,
+      "comment2": "Phoenix Mask",
+      "equipmentIDs": 1410
+    },
+    {
+      "rewardID": 9596,
+      "crossplayID": 9596,
+      "comment2": "Smugglers Gondola",
+      "equipmentIDs": 712
+    },
+    {
+      "rewardID": 9597,
+      "crossplayID": 9597,
+      "comment2": "Carnival Honey Gardens (Hybrid)",
+      "equipmentIDs": 713
+    },
+    {
+      "rewardID": 9598,
+      "crossplayID": 9598,
+      "comment2": "Premium Carnival Honey Gardens",
+      "equipmentIDs": 970
+    },
+    {
+      "rewardID": 9599,
+      "crossplayID": 9599,
+      "comment2": "Gen XP5000",
+      "constructionItemIDs": 1088
+    },
+    {
+      "rewardID": 9600,
+      "crossplayID": 9600,
+      "comment2": "Tizi Offerings",
+      "constructionItemIDs": 1087
+    },
+    {
+      "rewardID": 9601,
+      "crossplayID": 9601,
+      "comment2": "Diana Offerings",
+      "addGenXP5000": 10
+    },
+    {
+      "rewardID": 9602,
+      "crossplayID": 9602,
+      "comment2": "Barin Offerings",
+      "addTiziToken": 2
+    },
+    {
+      "rewardID": 9603,
+      "crossplayID": 9603,
+      "comment2": "Exalted Green Carnival Canal (1)",
+      "addDianaToken": 2
+    },
+    {
+      "rewardID": 9604,
+      "crossplayID": 9604,
+      "comment2": "Premium Carnival Barrel Workshop",
+      "addBarinToken": 2
+    },
+    {
+      "rewardID": 9605,
+      "crossplayID": 9605,
+      "comment2": "Gen XP10000",
+      "decoWodID": 4384,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9606,
+      "crossplayID": 9606,
+      "comment2": "Carnival Honey Gardens (Economy 1)",
+      "constructionItemIDs": 1082
+    },
+    {
+      "rewardID": 9607,
+      "crossplayID": 9607,
+      "comment2": "Carnival Honey Gardens (Economy 2)",
+      "addGenXP10000": 10
+    },
+    {
+      "rewardID": 9608,
+      "crossplayID": 9608,
+      "comment2": "Exalted Red Carnival Canal",
+      "constructionItemIDs": 1089
+    },
+    {
+      "rewardID": 9609,
+      "crossplayID": 9609,
+      "comment2": "Kael Offerings",
+      "constructionItemIDs": 1090
+    },
+    {
+      "rewardID": 9610,
+      "crossplayID": 9610,
+      "comment2": "Premium Carnival Hall of Legends",
+      "decoWodID": 4382,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9611,
+      "crossplayID": 9611,
+      "comment2": "Relic Shards",
+      "addKaelrithToken": 1
+    },
+    {
+      "rewardID": 9612,
+      "crossplayID": 9612,
+      "comment2": "Gen XP12500",
+      "constructionItemIDs": 1085
+    },
+    {
+      "rewardID": 9613,
+      "crossplayID": 9613,
+      "comment2": "Exalted Green Carnival Canal (2)",
+      "addRelicFragment": 4000
+    },
+    {
+      "rewardID": 9614,
+      "crossplayID": 9614,
+      "comment2": "Exalted Green Carnival Canal (3)",
+      "addGenXP12500": 10
+    },
+    {
+      "rewardID": 9615,
+      "crossplayID": 9615,
+      "comment2": "Exalted Green Jesters Mask",
+      "decoWodID": 4385,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9616,
+      "crossplayID": 9616,
+      "comment2": "Carnival Honey Gardens (Economy 3)",
+      "decoWodID": 4386,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9617,
+      "crossplayID": 9617,
+      "comment2": "Premium Carnival Granary",
+      "decoWodID": 4387,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9618,
+      "crossplayID": 9618,
+      "comment2": "Premium Carnival Keep",
+      "constructionItemIDs": 1091
+    },
+    {
+      "rewardID": 9619,
+      "crossplayID": 9619,
+      "comment2": "Relic Shards",
+      "constructionItemIDs": 1086
+    },
+    {
+      "rewardID": 9620,
+      "crossplayID": 9620,
+      "comment2": "Sceats",
+      "constructionItemIDs": 1084
+    },
+    {
+      "rewardID": 9621,
+      "crossplayID": 9621,
+      "comment2": "Carnival Dwelling (Combat 4)",
+      "addRelicFragment": 6000
+    },
+    {
+      "rewardID": 9622,
+      "crossplayID": 9622,
+      "comment2": "Carnival Dwelling (Combat 3)",
+      "addSceatToken": 150,
+      "ignoreCurrencySoftCap": 1
+    },
+    {
+      "rewardID": 9623,
+      "crossplayID": 9623,
+      "comment2": "Carnival Dwelling (Combat 2)",
+      "constructionItemIDs": 1095
+    },
+    {
+      "rewardID": 9624,
+      "crossplayID": 9624,
+      "comment2": "Carnival Dwelling (Combat 1)",
+      "constructionItemIDs": 1094
+    },
+    {
+      "rewardID": 9625,
+      "crossplayID": 9625,
+      "comment2": "Gen XP15000",
+      "constructionItemIDs": 1093
+    },
+    {
+      "rewardID": 9626,
+      "crossplayID": 9626,
+      "comment2": "Premium Carnival Dwelling",
+      "constructionItemIDs": 1092
+    },
+    {
+      "rewardID": 9627,
+      "crossplayID": 9627,
+      "comment2": "Premium Carnival Dwelling",
+      "addGenXP15000": 20
+    },
+    {
+      "rewardID": 9628,
+      "crossplayID": 9628,
+      "comment2": "Premium Carnival Dwelling",
+      "constructionItemIDs": 1083
     },
     {
       "rewardID": 1290,
@@ -38940,7 +39395,8 @@
       "rewardID": 9039,
       "comment1": "Jackpot 1",
       "comment2": "TCI Attack Unit Front Increase",
-      "addSceatToken": 20
+      "addSceatToken": 20,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 9040,
@@ -39066,7 +39522,8 @@
       "rewardID": 9060,
       "comment1": "Jackpot 2",
       "comment2": "TCI Attack Unit Front Increase",
-      "addSceatToken": 30
+      "addSceatToken": 30,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 9061,
@@ -39192,7 +39649,8 @@
       "rewardID": 9081,
       "comment1": "Jackpot 3",
       "comment2": "TCI Attack Unit Front Increase",
-      "addSceatToken": 40
+      "addSceatToken": 40,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 9082,
@@ -39318,7 +39776,8 @@
       "rewardID": 9102,
       "comment1": "Jackpot 4",
       "comment2": "TCI Attack Unit Front Increase",
-      "addSceatToken": 50
+      "addSceatToken": 50,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 9103,
@@ -39444,7 +39903,8 @@
       "rewardID": 9123,
       "comment1": "Jackpot 5",
       "comment2": "TCI Attack Unit Front Increase",
-      "addSceatToken": 60
+      "addSceatToken": 60,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 9124,
@@ -39570,7 +40030,8 @@
       "rewardID": 9144,
       "comment1": "Jackpot 6",
       "comment2": "TCI Attack Unit Front Increase",
-      "addSceatToken": 70
+      "addSceatToken": 70,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 9145,
@@ -39696,7 +40157,8 @@
       "rewardID": 9165,
       "comment1": "Jackpot 7",
       "comment2": "TCI Attack Unit Front Increase",
-      "addSceatToken": 80
+      "addSceatToken": 80,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 9166,
@@ -39822,7 +40284,8 @@
       "rewardID": 9186,
       "comment1": "Jackpot 8",
       "comment2": "TCI Attack Unit Front Increase",
-      "addSceatToken": 90
+      "addSceatToken": 90,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 9187,
@@ -39948,7 +40411,8 @@
       "rewardID": 9207,
       "comment1": "Jackpot 9",
       "comment2": "TCI Attack Unit Front Increase",
-      "addSceatToken": 100
+      "addSceatToken": 100,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 9208,
@@ -112466,6 +112930,7 @@
       "comment1": "Berimond 70+ Reward 56",
       "comment2": "Berimond Kingdom",
       "addImperialDucat": 15,
+      "ignoreCurrencySoftCap": 1,
       "decoWodID": 2997,
       "toDecoGlobalStorage": 1
     },
@@ -112518,21 +112983,24 @@
       "comment1": "Top X1",
       "comment2": "Berimond Kingdom",
       "addPlaster": 100,
-      "addImperialDucat": 25
+      "addImperialDucat": 25,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 9010,
       "comment1": "Top X2",
       "comment2": "Berimond Kingdom",
       "addPlaster": 200,
-      "addImperialDucat": 50
+      "addImperialDucat": 50,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 9011,
       "comment1": "Top 1",
       "comment2": "Berimond Kingdom",
       "addPlaster": 1500,
-      "addImperialDucat": 75
+      "addImperialDucat": 75,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 2827,
@@ -134796,7 +135264,8 @@
       "addLegendaryToken": 1500,
       "addLegendaryMaterial": 4500,
       "constructionItemIDs": "30423#30403#30493",
-      "addImperialDucat": 1300
+      "addImperialDucat": 1300,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32388,
@@ -134807,7 +135276,8 @@
       "addLegendaryToken": 1400,
       "addLegendaryMaterial": 4200,
       "constructionItemIDs": "30423#30403#30493",
-      "addImperialDucat": 1000
+      "addImperialDucat": 1000,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32389,
@@ -134818,7 +135288,8 @@
       "addLegendaryToken": 1350,
       "addLegendaryMaterial": 4050,
       "constructionItemIDs": "30423#30403#30493",
-      "addImperialDucat": 800
+      "addImperialDucat": 800,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32390,
@@ -134829,7 +135300,8 @@
       "addLegendaryToken": 1300,
       "addLegendaryMaterial": 3900,
       "constructionItemIDs": "30423#30403#30493",
-      "addImperialDucat": 600
+      "addImperialDucat": 600,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32391,
@@ -134840,7 +135312,8 @@
       "addLegendaryToken": 1200,
       "addLegendaryMaterial": 3600,
       "constructionItemIDs": "30423#30403#30493",
-      "addImperialDucat": 400
+      "addImperialDucat": 400,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32392,
@@ -134851,7 +135324,8 @@
       "addLegendaryToken": 1000,
       "addLegendaryMaterial": 3000,
       "constructionItemIDs": "30422#30402#30492",
-      "addImperialDucat": 300
+      "addImperialDucat": 300,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32393,
@@ -134862,7 +135336,8 @@
       "addLegendaryToken": 800,
       "addLegendaryMaterial": 2400,
       "constructionItemIDs": "30422#30402#30492",
-      "addImperialDucat": 200
+      "addImperialDucat": 200,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32394,
@@ -134873,7 +135348,8 @@
       "addLegendaryToken": 600,
       "addLegendaryMaterial": 1800,
       "constructionItemIDs": "30422#30402#30492",
-      "addImperialDucat": 100
+      "addImperialDucat": 100,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32395,
@@ -134884,7 +135360,8 @@
       "addLegendaryToken": 500,
       "addLegendaryMaterial": 1500,
       "constructionItemIDs": "30421#30401#30491",
-      "addImperialDucat": 50
+      "addImperialDucat": 50,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32396,
@@ -135490,7 +135967,8 @@
       "rewardID": 32494,
       "comment1": "Rank 4",
       "comment2": "Season Pass Reward #2",
-      "addImperialDucat": 50
+      "addImperialDucat": 50,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32495,
@@ -135586,7 +136064,8 @@
       "rewardID": 32510,
       "comment1": "Rank 8",
       "comment2": "Season Pass Reward #2",
-      "addImperialDucat": 50
+      "addImperialDucat": 50,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32511,
@@ -135682,7 +136161,8 @@
       "rewardID": 32526,
       "comment1": "Rank 12",
       "comment2": "Season Pass Reward #2",
-      "addImperialDucat": 50
+      "addImperialDucat": 50,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32527,
@@ -135778,7 +136258,8 @@
       "rewardID": 32542,
       "comment1": "Rank 16",
       "comment2": "Season Pass Reward #2",
-      "addImperialDucat": 50
+      "addImperialDucat": 50,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32543,
@@ -135874,7 +136355,8 @@
       "rewardID": 32558,
       "comment1": "Rank 20",
       "comment2": "Season Pass Reward #2",
-      "addImperialDucat": 50
+      "addImperialDucat": 50,
+      "ignoreCurrencySoftCap": 1
     },
     {
       "rewardID": 32559,

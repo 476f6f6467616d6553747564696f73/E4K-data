@@ -13981,6 +13981,7 @@
       "wodID": 504,
       "crossplayID": 504,
       "comment1": "Zombie Defender",
+      "comment2": "ARE Necromaner Boss",
       "group": "Unit",
       "name": "Eventunit",
       "type": "ZombieDefender",
@@ -14010,6 +14011,7 @@
       "wodID": 505,
       "crossplayID": 505,
       "comment1": "Zombie Guardian",
+      "comment2": "ARE Necromaner Boss",
       "group": "Unit",
       "name": "Eventunit",
       "type": "ZombieGuardian",
@@ -14039,6 +14041,7 @@
       "wodID": 506,
       "crossplayID": 506,
       "comment1": "Zombie Marksman",
+      "comment2": "ARE Necromaner Boss",
       "group": "Unit",
       "name": "Eventunit",
       "type": "ZombieMarksman",
@@ -18922,6 +18925,7 @@
       "upgradeWodID": 246,
       "typ": "Attack",
       "slotTypes": "1,9",
+      "deleteToolAfterBattle": 1,
       "fightType": 0,
       "sortOrder": 200.01
     },
@@ -18948,6 +18952,7 @@
       "downgradeWodID": 245,
       "typ": "Attack",
       "slotTypes": "1,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 200.02
@@ -18975,6 +18980,7 @@
       "downgradeWodID": 246,
       "typ": "Attack",
       "slotTypes": "1,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 200.03
@@ -19002,6 +19008,7 @@
       "downgradeWodID": 247,
       "typ": "Attack",
       "slotTypes": "1,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 200.04
@@ -19029,6 +19036,7 @@
       "downgradeWodID": 248,
       "typ": "Attack",
       "slotTypes": "1,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 200.05
@@ -19056,6 +19064,7 @@
       "downgradeWodID": 249,
       "typ": "Attack",
       "slotTypes": "1,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 200.06
@@ -19083,6 +19092,7 @@
       "downgradeWodID": 250,
       "typ": "Attack",
       "slotTypes": "1,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 200.07
@@ -19110,6 +19120,7 @@
       "downgradeWodID": 251,
       "typ": "Attack",
       "slotTypes": "1,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 200.08
@@ -19137,6 +19148,7 @@
       "downgradeWodID": 252,
       "typ": "Attack",
       "slotTypes": "1,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 200.09
@@ -19164,6 +19176,7 @@
       "downgradeWodID": 253,
       "typ": "Attack",
       "slotTypes": "1,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 200.1
@@ -19190,6 +19203,7 @@
       "downgradeWodID": 254,
       "typ": "Attack",
       "slotTypes": "1,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 200.11
@@ -19215,6 +19229,7 @@
       "upgradeWodID": 257,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "fightType": 0,
       "sortOrder": 201.01
     },
@@ -19241,6 +19256,7 @@
       "downgradeWodID": 256,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 201.02
@@ -19268,6 +19284,7 @@
       "downgradeWodID": 257,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 201.03
@@ -19295,6 +19312,7 @@
       "downgradeWodID": 258,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 201.04
@@ -19322,6 +19340,7 @@
       "downgradeWodID": 259,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 201.05
@@ -19349,6 +19368,7 @@
       "downgradeWodID": 260,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 201.06
@@ -19376,6 +19396,7 @@
       "downgradeWodID": 261,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 201.07
@@ -19403,6 +19424,7 @@
       "downgradeWodID": 262,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 201.08
@@ -19430,6 +19452,7 @@
       "downgradeWodID": 263,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 201.09
@@ -19457,6 +19480,7 @@
       "downgradeWodID": 264,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 201.1
@@ -19483,6 +19507,7 @@
       "downgradeWodID": 265,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 201.11
@@ -19510,6 +19535,7 @@
       "upgradeWodID": 268,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 202.01
@@ -19538,6 +19564,7 @@
       "downgradeWodID": 267,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 202.02
@@ -19566,6 +19593,7 @@
       "downgradeWodID": 268,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 202.03
@@ -19594,6 +19622,7 @@
       "downgradeWodID": 269,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 202.04
@@ -19622,6 +19651,7 @@
       "downgradeWodID": 270,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 202.05
@@ -19650,6 +19680,7 @@
       "downgradeWodID": 271,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 202.06
@@ -19678,6 +19709,7 @@
       "downgradeWodID": 272,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 202.07
@@ -19706,6 +19738,7 @@
       "downgradeWodID": 273,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 202.08
@@ -19734,6 +19767,7 @@
       "downgradeWodID": 274,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 202.09
@@ -19761,6 +19795,7 @@
       "downgradeWodID": 275,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 202.1
@@ -19788,6 +19823,7 @@
       "upgradeWodID": 279,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 203.01
@@ -19816,6 +19852,7 @@
       "downgradeWodID": 278,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 203.02
@@ -19844,6 +19881,7 @@
       "downgradeWodID": 279,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 203.03
@@ -19872,6 +19910,7 @@
       "downgradeWodID": 280,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 203.04
@@ -19900,6 +19939,7 @@
       "downgradeWodID": 281,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 203.05
@@ -19928,6 +19968,7 @@
       "downgradeWodID": 282,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 203.06
@@ -19956,6 +19997,7 @@
       "downgradeWodID": 283,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 203.07
@@ -19984,6 +20026,7 @@
       "downgradeWodID": 284,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 203.08
@@ -20012,6 +20055,7 @@
       "downgradeWodID": 285,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 203.09
@@ -20039,6 +20083,7 @@
       "downgradeWodID": 286,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 203.1
@@ -20066,6 +20111,7 @@
       "upgradeWodID": 290,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 204.01
@@ -20094,6 +20140,7 @@
       "downgradeWodID": 289,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 204.02
@@ -20122,6 +20169,7 @@
       "downgradeWodID": 290,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 204.03
@@ -20150,6 +20198,7 @@
       "downgradeWodID": 291,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 204.04
@@ -20178,6 +20227,7 @@
       "downgradeWodID": 292,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 204.05
@@ -20206,6 +20256,7 @@
       "downgradeWodID": 293,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 204.06
@@ -20234,6 +20285,7 @@
       "downgradeWodID": 294,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 204.07
@@ -20262,6 +20314,7 @@
       "downgradeWodID": 295,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 204.08
@@ -20290,6 +20343,7 @@
       "downgradeWodID": 296,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 204.09
@@ -20317,6 +20371,7 @@
       "downgradeWodID": 297,
       "typ": "Attack",
       "slotTypes": "1,2,9",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 204.1
@@ -21679,6 +21734,7 @@
       "upgradeWodID": 360,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 210.01,
@@ -21706,6 +21762,7 @@
       "downgradeWodID": 359,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 210.02,
@@ -21733,6 +21790,7 @@
       "downgradeWodID": 360,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 210.03,
@@ -21760,6 +21818,7 @@
       "downgradeWodID": 361,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 210.04,
@@ -21787,6 +21846,7 @@
       "downgradeWodID": 362,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 210.05,
@@ -21814,6 +21874,7 @@
       "downgradeWodID": 363,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 210.06,
@@ -21841,6 +21902,7 @@
       "downgradeWodID": 364,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 210.07,
@@ -21868,6 +21930,7 @@
       "downgradeWodID": 365,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 210.08,
@@ -21895,6 +21958,7 @@
       "downgradeWodID": 366,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 210.09,
@@ -21921,6 +21985,7 @@
       "downgradeWodID": 367,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 210.1,
@@ -21947,6 +22012,7 @@
       "upgradeWodID": 371,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 211.01,
@@ -21974,6 +22040,7 @@
       "downgradeWodID": 370,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 211.02,
@@ -22001,6 +22068,7 @@
       "downgradeWodID": 371,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 211.03,
@@ -22028,6 +22096,7 @@
       "downgradeWodID": 372,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 211.04,
@@ -22055,6 +22124,7 @@
       "downgradeWodID": 373,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 211.05,
@@ -22082,6 +22152,7 @@
       "downgradeWodID": 374,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 211.06,
@@ -22109,6 +22180,7 @@
       "downgradeWodID": 375,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 211.07,
@@ -22136,6 +22208,7 @@
       "downgradeWodID": 376,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 211.08,
@@ -22163,6 +22236,7 @@
       "downgradeWodID": 377,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 211.09,
@@ -22189,6 +22263,7 @@
       "downgradeWodID": 378,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 211.1,
@@ -22436,6 +22511,7 @@
       "downgradeWodID": 566,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 212.01,
@@ -22463,6 +22539,7 @@
       "downgradeWodID": 381,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 212.02,
@@ -22490,6 +22567,7 @@
       "downgradeWodID": 382,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 212.03,
@@ -22517,6 +22595,7 @@
       "downgradeWodID": 383,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 212.04,
@@ -22544,6 +22623,7 @@
       "downgradeWodID": 384,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 212.05,
@@ -22571,6 +22651,7 @@
       "downgradeWodID": 385,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 212.06,
@@ -22598,6 +22679,7 @@
       "downgradeWodID": 386,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 212.07,
@@ -22625,6 +22707,7 @@
       "downgradeWodID": 387,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 212.08,
@@ -22652,6 +22735,7 @@
       "downgradeWodID": 388,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 212.09,
@@ -22678,6 +22762,7 @@
       "downgradeWodID": 389,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 212.1,
@@ -22704,6 +22789,7 @@
       "upgradeWodID": 392,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 213.01,
@@ -22731,6 +22817,7 @@
       "downgradeWodID": 391,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 213.02,
@@ -22758,6 +22845,7 @@
       "downgradeWodID": 392,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 213.03,
@@ -22785,6 +22873,7 @@
       "downgradeWodID": 393,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 213.04,
@@ -22812,6 +22901,7 @@
       "downgradeWodID": 394,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 213.05,
@@ -22839,6 +22929,7 @@
       "downgradeWodID": 395,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 213.06,
@@ -22866,6 +22957,7 @@
       "downgradeWodID": 396,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 213.07,
@@ -22893,6 +22985,7 @@
       "downgradeWodID": 397,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 213.08,
@@ -22920,6 +23013,7 @@
       "downgradeWodID": 398,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 213.09,
@@ -22946,6 +23040,7 @@
       "downgradeWodID": 399,
       "typ": "Attack",
       "slotTypes": "9,10",
+      "deleteToolAfterBattle": 1,
       "researchLocked": 1,
       "fightType": 0,
       "sortOrder": 213.1,
@@ -24356,6 +24451,7 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.11
     },
     {
@@ -24376,6 +24472,7 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.12
     },
     {
@@ -24396,6 +24493,7 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.13
     },
     {
@@ -24416,6 +24514,7 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.14
     },
     {
@@ -24436,6 +24535,7 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.15
     },
     {
@@ -24456,6 +24556,7 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.16
     },
     {
@@ -24476,6 +24577,7 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.17
     },
     {
@@ -24496,6 +24598,7 @@
       "typ": "Attack",
       "slotTypes": "1,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.18
     },
     {
@@ -24516,6 +24619,7 @@
       "typ": "Attack",
       "slotTypes": "1,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.19
     },
     {
@@ -24536,6 +24640,7 @@
       "typ": "Attack",
       "slotTypes": "1,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.2
     },
     {
@@ -24556,6 +24661,7 @@
       "typ": "Attack",
       "slotTypes": "1,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.21
     },
     {
@@ -24576,6 +24682,7 @@
       "typ": "Attack",
       "slotTypes": "1,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.22
     },
     {
@@ -24596,6 +24703,7 @@
       "typ": "Attack",
       "slotTypes": "1,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.23
     },
     {
@@ -24616,6 +24724,7 @@
       "typ": "Attack",
       "slotTypes": "1,9",
       "allowedToAttack": "0+43",
+      "fightType": 0,
       "sortOrder": 219.24
     },
     {
@@ -24637,6 +24746,7 @@
       "slotTypes": 10,
       "allowedToAttack": "0+43",
       "deleteToolAfterBattle": 1,
+      "fightType": 0,
       "sortOrder": 219.32,
       "effects": "439&amp;5"
     },
@@ -24659,6 +24769,7 @@
       "slotTypes": 10,
       "allowedToAttack": "0+43",
       "deleteToolAfterBattle": 1,
+      "fightType": 0,
       "sortOrder": 219.33,
       "effects": "439&amp;15"
     },
@@ -24681,6 +24792,7 @@
       "slotTypes": 10,
       "allowedToAttack": "0+43",
       "deleteToolAfterBattle": 1,
+      "fightType": 0,
       "sortOrder": 219.34,
       "effects": "439&amp;30"
     }

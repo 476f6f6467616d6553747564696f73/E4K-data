@@ -16997,7 +16997,55 @@
       "reuseAssetOfEquipmentID": 907,
       "mightValue": 0,
       "canSlotGem": 0,
-      "skinID": 80
+      "skinID": 56
+    },
+    {
+      "equipmentID": 1380,
+      "crossplayID": 1380,
+      "comment1": "New",
+      "wearerID": 2,
+      "slotID": 5,
+      "effects": "24&amp;8,334&amp;25,66&amp;10",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 137
+    },
+    {
+      "equipmentID": 1381,
+      "crossplayID": 1381,
+      "comment1": "New",
+      "wearerID": 1,
+      "slotID": 5,
+      "effects": "335&amp;45,37&amp;25000",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 138
+    },
+    {
+      "equipmentID": 1382,
+      "crossplayID": 1382,
+      "comment1": "Existing",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 712,
+      "effects": "154&amp;8,157&amp;25,158&amp;10",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 25
+    },
+    {
+      "equipmentID": 1410,
+      "crossplayID": 1410,
+      "comment1": "Existing",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 967,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 83
     }
   ]
 }

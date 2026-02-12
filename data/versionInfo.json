@@ -1,7 +1,7 @@
 {
-  "version": "760.RC.01",
-  "date": "16/01/2026 09:52:02",
+  "version": "762.RC.01",
+  "date": "06/02/2026 12:49:04",
   "included": {
-    "features": "Live,Tuvalu,RerollCastChange,GeneralColours,AttackCapAdjustment"
+    "features": "Live,Uruguay,ToolConsumption,RewardsCapFix,TempServerArbitrage,DonationRebalancing,SubscriptionListFix,ToolFightTypeFix,FebruaryCarnivalGacha,LTPEPermEQFix,ARECommWallGateFix,ToolAutoFill"
   }
 }
