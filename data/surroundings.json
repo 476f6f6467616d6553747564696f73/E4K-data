@@ -60,20 +60,6 @@
       "maxLevel": 99
     },
     {
-      "wodID": 900305,
-      "group": "Surroundings",
-      "name": "FriendshipMonument",
-      "type": "-",
-      "level": 1,
-      "layerType": "isoObject",
-      "gridOrigin": "BOTTOM_RIGHT",
-      "gridOffsetX": -15,
-      "gridOffsetY": 27,
-      "width": 4,
-      "height": 4,
-      "maxLevel": 99
-    },
-    {
       "wodID": 900306,
       "group": "Surroundings",
       "name": "Outpost",

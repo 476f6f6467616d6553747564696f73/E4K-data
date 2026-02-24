@@ -585,6 +585,12 @@
       "crossplayID": 400,
       "type": "Dungeonbaron",
       "wearerID": 1
+    },
+    {
+      "lordID": -401,
+      "crossplayID": -401,
+      "type": "Dungeonbaron",
+      "wearerID": 1
     }
   ]
 }

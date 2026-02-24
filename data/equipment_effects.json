@@ -2290,6 +2290,20 @@
       "effectID": 443,
       "wearerID": 2,
       "name": "infectionRateCourtyardMalus"
+    },
+    {
+      "equipmentEffectID": 171,
+      "crossplayID": 171,
+      "effectID": 463,
+      "wearerID": 2,
+      "name": "raidBossWallRegenerationDelayAllFungalSwarm"
+    },
+    {
+      "equipmentEffectID": 172,
+      "crossplayID": 172,
+      "effectID": 464,
+      "wearerID": 2,
+      "name": "AREreserveUnitKillFungalSwarm"
     }
   ]
 }

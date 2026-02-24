@@ -4396,6 +4396,138 @@
       "setID": 1090,
       "triggerChance": 100,
       "effects": "443&amp;5,450&amp;75"
+    },
+    {
+      "gemID": 478,
+      "crossplayID": 478,
+      "comment1": "Fungal Swarm Set 1",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1091,
+      "triggerChance": 100,
+      "effects": "460&amp;5,455&amp;10"
+    },
+    {
+      "gemID": 479,
+      "crossplayID": 479,
+      "comment1": "Fungal Swarm Set 1",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1091,
+      "triggerChance": 100,
+      "effects": "461&amp;5,457&amp;10"
+    },
+    {
+      "gemID": 480,
+      "crossplayID": 480,
+      "comment1": "Fungal Swarm Set 1",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1091,
+      "triggerChance": 100,
+      "effects": "462&amp;5,455&amp;10"
+    },
+    {
+      "gemID": 481,
+      "crossplayID": 481,
+      "comment1": "Fungal Swarm Set 1",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1091,
+      "triggerChance": 100,
+      "effects": "463&amp;2,457&amp;10"
+    },
+    {
+      "gemID": 482,
+      "crossplayID": 482,
+      "comment1": "Fungal Swarm Set 2",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1092,
+      "triggerChance": 100,
+      "effects": "460&amp;10,455&amp;20"
+    },
+    {
+      "gemID": 483,
+      "crossplayID": 483,
+      "comment1": "Fungal Swarm Set 2",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1092,
+      "triggerChance": 100,
+      "effects": "461&amp;10,457&amp;20"
+    },
+    {
+      "gemID": 484,
+      "crossplayID": 484,
+      "comment1": "Fungal Swarm Set 2",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1092,
+      "triggerChance": 100,
+      "effects": "462&amp;10,455&amp;20"
+    },
+    {
+      "gemID": 485,
+      "crossplayID": 485,
+      "comment1": "Fungal Swarm Set 2",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1092,
+      "triggerChance": 100,
+      "effects": "463&amp;4,457&amp;20"
+    },
+    {
+      "gemID": 486,
+      "crossplayID": 486,
+      "comment1": "Fungal Swarm Set 3",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1093,
+      "triggerChance": 100,
+      "effects": "460&amp;15,455&amp;30"
+    },
+    {
+      "gemID": 487,
+      "crossplayID": 487,
+      "comment1": "Fungal Swarm Set 3",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1093,
+      "triggerChance": 100,
+      "effects": "461&amp;15,457&amp;30"
+    },
+    {
+      "gemID": 488,
+      "crossplayID": 488,
+      "comment1": "Fungal Swarm Set 3",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1093,
+      "triggerChance": 100,
+      "effects": "462&amp;15,455&amp;30"
+    },
+    {
+      "gemID": 489,
+      "crossplayID": 489,
+      "comment1": "Fungal Swarm Set 3",
+      "gemLevelID": 0,
+      "wearerID": 2,
+      "droppable": 1,
+      "setID": 1093,
+      "triggerChance": 100,
+      "effects": "463&amp;6,457&amp;30"
     }
   ]
 }

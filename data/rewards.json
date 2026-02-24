@@ -33140,6 +33140,195 @@
       "toDecoGlobalStorage": 1
     },
     {
+      "rewardID": 9530,
+      "crossplayID": 9530,
+      "comment1": "LowTier Lootbox - Fungal Swarm",
+      "comment2": "Armor",
+      "equipmentIDs": 1445
+    },
+    {
+      "rewardID": 9531,
+      "crossplayID": 9531,
+      "comment1": "LowTier Lootbox - Fungal Swarm",
+      "comment2": "Weapon",
+      "equipmentIDs": 1446
+    },
+    {
+      "rewardID": 9532,
+      "crossplayID": 9532,
+      "comment1": "LowTier Lootbox - Fungal Swarm",
+      "comment2": "Helmet",
+      "equipmentIDs": 1447
+    },
+    {
+      "rewardID": 9533,
+      "crossplayID": 9533,
+      "comment1": "LowTier Lootbox - Fungal Swarm",
+      "comment2": "Artifact",
+      "equipmentIDs": 1448
+    },
+    {
+      "rewardID": 9534,
+      "crossplayID": 9534,
+      "comment1": "LowTier Lootbox - Fungal Swarm",
+      "comment2": "Commander",
+      "equipmentIDs": 1449
+    },
+    {
+      "rewardID": 9535,
+      "crossplayID": 9535,
+      "comment1": "LowTier Lootbox - Fungal Swarm",
+      "comment2": "Gem1",
+      "gemIDs": 478
+    },
+    {
+      "rewardID": 9536,
+      "crossplayID": 9536,
+      "comment1": "LowTier Lootbox - Fungal Swarm",
+      "comment2": "Gem2",
+      "gemIDs": 479
+    },
+    {
+      "rewardID": 9537,
+      "crossplayID": 9537,
+      "comment1": "LowTier Lootbox - Fungal Swarm",
+      "comment2": "Gem3",
+      "gemIDs": 480
+    },
+    {
+      "rewardID": 9538,
+      "crossplayID": 9538,
+      "comment1": "LowTier Lootbox - Fungal Swarm",
+      "comment2": "Gem4",
+      "gemIDs": 481
+    },
+    {
+      "rewardID": 9539,
+      "crossplayID": 9539,
+      "comment1": "MidTier Lootbox - Fungal Swarm",
+      "comment2": "Armor",
+      "equipmentIDs": 1450
+    },
+    {
+      "rewardID": 9540,
+      "crossplayID": 9540,
+      "comment1": "MidTier Lootbox - Fungal Swarm",
+      "comment2": "Weapon",
+      "equipmentIDs": 1451
+    },
+    {
+      "rewardID": 9541,
+      "crossplayID": 9541,
+      "comment1": "MidTier Lootbox - Fungal Swarm",
+      "comment2": "Helmet",
+      "equipmentIDs": 1452
+    },
+    {
+      "rewardID": 9542,
+      "crossplayID": 9542,
+      "comment1": "MidTier Lootbox - Fungal Swarm",
+      "comment2": "Artifact",
+      "equipmentIDs": 1453
+    },
+    {
+      "rewardID": 9543,
+      "crossplayID": 9543,
+      "comment1": "MidTier Lootbox - Fungal Swarm",
+      "comment2": "Commander",
+      "equipmentIDs": 1454
+    },
+    {
+      "rewardID": 9544,
+      "crossplayID": 9544,
+      "comment1": "MidTier Lootbox - Fungal Swarm",
+      "comment2": "Gem1",
+      "gemIDs": 482
+    },
+    {
+      "rewardID": 9545,
+      "crossplayID": 9545,
+      "comment1": "MidTier Lootbox - Fungal Swarm",
+      "comment2": "Gem2",
+      "gemIDs": 483
+    },
+    {
+      "rewardID": 9546,
+      "crossplayID": 9546,
+      "comment1": "MidTier Lootbox - Fungal Swarm",
+      "comment2": "Gem3",
+      "gemIDs": 484
+    },
+    {
+      "rewardID": 9547,
+      "crossplayID": 9547,
+      "comment1": "MidTier Lootbox - Fungal Swarm",
+      "comment2": "Gem4",
+      "gemIDs": 485
+    },
+    {
+      "rewardID": 9548,
+      "crossplayID": 9548,
+      "comment1": "HighTier Lootbox - Fungal Swarm",
+      "comment2": "Armor",
+      "equipmentIDs": 1455
+    },
+    {
+      "rewardID": 9549,
+      "crossplayID": 9549,
+      "comment1": "HighTier Lootbox - Fungal Swarm",
+      "comment2": "Weapon",
+      "equipmentIDs": 1456
+    },
+    {
+      "rewardID": 9550,
+      "crossplayID": 9550,
+      "comment1": "HighTier Lootbox - Fungal Swarm",
+      "comment2": "Helmet",
+      "equipmentIDs": 1457
+    },
+    {
+      "rewardID": 9551,
+      "crossplayID": 9551,
+      "comment1": "HighTier Lootbox - Fungal Swarm",
+      "comment2": "Artifact",
+      "equipmentIDs": 1458
+    },
+    {
+      "rewardID": 9552,
+      "crossplayID": 9552,
+      "comment1": "HighTier Lootbox - Fungal Swarm",
+      "comment2": "Commander",
+      "equipmentIDs": 1459
+    },
+    {
+      "rewardID": 9553,
+      "crossplayID": 9553,
+      "comment1": "HighTier Lootbox - Fungal Swarm",
+      "comment2": "Gem1",
+      "gemIDs": 486
+    },
+    {
+      "rewardID": 9554,
+      "crossplayID": 9554,
+      "comment1": "HighTier Lootbox - Fungal Swarm",
+      "comment2": "Gem2",
+      "gemIDs": 487
+    },
+    {
+      "rewardID": 9555,
+      "crossplayID": 9555,
+      "comment1": "HighTier Lootbox - Fungal Swarm",
+      "comment2": "Gem3",
+      "gemIDs": 488
+    },
+    {
+      "rewardID": 9556,
+      "crossplayID": 9556,
+      "comment1": "HighTier Lootbox - Fungal Swarm",
+      "comment2": "Gem4",
+      "gemIDs": 489
+    },
+    {
       "rewardID": 9567,
       "crossplayID": 9567,
       "comment1": "This should be rank 1",
@@ -120666,179 +120855,6 @@
       "equipmentIDs": 409
     },
     {
-      "rewardID": 497,
-      "comment2": "inviteReward",
-      "currency2": 200
-    },
-    {
-      "rewardID": 498,
-      "comment2": "inviteReward",
-      "currency2": 500
-    },
-    {
-      "rewardID": 499,
-      "comment2": "inviteReward",
-      "wood": 2000,
-      "stone": 2000
-    },
-    {
-      "rewardID": 500,
-      "comment2": "inviteReward",
-      "currency1": 9000
-    },
-    {
-      "rewardID": 628,
-      "comment2": "inviteReward",
-      "units": "630+15#636+15",
-      "hiddenFood": 1440
-    },
-    {
-      "rewardID": 629,
-      "comment2": "inviteReward",
-      "equipmentRarenessID": 4
-    },
-    {
-      "rewardID": 630,
-      "comment2": "inviteReward",
-      "units": "649+50#650+50"
-    },
-    {
-      "rewardID": 631,
-      "comment2": "inviteReward",
-      "units": "648+50#651+50"
-    },
-    {
-      "rewardID": 632,
-      "comment2": "inviteReward",
-      "units": "655+25#656+25",
-      "hiddenFood": 2400
-    },
-    {
-      "rewardID": 633,
-      "comment2": "inviteReward",
-      "addLuckyWheelTicket": 40
-    },
-    {
-      "rewardID": 634,
-      "comment2": "inviteReward",
-      "decoWodID": 323,
-      "toDecoGlobalStorage": 1
-    },
-    {
-      "rewardID": 635,
-      "comment2": "inviteReward",
-      "equipmentIDs": 60
-    },
-    {
-      "rewardID": 636,
-      "comment2": "inviteReward",
-      "units": "655+50#656+50",
-      "hiddenFood": 4800
-    },
-    {
-      "rewardID": 637,
-      "comment2": "inviteReward",
-      "units": "77+200"
-    },
-    {
-      "rewardID": 638,
-      "comment2": "inviteReward",
-      "units": "655+100#656+100",
-      "hiddenFood": 9600
-    },
-    {
-      "rewardID": 639,
-      "comment2": "inviteReward",
-      "equipmentIDs": 68
-    },
-    {
-      "rewardID": 640,
-      "comment2": "inviteReward",
-      "units": "77+300"
-    },
-    {
-      "rewardID": 641,
-      "comment2": "inviteReward",
-      "units": "714+200#715+200",
-      "hiddenFood": 24000
-    },
-    {
-      "rewardID": 642,
-      "comment2": "inviteReward",
-      "units": "714+100#715+100",
-      "hiddenFood": 12000
-    },
-    {
-      "rewardID": 643,
-      "comment2": "inviteReward",
-      "addLuckyWheelTicket": 80
-    },
-    {
-      "rewardID": 644,
-      "comment2": "inviteReward",
-      "equipmentIDs": 64
-    },
-    {
-      "rewardID": 645,
-      "comment2": "inviteReward",
-      "equipmentIDs": 67
-    },
-    {
-      "rewardID": 646,
-      "comment2": "inviteReward",
-      "decoWodID": 97,
-      "toDecoGlobalStorage": 1
-    },
-    {
-      "rewardID": 647,
-      "comment2": "inviteReward",
-      "units": "77+400"
-    },
-    {
-      "rewardID": 648,
-      "comment2": "inviteReward",
-      "units": "714+300#715+300",
-      "hiddenFood": 36000
-    },
-    {
-      "rewardID": 649,
-      "comment2": "inviteReward",
-      "units": "714+400#715+400",
-      "hiddenFood": 48000
-    },
-    {
-      "rewardID": 650,
-      "comment2": "inviteReward",
-      "decoWodID": 98,
-      "toDecoGlobalStorage": 1
-    },
-    {
-      "rewardID": 651,
-      "comment2": "inviteReward",
-      "units": "714+300#715+300",
-      "hiddenFood": 36000
-    },
-    {
-      "rewardID": 652,
-      "comment2": "inviteReward",
-      "equipmentIDs": 59
-    },
-    {
-      "rewardID": 653,
-      "comment2": "inviteReward",
-      "equipmentIDs": 66
-    },
-    {
-      "rewardID": 654,
-      "comment2": "inviteReward",
-      "equipmentIDs": 63
-    },
-    {
-      "rewardID": 655,
-      "comment2": "inviteReward",
-      "equipmentIDs": 65
-    },
-    {
       "rewardID": 678,
       "comment1": "mightReward",
       "comment2": "mightID1",
@@ -140590,6 +140606,15 @@
       "grantType": 2
     },
     {
+      "rewardID": 9629,
+      "comment1": "Necromancer Defeat Reward 11",
+      "comment2": "Lootbox T3 + General Exp",
+      "lootBox": "37+2",
+      "addRiftCoin": 12000,
+      "addGenXP15000": 80,
+      "grantType": 2
+    },
+    {
       "rewardID": 9412,
       "comment1": "Necromancer Activity Reward 1",
       "comment2": "Basic Wall + Gate Tool T1",
@@ -140607,9 +140632,9 @@
     {
       "rewardID": 9414,
       "comment1": "Necromancer Activity Reward 3",
-      "comment2": "WaveItem + Infection Tool T1",
+      "comment2": "WaveItem + Wall Delay All FS Weak",
       "equipmentIDs": 1063,
-      "units": "579+20",
+      "units": "967+5",
       "grantType": 2
     },
     {
@@ -140622,8 +140647,9 @@
     {
       "rewardID": 9416,
       "comment1": "Necromancer Activity Reward 5",
-      "comment2": "Melee Strength CI",
+      "comment2": "Melee Strength CI + Infection Rate Tool T1",
       "constructionItemIDs": "30403+2",
+      "units": "579+4",
       "grantType": 2
     },
     {
@@ -140637,8 +140663,9 @@
     {
       "rewardID": 9418,
       "comment1": "Necromancer Activity Reward 7",
-      "comment2": "Ranged Strength",
+      "comment2": "Ranged Strength + Wall Delay All FS Mid",
       "constructionItemIDs": "30493+2",
+      "units": "971+5",
       "grantType": 2
     },
     {
@@ -140667,9 +140694,9 @@
     {
       "rewardID": 9422,
       "comment1": "Necromancer Activity Reward 11",
-      "comment2": "HoL Small Box + Premium Infection Tool",
+      "comment2": "HoL Small Box + Infection Tool T2",
       "lootBox": "33+3",
-      "units": "580+175",
+      "units": "580+35",
       "grantType": 2
     },
     {
@@ -140979,6 +141006,159 @@
       "comment2": "Rift Coin + LM",
       "addRiftCoin": 100,
       "addLegendaryMaterial": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9631,
+      "comment1": "Necromancer Activity Reward 51",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 100,
+      "addLegendaryToken": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9632,
+      "comment1": "Necromancer Activity Reward 52",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 100,
+      "addLegendaryMaterial": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9633,
+      "comment1": "Necromancer Activity Reward 53",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 100,
+      "addLegendaryToken": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9634,
+      "comment1": "Necromancer Activity Reward 54",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 100,
+      "addLegendaryMaterial": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9635,
+      "comment1": "Necromancer Activity Reward 55",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 100,
+      "addLegendaryToken": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9557,
+      "comment1": "Fungal Swarm Defeat Reward 1",
+      "comment2": "Lootbox T1",
+      "lootBox": "41+1",
+      "units": "214+3000#204+3000",
+      "hiddenMead": 30000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9558,
+      "comment1": "Fungal Swarm Defeat Reward 2",
+      "comment2": "Lootbox T1",
+      "lootBox": "41+1",
+      "units": "214+15000#204+15000",
+      "hiddenMead": 150000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9559,
+      "comment1": "Fungal Swarm Defeat Reward 3",
+      "comment2": "Lootbox T1",
+      "lootBox": "41+1",
+      "addRiftCoin": 100,
+      "units": "214+17000#204+17000",
+      "hiddenMead": 170000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9560,
+      "comment1": "Fungal Swarm Defeat Reward 4",
+      "comment2": "Lootbox T2 + Rift Coin",
+      "lootBox": "41+1",
+      "addRiftCoin": 630,
+      "units": "214+25000#204+25000",
+      "hiddenMead": 250000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9561,
+      "comment1": "Fungal Swarm Defeat Reward 5",
+      "comment2": "Lootbox T2 + Ashira Offering",
+      "lootBox": "41+1",
+      "addRiftCoin": 1750,
+      "units": "214+50000#204+50000",
+      "addAshiraToken": 50,
+      "hiddenMead": 500000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9562,
+      "comment1": "Fungal Swarm Defeat Reward 6",
+      "comment2": "Lootbox T2 + General Exp",
+      "lootBox": "42+1",
+      "addRiftCoin": 2500,
+      "units": "214+62500#204+62500",
+      "addGenXP15000": 65,
+      "hiddenMead": 625000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9563,
+      "comment1": "Fungal Swarm Defeat Reward 7",
+      "comment2": "Lootbox T2 + Plaster",
+      "lootBox": "42+1",
+      "addRiftCoin": 3610,
+      "units": "214+75000#204+75000",
+      "addPlaster": 80,
+      "hiddenMead": 750000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9564,
+      "comment1": "Fungal Swarm Defeat Reward 8",
+      "comment2": "Lootbox T3 + Ashira Offering",
+      "lootBox": "42+1",
+      "addRiftCoin": 6200,
+      "addAshiraToken": 55,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9565,
+      "comment1": "Fungal Swarm Defeat Reward 9",
+      "comment2": "Lootbox T3 + General Exp",
+      "lootBox": "43+1",
+      "addRiftCoin": 9000,
+      "addGenXP15000": 80,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9566,
+      "comment1": "Fungal Swarm Defeat Reward 10",
+      "comment2": "Lootbox T3 + Plaster",
+      "lootBox": "43+2",
+      "addRiftCoin": 12000,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9630,
+      "comment1": "Fungal Swarm Defeat Reward 11",
+      "comment2": "Lootbox T3 + General Exp",
+      "lootBox": "43+2",
+      "addRiftCoin": 12000,
+      "addGenXP15000": 80,
       "grantType": 2
     },
     {

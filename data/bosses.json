@@ -1,8 +1,14 @@
 {
-  "boss": {
-    "id": 1,
-    "name": "Necromancer",
-    "mapId": 1,
-    "animationName": "stages6"
-  }
+  "boss": [
+    {
+      "id": 1,
+      "name": "Necromancer",
+      "mapId": 1
+    },
+    {
+      "id": 2,
+      "name": "FungalSwarm",
+      "mapId": 2
+    }
+  ]
 }

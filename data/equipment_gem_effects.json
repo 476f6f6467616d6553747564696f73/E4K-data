@@ -1024,6 +1024,34 @@
       "name": "equipmentAREOffensiveYardStrBonus",
       "effectTypeID": 33,
       "areaTypeID": 43
+    },
+    {
+      "effectID": 277,
+      "crossplayID": 277,
+      "name": "raidBossWallRegenerationDelayLeftFungalSwarm",
+      "effectTypeID": 209,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 278,
+      "crossplayID": 278,
+      "name": "raidBossWallRegenerationDelayFrontFungalSwarm",
+      "effectTypeID": 210,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 279,
+      "crossplayID": 279,
+      "name": "raidBossWallRegenerationDelayRightFungalSwarm",
+      "effectTypeID": 211,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 280,
+      "crossplayID": 280,
+      "name": "raidBossWallRegenerationDelayAllFungalSwarm",
+      "effectTypeID": 212,
+      "areaTypeID": 43
     }
   ]
 }

@@ -1,61 +1,120 @@
 {
-  "map": {
-    "id": 1,
-    "comment": "6 stages map",
-    "animation": {
-      "linkageId": "Component_ARE_Overview_BossSlots_A",
-      "name": "stages6",
-      "asset": [
-        {
-          "target": "units",
-          "asset": "Necromancer_Boss_Units"
-        },
-        {
-          "target": "keep_1",
-          "asset": "Necromancer_Keep_1",
-          "stages": "1,2"
-        },
-        {
-          "target": "keep_2",
-          "asset": "Necromancer_Keep_2",
-          "stages": "3,4"
-        },
-        {
-          "target": "keep_3",
-          "asset": "Necromancer_Keep_3",
-          "stages": "5,6"
-        },
-        {
-          "target": "left_wall",
-          "asset": "Necromancer_LeftWall",
-          "leftWallReg": 0
-        },
-        {
-          "target": "left_wall_reg",
-          "asset": "Necromancer_LeftWall_Regenerate",
-          "leftWallReg": 1
-        },
-        {
-          "target": "right_wall",
-          "asset": "Necromancer_RightWall",
-          "rightWallReg": 0
-        },
-        {
-          "target": "right_wall_reg",
-          "asset": "Necromancer_RightWall_Regenerate",
-          "rightWallReg": 1
-        },
-        {
-          "target": "gate",
-          "asset": "Necromancer_Gate",
-          "gateReg": 0
-        },
-        {
-          "target": "gate_reg",
-          "asset": "Necromancer_Gate_Regenerate",
-          "gateReg": 1
-        }
-      ]
+  "map": [
+    {
+      "id": 1,
+      "animation": {
+        "linkageId": "Component_ARE_Overview_BossSlots_B",
+        "name": "idle",
+        "asset": [
+          {
+            "target": "units",
+            "asset": "Necromancer_B_Boss_Units"
+          },
+          {
+            "target": "keep_1",
+            "asset": "Necromancer_B_Keep_1",
+            "stages": "1,2"
+          },
+          {
+            "target": "keep_2",
+            "asset": "Necromancer_B_Keep_2",
+            "stages": "3,4"
+          },
+          {
+            "target": "keep_3",
+            "asset": "Necromancer_B_Keep_3",
+            "stages": "5,6"
+          },
+          {
+            "target": "left_wall",
+            "asset": "Necromancer_B_LeftWall",
+            "leftWallReg": 0
+          },
+          {
+            "target": "left_wall_reg",
+            "asset": "Necromancer_B_LeftWall_Regenerate",
+            "leftWallReg": 1
+          },
+          {
+            "target": "right_wall",
+            "asset": "Necromancer_B_RightWall",
+            "rightWallReg": 0
+          },
+          {
+            "target": "right_wall_reg",
+            "asset": "Necromancer_B_RightWall_Regenerate",
+            "rightWallReg": 1
+          },
+          {
+            "target": "gate",
+            "asset": "Necromancer_B_Gate",
+            "gateReg": 0
+          },
+          {
+            "target": "gate_reg",
+            "asset": "Necromancer_B_Gate_Regenerate",
+            "gateReg": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "animation": {
+        "linkageId": "Component_ARE_Overview_BossSlots_B",
+        "name": "idle",
+        "asset": [
+          {
+            "target": "units",
+            "asset": "FungalSwarm_Boss_Units"
+          },
+          {
+            "target": "keep_1",
+            "asset": "FungalSwarm_Keep_1",
+            "stages": "1,2"
+          },
+          {
+            "target": "keep_2",
+            "asset": "FungalSwarm_Keep_2",
+            "stages": "3,4"
+          },
+          {
+            "target": "keep_3",
+            "asset": "FungalSwarm_Keep_3",
+            "stages": "5,6"
+          },
+          {
+            "target": "left_wall",
+            "asset": "FungalSwarm_LeftWall",
+            "leftWallReg": 0
+          },
+          {
+            "target": "left_wall_reg",
+            "asset": "FungalSwarm_LeftWall_Regenerate",
+            "leftWallReg": 1
+          },
+          {
+            "target": "right_wall",
+            "asset": "FungalSwarm_RightWall",
+            "rightWallReg": 0
+          },
+          {
+            "target": "right_wall_reg",
+            "asset": "FungalSwarm_RightWall_Regenerate",
+            "rightWallReg": 1
+          },
+          {
+            "target": "gate",
+            "asset": "FungalSwarm_Gate",
+            "gateReg": 0
+          },
+          {
+            "target": "gate_reg",
+            "asset": "FungalSwarm_Gate_Regenerate",
+            "gateReg": 1
+          }
+        ]
+      }
     }
-  }
+  ]
 }

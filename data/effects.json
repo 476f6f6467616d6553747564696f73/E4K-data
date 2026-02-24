@@ -3957,7 +3957,8 @@
       "name": "infectionRateBaseMalus",
       "effectTypeID": 202,
       "capID": 99,
-      "areaTypeID": 43
+      "areaTypeID": 43,
+      "raidBossID": 1
     },
     {
       "effectID": 440,
@@ -3965,7 +3966,8 @@
       "name": "infectionRateMeleeMalus",
       "effectTypeID": 203,
       "capID": 99,
-      "areaTypeID": 43
+      "areaTypeID": 43,
+      "raidBossID": 1
     },
     {
       "effectID": 441,
@@ -3973,7 +3975,8 @@
       "name": "infectionRateRangeMalus",
       "effectTypeID": 204,
       "capID": 99,
-      "areaTypeID": 43
+      "areaTypeID": 43,
+      "raidBossID": 1
     },
     {
       "effectID": 442,
@@ -3981,7 +3984,8 @@
       "name": "infectionRateWallMalus",
       "effectTypeID": 205,
       "capID": 99,
-      "areaTypeID": 43
+      "areaTypeID": 43,
+      "raidBossID": 1
     },
     {
       "effectID": 443,
@@ -3989,7 +3993,8 @@
       "name": "infectionRateCourtyardMalus",
       "effectTypeID": 206,
       "capID": 99,
-      "areaTypeID": 43
+      "areaTypeID": 43,
+      "raidBossID": 1
     },
     {
       "effectID": 444,
@@ -4116,6 +4121,67 @@
       "crossplayID": 459,
       "name": "equipmentAREAttackUnitAmountFront",
       "effectTypeID": 34,
+      "capID": 99,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 460,
+      "crossplayID": 460,
+      "name": "raidBossWallRegenerationDelayLeft",
+      "effectTypeID": 209,
+      "capID": 99,
+      "areaTypeID": 43,
+      "raidBossID": 2
+    },
+    {
+      "effectID": 461,
+      "crossplayID": 461,
+      "name": "raidBossWallRegenerationDelayFront",
+      "effectTypeID": 210,
+      "capID": 99,
+      "areaTypeID": 43,
+      "raidBossID": 2
+    },
+    {
+      "effectID": 462,
+      "crossplayID": 462,
+      "name": "raidBossWallRegenerationDelayRight",
+      "effectTypeID": 211,
+      "capID": 99,
+      "areaTypeID": 43,
+      "raidBossID": 2
+    },
+    {
+      "effectID": 463,
+      "crossplayID": 463,
+      "name": "raidBossWallRegenerationDelayAll",
+      "effectTypeID": 212,
+      "capID": 99,
+      "areaTypeID": 43,
+      "raidBossID": 2
+    },
+    {
+      "effectID": 464,
+      "crossplayID": 464,
+      "name": "reserveUnitKill",
+      "effectTypeID": 208,
+      "capID": 99,
+      "areaTypeID": 43,
+      "raidBossID": 2
+    },
+    {
+      "effectID": 465,
+      "crossplayID": 465,
+      "name": "spawnReserveUnit",
+      "effectTypeID": 213,
+      "capID": 99,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 466,
+      "crossplayID": 466,
+      "name": "mutateReserveUnit",
+      "effectTypeID": 214,
       "capID": 99,
       "areaTypeID": 43
     },

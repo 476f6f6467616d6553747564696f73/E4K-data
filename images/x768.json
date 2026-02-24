@@ -29109,6 +29109,21 @@
       }
     ]
   },
+  "Castle_Landscape_AllianceRaidPortal_FungalSwarm": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/DetailView_Background/Castle_Landscape_AllianceRaidPortal_FungalSwarm.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1002,
+        "h": 1754,
+        "rx": 899,
+        "ry": 123
+      }
+    ],
+    "fx": []
+  },
   "Castle_Landscape_AllianceRaidPortal_Necromancer": {
     "pid": 2,
     "url": "x768/CastleDetailView/DetailView_Background/Castle_Landscape_AllianceRaidPortal_Necromancer.png",
@@ -39718,6 +39733,96 @@
     ],
     "fx": []
   },
+  "AllianceRaidPortal_FungalSwarm_Keep_1": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_FungalSwarm_Keep_131_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 252,
+        "rx": 1257,
+        "ry": 992
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_FungalSwarm_Keep_2": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_FungalSwarm_Keep_131_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 252,
+        "rx": 1257,
+        "ry": 992
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_FungalSwarm_Keep_3": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_FungalSwarm_Keep_132_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 246,
+        "rx": 1256,
+        "ry": 1003
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_FungalSwarm_Keep_4": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_FungalSwarm_Keep_132_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 246,
+        "rx": 1256,
+        "ry": 1003
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_FungalSwarm_Keep_5": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_FungalSwarm_Keep_133_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 250,
+        "h": 199,
+        "rx": 1256,
+        "ry": 1050
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_FungalSwarm_Keep_6": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_FungalSwarm_Keep_133_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 250,
+        "h": 199,
+        "rx": 1256,
+        "ry": 1050
+      }
+    ],
+    "fx": []
+  },
   "AllianceRaidPortal_Necromancer_Keep_2": {
     "pid": 2,
     "url": "x768/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_Necromancer_Keep_128_Shared.png",
@@ -39804,6 +39909,96 @@
         "h": 158,
         "rx": 1252,
         "ry": 1074
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_FungalSwarm_Gate_Damaged": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Gate_Damaged.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 143,
+        "rx": 1272,
+        "ry": 1150
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_FungalSwarm_Gate": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Gate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 222,
+        "h": 146,
+        "rx": 1271,
+        "ry": 1147
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_FungalSwarm_Wall_Left_Damaged": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Left_Damaged.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 167,
+        "h": 99,
+        "rx": 1153,
+        "ry": 1188
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_FungalSwarm_Wall_Left": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 137,
+        "rx": 1154,
+        "ry": 1149
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_FungalSwarm_Wall_Right_Damaged": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Right_Damaged.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 184,
+        "h": 111,
+        "rx": 1428,
+        "ry": 1181
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_FungalSwarm_Wall_Right": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 184,
+        "h": 151,
+        "rx": 1430,
+        "ry": 1141
       }
     ],
     "fx": []
@@ -59573,8 +59768,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 1537,
-        "h": 2415,
+        "w": 2421,
+        "h": 2435,
         "rx": 999,
         "ry": 999
       }
@@ -59588,8 +59783,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 1537,
-        "h": 2415,
+        "w": 2421,
+        "h": 2435,
         "rx": 999,
         "ry": 999
       }
@@ -59603,8 +59798,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 1083,
-        "h": 2254,
+        "w": 1713,
+        "h": 2175,
         "rx": 999,
         "ry": 999
       }
@@ -59618,8 +59813,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 1083,
-        "h": 2262,
+        "w": 1713,
+        "h": 2189,
         "rx": 999,
         "ry": 999
       }
@@ -59633,8 +59828,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 1472,
-        "h": 2414,
+        "w": 2355,
+        "h": 2435,
         "rx": 999,
         "ry": 999
       }
@@ -59648,8 +59843,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 1480,
-        "h": 2414,
+        "w": 2363,
+        "h": 2435,
         "rx": 999,
         "ry": 999
       }
@@ -59663,8 +59858,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 1460,
-        "h": 2414,
+        "w": 2363,
+        "h": 2435,
         "rx": 999,
         "ry": 999
       }
@@ -59678,8 +59873,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 588,
-        "h": 2222,
+        "w": 921,
+        "h": 2124,
         "rx": 999,
         "ry": 999
       }
@@ -59693,8 +59888,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 588,
-        "h": 2221,
+        "w": 921,
+        "h": 2125,
         "rx": 999,
         "ry": 999
       }
@@ -59708,8 +59903,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 1352,
-        "h": 2254,
+        "w": 2143,
+        "h": 2177,
         "rx": 999,
         "ry": 999
       }
@@ -59723,8 +59918,23 @@
       {
         "x": 0,
         "y": 0,
-        "w": 1352,
-        "h": 2255,
+        "w": 2143,
+        "h": 2177,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Overview_Necromancer_B": {
+    "pid": 2,
+    "url": "x768/Characters/RaidBosses/RaidBoss_Necromancer/RaidBoss_Necromancer/Background_Overview_Necromancer_B.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
+        "h": 2435,
         "rx": 999,
         "ry": 999
       }
@@ -59740,6 +59950,156 @@
         "y": 0,
         "w": 2402,
         "h": 2414,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Necromancer_B_Boss_Units": {
+    "pid": 2,
+    "url": "x768/Characters/RaidBosses/RaidBoss_Necromancer/RaidBoss_Necromancer/Necromancer_B_Boss_Units.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
+        "h": 2436,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Necromancer_B_Gate_Regenerate": {
+    "pid": 0,
+    "url": "x768/Characters/RaidBosses/RaidBoss_Necromancer/RaidBoss_Necromancer/Necromancer_B_Gate_Regenerate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1712,
+        "h": 2192,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Necromancer_B_Gate": {
+    "pid": 0,
+    "url": "x768/Characters/RaidBosses/RaidBoss_Necromancer/RaidBoss_Necromancer/Necromancer_B_Gate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1712,
+        "h": 2192,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Necromancer_B_Keep_1": {
+    "pid": 0,
+    "url": "x768/Characters/RaidBosses/RaidBoss_Necromancer/RaidBoss_Necromancer/Necromancer_B_Keep_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2230,
+        "h": 1896,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Necromancer_B_Keep_2": {
+    "pid": 0,
+    "url": "x768/Characters/RaidBosses/RaidBoss_Necromancer/RaidBoss_Necromancer/Necromancer_B_Keep_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1343,
+        "h": 1509,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Necromancer_B_Keep_3": {
+    "pid": 0,
+    "url": "x768/Characters/RaidBosses/RaidBoss_Necromancer/RaidBoss_Necromancer/Necromancer_B_Keep_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1828,
+        "h": 1897,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Necromancer_B_LeftWall_Regenerate": {
+    "pid": 0,
+    "url": "x768/Characters/RaidBosses/RaidBoss_Necromancer/RaidBoss_Necromancer/Necromancer_B_LeftWall_Regenerate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 853,
+        "h": 2147,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Necromancer_B_LeftWall": {
+    "pid": 0,
+    "url": "x768/Characters/RaidBosses/RaidBoss_Necromancer/RaidBoss_Necromancer/Necromancer_B_LeftWall.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 859,
+        "h": 2147,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Necromancer_B_RightWall_Regenerate": {
+    "pid": 0,
+    "url": "x768/Characters/RaidBosses/RaidBoss_Necromancer/RaidBoss_Necromancer/Necromancer_B_RightWall_Regenerate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2163,
+        "h": 2180,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Necromancer_B_RightWall": {
+    "pid": 0,
+    "url": "x768/Characters/RaidBosses/RaidBoss_Necromancer/RaidBoss_Necromancer/Necromancer_B_RightWall.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2144,
+        "h": 2153,
         "rx": 999,
         "ry": 999
       }
@@ -76803,21 +77163,6 @@
     ],
     "fx": []
   },
-  "items_unique_1369": {
-    "pid": 2,
-    "url": "x768/Equipment/EquipmentShared/items_unique_1369_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 129,
-        "h": 129,
-        "rx": 935,
-        "ry": 935
-      }
-    ],
-    "fx": []
-  },
   "items_unique_1370": {
     "pid": 2,
     "url": "x768/Equipment/EquipmentShared/items_unique_1370_Shared.png",
@@ -76878,21 +77223,6 @@
     ],
     "fx": []
   },
-  "items_unique_1374": {
-    "pid": 2,
-    "url": "x768/Equipment/EquipmentShared/items_unique_1374_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 129,
-        "h": 129,
-        "rx": 935,
-        "ry": 935
-      }
-    ],
-    "fx": []
-  },
   "items_unique_1375": {
     "pid": 2,
     "url": "x768/Equipment/EquipmentShared/items_unique_1375_Shared.png",
@@ -76941,21 +77271,6 @@
   "items_unique_1378": {
     "pid": 2,
     "url": "x768/Equipment/EquipmentShared/items_unique_1378_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 129,
-        "h": 129,
-        "rx": 935,
-        "ry": 935
-      }
-    ],
-    "fx": []
-  },
-  "items_unique_1379": {
-    "pid": 2,
-    "url": "x768/Equipment/EquipmentShared/items_unique_1379_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -77118,21 +77433,6 @@
     ],
     "fx": []
   },
-  "items_unique_1449": {
-    "pid": 2,
-    "url": "x768/Equipment/EquipmentShared/items_unique_1449_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 129,
-        "h": 129,
-        "rx": 935,
-        "ry": 935
-      }
-    ],
-    "fx": []
-  },
   "items_unique_1450": {
     "pid": 2,
     "url": "x768/Equipment/EquipmentShared/items_unique_1450_Shared.png",
@@ -77193,21 +77493,6 @@
     ],
     "fx": []
   },
-  "items_unique_1454": {
-    "pid": 2,
-    "url": "x768/Equipment/EquipmentShared/items_unique_1454_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 129,
-        "h": 129,
-        "rx": 935,
-        "ry": 935
-      }
-    ],
-    "fx": []
-  },
   "items_unique_1455": {
     "pid": 2,
     "url": "x768/Equipment/EquipmentShared/items_unique_1455_Shared.png",
@@ -77256,21 +77541,6 @@
   "items_unique_1458": {
     "pid": 2,
     "url": "x768/Equipment/EquipmentShared/items_unique_1458_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 129,
-        "h": 129,
-        "rx": 935,
-        "ry": 935
-      }
-    ],
-    "fx": []
-  },
-  "items_unique_1459": {
-    "pid": 2,
-    "url": "x768/Equipment/EquipmentShared/items_unique_1459_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -84352,6 +84622,96 @@
         "h": 103,
         "rx": 944,
         "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "Hero_1369": {
+    "pid": 2,
+    "url": "x768/Heroes/Heroes/Hero_1369.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "Hero_1374": {
+    "pid": 2,
+    "url": "x768/Heroes/Heroes/Hero_1374.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "Hero_1379": {
+    "pid": 2,
+    "url": "x768/Heroes/Heroes/Hero_1379.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "Hero_1449": {
+    "pid": 2,
+    "url": "x768/Heroes/Heroes/Hero_1449.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "Hero_1454": {
+    "pid": 2,
+    "url": "x768/Heroes/Heroes/Hero_1454.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "Hero_1459": {
+    "pid": 2,
+    "url": "x768/Heroes/Heroes/Hero_1459.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
       }
     ],
     "fx": []
@@ -124211,6 +124571,21 @@
     ],
     "fx": []
   },
+  "icon_effect_reserveUnitKill": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_killAttackingAnyTroopsYard_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_killAttackingTroopsYard": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_killAttackingMeleeTroopsYard_Shared.png",
@@ -124522,6 +124897,36 @@
         "h": 41,
         "rx": 957,
         "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_mutateReserveUnit_medium": {
+    "pid": 2,
+    "url": "x768/Icons/IconsShared/icon_effect_mutateReserveUnit_medium_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 101,
+        "rx": 949,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_mutateReserveUnit": {
+    "pid": 2,
+    "url": "x768/Icons/IconsShared/icon_effect_mutateReserveUnit_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
       }
     ],
     "fx": []
@@ -124912,6 +125317,36 @@
         "h": 58,
         "rx": 966,
         "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_spawnReserveUnit_medium": {
+    "pid": 2,
+    "url": "x768/Icons/IconsShared/icon_effect_spawnReserveUnit_medium_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 101,
+        "rx": 949,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_spawnReserveUnit": {
+    "pid": 2,
+    "url": "x768/Icons/IconsShared/icon_effect_spawnReserveUnit_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
       }
     ],
     "fx": []
@@ -135832,6 +136267,21 @@
         "h": 413,
         "rx": 389,
         "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_final_boss_level_defeated_FungalSwarm": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceRaidTeasers/teaser_are_final_boss_level_defeated_FungalSwarm.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 2415,
+        "rx": 999,
+        "ry": 999
       }
     ],
     "fx": []
@@ -153963,6 +154413,276 @@
         "h": 172,
         "rx": 932,
         "ry": 914
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmSporeKillingToolMeleeMedium": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmSporeKillingToolMeleeMedium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 181,
+        "h": 204,
+        "rx": 909,
+        "ry": 898
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmSporeKillingToolMeleeStrong": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmSporeKillingToolMeleeStrong.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 181,
+        "h": 204,
+        "rx": 909,
+        "ry": 898
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmSporeKillingToolMeleeWeak": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmSporeKillingToolMeleeWeak.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 181,
+        "h": 204,
+        "rx": 909,
+        "ry": 898
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmSporeKillingToolRangedMedium": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmSporeKillingToolRangedMedium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 182,
+        "rx": 896,
+        "ry": 909
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmSporeKillingToolRangedStrong": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmSporeKillingToolRangedStrong.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 182,
+        "rx": 896,
+        "ry": 909
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmSporeKillingToolRangedWeak": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmSporeKillingToolRangedWeak.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 182,
+        "rx": 896,
+        "ry": 909
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseAllNormal": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseAllNormal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 204,
+        "h": 192,
+        "rx": 901,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseAllStrong": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseAllStrong.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 204,
+        "h": 193,
+        "rx": 901,
+        "ry": 905
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseAllWeak": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseAllWeak.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 204,
+        "h": 193,
+        "rx": 901,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseFrontNormal": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseFrontNormal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 194,
+        "rx": 940,
+        "ry": 901
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseFrontStrong": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseFrontStrong.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 194,
+        "rx": 940,
+        "ry": 901
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseFrontWeak": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseFrontWeak.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 194,
+        "rx": 940,
+        "ry": 901
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseLeftNormal": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseLeftNormal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 144,
+        "rx": 923,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseLeftStrong": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseLeftStrong.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 144,
+        "rx": 923,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseLeftWeak": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseLeftWeak.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 144,
+        "rx": 923,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseRightNormal": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseRightNormal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 172,
+        "h": 144,
+        "rx": 920,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseRightStrong": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseRightStrong.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 172,
+        "h": 144,
+        "rx": 920,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREFungalSwarmWallDelayIncreaseRightWeak": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmWallDelayIncreaseRightWeak.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 172,
+        "h": 144,
+        "rx": 920,
+        "ry": 939
       }
     ],
     "fx": []

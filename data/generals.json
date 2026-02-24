@@ -437,6 +437,45 @@
       "isPreview": 0,
       "isNPCGeneral": 1,
       "isHiddenInOverview": 1
+    },
+    {
+      "generalID": 131,
+      "crossplayID": 131,
+      "generalName": "RaidBoss2Full",
+      "generalRarityID": 1,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10000,
+      "upgradeCurrencyIDs": "10000,10000",
+      "isPreview": 0,
+      "isNPCGeneral": 1,
+      "isHiddenInOverview": 1
+    },
+    {
+      "generalID": 132,
+      "crossplayID": 132,
+      "generalName": "RaidBoss2Mid",
+      "generalRarityID": 1,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10000,
+      "upgradeCurrencyIDs": "10000,10000",
+      "isPreview": 0,
+      "isNPCGeneral": 1,
+      "isHiddenInOverview": 1
+    },
+    {
+      "generalID": 133,
+      "crossplayID": 133,
+      "generalName": "RaidBoss2Low",
+      "generalRarityID": 1,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10000,
+      "upgradeCurrencyIDs": "10000,10000",
+      "isPreview": 0,
+      "isNPCGeneral": 1,
+      "isHiddenInOverview": 1
     }
   ]
 }

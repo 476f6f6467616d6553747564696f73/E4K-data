@@ -1515,6 +1515,62 @@
       "name": "raidBossWallRegeneration",
       "sortCategory": 6,
       "sortGroup": 42
+    },
+    {
+      "effectTypeID": 208,
+      "crossplayID": 208,
+      "combatType": 3,
+      "name": "reserveUnitKill",
+      "sortCategory": 6,
+      "sortGroup": 47
+    },
+    {
+      "effectTypeID": 209,
+      "crossplayID": 209,
+      "combatType": 3,
+      "name": "raidBossWallRegenerationDelayLeft",
+      "sortCategory": 6,
+      "sortGroup": 43
+    },
+    {
+      "effectTypeID": 210,
+      "crossplayID": 210,
+      "combatType": 3,
+      "name": "raidBossWallRegenerationDelayFront",
+      "sortCategory": 6,
+      "sortGroup": 44
+    },
+    {
+      "effectTypeID": 211,
+      "crossplayID": 211,
+      "combatType": 3,
+      "name": "raidBossWallRegenerationDelayRight",
+      "sortCategory": 6,
+      "sortGroup": 45
+    },
+    {
+      "effectTypeID": 212,
+      "crossplayID": 212,
+      "combatType": 3,
+      "name": "raidBossWallRegenerationDelayAll",
+      "sortCategory": 6,
+      "sortGroup": 46
+    },
+    {
+      "effectTypeID": 213,
+      "crossplayID": 213,
+      "combatType": 3,
+      "name": "spawnReserveUnit",
+      "sortCategory": 6,
+      "sortGroup": 47
+    },
+    {
+      "effectTypeID": 214,
+      "crossplayID": 214,
+      "combatType": 3,
+      "name": "mutateReserveUnit",
+      "sortCategory": 6,
+      "sortGroup": 47
     }
   ]
 }

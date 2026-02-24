@@ -122,7 +122,6 @@ export interface Data {
     globalEffects: GlobalEffect[];
     highscoreboni: HighscoreBonus[];
     horses: Horse[];
-    inviterewardsteps: InviteRewardStep[];
     islandPlayerRewards: IslandPlayerReward[];
     islandPreBuiltCastles: IslandPreBuiltCastle[];
     islandrewardranks: IslandRewardRank[];
@@ -624,7 +623,6 @@ export interface BossDungeon {
 }
 
 export interface Boss {
-    "animationName": string;
     "id": number;
     "mapId": number;
     "name": string;
@@ -1300,6 +1298,7 @@ export interface Effect {
     "isPvPFight"?: number;
     "name": string;
     "playerRelation"?: string;
+    "raidBossID"?: number;
     "sortOrder"?: string;
     "spaceIDs"?: number | string;
 }
@@ -1939,14 +1938,6 @@ export interface Horse {
     "wodID": number;
 }
 
-export interface InviteRewardStep {
-    "countFriends": number;
-    "inviteRewardstepID": number;
-    "relatedOfferID": number;
-    "requiredFriendLevel": number;
-    "rewardID": number;
-}
-
 export interface IslandPlayerReward {
     "cargoPointRequirement": number;
     "islandPlayerRewardID": number;
@@ -2274,7 +2265,6 @@ export interface Map {
         "linkageId": string;
         "name": string;
     };
-    "comment": string;
     "id": number;
 }
 
@@ -2849,11 +2839,12 @@ export interface RaidBossLevel {
 
 export interface RaidBossStage {
     "HighlightEffectIcon": number | string;
-    "attackerBattleEffects": string;
-    "attackerPostBattleEffects": string;
+    "attackerBattleEffects"?: string;
+    "attackerPostBattleEffects"?: string;
     "courtyardPointFactor": number;
     "defenderBattleEffects": string;
     "defenderStageEffects"?: string;
+    "defenderWallRegenerationEffects"?: string;
     "frontWallUnits": string;
     "generalID": number;
     "health": number;
@@ -3653,6 +3644,7 @@ export interface Unit {
     "downgradeWodID"?: number;
     "effects"?: string;
     "eventIDs"?: number | string;
+    "extraBossHealthUnit"?: number;
     "factionID"?: number;
     "fameAsDef"?: number;
     "fameAsOff"?: number;
@@ -3668,6 +3660,7 @@ export interface Unit {
     "healingTime"?: number;
     "hybrid"?: number;
     "isAuxiliary"?: number;
+    "isDormant"?: number;
     "isKamikaze"?: number;
     "isYardTool"?: number;
     "kIDs"?: number | string;

@@ -1,7 +1,7 @@
 {
-  "version": "762.RC.01",
-  "date": "06/02/2026 12:49:04",
+  "version": "763.RC.02",
+  "date": "20/02/2026 13:50:01",
   "included": {
-    "features": "Live,Uruguay,ToolConsumption,RewardsCapFix,TempServerArbitrage,DonationRebalancing,SubscriptionListFix,ToolFightTypeFix,FebruaryCarnivalGacha,LTPEPermEQFix,ARECommWallGateFix,ToolAutoFill"
+    "features": "Live,ARE2,AREBlacksmithPackageRebalance,CRMCampaignFebruary,RemoveInviteREwardsQuests,ARE2Final"
   }
 }

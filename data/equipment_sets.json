@@ -4354,6 +4354,174 @@
       "setID": 1090,
       "neededItems": 9,
       "effects": "156&amp;300"
+    },
+    {
+      "ID": 588,
+      "comment1": "9 piece ARE Fungal Swarm set 1",
+      "setID": 1091,
+      "neededItems": 2,
+      "effects": "172&amp;597+500"
+    },
+    {
+      "ID": 589,
+      "comment1": "9 piece ARE Fungal Swarm set 1",
+      "setID": 1091,
+      "neededItems": 3,
+      "effects": "159&amp;145"
+    },
+    {
+      "ID": 590,
+      "comment1": "9 piece ARE Fungal Swarm set 1",
+      "setID": 1091,
+      "neededItems": 4,
+      "effects": "172&amp;594+500"
+    },
+    {
+      "ID": 591,
+      "comment1": "9 piece ARE Fungal Swarm set 1",
+      "setID": 1091,
+      "neededItems": 5,
+      "effects": "162&amp;35"
+    },
+    {
+      "ID": 592,
+      "comment1": "9 piece ARE Fungal Swarm set 1",
+      "setID": 1091,
+      "neededItems": 6,
+      "effects": "171&amp;5"
+    },
+    {
+      "ID": 593,
+      "comment1": "9 piece ARE Fungal Swarm set 1",
+      "setID": 1091,
+      "neededItems": 7,
+      "effects": "164&amp;55"
+    },
+    {
+      "ID": 594,
+      "comment1": "9 piece ARE Fungal Swarm set 1",
+      "setID": 1091,
+      "neededItems": 8,
+      "effects": "171&amp;5"
+    },
+    {
+      "ID": 595,
+      "comment1": "9 piece ARE Fungal Swarm set 1",
+      "setID": 1091,
+      "neededItems": 9,
+      "effects": "158&amp;60"
+    },
+    {
+      "ID": 596,
+      "comment1": "9 piece ARE Fungal Swarm set 2",
+      "setID": 1092,
+      "neededItems": 2,
+      "effects": "172&amp;597+1000"
+    },
+    {
+      "ID": 597,
+      "comment1": "9 piece ARE Fungal Swarm set 2",
+      "setID": 1092,
+      "neededItems": 3,
+      "effects": "159&amp;185"
+    },
+    {
+      "ID": 598,
+      "comment1": "9 piece ARE Fungal Swarm set 2",
+      "setID": 1092,
+      "neededItems": 4,
+      "effects": "172&amp;594+1000"
+    },
+    {
+      "ID": 599,
+      "comment1": "9 piece ARE Fungal Swarm set 2",
+      "setID": 1092,
+      "neededItems": 5,
+      "effects": "162&amp;130"
+    },
+    {
+      "ID": 600,
+      "comment1": "9 piece ARE Fungal Swarm set 2",
+      "setID": 1092,
+      "neededItems": 6,
+      "effects": "171&amp;10"
+    },
+    {
+      "ID": 601,
+      "comment1": "9 piece ARE Fungal Swarm set 2",
+      "setID": 1092,
+      "neededItems": 7,
+      "effects": "164&amp;140"
+    },
+    {
+      "ID": 602,
+      "comment1": "9 piece ARE Fungal Swarm set 2",
+      "setID": 1092,
+      "neededItems": 8,
+      "effects": "171&amp;10"
+    },
+    {
+      "ID": 603,
+      "comment1": "9 piece ARE Fungal Swarm set 2",
+      "setID": 1092,
+      "neededItems": 9,
+      "effects": "158&amp;90"
+    },
+    {
+      "ID": 604,
+      "comment1": "9 piece ARE Fungal Swarm set 3",
+      "setID": 1093,
+      "neededItems": 2,
+      "effects": "172&amp;597+1500"
+    },
+    {
+      "ID": 605,
+      "comment1": "9 piece ARE Fungal Swarm set 3",
+      "setID": 1093,
+      "neededItems": 3,
+      "effects": "159&amp;220"
+    },
+    {
+      "ID": 606,
+      "comment1": "9 piece ARE Fungal Swarm set 3",
+      "setID": 1093,
+      "neededItems": 4,
+      "effects": "172&amp;594+1500"
+    },
+    {
+      "ID": 607,
+      "comment1": "9 piece ARE Fungal Swarm set 3",
+      "setID": 1093,
+      "neededItems": 5,
+      "effects": "162&amp;220"
+    },
+    {
+      "ID": 608,
+      "comment1": "9 piece ARE Fungal Swarm set 3",
+      "setID": 1093,
+      "neededItems": 6,
+      "effects": "171&amp;15"
+    },
+    {
+      "ID": 609,
+      "comment1": "9 piece ARE Fungal Swarm set 3",
+      "setID": 1093,
+      "neededItems": 7,
+      "effects": "164&amp;220"
+    },
+    {
+      "ID": 610,
+      "comment1": "9 piece ARE Fungal Swarm set 3",
+      "setID": 1093,
+      "neededItems": 8,
+      "effects": "171&amp;15"
+    },
+    {
+      "ID": 611,
+      "comment1": "9 piece ARE Fungal Swarm set 3",
+      "setID": 1093,
+      "neededItems": 9,
+      "effects": "158&amp;120"
     }
   ]
 }
