@@ -1,16 +1,14 @@
-{
-  "allianceBattleGroundScoring": [
-    {
-      "scoringID": 1,
-      "scoring": "AllianceCollector",
-      "metropolisDecay": 70,
-      "kingstowerDecay": 75,
-      "playerSteal": 10,
-      "allianceSteal": 15
-    },
-    {
-      "scoringID": 2,
-      "scoring": "AllianceTower"
-    }
-  ]
-}
+[
+  {
+    "scoringID": 1,
+    "scoring": "AllianceCollector",
+    "metropolisDecay": 70,
+    "kingstowerDecay": 75,
+    "playerSteal": 10,
+    "allianceSteal": 15
+  },
+  {
+    "scoringID": 2,
+    "scoring": "AllianceTower"
+  }
+]

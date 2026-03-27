@@ -1,14 +1,12 @@
-{
-  "forgeMinuteSkip": [
-    {
-      "id": 1,
-      "forgeID": 1,
-      "currencyID": 1006
-    },
-    {
-      "id": 2,
-      "forgeID": 1,
-      "currencyID": 1007
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "forgeID": 1,
+    "currencyID": 1006
+  },
+  {
+    "id": 2,
+    "forgeID": 1,
+    "currencyID": 1007
+  }
+]

@@ -1,84 +1,82 @@
-{
-  "allianceCoatColor": [
-    {
-      "allianceCoatColorID": 1,
-      "color": "0xDBDACA"
-    },
-    {
-      "allianceCoatColorID": 2,
-      "color": "0x878470"
-    },
-    {
-      "allianceCoatColorID": 3,
-      "color": "0x4F4D46"
-    },
-    {
-      "allianceCoatColorID": 4,
-      "color": "0x191919"
-    },
-    {
-      "allianceCoatColorID": 5,
-      "color": "0x512C0A"
-    },
-    {
-      "allianceCoatColorID": 6,
-      "color": "0x893C27"
-    },
-    {
-      "allianceCoatColorID": 7,
-      "color": "0xB70000"
-    },
-    {
-      "allianceCoatColorID": 8,
-      "color": "0xD63212"
-    },
-    {
-      "allianceCoatColorID": 9,
-      "color": "0xF95B1C"
-    },
-    {
-      "allianceCoatColorID": 10,
-      "color": "0xDB9C0F"
-    },
-    {
-      "allianceCoatColorID": 11,
-      "color": "0xEFB206"
-    },
-    {
-      "allianceCoatColorID": 12,
-      "color": "0xE8D80F"
-    },
-    {
-      "allianceCoatColorID": 13,
-      "color": "0xCEC519"
-    },
-    {
-      "allianceCoatColorID": 14,
-      "color": "0x007730"
-    },
-    {
-      "allianceCoatColorID": 15,
-      "color": "0x009B67"
-    },
-    {
-      "allianceCoatColorID": 16,
-      "color": "0x04A8A3"
-    },
-    {
-      "allianceCoatColorID": 17,
-      "color": "0x4792DD"
-    },
-    {
-      "allianceCoatColorID": 18,
-      "color": "0x0F65BA"
-    },
-    {
-      "allianceCoatColorID": 19,
-      "color": "0x3D227F"
-    },
-    {
-      "allianceCoatColorID": 20,
-      "color": "0xCE2469"
-    }
-  ]
-}
+[
+  {
+    "allianceCoatColorID": 1,
+    "color": "0xDBDACA"
+  },
+  {
+    "allianceCoatColorID": 2,
+    "color": "0x878470"
+  },
+  {
+    "allianceCoatColorID": 3,
+    "color": "0x4F4D46"
+  },
+  {
+    "allianceCoatColorID": 4,
+    "color": "0x191919"
+  },
+  {
+    "allianceCoatColorID": 5,
+    "color": "0x512C0A"
+  },
+  {
+    "allianceCoatColorID": 6,
+    "color": "0x893C27"
+  },
+  {
+    "allianceCoatColorID": 7,
+    "color": "0xB70000"
+  },
+  {
+    "allianceCoatColorID": 8,
+    "color": "0xD63212"
+  },
+  {
+    "allianceCoatColorID": 9,
+    "color": "0xF95B1C"
+  },
+  {
+    "allianceCoatColorID": 10,
+    "color": "0xDB9C0F"
+  },
+  {
+    "allianceCoatColorID": 11,
+    "color": "0xEFB206"
+  },
+  {
+    "allianceCoatColorID": 12,
+    "color": "0xE8D80F"
+  },
+  {
+    "allianceCoatColorID": 13,
+    "color": "0xCEC519"
+  },
+  {
+    "allianceCoatColorID": 14,
+    "color": "0x007730"
+  },
+  {
+    "allianceCoatColorID": 15,
+    "color": "0x009B67"
+  },
+  {
+    "allianceCoatColorID": 16,
+    "color": "0x04A8A3"
+  },
+  {
+    "allianceCoatColorID": 17,
+    "color": "0x4792DD"
+  },
+  {
+    "allianceCoatColorID": 18,
+    "color": "0x0F65BA"
+  },
+  {
+    "allianceCoatColorID": 19,
+    "color": "0x3D227F"
+  },
+  {
+    "allianceCoatColorID": 20,
+    "color": "0xCE2469"
+  }
+]

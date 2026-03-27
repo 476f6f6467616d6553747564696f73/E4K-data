@@ -1,46 +1,44 @@
-{
-  "seasonMedal": [
-    {
-      "medalID": 1,
-      "type": "goldMedal",
-      "minHighscoreRank": 1,
-      "medalPoints": 1000
-    },
-    {
-      "medalID": 2,
-      "type": "silverMedal",
-      "minHighscoreRank": 2,
-      "medalPoints": 950
-    },
-    {
-      "medalID": 3,
-      "type": "bronzeMedal",
-      "minHighscoreRank": 3,
-      "medalPoints": 850
-    },
-    {
-      "medalID": 4,
-      "type": "glasMedal",
-      "minHighscoreRank": 4,
-      "medalPoints": 700
-    },
-    {
-      "medalID": 5,
-      "type": "copperMedal",
-      "minHighscoreRank": 5,
-      "medalPoints": 500
-    },
-    {
-      "medalID": 6,
-      "type": "stoneMedal",
-      "minHighscoreRank": 6,
-      "medalPoints": 300
-    },
-    {
-      "medalID": 7,
-      "type": "woodMedal",
-      "minHighscoreRank": 7,
-      "medalPoints": 100
-    }
-  ]
-}
+[
+  {
+    "medalID": 1,
+    "type": "goldMedal",
+    "minHighscoreRank": 1,
+    "medalPoints": 1000
+  },
+  {
+    "medalID": 2,
+    "type": "silverMedal",
+    "minHighscoreRank": 2,
+    "medalPoints": 950
+  },
+  {
+    "medalID": 3,
+    "type": "bronzeMedal",
+    "minHighscoreRank": 3,
+    "medalPoints": 850
+  },
+  {
+    "medalID": 4,
+    "type": "glasMedal",
+    "minHighscoreRank": 4,
+    "medalPoints": 700
+  },
+  {
+    "medalID": 5,
+    "type": "copperMedal",
+    "minHighscoreRank": 5,
+    "medalPoints": 500
+  },
+  {
+    "medalID": 6,
+    "type": "stoneMedal",
+    "minHighscoreRank": 6,
+    "medalPoints": 300
+  },
+  {
+    "medalID": 7,
+    "type": "woodMedal",
+    "minHighscoreRank": 7,
+    "medalPoints": 100
+  }
+]

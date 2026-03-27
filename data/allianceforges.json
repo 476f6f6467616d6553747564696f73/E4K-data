@@ -1,154 +1,152 @@
-{
-  "allianceforge": [
-    {
-      "allianceForgeID": 1,
-      "level": 1,
-      "forgingCostC1": 23
-    },
-    {
-      "allianceForgeID": 2,
-      "level": 2,
-      "forgingCostC1": 65
-    },
-    {
-      "allianceForgeID": 3,
-      "level": 3,
-      "forgingCostC1": 140
-    },
-    {
-      "allianceForgeID": 4,
-      "level": 4,
-      "forgingCostC1": 248
-    },
-    {
-      "allianceForgeID": 5,
-      "level": 5,
-      "forgingCostC1": 391
-    },
-    {
-      "allianceForgeID": 6,
-      "level": 6,
-      "forgingCostC1": 569
-    },
-    {
-      "allianceForgeID": 7,
-      "level": 7,
-      "forgingCostC1": 783
-    },
-    {
-      "allianceForgeID": 8,
-      "level": 8,
-      "forgingCostC1": 1034
-    },
-    {
-      "allianceForgeID": 9,
-      "level": 9,
-      "forgingCostC1": 1321
-    },
-    {
-      "allianceForgeID": 10,
-      "level": 10,
-      "forgingCostC1": 1646
-    },
-    {
-      "allianceForgeID": 11,
-      "level": 11,
-      "forgingCostC1": 2009
-    },
-    {
-      "allianceForgeID": 12,
-      "level": 12,
-      "forgingCostC1": 2410
-    },
-    {
-      "allianceForgeID": 13,
-      "level": 13,
-      "forgingCostC1": 2849
-    },
-    {
-      "allianceForgeID": 14,
-      "level": 14,
-      "forgingCostC1": 3327
-    },
-    {
-      "allianceForgeID": 15,
-      "level": 15,
-      "forgingCostC1": 3844
-    },
-    {
-      "allianceForgeID": 16,
-      "level": 16,
-      "forgingCostC1": 4401
-    },
-    {
-      "allianceForgeID": 17,
-      "level": 17,
-      "forgingCostC1": 4997
-    },
-    {
-      "allianceForgeID": 18,
-      "level": 18,
-      "forgingCostC1": 5633
-    },
-    {
-      "allianceForgeID": 19,
-      "level": 19,
-      "forgingCostC1": 6309
-    },
-    {
-      "allianceForgeID": 20,
-      "level": 20,
-      "forgingCostC1": 7026
-    },
-    {
-      "allianceForgeID": 21,
-      "level": 21,
-      "forgingCostC1": 7783
-    },
-    {
-      "allianceForgeID": 22,
-      "level": 22,
-      "forgingCostC1": 8580
-    },
-    {
-      "allianceForgeID": 23,
-      "level": 23,
-      "forgingCostC1": 9419
-    },
-    {
-      "allianceForgeID": 24,
-      "level": 24,
-      "forgingCostC1": 10299
-    },
-    {
-      "allianceForgeID": 25,
-      "level": 25,
-      "forgingCostC1": 11220
-    },
-    {
-      "allianceForgeID": 26,
-      "level": 26,
-      "forgingCostC1": 12182
-    },
-    {
-      "allianceForgeID": 27,
-      "level": 27,
-      "forgingCostC1": 13186
-    },
-    {
-      "allianceForgeID": 28,
-      "level": 28,
-      "forgingCostC1": 14232
-    },
-    {
-      "allianceForgeID": 29,
-      "level": 29,
-      "forgingCostC1": 15320
-    },
-    {
-      "allianceForgeID": 30,
-      "level": 30,
-      "forgingCostC1": 16449
-    }
-  ]
-}
+[
+  {
+    "allianceForgeID": 1,
+    "level": 1,
+    "forgingCostC1": 23
+  },
+  {
+    "allianceForgeID": 2,
+    "level": 2,
+    "forgingCostC1": 65
+  },
+  {
+    "allianceForgeID": 3,
+    "level": 3,
+    "forgingCostC1": 140
+  },
+  {
+    "allianceForgeID": 4,
+    "level": 4,
+    "forgingCostC1": 248
+  },
+  {
+    "allianceForgeID": 5,
+    "level": 5,
+    "forgingCostC1": 391
+  },
+  {
+    "allianceForgeID": 6,
+    "level": 6,
+    "forgingCostC1": 569
+  },
+  {
+    "allianceForgeID": 7,
+    "level": 7,
+    "forgingCostC1": 783
+  },
+  {
+    "allianceForgeID": 8,
+    "level": 8,
+    "forgingCostC1": 1034
+  },
+  {
+    "allianceForgeID": 9,
+    "level": 9,
+    "forgingCostC1": 1321
+  },
+  {
+    "allianceForgeID": 10,
+    "level": 10,
+    "forgingCostC1": 1646
+  },
+  {
+    "allianceForgeID": 11,
+    "level": 11,
+    "forgingCostC1": 2009
+  },
+  {
+    "allianceForgeID": 12,
+    "level": 12,
+    "forgingCostC1": 2410
+  },
+  {
+    "allianceForgeID": 13,
+    "level": 13,
+    "forgingCostC1": 2849
+  },
+  {
+    "allianceForgeID": 14,
+    "level": 14,
+    "forgingCostC1": 3327
+  },
+  {
+    "allianceForgeID": 15,
+    "level": 15,
+    "forgingCostC1": 3844
+  },
+  {
+    "allianceForgeID": 16,
+    "level": 16,
+    "forgingCostC1": 4401
+  },
+  {
+    "allianceForgeID": 17,
+    "level": 17,
+    "forgingCostC1": 4997
+  },
+  {
+    "allianceForgeID": 18,
+    "level": 18,
+    "forgingCostC1": 5633
+  },
+  {
+    "allianceForgeID": 19,
+    "level": 19,
+    "forgingCostC1": 6309
+  },
+  {
+    "allianceForgeID": 20,
+    "level": 20,
+    "forgingCostC1": 7026
+  },
+  {
+    "allianceForgeID": 21,
+    "level": 21,
+    "forgingCostC1": 7783
+  },
+  {
+    "allianceForgeID": 22,
+    "level": 22,
+    "forgingCostC1": 8580
+  },
+  {
+    "allianceForgeID": 23,
+    "level": 23,
+    "forgingCostC1": 9419
+  },
+  {
+    "allianceForgeID": 24,
+    "level": 24,
+    "forgingCostC1": 10299
+  },
+  {
+    "allianceForgeID": 25,
+    "level": 25,
+    "forgingCostC1": 11220
+  },
+  {
+    "allianceForgeID": 26,
+    "level": 26,
+    "forgingCostC1": 12182
+  },
+  {
+    "allianceForgeID": 27,
+    "level": 27,
+    "forgingCostC1": 13186
+  },
+  {
+    "allianceForgeID": 28,
+    "level": 28,
+    "forgingCostC1": 14232
+  },
+  {
+    "allianceForgeID": 29,
+    "level": 29,
+    "forgingCostC1": 15320
+  },
+  {
+    "allianceForgeID": 30,
+    "level": 30,
+    "forgingCostC1": 16449
+  }
+]

@@ -1,49 +1,47 @@
-{
-  "bossdungeon": [
-    {
-      "kID": 2,
-      "countVictories": -1,
-      "dungeonlevel": 21,
-      "cooldownDelay": 86400,
-      "playerCooldownDelay": 432000,
-      "attackDelayRange": 68400,
-      "lootc1": 10000,
-      "lootc2": 50,
-      "lootFood": 2500,
-      "lootWood": 1000,
-      "lootStone": 1000,
-      "lootCoal": 800,
-      "attackStrength": 1
-    },
-    {
-      "kID": 1,
-      "countVictories": -1,
-      "dungeonlevel": 45,
-      "cooldownDelay": 86400,
-      "playerCooldownDelay": 432000,
-      "attackDelayRange": 68400,
-      "lootc1": 20000,
-      "lootc2": 280,
-      "lootFood": 6000,
-      "lootWood": 2500,
-      "lootStone": 2500,
-      "lootOil": 500,
-      "attackStrength": 1
-    },
-    {
-      "kID": 3,
-      "countVictories": -1,
-      "dungeonlevel": 55,
-      "cooldownDelay": 86400,
-      "playerCooldownDelay": 432000,
-      "attackDelayRange": 68400,
-      "lootc1": 30000,
-      "lootc2": 370,
-      "lootFood": 10000,
-      "lootWood": 4000,
-      "lootStone": 4000,
-      "lootGlass": 300,
-      "attackStrength": 1
-    }
-  ]
-}
+[
+  {
+    "kID": 2,
+    "countVictories": -1,
+    "dungeonlevel": 21,
+    "cooldownDelay": 86400,
+    "playerCooldownDelay": 432000,
+    "attackDelayRange": 68400,
+    "lootc1": 10000,
+    "lootc2": 50,
+    "lootFood": 2500,
+    "lootWood": 1000,
+    "lootStone": 1000,
+    "lootCoal": 800,
+    "attackStrength": 1
+  },
+  {
+    "kID": 1,
+    "countVictories": -1,
+    "dungeonlevel": 45,
+    "cooldownDelay": 86400,
+    "playerCooldownDelay": 432000,
+    "attackDelayRange": 68400,
+    "lootc1": 20000,
+    "lootc2": 280,
+    "lootFood": 6000,
+    "lootWood": 2500,
+    "lootStone": 2500,
+    "lootOil": 500,
+    "attackStrength": 1
+  },
+  {
+    "kID": 3,
+    "countVictories": -1,
+    "dungeonlevel": 55,
+    "cooldownDelay": 86400,
+    "playerCooldownDelay": 432000,
+    "attackDelayRange": 68400,
+    "lootc1": 30000,
+    "lootc2": 370,
+    "lootFood": 10000,
+    "lootWood": 4000,
+    "lootStone": 4000,
+    "lootGlass": 300,
+    "attackStrength": 1
+  }
+]

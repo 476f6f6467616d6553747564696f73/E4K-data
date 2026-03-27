@@ -1,19 +1,17 @@
-{
-  "currencySpendTaskType": [
-    {
-      "currencyID": 1,
-      "crossplayID": 1,
-      "taskType": "spendKhanTablets"
-    },
-    {
-      "currencyID": 7,
-      "crossplayID": 7,
-      "taskType": "spendSamuraiTokens"
-    },
-    {
-      "currencyID": 10,
-      "crossplayID": 10,
-      "taskType": "spendKhanMedals"
-    }
-  ]
-}
+[
+  {
+    "currencyID": 1,
+    "crossplayID": 1,
+    "taskType": "spendKhanTablets"
+  },
+  {
+    "currencyID": 7,
+    "crossplayID": 7,
+    "taskType": "spendSamuraiTokens"
+  },
+  {
+    "currencyID": 10,
+    "crossplayID": 10,
+    "taskType": "spendKhanMedals"
+  }
+]

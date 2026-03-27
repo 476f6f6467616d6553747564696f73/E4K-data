@@ -1,39 +1,37 @@
-{
-  "currencyRandomBonus": [
-    {
-      "currencyID": 1,
-      "crossplayID": 1,
-      "RandomBonusName": "khanTabletDiff"
-    },
-    {
-      "currencyID": 2,
-      "crossplayID": 2,
-      "RandomBonusName": "skullRelicDiff"
-    },
-    {
-      "currencyID": 3,
-      "crossplayID": 3,
-      "RandomBonusName": "pearlRelicDiff"
-    },
-    {
-      "currencyID": 4,
-      "crossplayID": 4,
-      "RandomBonusName": "silverRuneDiff"
-    },
-    {
-      "currencyID": 5,
-      "crossplayID": 5,
-      "RandomBonusName": "goldRuneDiff"
-    },
-    {
-      "currencyID": 6,
-      "crossplayID": 6,
-      "RandomBonusName": "greenSkullRelicDiff"
-    },
-    {
-      "currencyID": 7,
-      "crossplayID": 7,
-      "RandomBonusName": "samuraiTokenDiff"
-    }
-  ]
-}
+[
+  {
+    "currencyID": 1,
+    "crossplayID": 1,
+    "RandomBonusName": "khanTabletDiff"
+  },
+  {
+    "currencyID": 2,
+    "crossplayID": 2,
+    "RandomBonusName": "skullRelicDiff"
+  },
+  {
+    "currencyID": 3,
+    "crossplayID": 3,
+    "RandomBonusName": "pearlRelicDiff"
+  },
+  {
+    "currencyID": 4,
+    "crossplayID": 4,
+    "RandomBonusName": "silverRuneDiff"
+  },
+  {
+    "currencyID": 5,
+    "crossplayID": 5,
+    "RandomBonusName": "goldRuneDiff"
+  },
+  {
+    "currencyID": 6,
+    "crossplayID": 6,
+    "RandomBonusName": "greenSkullRelicDiff"
+  },
+  {
+    "currencyID": 7,
+    "crossplayID": 7,
+    "RandomBonusName": "samuraiTokenDiff"
+  }
+]

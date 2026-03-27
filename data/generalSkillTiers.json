@@ -1,524 +1,522 @@
-{
-  "generalSkillTier": [
-    {
-      "tierID": 1,
-      "crossplayID": 1,
-      "generalID": 104,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 2,
-      "crossplayID": 2,
-      "generalID": 104,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 3,
-      "crossplayID": 3,
-      "generalID": 104,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 4,
-      "crossplayID": 4,
-      "generalID": 104,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 17,
-      "crossplayID": 17,
-      "generalID": 104,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 5,
-      "crossplayID": 5,
-      "generalID": 101,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 6,
-      "crossplayID": 6,
-      "generalID": 101,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 7,
-      "crossplayID": 7,
-      "generalID": 101,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 8,
-      "crossplayID": 8,
-      "generalID": 101,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 18,
-      "crossplayID": 18,
-      "generalID": 101,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 9,
-      "crossplayID": 9,
-      "generalID": 102,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 10,
-      "crossplayID": 10,
-      "generalID": 102,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 11,
-      "crossplayID": 11,
-      "generalID": 102,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 12,
-      "crossplayID": 12,
-      "generalID": 102,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 19,
-      "crossplayID": 19,
-      "generalID": 102,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 13,
-      "crossplayID": 13,
-      "generalID": 103,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 14,
-      "crossplayID": 14,
-      "generalID": 103,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 15,
-      "crossplayID": 15,
-      "generalID": 103,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 16,
-      "crossplayID": 16,
-      "generalID": 103,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 20,
-      "crossplayID": 20,
-      "generalID": 103,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 21,
-      "crossplayID": 21,
-      "generalID": 105,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 22,
-      "crossplayID": 22,
-      "generalID": 105,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 23,
-      "crossplayID": 23,
-      "generalID": 105,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 24,
-      "crossplayID": 24,
-      "generalID": 105,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 25,
-      "crossplayID": 25,
-      "generalID": 105,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 26,
-      "crossplayID": 26,
-      "generalID": 119,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 27,
-      "crossplayID": 27,
-      "generalID": 119,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 28,
-      "crossplayID": 28,
-      "generalID": 119,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 29,
-      "crossplayID": 29,
-      "generalID": 119,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 30,
-      "crossplayID": 30,
-      "generalID": 119,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 31,
-      "crossplayID": 31,
-      "generalID": 107,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 32,
-      "crossplayID": 32,
-      "generalID": 107,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 33,
-      "crossplayID": 33,
-      "generalID": 107,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35,
-      "minGeneralStarTier": 5
-    },
-    {
-      "tierID": 34,
-      "crossplayID": 34,
-      "generalID": 108,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 35,
-      "crossplayID": 35,
-      "generalID": 108,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 36,
-      "crossplayID": 36,
-      "generalID": 108,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35,
-      "minGeneralStarTier": 5
-    },
-    {
-      "tierID": 37,
-      "crossplayID": 37,
-      "generalID": 120,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 38,
-      "crossplayID": 38,
-      "generalID": 120,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 39,
-      "crossplayID": 39,
-      "generalID": 120,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 40,
-      "crossplayID": 40,
-      "generalID": 120,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 41,
-      "crossplayID": 41,
-      "generalID": 120,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 42,
-      "crossplayID": 42,
-      "generalID": 121,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 43,
-      "crossplayID": 43,
-      "generalID": 121,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 44,
-      "crossplayID": 44,
-      "generalID": 121,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 45,
-      "crossplayID": 45,
-      "generalID": 121,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 46,
-      "crossplayID": 46,
-      "generalID": 121,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 47,
-      "crossplayID": 47,
-      "generalID": 122,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 48,
-      "crossplayID": 48,
-      "generalID": 122,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 49,
-      "crossplayID": 49,
-      "generalID": 122,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 50,
-      "crossplayID": 50,
-      "generalID": 122,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 51,
-      "crossplayID": 51,
-      "generalID": 122,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 52,
-      "crossplayID": 52,
-      "generalID": 123,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 53,
-      "crossplayID": 53,
-      "generalID": 123,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 54,
-      "crossplayID": 54,
-      "generalID": 123,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35,
-      "minGeneralStarTier": 5
-    },
-    {
-      "tierID": 55,
-      "crossplayID": 55,
-      "generalID": 124,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 56,
-      "crossplayID": 56,
-      "generalID": 124,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 57,
-      "crossplayID": 57,
-      "generalID": 124,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 58,
-      "crossplayID": 58,
-      "generalID": 124,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 59,
-      "crossplayID": 59,
-      "generalID": 124,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 60,
-      "crossplayID": 60,
-      "generalID": 125,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 61,
-      "crossplayID": 61,
-      "generalID": 125,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 62,
-      "crossplayID": 62,
-      "generalID": 125,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 63,
-      "crossplayID": 63,
-      "generalID": 125,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 64,
-      "crossplayID": 64,
-      "generalID": 125,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 65,
-      "crossplayID": 65,
-      "generalID": 127,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 66,
-      "crossplayID": 66,
-      "generalID": 127,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 67,
-      "crossplayID": 67,
-      "generalID": 127,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35
-    },
-    {
-      "tierID": 68,
-      "crossplayID": 68,
-      "generalID": 127,
-      "tier": 4,
-      "previousTierRequiredSkillPoints": 70
-    },
-    {
-      "tierID": 69,
-      "crossplayID": 69,
-      "generalID": 127,
-      "tier": 5,
-      "previousTierRequiredSkillPoints": 90,
-      "minGeneralStarTier": 10
-    },
-    {
-      "tierID": 70,
-      "crossplayID": 70,
-      "generalID": 126,
-      "tier": 1,
-      "previousTierRequiredSkillPoints": 0
-    },
-    {
-      "tierID": 71,
-      "crossplayID": 71,
-      "generalID": 126,
-      "tier": 2,
-      "previousTierRequiredSkillPoints": 10
-    },
-    {
-      "tierID": 72,
-      "crossplayID": 72,
-      "generalID": 126,
-      "tier": 3,
-      "previousTierRequiredSkillPoints": 35,
-      "minGeneralStarTier": 5
-    }
-  ]
-}
+[
+  {
+    "tierID": 1,
+    "crossplayID": 1,
+    "generalID": 104,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 2,
+    "crossplayID": 2,
+    "generalID": 104,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 3,
+    "crossplayID": 3,
+    "generalID": 104,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 4,
+    "crossplayID": 4,
+    "generalID": 104,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 17,
+    "crossplayID": 17,
+    "generalID": 104,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 5,
+    "crossplayID": 5,
+    "generalID": 101,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 6,
+    "crossplayID": 6,
+    "generalID": 101,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 7,
+    "crossplayID": 7,
+    "generalID": 101,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 8,
+    "crossplayID": 8,
+    "generalID": 101,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 18,
+    "crossplayID": 18,
+    "generalID": 101,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 9,
+    "crossplayID": 9,
+    "generalID": 102,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 10,
+    "crossplayID": 10,
+    "generalID": 102,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 11,
+    "crossplayID": 11,
+    "generalID": 102,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 12,
+    "crossplayID": 12,
+    "generalID": 102,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 19,
+    "crossplayID": 19,
+    "generalID": 102,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 13,
+    "crossplayID": 13,
+    "generalID": 103,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 14,
+    "crossplayID": 14,
+    "generalID": 103,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 15,
+    "crossplayID": 15,
+    "generalID": 103,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 16,
+    "crossplayID": 16,
+    "generalID": 103,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 20,
+    "crossplayID": 20,
+    "generalID": 103,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 21,
+    "crossplayID": 21,
+    "generalID": 105,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 22,
+    "crossplayID": 22,
+    "generalID": 105,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 23,
+    "crossplayID": 23,
+    "generalID": 105,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 24,
+    "crossplayID": 24,
+    "generalID": 105,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 25,
+    "crossplayID": 25,
+    "generalID": 105,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 26,
+    "crossplayID": 26,
+    "generalID": 119,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 27,
+    "crossplayID": 27,
+    "generalID": 119,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 28,
+    "crossplayID": 28,
+    "generalID": 119,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 29,
+    "crossplayID": 29,
+    "generalID": 119,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 30,
+    "crossplayID": 30,
+    "generalID": 119,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 31,
+    "crossplayID": 31,
+    "generalID": 107,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 32,
+    "crossplayID": 32,
+    "generalID": 107,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 33,
+    "crossplayID": 33,
+    "generalID": 107,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35,
+    "minGeneralStarTier": 5
+  },
+  {
+    "tierID": 34,
+    "crossplayID": 34,
+    "generalID": 108,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 35,
+    "crossplayID": 35,
+    "generalID": 108,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 36,
+    "crossplayID": 36,
+    "generalID": 108,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35,
+    "minGeneralStarTier": 5
+  },
+  {
+    "tierID": 37,
+    "crossplayID": 37,
+    "generalID": 120,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 38,
+    "crossplayID": 38,
+    "generalID": 120,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 39,
+    "crossplayID": 39,
+    "generalID": 120,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 40,
+    "crossplayID": 40,
+    "generalID": 120,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 41,
+    "crossplayID": 41,
+    "generalID": 120,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 42,
+    "crossplayID": 42,
+    "generalID": 121,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 43,
+    "crossplayID": 43,
+    "generalID": 121,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 44,
+    "crossplayID": 44,
+    "generalID": 121,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 45,
+    "crossplayID": 45,
+    "generalID": 121,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 46,
+    "crossplayID": 46,
+    "generalID": 121,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 47,
+    "crossplayID": 47,
+    "generalID": 122,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 48,
+    "crossplayID": 48,
+    "generalID": 122,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 49,
+    "crossplayID": 49,
+    "generalID": 122,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 50,
+    "crossplayID": 50,
+    "generalID": 122,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 51,
+    "crossplayID": 51,
+    "generalID": 122,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 52,
+    "crossplayID": 52,
+    "generalID": 123,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 53,
+    "crossplayID": 53,
+    "generalID": 123,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 54,
+    "crossplayID": 54,
+    "generalID": 123,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35,
+    "minGeneralStarTier": 5
+  },
+  {
+    "tierID": 55,
+    "crossplayID": 55,
+    "generalID": 124,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 56,
+    "crossplayID": 56,
+    "generalID": 124,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 57,
+    "crossplayID": 57,
+    "generalID": 124,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 58,
+    "crossplayID": 58,
+    "generalID": 124,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 59,
+    "crossplayID": 59,
+    "generalID": 124,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 60,
+    "crossplayID": 60,
+    "generalID": 125,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 61,
+    "crossplayID": 61,
+    "generalID": 125,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 62,
+    "crossplayID": 62,
+    "generalID": 125,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 63,
+    "crossplayID": 63,
+    "generalID": 125,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 64,
+    "crossplayID": 64,
+    "generalID": 125,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 65,
+    "crossplayID": 65,
+    "generalID": 127,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 66,
+    "crossplayID": 66,
+    "generalID": 127,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 67,
+    "crossplayID": 67,
+    "generalID": 127,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35
+  },
+  {
+    "tierID": 68,
+    "crossplayID": 68,
+    "generalID": 127,
+    "tier": 4,
+    "previousTierRequiredSkillPoints": 70
+  },
+  {
+    "tierID": 69,
+    "crossplayID": 69,
+    "generalID": 127,
+    "tier": 5,
+    "previousTierRequiredSkillPoints": 90,
+    "minGeneralStarTier": 10
+  },
+  {
+    "tierID": 70,
+    "crossplayID": 70,
+    "generalID": 126,
+    "tier": 1,
+    "previousTierRequiredSkillPoints": 0
+  },
+  {
+    "tierID": 71,
+    "crossplayID": 71,
+    "generalID": 126,
+    "tier": 2,
+    "previousTierRequiredSkillPoints": 10
+  },
+  {
+    "tierID": 72,
+    "crossplayID": 72,
+    "generalID": 126,
+    "tier": 3,
+    "previousTierRequiredSkillPoints": 35,
+    "minGeneralStarTier": 5
+  }
+]

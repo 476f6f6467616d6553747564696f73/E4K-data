@@ -1,504 +1,502 @@
-{
-  "relicPowerDistribution": [
-    {
-      "power": 1,
-      "crossplayID": 1,
-      "shares": 1
-    },
-    {
-      "power": 2,
-      "crossplayID": 2,
-      "shares": 1
-    },
-    {
-      "power": 3,
-      "crossplayID": 3,
-      "shares": 1
-    },
-    {
-      "power": 4,
-      "crossplayID": 4,
-      "shares": 1
-    },
-    {
-      "power": 5,
-      "crossplayID": 5,
-      "shares": 2
-    },
-    {
-      "power": 6,
-      "crossplayID": 6,
-      "shares": 2
-    },
-    {
-      "power": 7,
-      "crossplayID": 7,
-      "shares": 3
-    },
-    {
-      "power": 8,
-      "crossplayID": 8,
-      "shares": 3
-    },
-    {
-      "power": 9,
-      "crossplayID": 9,
-      "shares": 4
-    },
-    {
-      "power": 10,
-      "crossplayID": 10,
-      "shares": 4
-    },
-    {
-      "power": 11,
-      "crossplayID": 11,
-      "shares": 5
-    },
-    {
-      "power": 12,
-      "crossplayID": 12,
-      "shares": 5
-    },
-    {
-      "power": 13,
-      "crossplayID": 13,
-      "shares": 6
-    },
-    {
-      "power": 14,
-      "crossplayID": 14,
-      "shares": 6
-    },
-    {
-      "power": 15,
-      "crossplayID": 15,
-      "shares": 7
-    },
-    {
-      "power": 16,
-      "crossplayID": 16,
-      "shares": 7
-    },
-    {
-      "power": 17,
-      "crossplayID": 17,
-      "shares": 8
-    },
-    {
-      "power": 18,
-      "crossplayID": 18,
-      "shares": 8
-    },
-    {
-      "power": 19,
-      "crossplayID": 19,
-      "shares": 8
-    },
-    {
-      "power": 20,
-      "crossplayID": 20,
-      "shares": 9
-    },
-    {
-      "power": 21,
-      "crossplayID": 21,
-      "shares": 9
-    },
-    {
-      "power": 22,
-      "crossplayID": 22,
-      "shares": 9
-    },
-    {
-      "power": 23,
-      "crossplayID": 23,
-      "shares": 10
-    },
-    {
-      "power": 24,
-      "crossplayID": 24,
-      "shares": 10
-    },
-    {
-      "power": 25,
-      "crossplayID": 25,
-      "shares": 10
-    },
-    {
-      "power": 26,
-      "crossplayID": 26,
-      "shares": 11
-    },
-    {
-      "power": 27,
-      "crossplayID": 27,
-      "shares": 11
-    },
-    {
-      "power": 28,
-      "crossplayID": 28,
-      "shares": 11
-    },
-    {
-      "power": 29,
-      "crossplayID": 29,
-      "shares": 11
-    },
-    {
-      "power": 30,
-      "crossplayID": 30,
-      "shares": 13
-    },
-    {
-      "power": 31,
-      "crossplayID": 31,
-      "shares": 13
-    },
-    {
-      "power": 32,
-      "crossplayID": 32,
-      "shares": 13
-    },
-    {
-      "power": 33,
-      "crossplayID": 33,
-      "shares": 13
-    },
-    {
-      "power": 34,
-      "crossplayID": 34,
-      "shares": 13
-    },
-    {
-      "power": 35,
-      "crossplayID": 35,
-      "shares": 14
-    },
-    {
-      "power": 36,
-      "crossplayID": 36,
-      "shares": 14
-    },
-    {
-      "power": 37,
-      "crossplayID": 37,
-      "shares": 14
-    },
-    {
-      "power": 38,
-      "crossplayID": 38,
-      "shares": 14
-    },
-    {
-      "power": 39,
-      "crossplayID": 39,
-      "shares": 14
-    },
-    {
-      "power": 40,
-      "crossplayID": 40,
-      "shares": 15
-    },
-    {
-      "power": 41,
-      "crossplayID": 41,
-      "shares": 15
-    },
-    {
-      "power": 42,
-      "crossplayID": 42,
-      "shares": 15
-    },
-    {
-      "power": 43,
-      "crossplayID": 43,
-      "shares": 15
-    },
-    {
-      "power": 44,
-      "crossplayID": 44,
-      "shares": 15
-    },
-    {
-      "power": 45,
-      "crossplayID": 45,
-      "shares": 16
-    },
-    {
-      "power": 46,
-      "crossplayID": 46,
-      "shares": 16
-    },
-    {
-      "power": 47,
-      "crossplayID": 47,
-      "shares": 16
-    },
-    {
-      "power": 48,
-      "crossplayID": 48,
-      "shares": 16
-    },
-    {
-      "power": 49,
-      "crossplayID": 49,
-      "shares": 17
-    },
-    {
-      "power": 50,
-      "crossplayID": 50,
-      "shares": 17
-    },
-    {
-      "power": 51,
-      "crossplayID": 51,
-      "shares": 17
-    },
-    {
-      "power": 52,
-      "crossplayID": 52,
-      "shares": 16
-    },
-    {
-      "power": 53,
-      "crossplayID": 53,
-      "shares": 16
-    },
-    {
-      "power": 54,
-      "crossplayID": 54,
-      "shares": 16
-    },
-    {
-      "power": 55,
-      "crossplayID": 55,
-      "shares": 16
-    },
-    {
-      "power": 56,
-      "crossplayID": 56,
-      "shares": 15
-    },
-    {
-      "power": 57,
-      "crossplayID": 57,
-      "shares": 15
-    },
-    {
-      "power": 58,
-      "crossplayID": 58,
-      "shares": 15
-    },
-    {
-      "power": 59,
-      "crossplayID": 59,
-      "shares": 15
-    },
-    {
-      "power": 60,
-      "crossplayID": 60,
-      "shares": 15
-    },
-    {
-      "power": 61,
-      "crossplayID": 61,
-      "shares": 14
-    },
-    {
-      "power": 62,
-      "crossplayID": 62,
-      "shares": 14
-    },
-    {
-      "power": 63,
-      "crossplayID": 63,
-      "shares": 14
-    },
-    {
-      "power": 64,
-      "crossplayID": 64,
-      "shares": 14
-    },
-    {
-      "power": 65,
-      "crossplayID": 65,
-      "shares": 14
-    },
-    {
-      "power": 66,
-      "crossplayID": 66,
-      "shares": 13
-    },
-    {
-      "power": 67,
-      "crossplayID": 67,
-      "shares": 13
-    },
-    {
-      "power": 68,
-      "crossplayID": 68,
-      "shares": 13
-    },
-    {
-      "power": 69,
-      "crossplayID": 69,
-      "shares": 13
-    },
-    {
-      "power": 70,
-      "crossplayID": 70,
-      "shares": 13
-    },
-    {
-      "power": 71,
-      "crossplayID": 71,
-      "shares": 11
-    },
-    {
-      "power": 72,
-      "crossplayID": 72,
-      "shares": 11
-    },
-    {
-      "power": 73,
-      "crossplayID": 73,
-      "shares": 11
-    },
-    {
-      "power": 74,
-      "crossplayID": 74,
-      "shares": 11
-    },
-    {
-      "power": 75,
-      "crossplayID": 75,
-      "shares": 10
-    },
-    {
-      "power": 76,
-      "crossplayID": 76,
-      "shares": 10
-    },
-    {
-      "power": 77,
-      "crossplayID": 77,
-      "shares": 10
-    },
-    {
-      "power": 78,
-      "crossplayID": 78,
-      "shares": 9
-    },
-    {
-      "power": 79,
-      "crossplayID": 79,
-      "shares": 9
-    },
-    {
-      "power": 80,
-      "crossplayID": 80,
-      "shares": 9
-    },
-    {
-      "power": 81,
-      "crossplayID": 81,
-      "shares": 8
-    },
-    {
-      "power": 82,
-      "crossplayID": 82,
-      "shares": 8
-    },
-    {
-      "power": 83,
-      "crossplayID": 83,
-      "shares": 8
-    },
-    {
-      "power": 84,
-      "crossplayID": 84,
-      "shares": 7
-    },
-    {
-      "power": 85,
-      "crossplayID": 85,
-      "shares": 7
-    },
-    {
-      "power": 86,
-      "crossplayID": 86,
-      "shares": 6
-    },
-    {
-      "power": 87,
-      "crossplayID": 87,
-      "shares": 6
-    },
-    {
-      "power": 88,
-      "crossplayID": 88,
-      "shares": 5
-    },
-    {
-      "power": 89,
-      "crossplayID": 89,
-      "shares": 5
-    },
-    {
-      "power": 90,
-      "crossplayID": 90,
-      "shares": 4
-    },
-    {
-      "power": 91,
-      "crossplayID": 91,
-      "shares": 4
-    },
-    {
-      "power": 92,
-      "crossplayID": 92,
-      "shares": 3
-    },
-    {
-      "power": 93,
-      "crossplayID": 93,
-      "shares": 3
-    },
-    {
-      "power": 94,
-      "crossplayID": 94,
-      "shares": 2
-    },
-    {
-      "power": 95,
-      "crossplayID": 95,
-      "shares": 2
-    },
-    {
-      "power": 96,
-      "crossplayID": 96,
-      "shares": 1
-    },
-    {
-      "power": 97,
-      "crossplayID": 97,
-      "shares": 1
-    },
-    {
-      "power": 98,
-      "crossplayID": 98,
-      "shares": 1
-    },
-    {
-      "power": 99,
-      "crossplayID": 99,
-      "shares": 1
-    },
-    {
-      "power": 100,
-      "crossplayID": 100,
-      "shares": 1
-    }
-  ]
-}
+[
+  {
+    "power": 1,
+    "crossplayID": 1,
+    "shares": 1
+  },
+  {
+    "power": 2,
+    "crossplayID": 2,
+    "shares": 1
+  },
+  {
+    "power": 3,
+    "crossplayID": 3,
+    "shares": 1
+  },
+  {
+    "power": 4,
+    "crossplayID": 4,
+    "shares": 1
+  },
+  {
+    "power": 5,
+    "crossplayID": 5,
+    "shares": 2
+  },
+  {
+    "power": 6,
+    "crossplayID": 6,
+    "shares": 2
+  },
+  {
+    "power": 7,
+    "crossplayID": 7,
+    "shares": 3
+  },
+  {
+    "power": 8,
+    "crossplayID": 8,
+    "shares": 3
+  },
+  {
+    "power": 9,
+    "crossplayID": 9,
+    "shares": 4
+  },
+  {
+    "power": 10,
+    "crossplayID": 10,
+    "shares": 4
+  },
+  {
+    "power": 11,
+    "crossplayID": 11,
+    "shares": 5
+  },
+  {
+    "power": 12,
+    "crossplayID": 12,
+    "shares": 5
+  },
+  {
+    "power": 13,
+    "crossplayID": 13,
+    "shares": 6
+  },
+  {
+    "power": 14,
+    "crossplayID": 14,
+    "shares": 6
+  },
+  {
+    "power": 15,
+    "crossplayID": 15,
+    "shares": 7
+  },
+  {
+    "power": 16,
+    "crossplayID": 16,
+    "shares": 7
+  },
+  {
+    "power": 17,
+    "crossplayID": 17,
+    "shares": 8
+  },
+  {
+    "power": 18,
+    "crossplayID": 18,
+    "shares": 8
+  },
+  {
+    "power": 19,
+    "crossplayID": 19,
+    "shares": 8
+  },
+  {
+    "power": 20,
+    "crossplayID": 20,
+    "shares": 9
+  },
+  {
+    "power": 21,
+    "crossplayID": 21,
+    "shares": 9
+  },
+  {
+    "power": 22,
+    "crossplayID": 22,
+    "shares": 9
+  },
+  {
+    "power": 23,
+    "crossplayID": 23,
+    "shares": 10
+  },
+  {
+    "power": 24,
+    "crossplayID": 24,
+    "shares": 10
+  },
+  {
+    "power": 25,
+    "crossplayID": 25,
+    "shares": 10
+  },
+  {
+    "power": 26,
+    "crossplayID": 26,
+    "shares": 11
+  },
+  {
+    "power": 27,
+    "crossplayID": 27,
+    "shares": 11
+  },
+  {
+    "power": 28,
+    "crossplayID": 28,
+    "shares": 11
+  },
+  {
+    "power": 29,
+    "crossplayID": 29,
+    "shares": 11
+  },
+  {
+    "power": 30,
+    "crossplayID": 30,
+    "shares": 13
+  },
+  {
+    "power": 31,
+    "crossplayID": 31,
+    "shares": 13
+  },
+  {
+    "power": 32,
+    "crossplayID": 32,
+    "shares": 13
+  },
+  {
+    "power": 33,
+    "crossplayID": 33,
+    "shares": 13
+  },
+  {
+    "power": 34,
+    "crossplayID": 34,
+    "shares": 13
+  },
+  {
+    "power": 35,
+    "crossplayID": 35,
+    "shares": 14
+  },
+  {
+    "power": 36,
+    "crossplayID": 36,
+    "shares": 14
+  },
+  {
+    "power": 37,
+    "crossplayID": 37,
+    "shares": 14
+  },
+  {
+    "power": 38,
+    "crossplayID": 38,
+    "shares": 14
+  },
+  {
+    "power": 39,
+    "crossplayID": 39,
+    "shares": 14
+  },
+  {
+    "power": 40,
+    "crossplayID": 40,
+    "shares": 15
+  },
+  {
+    "power": 41,
+    "crossplayID": 41,
+    "shares": 15
+  },
+  {
+    "power": 42,
+    "crossplayID": 42,
+    "shares": 15
+  },
+  {
+    "power": 43,
+    "crossplayID": 43,
+    "shares": 15
+  },
+  {
+    "power": 44,
+    "crossplayID": 44,
+    "shares": 15
+  },
+  {
+    "power": 45,
+    "crossplayID": 45,
+    "shares": 16
+  },
+  {
+    "power": 46,
+    "crossplayID": 46,
+    "shares": 16
+  },
+  {
+    "power": 47,
+    "crossplayID": 47,
+    "shares": 16
+  },
+  {
+    "power": 48,
+    "crossplayID": 48,
+    "shares": 16
+  },
+  {
+    "power": 49,
+    "crossplayID": 49,
+    "shares": 17
+  },
+  {
+    "power": 50,
+    "crossplayID": 50,
+    "shares": 17
+  },
+  {
+    "power": 51,
+    "crossplayID": 51,
+    "shares": 17
+  },
+  {
+    "power": 52,
+    "crossplayID": 52,
+    "shares": 16
+  },
+  {
+    "power": 53,
+    "crossplayID": 53,
+    "shares": 16
+  },
+  {
+    "power": 54,
+    "crossplayID": 54,
+    "shares": 16
+  },
+  {
+    "power": 55,
+    "crossplayID": 55,
+    "shares": 16
+  },
+  {
+    "power": 56,
+    "crossplayID": 56,
+    "shares": 15
+  },
+  {
+    "power": 57,
+    "crossplayID": 57,
+    "shares": 15
+  },
+  {
+    "power": 58,
+    "crossplayID": 58,
+    "shares": 15
+  },
+  {
+    "power": 59,
+    "crossplayID": 59,
+    "shares": 15
+  },
+  {
+    "power": 60,
+    "crossplayID": 60,
+    "shares": 15
+  },
+  {
+    "power": 61,
+    "crossplayID": 61,
+    "shares": 14
+  },
+  {
+    "power": 62,
+    "crossplayID": 62,
+    "shares": 14
+  },
+  {
+    "power": 63,
+    "crossplayID": 63,
+    "shares": 14
+  },
+  {
+    "power": 64,
+    "crossplayID": 64,
+    "shares": 14
+  },
+  {
+    "power": 65,
+    "crossplayID": 65,
+    "shares": 14
+  },
+  {
+    "power": 66,
+    "crossplayID": 66,
+    "shares": 13
+  },
+  {
+    "power": 67,
+    "crossplayID": 67,
+    "shares": 13
+  },
+  {
+    "power": 68,
+    "crossplayID": 68,
+    "shares": 13
+  },
+  {
+    "power": 69,
+    "crossplayID": 69,
+    "shares": 13
+  },
+  {
+    "power": 70,
+    "crossplayID": 70,
+    "shares": 13
+  },
+  {
+    "power": 71,
+    "crossplayID": 71,
+    "shares": 11
+  },
+  {
+    "power": 72,
+    "crossplayID": 72,
+    "shares": 11
+  },
+  {
+    "power": 73,
+    "crossplayID": 73,
+    "shares": 11
+  },
+  {
+    "power": 74,
+    "crossplayID": 74,
+    "shares": 11
+  },
+  {
+    "power": 75,
+    "crossplayID": 75,
+    "shares": 10
+  },
+  {
+    "power": 76,
+    "crossplayID": 76,
+    "shares": 10
+  },
+  {
+    "power": 77,
+    "crossplayID": 77,
+    "shares": 10
+  },
+  {
+    "power": 78,
+    "crossplayID": 78,
+    "shares": 9
+  },
+  {
+    "power": 79,
+    "crossplayID": 79,
+    "shares": 9
+  },
+  {
+    "power": 80,
+    "crossplayID": 80,
+    "shares": 9
+  },
+  {
+    "power": 81,
+    "crossplayID": 81,
+    "shares": 8
+  },
+  {
+    "power": 82,
+    "crossplayID": 82,
+    "shares": 8
+  },
+  {
+    "power": 83,
+    "crossplayID": 83,
+    "shares": 8
+  },
+  {
+    "power": 84,
+    "crossplayID": 84,
+    "shares": 7
+  },
+  {
+    "power": 85,
+    "crossplayID": 85,
+    "shares": 7
+  },
+  {
+    "power": 86,
+    "crossplayID": 86,
+    "shares": 6
+  },
+  {
+    "power": 87,
+    "crossplayID": 87,
+    "shares": 6
+  },
+  {
+    "power": 88,
+    "crossplayID": 88,
+    "shares": 5
+  },
+  {
+    "power": 89,
+    "crossplayID": 89,
+    "shares": 5
+  },
+  {
+    "power": 90,
+    "crossplayID": 90,
+    "shares": 4
+  },
+  {
+    "power": 91,
+    "crossplayID": 91,
+    "shares": 4
+  },
+  {
+    "power": 92,
+    "crossplayID": 92,
+    "shares": 3
+  },
+  {
+    "power": 93,
+    "crossplayID": 93,
+    "shares": 3
+  },
+  {
+    "power": 94,
+    "crossplayID": 94,
+    "shares": 2
+  },
+  {
+    "power": 95,
+    "crossplayID": 95,
+    "shares": 2
+  },
+  {
+    "power": 96,
+    "crossplayID": 96,
+    "shares": 1
+  },
+  {
+    "power": 97,
+    "crossplayID": 97,
+    "shares": 1
+  },
+  {
+    "power": 98,
+    "crossplayID": 98,
+    "shares": 1
+  },
+  {
+    "power": 99,
+    "crossplayID": 99,
+    "shares": 1
+  },
+  {
+    "power": 100,
+    "crossplayID": 100,
+    "shares": 1
+  }
+]

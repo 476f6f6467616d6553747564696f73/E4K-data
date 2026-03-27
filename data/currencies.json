@@ -1,1859 +1,1857 @@
-{
-  "currency": [
-    {
-      "currencyID": 1,
-      "crossplayID": 1,
-      "Name": "KhanTablet",
-      "JSONKey": "KT",
-      "assetName": "KhanTablet"
-    },
-    {
-      "currencyID": 2,
-      "crossplayID": 2,
-      "Name": "SkullRelic",
-      "JSONKey": "TS",
-      "assetName": "SkullRelic"
-    },
-    {
-      "currencyID": 3,
-      "crossplayID": 3,
-      "Name": "PearlRelic",
-      "JSONKey": "PR",
-      "assetName": "PearlRelic"
-    },
-    {
-      "currencyID": 4,
-      "crossplayID": 4,
-      "Name": "SilverRune",
-      "JSONKey": "USR",
-      "assetName": "SilverRune"
-    },
-    {
-      "currencyID": 5,
-      "crossplayID": 5,
-      "Name": "GoldRune",
-      "JSONKey": "UGR",
-      "assetName": "GoldRune"
-    },
-    {
-      "currencyID": 6,
-      "crossplayID": 6,
-      "Name": "GreenSkullRelic",
-      "JSONKey": "GTS",
-      "assetName": "GreenSkullRelic"
-    },
-    {
-      "currencyID": 7,
-      "crossplayID": 7,
-      "Name": "SamuraiToken",
-      "JSONKey": "ST",
-      "assetName": "SamuraiToken"
-    },
-    {
-      "currencyID": 10,
-      "crossplayID": 10,
-      "Name": "KhanMedal",
-      "JSONKey": "KM",
-      "assetName": "KhanMedal"
-    },
-    {
-      "currencyID": 13,
-      "crossplayID": 13,
-      "Name": "SamuraiMedal",
-      "JSONKey": "SM",
-      "assetName": "SamuraiMedal"
-    },
-    {
-      "currencyID": 14,
-      "crossplayID": 14,
-      "Name": "ShogunPoint",
-      "JSONKey": "SP",
-      "assetName": "ShogunPoint"
-    },
-    {
-      "currencyID": 27,
-      "crossplayID": 27,
-      "Name": "ResourceVillageToken",
-      "JSONKey": "RVT",
-      "assetName": "ResourceVillageToken"
-    },
-    {
-      "currencyID": 20,
-      "crossplayID": 20,
-      "Name": "LuckyWheelTicket",
-      "JSONKey": "LWT",
-      "assetName": "LuckyWheelTicket"
-    },
-    {
-      "currencyID": 45,
-      "crossplayID": 45,
-      "Name": "SaleDaysLuckyWheelTicket",
-      "JSONKey": "SLWT",
-      "assetName": "SaleDaysLuckyWheelTicket"
-    },
-    {
-      "currencyID": 21,
-      "crossplayID": 21,
-      "Name": "WishingWellCoin",
-      "JSONKey": "WWC",
-      "assetName": "WishingWellCoin"
-    },
-    {
-      "currencyID": 22,
-      "crossplayID": 22,
-      "Name": "PegasusTicket",
-      "JSONKey": "PTT",
-      "assetName": "PegasusTicket"
-    },
-    {
-      "currencyID": 23,
-      "crossplayID": 23,
-      "Name": "ApprenticeToken",
-      "JSONKey": "APT",
-      "assetName": "ApprenticeToken"
-    },
-    {
-      "currencyID": 24,
-      "crossplayID": 24,
-      "Name": "FusionCurrency",
-      "JSONKey": "FC",
-      "assetName": "FusionCurrency"
-    },
-    {
-      "currencyID": 1001,
-      "crossplayID": 1001,
-      "Name": "1MinSkip",
-      "JSONKey": "MS1",
-      "assetName": "1MinSkip"
-    },
-    {
-      "currencyID": 1002,
-      "crossplayID": 1002,
-      "Name": "5MinSkip",
-      "JSONKey": "MS2",
-      "assetName": "5MinSkip"
-    },
-    {
-      "currencyID": 1003,
-      "crossplayID": 1003,
-      "Name": "10MinSkip",
-      "JSONKey": "MS3",
-      "assetName": "10MinSkip"
-    },
-    {
-      "currencyID": 1004,
-      "crossplayID": 1004,
-      "Name": "30MinSkip",
-      "JSONKey": "MS4",
-      "assetName": "30MinSkip"
-    },
-    {
-      "currencyID": 1005,
-      "crossplayID": 1005,
-      "Name": "60MinSkip",
-      "JSONKey": "MS5",
-      "assetName": "60MinSkip"
-    },
-    {
-      "currencyID": 1006,
-      "crossplayID": 1006,
-      "Name": "5HourSkip",
-      "JSONKey": "MS6",
-      "assetName": "5HourSkip"
-    },
-    {
-      "currencyID": 1007,
-      "crossplayID": 1007,
-      "Name": "24HourSkip",
-      "JSONKey": "MS7",
-      "assetName": "24HourSkip"
-    },
-    {
-      "currencyID": 28,
-      "crossplayID": 28,
-      "Name": "LegendaryToken",
-      "JSONKey": "LT",
-      "assetName": "LegendaryToken"
-    },
-    {
-      "currencyID": 29,
-      "crossplayID": 29,
-      "Name": "LegendaryMaterial",
-      "JSONKey": "LM",
-      "assetName": "LegendaryMaterial"
-    },
-    {
-      "currencyID": 15,
-      "crossplayID": 15,
-      "Name": "SceatToken",
-      "JSONKey": "STP",
-      "assetName": "SceatToken"
-    },
-    {
-      "currencyID": 30,
-      "crossplayID": 30,
-      "Name": "RelicFragment",
-      "JSONKey": "RF",
-      "assetName": "RelicFragment"
-    },
-    {
-      "currencyID": 31,
-      "crossplayID": 31,
-      "Name": "SamuraiMedalBoosterKey",
-      "JSONKey": "SMB",
-      "assetName": "SamuraiMedalBoosterKey"
-    },
-    {
-      "currencyID": 32,
-      "crossplayID": 32,
-      "Name": "ShogunPointBoosterKey",
-      "JSONKey": "SPB",
-      "assetName": "ShogunPointBoosterKey"
-    },
-    {
-      "currencyID": 33,
-      "crossplayID": 33,
-      "Name": "FuryDoubloon",
-      "JSONKey": "FD",
-      "assetName": "FuryDoubloon"
-    },
-    {
-      "currencyID": 34,
-      "crossplayID": 34,
-      "Name": "TimeDoubloon",
-      "JSONKey": "TD",
-      "assetName": "TimeDoubloon"
-    },
-    {
-      "currencyID": 30001,
-      "crossplayID": 30001,
-      "Name": "CommonFinesand",
-      "JSONKey": "MCF",
-      "assetName": "CommonFinesand"
-    },
-    {
-      "currencyID": 30002,
-      "crossplayID": 30002,
-      "Name": "CommonBricks",
-      "JSONKey": "MCB",
-      "assetName": "CommonBricks"
-    },
-    {
-      "currencyID": 30003,
-      "crossplayID": 30003,
-      "Name": "RareFlint",
-      "JSONKey": "MRF",
-      "assetName": "RareFlint"
-    },
-    {
-      "currencyID": 30004,
-      "crossplayID": 30004,
-      "Name": "RareFarmingtools",
-      "JSONKey": "MFT",
-      "assetName": "RareFarmingtools"
-    },
-    {
-      "currencyID": 30005,
-      "crossplayID": 30005,
-      "Name": "EpicResin",
-      "JSONKey": "MER",
-      "assetName": "EpicResin"
-    },
-    {
-      "currencyID": 30006,
-      "crossplayID": 30006,
-      "Name": "LegendarySoulstone",
-      "JSONKey": "MLS",
-      "assetName": "LegendarySoulstone"
-    },
-    {
-      "currencyID": 30007,
-      "crossplayID": 30007,
-      "Name": "CommonPurifiedwater",
-      "JSONKey": "MCP",
-      "assetName": "CommonPurifiedwater"
-    },
-    {
-      "currencyID": 30008,
-      "crossplayID": 30008,
-      "Name": "CommonClay",
-      "JSONKey": "MCC",
-      "assetName": "CommonClay"
-    },
-    {
-      "currencyID": 30009,
-      "crossplayID": 30009,
-      "Name": "RarePaint",
-      "JSONKey": "MRP",
-      "assetName": "RarePaint"
-    },
-    {
-      "currencyID": 30010,
-      "crossplayID": 30010,
-      "Name": "RareRope",
-      "JSONKey": "MRR",
-      "assetName": "RareRope"
-    },
-    {
-      "currencyID": 30011,
-      "crossplayID": 30011,
-      "Name": "EpicPreciousmetals",
-      "JSONKey": "MEP",
-      "assetName": "EpicPreciousmetals"
-    },
-    {
-      "currencyID": 30012,
-      "crossplayID": 30012,
-      "Name": "LegendaryMagmastone",
-      "JSONKey": "MLM",
-      "assetName": "LegendaryMagmastone"
-    },
-    {
-      "currencyID": 30013,
-      "crossplayID": 30013,
-      "Name": "CommonTimber",
-      "JSONKey": "MCT",
-      "assetName": "CommonTimber"
-    },
-    {
-      "currencyID": 30014,
-      "crossplayID": 30014,
-      "Name": "CommonStraw",
-      "JSONKey": "MCS",
-      "assetName": "CommonStraw"
-    },
-    {
-      "currencyID": 30015,
-      "crossplayID": 30015,
-      "Name": "RareNails",
-      "JSONKey": "MRN",
-      "assetName": "RareNails"
-    },
-    {
-      "currencyID": 30016,
-      "crossplayID": 30016,
-      "Name": "RareGlue",
-      "JSONKey": "MRG",
-      "assetName": "RareGlue"
-    },
-    {
-      "currencyID": 30017,
-      "crossplayID": 30017,
-      "Name": "EpicCobblestone",
-      "JSONKey": "MEG",
-      "assetName": "EpicCobblestone"
-    },
-    {
-      "currencyID": 30018,
-      "crossplayID": 30018,
-      "Name": "LegendaryFabric",
-      "JSONKey": "MLF",
-      "assetName": "LegendaryFabric"
-    },
-    {
-      "currencyID": 100,
-      "crossplayID": 100,
-      "Name": "Souls",
-      "JSONKey": "SOUL",
-      "assetName": "Souls"
-    },
-    {
-      "currencyID": 101,
-      "crossplayID": 101,
-      "Name": "SoulSuckerBoosterKey",
-      "JSONKey": "SOB",
-      "assetName": "SoulSuckerBoosterKey"
-    },
-    {
-      "currencyID": 102,
-      "crossplayID": 102,
-      "Name": "Furs",
-      "JSONKey": "FU",
-      "assetName": "Furs"
-    },
-    {
-      "currencyID": 103,
-      "crossplayID": 103,
-      "Name": "FurSkinnerBoosterKey",
-      "JSONKey": "FUB",
-      "assetName": "FurSkinnerBoosterKey"
-    },
-    {
-      "currencyID": 104,
-      "crossplayID": 104,
-      "Name": "Beads",
-      "JSONKey": "BE",
-      "assetName": "Beads"
-    },
-    {
-      "currencyID": 105,
-      "crossplayID": 105,
-      "Name": "BeadBowlBoosterKey",
-      "JSONKey": "BEB",
-      "assetName": "BeadBowlBoosterKey"
-    },
-    {
-      "currencyID": 106,
-      "crossplayID": 106,
-      "Name": "Bees",
-      "JSONKey": "BEE",
-      "assetName": "Bees"
-    },
-    {
-      "currencyID": 107,
-      "crossplayID": 107,
-      "Name": "BusyBeesBoosterKey",
-      "JSONKey": "BUB",
-      "assetName": "BusyBeesBoosterKey"
-    },
-    {
-      "currencyID": 112,
-      "crossplayID": 112,
-      "Name": "Essence",
-      "JSONKey": "ES",
-      "assetName": "Essence"
-    },
-    {
-      "currencyID": 111,
-      "crossplayID": 111,
-      "Name": "EssenceBoosterKey",
-      "JSONKey": "ESB",
-      "assetName": "EssenceBoosterKey"
-    },
-    {
-      "currencyID": 119,
-      "crossplayID": 119,
-      "Name": "Tea",
-      "JSONKey": "TEA",
-      "assetName": "Tea"
-    },
-    {
-      "currencyID": 120,
-      "crossplayID": 120,
-      "Name": "TeaTimeBoosterKey",
-      "JSONKey": "TEAT",
-      "assetName": "TeaTimeBoosterKey"
-    },
-    {
-      "currencyID": 121,
-      "crossplayID": 121,
-      "Name": "Balloons",
-      "JSONKey": "BA",
-      "assetName": "Balloons"
-    },
-    {
-      "currencyID": 122,
-      "crossplayID": 122,
-      "Name": "BalloonsBoosterKey",
-      "JSONKey": "BAB",
-      "assetName": "BalloonsBoosterKey"
-    },
-    {
-      "currencyID": 108,
-      "crossplayID": 108,
-      "Name": "Heritage",
-      "JSONKey": "HE",
-      "assetName": "Heritage"
-    },
-    {
-      "currencyID": 109,
-      "crossplayID": 109,
-      "Name": "HeritageBoosterKey",
-      "JSONKey": "HEB",
-      "assetName": "HeritageBoosterKey"
-    },
-    {
-      "currencyID": 110,
-      "crossplayID": 110,
-      "Name": "DailyDutyPoints",
-      "JSONKey": "DDP",
-      "assetName": "DailyDutyPoints"
-    },
-    {
-      "currencyID": 113,
-      "crossplayID": 113,
-      "Name": "Tonic",
-      "JSONKey": "TO",
-      "assetName": "Tonic"
-    },
-    {
-      "currencyID": 114,
-      "crossplayID": 114,
-      "Name": "TonicBooster",
-      "JSONKey": "TOB",
-      "assetName": "TonicBooster"
-    },
-    {
-      "currencyID": 115,
-      "crossplayID": 115,
-      "Name": "Statuette",
-      "JSONKey": "STA",
-      "assetName": "Statuette"
-    },
-    {
-      "currencyID": 116,
-      "crossplayID": 116,
-      "Name": "StatuetteBooster",
-      "JSONKey": "STAB",
-      "assetName": "StatuetteBooster"
-    },
-    {
-      "currencyID": 117,
-      "crossplayID": 117,
-      "Name": "AllianceStatuette",
-      "JSONKey": "AS",
-      "assetName": "AllianceStatuette"
-    },
-    {
-      "currencyID": 118,
-      "crossplayID": 118,
-      "Name": "StatuetteMalus",
-      "JSONKey": "SMA",
-      "assetName": "StatuetteMalus"
-    },
-    {
-      "currencyID": 35,
-      "crossplayID": 35,
-      "Name": "GoldToken",
-      "JSONKey": "GTO",
-      "assetName": "GoldToken"
-    },
-    {
-      "currencyID": 36,
-      "crossplayID": 36,
-      "Name": "SilverToken",
-      "JSONKey": "STO",
-      "assetName": "SilverToken"
-    },
-    {
-      "currencyID": 37,
-      "crossplayID": 37,
-      "Name": "BronzeToken",
-      "JSONKey": "BTO",
-      "assetName": "BronzeToken"
-    },
-    {
-      "currencyID": 38,
-      "crossplayID": 38,
-      "Name": "Influence",
-      "JSONKey": "IN",
-      "assetName": "Influence"
-    },
-    {
-      "currencyID": 39,
-      "crossplayID": 39,
-      "Name": "AllianceInfluence",
-      "JSONKey": "AIN",
-      "assetName": "AllianceInfluence"
-    },
-    {
-      "currencyID": 40,
-      "crossplayID": 40,
-      "Name": "InfluenceBooster",
-      "JSONKey": "INB",
-      "assetName": "InfluenceBooster"
-    },
-    {
-      "currencyID": 41,
-      "crossplayID": 41,
-      "Name": "SpiritDoubloon",
-      "JSONKey": "SD",
-      "assetName": "SpiritDoubloon"
-    },
-    {
-      "currencyID": 42,
-      "crossplayID": 42,
-      "Name": "VigorDoubloon",
-      "JSONKey": "VD",
-      "assetName": "VigorDoubloon"
-    },
-    {
-      "currencyID": 43,
-      "crossplayID": 43,
-      "Name": "BastionDoubloon",
-      "JSONKey": "BD",
-      "assetName": "BastionDoubloon"
-    },
-    {
-      "currencyID": 44,
-      "crossplayID": 44,
-      "Name": "RampartDoubloon",
-      "JSONKey": "RD",
-      "assetName": "RampartDoubloon"
-    },
-    {
-      "currencyID": 50,
-      "crossplayID": 50,
-      "Name": "AnniversaryToken",
-      "JSONKey": "ACO",
-      "assetName": "AnniversaryToken"
-    },
-    {
-      "currencyID": 51,
-      "crossplayID": 51,
-      "Name": "XmasLTPEToken",
-      "JSONKey": "XST",
-      "assetName": "XmasLTPEToken"
-    },
-    {
-      "currencyID": 52,
-      "crossplayID": 52,
-      "Name": "SpringLTPEToken",
-      "JSONKey": "SPT",
-      "assetName": "SpringLTPEToken"
-    },
-    {
-      "currencyID": 53,
-      "crossplayID": 53,
-      "Name": "NewKingLTPEToken",
-      "JSONKey": "NKT",
-      "assetName": "NewKingLTPEToken"
-    },
-    {
-      "currencyID": 54,
-      "crossplayID": 54,
-      "Name": "LotusFlowerLTPEToken",
-      "JSONKey": "LFT",
-      "assetName": "LotusFlowerLTPEToken"
-    },
-    {
-      "currencyID": 55,
-      "crossplayID": 55,
-      "Name": "OctoberfestLTPEToken",
-      "JSONKey": "OFT",
-      "assetName": "OctoberfestLTPEToken"
-    },
-    {
-      "currencyID": 56,
-      "crossplayID": 56,
-      "Name": "HalloweenLTPEToken",
-      "JSONKey": "HWT",
-      "assetName": "HalloweenLTPEToken"
-    },
-    {
-      "currencyID": 57,
-      "crossplayID": 57,
-      "Name": "IceLTPEToken",
-      "JSONKey": "IT",
-      "assetName": "IceLTPEToken"
-    },
-    {
-      "currencyID": 58,
-      "crossplayID": 58,
-      "Name": "StPatrickLTPEToken",
-      "JSONKey": "STPT",
-      "assetName": "StPatrickLTPEToken"
-    },
-    {
-      "currencyID": 59,
-      "crossplayID": 59,
-      "Name": "MayaLTPEToken",
-      "JSONKey": "MPT",
-      "assetName": "MayaLTPEToken"
-    },
-    {
-      "currencyID": 60,
-      "crossplayID": 60,
-      "Name": "PiratesLTPEToken",
-      "JSONKey": "PPT",
-      "assetName": "PiratesLTPEToken"
-    },
-    {
-      "currencyID": 61,
-      "crossplayID": 61,
-      "Name": "DragonriderLTPEToken",
-      "JSONKey": "DRPT",
-      "assetName": "DragonriderLTPEToken"
-    },
-    {
-      "currencyID": 6001,
-      "crossplayID": 6001,
-      "Name": "FatKingToken",
-      "JSONKey": "FKT",
-      "assetName": "FatKingToken"
-    },
-    {
-      "currencyID": 6002,
-      "crossplayID": 6002,
-      "Name": "KnightToken",
-      "JSONKey": "KTK",
-      "assetName": "KnightToken"
-    },
-    {
-      "currencyID": 6003,
-      "crossplayID": 6003,
-      "Name": "PrincessToken",
-      "JSONKey": "PTK",
-      "assetName": "PrincessToken"
-    },
-    {
-      "currencyID": 6004,
-      "crossplayID": 6004,
-      "Name": "SasakiToken",
-      "JSONKey": "STK",
-      "assetName": "SasakiToken"
-    },
-    {
-      "currencyID": 6005,
-      "crossplayID": 6005,
-      "Name": "TiziToken",
-      "JSONKey": "TTK",
-      "assetName": "TiziToken"
-    },
-    {
-      "currencyID": 6006,
-      "crossplayID": 6006,
-      "Name": "TomAliceToken",
-      "JSONKey": "TAT",
-      "assetName": "TomAliceToken"
-    },
-    {
-      "currencyID": 6007,
-      "crossplayID": 6007,
-      "Name": "HasanToken",
-      "JSONKey": "HAT",
-      "assetName": "HasanToken"
-    },
-    {
-      "currencyID": 6008,
-      "crossplayID": 6008,
-      "Name": "DianaToken",
-      "JSONKey": "DAT",
-      "assetName": "DianaToken"
-    },
-    {
-      "currencyID": 6009,
-      "crossplayID": 6009,
-      "Name": "ValentaToken",
-      "JSONKey": "VAT",
-      "assetName": "ValentaToken"
-    },
-    {
-      "currencyID": 6010,
-      "crossplayID": 6010,
-      "Name": "GarrikToken",
-      "JSONKey": "GAT",
-      "assetName": "GarrikToken"
-    },
-    {
-      "currencyID": 6011,
-      "crossplayID": 6011,
-      "Name": "AshiraToken",
-      "JSONKey": "AST",
-      "assetName": "AshiraToken"
-    },
-    {
-      "currencyID": 6012,
-      "crossplayID": 6012,
-      "Name": "KaelrithToken",
-      "JSONKey": "KLT",
-      "assetName": "KaelrithToken"
-    },
-    {
-      "currencyID": 6013,
-      "crossplayID": 6013,
-      "Name": "BarinToken",
-      "JSONKey": "BRN",
-      "assetName": "BarinToken"
-    },
-    {
-      "currencyID": 6014,
-      "crossplayID": 6014,
-      "Name": "EdricToken",
-      "JSONKey": "EDR",
-      "assetName": "EdricToken"
-    },
-    {
-      "currencyID": 10000,
-      "crossplayID": 10000,
-      "Name": "ShardUniversal",
-      "JSONKey": "SUN",
-      "assetName": "ShardUniversal"
-    },
-    {
-      "currencyID": 10001,
-      "crossplayID": 10001,
-      "Name": "ShardToril",
-      "JSONKey": "STL",
-      "assetName": "ShardToril"
-    },
-    {
-      "currencyID": 10002,
-      "crossplayID": 10002,
-      "Name": "ShardLeo",
-      "JSONKey": "SLE",
-      "assetName": "ShardLeo"
-    },
-    {
-      "currencyID": 10003,
-      "crossplayID": 10003,
-      "Name": "ShardAlyssa",
-      "JSONKey": "SAL",
-      "assetName": "ShardAlyssa"
-    },
-    {
-      "currencyID": 10004,
-      "crossplayID": 10004,
-      "Name": "ShardHoratio",
-      "JSONKey": "SHT",
-      "assetName": "ShardHoratio"
-    },
-    {
-      "currencyID": 10005,
-      "crossplayID": 10005,
-      "Name": "ShardSasaki",
-      "JSONKey": "SSK",
-      "assetName": "ShardSasaki"
-    },
-    {
-      "currencyID": 10006,
-      "crossplayID": 10006,
-      "Name": "ShardDiana",
-      "JSONKey": "SDN",
-      "assetName": "ShardDiana"
-    },
-    {
-      "currencyID": 10007,
-      "crossplayID": 10007,
-      "Name": "ShardTom",
-      "JSONKey": "SOM",
-      "assetName": "ShardTom"
-    },
-    {
-      "currencyID": 10008,
-      "crossplayID": 10008,
-      "Name": "ShardAlice",
-      "JSONKey": "SAI",
-      "assetName": "ShardAlice"
-    },
-    {
-      "currencyID": 10009,
-      "crossplayID": 10009,
-      "Name": "ShardTizi",
-      "JSONKey": "STT",
-      "assetName": "ShardTizi"
-    },
-    {
-      "currencyID": 10010,
-      "crossplayID": 10010,
-      "Name": "ShardHasan",
-      "JSONKey": "SHS",
-      "assetName": "ShardHasan"
-    },
-    {
-      "currencyID": 10012,
-      "crossplayID": 10012,
-      "Name": "ShardValenta",
-      "JSONKey": "SVA",
-      "assetName": "ShardValenta"
-    },
-    {
-      "currencyID": 10013,
-      "crossplayID": 10013,
-      "Name": "ShardGarrik",
-      "JSONKey": "SGA",
-      "assetName": "ShardGarrik"
-    },
-    {
-      "currencyID": 10014,
-      "crossplayID": 10014,
-      "Name": "ShardAshira",
-      "JSONKey": "SAS",
-      "assetName": "ShardAshira"
-    },
-    {
-      "currencyID": 10015,
-      "crossplayID": 10015,
-      "Name": "ShardKaelrith",
-      "JSONKey": "SKL",
-      "assetName": "ShardKaelrith"
-    },
-    {
-      "currencyID": 10017,
-      "crossplayID": 10017,
-      "Name": "ShardBarin",
-      "JSONKey": "SBR",
-      "assetName": "ShardBarin"
-    },
-    {
-      "currencyID": 10016,
-      "crossplayID": 10016,
-      "Name": "ShardEdric",
-      "JSONKey": "SDR",
-      "assetName": "ShardEdric"
-    },
-    {
-      "currencyID": 9999,
-      "crossplayID": 9999,
-      "Name": "GeneralsSkillsResetToken",
-      "JSONKey": "GRT",
-      "assetName": "GeneralsSkillsResetToken"
-    },
-    {
-      "currencyID": 7001,
-      "crossplayID": 7001,
-      "Name": "GenXP250",
-      "JSONKey": "GXP1",
-      "assetName": "GenXP250"
-    },
-    {
-      "currencyID": 7002,
-      "crossplayID": 7002,
-      "Name": "GenXP500",
-      "JSONKey": "GXP2",
-      "assetName": "GenXP500"
-    },
-    {
-      "currencyID": 7003,
-      "crossplayID": 7003,
-      "Name": "GenXP1000",
-      "JSONKey": "GXP3",
-      "assetName": "GenXP1000"
-    },
-    {
-      "currencyID": 7004,
-      "crossplayID": 7004,
-      "Name": "GenXP2500",
-      "JSONKey": "GXP4",
-      "assetName": "GenXP2500"
-    },
-    {
-      "currencyID": 7005,
-      "crossplayID": 7005,
-      "Name": "GenXP5000",
-      "JSONKey": "GXP5",
-      "assetName": "GenXP5000"
-    },
-    {
-      "currencyID": 7006,
-      "crossplayID": 7006,
-      "Name": "GenXP7500",
-      "JSONKey": "GXP6",
-      "assetName": "GenXP7500"
-    },
-    {
-      "currencyID": 7007,
-      "crossplayID": 7007,
-      "Name": "GenXP10000",
-      "JSONKey": "GXP7",
-      "assetName": "GenXP10000"
-    },
-    {
-      "currencyID": 7008,
-      "crossplayID": 7008,
-      "Name": "GenXP12500",
-      "JSONKey": "GXP8",
-      "assetName": "GenXP12500"
-    },
-    {
-      "currencyID": 7009,
-      "crossplayID": 7009,
-      "Name": "GenXP15000",
-      "JSONKey": "GXP9",
-      "assetName": "GenXP15000"
-    },
-    {
-      "currencyID": 8,
-      "crossplayID": 8,
-      "Name": "CastlePassageToken",
-      "JSONKey": "CPT",
-      "assetName": "CastlePassageToken"
-    },
-    {
-      "currencyID": 2000,
-      "crossplayID": 2000,
-      "Name": "RareBoosterConsumable",
-      "JSONKey": "BC1",
-      "assetName": "RareBoosterConsumable"
-    },
-    {
-      "currencyID": 2001,
-      "crossplayID": 2001,
-      "Name": "EpicBoosterConsumable",
-      "JSONKey": "BC2",
-      "assetName": "EpicBoosterConsumable"
-    },
-    {
-      "currencyID": 2002,
-      "crossplayID": 2002,
-      "Name": "LegendaryBoosterConsumable",
-      "JSONKey": "BC3",
-      "assetName": "LegendaryBoosterConsumable"
-    },
-    {
-      "currencyID": 46,
-      "crossplayID": 46,
-      "Name": "CargoPoints",
-      "JSONKey": "IAP",
-      "assetName": "CargoPoints"
-    },
-    {
-      "currencyID": 3001,
-      "crossplayID": 3001,
-      "Name": "RefinedLumber",
-      "JSONKey": "RL",
-      "assetName": "RefinedLumber"
-    },
-    {
-      "currencyID": 3002,
-      "crossplayID": 3002,
-      "Name": "RefinedStone",
-      "JSONKey": "RS",
-      "assetName": "RefinedStone"
-    },
-    {
-      "currencyID": 3003,
-      "crossplayID": 3003,
-      "Name": "Component1",
-      "JSONKey": "CO1",
-      "assetName": "Component1"
-    },
-    {
-      "currencyID": 3004,
-      "crossplayID": 3004,
-      "Name": "Component2",
-      "JSONKey": "CO2",
-      "assetName": "Component2"
-    },
-    {
-      "currencyID": 3005,
-      "crossplayID": 3005,
-      "Name": "Component3",
-      "JSONKey": "CO3",
-      "assetName": "Component3"
-    },
-    {
-      "currencyID": 3006,
-      "crossplayID": 3006,
-      "Name": "Component4",
-      "JSONKey": "CO4",
-      "assetName": "Component4"
-    },
-    {
-      "currencyID": 3007,
-      "crossplayID": 3007,
-      "Name": "Component5",
-      "JSONKey": "CO5",
-      "assetName": "Component5"
-    },
-    {
-      "currencyID": 3008,
-      "crossplayID": 3008,
-      "Name": "Component6",
-      "JSONKey": "CO6",
-      "assetName": "Component6"
-    },
-    {
-      "currencyID": 3009,
-      "crossplayID": 3009,
-      "Name": "Component7",
-      "JSONKey": "CO7",
-      "assetName": "Component7"
-    },
-    {
-      "currencyID": 3010,
-      "crossplayID": 3010,
-      "Name": "Component8",
-      "JSONKey": "CO8",
-      "assetName": "Component8"
-    },
-    {
-      "currencyID": 5000,
-      "crossplayID": 5000,
-      "Name": "CommonMysteryBoxKey",
-      "JSONKey": "CMBK",
-      "assetName": "CommonMysteryBoxKey"
-    },
-    {
-      "currencyID": 5001,
-      "crossplayID": 5001,
-      "Name": "RareMysteryBoxKey",
-      "JSONKey": "RMBK",
-      "assetName": "RareMysteryBoxKey"
-    },
-    {
-      "currencyID": 5002,
-      "crossplayID": 5002,
-      "Name": "EpicMysteryBoxKey",
-      "JSONKey": "EMBK",
-      "assetName": "EpicMysteryBoxKey"
-    },
-    {
-      "currencyID": 5003,
-      "crossplayID": 5003,
-      "Name": "LegendaryMysteryBoxKey",
-      "JSONKey": "LMBK",
-      "assetName": "LegendaryMysteryBoxKey"
-    },
-    {
-      "currencyID": 8000,
-      "crossplayID": 8000,
-      "Name": "ImperialPatronageCharter",
-      "JSONKey": "IPC",
-      "assetName": "ImperialPatronageCharter"
-    },
-    {
-      "currencyID": 62,
-      "crossplayID": 62,
-      "Name": "Plaster",
-      "JSONKey": "PL",
-      "assetName": "Plaster"
-    },
-    {
-      "currencyID": 63,
-      "crossplayID": 63,
-      "Name": "DragonScaleTile",
-      "JSONKey": "DST",
-      "assetName": "DragonScaleTile"
-    },
-    {
-      "currencyID": 64,
-      "crossplayID": 64,
-      "Name": "ImperialDucat",
-      "JSONKey": "IDCT",
-      "assetName": "ImperialDucat"
-    },
-    {
-      "currencyID": 65,
-      "crossplayID": 65,
-      "Name": "Steel",
-      "JSONKey": "STEEL",
-      "assetName": "Steel"
-    },
-    {
-      "currencyID": 66,
-      "crossplayID": 66,
-      "Name": "DragonGlass",
-      "JSONKey": "DG",
-      "assetName": "DragonGlass"
-    },
-    {
-      "currencyID": 67,
-      "crossplayID": 67,
-      "Name": "DragonCharm",
-      "JSONKey": "DC",
-      "assetName": "DragonCharm"
-    },
-    {
-      "currencyID": 68,
-      "crossplayID": 68,
-      "Name": "TwinFlameAxes",
-      "JSONKey": "TFA",
-      "assetName": "TwinFlameAxes"
-    },
-    {
-      "currencyID": 69,
-      "crossplayID": 69,
-      "Name": "DragonGlassArrows",
-      "JSONKey": "DGA",
-      "assetName": "DragonGlassArrows"
-    },
-    {
-      "currencyID": 70,
-      "crossplayID": 70,
-      "Name": "DragonScaleSplinters",
-      "JSONKey": "DSS",
-      "assetName": "DragonScaleSplinters"
-    },
-    {
-      "currencyID": 71,
-      "crossplayID": 71,
-      "Name": "DragonScaleArmor",
-      "JSONKey": "DSAM",
-      "assetName": "DragonScaleArmor"
-    },
-    {
-      "currencyID": 72,
-      "crossplayID": 72,
-      "Name": "DragonScaleArrows",
-      "JSONKey": "DSAW",
-      "assetName": "DragonScaleArrows"
-    },
-    {
-      "currencyID": 73,
-      "crossplayID": 73,
-      "Name": "FloraToken",
-      "JSONKey": "FT",
-      "assetName": "FloraToken"
-    },
-    {
-      "currencyID": 74,
-      "crossplayID": 74,
-      "Name": "SoldierBiscuit",
-      "JSONKey": "SB",
-      "assetName": "SoldierBiscuit"
-    },
-    {
-      "currencyID": 75,
-      "crossplayID": 75,
-      "Name": "FrozenCarrot",
-      "JSONKey": "CC",
-      "assetName": "FrozenCarrot"
-    },
-    {
-      "currencyID": 76,
-      "crossplayID": 76,
-      "Name": "AdvisorFreeToken",
-      "JSONKey": "AFT",
-      "assetName": "AdvisorFreeToken"
-    },
-    {
-      "currencyID": 77,
-      "crossplayID": 77,
-      "Name": "NomadAdvisorToken",
-      "JSONKey": "NAT",
-      "assetName": "NomadAdvisorToken"
-    },
-    {
-      "currencyID": 78,
-      "crossplayID": 78,
-      "Name": "SamuraiAdvisorToken",
-      "JSONKey": "SAT",
-      "assetName": "SamuraiAdvisorToken"
-    },
-    {
-      "currencyID": 79,
-      "crossplayID": 79,
-      "Name": "BaronAdvisorToken",
-      "JSONKey": "BAT",
-      "assetName": "BaronAdvisorToken"
-    },
-    {
-      "currencyID": 80,
-      "crossplayID": 80,
-      "Name": "HollowMoonEgg",
-      "JSONKey": "HME",
-      "assetName": "HollowMoonEgg"
-    },
-    {
-      "currencyID": 81,
-      "crossplayID": 81,
-      "Name": "QuestTicket",
-      "JSONKey": "QT",
-      "assetName": "QuestTicket"
-    },
-    {
-      "currencyID": 82,
-      "crossplayID": 82,
-      "Name": "Orange",
-      "JSONKey": "ORG",
-      "assetName": "Orange"
-    },
-    {
-      "currencyID": 83,
-      "crossplayID": 83,
-      "Name": "AllianceCoin",
-      "JSONKey": "AC",
-      "assetName": "AllianceCoin"
-    },
-    {
-      "currencyID": 84,
-      "crossplayID": 84,
-      "Name": "LuckySlice",
-      "JSONKey": "LCS",
-      "assetName": "LuckySlice"
-    },
-    {
-      "currencyID": 9,
-      "crossplayID": 9,
-      "Name": "SweetTreat",
-      "JSONKey": "SWT",
-      "assetName": "SweetTreat"
-    },
-    {
-      "currencyID": 85,
-      "crossplayID": 85,
-      "Name": "RiftCoin",
-      "JSONKey": "RC",
-      "assetName": "RiftCoin"
-    },
-    {
-      "currencyID": 16,
-      "crossplayID": 16,
-      "Name": "MerchantsKey",
-      "JSONKey": "MK",
-      "assetName": "MerchantsKey"
-    },
-    {
-      "currencyID": 86,
-      "crossplayID": 86,
-      "Name": "LegendaryRiftCoin",
-      "JSONKey": "LRC",
-      "assetName": "LegendaryRiftCoin"
-    },
-    {
-      "currencyID": 87,
-      "crossplayID": 87,
-      "Name": "CarnivalMask",
-      "JSONKey": "CMK",
-      "assetName": "CarnivalMask"
-    },
-    {
-      "currencyID": 100000,
-      "crossplayID": 100000,
-      "Name": "DecoDust",
-      "JSONKey": "DD",
-      "assetName": "DecoDust"
-    },
-    {
-      "currencyID": 100001,
-      "crossplayID": 100001,
-      "Name": "DecoCatalyst1",
-      "JSONKey": "DC1",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100002,
-      "crossplayID": 100002,
-      "Name": "DecoCatalyst2",
-      "JSONKey": "DC2",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100003,
-      "crossplayID": 100003,
-      "Name": "DecoCatalyst3",
-      "JSONKey": "DC3",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100004,
-      "crossplayID": 100004,
-      "Name": "DecoCatalyst4",
-      "JSONKey": "DC4",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100005,
-      "crossplayID": 100005,
-      "Name": "DecoCatalyst5",
-      "JSONKey": "DC5",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100006,
-      "crossplayID": 100006,
-      "Name": "DecoCatalyst6",
-      "JSONKey": "DC6",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100007,
-      "crossplayID": 100007,
-      "Name": "DecoCatalyst7",
-      "JSONKey": "DC7",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100008,
-      "crossplayID": 100008,
-      "Name": "DecoCatalyst8",
-      "JSONKey": "DC8",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100009,
-      "crossplayID": 100009,
-      "Name": "DecoCatalyst9",
-      "JSONKey": "DC9",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100010,
-      "crossplayID": 100010,
-      "Name": "DecoCatalyst10",
-      "JSONKey": "DC10",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100011,
-      "crossplayID": 100011,
-      "Name": "DecoCatalyst11",
-      "JSONKey": "DC11",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100012,
-      "crossplayID": 100012,
-      "Name": "DecoCatalyst12",
-      "JSONKey": "DC12",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100013,
-      "crossplayID": 100013,
-      "Name": "DecoCatalyst13",
-      "JSONKey": "DC13",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100014,
-      "crossplayID": 100014,
-      "Name": "DecoCatalyst14",
-      "JSONKey": "DC14",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100015,
-      "crossplayID": 100015,
-      "Name": "DecoCatalyst15",
-      "JSONKey": "DC15",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100016,
-      "crossplayID": 100016,
-      "Name": "DecoCatalyst16",
-      "JSONKey": "DC16",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100017,
-      "crossplayID": 100017,
-      "Name": "DecoCatalyst17",
-      "JSONKey": "DC17",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100018,
-      "crossplayID": 100018,
-      "Name": "DecoCatalyst18",
-      "JSONKey": "DC18",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100019,
-      "crossplayID": 100019,
-      "Name": "DecoCatalyst19",
-      "JSONKey": "DC19",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100020,
-      "crossplayID": 100020,
-      "Name": "DecoCatalyst20",
-      "JSONKey": "DC20",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100021,
-      "crossplayID": 100021,
-      "Name": "DecoCatalyst21",
-      "JSONKey": "DC21",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100022,
-      "crossplayID": 100022,
-      "Name": "DecoCatalyst22",
-      "JSONKey": "DC22",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100023,
-      "crossplayID": 100023,
-      "Name": "DecoCatalyst23",
-      "JSONKey": "DC23",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100024,
-      "crossplayID": 100024,
-      "Name": "DecoCatalyst24",
-      "JSONKey": "DC24",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100025,
-      "crossplayID": 100025,
-      "Name": "DecoCatalyst25",
-      "JSONKey": "DC25",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100026,
-      "crossplayID": 100026,
-      "Name": "DecoCatalyst26",
-      "JSONKey": "DC26",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100027,
-      "crossplayID": 100027,
-      "Name": "DecoCatalyst27",
-      "JSONKey": "DC27",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100028,
-      "crossplayID": 100028,
-      "Name": "DecoCatalyst28",
-      "JSONKey": "DC28",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100029,
-      "crossplayID": 100029,
-      "Name": "DecoCatalyst29",
-      "JSONKey": "DC29",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100030,
-      "crossplayID": 100030,
-      "Name": "DecoCatalyst30",
-      "JSONKey": "DC30",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100031,
-      "crossplayID": 100031,
-      "Name": "DecoCatalyst31",
-      "JSONKey": "DC31",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100032,
-      "crossplayID": 100032,
-      "Name": "DecoCatalyst32",
-      "JSONKey": "DC32",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100033,
-      "crossplayID": 100033,
-      "Name": "DecoCatalyst33",
-      "JSONKey": "DC33",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100034,
-      "crossplayID": 100034,
-      "Name": "DecoCatalyst34",
-      "JSONKey": "DC34",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100035,
-      "crossplayID": 100035,
-      "Name": "DecoCatalyst35",
-      "JSONKey": "DC35",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100036,
-      "crossplayID": 100036,
-      "Name": "DecoCatalyst36",
-      "JSONKey": "DC36",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100037,
-      "crossplayID": 100037,
-      "Name": "DecoCatalyst37",
-      "JSONKey": "DC37",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100038,
-      "crossplayID": 100038,
-      "Name": "DecoCatalyst38",
-      "JSONKey": "DC38",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100039,
-      "crossplayID": 100039,
-      "Name": "DecoCatalyst39",
-      "JSONKey": "DC39",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100040,
-      "crossplayID": 100040,
-      "Name": "DecoCatalyst40",
-      "JSONKey": "DC40",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100041,
-      "crossplayID": 100041,
-      "Name": "DecoCatalyst41",
-      "JSONKey": "DC41",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100042,
-      "crossplayID": 100042,
-      "Name": "DecoCatalyst42",
-      "JSONKey": "DC42",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100043,
-      "crossplayID": 100043,
-      "Name": "DecoCatalyst43",
-      "JSONKey": "DC43",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100044,
-      "crossplayID": 100044,
-      "Name": "DecoCatalyst44",
-      "JSONKey": "DC44",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100045,
-      "crossplayID": 100045,
-      "Name": "DecoCatalyst45",
-      "JSONKey": "DC45",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100046,
-      "crossplayID": 100046,
-      "Name": "DecoCatalyst46",
-      "JSONKey": "DC46",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100047,
-      "crossplayID": 100047,
-      "Name": "DecoCatalyst47",
-      "JSONKey": "DC47",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100048,
-      "crossplayID": 100048,
-      "Name": "DecoCatalyst48",
-      "JSONKey": "DC48",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100049,
-      "crossplayID": 100049,
-      "Name": "DecoCatalyst49",
-      "JSONKey": "DC49",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100050,
-      "crossplayID": 100050,
-      "Name": "DecoCatalyst50",
-      "JSONKey": "DC50",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100051,
-      "crossplayID": 100051,
-      "Name": "DecoCatalyst51",
-      "JSONKey": "DC51",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100052,
-      "crossplayID": 100052,
-      "Name": "DecoCatalyst52",
-      "JSONKey": "DC52",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100053,
-      "crossplayID": 100053,
-      "Name": "DecoCatalyst53",
-      "JSONKey": "DC53",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100054,
-      "crossplayID": 100054,
-      "Name": "DecoCatalyst54",
-      "JSONKey": "DC54",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100055,
-      "crossplayID": 100055,
-      "Name": "DecoCatalyst55",
-      "JSONKey": "DC55",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100056,
-      "crossplayID": 100056,
-      "Name": "DecoCatalyst56",
-      "JSONKey": "DC56",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100057,
-      "crossplayID": 100057,
-      "Name": "DecoCatalyst57",
-      "JSONKey": "DC57",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100058,
-      "crossplayID": 100058,
-      "Name": "DecoCatalyst58",
-      "JSONKey": "DC58",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100059,
-      "crossplayID": 100059,
-      "Name": "DecoCatalyst59",
-      "JSONKey": "DC59",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100060,
-      "crossplayID": 100060,
-      "Name": "DecoCatalyst60",
-      "JSONKey": "DC60",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100061,
-      "crossplayID": 100061,
-      "Name": "DecoCatalyst61",
-      "JSONKey": "DC61",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100062,
-      "crossplayID": 100062,
-      "Name": "DecoCatalyst62",
-      "JSONKey": "DC62",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100063,
-      "crossplayID": 100063,
-      "Name": "DecoCatalyst63",
-      "JSONKey": "DC63",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100064,
-      "crossplayID": 100064,
-      "Name": "DecoCatalyst64",
-      "JSONKey": "DC64",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100065,
-      "crossplayID": 100065,
-      "Name": "DecoCatalyst65",
-      "JSONKey": "DC65",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100066,
-      "crossplayID": 100066,
-      "Name": "DecoCatalyst66",
-      "JSONKey": "DC66",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100067,
-      "crossplayID": 100067,
-      "Name": "DecoCatalyst67",
-      "JSONKey": "DC67",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100068,
-      "crossplayID": 100068,
-      "Name": "DecoCatalyst68",
-      "JSONKey": "DC68",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100069,
-      "crossplayID": 100069,
-      "Name": "DecoCatalyst69",
-      "JSONKey": "DC69",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100070,
-      "crossplayID": 100070,
-      "Name": "DecoCatalyst70",
-      "JSONKey": "DC70",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100071,
-      "crossplayID": 100071,
-      "Name": "DecoCatalyst71",
-      "JSONKey": "DC71",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100072,
-      "crossplayID": 100072,
-      "Name": "DecoCatalyst72",
-      "JSONKey": "DC72",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100073,
-      "crossplayID": 100073,
-      "Name": "DecoCatalyst73",
-      "JSONKey": "DC73",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100074,
-      "crossplayID": 100074,
-      "Name": "DecoCatalyst74",
-      "JSONKey": "DC74",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100075,
-      "crossplayID": 100075,
-      "Name": "DecoCatalyst75",
-      "JSONKey": "DC75",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100076,
-      "crossplayID": 100076,
-      "Name": "DecoCatalyst76",
-      "JSONKey": "DC76",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100077,
-      "crossplayID": 100077,
-      "Name": "DecoCatalyst77",
-      "JSONKey": "DC77",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100078,
-      "crossplayID": 100078,
-      "Name": "DecoCatalyst78",
-      "JSONKey": "DC78",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100079,
-      "crossplayID": 100079,
-      "Name": "DecoCatalyst79",
-      "JSONKey": "DC79",
-      "assetName": "DecoCatalyst"
-    },
-    {
-      "currencyID": 100080,
-      "crossplayID": 100080,
-      "Name": "DecoCatalyst80",
-      "JSONKey": "DC80",
-      "assetName": "DecoCatalyst"
-    }
-  ]
-}
+[
+  {
+    "currencyID": 1,
+    "crossplayID": 1,
+    "Name": "KhanTablet",
+    "JSONKey": "KT",
+    "assetName": "KhanTablet"
+  },
+  {
+    "currencyID": 2,
+    "crossplayID": 2,
+    "Name": "SkullRelic",
+    "JSONKey": "TS",
+    "assetName": "SkullRelic"
+  },
+  {
+    "currencyID": 3,
+    "crossplayID": 3,
+    "Name": "PearlRelic",
+    "JSONKey": "PR",
+    "assetName": "PearlRelic"
+  },
+  {
+    "currencyID": 4,
+    "crossplayID": 4,
+    "Name": "SilverRune",
+    "JSONKey": "USR",
+    "assetName": "SilverRune"
+  },
+  {
+    "currencyID": 5,
+    "crossplayID": 5,
+    "Name": "GoldRune",
+    "JSONKey": "UGR",
+    "assetName": "GoldRune"
+  },
+  {
+    "currencyID": 6,
+    "crossplayID": 6,
+    "Name": "GreenSkullRelic",
+    "JSONKey": "GTS",
+    "assetName": "GreenSkullRelic"
+  },
+  {
+    "currencyID": 7,
+    "crossplayID": 7,
+    "Name": "SamuraiToken",
+    "JSONKey": "ST",
+    "assetName": "SamuraiToken"
+  },
+  {
+    "currencyID": 10,
+    "crossplayID": 10,
+    "Name": "KhanMedal",
+    "JSONKey": "KM",
+    "assetName": "KhanMedal"
+  },
+  {
+    "currencyID": 13,
+    "crossplayID": 13,
+    "Name": "SamuraiMedal",
+    "JSONKey": "SM",
+    "assetName": "SamuraiMedal"
+  },
+  {
+    "currencyID": 14,
+    "crossplayID": 14,
+    "Name": "ShogunPoint",
+    "JSONKey": "SP",
+    "assetName": "ShogunPoint"
+  },
+  {
+    "currencyID": 27,
+    "crossplayID": 27,
+    "Name": "ResourceVillageToken",
+    "JSONKey": "RVT",
+    "assetName": "ResourceVillageToken"
+  },
+  {
+    "currencyID": 20,
+    "crossplayID": 20,
+    "Name": "LuckyWheelTicket",
+    "JSONKey": "LWT",
+    "assetName": "LuckyWheelTicket"
+  },
+  {
+    "currencyID": 45,
+    "crossplayID": 45,
+    "Name": "SaleDaysLuckyWheelTicket",
+    "JSONKey": "SLWT",
+    "assetName": "SaleDaysLuckyWheelTicket"
+  },
+  {
+    "currencyID": 21,
+    "crossplayID": 21,
+    "Name": "WishingWellCoin",
+    "JSONKey": "WWC",
+    "assetName": "WishingWellCoin"
+  },
+  {
+    "currencyID": 22,
+    "crossplayID": 22,
+    "Name": "PegasusTicket",
+    "JSONKey": "PTT",
+    "assetName": "PegasusTicket"
+  },
+  {
+    "currencyID": 23,
+    "crossplayID": 23,
+    "Name": "ApprenticeToken",
+    "JSONKey": "APT",
+    "assetName": "ApprenticeToken"
+  },
+  {
+    "currencyID": 24,
+    "crossplayID": 24,
+    "Name": "FusionCurrency",
+    "JSONKey": "FC",
+    "assetName": "FusionCurrency"
+  },
+  {
+    "currencyID": 1001,
+    "crossplayID": 1001,
+    "Name": "1MinSkip",
+    "JSONKey": "MS1",
+    "assetName": "1MinSkip"
+  },
+  {
+    "currencyID": 1002,
+    "crossplayID": 1002,
+    "Name": "5MinSkip",
+    "JSONKey": "MS2",
+    "assetName": "5MinSkip"
+  },
+  {
+    "currencyID": 1003,
+    "crossplayID": 1003,
+    "Name": "10MinSkip",
+    "JSONKey": "MS3",
+    "assetName": "10MinSkip"
+  },
+  {
+    "currencyID": 1004,
+    "crossplayID": 1004,
+    "Name": "30MinSkip",
+    "JSONKey": "MS4",
+    "assetName": "30MinSkip"
+  },
+  {
+    "currencyID": 1005,
+    "crossplayID": 1005,
+    "Name": "60MinSkip",
+    "JSONKey": "MS5",
+    "assetName": "60MinSkip"
+  },
+  {
+    "currencyID": 1006,
+    "crossplayID": 1006,
+    "Name": "5HourSkip",
+    "JSONKey": "MS6",
+    "assetName": "5HourSkip"
+  },
+  {
+    "currencyID": 1007,
+    "crossplayID": 1007,
+    "Name": "24HourSkip",
+    "JSONKey": "MS7",
+    "assetName": "24HourSkip"
+  },
+  {
+    "currencyID": 28,
+    "crossplayID": 28,
+    "Name": "LegendaryToken",
+    "JSONKey": "LT",
+    "assetName": "LegendaryToken"
+  },
+  {
+    "currencyID": 29,
+    "crossplayID": 29,
+    "Name": "LegendaryMaterial",
+    "JSONKey": "LM",
+    "assetName": "LegendaryMaterial"
+  },
+  {
+    "currencyID": 15,
+    "crossplayID": 15,
+    "Name": "SceatToken",
+    "JSONKey": "STP",
+    "assetName": "SceatToken"
+  },
+  {
+    "currencyID": 30,
+    "crossplayID": 30,
+    "Name": "RelicFragment",
+    "JSONKey": "RF",
+    "assetName": "RelicFragment"
+  },
+  {
+    "currencyID": 31,
+    "crossplayID": 31,
+    "Name": "SamuraiMedalBoosterKey",
+    "JSONKey": "SMB",
+    "assetName": "SamuraiMedalBoosterKey"
+  },
+  {
+    "currencyID": 32,
+    "crossplayID": 32,
+    "Name": "ShogunPointBoosterKey",
+    "JSONKey": "SPB",
+    "assetName": "ShogunPointBoosterKey"
+  },
+  {
+    "currencyID": 33,
+    "crossplayID": 33,
+    "Name": "FuryDoubloon",
+    "JSONKey": "FD",
+    "assetName": "FuryDoubloon"
+  },
+  {
+    "currencyID": 34,
+    "crossplayID": 34,
+    "Name": "TimeDoubloon",
+    "JSONKey": "TD",
+    "assetName": "TimeDoubloon"
+  },
+  {
+    "currencyID": 30001,
+    "crossplayID": 30001,
+    "Name": "CommonFinesand",
+    "JSONKey": "MCF",
+    "assetName": "CommonFinesand"
+  },
+  {
+    "currencyID": 30002,
+    "crossplayID": 30002,
+    "Name": "CommonBricks",
+    "JSONKey": "MCB",
+    "assetName": "CommonBricks"
+  },
+  {
+    "currencyID": 30003,
+    "crossplayID": 30003,
+    "Name": "RareFlint",
+    "JSONKey": "MRF",
+    "assetName": "RareFlint"
+  },
+  {
+    "currencyID": 30004,
+    "crossplayID": 30004,
+    "Name": "RareFarmingtools",
+    "JSONKey": "MFT",
+    "assetName": "RareFarmingtools"
+  },
+  {
+    "currencyID": 30005,
+    "crossplayID": 30005,
+    "Name": "EpicResin",
+    "JSONKey": "MER",
+    "assetName": "EpicResin"
+  },
+  {
+    "currencyID": 30006,
+    "crossplayID": 30006,
+    "Name": "LegendarySoulstone",
+    "JSONKey": "MLS",
+    "assetName": "LegendarySoulstone"
+  },
+  {
+    "currencyID": 30007,
+    "crossplayID": 30007,
+    "Name": "CommonPurifiedwater",
+    "JSONKey": "MCP",
+    "assetName": "CommonPurifiedwater"
+  },
+  {
+    "currencyID": 30008,
+    "crossplayID": 30008,
+    "Name": "CommonClay",
+    "JSONKey": "MCC",
+    "assetName": "CommonClay"
+  },
+  {
+    "currencyID": 30009,
+    "crossplayID": 30009,
+    "Name": "RarePaint",
+    "JSONKey": "MRP",
+    "assetName": "RarePaint"
+  },
+  {
+    "currencyID": 30010,
+    "crossplayID": 30010,
+    "Name": "RareRope",
+    "JSONKey": "MRR",
+    "assetName": "RareRope"
+  },
+  {
+    "currencyID": 30011,
+    "crossplayID": 30011,
+    "Name": "EpicPreciousmetals",
+    "JSONKey": "MEP",
+    "assetName": "EpicPreciousmetals"
+  },
+  {
+    "currencyID": 30012,
+    "crossplayID": 30012,
+    "Name": "LegendaryMagmastone",
+    "JSONKey": "MLM",
+    "assetName": "LegendaryMagmastone"
+  },
+  {
+    "currencyID": 30013,
+    "crossplayID": 30013,
+    "Name": "CommonTimber",
+    "JSONKey": "MCT",
+    "assetName": "CommonTimber"
+  },
+  {
+    "currencyID": 30014,
+    "crossplayID": 30014,
+    "Name": "CommonStraw",
+    "JSONKey": "MCS",
+    "assetName": "CommonStraw"
+  },
+  {
+    "currencyID": 30015,
+    "crossplayID": 30015,
+    "Name": "RareNails",
+    "JSONKey": "MRN",
+    "assetName": "RareNails"
+  },
+  {
+    "currencyID": 30016,
+    "crossplayID": 30016,
+    "Name": "RareGlue",
+    "JSONKey": "MRG",
+    "assetName": "RareGlue"
+  },
+  {
+    "currencyID": 30017,
+    "crossplayID": 30017,
+    "Name": "EpicCobblestone",
+    "JSONKey": "MEG",
+    "assetName": "EpicCobblestone"
+  },
+  {
+    "currencyID": 30018,
+    "crossplayID": 30018,
+    "Name": "LegendaryFabric",
+    "JSONKey": "MLF",
+    "assetName": "LegendaryFabric"
+  },
+  {
+    "currencyID": 100,
+    "crossplayID": 100,
+    "Name": "Souls",
+    "JSONKey": "SOUL",
+    "assetName": "Souls"
+  },
+  {
+    "currencyID": 101,
+    "crossplayID": 101,
+    "Name": "SoulSuckerBoosterKey",
+    "JSONKey": "SOB",
+    "assetName": "SoulSuckerBoosterKey"
+  },
+  {
+    "currencyID": 102,
+    "crossplayID": 102,
+    "Name": "Furs",
+    "JSONKey": "FU",
+    "assetName": "Furs"
+  },
+  {
+    "currencyID": 103,
+    "crossplayID": 103,
+    "Name": "FurSkinnerBoosterKey",
+    "JSONKey": "FUB",
+    "assetName": "FurSkinnerBoosterKey"
+  },
+  {
+    "currencyID": 104,
+    "crossplayID": 104,
+    "Name": "Beads",
+    "JSONKey": "BE",
+    "assetName": "Beads"
+  },
+  {
+    "currencyID": 105,
+    "crossplayID": 105,
+    "Name": "BeadBowlBoosterKey",
+    "JSONKey": "BEB",
+    "assetName": "BeadBowlBoosterKey"
+  },
+  {
+    "currencyID": 106,
+    "crossplayID": 106,
+    "Name": "Bees",
+    "JSONKey": "BEE",
+    "assetName": "Bees"
+  },
+  {
+    "currencyID": 107,
+    "crossplayID": 107,
+    "Name": "BusyBeesBoosterKey",
+    "JSONKey": "BUB",
+    "assetName": "BusyBeesBoosterKey"
+  },
+  {
+    "currencyID": 112,
+    "crossplayID": 112,
+    "Name": "Essence",
+    "JSONKey": "ES",
+    "assetName": "Essence"
+  },
+  {
+    "currencyID": 111,
+    "crossplayID": 111,
+    "Name": "EssenceBoosterKey",
+    "JSONKey": "ESB",
+    "assetName": "EssenceBoosterKey"
+  },
+  {
+    "currencyID": 119,
+    "crossplayID": 119,
+    "Name": "Tea",
+    "JSONKey": "TEA",
+    "assetName": "Tea"
+  },
+  {
+    "currencyID": 120,
+    "crossplayID": 120,
+    "Name": "TeaTimeBoosterKey",
+    "JSONKey": "TEAT",
+    "assetName": "TeaTimeBoosterKey"
+  },
+  {
+    "currencyID": 121,
+    "crossplayID": 121,
+    "Name": "Balloons",
+    "JSONKey": "BA",
+    "assetName": "Balloons"
+  },
+  {
+    "currencyID": 122,
+    "crossplayID": 122,
+    "Name": "BalloonsBoosterKey",
+    "JSONKey": "BAB",
+    "assetName": "BalloonsBoosterKey"
+  },
+  {
+    "currencyID": 108,
+    "crossplayID": 108,
+    "Name": "Heritage",
+    "JSONKey": "HE",
+    "assetName": "Heritage"
+  },
+  {
+    "currencyID": 109,
+    "crossplayID": 109,
+    "Name": "HeritageBoosterKey",
+    "JSONKey": "HEB",
+    "assetName": "HeritageBoosterKey"
+  },
+  {
+    "currencyID": 110,
+    "crossplayID": 110,
+    "Name": "DailyDutyPoints",
+    "JSONKey": "DDP",
+    "assetName": "DailyDutyPoints"
+  },
+  {
+    "currencyID": 113,
+    "crossplayID": 113,
+    "Name": "Tonic",
+    "JSONKey": "TO",
+    "assetName": "Tonic"
+  },
+  {
+    "currencyID": 114,
+    "crossplayID": 114,
+    "Name": "TonicBooster",
+    "JSONKey": "TOB",
+    "assetName": "TonicBooster"
+  },
+  {
+    "currencyID": 115,
+    "crossplayID": 115,
+    "Name": "Statuette",
+    "JSONKey": "STA",
+    "assetName": "Statuette"
+  },
+  {
+    "currencyID": 116,
+    "crossplayID": 116,
+    "Name": "StatuetteBooster",
+    "JSONKey": "STAB",
+    "assetName": "StatuetteBooster"
+  },
+  {
+    "currencyID": 117,
+    "crossplayID": 117,
+    "Name": "AllianceStatuette",
+    "JSONKey": "AS",
+    "assetName": "AllianceStatuette"
+  },
+  {
+    "currencyID": 118,
+    "crossplayID": 118,
+    "Name": "StatuetteMalus",
+    "JSONKey": "SMA",
+    "assetName": "StatuetteMalus"
+  },
+  {
+    "currencyID": 35,
+    "crossplayID": 35,
+    "Name": "GoldToken",
+    "JSONKey": "GTO",
+    "assetName": "GoldToken"
+  },
+  {
+    "currencyID": 36,
+    "crossplayID": 36,
+    "Name": "SilverToken",
+    "JSONKey": "STO",
+    "assetName": "SilverToken"
+  },
+  {
+    "currencyID": 37,
+    "crossplayID": 37,
+    "Name": "BronzeToken",
+    "JSONKey": "BTO",
+    "assetName": "BronzeToken"
+  },
+  {
+    "currencyID": 38,
+    "crossplayID": 38,
+    "Name": "Influence",
+    "JSONKey": "IN",
+    "assetName": "Influence"
+  },
+  {
+    "currencyID": 39,
+    "crossplayID": 39,
+    "Name": "AllianceInfluence",
+    "JSONKey": "AIN",
+    "assetName": "AllianceInfluence"
+  },
+  {
+    "currencyID": 40,
+    "crossplayID": 40,
+    "Name": "InfluenceBooster",
+    "JSONKey": "INB",
+    "assetName": "InfluenceBooster"
+  },
+  {
+    "currencyID": 41,
+    "crossplayID": 41,
+    "Name": "SpiritDoubloon",
+    "JSONKey": "SD",
+    "assetName": "SpiritDoubloon"
+  },
+  {
+    "currencyID": 42,
+    "crossplayID": 42,
+    "Name": "VigorDoubloon",
+    "JSONKey": "VD",
+    "assetName": "VigorDoubloon"
+  },
+  {
+    "currencyID": 43,
+    "crossplayID": 43,
+    "Name": "BastionDoubloon",
+    "JSONKey": "BD",
+    "assetName": "BastionDoubloon"
+  },
+  {
+    "currencyID": 44,
+    "crossplayID": 44,
+    "Name": "RampartDoubloon",
+    "JSONKey": "RD",
+    "assetName": "RampartDoubloon"
+  },
+  {
+    "currencyID": 50,
+    "crossplayID": 50,
+    "Name": "AnniversaryToken",
+    "JSONKey": "ACO",
+    "assetName": "AnniversaryToken"
+  },
+  {
+    "currencyID": 51,
+    "crossplayID": 51,
+    "Name": "XmasLTPEToken",
+    "JSONKey": "XST",
+    "assetName": "XmasLTPEToken"
+  },
+  {
+    "currencyID": 52,
+    "crossplayID": 52,
+    "Name": "SpringLTPEToken",
+    "JSONKey": "SPT",
+    "assetName": "SpringLTPEToken"
+  },
+  {
+    "currencyID": 53,
+    "crossplayID": 53,
+    "Name": "NewKingLTPEToken",
+    "JSONKey": "NKT",
+    "assetName": "NewKingLTPEToken"
+  },
+  {
+    "currencyID": 54,
+    "crossplayID": 54,
+    "Name": "LotusFlowerLTPEToken",
+    "JSONKey": "LFT",
+    "assetName": "LotusFlowerLTPEToken"
+  },
+  {
+    "currencyID": 55,
+    "crossplayID": 55,
+    "Name": "OctoberfestLTPEToken",
+    "JSONKey": "OFT",
+    "assetName": "OctoberfestLTPEToken"
+  },
+  {
+    "currencyID": 56,
+    "crossplayID": 56,
+    "Name": "HalloweenLTPEToken",
+    "JSONKey": "HWT",
+    "assetName": "HalloweenLTPEToken"
+  },
+  {
+    "currencyID": 57,
+    "crossplayID": 57,
+    "Name": "IceLTPEToken",
+    "JSONKey": "IT",
+    "assetName": "IceLTPEToken"
+  },
+  {
+    "currencyID": 58,
+    "crossplayID": 58,
+    "Name": "StPatrickLTPEToken",
+    "JSONKey": "STPT",
+    "assetName": "StPatrickLTPEToken"
+  },
+  {
+    "currencyID": 59,
+    "crossplayID": 59,
+    "Name": "MayaLTPEToken",
+    "JSONKey": "MPT",
+    "assetName": "MayaLTPEToken"
+  },
+  {
+    "currencyID": 60,
+    "crossplayID": 60,
+    "Name": "PiratesLTPEToken",
+    "JSONKey": "PPT",
+    "assetName": "PiratesLTPEToken"
+  },
+  {
+    "currencyID": 61,
+    "crossplayID": 61,
+    "Name": "DragonriderLTPEToken",
+    "JSONKey": "DRPT",
+    "assetName": "DragonriderLTPEToken"
+  },
+  {
+    "currencyID": 6001,
+    "crossplayID": 6001,
+    "Name": "FatKingToken",
+    "JSONKey": "FKT",
+    "assetName": "FatKingToken"
+  },
+  {
+    "currencyID": 6002,
+    "crossplayID": 6002,
+    "Name": "KnightToken",
+    "JSONKey": "KTK",
+    "assetName": "KnightToken"
+  },
+  {
+    "currencyID": 6003,
+    "crossplayID": 6003,
+    "Name": "PrincessToken",
+    "JSONKey": "PTK",
+    "assetName": "PrincessToken"
+  },
+  {
+    "currencyID": 6004,
+    "crossplayID": 6004,
+    "Name": "SasakiToken",
+    "JSONKey": "STK",
+    "assetName": "SasakiToken"
+  },
+  {
+    "currencyID": 6005,
+    "crossplayID": 6005,
+    "Name": "TiziToken",
+    "JSONKey": "TTK",
+    "assetName": "TiziToken"
+  },
+  {
+    "currencyID": 6006,
+    "crossplayID": 6006,
+    "Name": "TomAliceToken",
+    "JSONKey": "TAT",
+    "assetName": "TomAliceToken"
+  },
+  {
+    "currencyID": 6007,
+    "crossplayID": 6007,
+    "Name": "HasanToken",
+    "JSONKey": "HAT",
+    "assetName": "HasanToken"
+  },
+  {
+    "currencyID": 6008,
+    "crossplayID": 6008,
+    "Name": "DianaToken",
+    "JSONKey": "DAT",
+    "assetName": "DianaToken"
+  },
+  {
+    "currencyID": 6009,
+    "crossplayID": 6009,
+    "Name": "ValentaToken",
+    "JSONKey": "VAT",
+    "assetName": "ValentaToken"
+  },
+  {
+    "currencyID": 6010,
+    "crossplayID": 6010,
+    "Name": "GarrikToken",
+    "JSONKey": "GAT",
+    "assetName": "GarrikToken"
+  },
+  {
+    "currencyID": 6011,
+    "crossplayID": 6011,
+    "Name": "AshiraToken",
+    "JSONKey": "AST",
+    "assetName": "AshiraToken"
+  },
+  {
+    "currencyID": 6012,
+    "crossplayID": 6012,
+    "Name": "KaelrithToken",
+    "JSONKey": "KLT",
+    "assetName": "KaelrithToken"
+  },
+  {
+    "currencyID": 6013,
+    "crossplayID": 6013,
+    "Name": "BarinToken",
+    "JSONKey": "BRN",
+    "assetName": "BarinToken"
+  },
+  {
+    "currencyID": 6014,
+    "crossplayID": 6014,
+    "Name": "EdricToken",
+    "JSONKey": "EDR",
+    "assetName": "EdricToken"
+  },
+  {
+    "currencyID": 10000,
+    "crossplayID": 10000,
+    "Name": "ShardUniversal",
+    "JSONKey": "SUN",
+    "assetName": "ShardUniversal"
+  },
+  {
+    "currencyID": 10001,
+    "crossplayID": 10001,
+    "Name": "ShardToril",
+    "JSONKey": "STL",
+    "assetName": "ShardToril"
+  },
+  {
+    "currencyID": 10002,
+    "crossplayID": 10002,
+    "Name": "ShardLeo",
+    "JSONKey": "SLE",
+    "assetName": "ShardLeo"
+  },
+  {
+    "currencyID": 10003,
+    "crossplayID": 10003,
+    "Name": "ShardAlyssa",
+    "JSONKey": "SAL",
+    "assetName": "ShardAlyssa"
+  },
+  {
+    "currencyID": 10004,
+    "crossplayID": 10004,
+    "Name": "ShardHoratio",
+    "JSONKey": "SHT",
+    "assetName": "ShardHoratio"
+  },
+  {
+    "currencyID": 10005,
+    "crossplayID": 10005,
+    "Name": "ShardSasaki",
+    "JSONKey": "SSK",
+    "assetName": "ShardSasaki"
+  },
+  {
+    "currencyID": 10006,
+    "crossplayID": 10006,
+    "Name": "ShardDiana",
+    "JSONKey": "SDN",
+    "assetName": "ShardDiana"
+  },
+  {
+    "currencyID": 10007,
+    "crossplayID": 10007,
+    "Name": "ShardTom",
+    "JSONKey": "SOM",
+    "assetName": "ShardTom"
+  },
+  {
+    "currencyID": 10008,
+    "crossplayID": 10008,
+    "Name": "ShardAlice",
+    "JSONKey": "SAI",
+    "assetName": "ShardAlice"
+  },
+  {
+    "currencyID": 10009,
+    "crossplayID": 10009,
+    "Name": "ShardTizi",
+    "JSONKey": "STT",
+    "assetName": "ShardTizi"
+  },
+  {
+    "currencyID": 10010,
+    "crossplayID": 10010,
+    "Name": "ShardHasan",
+    "JSONKey": "SHS",
+    "assetName": "ShardHasan"
+  },
+  {
+    "currencyID": 10012,
+    "crossplayID": 10012,
+    "Name": "ShardValenta",
+    "JSONKey": "SVA",
+    "assetName": "ShardValenta"
+  },
+  {
+    "currencyID": 10013,
+    "crossplayID": 10013,
+    "Name": "ShardGarrik",
+    "JSONKey": "SGA",
+    "assetName": "ShardGarrik"
+  },
+  {
+    "currencyID": 10014,
+    "crossplayID": 10014,
+    "Name": "ShardAshira",
+    "JSONKey": "SAS",
+    "assetName": "ShardAshira"
+  },
+  {
+    "currencyID": 10015,
+    "crossplayID": 10015,
+    "Name": "ShardKaelrith",
+    "JSONKey": "SKL",
+    "assetName": "ShardKaelrith"
+  },
+  {
+    "currencyID": 10017,
+    "crossplayID": 10017,
+    "Name": "ShardBarin",
+    "JSONKey": "SBR",
+    "assetName": "ShardBarin"
+  },
+  {
+    "currencyID": 10016,
+    "crossplayID": 10016,
+    "Name": "ShardEdric",
+    "JSONKey": "SDR",
+    "assetName": "ShardEdric"
+  },
+  {
+    "currencyID": 9999,
+    "crossplayID": 9999,
+    "Name": "GeneralsSkillsResetToken",
+    "JSONKey": "GRT",
+    "assetName": "GeneralsSkillsResetToken"
+  },
+  {
+    "currencyID": 7001,
+    "crossplayID": 7001,
+    "Name": "GenXP250",
+    "JSONKey": "GXP1",
+    "assetName": "GenXP250"
+  },
+  {
+    "currencyID": 7002,
+    "crossplayID": 7002,
+    "Name": "GenXP500",
+    "JSONKey": "GXP2",
+    "assetName": "GenXP500"
+  },
+  {
+    "currencyID": 7003,
+    "crossplayID": 7003,
+    "Name": "GenXP1000",
+    "JSONKey": "GXP3",
+    "assetName": "GenXP1000"
+  },
+  {
+    "currencyID": 7004,
+    "crossplayID": 7004,
+    "Name": "GenXP2500",
+    "JSONKey": "GXP4",
+    "assetName": "GenXP2500"
+  },
+  {
+    "currencyID": 7005,
+    "crossplayID": 7005,
+    "Name": "GenXP5000",
+    "JSONKey": "GXP5",
+    "assetName": "GenXP5000"
+  },
+  {
+    "currencyID": 7006,
+    "crossplayID": 7006,
+    "Name": "GenXP7500",
+    "JSONKey": "GXP6",
+    "assetName": "GenXP7500"
+  },
+  {
+    "currencyID": 7007,
+    "crossplayID": 7007,
+    "Name": "GenXP10000",
+    "JSONKey": "GXP7",
+    "assetName": "GenXP10000"
+  },
+  {
+    "currencyID": 7008,
+    "crossplayID": 7008,
+    "Name": "GenXP12500",
+    "JSONKey": "GXP8",
+    "assetName": "GenXP12500"
+  },
+  {
+    "currencyID": 7009,
+    "crossplayID": 7009,
+    "Name": "GenXP15000",
+    "JSONKey": "GXP9",
+    "assetName": "GenXP15000"
+  },
+  {
+    "currencyID": 8,
+    "crossplayID": 8,
+    "Name": "CastlePassageToken",
+    "JSONKey": "CPT",
+    "assetName": "CastlePassageToken"
+  },
+  {
+    "currencyID": 2000,
+    "crossplayID": 2000,
+    "Name": "RareBoosterConsumable",
+    "JSONKey": "BC1",
+    "assetName": "RareBoosterConsumable"
+  },
+  {
+    "currencyID": 2001,
+    "crossplayID": 2001,
+    "Name": "EpicBoosterConsumable",
+    "JSONKey": "BC2",
+    "assetName": "EpicBoosterConsumable"
+  },
+  {
+    "currencyID": 2002,
+    "crossplayID": 2002,
+    "Name": "LegendaryBoosterConsumable",
+    "JSONKey": "BC3",
+    "assetName": "LegendaryBoosterConsumable"
+  },
+  {
+    "currencyID": 46,
+    "crossplayID": 46,
+    "Name": "CargoPoints",
+    "JSONKey": "IAP",
+    "assetName": "CargoPoints"
+  },
+  {
+    "currencyID": 3001,
+    "crossplayID": 3001,
+    "Name": "RefinedLumber",
+    "JSONKey": "RL",
+    "assetName": "RefinedLumber"
+  },
+  {
+    "currencyID": 3002,
+    "crossplayID": 3002,
+    "Name": "RefinedStone",
+    "JSONKey": "RS",
+    "assetName": "RefinedStone"
+  },
+  {
+    "currencyID": 3003,
+    "crossplayID": 3003,
+    "Name": "Component1",
+    "JSONKey": "CO1",
+    "assetName": "Component1"
+  },
+  {
+    "currencyID": 3004,
+    "crossplayID": 3004,
+    "Name": "Component2",
+    "JSONKey": "CO2",
+    "assetName": "Component2"
+  },
+  {
+    "currencyID": 3005,
+    "crossplayID": 3005,
+    "Name": "Component3",
+    "JSONKey": "CO3",
+    "assetName": "Component3"
+  },
+  {
+    "currencyID": 3006,
+    "crossplayID": 3006,
+    "Name": "Component4",
+    "JSONKey": "CO4",
+    "assetName": "Component4"
+  },
+  {
+    "currencyID": 3007,
+    "crossplayID": 3007,
+    "Name": "Component5",
+    "JSONKey": "CO5",
+    "assetName": "Component5"
+  },
+  {
+    "currencyID": 3008,
+    "crossplayID": 3008,
+    "Name": "Component6",
+    "JSONKey": "CO6",
+    "assetName": "Component6"
+  },
+  {
+    "currencyID": 3009,
+    "crossplayID": 3009,
+    "Name": "Component7",
+    "JSONKey": "CO7",
+    "assetName": "Component7"
+  },
+  {
+    "currencyID": 3010,
+    "crossplayID": 3010,
+    "Name": "Component8",
+    "JSONKey": "CO8",
+    "assetName": "Component8"
+  },
+  {
+    "currencyID": 5000,
+    "crossplayID": 5000,
+    "Name": "CommonMysteryBoxKey",
+    "JSONKey": "CMBK",
+    "assetName": "CommonMysteryBoxKey"
+  },
+  {
+    "currencyID": 5001,
+    "crossplayID": 5001,
+    "Name": "RareMysteryBoxKey",
+    "JSONKey": "RMBK",
+    "assetName": "RareMysteryBoxKey"
+  },
+  {
+    "currencyID": 5002,
+    "crossplayID": 5002,
+    "Name": "EpicMysteryBoxKey",
+    "JSONKey": "EMBK",
+    "assetName": "EpicMysteryBoxKey"
+  },
+  {
+    "currencyID": 5003,
+    "crossplayID": 5003,
+    "Name": "LegendaryMysteryBoxKey",
+    "JSONKey": "LMBK",
+    "assetName": "LegendaryMysteryBoxKey"
+  },
+  {
+    "currencyID": 8000,
+    "crossplayID": 8000,
+    "Name": "ImperialPatronageCharter",
+    "JSONKey": "IPC",
+    "assetName": "ImperialPatronageCharter"
+  },
+  {
+    "currencyID": 62,
+    "crossplayID": 62,
+    "Name": "Plaster",
+    "JSONKey": "PL",
+    "assetName": "Plaster"
+  },
+  {
+    "currencyID": 63,
+    "crossplayID": 63,
+    "Name": "DragonScaleTile",
+    "JSONKey": "DST",
+    "assetName": "DragonScaleTile"
+  },
+  {
+    "currencyID": 64,
+    "crossplayID": 64,
+    "Name": "ImperialDucat",
+    "JSONKey": "IDCT",
+    "assetName": "ImperialDucat"
+  },
+  {
+    "currencyID": 65,
+    "crossplayID": 65,
+    "Name": "Steel",
+    "JSONKey": "STEEL",
+    "assetName": "Steel"
+  },
+  {
+    "currencyID": 66,
+    "crossplayID": 66,
+    "Name": "DragonGlass",
+    "JSONKey": "DG",
+    "assetName": "DragonGlass"
+  },
+  {
+    "currencyID": 67,
+    "crossplayID": 67,
+    "Name": "DragonCharm",
+    "JSONKey": "DC",
+    "assetName": "DragonCharm"
+  },
+  {
+    "currencyID": 68,
+    "crossplayID": 68,
+    "Name": "TwinFlameAxes",
+    "JSONKey": "TFA",
+    "assetName": "TwinFlameAxes"
+  },
+  {
+    "currencyID": 69,
+    "crossplayID": 69,
+    "Name": "DragonGlassArrows",
+    "JSONKey": "DGA",
+    "assetName": "DragonGlassArrows"
+  },
+  {
+    "currencyID": 70,
+    "crossplayID": 70,
+    "Name": "DragonScaleSplinters",
+    "JSONKey": "DSS",
+    "assetName": "DragonScaleSplinters"
+  },
+  {
+    "currencyID": 71,
+    "crossplayID": 71,
+    "Name": "DragonScaleArmor",
+    "JSONKey": "DSAM",
+    "assetName": "DragonScaleArmor"
+  },
+  {
+    "currencyID": 72,
+    "crossplayID": 72,
+    "Name": "DragonScaleArrows",
+    "JSONKey": "DSAW",
+    "assetName": "DragonScaleArrows"
+  },
+  {
+    "currencyID": 73,
+    "crossplayID": 73,
+    "Name": "FloraToken",
+    "JSONKey": "FT",
+    "assetName": "FloraToken"
+  },
+  {
+    "currencyID": 74,
+    "crossplayID": 74,
+    "Name": "SoldierBiscuit",
+    "JSONKey": "SB",
+    "assetName": "SoldierBiscuit"
+  },
+  {
+    "currencyID": 75,
+    "crossplayID": 75,
+    "Name": "FrozenCarrot",
+    "JSONKey": "CC",
+    "assetName": "FrozenCarrot"
+  },
+  {
+    "currencyID": 76,
+    "crossplayID": 76,
+    "Name": "AdvisorFreeToken",
+    "JSONKey": "AFT",
+    "assetName": "AdvisorFreeToken"
+  },
+  {
+    "currencyID": 77,
+    "crossplayID": 77,
+    "Name": "NomadAdvisorToken",
+    "JSONKey": "NAT",
+    "assetName": "NomadAdvisorToken"
+  },
+  {
+    "currencyID": 78,
+    "crossplayID": 78,
+    "Name": "SamuraiAdvisorToken",
+    "JSONKey": "SAT",
+    "assetName": "SamuraiAdvisorToken"
+  },
+  {
+    "currencyID": 79,
+    "crossplayID": 79,
+    "Name": "BaronAdvisorToken",
+    "JSONKey": "BAT",
+    "assetName": "BaronAdvisorToken"
+  },
+  {
+    "currencyID": 80,
+    "crossplayID": 80,
+    "Name": "HollowMoonEgg",
+    "JSONKey": "HME",
+    "assetName": "HollowMoonEgg"
+  },
+  {
+    "currencyID": 81,
+    "crossplayID": 81,
+    "Name": "QuestTicket",
+    "JSONKey": "QT",
+    "assetName": "QuestTicket"
+  },
+  {
+    "currencyID": 82,
+    "crossplayID": 82,
+    "Name": "Orange",
+    "JSONKey": "ORG",
+    "assetName": "Orange"
+  },
+  {
+    "currencyID": 83,
+    "crossplayID": 83,
+    "Name": "AllianceCoin",
+    "JSONKey": "AC",
+    "assetName": "AllianceCoin"
+  },
+  {
+    "currencyID": 84,
+    "crossplayID": 84,
+    "Name": "LuckySlice",
+    "JSONKey": "LCS",
+    "assetName": "LuckySlice"
+  },
+  {
+    "currencyID": 9,
+    "crossplayID": 9,
+    "Name": "SweetTreat",
+    "JSONKey": "SWT",
+    "assetName": "SweetTreat"
+  },
+  {
+    "currencyID": 85,
+    "crossplayID": 85,
+    "Name": "RiftCoin",
+    "JSONKey": "RC",
+    "assetName": "RiftCoin"
+  },
+  {
+    "currencyID": 16,
+    "crossplayID": 16,
+    "Name": "MerchantsKey",
+    "JSONKey": "MK",
+    "assetName": "MerchantsKey"
+  },
+  {
+    "currencyID": 86,
+    "crossplayID": 86,
+    "Name": "LegendaryRiftCoin",
+    "JSONKey": "LRC",
+    "assetName": "LegendaryRiftCoin"
+  },
+  {
+    "currencyID": 87,
+    "crossplayID": 87,
+    "Name": "CarnivalMask",
+    "JSONKey": "CMK",
+    "assetName": "CarnivalMask"
+  },
+  {
+    "currencyID": 100000,
+    "crossplayID": 100000,
+    "Name": "DecoDust",
+    "JSONKey": "DD",
+    "assetName": "DecoDust"
+  },
+  {
+    "currencyID": 100001,
+    "crossplayID": 100001,
+    "Name": "DecoCatalyst1",
+    "JSONKey": "DC1",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100002,
+    "crossplayID": 100002,
+    "Name": "DecoCatalyst2",
+    "JSONKey": "DC2",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100003,
+    "crossplayID": 100003,
+    "Name": "DecoCatalyst3",
+    "JSONKey": "DC3",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100004,
+    "crossplayID": 100004,
+    "Name": "DecoCatalyst4",
+    "JSONKey": "DC4",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100005,
+    "crossplayID": 100005,
+    "Name": "DecoCatalyst5",
+    "JSONKey": "DC5",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100006,
+    "crossplayID": 100006,
+    "Name": "DecoCatalyst6",
+    "JSONKey": "DC6",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100007,
+    "crossplayID": 100007,
+    "Name": "DecoCatalyst7",
+    "JSONKey": "DC7",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100008,
+    "crossplayID": 100008,
+    "Name": "DecoCatalyst8",
+    "JSONKey": "DC8",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100009,
+    "crossplayID": 100009,
+    "Name": "DecoCatalyst9",
+    "JSONKey": "DC9",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100010,
+    "crossplayID": 100010,
+    "Name": "DecoCatalyst10",
+    "JSONKey": "DC10",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100011,
+    "crossplayID": 100011,
+    "Name": "DecoCatalyst11",
+    "JSONKey": "DC11",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100012,
+    "crossplayID": 100012,
+    "Name": "DecoCatalyst12",
+    "JSONKey": "DC12",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100013,
+    "crossplayID": 100013,
+    "Name": "DecoCatalyst13",
+    "JSONKey": "DC13",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100014,
+    "crossplayID": 100014,
+    "Name": "DecoCatalyst14",
+    "JSONKey": "DC14",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100015,
+    "crossplayID": 100015,
+    "Name": "DecoCatalyst15",
+    "JSONKey": "DC15",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100016,
+    "crossplayID": 100016,
+    "Name": "DecoCatalyst16",
+    "JSONKey": "DC16",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100017,
+    "crossplayID": 100017,
+    "Name": "DecoCatalyst17",
+    "JSONKey": "DC17",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100018,
+    "crossplayID": 100018,
+    "Name": "DecoCatalyst18",
+    "JSONKey": "DC18",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100019,
+    "crossplayID": 100019,
+    "Name": "DecoCatalyst19",
+    "JSONKey": "DC19",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100020,
+    "crossplayID": 100020,
+    "Name": "DecoCatalyst20",
+    "JSONKey": "DC20",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100021,
+    "crossplayID": 100021,
+    "Name": "DecoCatalyst21",
+    "JSONKey": "DC21",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100022,
+    "crossplayID": 100022,
+    "Name": "DecoCatalyst22",
+    "JSONKey": "DC22",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100023,
+    "crossplayID": 100023,
+    "Name": "DecoCatalyst23",
+    "JSONKey": "DC23",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100024,
+    "crossplayID": 100024,
+    "Name": "DecoCatalyst24",
+    "JSONKey": "DC24",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100025,
+    "crossplayID": 100025,
+    "Name": "DecoCatalyst25",
+    "JSONKey": "DC25",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100026,
+    "crossplayID": 100026,
+    "Name": "DecoCatalyst26",
+    "JSONKey": "DC26",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100027,
+    "crossplayID": 100027,
+    "Name": "DecoCatalyst27",
+    "JSONKey": "DC27",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100028,
+    "crossplayID": 100028,
+    "Name": "DecoCatalyst28",
+    "JSONKey": "DC28",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100029,
+    "crossplayID": 100029,
+    "Name": "DecoCatalyst29",
+    "JSONKey": "DC29",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100030,
+    "crossplayID": 100030,
+    "Name": "DecoCatalyst30",
+    "JSONKey": "DC30",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100031,
+    "crossplayID": 100031,
+    "Name": "DecoCatalyst31",
+    "JSONKey": "DC31",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100032,
+    "crossplayID": 100032,
+    "Name": "DecoCatalyst32",
+    "JSONKey": "DC32",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100033,
+    "crossplayID": 100033,
+    "Name": "DecoCatalyst33",
+    "JSONKey": "DC33",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100034,
+    "crossplayID": 100034,
+    "Name": "DecoCatalyst34",
+    "JSONKey": "DC34",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100035,
+    "crossplayID": 100035,
+    "Name": "DecoCatalyst35",
+    "JSONKey": "DC35",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100036,
+    "crossplayID": 100036,
+    "Name": "DecoCatalyst36",
+    "JSONKey": "DC36",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100037,
+    "crossplayID": 100037,
+    "Name": "DecoCatalyst37",
+    "JSONKey": "DC37",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100038,
+    "crossplayID": 100038,
+    "Name": "DecoCatalyst38",
+    "JSONKey": "DC38",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100039,
+    "crossplayID": 100039,
+    "Name": "DecoCatalyst39",
+    "JSONKey": "DC39",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100040,
+    "crossplayID": 100040,
+    "Name": "DecoCatalyst40",
+    "JSONKey": "DC40",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100041,
+    "crossplayID": 100041,
+    "Name": "DecoCatalyst41",
+    "JSONKey": "DC41",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100042,
+    "crossplayID": 100042,
+    "Name": "DecoCatalyst42",
+    "JSONKey": "DC42",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100043,
+    "crossplayID": 100043,
+    "Name": "DecoCatalyst43",
+    "JSONKey": "DC43",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100044,
+    "crossplayID": 100044,
+    "Name": "DecoCatalyst44",
+    "JSONKey": "DC44",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100045,
+    "crossplayID": 100045,
+    "Name": "DecoCatalyst45",
+    "JSONKey": "DC45",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100046,
+    "crossplayID": 100046,
+    "Name": "DecoCatalyst46",
+    "JSONKey": "DC46",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100047,
+    "crossplayID": 100047,
+    "Name": "DecoCatalyst47",
+    "JSONKey": "DC47",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100048,
+    "crossplayID": 100048,
+    "Name": "DecoCatalyst48",
+    "JSONKey": "DC48",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100049,
+    "crossplayID": 100049,
+    "Name": "DecoCatalyst49",
+    "JSONKey": "DC49",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100050,
+    "crossplayID": 100050,
+    "Name": "DecoCatalyst50",
+    "JSONKey": "DC50",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100051,
+    "crossplayID": 100051,
+    "Name": "DecoCatalyst51",
+    "JSONKey": "DC51",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100052,
+    "crossplayID": 100052,
+    "Name": "DecoCatalyst52",
+    "JSONKey": "DC52",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100053,
+    "crossplayID": 100053,
+    "Name": "DecoCatalyst53",
+    "JSONKey": "DC53",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100054,
+    "crossplayID": 100054,
+    "Name": "DecoCatalyst54",
+    "JSONKey": "DC54",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100055,
+    "crossplayID": 100055,
+    "Name": "DecoCatalyst55",
+    "JSONKey": "DC55",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100056,
+    "crossplayID": 100056,
+    "Name": "DecoCatalyst56",
+    "JSONKey": "DC56",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100057,
+    "crossplayID": 100057,
+    "Name": "DecoCatalyst57",
+    "JSONKey": "DC57",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100058,
+    "crossplayID": 100058,
+    "Name": "DecoCatalyst58",
+    "JSONKey": "DC58",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100059,
+    "crossplayID": 100059,
+    "Name": "DecoCatalyst59",
+    "JSONKey": "DC59",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100060,
+    "crossplayID": 100060,
+    "Name": "DecoCatalyst60",
+    "JSONKey": "DC60",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100061,
+    "crossplayID": 100061,
+    "Name": "DecoCatalyst61",
+    "JSONKey": "DC61",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100062,
+    "crossplayID": 100062,
+    "Name": "DecoCatalyst62",
+    "JSONKey": "DC62",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100063,
+    "crossplayID": 100063,
+    "Name": "DecoCatalyst63",
+    "JSONKey": "DC63",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100064,
+    "crossplayID": 100064,
+    "Name": "DecoCatalyst64",
+    "JSONKey": "DC64",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100065,
+    "crossplayID": 100065,
+    "Name": "DecoCatalyst65",
+    "JSONKey": "DC65",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100066,
+    "crossplayID": 100066,
+    "Name": "DecoCatalyst66",
+    "JSONKey": "DC66",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100067,
+    "crossplayID": 100067,
+    "Name": "DecoCatalyst67",
+    "JSONKey": "DC67",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100068,
+    "crossplayID": 100068,
+    "Name": "DecoCatalyst68",
+    "JSONKey": "DC68",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100069,
+    "crossplayID": 100069,
+    "Name": "DecoCatalyst69",
+    "JSONKey": "DC69",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100070,
+    "crossplayID": 100070,
+    "Name": "DecoCatalyst70",
+    "JSONKey": "DC70",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100071,
+    "crossplayID": 100071,
+    "Name": "DecoCatalyst71",
+    "JSONKey": "DC71",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100072,
+    "crossplayID": 100072,
+    "Name": "DecoCatalyst72",
+    "JSONKey": "DC72",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100073,
+    "crossplayID": 100073,
+    "Name": "DecoCatalyst73",
+    "JSONKey": "DC73",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100074,
+    "crossplayID": 100074,
+    "Name": "DecoCatalyst74",
+    "JSONKey": "DC74",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100075,
+    "crossplayID": 100075,
+    "Name": "DecoCatalyst75",
+    "JSONKey": "DC75",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100076,
+    "crossplayID": 100076,
+    "Name": "DecoCatalyst76",
+    "JSONKey": "DC76",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100077,
+    "crossplayID": 100077,
+    "Name": "DecoCatalyst77",
+    "JSONKey": "DC77",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100078,
+    "crossplayID": 100078,
+    "Name": "DecoCatalyst78",
+    "JSONKey": "DC78",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100079,
+    "crossplayID": 100079,
+    "Name": "DecoCatalyst79",
+    "JSONKey": "DC79",
+    "assetName": "DecoCatalyst"
+  },
+  {
+    "currencyID": 100080,
+    "crossplayID": 100080,
+    "Name": "DecoCatalyst80",
+    "JSONKey": "DC80",
+    "assetName": "DecoCatalyst"
+  }
+]

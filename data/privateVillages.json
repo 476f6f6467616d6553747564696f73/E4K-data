@@ -1,1084 +1,1082 @@
-{
-  "privateVillage": [
-    {
-      "villageID": 41,
-      "type": "wood",
-      "villageLevel": 1,
-      "kID": 2,
-      "costResourceVillageToken": 1,
-      "effects": "600&amp;2"
-    },
-    {
-      "villageID": 42,
-      "type": "wood",
-      "villageLevel": 2,
-      "kID": 2,
-      "costResourceVillageToken": 2,
-      "effects": "600&amp;4"
-    },
-    {
-      "villageID": 43,
-      "type": "wood",
-      "villageLevel": 3,
-      "kID": 2,
-      "costResourceVillageToken": 4,
-      "effects": "600&amp;6"
-    },
-    {
-      "villageID": 44,
-      "type": "wood",
-      "villageLevel": 4,
-      "kID": 2,
-      "costResourceVillageToken": 5,
-      "effects": "600&amp;9"
-    },
-    {
-      "villageID": 45,
-      "type": "wood",
-      "villageLevel": 5,
-      "kID": 2,
-      "costResourceVillageToken": 7,
-      "effects": "600&amp;12"
-    },
-    {
-      "villageID": 46,
-      "type": "wood",
-      "villageLevel": 6,
-      "kID": 2,
-      "costResourceVillageToken": 9,
-      "effects": "600&amp;20"
-    },
-    {
-      "villageID": 47,
-      "type": "wood",
-      "villageLevel": 7,
-      "kID": 2,
-      "costResourceVillageToken": 11,
-      "effects": "600&amp;24"
-    },
-    {
-      "villageID": 48,
-      "type": "wood",
-      "villageLevel": 8,
-      "kID": 2,
-      "costResourceVillageToken": 13,
-      "effects": "600&amp;28"
-    },
-    {
-      "villageID": 49,
-      "type": "wood",
-      "villageLevel": 9,
-      "kID": 2,
-      "costResourceVillageToken": 15,
-      "effects": "600&amp;31"
-    },
-    {
-      "villageID": 50,
-      "type": "wood",
-      "villageLevel": 10,
-      "kID": 2,
-      "costResourceVillageToken": 18,
-      "effects": "600&amp;35"
-    },
-    {
-      "villageID": 151,
-      "type": "wood",
-      "villageLevel": 11,
-      "kID": 2,
-      "costResourceVillageToken": 23,
-      "effects": "600&amp;37"
-    },
-    {
-      "villageID": 152,
-      "type": "wood",
-      "villageLevel": 12,
-      "kID": 2,
-      "costResourceVillageToken": 28,
-      "effects": "600&amp;39"
-    },
-    {
-      "villageID": 153,
-      "type": "wood",
-      "villageLevel": 13,
-      "kID": 2,
-      "costResourceVillageToken": 33,
-      "effects": "600&amp;41"
-    },
-    {
-      "villageID": 154,
-      "type": "wood",
-      "villageLevel": 14,
-      "kID": 2,
-      "costResourceVillageToken": 43,
-      "effects": "600&amp;43"
-    },
-    {
-      "villageID": 155,
-      "type": "wood",
-      "villageLevel": 15,
-      "kID": 2,
-      "costResourceVillageToken": 55,
-      "effects": "600&amp;45"
-    },
-    {
-      "villageID": 51,
-      "type": "stone",
-      "villageLevel": 1,
-      "kID": 2,
-      "costResourceVillageToken": 1,
-      "effects": "603&amp;2"
-    },
-    {
-      "villageID": 52,
-      "type": "stone",
-      "villageLevel": 2,
-      "kID": 2,
-      "costResourceVillageToken": 2,
-      "effects": "603&amp;4"
-    },
-    {
-      "villageID": 53,
-      "type": "stone",
-      "villageLevel": 3,
-      "kID": 2,
-      "costResourceVillageToken": 4,
-      "effects": "603&amp;6"
-    },
-    {
-      "villageID": 54,
-      "type": "stone",
-      "villageLevel": 4,
-      "kID": 2,
-      "costResourceVillageToken": 5,
-      "effects": "603&amp;9"
-    },
-    {
-      "villageID": 55,
-      "type": "stone",
-      "villageLevel": 5,
-      "kID": 2,
-      "costResourceVillageToken": 7,
-      "effects": "603&amp;12"
-    },
-    {
-      "villageID": 56,
-      "type": "stone",
-      "villageLevel": 6,
-      "kID": 2,
-      "costResourceVillageToken": 9,
-      "effects": "603&amp;20"
-    },
-    {
-      "villageID": 57,
-      "type": "stone",
-      "villageLevel": 7,
-      "kID": 2,
-      "costResourceVillageToken": 11,
-      "effects": "603&amp;24"
-    },
-    {
-      "villageID": 58,
-      "type": "stone",
-      "villageLevel": 8,
-      "kID": 2,
-      "costResourceVillageToken": 13,
-      "effects": "603&amp;28"
-    },
-    {
-      "villageID": 59,
-      "type": "stone",
-      "villageLevel": 9,
-      "kID": 2,
-      "costResourceVillageToken": 15,
-      "effects": "603&amp;31"
-    },
-    {
-      "villageID": 60,
-      "type": "stone",
-      "villageLevel": 10,
-      "kID": 2,
-      "costResourceVillageToken": 18,
-      "effects": "603&amp;35"
-    },
-    {
-      "villageID": 156,
-      "type": "stone",
-      "villageLevel": 11,
-      "kID": 2,
-      "costResourceVillageToken": 23,
-      "effects": "603&amp;37"
-    },
-    {
-      "villageID": 157,
-      "type": "stone",
-      "villageLevel": 12,
-      "kID": 2,
-      "costResourceVillageToken": 28,
-      "effects": "603&amp;39"
-    },
-    {
-      "villageID": 158,
-      "type": "stone",
-      "villageLevel": 13,
-      "kID": 2,
-      "costResourceVillageToken": 33,
-      "effects": "603&amp;41"
-    },
-    {
-      "villageID": 159,
-      "type": "stone",
-      "villageLevel": 14,
-      "kID": 2,
-      "costResourceVillageToken": 43,
-      "effects": "603&amp;43"
-    },
-    {
-      "villageID": 160,
-      "type": "stone",
-      "villageLevel": 15,
-      "kID": 2,
-      "costResourceVillageToken": 55,
-      "effects": "603&amp;45"
-    },
-    {
-      "villageID": 61,
-      "type": "food",
-      "villageLevel": 1,
-      "kID": 2,
-      "costResourceVillageToken": 2,
-      "effects": "606&amp;5"
-    },
-    {
-      "villageID": 62,
-      "type": "food",
-      "villageLevel": 2,
-      "kID": 2,
-      "costResourceVillageToken": 4,
-      "effects": "606&amp;10"
-    },
-    {
-      "villageID": 63,
-      "type": "food",
-      "villageLevel": 3,
-      "kID": 2,
-      "costResourceVillageToken": 7,
-      "effects": "606&amp;15"
-    },
-    {
-      "villageID": 64,
-      "type": "food",
-      "villageLevel": 4,
-      "kID": 2,
-      "costResourceVillageToken": 10,
-      "effects": "606&amp;20"
-    },
-    {
-      "villageID": 65,
-      "type": "food",
-      "villageLevel": 5,
-      "kID": 2,
-      "costResourceVillageToken": 13,
-      "effects": "606&amp;25"
-    },
-    {
-      "villageID": 66,
-      "type": "food",
-      "villageLevel": 6,
-      "kID": 2,
-      "costResourceVillageToken": 17,
-      "effects": "606&amp;30"
-    },
-    {
-      "villageID": 67,
-      "type": "food",
-      "villageLevel": 7,
-      "kID": 2,
-      "costResourceVillageToken": 21,
-      "effects": "606&amp;35"
-    },
-    {
-      "villageID": 68,
-      "type": "food",
-      "villageLevel": 8,
-      "kID": 2,
-      "costResourceVillageToken": 25,
-      "effects": "606&amp;40"
-    },
-    {
-      "villageID": 69,
-      "type": "food",
-      "villageLevel": 9,
-      "kID": 2,
-      "costResourceVillageToken": 30,
-      "effects": "606&amp;45"
-    },
-    {
-      "villageID": 70,
-      "type": "food",
-      "villageLevel": 10,
-      "kID": 2,
-      "costResourceVillageToken": 35,
-      "effects": "606&amp;50"
-    },
-    {
-      "villageID": 161,
-      "type": "food",
-      "villageLevel": 11,
-      "kID": 2,
-      "costResourceVillageToken": 45,
-      "effects": "606&amp;52"
-    },
-    {
-      "villageID": 162,
-      "type": "food",
-      "villageLevel": 12,
-      "kID": 2,
-      "costResourceVillageToken": 55,
-      "effects": "606&amp;54"
-    },
-    {
-      "villageID": 163,
-      "type": "food",
-      "villageLevel": 13,
-      "kID": 2,
-      "costResourceVillageToken": 65,
-      "effects": "606&amp;56"
-    },
-    {
-      "villageID": 164,
-      "type": "food",
-      "villageLevel": 14,
-      "kID": 2,
-      "costResourceVillageToken": 85,
-      "effects": "606&amp;58"
-    },
-    {
-      "villageID": 165,
-      "type": "food",
-      "villageLevel": 15,
-      "kID": 2,
-      "costResourceVillageToken": 110,
-      "effects": "606&amp;60"
-    },
-    {
-      "villageID": 81,
-      "type": "wood",
-      "villageLevel": 1,
-      "kID": 1,
-      "costResourceVillageToken": 1,
-      "effects": "601&amp;2"
-    },
-    {
-      "villageID": 82,
-      "type": "wood",
-      "villageLevel": 2,
-      "kID": 1,
-      "costResourceVillageToken": 2,
-      "effects": "601&amp;4"
-    },
-    {
-      "villageID": 83,
-      "type": "wood",
-      "villageLevel": 3,
-      "kID": 1,
-      "costResourceVillageToken": 3,
-      "effects": "601&amp;6"
-    },
-    {
-      "villageID": 84,
-      "type": "wood",
-      "villageLevel": 4,
-      "kID": 1,
-      "costResourceVillageToken": 4,
-      "effects": "601&amp;8"
-    },
-    {
-      "villageID": 85,
-      "type": "wood",
-      "villageLevel": 5,
-      "kID": 1,
-      "costResourceVillageToken": 5,
-      "effects": "601&amp;10"
-    },
-    {
-      "villageID": 86,
-      "type": "wood",
-      "villageLevel": 6,
-      "kID": 1,
-      "costResourceVillageToken": 6,
-      "effects": "601&amp;12"
-    },
-    {
-      "villageID": 87,
-      "type": "wood",
-      "villageLevel": 7,
-      "kID": 1,
-      "costResourceVillageToken": 8,
-      "effects": "601&amp;14"
-    },
-    {
-      "villageID": 88,
-      "type": "wood",
-      "villageLevel": 8,
-      "kID": 1,
-      "costResourceVillageToken": 10,
-      "effects": "601&amp;16"
-    },
-    {
-      "villageID": 89,
-      "type": "wood",
-      "villageLevel": 9,
-      "kID": 1,
-      "costResourceVillageToken": 13,
-      "effects": "601&amp;18"
-    },
-    {
-      "villageID": 90,
-      "type": "wood",
-      "villageLevel": 10,
-      "kID": 1,
-      "costResourceVillageToken": 15,
-      "effects": "601&amp;20"
-    },
-    {
-      "villageID": 166,
-      "type": "wood",
-      "villageLevel": 11,
-      "kID": 1,
-      "costResourceVillageToken": 20,
-      "effects": "601&amp;22"
-    },
-    {
-      "villageID": 167,
-      "type": "wood",
-      "villageLevel": 12,
-      "kID": 1,
-      "costResourceVillageToken": 25,
-      "effects": "601&amp;24"
-    },
-    {
-      "villageID": 168,
-      "type": "wood",
-      "villageLevel": 13,
-      "kID": 1,
-      "costResourceVillageToken": 30,
-      "effects": "601&amp;26"
-    },
-    {
-      "villageID": 169,
-      "type": "wood",
-      "villageLevel": 14,
-      "kID": 1,
-      "costResourceVillageToken": 40,
-      "effects": "601&amp;28"
-    },
-    {
-      "villageID": 170,
-      "type": "wood",
-      "villageLevel": 15,
-      "kID": 1,
-      "costResourceVillageToken": 50,
-      "effects": "601&amp;30"
-    },
-    {
-      "villageID": 91,
-      "type": "stone",
-      "villageLevel": 1,
-      "kID": 1,
-      "costResourceVillageToken": 1,
-      "effects": "604&amp;2"
-    },
-    {
-      "villageID": 92,
-      "type": "stone",
-      "villageLevel": 2,
-      "kID": 1,
-      "costResourceVillageToken": 2,
-      "effects": "604&amp;4"
-    },
-    {
-      "villageID": 93,
-      "type": "stone",
-      "villageLevel": 3,
-      "kID": 1,
-      "costResourceVillageToken": 3,
-      "effects": "604&amp;6"
-    },
-    {
-      "villageID": 94,
-      "type": "stone",
-      "villageLevel": 4,
-      "kID": 1,
-      "costResourceVillageToken": 4,
-      "effects": "604&amp;8"
-    },
-    {
-      "villageID": 95,
-      "type": "stone",
-      "villageLevel": 5,
-      "kID": 1,
-      "costResourceVillageToken": 5,
-      "effects": "604&amp;10"
-    },
-    {
-      "villageID": 96,
-      "type": "stone",
-      "villageLevel": 6,
-      "kID": 1,
-      "costResourceVillageToken": 6,
-      "effects": "604&amp;12"
-    },
-    {
-      "villageID": 97,
-      "type": "stone",
-      "villageLevel": 7,
-      "kID": 1,
-      "costResourceVillageToken": 8,
-      "effects": "604&amp;14"
-    },
-    {
-      "villageID": 98,
-      "type": "stone",
-      "villageLevel": 8,
-      "kID": 1,
-      "costResourceVillageToken": 10,
-      "effects": "604&amp;16"
-    },
-    {
-      "villageID": 99,
-      "type": "stone",
-      "villageLevel": 9,
-      "kID": 1,
-      "costResourceVillageToken": 13,
-      "effects": "604&amp;18"
-    },
-    {
-      "villageID": 100,
-      "type": "stone",
-      "villageLevel": 10,
-      "kID": 1,
-      "costResourceVillageToken": 15,
-      "effects": "604&amp;20"
-    },
-    {
-      "villageID": 171,
-      "type": "stone",
-      "villageLevel": 11,
-      "kID": 1,
-      "costResourceVillageToken": 20,
-      "effects": "604&amp;22"
-    },
-    {
-      "villageID": 172,
-      "type": "stone",
-      "villageLevel": 12,
-      "kID": 1,
-      "costResourceVillageToken": 25,
-      "effects": "604&amp;24"
-    },
-    {
-      "villageID": 173,
-      "type": "stone",
-      "villageLevel": 13,
-      "kID": 1,
-      "costResourceVillageToken": 30,
-      "effects": "604&amp;26"
-    },
-    {
-      "villageID": 174,
-      "type": "stone",
-      "villageLevel": 14,
-      "kID": 1,
-      "costResourceVillageToken": 40,
-      "effects": "604&amp;28"
-    },
-    {
-      "villageID": 175,
-      "type": "stone",
-      "villageLevel": 15,
-      "kID": 1,
-      "costResourceVillageToken": 50,
-      "effects": "604&amp;30"
-    },
-    {
-      "villageID": 101,
-      "type": "food",
-      "villageLevel": 1,
-      "kID": 1,
-      "costResourceVillageToken": 1,
-      "effects": "607&amp;3"
-    },
-    {
-      "villageID": 102,
-      "type": "food",
-      "villageLevel": 2,
-      "kID": 1,
-      "costResourceVillageToken": 2,
-      "effects": "607&amp;6"
-    },
-    {
-      "villageID": 103,
-      "type": "food",
-      "villageLevel": 3,
-      "kID": 1,
-      "costResourceVillageToken": 4,
-      "effects": "607&amp;9"
-    },
-    {
-      "villageID": 104,
-      "type": "food",
-      "villageLevel": 4,
-      "kID": 1,
-      "costResourceVillageToken": 6,
-      "effects": "607&amp;12"
-    },
-    {
-      "villageID": 105,
-      "type": "food",
-      "villageLevel": 5,
-      "kID": 1,
-      "costResourceVillageToken": 9,
-      "effects": "607&amp;15"
-    },
-    {
-      "villageID": 106,
-      "type": "food",
-      "villageLevel": 6,
-      "kID": 1,
-      "costResourceVillageToken": 12,
-      "effects": "607&amp;18"
-    },
-    {
-      "villageID": 107,
-      "type": "food",
-      "villageLevel": 7,
-      "kID": 1,
-      "costResourceVillageToken": 16,
-      "effects": "607&amp;21"
-    },
-    {
-      "villageID": 108,
-      "type": "food",
-      "villageLevel": 8,
-      "kID": 1,
-      "costResourceVillageToken": 20,
-      "effects": "607&amp;24"
-    },
-    {
-      "villageID": 109,
-      "type": "food",
-      "villageLevel": 9,
-      "kID": 1,
-      "costResourceVillageToken": 25,
-      "effects": "607&amp;27"
-    },
-    {
-      "villageID": 110,
-      "type": "food",
-      "villageLevel": 10,
-      "kID": 1,
-      "costResourceVillageToken": 30,
-      "effects": "607&amp;30"
-    },
-    {
-      "villageID": 176,
-      "type": "food",
-      "villageLevel": 11,
-      "kID": 1,
-      "costResourceVillageToken": 40,
-      "effects": "607&amp;32"
-    },
-    {
-      "villageID": 177,
-      "type": "food",
-      "villageLevel": 12,
-      "kID": 1,
-      "costResourceVillageToken": 50,
-      "effects": "607&amp;34"
-    },
-    {
-      "villageID": 178,
-      "type": "food",
-      "villageLevel": 13,
-      "kID": 1,
-      "costResourceVillageToken": 60,
-      "effects": "607&amp;36"
-    },
-    {
-      "villageID": 179,
-      "type": "food",
-      "villageLevel": 14,
-      "kID": 1,
-      "costResourceVillageToken": 80,
-      "effects": "607&amp;38"
-    },
-    {
-      "villageID": 180,
-      "type": "food",
-      "villageLevel": 15,
-      "kID": 1,
-      "costResourceVillageToken": 100,
-      "effects": "607&amp;40"
-    },
-    {
-      "villageID": 121,
-      "type": "wood",
-      "villageLevel": 1,
-      "kID": 3,
-      "costResourceVillageToken": 1,
-      "effects": "602&amp;2"
-    },
-    {
-      "villageID": 122,
-      "type": "wood",
-      "villageLevel": 2,
-      "kID": 3,
-      "costResourceVillageToken": 2,
-      "effects": "602&amp;4"
-    },
-    {
-      "villageID": 123,
-      "type": "wood",
-      "villageLevel": 3,
-      "kID": 3,
-      "costResourceVillageToken": 3,
-      "effects": "602&amp;6"
-    },
-    {
-      "villageID": 124,
-      "type": "wood",
-      "villageLevel": 4,
-      "kID": 3,
-      "costResourceVillageToken": 4,
-      "effects": "602&amp;8"
-    },
-    {
-      "villageID": 125,
-      "type": "wood",
-      "villageLevel": 5,
-      "kID": 3,
-      "costResourceVillageToken": 5,
-      "effects": "602&amp;10"
-    },
-    {
-      "villageID": 126,
-      "type": "wood",
-      "villageLevel": 6,
-      "kID": 3,
-      "costResourceVillageToken": 6,
-      "effects": "602&amp;12"
-    },
-    {
-      "villageID": 127,
-      "type": "wood",
-      "villageLevel": 7,
-      "kID": 3,
-      "costResourceVillageToken": 8,
-      "effects": "602&amp;14"
-    },
-    {
-      "villageID": 128,
-      "type": "wood",
-      "villageLevel": 8,
-      "kID": 3,
-      "costResourceVillageToken": 10,
-      "effects": "602&amp;16"
-    },
-    {
-      "villageID": 129,
-      "type": "wood",
-      "villageLevel": 9,
-      "kID": 3,
-      "costResourceVillageToken": 13,
-      "effects": "602&amp;18"
-    },
-    {
-      "villageID": 130,
-      "type": "wood",
-      "villageLevel": 10,
-      "kID": 3,
-      "costResourceVillageToken": 15,
-      "effects": "602&amp;20"
-    },
-    {
-      "villageID": 181,
-      "type": "wood",
-      "villageLevel": 11,
-      "kID": 3,
-      "costResourceVillageToken": 20,
-      "effects": "602&amp;22"
-    },
-    {
-      "villageID": 182,
-      "type": "wood",
-      "villageLevel": 12,
-      "kID": 3,
-      "costResourceVillageToken": 25,
-      "effects": "602&amp;24"
-    },
-    {
-      "villageID": 183,
-      "type": "wood",
-      "villageLevel": 13,
-      "kID": 3,
-      "costResourceVillageToken": 30,
-      "effects": "602&amp;26"
-    },
-    {
-      "villageID": 184,
-      "type": "wood",
-      "villageLevel": 14,
-      "kID": 3,
-      "costResourceVillageToken": 40,
-      "effects": "602&amp;28"
-    },
-    {
-      "villageID": 185,
-      "type": "wood",
-      "villageLevel": 15,
-      "kID": 3,
-      "costResourceVillageToken": 50,
-      "effects": "602&amp;30"
-    },
-    {
-      "villageID": 131,
-      "type": "stone",
-      "villageLevel": 1,
-      "kID": 3,
-      "costResourceVillageToken": 1,
-      "effects": "605&amp;2"
-    },
-    {
-      "villageID": 132,
-      "type": "stone",
-      "villageLevel": 2,
-      "kID": 3,
-      "costResourceVillageToken": 2,
-      "effects": "605&amp;4"
-    },
-    {
-      "villageID": 133,
-      "type": "stone",
-      "villageLevel": 3,
-      "kID": 3,
-      "costResourceVillageToken": 3,
-      "effects": "605&amp;6"
-    },
-    {
-      "villageID": 134,
-      "type": "stone",
-      "villageLevel": 4,
-      "kID": 3,
-      "costResourceVillageToken": 4,
-      "effects": "605&amp;8"
-    },
-    {
-      "villageID": 135,
-      "type": "stone",
-      "villageLevel": 5,
-      "kID": 3,
-      "costResourceVillageToken": 5,
-      "effects": "605&amp;10"
-    },
-    {
-      "villageID": 136,
-      "type": "stone",
-      "villageLevel": 6,
-      "kID": 3,
-      "costResourceVillageToken": 6,
-      "effects": "605&amp;12"
-    },
-    {
-      "villageID": 137,
-      "type": "stone",
-      "villageLevel": 7,
-      "kID": 3,
-      "costResourceVillageToken": 8,
-      "effects": "605&amp;14"
-    },
-    {
-      "villageID": 138,
-      "type": "stone",
-      "villageLevel": 8,
-      "kID": 3,
-      "costResourceVillageToken": 10,
-      "effects": "605&amp;16"
-    },
-    {
-      "villageID": 139,
-      "type": "stone",
-      "villageLevel": 9,
-      "kID": 3,
-      "costResourceVillageToken": 13,
-      "effects": "605&amp;18"
-    },
-    {
-      "villageID": 140,
-      "type": "stone",
-      "villageLevel": 10,
-      "kID": 3,
-      "costResourceVillageToken": 15,
-      "effects": "605&amp;20"
-    },
-    {
-      "villageID": 186,
-      "type": "stone",
-      "villageLevel": 11,
-      "kID": 3,
-      "costResourceVillageToken": 20,
-      "effects": "605&amp;22"
-    },
-    {
-      "villageID": 187,
-      "type": "stone",
-      "villageLevel": 12,
-      "kID": 3,
-      "costResourceVillageToken": 25,
-      "effects": "605&amp;24"
-    },
-    {
-      "villageID": 188,
-      "type": "stone",
-      "villageLevel": 13,
-      "kID": 3,
-      "costResourceVillageToken": 30,
-      "effects": "605&amp;26"
-    },
-    {
-      "villageID": 189,
-      "type": "stone",
-      "villageLevel": 14,
-      "kID": 3,
-      "costResourceVillageToken": 40,
-      "effects": "605&amp;28"
-    },
-    {
-      "villageID": 190,
-      "type": "stone",
-      "villageLevel": 15,
-      "kID": 3,
-      "costResourceVillageToken": 50,
-      "effects": "605&amp;30"
-    },
-    {
-      "villageID": 141,
-      "type": "food",
-      "villageLevel": 1,
-      "kID": 3,
-      "costResourceVillageToken": 1,
-      "effects": "608&amp;3"
-    },
-    {
-      "villageID": 142,
-      "type": "food",
-      "villageLevel": 2,
-      "kID": 3,
-      "costResourceVillageToken": 2,
-      "effects": "608&amp;6"
-    },
-    {
-      "villageID": 143,
-      "type": "food",
-      "villageLevel": 3,
-      "kID": 3,
-      "costResourceVillageToken": 4,
-      "effects": "608&amp;9"
-    },
-    {
-      "villageID": 144,
-      "type": "food",
-      "villageLevel": 4,
-      "kID": 3,
-      "costResourceVillageToken": 6,
-      "effects": "608&amp;12"
-    },
-    {
-      "villageID": 145,
-      "type": "food",
-      "villageLevel": 5,
-      "kID": 3,
-      "costResourceVillageToken": 9,
-      "effects": "608&amp;15"
-    },
-    {
-      "villageID": 146,
-      "type": "food",
-      "villageLevel": 6,
-      "kID": 3,
-      "costResourceVillageToken": 12,
-      "effects": "608&amp;18"
-    },
-    {
-      "villageID": 147,
-      "type": "food",
-      "villageLevel": 7,
-      "kID": 3,
-      "costResourceVillageToken": 16,
-      "effects": "608&amp;21"
-    },
-    {
-      "villageID": 148,
-      "type": "food",
-      "villageLevel": 8,
-      "kID": 3,
-      "costResourceVillageToken": 20,
-      "effects": "608&amp;24"
-    },
-    {
-      "villageID": 149,
-      "type": "food",
-      "villageLevel": 9,
-      "kID": 3,
-      "costResourceVillageToken": 25,
-      "effects": "608&amp;27"
-    },
-    {
-      "villageID": 150,
-      "type": "food",
-      "villageLevel": 10,
-      "kID": 3,
-      "costResourceVillageToken": 30,
-      "effects": "608&amp;30"
-    },
-    {
-      "villageID": 191,
-      "type": "food",
-      "villageLevel": 11,
-      "kID": 3,
-      "costResourceVillageToken": 40,
-      "effects": "608&amp;32"
-    },
-    {
-      "villageID": 192,
-      "type": "food",
-      "villageLevel": 12,
-      "kID": 3,
-      "costResourceVillageToken": 50,
-      "effects": "608&amp;34"
-    },
-    {
-      "villageID": 193,
-      "type": "food",
-      "villageLevel": 13,
-      "kID": 3,
-      "costResourceVillageToken": 60,
-      "effects": "608&amp;36"
-    },
-    {
-      "villageID": 194,
-      "type": "food",
-      "villageLevel": 14,
-      "kID": 3,
-      "costResourceVillageToken": 80,
-      "effects": "608&amp;38"
-    },
-    {
-      "villageID": 195,
-      "type": "food",
-      "villageLevel": 15,
-      "kID": 3,
-      "costResourceVillageToken": 100,
-      "effects": "608&amp;40"
-    }
-  ]
-}
+[
+  {
+    "villageID": 41,
+    "type": "wood",
+    "villageLevel": 1,
+    "kID": 2,
+    "costResourceVillageToken": 1,
+    "effects": "600&amp;2"
+  },
+  {
+    "villageID": 42,
+    "type": "wood",
+    "villageLevel": 2,
+    "kID": 2,
+    "costResourceVillageToken": 2,
+    "effects": "600&amp;4"
+  },
+  {
+    "villageID": 43,
+    "type": "wood",
+    "villageLevel": 3,
+    "kID": 2,
+    "costResourceVillageToken": 4,
+    "effects": "600&amp;6"
+  },
+  {
+    "villageID": 44,
+    "type": "wood",
+    "villageLevel": 4,
+    "kID": 2,
+    "costResourceVillageToken": 5,
+    "effects": "600&amp;9"
+  },
+  {
+    "villageID": 45,
+    "type": "wood",
+    "villageLevel": 5,
+    "kID": 2,
+    "costResourceVillageToken": 7,
+    "effects": "600&amp;12"
+  },
+  {
+    "villageID": 46,
+    "type": "wood",
+    "villageLevel": 6,
+    "kID": 2,
+    "costResourceVillageToken": 9,
+    "effects": "600&amp;20"
+  },
+  {
+    "villageID": 47,
+    "type": "wood",
+    "villageLevel": 7,
+    "kID": 2,
+    "costResourceVillageToken": 11,
+    "effects": "600&amp;24"
+  },
+  {
+    "villageID": 48,
+    "type": "wood",
+    "villageLevel": 8,
+    "kID": 2,
+    "costResourceVillageToken": 13,
+    "effects": "600&amp;28"
+  },
+  {
+    "villageID": 49,
+    "type": "wood",
+    "villageLevel": 9,
+    "kID": 2,
+    "costResourceVillageToken": 15,
+    "effects": "600&amp;31"
+  },
+  {
+    "villageID": 50,
+    "type": "wood",
+    "villageLevel": 10,
+    "kID": 2,
+    "costResourceVillageToken": 18,
+    "effects": "600&amp;35"
+  },
+  {
+    "villageID": 151,
+    "type": "wood",
+    "villageLevel": 11,
+    "kID": 2,
+    "costResourceVillageToken": 23,
+    "effects": "600&amp;37"
+  },
+  {
+    "villageID": 152,
+    "type": "wood",
+    "villageLevel": 12,
+    "kID": 2,
+    "costResourceVillageToken": 28,
+    "effects": "600&amp;39"
+  },
+  {
+    "villageID": 153,
+    "type": "wood",
+    "villageLevel": 13,
+    "kID": 2,
+    "costResourceVillageToken": 33,
+    "effects": "600&amp;41"
+  },
+  {
+    "villageID": 154,
+    "type": "wood",
+    "villageLevel": 14,
+    "kID": 2,
+    "costResourceVillageToken": 43,
+    "effects": "600&amp;43"
+  },
+  {
+    "villageID": 155,
+    "type": "wood",
+    "villageLevel": 15,
+    "kID": 2,
+    "costResourceVillageToken": 55,
+    "effects": "600&amp;45"
+  },
+  {
+    "villageID": 51,
+    "type": "stone",
+    "villageLevel": 1,
+    "kID": 2,
+    "costResourceVillageToken": 1,
+    "effects": "603&amp;2"
+  },
+  {
+    "villageID": 52,
+    "type": "stone",
+    "villageLevel": 2,
+    "kID": 2,
+    "costResourceVillageToken": 2,
+    "effects": "603&amp;4"
+  },
+  {
+    "villageID": 53,
+    "type": "stone",
+    "villageLevel": 3,
+    "kID": 2,
+    "costResourceVillageToken": 4,
+    "effects": "603&amp;6"
+  },
+  {
+    "villageID": 54,
+    "type": "stone",
+    "villageLevel": 4,
+    "kID": 2,
+    "costResourceVillageToken": 5,
+    "effects": "603&amp;9"
+  },
+  {
+    "villageID": 55,
+    "type": "stone",
+    "villageLevel": 5,
+    "kID": 2,
+    "costResourceVillageToken": 7,
+    "effects": "603&amp;12"
+  },
+  {
+    "villageID": 56,
+    "type": "stone",
+    "villageLevel": 6,
+    "kID": 2,
+    "costResourceVillageToken": 9,
+    "effects": "603&amp;20"
+  },
+  {
+    "villageID": 57,
+    "type": "stone",
+    "villageLevel": 7,
+    "kID": 2,
+    "costResourceVillageToken": 11,
+    "effects": "603&amp;24"
+  },
+  {
+    "villageID": 58,
+    "type": "stone",
+    "villageLevel": 8,
+    "kID": 2,
+    "costResourceVillageToken": 13,
+    "effects": "603&amp;28"
+  },
+  {
+    "villageID": 59,
+    "type": "stone",
+    "villageLevel": 9,
+    "kID": 2,
+    "costResourceVillageToken": 15,
+    "effects": "603&amp;31"
+  },
+  {
+    "villageID": 60,
+    "type": "stone",
+    "villageLevel": 10,
+    "kID": 2,
+    "costResourceVillageToken": 18,
+    "effects": "603&amp;35"
+  },
+  {
+    "villageID": 156,
+    "type": "stone",
+    "villageLevel": 11,
+    "kID": 2,
+    "costResourceVillageToken": 23,
+    "effects": "603&amp;37"
+  },
+  {
+    "villageID": 157,
+    "type": "stone",
+    "villageLevel": 12,
+    "kID": 2,
+    "costResourceVillageToken": 28,
+    "effects": "603&amp;39"
+  },
+  {
+    "villageID": 158,
+    "type": "stone",
+    "villageLevel": 13,
+    "kID": 2,
+    "costResourceVillageToken": 33,
+    "effects": "603&amp;41"
+  },
+  {
+    "villageID": 159,
+    "type": "stone",
+    "villageLevel": 14,
+    "kID": 2,
+    "costResourceVillageToken": 43,
+    "effects": "603&amp;43"
+  },
+  {
+    "villageID": 160,
+    "type": "stone",
+    "villageLevel": 15,
+    "kID": 2,
+    "costResourceVillageToken": 55,
+    "effects": "603&amp;45"
+  },
+  {
+    "villageID": 61,
+    "type": "food",
+    "villageLevel": 1,
+    "kID": 2,
+    "costResourceVillageToken": 2,
+    "effects": "606&amp;5"
+  },
+  {
+    "villageID": 62,
+    "type": "food",
+    "villageLevel": 2,
+    "kID": 2,
+    "costResourceVillageToken": 4,
+    "effects": "606&amp;10"
+  },
+  {
+    "villageID": 63,
+    "type": "food",
+    "villageLevel": 3,
+    "kID": 2,
+    "costResourceVillageToken": 7,
+    "effects": "606&amp;15"
+  },
+  {
+    "villageID": 64,
+    "type": "food",
+    "villageLevel": 4,
+    "kID": 2,
+    "costResourceVillageToken": 10,
+    "effects": "606&amp;20"
+  },
+  {
+    "villageID": 65,
+    "type": "food",
+    "villageLevel": 5,
+    "kID": 2,
+    "costResourceVillageToken": 13,
+    "effects": "606&amp;25"
+  },
+  {
+    "villageID": 66,
+    "type": "food",
+    "villageLevel": 6,
+    "kID": 2,
+    "costResourceVillageToken": 17,
+    "effects": "606&amp;30"
+  },
+  {
+    "villageID": 67,
+    "type": "food",
+    "villageLevel": 7,
+    "kID": 2,
+    "costResourceVillageToken": 21,
+    "effects": "606&amp;35"
+  },
+  {
+    "villageID": 68,
+    "type": "food",
+    "villageLevel": 8,
+    "kID": 2,
+    "costResourceVillageToken": 25,
+    "effects": "606&amp;40"
+  },
+  {
+    "villageID": 69,
+    "type": "food",
+    "villageLevel": 9,
+    "kID": 2,
+    "costResourceVillageToken": 30,
+    "effects": "606&amp;45"
+  },
+  {
+    "villageID": 70,
+    "type": "food",
+    "villageLevel": 10,
+    "kID": 2,
+    "costResourceVillageToken": 35,
+    "effects": "606&amp;50"
+  },
+  {
+    "villageID": 161,
+    "type": "food",
+    "villageLevel": 11,
+    "kID": 2,
+    "costResourceVillageToken": 45,
+    "effects": "606&amp;52"
+  },
+  {
+    "villageID": 162,
+    "type": "food",
+    "villageLevel": 12,
+    "kID": 2,
+    "costResourceVillageToken": 55,
+    "effects": "606&amp;54"
+  },
+  {
+    "villageID": 163,
+    "type": "food",
+    "villageLevel": 13,
+    "kID": 2,
+    "costResourceVillageToken": 65,
+    "effects": "606&amp;56"
+  },
+  {
+    "villageID": 164,
+    "type": "food",
+    "villageLevel": 14,
+    "kID": 2,
+    "costResourceVillageToken": 85,
+    "effects": "606&amp;58"
+  },
+  {
+    "villageID": 165,
+    "type": "food",
+    "villageLevel": 15,
+    "kID": 2,
+    "costResourceVillageToken": 110,
+    "effects": "606&amp;60"
+  },
+  {
+    "villageID": 81,
+    "type": "wood",
+    "villageLevel": 1,
+    "kID": 1,
+    "costResourceVillageToken": 1,
+    "effects": "601&amp;2"
+  },
+  {
+    "villageID": 82,
+    "type": "wood",
+    "villageLevel": 2,
+    "kID": 1,
+    "costResourceVillageToken": 2,
+    "effects": "601&amp;4"
+  },
+  {
+    "villageID": 83,
+    "type": "wood",
+    "villageLevel": 3,
+    "kID": 1,
+    "costResourceVillageToken": 3,
+    "effects": "601&amp;6"
+  },
+  {
+    "villageID": 84,
+    "type": "wood",
+    "villageLevel": 4,
+    "kID": 1,
+    "costResourceVillageToken": 4,
+    "effects": "601&amp;8"
+  },
+  {
+    "villageID": 85,
+    "type": "wood",
+    "villageLevel": 5,
+    "kID": 1,
+    "costResourceVillageToken": 5,
+    "effects": "601&amp;10"
+  },
+  {
+    "villageID": 86,
+    "type": "wood",
+    "villageLevel": 6,
+    "kID": 1,
+    "costResourceVillageToken": 6,
+    "effects": "601&amp;12"
+  },
+  {
+    "villageID": 87,
+    "type": "wood",
+    "villageLevel": 7,
+    "kID": 1,
+    "costResourceVillageToken": 8,
+    "effects": "601&amp;14"
+  },
+  {
+    "villageID": 88,
+    "type": "wood",
+    "villageLevel": 8,
+    "kID": 1,
+    "costResourceVillageToken": 10,
+    "effects": "601&amp;16"
+  },
+  {
+    "villageID": 89,
+    "type": "wood",
+    "villageLevel": 9,
+    "kID": 1,
+    "costResourceVillageToken": 13,
+    "effects": "601&amp;18"
+  },
+  {
+    "villageID": 90,
+    "type": "wood",
+    "villageLevel": 10,
+    "kID": 1,
+    "costResourceVillageToken": 15,
+    "effects": "601&amp;20"
+  },
+  {
+    "villageID": 166,
+    "type": "wood",
+    "villageLevel": 11,
+    "kID": 1,
+    "costResourceVillageToken": 20,
+    "effects": "601&amp;22"
+  },
+  {
+    "villageID": 167,
+    "type": "wood",
+    "villageLevel": 12,
+    "kID": 1,
+    "costResourceVillageToken": 25,
+    "effects": "601&amp;24"
+  },
+  {
+    "villageID": 168,
+    "type": "wood",
+    "villageLevel": 13,
+    "kID": 1,
+    "costResourceVillageToken": 30,
+    "effects": "601&amp;26"
+  },
+  {
+    "villageID": 169,
+    "type": "wood",
+    "villageLevel": 14,
+    "kID": 1,
+    "costResourceVillageToken": 40,
+    "effects": "601&amp;28"
+  },
+  {
+    "villageID": 170,
+    "type": "wood",
+    "villageLevel": 15,
+    "kID": 1,
+    "costResourceVillageToken": 50,
+    "effects": "601&amp;30"
+  },
+  {
+    "villageID": 91,
+    "type": "stone",
+    "villageLevel": 1,
+    "kID": 1,
+    "costResourceVillageToken": 1,
+    "effects": "604&amp;2"
+  },
+  {
+    "villageID": 92,
+    "type": "stone",
+    "villageLevel": 2,
+    "kID": 1,
+    "costResourceVillageToken": 2,
+    "effects": "604&amp;4"
+  },
+  {
+    "villageID": 93,
+    "type": "stone",
+    "villageLevel": 3,
+    "kID": 1,
+    "costResourceVillageToken": 3,
+    "effects": "604&amp;6"
+  },
+  {
+    "villageID": 94,
+    "type": "stone",
+    "villageLevel": 4,
+    "kID": 1,
+    "costResourceVillageToken": 4,
+    "effects": "604&amp;8"
+  },
+  {
+    "villageID": 95,
+    "type": "stone",
+    "villageLevel": 5,
+    "kID": 1,
+    "costResourceVillageToken": 5,
+    "effects": "604&amp;10"
+  },
+  {
+    "villageID": 96,
+    "type": "stone",
+    "villageLevel": 6,
+    "kID": 1,
+    "costResourceVillageToken": 6,
+    "effects": "604&amp;12"
+  },
+  {
+    "villageID": 97,
+    "type": "stone",
+    "villageLevel": 7,
+    "kID": 1,
+    "costResourceVillageToken": 8,
+    "effects": "604&amp;14"
+  },
+  {
+    "villageID": 98,
+    "type": "stone",
+    "villageLevel": 8,
+    "kID": 1,
+    "costResourceVillageToken": 10,
+    "effects": "604&amp;16"
+  },
+  {
+    "villageID": 99,
+    "type": "stone",
+    "villageLevel": 9,
+    "kID": 1,
+    "costResourceVillageToken": 13,
+    "effects": "604&amp;18"
+  },
+  {
+    "villageID": 100,
+    "type": "stone",
+    "villageLevel": 10,
+    "kID": 1,
+    "costResourceVillageToken": 15,
+    "effects": "604&amp;20"
+  },
+  {
+    "villageID": 171,
+    "type": "stone",
+    "villageLevel": 11,
+    "kID": 1,
+    "costResourceVillageToken": 20,
+    "effects": "604&amp;22"
+  },
+  {
+    "villageID": 172,
+    "type": "stone",
+    "villageLevel": 12,
+    "kID": 1,
+    "costResourceVillageToken": 25,
+    "effects": "604&amp;24"
+  },
+  {
+    "villageID": 173,
+    "type": "stone",
+    "villageLevel": 13,
+    "kID": 1,
+    "costResourceVillageToken": 30,
+    "effects": "604&amp;26"
+  },
+  {
+    "villageID": 174,
+    "type": "stone",
+    "villageLevel": 14,
+    "kID": 1,
+    "costResourceVillageToken": 40,
+    "effects": "604&amp;28"
+  },
+  {
+    "villageID": 175,
+    "type": "stone",
+    "villageLevel": 15,
+    "kID": 1,
+    "costResourceVillageToken": 50,
+    "effects": "604&amp;30"
+  },
+  {
+    "villageID": 101,
+    "type": "food",
+    "villageLevel": 1,
+    "kID": 1,
+    "costResourceVillageToken": 1,
+    "effects": "607&amp;3"
+  },
+  {
+    "villageID": 102,
+    "type": "food",
+    "villageLevel": 2,
+    "kID": 1,
+    "costResourceVillageToken": 2,
+    "effects": "607&amp;6"
+  },
+  {
+    "villageID": 103,
+    "type": "food",
+    "villageLevel": 3,
+    "kID": 1,
+    "costResourceVillageToken": 4,
+    "effects": "607&amp;9"
+  },
+  {
+    "villageID": 104,
+    "type": "food",
+    "villageLevel": 4,
+    "kID": 1,
+    "costResourceVillageToken": 6,
+    "effects": "607&amp;12"
+  },
+  {
+    "villageID": 105,
+    "type": "food",
+    "villageLevel": 5,
+    "kID": 1,
+    "costResourceVillageToken": 9,
+    "effects": "607&amp;15"
+  },
+  {
+    "villageID": 106,
+    "type": "food",
+    "villageLevel": 6,
+    "kID": 1,
+    "costResourceVillageToken": 12,
+    "effects": "607&amp;18"
+  },
+  {
+    "villageID": 107,
+    "type": "food",
+    "villageLevel": 7,
+    "kID": 1,
+    "costResourceVillageToken": 16,
+    "effects": "607&amp;21"
+  },
+  {
+    "villageID": 108,
+    "type": "food",
+    "villageLevel": 8,
+    "kID": 1,
+    "costResourceVillageToken": 20,
+    "effects": "607&amp;24"
+  },
+  {
+    "villageID": 109,
+    "type": "food",
+    "villageLevel": 9,
+    "kID": 1,
+    "costResourceVillageToken": 25,
+    "effects": "607&amp;27"
+  },
+  {
+    "villageID": 110,
+    "type": "food",
+    "villageLevel": 10,
+    "kID": 1,
+    "costResourceVillageToken": 30,
+    "effects": "607&amp;30"
+  },
+  {
+    "villageID": 176,
+    "type": "food",
+    "villageLevel": 11,
+    "kID": 1,
+    "costResourceVillageToken": 40,
+    "effects": "607&amp;32"
+  },
+  {
+    "villageID": 177,
+    "type": "food",
+    "villageLevel": 12,
+    "kID": 1,
+    "costResourceVillageToken": 50,
+    "effects": "607&amp;34"
+  },
+  {
+    "villageID": 178,
+    "type": "food",
+    "villageLevel": 13,
+    "kID": 1,
+    "costResourceVillageToken": 60,
+    "effects": "607&amp;36"
+  },
+  {
+    "villageID": 179,
+    "type": "food",
+    "villageLevel": 14,
+    "kID": 1,
+    "costResourceVillageToken": 80,
+    "effects": "607&amp;38"
+  },
+  {
+    "villageID": 180,
+    "type": "food",
+    "villageLevel": 15,
+    "kID": 1,
+    "costResourceVillageToken": 100,
+    "effects": "607&amp;40"
+  },
+  {
+    "villageID": 121,
+    "type": "wood",
+    "villageLevel": 1,
+    "kID": 3,
+    "costResourceVillageToken": 1,
+    "effects": "602&amp;2"
+  },
+  {
+    "villageID": 122,
+    "type": "wood",
+    "villageLevel": 2,
+    "kID": 3,
+    "costResourceVillageToken": 2,
+    "effects": "602&amp;4"
+  },
+  {
+    "villageID": 123,
+    "type": "wood",
+    "villageLevel": 3,
+    "kID": 3,
+    "costResourceVillageToken": 3,
+    "effects": "602&amp;6"
+  },
+  {
+    "villageID": 124,
+    "type": "wood",
+    "villageLevel": 4,
+    "kID": 3,
+    "costResourceVillageToken": 4,
+    "effects": "602&amp;8"
+  },
+  {
+    "villageID": 125,
+    "type": "wood",
+    "villageLevel": 5,
+    "kID": 3,
+    "costResourceVillageToken": 5,
+    "effects": "602&amp;10"
+  },
+  {
+    "villageID": 126,
+    "type": "wood",
+    "villageLevel": 6,
+    "kID": 3,
+    "costResourceVillageToken": 6,
+    "effects": "602&amp;12"
+  },
+  {
+    "villageID": 127,
+    "type": "wood",
+    "villageLevel": 7,
+    "kID": 3,
+    "costResourceVillageToken": 8,
+    "effects": "602&amp;14"
+  },
+  {
+    "villageID": 128,
+    "type": "wood",
+    "villageLevel": 8,
+    "kID": 3,
+    "costResourceVillageToken": 10,
+    "effects": "602&amp;16"
+  },
+  {
+    "villageID": 129,
+    "type": "wood",
+    "villageLevel": 9,
+    "kID": 3,
+    "costResourceVillageToken": 13,
+    "effects": "602&amp;18"
+  },
+  {
+    "villageID": 130,
+    "type": "wood",
+    "villageLevel": 10,
+    "kID": 3,
+    "costResourceVillageToken": 15,
+    "effects": "602&amp;20"
+  },
+  {
+    "villageID": 181,
+    "type": "wood",
+    "villageLevel": 11,
+    "kID": 3,
+    "costResourceVillageToken": 20,
+    "effects": "602&amp;22"
+  },
+  {
+    "villageID": 182,
+    "type": "wood",
+    "villageLevel": 12,
+    "kID": 3,
+    "costResourceVillageToken": 25,
+    "effects": "602&amp;24"
+  },
+  {
+    "villageID": 183,
+    "type": "wood",
+    "villageLevel": 13,
+    "kID": 3,
+    "costResourceVillageToken": 30,
+    "effects": "602&amp;26"
+  },
+  {
+    "villageID": 184,
+    "type": "wood",
+    "villageLevel": 14,
+    "kID": 3,
+    "costResourceVillageToken": 40,
+    "effects": "602&amp;28"
+  },
+  {
+    "villageID": 185,
+    "type": "wood",
+    "villageLevel": 15,
+    "kID": 3,
+    "costResourceVillageToken": 50,
+    "effects": "602&amp;30"
+  },
+  {
+    "villageID": 131,
+    "type": "stone",
+    "villageLevel": 1,
+    "kID": 3,
+    "costResourceVillageToken": 1,
+    "effects": "605&amp;2"
+  },
+  {
+    "villageID": 132,
+    "type": "stone",
+    "villageLevel": 2,
+    "kID": 3,
+    "costResourceVillageToken": 2,
+    "effects": "605&amp;4"
+  },
+  {
+    "villageID": 133,
+    "type": "stone",
+    "villageLevel": 3,
+    "kID": 3,
+    "costResourceVillageToken": 3,
+    "effects": "605&amp;6"
+  },
+  {
+    "villageID": 134,
+    "type": "stone",
+    "villageLevel": 4,
+    "kID": 3,
+    "costResourceVillageToken": 4,
+    "effects": "605&amp;8"
+  },
+  {
+    "villageID": 135,
+    "type": "stone",
+    "villageLevel": 5,
+    "kID": 3,
+    "costResourceVillageToken": 5,
+    "effects": "605&amp;10"
+  },
+  {
+    "villageID": 136,
+    "type": "stone",
+    "villageLevel": 6,
+    "kID": 3,
+    "costResourceVillageToken": 6,
+    "effects": "605&amp;12"
+  },
+  {
+    "villageID": 137,
+    "type": "stone",
+    "villageLevel": 7,
+    "kID": 3,
+    "costResourceVillageToken": 8,
+    "effects": "605&amp;14"
+  },
+  {
+    "villageID": 138,
+    "type": "stone",
+    "villageLevel": 8,
+    "kID": 3,
+    "costResourceVillageToken": 10,
+    "effects": "605&amp;16"
+  },
+  {
+    "villageID": 139,
+    "type": "stone",
+    "villageLevel": 9,
+    "kID": 3,
+    "costResourceVillageToken": 13,
+    "effects": "605&amp;18"
+  },
+  {
+    "villageID": 140,
+    "type": "stone",
+    "villageLevel": 10,
+    "kID": 3,
+    "costResourceVillageToken": 15,
+    "effects": "605&amp;20"
+  },
+  {
+    "villageID": 186,
+    "type": "stone",
+    "villageLevel": 11,
+    "kID": 3,
+    "costResourceVillageToken": 20,
+    "effects": "605&amp;22"
+  },
+  {
+    "villageID": 187,
+    "type": "stone",
+    "villageLevel": 12,
+    "kID": 3,
+    "costResourceVillageToken": 25,
+    "effects": "605&amp;24"
+  },
+  {
+    "villageID": 188,
+    "type": "stone",
+    "villageLevel": 13,
+    "kID": 3,
+    "costResourceVillageToken": 30,
+    "effects": "605&amp;26"
+  },
+  {
+    "villageID": 189,
+    "type": "stone",
+    "villageLevel": 14,
+    "kID": 3,
+    "costResourceVillageToken": 40,
+    "effects": "605&amp;28"
+  },
+  {
+    "villageID": 190,
+    "type": "stone",
+    "villageLevel": 15,
+    "kID": 3,
+    "costResourceVillageToken": 50,
+    "effects": "605&amp;30"
+  },
+  {
+    "villageID": 141,
+    "type": "food",
+    "villageLevel": 1,
+    "kID": 3,
+    "costResourceVillageToken": 1,
+    "effects": "608&amp;3"
+  },
+  {
+    "villageID": 142,
+    "type": "food",
+    "villageLevel": 2,
+    "kID": 3,
+    "costResourceVillageToken": 2,
+    "effects": "608&amp;6"
+  },
+  {
+    "villageID": 143,
+    "type": "food",
+    "villageLevel": 3,
+    "kID": 3,
+    "costResourceVillageToken": 4,
+    "effects": "608&amp;9"
+  },
+  {
+    "villageID": 144,
+    "type": "food",
+    "villageLevel": 4,
+    "kID": 3,
+    "costResourceVillageToken": 6,
+    "effects": "608&amp;12"
+  },
+  {
+    "villageID": 145,
+    "type": "food",
+    "villageLevel": 5,
+    "kID": 3,
+    "costResourceVillageToken": 9,
+    "effects": "608&amp;15"
+  },
+  {
+    "villageID": 146,
+    "type": "food",
+    "villageLevel": 6,
+    "kID": 3,
+    "costResourceVillageToken": 12,
+    "effects": "608&amp;18"
+  },
+  {
+    "villageID": 147,
+    "type": "food",
+    "villageLevel": 7,
+    "kID": 3,
+    "costResourceVillageToken": 16,
+    "effects": "608&amp;21"
+  },
+  {
+    "villageID": 148,
+    "type": "food",
+    "villageLevel": 8,
+    "kID": 3,
+    "costResourceVillageToken": 20,
+    "effects": "608&amp;24"
+  },
+  {
+    "villageID": 149,
+    "type": "food",
+    "villageLevel": 9,
+    "kID": 3,
+    "costResourceVillageToken": 25,
+    "effects": "608&amp;27"
+  },
+  {
+    "villageID": 150,
+    "type": "food",
+    "villageLevel": 10,
+    "kID": 3,
+    "costResourceVillageToken": 30,
+    "effects": "608&amp;30"
+  },
+  {
+    "villageID": 191,
+    "type": "food",
+    "villageLevel": 11,
+    "kID": 3,
+    "costResourceVillageToken": 40,
+    "effects": "608&amp;32"
+  },
+  {
+    "villageID": 192,
+    "type": "food",
+    "villageLevel": 12,
+    "kID": 3,
+    "costResourceVillageToken": 50,
+    "effects": "608&amp;34"
+  },
+  {
+    "villageID": 193,
+    "type": "food",
+    "villageLevel": 13,
+    "kID": 3,
+    "costResourceVillageToken": 60,
+    "effects": "608&amp;36"
+  },
+  {
+    "villageID": 194,
+    "type": "food",
+    "villageLevel": 14,
+    "kID": 3,
+    "costResourceVillageToken": 80,
+    "effects": "608&amp;38"
+  },
+  {
+    "villageID": 195,
+    "type": "food",
+    "villageLevel": 15,
+    "kID": 3,
+    "costResourceVillageToken": 100,
+    "effects": "608&amp;40"
+  }
+]

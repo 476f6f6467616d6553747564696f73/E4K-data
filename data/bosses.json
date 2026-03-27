@@ -1,14 +1,12 @@
-{
-  "boss": [
-    {
-      "id": 1,
-      "name": "Necromancer",
-      "mapId": 1
-    },
-    {
-      "id": 2,
-      "name": "FungalSwarm",
-      "mapId": 2
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Necromancer",
+    "mapId": 1
+  },
+  {
+    "id": 2,
+    "name": "FungalSwarm",
+    "mapId": 2
+  }
+]

@@ -1,62 +1,60 @@
-{
-  "startResource": [
-    {
-      "startResourceID": 1,
-      "food": 2000,
-      "wood": 3000,
-      "stone": 3000,
-      "currency1": 2000
-    },
-    {
-      "startResourceID": 2,
-      "food": 3000,
-      "wood": 4000,
-      "stone": 4000,
-      "currency1": 2000
-    },
-    {
-      "startResourceID": 3,
-      "food": 8000,
-      "wood": 3000,
-      "stone": 3000,
-      "currency1": 8000
-    },
-    {
-      "startResourceID": 4,
-      "food": 1000,
-      "wood": 8000,
-      "stone": 8000,
-      "currency1": 3000
-    },
-    {
-      "startResourceID": 5,
-      "food": 50000,
-      "wood": 80000,
-      "stone": 80000,
-      "currency1": 100000
-    },
-    {
-      "startResourceID": 6,
-      "food": 80000,
-      "currency1": 100000
-    },
-    {
-      "startResourceID": 7,
-      "food": 5000,
-      "wood": 1200,
-      "stone": 1000
-    },
-    {
-      "startResourceID": 8,
-      "food": 6000,
-      "wood": 4000,
-      "stone": 4000
-    },
-    {
-      "startResourceID": 9,
-      "food": 80000,
-      "wood": 50000,
-      "stone": 50000
-    }
-  ]
-}
+[
+  {
+    "startResourceID": 1,
+    "food": 2000,
+    "wood": 3000,
+    "stone": 3000,
+    "currency1": 2000
+  },
+  {
+    "startResourceID": 2,
+    "food": 3000,
+    "wood": 4000,
+    "stone": 4000,
+    "currency1": 2000
+  },
+  {
+    "startResourceID": 3,
+    "food": 8000,
+    "wood": 3000,
+    "stone": 3000,
+    "currency1": 8000
+  },
+  {
+    "startResourceID": 4,
+    "food": 1000,
+    "wood": 8000,
+    "stone": 8000,
+    "currency1": 3000
+  },
+  {
+    "startResourceID": 5,
+    "food": 50000,
+    "wood": 80000,
+    "stone": 80000,
+    "currency1": 100000
+  },
+  {
+    "startResourceID": 6,
+    "food": 80000,
+    "currency1": 100000
+  },
+  {
+    "startResourceID": 7,
+    "food": 5000,
+    "wood": 1200,
+    "stone": 1000
+  },
+  {
+    "startResourceID": 8,
+    "food": 6000,
+    "wood": 4000,
+    "stone": 4000
+  },
+  {
+    "startResourceID": 9,
+    "food": 80000,
+    "wood": 50000,
+    "stone": 50000
+  }
+]

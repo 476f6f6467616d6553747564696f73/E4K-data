@@ -1,8 +1,8 @@
-{
-  "map": [
-    {
-      "id": 1,
-      "animation": {
+[
+  {
+    "id": 1,
+    "animation": [
+      {
         "linkageId": "Component_ARE_Overview_BossSlots_B",
         "name": "idle",
         "asset": [
@@ -57,10 +57,12 @@
           }
         ]
       }
-    },
-    {
-      "id": 2,
-      "animation": {
+    ]
+  },
+  {
+    "id": 2,
+    "animation": [
+      {
         "linkageId": "Component_ARE_Overview_BossSlots_B",
         "name": "idle",
         "asset": [
@@ -115,6 +117,6 @@
           }
         ]
       }
-    }
-  ]
-}
+    ]
+  }
+]

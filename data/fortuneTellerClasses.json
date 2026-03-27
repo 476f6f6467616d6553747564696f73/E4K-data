@@ -1,88 +1,86 @@
-{
-  "fortuneTellerClass": [
-    {
-      "fortuneTellerClassID": 1,
-      "c2Cost": 100,
-      "rewardIDs": "28000,28001,28002,28003,28004,28005,28006,28007,28008",
-      "toprewardID": 28000
-    },
-    {
-      "fortuneTellerClassID": 2,
-      "c2Cost": 300,
-      "rewardIDs": "28009,28010,28011,28012,28013,28014,28015,28016,28017,28019",
-      "toprewardID": 28009
-    },
-    {
-      "fortuneTellerClassID": 3,
-      "c2Cost": 550,
-      "rewardIDs": "28020,28021,28022,28023,28024,28025,28026,28027,28028,28030",
-      "toprewardID": 28020
-    },
-    {
-      "fortuneTellerClassID": 4,
-      "c2Cost": 1050,
-      "rewardIDs": "28031,28032,28033,28034,28035,28036,28037,28038,28039,28041",
-      "toprewardID": 28031
-    },
-    {
-      "fortuneTellerClassID": 5,
-      "c2Cost": 2000,
-      "rewardIDs": "28042,28043,28044,28045,28046,28047,28048,28049,28050,28052",
-      "toprewardID": 28042
-    },
-    {
-      "fortuneTellerClassID": 6,
-      "c2Cost": 3800,
-      "rewardIDs": "28053,28054,28055,28056,28057,28058,28059,28060,28061,28062",
-      "toprewardID": 28053
-    },
-    {
-      "fortuneTellerClassID": 7,
-      "c2Cost": 7300,
-      "rewardIDs": "28063,28064,28065,28066,28067,28068,28069,28070,28071,28072",
-      "toprewardID": 28063
-    },
-    {
-      "fortuneTellerClassID": 8,
-      "c2Cost": 13900,
-      "rewardIDs": "28073,28074,28075,28076,28077,28078,28079,28080,28081,28082",
-      "toprewardID": 28073
-    },
-    {
-      "fortuneTellerClassID": 9,
-      "c2Cost": 26500,
-      "rewardIDs": "28083,28084,28085,28086,28087,28088,28089,28090,28091,28092",
-      "toprewardID": 28083
-    },
-    {
-      "fortuneTellerClassID": 10,
-      "c2Cost": 50400,
-      "rewardIDs": "28093,28094,28095,28096,28097,28098,28099,28100,28101,28102",
-      "toprewardID": 28093
-    },
-    {
-      "fortuneTellerClassID": 11,
-      "c2Cost": 95800,
-      "rewardIDs": "28103,28104,28105,28106,28107,28108,28109,28110,28111,28112",
-      "toprewardID": 28103
-    },
-    {
-      "fortuneTellerClassID": 12,
-      "c2Cost": 182100,
-      "rewardIDs": "28113,28114,28115,28116,28117,28118,28119,28120,28121,28122",
-      "toprewardID": 28113
-    },
-    {
-      "fortuneTellerClassID": 13,
-      "c2Cost": 346000,
-      "rewardIDs": "28123,28124,28125,28126,28127,28128,28129,28130,28131,28132",
-      "toprewardID": 28123
-    },
-    {
-      "fortuneTellerClassID": 14,
-      "c2Cost": 657400,
-      "rewardIDs": "28133,28134,28135,28136,28137,28138,28139,28140,28141,28142",
-      "toprewardID": 28133
-    }
-  ]
-}
+[
+  {
+    "fortuneTellerClassID": 1,
+    "c2Cost": 100,
+    "rewardIDs": "28000,28001,28002,28003,28004,28005,28006,28007,28008",
+    "toprewardID": 28000
+  },
+  {
+    "fortuneTellerClassID": 2,
+    "c2Cost": 300,
+    "rewardIDs": "28009,28010,28011,28012,28013,28014,28015,28016,28017,28019",
+    "toprewardID": 28009
+  },
+  {
+    "fortuneTellerClassID": 3,
+    "c2Cost": 550,
+    "rewardIDs": "28020,28021,28022,28023,28024,28025,28026,28027,28028,28030",
+    "toprewardID": 28020
+  },
+  {
+    "fortuneTellerClassID": 4,
+    "c2Cost": 1050,
+    "rewardIDs": "28031,28032,28033,28034,28035,28036,28037,28038,28039,28041",
+    "toprewardID": 28031
+  },
+  {
+    "fortuneTellerClassID": 5,
+    "c2Cost": 2000,
+    "rewardIDs": "28042,28043,28044,28045,28046,28047,28048,28049,28050,28052",
+    "toprewardID": 28042
+  },
+  {
+    "fortuneTellerClassID": 6,
+    "c2Cost": 3800,
+    "rewardIDs": "28053,28054,28055,28056,28057,28058,28059,28060,28061,28062",
+    "toprewardID": 28053
+  },
+  {
+    "fortuneTellerClassID": 7,
+    "c2Cost": 7300,
+    "rewardIDs": "28063,28064,28065,28066,28067,28068,28069,28070,28071,28072",
+    "toprewardID": 28063
+  },
+  {
+    "fortuneTellerClassID": 8,
+    "c2Cost": 13900,
+    "rewardIDs": "28073,28074,28075,28076,28077,28078,28079,28080,28081,28082",
+    "toprewardID": 28073
+  },
+  {
+    "fortuneTellerClassID": 9,
+    "c2Cost": 26500,
+    "rewardIDs": "28083,28084,28085,28086,28087,28088,28089,28090,28091,28092",
+    "toprewardID": 28083
+  },
+  {
+    "fortuneTellerClassID": 10,
+    "c2Cost": 50400,
+    "rewardIDs": "28093,28094,28095,28096,28097,28098,28099,28100,28101,28102",
+    "toprewardID": 28093
+  },
+  {
+    "fortuneTellerClassID": 11,
+    "c2Cost": 95800,
+    "rewardIDs": "28103,28104,28105,28106,28107,28108,28109,28110,28111,28112",
+    "toprewardID": 28103
+  },
+  {
+    "fortuneTellerClassID": 12,
+    "c2Cost": 182100,
+    "rewardIDs": "28113,28114,28115,28116,28117,28118,28119,28120,28121,28122",
+    "toprewardID": 28113
+  },
+  {
+    "fortuneTellerClassID": 13,
+    "c2Cost": 346000,
+    "rewardIDs": "28123,28124,28125,28126,28127,28128,28129,28130,28131,28132",
+    "toprewardID": 28123
+  },
+  {
+    "fortuneTellerClassID": 14,
+    "c2Cost": 657400,
+    "rewardIDs": "28133,28134,28135,28136,28137,28138,28139,28140,28141,28142",
+    "toprewardID": 28133
+  }
+]

@@ -1,20 +1,18 @@
-{
-  "islandPreBuiltCastle": [
-    {
-      "preBuiltCastleID": 16,
-      "startPlayerLevel": 35,
-      "startResourceID": 7
-    },
-    {
-      "preBuiltCastleID": 17,
-      "startPlayerLevel": 35,
-      "startResourceID": 8
-    },
-    {
-      "preBuiltCastleID": 18,
-      "startPlayerLevel": 35,
-      "startResourceID": 9,
-      "costC2": 59000
-    }
-  ]
-}
+[
+  {
+    "preBuiltCastleID": 16,
+    "startPlayerLevel": 35,
+    "startResourceID": 7
+  },
+  {
+    "preBuiltCastleID": 17,
+    "startPlayerLevel": 35,
+    "startResourceID": 8
+  },
+  {
+    "preBuiltCastleID": 18,
+    "startPlayerLevel": 35,
+    "startResourceID": 9,
+    "costC2": 59000
+  }
+]

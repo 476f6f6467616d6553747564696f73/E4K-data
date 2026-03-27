@@ -1,94 +1,92 @@
-{
-  "playerNameChange": [
-    {
-      "nameChangeID": 1,
-      "crossplayID": 1,
-      "costC2": 0
-    },
-    {
-      "nameChangeID": 2,
-      "crossplayID": 2,
-      "costC2": 10000
-    },
-    {
-      "nameChangeID": 3,
-      "crossplayID": 3,
-      "costC2": 12500
-    },
-    {
-      "nameChangeID": 4,
-      "crossplayID": 4,
-      "costC2": 15000
-    },
-    {
-      "nameChangeID": 5,
-      "crossplayID": 5,
-      "costC2": 17500
-    },
-    {
-      "nameChangeID": 6,
-      "crossplayID": 6,
-      "costC2": 20000
-    },
-    {
-      "nameChangeID": 7,
-      "crossplayID": 7,
-      "costC2": 22500
-    },
-    {
-      "nameChangeID": 8,
-      "crossplayID": 8,
-      "costC2": 25000
-    },
-    {
-      "nameChangeID": 9,
-      "crossplayID": 9,
-      "costC2": 27500
-    },
-    {
-      "nameChangeID": 10,
-      "crossplayID": 10,
-      "costC2": 30000
-    },
-    {
-      "nameChangeID": 11,
-      "crossplayID": 11,
-      "costC2": 32500
-    },
-    {
-      "nameChangeID": 12,
-      "crossplayID": 12,
-      "costC2": 35000
-    },
-    {
-      "nameChangeID": 13,
-      "crossplayID": 13,
-      "costC2": 37500
-    },
-    {
-      "nameChangeID": 14,
-      "crossplayID": 14,
-      "costC2": 40000
-    },
-    {
-      "nameChangeID": 15,
-      "crossplayID": 15,
-      "costC2": 42500
-    },
-    {
-      "nameChangeID": 16,
-      "crossplayID": 16,
-      "costC2": 45000
-    },
-    {
-      "nameChangeID": 17,
-      "crossplayID": 17,
-      "costC2": 47500
-    },
-    {
-      "nameChangeID": 18,
-      "crossplayID": 18,
-      "costC2": 50000
-    }
-  ]
-}
+[
+  {
+    "nameChangeID": 1,
+    "crossplayID": 1,
+    "costC2": 0
+  },
+  {
+    "nameChangeID": 2,
+    "crossplayID": 2,
+    "costC2": 10000
+  },
+  {
+    "nameChangeID": 3,
+    "crossplayID": 3,
+    "costC2": 12500
+  },
+  {
+    "nameChangeID": 4,
+    "crossplayID": 4,
+    "costC2": 15000
+  },
+  {
+    "nameChangeID": 5,
+    "crossplayID": 5,
+    "costC2": 17500
+  },
+  {
+    "nameChangeID": 6,
+    "crossplayID": 6,
+    "costC2": 20000
+  },
+  {
+    "nameChangeID": 7,
+    "crossplayID": 7,
+    "costC2": 22500
+  },
+  {
+    "nameChangeID": 8,
+    "crossplayID": 8,
+    "costC2": 25000
+  },
+  {
+    "nameChangeID": 9,
+    "crossplayID": 9,
+    "costC2": 27500
+  },
+  {
+    "nameChangeID": 10,
+    "crossplayID": 10,
+    "costC2": 30000
+  },
+  {
+    "nameChangeID": 11,
+    "crossplayID": 11,
+    "costC2": 32500
+  },
+  {
+    "nameChangeID": 12,
+    "crossplayID": 12,
+    "costC2": 35000
+  },
+  {
+    "nameChangeID": 13,
+    "crossplayID": 13,
+    "costC2": 37500
+  },
+  {
+    "nameChangeID": 14,
+    "crossplayID": 14,
+    "costC2": 40000
+  },
+  {
+    "nameChangeID": 15,
+    "crossplayID": 15,
+    "costC2": 42500
+  },
+  {
+    "nameChangeID": 16,
+    "crossplayID": 16,
+    "costC2": 45000
+  },
+  {
+    "nameChangeID": 17,
+    "crossplayID": 17,
+    "costC2": 47500
+  },
+  {
+    "nameChangeID": 18,
+    "crossplayID": 18,
+    "costC2": 50000
+  }
+]

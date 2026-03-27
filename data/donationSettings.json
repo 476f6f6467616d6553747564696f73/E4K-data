@@ -1,46 +1,44 @@
-{
-  "donationSetting": [
-    {
-      "donationSettingID": 1,
-      "crossplayID": 1,
-      "donationItemSetID": 1,
-      "rewardSetID": 1
-    },
-    {
-      "donationSettingID": 2,
-      "crossplayID": 2,
-      "donationItemSetID": 2,
-      "rewardSetID": 2
-    },
-    {
-      "donationSettingID": 3,
-      "crossplayID": 3,
-      "donationItemSetID": 3,
-      "rewardSetID": 3
-    },
-    {
-      "donationSettingID": 4,
-      "crossplayID": 4,
-      "donationItemSetID": 4,
-      "rewardSetID": 4
-    },
-    {
-      "donationSettingID": 5,
-      "crossplayID": 5,
-      "donationItemSetID": 5,
-      "rewardSetID": 5
-    },
-    {
-      "donationSettingID": 6,
-      "crossplayID": 6,
-      "donationItemSetID": 6,
-      "rewardSetID": 6
-    },
-    {
-      "donationSettingID": 7,
-      "crossplayID": 7,
-      "donationItemSetID": 7,
-      "rewardSetID": 7
-    }
-  ]
-}
+[
+  {
+    "donationSettingID": 1,
+    "crossplayID": 1,
+    "donationItemSetID": 1,
+    "rewardSetID": 1
+  },
+  {
+    "donationSettingID": 2,
+    "crossplayID": 2,
+    "donationItemSetID": 2,
+    "rewardSetID": 2
+  },
+  {
+    "donationSettingID": 3,
+    "crossplayID": 3,
+    "donationItemSetID": 3,
+    "rewardSetID": 3
+  },
+  {
+    "donationSettingID": 4,
+    "crossplayID": 4,
+    "donationItemSetID": 4,
+    "rewardSetID": 4
+  },
+  {
+    "donationSettingID": 5,
+    "crossplayID": 5,
+    "donationItemSetID": 5,
+    "rewardSetID": 5
+  },
+  {
+    "donationSettingID": 6,
+    "crossplayID": 6,
+    "donationItemSetID": 6,
+    "rewardSetID": 6
+  },
+  {
+    "donationSettingID": 7,
+    "crossplayID": 7,
+    "donationItemSetID": 7,
+    "rewardSetID": 7
+  }
+]

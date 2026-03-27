@@ -1,40 +1,38 @@
-{
-  "subscriptionLoyalty": [
-    {
-      "subscriptionLoyaltyID": 1,
-      "month": 1,
-      "boost": 10,
-      "subscriptionTypeID": 3
-    },
-    {
-      "subscriptionLoyaltyID": 2,
-      "month": 2,
-      "boost": 12,
-      "subscriptionTypeID": 3
-    },
-    {
-      "subscriptionLoyaltyID": 3,
-      "month": 3,
-      "boost": 14,
-      "subscriptionTypeID": 3
-    },
-    {
-      "subscriptionLoyaltyID": 4,
-      "month": 4,
-      "boost": 16,
-      "subscriptionTypeID": 3
-    },
-    {
-      "subscriptionLoyaltyID": 5,
-      "month": 5,
-      "boost": 18,
-      "subscriptionTypeID": 3
-    },
-    {
-      "subscriptionLoyaltyID": 6,
-      "month": 6,
-      "boost": 20,
-      "subscriptionTypeID": 3
-    }
-  ]
-}
+[
+  {
+    "subscriptionLoyaltyID": 1,
+    "month": 1,
+    "boost": 10,
+    "subscriptionTypeID": 3
+  },
+  {
+    "subscriptionLoyaltyID": 2,
+    "month": 2,
+    "boost": 12,
+    "subscriptionTypeID": 3
+  },
+  {
+    "subscriptionLoyaltyID": 3,
+    "month": 3,
+    "boost": 14,
+    "subscriptionTypeID": 3
+  },
+  {
+    "subscriptionLoyaltyID": 4,
+    "month": 4,
+    "boost": 16,
+    "subscriptionTypeID": 3
+  },
+  {
+    "subscriptionLoyaltyID": 5,
+    "month": 5,
+    "boost": 18,
+    "subscriptionTypeID": 3
+  },
+  {
+    "subscriptionLoyaltyID": 6,
+    "month": 6,
+    "boost": 20,
+    "subscriptionTypeID": 3
+  }
+]

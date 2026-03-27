@@ -1,116 +1,114 @@
-{
-  "longtermpointeventquest": [
-    {
-      "pointEventQuestID": 5,
-      "leaguetypeID": 1,
-      "pointsPerTier": "2,4,6",
-      "subEventID": 71,
-      "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+750#defeatAliensWithMinFame+1+2500"
-    },
-    {
-      "pointEventQuestID": 6,
-      "leaguetypeID": 2,
-      "pointsPerTier": "2,4,6",
-      "subEventID": 71,
-      "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+1500#defeatAliensWithMinFame+1+4500"
-    },
-    {
-      "pointEventQuestID": 7,
-      "leaguetypeID": 3,
-      "pointsPerTier": "2,4,6",
-      "subEventID": 71,
-      "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+4000#defeatAliensWithMinFame+1+10000"
-    },
-    {
-      "pointEventQuestID": 36,
-      "leaguetypeID": 4,
-      "pointsPerTier": "2,4,6",
-      "subEventID": 71,
-      "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+4000#defeatAliensWithMinFame+1+10000"
-    },
-    {
-      "pointEventQuestID": 12,
-      "leaguetypeID": 1,
-      "pointsPerTier": "1,2,3",
-      "subEventID": 72,
-      "conditions": "collectKhanTablets+1+1#collectKhanTablets+1+41#spendKhanTablets+1+430"
-    },
-    {
-      "pointEventQuestID": 13,
-      "leaguetypeID": 2,
-      "pointsPerTier": "1,2,3",
-      "subEventID": 72,
-      "conditions": "collectKhanTablets+1+1#collectKhanTablets+1+55#spendKhanTablets+1+510"
-    },
-    {
-      "pointEventQuestID": 14,
-      "leaguetypeID": 3,
-      "pointsPerTier": "1,2,3",
-      "subEventID": 72,
-      "conditions": "collectKhanTablets+1+1#collectKhanTablets+1+75#spendKhanTablets+1+600"
-    },
-    {
-      "pointEventQuestID": 37,
-      "leaguetypeID": 4,
-      "pointsPerTier": "1,2,3",
-      "subEventID": 72,
-      "conditions": "collectKhanTablets+1+1#collectKhanTablets+1+75#spendKhanTablets+1+600"
-    },
-    {
-      "pointEventQuestID": 19,
-      "leaguetypeID": 1,
-      "pointsPerTier": "1,2,3",
-      "subEventID": 80,
-      "conditions": "collectSamuraiTokens+1+1#collectSamuraiTokens+1+41#spendSamuraiTokens+1+430"
-    },
-    {
-      "pointEventQuestID": 20,
-      "leaguetypeID": 2,
-      "pointsPerTier": "1,2,3",
-      "subEventID": 80,
-      "conditions": "collectSamuraiTokens+1+1#collectSamuraiTokens+1+55#spendSamuraiTokens+1+510"
-    },
-    {
-      "pointEventQuestID": 21,
-      "leaguetypeID": 3,
-      "pointsPerTier": "1,2,3",
-      "subEventID": 80,
-      "conditions": "collectSamuraiTokens+1+1#collectSamuraiTokens+1+75#spendSamuraiTokens+1+600"
-    },
-    {
-      "pointEventQuestID": 38,
-      "leaguetypeID": 4,
-      "pointsPerTier": "1,2,3",
-      "subEventID": 80,
-      "conditions": "collectSamuraiTokens+1+1#collectSamuraiTokens+1+75#spendSamuraiTokens+1+600"
-    },
-    {
-      "pointEventQuestID": 33,
-      "leaguetypeID": 1,
-      "pointsPerTier": "2,4,6",
-      "subEventID": 103,
-      "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+750#defeatAliensWithMinFame+1+2500"
-    },
-    {
-      "pointEventQuestID": 34,
-      "leaguetypeID": 2,
-      "pointsPerTier": "2,4,6",
-      "subEventID": 103,
-      "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+1500#defeatAliensWithMinFame+1+4500"
-    },
-    {
-      "pointEventQuestID": 35,
-      "leaguetypeID": 3,
-      "pointsPerTier": "2,4,6",
-      "subEventID": 103,
-      "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+4000#defeatAliensWithMinFame+1+10000"
-    },
-    {
-      "pointEventQuestID": 39,
-      "leaguetypeID": 4,
-      "pointsPerTier": "2,4,6",
-      "subEventID": 103,
-      "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+4000#defeatAliensWithMinFame+1+10000"
-    }
-  ]
-}
+[
+  {
+    "pointEventQuestID": 5,
+    "leaguetypeID": 1,
+    "pointsPerTier": "2,4,6",
+    "subEventID": 71,
+    "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+750#defeatAliensWithMinFame+1+2500"
+  },
+  {
+    "pointEventQuestID": 6,
+    "leaguetypeID": 2,
+    "pointsPerTier": "2,4,6",
+    "subEventID": 71,
+    "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+1500#defeatAliensWithMinFame+1+4500"
+  },
+  {
+    "pointEventQuestID": 7,
+    "leaguetypeID": 3,
+    "pointsPerTier": "2,4,6",
+    "subEventID": 71,
+    "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+4000#defeatAliensWithMinFame+1+10000"
+  },
+  {
+    "pointEventQuestID": 36,
+    "leaguetypeID": 4,
+    "pointsPerTier": "2,4,6",
+    "subEventID": 71,
+    "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+4000#defeatAliensWithMinFame+1+10000"
+  },
+  {
+    "pointEventQuestID": 12,
+    "leaguetypeID": 1,
+    "pointsPerTier": "1,2,3",
+    "subEventID": 72,
+    "conditions": "collectKhanTablets+1+1#collectKhanTablets+1+41#spendKhanTablets+1+430"
+  },
+  {
+    "pointEventQuestID": 13,
+    "leaguetypeID": 2,
+    "pointsPerTier": "1,2,3",
+    "subEventID": 72,
+    "conditions": "collectKhanTablets+1+1#collectKhanTablets+1+55#spendKhanTablets+1+510"
+  },
+  {
+    "pointEventQuestID": 14,
+    "leaguetypeID": 3,
+    "pointsPerTier": "1,2,3",
+    "subEventID": 72,
+    "conditions": "collectKhanTablets+1+1#collectKhanTablets+1+75#spendKhanTablets+1+600"
+  },
+  {
+    "pointEventQuestID": 37,
+    "leaguetypeID": 4,
+    "pointsPerTier": "1,2,3",
+    "subEventID": 72,
+    "conditions": "collectKhanTablets+1+1#collectKhanTablets+1+75#spendKhanTablets+1+600"
+  },
+  {
+    "pointEventQuestID": 19,
+    "leaguetypeID": 1,
+    "pointsPerTier": "1,2,3",
+    "subEventID": 80,
+    "conditions": "collectSamuraiTokens+1+1#collectSamuraiTokens+1+41#spendSamuraiTokens+1+430"
+  },
+  {
+    "pointEventQuestID": 20,
+    "leaguetypeID": 2,
+    "pointsPerTier": "1,2,3",
+    "subEventID": 80,
+    "conditions": "collectSamuraiTokens+1+1#collectSamuraiTokens+1+55#spendSamuraiTokens+1+510"
+  },
+  {
+    "pointEventQuestID": 21,
+    "leaguetypeID": 3,
+    "pointsPerTier": "1,2,3",
+    "subEventID": 80,
+    "conditions": "collectSamuraiTokens+1+1#collectSamuraiTokens+1+75#spendSamuraiTokens+1+600"
+  },
+  {
+    "pointEventQuestID": 38,
+    "leaguetypeID": 4,
+    "pointsPerTier": "1,2,3",
+    "subEventID": 80,
+    "conditions": "collectSamuraiTokens+1+1#collectSamuraiTokens+1+75#spendSamuraiTokens+1+600"
+  },
+  {
+    "pointEventQuestID": 33,
+    "leaguetypeID": 1,
+    "pointsPerTier": "2,4,6",
+    "subEventID": 103,
+    "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+750#defeatAliensWithMinFame+1+2500"
+  },
+  {
+    "pointEventQuestID": 34,
+    "leaguetypeID": 2,
+    "pointsPerTier": "2,4,6",
+    "subEventID": 103,
+    "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+1500#defeatAliensWithMinFame+1+4500"
+  },
+  {
+    "pointEventQuestID": 35,
+    "leaguetypeID": 3,
+    "pointsPerTier": "2,4,6",
+    "subEventID": 103,
+    "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+4000#defeatAliensWithMinFame+1+10000"
+  },
+  {
+    "pointEventQuestID": 39,
+    "leaguetypeID": 4,
+    "pointsPerTier": "2,4,6",
+    "subEventID": 103,
+    "conditions": "defeatAliensWithMinFame+1+1#defeatAliensWithMinFame+1+4000#defeatAliensWithMinFame+1+10000"
+  }
+]

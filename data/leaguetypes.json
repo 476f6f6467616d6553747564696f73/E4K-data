@@ -1,661 +1,659 @@
-{
-  "leaguetype": [
-    {
-      "comment2": "highscore iron",
-      "leaguetypeID": 1,
-      "eventID": -1,
-      "minLevel": 0,
-      "maxLevel": 19
-    },
-    {
-      "comment2": "copper",
-      "leaguetypeID": 2,
-      "eventID": -1,
-      "minLevel": 20,
-      "maxLevel": 29
-    },
-    {
-      "comment2": "bronze",
-      "leaguetypeID": 3,
-      "eventID": -1,
-      "minLevel": 30,
-      "maxLevel": 39
-    },
-    {
-      "comment2": "silver",
-      "leaguetypeID": 4,
-      "eventID": -1,
-      "minLevel": 40,
-      "maxLevel": 49
-    },
-    {
-      "comment2": "gold",
-      "leaguetypeID": 5,
-      "eventID": -1,
-      "minLevel": 50,
-      "maxLevel": 69
-    },
-    {
-      "comment2": "platin",
-      "leaguetypeID": 6,
-      "eventID": -1,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "pointEvent 2",
-      "leaguetypeID": 1,
-      "eventID": 60,
-      "minLevel": 10,
-      "maxLevel": 14
-    },
-    {
-      "comment2": "pointEvent 3",
-      "leaguetypeID": 2,
-      "eventID": 60,
-      "minLevel": 15,
-      "maxLevel": 19
-    },
-    {
-      "comment2": "pointEvent 4",
-      "leaguetypeID": 3,
-      "eventID": 60,
-      "minLevel": 20,
-      "maxLevel": 24
-    },
-    {
-      "comment2": "pointEvent 5",
-      "leaguetypeID": 4,
-      "eventID": 60,
-      "minLevel": 25,
-      "maxLevel": 29
-    },
-    {
-      "comment2": "pointEvent 6",
-      "leaguetypeID": 5,
-      "eventID": 60,
-      "minLevel": 30,
-      "maxLevel": 49
-    },
-    {
-      "comment2": "pointEvent 7",
-      "leaguetypeID": 6,
-      "eventID": 60,
-      "minLevel": 50,
-      "maxLevel": 69
-    },
-    {
-      "comment2": "pointEvent 8",
-      "leaguetypeID": 7,
-      "eventID": 60,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "BeggingKnights1",
-      "leaguetypeID": 1,
-      "eventID": 62,
-      "minLevel": 6,
-      "maxLevel": 10
-    },
-    {
-      "comment2": "BeggingKnights2",
-      "leaguetypeID": 2,
-      "eventID": 62,
-      "minLevel": 11,
-      "maxLevel": 15
-    },
-    {
-      "comment2": "BeggingKnights3",
-      "leaguetypeID": 3,
-      "eventID": 62,
-      "minLevel": 16,
-      "maxLevel": 20
-    },
-    {
-      "comment2": "BeggingKnights4",
-      "leaguetypeID": 4,
-      "eventID": 62,
-      "minLevel": 21,
-      "maxLevel": 30
-    },
-    {
-      "comment2": "BeggingKnights5",
-      "leaguetypeID": 5,
-      "eventID": 62,
-      "minLevel": 31,
-      "maxLevel": 40
-    },
-    {
-      "comment2": "BeggingKnights6",
-      "leaguetypeID": 6,
-      "eventID": 62,
-      "minLevel": 41,
-      "maxLevel": 50
-    },
-    {
-      "comment2": "BeggingKnights7",
-      "leaguetypeID": 7,
-      "eventID": 62,
-      "minLevel": 51,
-      "maxLevel": 69
-    },
-    {
-      "comment2": "BeggingKnights8",
-      "leaguetypeID": 8,
-      "eventID": 62,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Tournament",
-      "leaguetypeID": 6,
-      "eventID": 24,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "WheelOfFortune",
-      "leaguetypeID": 1,
-      "eventID": 15,
-      "minLevel": 6,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "SaleDaysWheelOfFortune",
-      "leaguetypeID": 1,
-      "eventID": 89,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "NomadInvasion",
-      "leaguetypeID": 4,
-      "eventID": 5,
-      "minLevel": 10,
-      "maxLevel": 39,
-      "countVictoryMin": 41,
-      "countVictoryMax": 50
-    },
-    {
-      "comment2": "NomadInvasion",
-      "leaguetypeID": 5,
-      "eventID": 5,
-      "minLevel": 40,
-      "maxLevel": 49,
-      "countVictoryMin": 51,
-      "countVictoryMax": 60
-    },
-    {
-      "comment2": "NomadInvasion",
-      "leaguetypeID": 6,
-      "eventID": 5,
-      "minLevel": 50,
-      "maxLevel": 59,
-      "countVictoryMin": 61,
-      "countVictoryMax": 70
-    },
-    {
-      "comment2": "NomadInvasion",
-      "leaguetypeID": 7,
-      "eventID": 5,
-      "minLevel": 60,
-      "maxLevel": 69,
-      "countVictoryMin": 71,
-      "countVictoryMax": 80
-    },
-    {
-      "comment2": "NomadInvasion",
-      "leaguetypeID": 8,
-      "eventID": 5,
-      "minLevel": 70,
-      "maxLevel": 1020,
-      "countVictoryMin": 81,
-      "countVictoryMax": 90
-    },
-    {
-      "comment2": "Berimond Blue 15-69",
-      "leaguetypeID": 1,
-      "eventID": 3,
-      "subType": 0,
-      "minLevel": 15,
-      "maxLevel": 69
-    },
-    {
-      "comment2": "Berimond Blue 15-69",
-      "leaguetypeID": 2,
-      "eventID": 3,
-      "subType": 1,
-      "minLevel": 15,
-      "maxLevel": 69
-    },
-    {
-      "comment2": "Berimond Blue 70 +",
-      "leaguetypeID": 3,
-      "eventID": 3,
-      "subType": 0,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Berimond Red 70 +",
-      "leaguetypeID": 4,
-      "eventID": 3,
-      "subType": 1,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "SamuraiInvasion",
-      "leaguetypeID": 1,
-      "eventID": 500,
-      "subType": 1,
-      "minLevel": 10,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "SamuraiInvasion",
-      "leaguetypeID": 1,
-      "eventID": 500,
-      "minLevel": 10,
-      "maxLevel": 15
-    },
-    {
-      "comment2": "SamuraiInvasion",
-      "leaguetypeID": 2,
-      "eventID": 500,
-      "minLevel": 16,
-      "maxLevel": 20
-    },
-    {
-      "comment2": "SamuraiInvasion",
-      "leaguetypeID": 3,
-      "eventID": 500,
-      "minLevel": 21,
-      "maxLevel": 30
-    },
-    {
-      "comment2": "SamuraiInvasion",
-      "leaguetypeID": 4,
-      "eventID": 500,
-      "minLevel": 31,
-      "maxLevel": 40
-    },
-    {
-      "comment2": "SamuraiInvasion",
-      "leaguetypeID": 5,
-      "eventID": 500,
-      "minLevel": 41,
-      "maxLevel": 50
-    },
-    {
-      "comment2": "SamuraiInvasion",
-      "leaguetypeID": 6,
-      "eventID": 500,
-      "minLevel": 51,
-      "maxLevel": 69
-    },
-    {
-      "comment2": "SamuraiInvasion",
-      "leaguetypeID": 7,
-      "eventID": 500,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "AllianceTournament",
-      "leaguetypeID": 1,
-      "eventID": 36,
-      "minLevel": 6,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "LongTermPointEvent",
-      "leaguetypeID": 1,
-      "eventID": 83,
-      "minLevel": 70,
-      "maxLevel": 269
-    },
-    {
-      "comment2": "LongTermPointEvent",
-      "leaguetypeID": 2,
-      "eventID": 83,
-      "minLevel": 270,
-      "maxLevel": 719
-    },
-    {
-      "comment2": "LongTermPointEvent",
-      "leaguetypeID": 3,
-      "eventID": 83,
-      "minLevel": 720,
-      "maxLevel": 1019
-    },
-    {
-      "comment2": "LongTermPointEvent",
-      "leaguetypeID": 4,
-      "eventID": 83,
-      "minLevel": 1020,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Monthly Campaign",
-      "leaguetypeID": 1,
-      "eventID": 95,
-      "minLevel": 30,
-      "maxLevel": 39
-    },
-    {
-      "comment2": "Monthly Campaign",
-      "leaguetypeID": 2,
-      "eventID": 95,
-      "minLevel": 40,
-      "maxLevel": 49
-    },
-    {
-      "comment2": "Monthly Campaign",
-      "leaguetypeID": 3,
-      "eventID": 95,
-      "minLevel": 50,
-      "maxLevel": 59
-    },
-    {
-      "comment2": "Monthly Campaign",
-      "leaguetypeID": 4,
-      "eventID": 95,
-      "minLevel": 60,
-      "maxLevel": 69
-    },
-    {
-      "comment2": "Monthly Campaign",
-      "leaguetypeID": 5,
-      "eventID": 95,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "leaguetypeID": 1,
-      "eventID": 106,
-      "minLevel": 11,
-      "maxLevel": 1020,
-      "countVictoryMin": 1,
-      "countVictoryMax": 1
-    },
-    {
-      "comment1": "600 - 99",
-      "comment2": "Seasons",
-      "leaguetypeID": 1,
-      "eventID": 601,
-      "minLevel": 600,
-      "maxLevel": 1020,
-      "countVictoryMin": 1,
-      "countVictoryMax": 1
-    },
-    {
-      "comment1": "70-599",
-      "comment2": "Seasons",
-      "leaguetypeID": 2,
-      "eventID": 601,
-      "minLevel": 70,
-      "maxLevel": 599,
-      "countVictoryMin": 1,
-      "countVictoryMax": 1
-    },
-    {
-      "comment2": "Difficulty Scaling - AlienInvasion",
-      "leaguetypeID": 1,
-      "eventID": 71,
-      "minLevel": 20,
-      "maxLevel": 69
-    },
-    {
-      "comment2": "Difficulty Scaling - AlienInvasion",
-      "leaguetypeID": 2,
-      "eventID": 71,
-      "minLevel": 70,
-      "maxLevel": 369
-    },
-    {
-      "comment2": "Difficulty Scaling - AlienInvasion",
-      "leaguetypeID": 3,
-      "eventID": 71,
-      "minLevel": 370,
-      "maxLevel": 719
-    },
-    {
-      "comment2": "Difficulty Scaling - AlienInvasion",
-      "leaguetypeID": 4,
-      "eventID": 71,
-      "minLevel": 720,
-      "maxLevel": 1019
-    },
-    {
-      "comment2": "Difficulty Scaling - AlienInvasion",
-      "leaguetypeID": 5,
-      "eventID": 71,
-      "minLevel": 1020,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Difficulty Scaling - AlienInvasion",
-      "leaguetypeID": 1,
-      "eventID": 71,
-      "subType": 1,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Difficulty Scaling - RedAlienInvasion",
-      "leaguetypeID": 1,
-      "eventID": 103,
-      "minLevel": 40,
-      "maxLevel": 69
-    },
-    {
-      "comment2": "Difficulty Scaling - RedAlienInvasion",
-      "leaguetypeID": 2,
-      "eventID": 103,
-      "minLevel": 70,
-      "maxLevel": 369
-    },
-    {
-      "comment2": "Difficulty Scaling - RedAlienInvasion",
-      "leaguetypeID": 3,
-      "eventID": 103,
-      "minLevel": 370,
-      "maxLevel": 719
-    },
-    {
-      "comment2": "Difficulty Scaling - RedAlienInvasion",
-      "leaguetypeID": 4,
-      "eventID": 103,
-      "minLevel": 720,
-      "maxLevel": 1019
-    },
-    {
-      "comment2": "Difficulty Scaling - RedAlienInvasion",
-      "leaguetypeID": 5,
-      "eventID": 103,
-      "minLevel": 1020,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Difficulty Scaling - RedAlienInvasion",
-      "leaguetypeID": 1,
-      "eventID": 103,
-      "subType": 1,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Difficulty Scaling - SamuraiInvasion",
-      "leaguetypeID": 1,
-      "eventID": 80,
-      "minLevel": 10,
-      "maxLevel": 69,
-      "countVictoryMin": 16,
-      "countVictoryMax": 80
-    },
-    {
-      "comment2": "Difficulty Scaling - SamuraiInvasion",
-      "leaguetypeID": 2,
-      "eventID": 80,
-      "minLevel": 70,
-      "maxLevel": 369,
-      "countVictoryMin": 81,
-      "countVictoryMax": 90
-    },
-    {
-      "comment2": "Difficulty Scaling - SamuraiInvasion",
-      "leaguetypeID": 3,
-      "eventID": 80,
-      "minLevel": 370,
-      "maxLevel": 719,
-      "countVictoryMin": 81,
-      "countVictoryMax": 90
-    },
-    {
-      "comment2": "Difficulty Scaling - SamuraiInvasion",
-      "leaguetypeID": 4,
-      "eventID": 80,
-      "minLevel": 720,
-      "maxLevel": 1019,
-      "countVictoryMin": 81,
-      "countVictoryMax": 90
-    },
-    {
-      "comment2": "Difficulty Scaling - SamuraiInvasion",
-      "leaguetypeID": 5,
-      "eventID": 80,
-      "minLevel": 1020,
-      "maxLevel": 1020,
-      "countVictoryMin": 81,
-      "countVictoryMax": 90
-    },
-    {
-      "comment2": "Difficulty Scaling - SamuraiInvasion",
-      "leaguetypeID": 1,
-      "eventID": 80,
-      "subType": 1,
-      "minLevel": 10,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Difficulty Scaling - NomadInvasion",
-      "leaguetypeID": 1,
-      "eventID": 72,
-      "minLevel": 10,
-      "maxLevel": 69,
-      "countVictoryMin": 61,
-      "countVictoryMax": 80
-    },
-    {
-      "comment2": "Difficulty Scaling - NomadInvasion",
-      "leaguetypeID": 2,
-      "eventID": 72,
-      "minLevel": 70,
-      "maxLevel": 369,
-      "countVictoryMin": 81,
-      "countVictoryMax": 90
-    },
-    {
-      "comment2": "Difficulty Scaling - NomadInvasion",
-      "leaguetypeID": 3,
-      "eventID": 72,
-      "minLevel": 370,
-      "maxLevel": 719,
-      "countVictoryMin": 81,
-      "countVictoryMax": 90
-    },
-    {
-      "comment2": "Difficulty Scaling - NomadInvasion",
-      "leaguetypeID": 4,
-      "eventID": 72,
-      "minLevel": 720,
-      "maxLevel": 1019,
-      "countVictoryMin": 81,
-      "countVictoryMax": 90
-    },
-    {
-      "comment2": "Difficulty Scaling - NomadInvasion",
-      "leaguetypeID": 5,
-      "eventID": 72,
-      "minLevel": 1020,
-      "maxLevel": 1020,
-      "countVictoryMin": 81,
-      "countVictoryMax": 90
-    },
-    {
-      "comment2": "Difficulty Scaling - NomadInvasion",
-      "leaguetypeID": 1,
-      "eventID": 72,
-      "subType": 1,
-      "minLevel": 10,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Gacha (decoDistrict 2x2) all levels",
-      "leaguetypeID": 1,
-      "eventID": 126,
-      "minLevel": 10,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Xmas Gacha",
-      "leaguetypeID": 1,
-      "eventID": 127,
-      "minLevel": 10,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Easter Gacha",
-      "leaguetypeID": 1,
-      "eventID": 128,
-      "minLevel": 10,
-      "maxLevel": 1020
-    },
-    {
-      "comment1": "Alliance Raidboss Event",
-      "comment2": "Alliance Raidboss Event",
-      "leaguetypeID": 1,
-      "eventID": 133,
-      "subType": 0,
-      "minLevel": 70,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Summer Gacha",
-      "leaguetypeID": 1,
-      "eventID": 130,
-      "minLevel": 10,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Anniversary Gacha",
-      "leaguetypeID": 1,
-      "eventID": 131,
-      "minLevel": 10,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "Anniversary Gacha",
-      "leaguetypeID": 1,
-      "eventID": 132,
-      "minLevel": 10,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "BlackFriday Gacha",
-      "leaguetypeID": 1,
-      "eventID": 134,
-      "minLevel": 10,
-      "maxLevel": 1020
-    },
-    {
-      "comment2": "carnival gachaEvent",
-      "leaguetypeID": 1,
-      "eventID": 135,
-      "minLevel": 10,
-      "maxLevel": 1020
-    }
-  ]
-}
+[
+  {
+    "comment2": "highscore iron",
+    "leaguetypeID": 1,
+    "eventID": -1,
+    "minLevel": 0,
+    "maxLevel": 19
+  },
+  {
+    "comment2": "copper",
+    "leaguetypeID": 2,
+    "eventID": -1,
+    "minLevel": 20,
+    "maxLevel": 29
+  },
+  {
+    "comment2": "bronze",
+    "leaguetypeID": 3,
+    "eventID": -1,
+    "minLevel": 30,
+    "maxLevel": 39
+  },
+  {
+    "comment2": "silver",
+    "leaguetypeID": 4,
+    "eventID": -1,
+    "minLevel": 40,
+    "maxLevel": 49
+  },
+  {
+    "comment2": "gold",
+    "leaguetypeID": 5,
+    "eventID": -1,
+    "minLevel": 50,
+    "maxLevel": 69
+  },
+  {
+    "comment2": "platin",
+    "leaguetypeID": 6,
+    "eventID": -1,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "pointEvent 2",
+    "leaguetypeID": 1,
+    "eventID": 60,
+    "minLevel": 10,
+    "maxLevel": 14
+  },
+  {
+    "comment2": "pointEvent 3",
+    "leaguetypeID": 2,
+    "eventID": 60,
+    "minLevel": 15,
+    "maxLevel": 19
+  },
+  {
+    "comment2": "pointEvent 4",
+    "leaguetypeID": 3,
+    "eventID": 60,
+    "minLevel": 20,
+    "maxLevel": 24
+  },
+  {
+    "comment2": "pointEvent 5",
+    "leaguetypeID": 4,
+    "eventID": 60,
+    "minLevel": 25,
+    "maxLevel": 29
+  },
+  {
+    "comment2": "pointEvent 6",
+    "leaguetypeID": 5,
+    "eventID": 60,
+    "minLevel": 30,
+    "maxLevel": 49
+  },
+  {
+    "comment2": "pointEvent 7",
+    "leaguetypeID": 6,
+    "eventID": 60,
+    "minLevel": 50,
+    "maxLevel": 69
+  },
+  {
+    "comment2": "pointEvent 8",
+    "leaguetypeID": 7,
+    "eventID": 60,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "BeggingKnights1",
+    "leaguetypeID": 1,
+    "eventID": 62,
+    "minLevel": 6,
+    "maxLevel": 10
+  },
+  {
+    "comment2": "BeggingKnights2",
+    "leaguetypeID": 2,
+    "eventID": 62,
+    "minLevel": 11,
+    "maxLevel": 15
+  },
+  {
+    "comment2": "BeggingKnights3",
+    "leaguetypeID": 3,
+    "eventID": 62,
+    "minLevel": 16,
+    "maxLevel": 20
+  },
+  {
+    "comment2": "BeggingKnights4",
+    "leaguetypeID": 4,
+    "eventID": 62,
+    "minLevel": 21,
+    "maxLevel": 30
+  },
+  {
+    "comment2": "BeggingKnights5",
+    "leaguetypeID": 5,
+    "eventID": 62,
+    "minLevel": 31,
+    "maxLevel": 40
+  },
+  {
+    "comment2": "BeggingKnights6",
+    "leaguetypeID": 6,
+    "eventID": 62,
+    "minLevel": 41,
+    "maxLevel": 50
+  },
+  {
+    "comment2": "BeggingKnights7",
+    "leaguetypeID": 7,
+    "eventID": 62,
+    "minLevel": 51,
+    "maxLevel": 69
+  },
+  {
+    "comment2": "BeggingKnights8",
+    "leaguetypeID": 8,
+    "eventID": 62,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Tournament",
+    "leaguetypeID": 6,
+    "eventID": 24,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "WheelOfFortune",
+    "leaguetypeID": 1,
+    "eventID": 15,
+    "minLevel": 6,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "SaleDaysWheelOfFortune",
+    "leaguetypeID": 1,
+    "eventID": 89,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "NomadInvasion",
+    "leaguetypeID": 4,
+    "eventID": 5,
+    "minLevel": 10,
+    "maxLevel": 39,
+    "countVictoryMin": 41,
+    "countVictoryMax": 50
+  },
+  {
+    "comment2": "NomadInvasion",
+    "leaguetypeID": 5,
+    "eventID": 5,
+    "minLevel": 40,
+    "maxLevel": 49,
+    "countVictoryMin": 51,
+    "countVictoryMax": 60
+  },
+  {
+    "comment2": "NomadInvasion",
+    "leaguetypeID": 6,
+    "eventID": 5,
+    "minLevel": 50,
+    "maxLevel": 59,
+    "countVictoryMin": 61,
+    "countVictoryMax": 70
+  },
+  {
+    "comment2": "NomadInvasion",
+    "leaguetypeID": 7,
+    "eventID": 5,
+    "minLevel": 60,
+    "maxLevel": 69,
+    "countVictoryMin": 71,
+    "countVictoryMax": 80
+  },
+  {
+    "comment2": "NomadInvasion",
+    "leaguetypeID": 8,
+    "eventID": 5,
+    "minLevel": 70,
+    "maxLevel": 1020,
+    "countVictoryMin": 81,
+    "countVictoryMax": 90
+  },
+  {
+    "comment2": "Berimond Blue 15-69",
+    "leaguetypeID": 1,
+    "eventID": 3,
+    "subType": 0,
+    "minLevel": 15,
+    "maxLevel": 69
+  },
+  {
+    "comment2": "Berimond Blue 15-69",
+    "leaguetypeID": 2,
+    "eventID": 3,
+    "subType": 1,
+    "minLevel": 15,
+    "maxLevel": 69
+  },
+  {
+    "comment2": "Berimond Blue 70 +",
+    "leaguetypeID": 3,
+    "eventID": 3,
+    "subType": 0,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Berimond Red 70 +",
+    "leaguetypeID": 4,
+    "eventID": 3,
+    "subType": 1,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "SamuraiInvasion",
+    "leaguetypeID": 1,
+    "eventID": 500,
+    "subType": 1,
+    "minLevel": 10,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "SamuraiInvasion",
+    "leaguetypeID": 1,
+    "eventID": 500,
+    "minLevel": 10,
+    "maxLevel": 15
+  },
+  {
+    "comment2": "SamuraiInvasion",
+    "leaguetypeID": 2,
+    "eventID": 500,
+    "minLevel": 16,
+    "maxLevel": 20
+  },
+  {
+    "comment2": "SamuraiInvasion",
+    "leaguetypeID": 3,
+    "eventID": 500,
+    "minLevel": 21,
+    "maxLevel": 30
+  },
+  {
+    "comment2": "SamuraiInvasion",
+    "leaguetypeID": 4,
+    "eventID": 500,
+    "minLevel": 31,
+    "maxLevel": 40
+  },
+  {
+    "comment2": "SamuraiInvasion",
+    "leaguetypeID": 5,
+    "eventID": 500,
+    "minLevel": 41,
+    "maxLevel": 50
+  },
+  {
+    "comment2": "SamuraiInvasion",
+    "leaguetypeID": 6,
+    "eventID": 500,
+    "minLevel": 51,
+    "maxLevel": 69
+  },
+  {
+    "comment2": "SamuraiInvasion",
+    "leaguetypeID": 7,
+    "eventID": 500,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "AllianceTournament",
+    "leaguetypeID": 1,
+    "eventID": 36,
+    "minLevel": 6,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "LongTermPointEvent",
+    "leaguetypeID": 1,
+    "eventID": 83,
+    "minLevel": 70,
+    "maxLevel": 269
+  },
+  {
+    "comment2": "LongTermPointEvent",
+    "leaguetypeID": 2,
+    "eventID": 83,
+    "minLevel": 270,
+    "maxLevel": 719
+  },
+  {
+    "comment2": "LongTermPointEvent",
+    "leaguetypeID": 3,
+    "eventID": 83,
+    "minLevel": 720,
+    "maxLevel": 1019
+  },
+  {
+    "comment2": "LongTermPointEvent",
+    "leaguetypeID": 4,
+    "eventID": 83,
+    "minLevel": 1020,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Monthly Campaign",
+    "leaguetypeID": 1,
+    "eventID": 95,
+    "minLevel": 30,
+    "maxLevel": 39
+  },
+  {
+    "comment2": "Monthly Campaign",
+    "leaguetypeID": 2,
+    "eventID": 95,
+    "minLevel": 40,
+    "maxLevel": 49
+  },
+  {
+    "comment2": "Monthly Campaign",
+    "leaguetypeID": 3,
+    "eventID": 95,
+    "minLevel": 50,
+    "maxLevel": 59
+  },
+  {
+    "comment2": "Monthly Campaign",
+    "leaguetypeID": 4,
+    "eventID": 95,
+    "minLevel": 60,
+    "maxLevel": 69
+  },
+  {
+    "comment2": "Monthly Campaign",
+    "leaguetypeID": 5,
+    "eventID": 95,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "leaguetypeID": 1,
+    "eventID": 106,
+    "minLevel": 11,
+    "maxLevel": 1020,
+    "countVictoryMin": 1,
+    "countVictoryMax": 1
+  },
+  {
+    "comment1": "600 - 99",
+    "comment2": "Seasons",
+    "leaguetypeID": 1,
+    "eventID": 601,
+    "minLevel": 600,
+    "maxLevel": 1020,
+    "countVictoryMin": 1,
+    "countVictoryMax": 1
+  },
+  {
+    "comment1": "70-599",
+    "comment2": "Seasons",
+    "leaguetypeID": 2,
+    "eventID": 601,
+    "minLevel": 70,
+    "maxLevel": 599,
+    "countVictoryMin": 1,
+    "countVictoryMax": 1
+  },
+  {
+    "comment2": "Difficulty Scaling - AlienInvasion",
+    "leaguetypeID": 1,
+    "eventID": 71,
+    "minLevel": 20,
+    "maxLevel": 69
+  },
+  {
+    "comment2": "Difficulty Scaling - AlienInvasion",
+    "leaguetypeID": 2,
+    "eventID": 71,
+    "minLevel": 70,
+    "maxLevel": 369
+  },
+  {
+    "comment2": "Difficulty Scaling - AlienInvasion",
+    "leaguetypeID": 3,
+    "eventID": 71,
+    "minLevel": 370,
+    "maxLevel": 719
+  },
+  {
+    "comment2": "Difficulty Scaling - AlienInvasion",
+    "leaguetypeID": 4,
+    "eventID": 71,
+    "minLevel": 720,
+    "maxLevel": 1019
+  },
+  {
+    "comment2": "Difficulty Scaling - AlienInvasion",
+    "leaguetypeID": 5,
+    "eventID": 71,
+    "minLevel": 1020,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Difficulty Scaling - AlienInvasion",
+    "leaguetypeID": 1,
+    "eventID": 71,
+    "subType": 1,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Difficulty Scaling - RedAlienInvasion",
+    "leaguetypeID": 1,
+    "eventID": 103,
+    "minLevel": 40,
+    "maxLevel": 69
+  },
+  {
+    "comment2": "Difficulty Scaling - RedAlienInvasion",
+    "leaguetypeID": 2,
+    "eventID": 103,
+    "minLevel": 70,
+    "maxLevel": 369
+  },
+  {
+    "comment2": "Difficulty Scaling - RedAlienInvasion",
+    "leaguetypeID": 3,
+    "eventID": 103,
+    "minLevel": 370,
+    "maxLevel": 719
+  },
+  {
+    "comment2": "Difficulty Scaling - RedAlienInvasion",
+    "leaguetypeID": 4,
+    "eventID": 103,
+    "minLevel": 720,
+    "maxLevel": 1019
+  },
+  {
+    "comment2": "Difficulty Scaling - RedAlienInvasion",
+    "leaguetypeID": 5,
+    "eventID": 103,
+    "minLevel": 1020,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Difficulty Scaling - RedAlienInvasion",
+    "leaguetypeID": 1,
+    "eventID": 103,
+    "subType": 1,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Difficulty Scaling - SamuraiInvasion",
+    "leaguetypeID": 1,
+    "eventID": 80,
+    "minLevel": 10,
+    "maxLevel": 69,
+    "countVictoryMin": 16,
+    "countVictoryMax": 80
+  },
+  {
+    "comment2": "Difficulty Scaling - SamuraiInvasion",
+    "leaguetypeID": 2,
+    "eventID": 80,
+    "minLevel": 70,
+    "maxLevel": 369,
+    "countVictoryMin": 81,
+    "countVictoryMax": 90
+  },
+  {
+    "comment2": "Difficulty Scaling - SamuraiInvasion",
+    "leaguetypeID": 3,
+    "eventID": 80,
+    "minLevel": 370,
+    "maxLevel": 719,
+    "countVictoryMin": 81,
+    "countVictoryMax": 90
+  },
+  {
+    "comment2": "Difficulty Scaling - SamuraiInvasion",
+    "leaguetypeID": 4,
+    "eventID": 80,
+    "minLevel": 720,
+    "maxLevel": 1019,
+    "countVictoryMin": 81,
+    "countVictoryMax": 90
+  },
+  {
+    "comment2": "Difficulty Scaling - SamuraiInvasion",
+    "leaguetypeID": 5,
+    "eventID": 80,
+    "minLevel": 1020,
+    "maxLevel": 1020,
+    "countVictoryMin": 81,
+    "countVictoryMax": 90
+  },
+  {
+    "comment2": "Difficulty Scaling - SamuraiInvasion",
+    "leaguetypeID": 1,
+    "eventID": 80,
+    "subType": 1,
+    "minLevel": 10,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Difficulty Scaling - NomadInvasion",
+    "leaguetypeID": 1,
+    "eventID": 72,
+    "minLevel": 10,
+    "maxLevel": 69,
+    "countVictoryMin": 61,
+    "countVictoryMax": 80
+  },
+  {
+    "comment2": "Difficulty Scaling - NomadInvasion",
+    "leaguetypeID": 2,
+    "eventID": 72,
+    "minLevel": 70,
+    "maxLevel": 369,
+    "countVictoryMin": 81,
+    "countVictoryMax": 90
+  },
+  {
+    "comment2": "Difficulty Scaling - NomadInvasion",
+    "leaguetypeID": 3,
+    "eventID": 72,
+    "minLevel": 370,
+    "maxLevel": 719,
+    "countVictoryMin": 81,
+    "countVictoryMax": 90
+  },
+  {
+    "comment2": "Difficulty Scaling - NomadInvasion",
+    "leaguetypeID": 4,
+    "eventID": 72,
+    "minLevel": 720,
+    "maxLevel": 1019,
+    "countVictoryMin": 81,
+    "countVictoryMax": 90
+  },
+  {
+    "comment2": "Difficulty Scaling - NomadInvasion",
+    "leaguetypeID": 5,
+    "eventID": 72,
+    "minLevel": 1020,
+    "maxLevel": 1020,
+    "countVictoryMin": 81,
+    "countVictoryMax": 90
+  },
+  {
+    "comment2": "Difficulty Scaling - NomadInvasion",
+    "leaguetypeID": 1,
+    "eventID": 72,
+    "subType": 1,
+    "minLevel": 10,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Gacha (decoDistrict 2x2) all levels",
+    "leaguetypeID": 1,
+    "eventID": 126,
+    "minLevel": 10,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Xmas Gacha",
+    "leaguetypeID": 1,
+    "eventID": 127,
+    "minLevel": 10,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Easter Gacha",
+    "leaguetypeID": 1,
+    "eventID": 128,
+    "minLevel": 10,
+    "maxLevel": 1020
+  },
+  {
+    "comment1": "Alliance Raidboss Event",
+    "comment2": "Alliance Raidboss Event",
+    "leaguetypeID": 1,
+    "eventID": 133,
+    "subType": 0,
+    "minLevel": 70,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Summer Gacha",
+    "leaguetypeID": 1,
+    "eventID": 130,
+    "minLevel": 10,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Anniversary Gacha",
+    "leaguetypeID": 1,
+    "eventID": 131,
+    "minLevel": 10,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "Anniversary Gacha",
+    "leaguetypeID": 1,
+    "eventID": 132,
+    "minLevel": 10,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "BlackFriday Gacha",
+    "leaguetypeID": 1,
+    "eventID": 134,
+    "minLevel": 10,
+    "maxLevel": 1020
+  },
+  {
+    "comment2": "carnival gachaEvent",
+    "leaguetypeID": 1,
+    "eventID": 135,
+    "minLevel": 10,
+    "maxLevel": 1020
+  }
+]

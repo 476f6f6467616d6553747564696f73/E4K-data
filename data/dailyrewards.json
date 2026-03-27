@@ -1,38 +1,36 @@
-{
-  "dailyreward": [
-    {
-      "dailyRewardID": 1,
-      "rewardPoints": 15,
-      "currency1": "1.4,5,-25"
-    },
-    {
-      "dailyRewardID": 2,
-      "rewardPoints": 30,
-      "wood": "1.35,10,-60",
-      "stone": "1.45,8,-60"
-    },
-    {
-      "dailyRewardID": 3,
-      "rewardPoints": 50,
-      "food": "1.55,8,0",
-      "unitA": "603+5#605+5#630+5",
-      "unitB": "607+5#609+5#636+5"
-    },
-    {
-      "dailyRewardID": 4,
-      "rewardPoints": 70,
-      "wood": "1.55,9.5,-60",
-      "stone": "1.6,8,-60",
-      "currency1": "1.65,8,-25",
-      "equipment": "2+100"
-    },
-    {
-      "dailyRewardID": 5,
-      "rewardPoints": 80,
-      "unitA": "605+15#630+15#672+15",
-      "unitB": "609+15#636+15#664+15",
-      "unitC": "649+10#649+10#649+10",
-      "equipment": "3+98#4+2"
-    }
-  ]
-}
+[
+  {
+    "dailyRewardID": 1,
+    "rewardPoints": 15,
+    "currency1": "1.4,5,-25"
+  },
+  {
+    "dailyRewardID": 2,
+    "rewardPoints": 30,
+    "wood": "1.35,10,-60",
+    "stone": "1.45,8,-60"
+  },
+  {
+    "dailyRewardID": 3,
+    "rewardPoints": 50,
+    "food": "1.55,8,0",
+    "unitA": "603+5#605+5#630+5",
+    "unitB": "607+5#609+5#636+5"
+  },
+  {
+    "dailyRewardID": 4,
+    "rewardPoints": 70,
+    "wood": "1.55,9.5,-60",
+    "stone": "1.6,8,-60",
+    "currency1": "1.65,8,-25",
+    "equipment": "2+100"
+  },
+  {
+    "dailyRewardID": 5,
+    "rewardPoints": 80,
+    "unitA": "605+15#630+15#672+15",
+    "unitB": "609+15#636+15#664+15",
+    "unitC": "649+10#649+10#649+10",
+    "equipment": "3+98#4+2"
+  }
+]

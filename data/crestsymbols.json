@@ -1,468 +1,466 @@
-{
-  "crestsymbol": [
-    {
-      "crestSymbolID": 0,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 1,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 2,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 3,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 4,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 5,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 6,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 7,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 8,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 9,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 10,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 11,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 12,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 13,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 14,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 15,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 16,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 17,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 18,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 19,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 20,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 21,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 22,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 23,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 24,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 25,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 26,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 27,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 28,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 29,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 30,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 31,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 32,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 33,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 34,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 35,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 36,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 37,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 38,
-      "comment1": "basic"
-    },
-    {
-      "crestSymbolID": 40,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 1,
-      "costC1": 120,
-      "effects": "51&amp;4"
-    },
-    {
-      "crestSymbolID": 41,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 2,
-      "costC1": 900,
-      "effects": "86&amp;2"
-    },
-    {
-      "crestSymbolID": 42,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 3,
-      "costC1": 1250,
-      "effects": "87&amp;2"
-    },
-    {
-      "crestSymbolID": 43,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 4,
-      "costC1": 2500,
-      "effects": "67&amp;2"
-    },
-    {
-      "crestSymbolID": 44,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 5,
-      "costC1": 5000,
-      "effects": "60&amp;10"
-    },
-    {
-      "crestSymbolID": 45,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 6,
-      "costC2": 6500,
-      "effects": "51&amp;7"
-    },
-    {
-      "crestSymbolID": 46,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 7,
-      "costC1": 10000,
-      "effects": "86&amp;5"
-    },
-    {
-      "crestSymbolID": 47,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 8,
-      "costC1": 25000,
-      "effects": "87&amp;5"
-    },
-    {
-      "crestSymbolID": 48,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 9,
-      "costC2": 12000,
-      "effects": "67&amp;4"
-    },
-    {
-      "crestSymbolID": 49,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 10,
-      "costC1": 50000,
-      "effects": "60&amp;20"
-    },
-    {
-      "crestSymbolID": 50,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 11,
-      "costC2": 32000,
-      "effects": "51&amp;10"
-    },
-    {
-      "crestSymbolID": 51,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 12,
-      "costC1": 75000,
-      "effects": "86&amp;10"
-    },
-    {
-      "crestSymbolID": 52,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 13,
-      "costC2": 12000,
-      "effects": "87&amp;10"
-    },
-    {
-      "crestSymbolID": 53,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 14,
-      "costC2": 64000,
-      "effects": "67&amp;8"
-    },
-    {
-      "crestSymbolID": 54,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 15,
-      "costC1": 100000,
-      "effects": "60&amp;30"
-    },
-    {
-      "crestSymbolID": 55,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 16,
-      "costC2": 96000,
-      "effects": "51&amp;13"
-    },
-    {
-      "crestSymbolID": 56,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 17,
-      "costC1": 250000,
-      "effects": "86&amp;15"
-    },
-    {
-      "crestSymbolID": 57,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 18,
-      "costC2": 32000,
-      "effects": "87&amp;15"
-    },
-    {
-      "crestSymbolID": 58,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 19,
-      "costC2": 120000,
-      "effects": "67&amp;11"
-    },
-    {
-      "crestSymbolID": 59,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 20,
-      "costC2": 12000,
-      "effects": "60&amp;50"
-    },
-    {
-      "crestSymbolID": 60,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 21,
-      "costC2": 146000,
-      "effects": "51&amp;17"
-    },
-    {
-      "crestSymbolID": 61,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 22,
-      "costC1": 500000,
-      "effects": "86&amp;20"
-    },
-    {
-      "crestSymbolID": 62,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 23,
-      "costC2": 64000,
-      "effects": "87&amp;20"
-    },
-    {
-      "crestSymbolID": 63,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 24,
-      "costC2": 196000,
-      "effects": "67&amp;15"
-    },
-    {
-      "crestSymbolID": 64,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 25,
-      "costC2": 15000,
-      "effects": "60&amp;75"
-    },
-    {
-      "crestSymbolID": 65,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 26,
-      "costC2": 196000,
-      "effects": "51&amp;20"
-    },
-    {
-      "crestSymbolID": 66,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 27,
-      "costC1": 800000,
-      "effects": "86&amp;25"
-    },
-    {
-      "crestSymbolID": 67,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 28,
-      "costC2": 146000,
-      "effects": "87&amp;25"
-    },
-    {
-      "crestSymbolID": 68,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 29,
-      "costC2": 250000,
-      "effects": "67&amp;20"
-    },
-    {
-      "crestSymbolID": 69,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 30,
-      "costC2": 17000,
-      "effects": "60&amp;100"
-    },
-    {
-      "crestSymbolID": 70,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 31,
-      "costC2": 196000,
-      "effects": "51&amp;23"
-    },
-    {
-      "crestSymbolID": 71,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 32,
-      "costC1": 950000,
-      "effects": "86&amp;30"
-    },
-    {
-      "crestSymbolID": 72,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 33,
-      "costC1": 6000000,
-      "effects": "300&amp;2"
-    },
-    {
-      "crestSymbolID": 73,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 34,
-      "costC1": 12000000,
-      "effects": "299&amp;2"
-    },
-    {
-      "crestSymbolID": 74,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 35,
-      "costC2": 25000,
-      "effects": "300&amp;4"
-    },
-    {
-      "crestSymbolID": 75,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 36,
-      "costC2": 60000,
-      "effects": "299&amp;4"
-    },
-    {
-      "crestSymbolID": 76,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 37,
-      "costC2": 50000,
-      "effects": "300&amp;8"
-    },
-    {
-      "crestSymbolID": 77,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 38,
-      "costC2": 120000,
-      "effects": "299&amp;8"
-    },
-    {
-      "crestSymbolID": 78,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 39,
-      "costC2": 100000,
-      "effects": "300&amp;11"
-    },
-    {
-      "crestSymbolID": 79,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 40,
-      "costC2": 240000,
-      "effects": "299&amp;11"
-    },
-    {
-      "crestSymbolID": 80,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 41,
-      "costC2": 200000,
-      "effects": "300&amp;15"
-    },
-    {
-      "crestSymbolID": 81,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 42,
-      "costC2": 480000,
-      "effects": "299&amp;15"
-    },
-    {
-      "crestSymbolID": 82,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 43,
-      "costC2": 400000,
-      "effects": "300&amp;20"
-    },
-    {
-      "crestSymbolID": 83,
-      "comment1": "achievementReward",
-      "requiredAchievementID": 389,
-      "costC2": 960000,
-      "effects": "299&amp;20"
-    }
-  ]
-}
+[
+  {
+    "crestSymbolID": 0,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 1,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 2,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 3,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 4,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 5,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 6,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 7,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 8,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 9,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 10,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 11,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 12,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 13,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 14,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 15,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 16,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 17,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 18,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 19,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 20,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 21,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 22,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 23,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 24,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 25,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 26,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 27,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 28,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 29,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 30,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 31,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 32,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 33,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 34,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 35,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 36,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 37,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 38,
+    "comment1": "basic"
+  },
+  {
+    "crestSymbolID": 40,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 1,
+    "costC1": 120,
+    "effects": "51&amp;4"
+  },
+  {
+    "crestSymbolID": 41,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 2,
+    "costC1": 900,
+    "effects": "86&amp;2"
+  },
+  {
+    "crestSymbolID": 42,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 3,
+    "costC1": 1250,
+    "effects": "87&amp;2"
+  },
+  {
+    "crestSymbolID": 43,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 4,
+    "costC1": 2500,
+    "effects": "67&amp;2"
+  },
+  {
+    "crestSymbolID": 44,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 5,
+    "costC1": 5000,
+    "effects": "60&amp;10"
+  },
+  {
+    "crestSymbolID": 45,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 6,
+    "costC2": 6500,
+    "effects": "51&amp;7"
+  },
+  {
+    "crestSymbolID": 46,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 7,
+    "costC1": 10000,
+    "effects": "86&amp;5"
+  },
+  {
+    "crestSymbolID": 47,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 8,
+    "costC1": 25000,
+    "effects": "87&amp;5"
+  },
+  {
+    "crestSymbolID": 48,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 9,
+    "costC2": 12000,
+    "effects": "67&amp;4"
+  },
+  {
+    "crestSymbolID": 49,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 10,
+    "costC1": 50000,
+    "effects": "60&amp;20"
+  },
+  {
+    "crestSymbolID": 50,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 11,
+    "costC2": 32000,
+    "effects": "51&amp;10"
+  },
+  {
+    "crestSymbolID": 51,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 12,
+    "costC1": 75000,
+    "effects": "86&amp;10"
+  },
+  {
+    "crestSymbolID": 52,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 13,
+    "costC2": 12000,
+    "effects": "87&amp;10"
+  },
+  {
+    "crestSymbolID": 53,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 14,
+    "costC2": 64000,
+    "effects": "67&amp;8"
+  },
+  {
+    "crestSymbolID": 54,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 15,
+    "costC1": 100000,
+    "effects": "60&amp;30"
+  },
+  {
+    "crestSymbolID": 55,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 16,
+    "costC2": 96000,
+    "effects": "51&amp;13"
+  },
+  {
+    "crestSymbolID": 56,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 17,
+    "costC1": 250000,
+    "effects": "86&amp;15"
+  },
+  {
+    "crestSymbolID": 57,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 18,
+    "costC2": 32000,
+    "effects": "87&amp;15"
+  },
+  {
+    "crestSymbolID": 58,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 19,
+    "costC2": 120000,
+    "effects": "67&amp;11"
+  },
+  {
+    "crestSymbolID": 59,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 20,
+    "costC2": 12000,
+    "effects": "60&amp;50"
+  },
+  {
+    "crestSymbolID": 60,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 21,
+    "costC2": 146000,
+    "effects": "51&amp;17"
+  },
+  {
+    "crestSymbolID": 61,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 22,
+    "costC1": 500000,
+    "effects": "86&amp;20"
+  },
+  {
+    "crestSymbolID": 62,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 23,
+    "costC2": 64000,
+    "effects": "87&amp;20"
+  },
+  {
+    "crestSymbolID": 63,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 24,
+    "costC2": 196000,
+    "effects": "67&amp;15"
+  },
+  {
+    "crestSymbolID": 64,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 25,
+    "costC2": 15000,
+    "effects": "60&amp;75"
+  },
+  {
+    "crestSymbolID": 65,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 26,
+    "costC2": 196000,
+    "effects": "51&amp;20"
+  },
+  {
+    "crestSymbolID": 66,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 27,
+    "costC1": 800000,
+    "effects": "86&amp;25"
+  },
+  {
+    "crestSymbolID": 67,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 28,
+    "costC2": 146000,
+    "effects": "87&amp;25"
+  },
+  {
+    "crestSymbolID": 68,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 29,
+    "costC2": 250000,
+    "effects": "67&amp;20"
+  },
+  {
+    "crestSymbolID": 69,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 30,
+    "costC2": 17000,
+    "effects": "60&amp;100"
+  },
+  {
+    "crestSymbolID": 70,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 31,
+    "costC2": 196000,
+    "effects": "51&amp;23"
+  },
+  {
+    "crestSymbolID": 71,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 32,
+    "costC1": 950000,
+    "effects": "86&amp;30"
+  },
+  {
+    "crestSymbolID": 72,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 33,
+    "costC1": 6000000,
+    "effects": "300&amp;2"
+  },
+  {
+    "crestSymbolID": 73,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 34,
+    "costC1": 12000000,
+    "effects": "299&amp;2"
+  },
+  {
+    "crestSymbolID": 74,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 35,
+    "costC2": 25000,
+    "effects": "300&amp;4"
+  },
+  {
+    "crestSymbolID": 75,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 36,
+    "costC2": 60000,
+    "effects": "299&amp;4"
+  },
+  {
+    "crestSymbolID": 76,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 37,
+    "costC2": 50000,
+    "effects": "300&amp;8"
+  },
+  {
+    "crestSymbolID": 77,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 38,
+    "costC2": 120000,
+    "effects": "299&amp;8"
+  },
+  {
+    "crestSymbolID": 78,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 39,
+    "costC2": 100000,
+    "effects": "300&amp;11"
+  },
+  {
+    "crestSymbolID": 79,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 40,
+    "costC2": 240000,
+    "effects": "299&amp;11"
+  },
+  {
+    "crestSymbolID": 80,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 41,
+    "costC2": 200000,
+    "effects": "300&amp;15"
+  },
+  {
+    "crestSymbolID": 81,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 42,
+    "costC2": 480000,
+    "effects": "299&amp;15"
+  },
+  {
+    "crestSymbolID": 82,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 43,
+    "costC2": 400000,
+    "effects": "300&amp;20"
+  },
+  {
+    "crestSymbolID": 83,
+    "comment1": "achievementReward",
+    "requiredAchievementID": 389,
+    "costC2": 960000,
+    "effects": "299&amp;20"
+  }
+]

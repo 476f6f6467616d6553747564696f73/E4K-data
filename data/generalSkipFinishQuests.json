@@ -1,52 +1,50 @@
-{
-  "generalSkipFinishQuest": [
-    {
-      "generalSkipFinishQuestID": 1,
-      "crossplayID": 1,
-      "questsToFinish": "53340,53270,53271,53272,53273,53347,53274,53275,53276,53277,53278,53279",
-      "minLevel": 10,
-      "maxLevel": 20
-    },
-    {
-      "generalSkipFinishQuestID": 2,
-      "crossplayID": 2,
-      "questsToFinish": "53341,53280,53281,53282,53283,53348,53284,53285,53286,53287,53288,53289",
-      "minLevel": 21,
-      "maxLevel": 44
-    },
-    {
-      "generalSkipFinishQuestID": 3,
-      "crossplayID": 3,
-      "questsToFinish": "53342,53290,53291,53292,53293,53349,53294,53295,53296,53297,53298,53299",
-      "minLevel": 45,
-      "maxLevel": 69
-    },
-    {
-      "generalSkipFinishQuestID": 4,
-      "crossplayID": 4,
-      "questsToFinish": "53343,53300,53301,53302,53303,53350,53304,53305,53306,53307,53308,53309",
-      "minLevel": 70,
-      "maxLevel": 369
-    },
-    {
-      "generalSkipFinishQuestID": 5,
-      "crossplayID": 5,
-      "questsToFinish": "53344,53310,53311,53312,53313,53351,53314,53315,53316,53317,53318,53319",
-      "minLevel": 370,
-      "maxLevel": 719
-    },
-    {
-      "generalSkipFinishQuestID": 6,
-      "crossplayID": 6,
-      "questsToFinish": "53345,53320,53321,53322,53323,53352,53324,53325,53326,53327,53328,53329",
-      "minLevel": 720,
-      "maxLevel": 919
-    },
-    {
-      "generalSkipFinishQuestID": 7,
-      "crossplayID": 7,
-      "questsToFinish": "53346,53330,53331,53332,53333,53353,53334,53335,53336,53337,53338,53339",
-      "minLevel": 920
-    }
-  ]
-}
+[
+  {
+    "generalSkipFinishQuestID": 1,
+    "crossplayID": 1,
+    "questsToFinish": "53340,53270,53271,53272,53273,53347,53274,53275,53276,53277,53278,53279",
+    "minLevel": 10,
+    "maxLevel": 20
+  },
+  {
+    "generalSkipFinishQuestID": 2,
+    "crossplayID": 2,
+    "questsToFinish": "53341,53280,53281,53282,53283,53348,53284,53285,53286,53287,53288,53289",
+    "minLevel": 21,
+    "maxLevel": 44
+  },
+  {
+    "generalSkipFinishQuestID": 3,
+    "crossplayID": 3,
+    "questsToFinish": "53342,53290,53291,53292,53293,53349,53294,53295,53296,53297,53298,53299",
+    "minLevel": 45,
+    "maxLevel": 69
+  },
+  {
+    "generalSkipFinishQuestID": 4,
+    "crossplayID": 4,
+    "questsToFinish": "53343,53300,53301,53302,53303,53350,53304,53305,53306,53307,53308,53309",
+    "minLevel": 70,
+    "maxLevel": 369
+  },
+  {
+    "generalSkipFinishQuestID": 5,
+    "crossplayID": 5,
+    "questsToFinish": "53344,53310,53311,53312,53313,53351,53314,53315,53316,53317,53318,53319",
+    "minLevel": 370,
+    "maxLevel": 719
+  },
+  {
+    "generalSkipFinishQuestID": 6,
+    "crossplayID": 6,
+    "questsToFinish": "53345,53320,53321,53322,53323,53352,53324,53325,53326,53327,53328,53329",
+    "minLevel": 720,
+    "maxLevel": 919
+  },
+  {
+    "generalSkipFinishQuestID": 7,
+    "crossplayID": 7,
+    "questsToFinish": "53346,53330,53331,53332,53333,53353,53334,53335,53336,53337,53338,53339",
+    "minLevel": 920
+  }
+]

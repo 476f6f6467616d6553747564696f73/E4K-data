@@ -1,15 +1,13 @@
-{
-  "levelup": [
-    {
-      "minLevel": 1,
-      "maxLevel": 70,
-      "rewardID": 447
-    },
-    {
-      "isLegend": 1,
-      "minLevel": 1,
-      "maxLevel": 950,
-      "rewardID": 447
-    }
-  ]
-}
+[
+  {
+    "minLevel": 1,
+    "maxLevel": 70,
+    "rewardID": 447
+  },
+  {
+    "isLegend": 1,
+    "minLevel": 1,
+    "maxLevel": 950,
+    "rewardID": 447
+  }
+]

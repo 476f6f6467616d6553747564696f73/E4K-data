@@ -1,76 +1,74 @@
-{
-  "currencyType": [
-    {
-      "typeID": 1,
-      "crossplayID": 1,
-      "typeName": "MinuteSkip",
-      "currencyIDRange": "1000-1999"
-    },
-    {
-      "typeID": 2,
-      "crossplayID": 2,
-      "typeName": "CraftingMaterial",
-      "currencyIDRange": "30001-39999"
-    },
-    {
-      "typeID": 3,
-      "crossplayID": 3,
-      "typeName": "EventCurrency",
-      "currencyIDRange": "1-999"
-    },
-    {
-      "typeID": 4,
-      "crossplayID": 4,
-      "typeName": "DecoFusionCatalysts",
-      "currencyIDRange": "100001-199999"
-    },
-    {
-      "typeID": 6,
-      "crossplayID": 6,
-      "typeName": "ItemBoosterConsumables",
-      "currencyIDRange": "2000-2999"
-    },
-    {
-      "typeID": 7,
-      "crossplayID": 7,
-      "typeName": "RecipeMaterial",
-      "currencyIDRange": "3000-4999"
-    },
-    {
-      "typeID": 8,
-      "crossplayID": 8,
-      "typeName": "LootBoxKeys",
-      "currencyIDRange": "5000-5999"
-    },
-    {
-      "typeID": 9,
-      "crossplayID": 9,
-      "typeName": "GeneralShard",
-      "currencyIDRange": "10000-11000"
-    },
-    {
-      "typeID": 10,
-      "crossplayID": 10,
-      "typeName": "GeneralsXPItem",
-      "currencyIDRange": "7000-7100"
-    },
-    {
-      "typeID": 11,
-      "crossplayID": 11,
-      "typeName": "Offering",
-      "currencyIDRange": "6000-6100"
-    },
-    {
-      "typeID": 12,
-      "crossplayID": 12,
-      "typeName": "RespecToken",
-      "currencyIDRange": "9998-9999"
-    },
-    {
-      "typeID": 13,
-      "crossplayID": 13,
-      "typeName": "DonationCurrency",
-      "currencyIDRange": "8000-8100"
-    }
-  ]
-}
+[
+  {
+    "typeID": 1,
+    "crossplayID": 1,
+    "typeName": "MinuteSkip",
+    "currencyIDRange": "1000-1999"
+  },
+  {
+    "typeID": 2,
+    "crossplayID": 2,
+    "typeName": "CraftingMaterial",
+    "currencyIDRange": "30001-39999"
+  },
+  {
+    "typeID": 3,
+    "crossplayID": 3,
+    "typeName": "EventCurrency",
+    "currencyIDRange": "1-999"
+  },
+  {
+    "typeID": 4,
+    "crossplayID": 4,
+    "typeName": "DecoFusionCatalysts",
+    "currencyIDRange": "100001-199999"
+  },
+  {
+    "typeID": 6,
+    "crossplayID": 6,
+    "typeName": "ItemBoosterConsumables",
+    "currencyIDRange": "2000-2999"
+  },
+  {
+    "typeID": 7,
+    "crossplayID": 7,
+    "typeName": "RecipeMaterial",
+    "currencyIDRange": "3000-4999"
+  },
+  {
+    "typeID": 8,
+    "crossplayID": 8,
+    "typeName": "LootBoxKeys",
+    "currencyIDRange": "5000-5999"
+  },
+  {
+    "typeID": 9,
+    "crossplayID": 9,
+    "typeName": "GeneralShard",
+    "currencyIDRange": "10000-11000"
+  },
+  {
+    "typeID": 10,
+    "crossplayID": 10,
+    "typeName": "GeneralsXPItem",
+    "currencyIDRange": "7000-7100"
+  },
+  {
+    "typeID": 11,
+    "crossplayID": 11,
+    "typeName": "Offering",
+    "currencyIDRange": "6000-6100"
+  },
+  {
+    "typeID": 12,
+    "crossplayID": 12,
+    "typeName": "RespecToken",
+    "currencyIDRange": "9998-9999"
+  },
+  {
+    "typeID": 13,
+    "crossplayID": 13,
+    "typeName": "DonationCurrency",
+    "currencyIDRange": "8000-8100"
+  }
+]

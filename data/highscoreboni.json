@@ -1,280 +1,278 @@
-{
-  "highscorebonus": [
-    {
-      "leaguetypeID": 6,
-      "highestRank": 1,
-      "lowestRank": 50,
-      "unitReward": "214+50#204+50",
-      "minAmount": 260,
-      "toolReward": 403,
-      "toolOffset": 1,
-      "toolMinAmount": 5
-    },
-    {
-      "leaguetypeID": 6,
-      "highestRank": 51,
-      "lowestRank": 100,
-      "unitReward": "214+50#204+50",
-      "minAmount": 150,
-      "toolReward": 402,
-      "toolOffset": 1,
-      "toolMinAmount": 5
-    },
-    {
-      "leaguetypeID": 6,
-      "highestRank": 101,
-      "lowestRank": 150,
-      "unitReward": "214+50#204+50",
-      "minAmount": 260,
-      "toolReward": 401,
-      "toolOffset": 1,
-      "toolMinAmount": 5
-    },
-    {
-      "leaguetypeID": 6,
-      "highestRank": 151,
-      "lowestRank": 200,
-      "unitReward": "214+50#204+50",
-      "minAmount": 150,
-      "toolReward": 401,
-      "toolOffset": 1,
-      "toolMinAmount": 5
-    },
-    {
-      "leaguetypeID": 6,
-      "highestRank": 201,
-      "minAmount": 10,
-      "c1Reward": 130000
-    },
-    {
-      "leaguetypeID": 5,
-      "highestRank": 1,
-      "lowestRank": 50,
-      "unitReward": "9+50#10+50",
-      "minAmount": 260,
-      "toolReward": 651,
-      "toolOffset": 101,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 5,
-      "highestRank": 51,
-      "lowestRank": 100,
-      "unitReward": "9+50#10+50",
-      "minAmount": 150,
-      "toolReward": 651,
-      "toolOffset": 131,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 5,
-      "highestRank": 101,
-      "lowestRank": 150,
-      "unitReward": "9+50#10+50",
-      "minAmount": 260,
-      "toolReward": 651,
-      "toolOffset": 171,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 5,
-      "highestRank": 151,
-      "lowestRank": 200,
-      "unitReward": "9+50#10+50",
-      "minAmount": 150,
-      "toolReward": 651,
-      "toolOffset": 211,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 5,
-      "highestRank": 201,
-      "minAmount": 10,
-      "c1Reward": 100000
-    },
-    {
-      "leaguetypeID": 4,
-      "highestRank": 1,
-      "lowestRank": 50,
-      "unitReward": "9+50#10+50",
-      "minAmount": 260,
-      "toolReward": 651,
-      "toolOffset": 91,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 4,
-      "highestRank": 51,
-      "lowestRank": 100,
-      "unitReward": "9+50#10+50",
-      "minAmount": 150,
-      "toolReward": 651,
-      "toolOffset": 121,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 4,
-      "highestRank": 101,
-      "lowestRank": 150,
-      "unitReward": "9+50#10+50",
-      "minAmount": 260,
-      "toolReward": 651,
-      "toolOffset": 161,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 4,
-      "highestRank": 151,
-      "lowestRank": 200,
-      "unitReward": "9+50#10+50",
-      "minAmount": 150,
-      "toolReward": 651,
-      "toolOffset": 201,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 4,
-      "highestRank": 201,
-      "minAmount": 10,
-      "c1Reward": 70000
-    },
-    {
-      "leaguetypeID": 3,
-      "highestRank": 1,
-      "lowestRank": 50,
-      "unitReward": "9+50#10+50",
-      "minAmount": 260,
-      "toolReward": 651,
-      "toolOffset": 91,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 3,
-      "highestRank": 51,
-      "lowestRank": 100,
-      "unitReward": "9+50#10+50",
-      "minAmount": 150,
-      "toolReward": 651,
-      "toolOffset": 121,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 3,
-      "highestRank": 101,
-      "lowestRank": 150,
-      "unitReward": "9+50#10+50",
-      "minAmount": 260,
-      "toolReward": 651,
-      "toolOffset": 161,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 3,
-      "highestRank": 151,
-      "lowestRank": 200,
-      "unitReward": "9+50#10+50",
-      "minAmount": 150,
-      "toolReward": 651,
-      "toolOffset": 201,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 3,
-      "highestRank": 201,
-      "minAmount": 10,
-      "c1Reward": 40000
-    },
-    {
-      "leaguetypeID": 2,
-      "highestRank": 1,
-      "lowestRank": 50,
-      "unitReward": "9+50#10+50",
-      "minAmount": 260,
-      "toolReward": 651,
-      "toolOffset": 61,
-      "toolMinAmount": 100
-    },
-    {
-      "leaguetypeID": 2,
-      "highestRank": 51,
-      "lowestRank": 100,
-      "unitReward": "9+50#10+50",
-      "minAmount": 150,
-      "toolReward": 651,
-      "toolOffset": 101,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 2,
-      "highestRank": 101,
-      "lowestRank": 150,
-      "unitReward": "9+50#10+50",
-      "minAmount": 260,
-      "toolReward": 651,
-      "toolOffset": 151,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 2,
-      "highestRank": 151,
-      "lowestRank": 200,
-      "unitReward": "9+50#10+50",
-      "minAmount": 150,
-      "toolReward": 651,
-      "toolOffset": 181,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 2,
-      "highestRank": 201,
-      "minAmount": 10,
-      "c1Reward": 25000
-    },
-    {
-      "leaguetypeID": 1,
-      "highestRank": 1,
-      "lowestRank": 50,
-      "unitReward": "9+50#10+50",
-      "minAmount": 260,
-      "toolReward": 651,
-      "toolOffset": 61,
-      "toolMinAmount": 100
-    },
-    {
-      "leaguetypeID": 1,
-      "highestRank": 51,
-      "lowestRank": 100,
-      "unitReward": "9+50#10+50",
-      "minAmount": 150,
-      "toolReward": 651,
-      "toolOffset": 101,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 1,
-      "highestRank": 101,
-      "lowestRank": 150,
-      "unitReward": "9+50#10+50",
-      "minAmount": 260,
-      "toolReward": 651,
-      "toolOffset": 151,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 1,
-      "highestRank": 151,
-      "lowestRank": 200,
-      "unitReward": "9+50#10+50",
-      "minAmount": 150,
-      "toolReward": 651,
-      "toolOffset": 181,
-      "toolMinAmount": 50
-    },
-    {
-      "leaguetypeID": 1,
-      "highestRank": 201,
-      "minAmount": 10,
-      "c1Reward": 7500
-    }
-  ]
-}
+[
+  {
+    "leaguetypeID": 6,
+    "highestRank": 1,
+    "lowestRank": 50,
+    "unitReward": "214+50#204+50",
+    "minAmount": 260,
+    "toolReward": 403,
+    "toolOffset": 1,
+    "toolMinAmount": 5
+  },
+  {
+    "leaguetypeID": 6,
+    "highestRank": 51,
+    "lowestRank": 100,
+    "unitReward": "214+50#204+50",
+    "minAmount": 150,
+    "toolReward": 402,
+    "toolOffset": 1,
+    "toolMinAmount": 5
+  },
+  {
+    "leaguetypeID": 6,
+    "highestRank": 101,
+    "lowestRank": 150,
+    "unitReward": "214+50#204+50",
+    "minAmount": 260,
+    "toolReward": 401,
+    "toolOffset": 1,
+    "toolMinAmount": 5
+  },
+  {
+    "leaguetypeID": 6,
+    "highestRank": 151,
+    "lowestRank": 200,
+    "unitReward": "214+50#204+50",
+    "minAmount": 150,
+    "toolReward": 401,
+    "toolOffset": 1,
+    "toolMinAmount": 5
+  },
+  {
+    "leaguetypeID": 6,
+    "highestRank": 201,
+    "minAmount": 10,
+    "c1Reward": 130000
+  },
+  {
+    "leaguetypeID": 5,
+    "highestRank": 1,
+    "lowestRank": 50,
+    "unitReward": "9+50#10+50",
+    "minAmount": 260,
+    "toolReward": 651,
+    "toolOffset": 101,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 5,
+    "highestRank": 51,
+    "lowestRank": 100,
+    "unitReward": "9+50#10+50",
+    "minAmount": 150,
+    "toolReward": 651,
+    "toolOffset": 131,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 5,
+    "highestRank": 101,
+    "lowestRank": 150,
+    "unitReward": "9+50#10+50",
+    "minAmount": 260,
+    "toolReward": 651,
+    "toolOffset": 171,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 5,
+    "highestRank": 151,
+    "lowestRank": 200,
+    "unitReward": "9+50#10+50",
+    "minAmount": 150,
+    "toolReward": 651,
+    "toolOffset": 211,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 5,
+    "highestRank": 201,
+    "minAmount": 10,
+    "c1Reward": 100000
+  },
+  {
+    "leaguetypeID": 4,
+    "highestRank": 1,
+    "lowestRank": 50,
+    "unitReward": "9+50#10+50",
+    "minAmount": 260,
+    "toolReward": 651,
+    "toolOffset": 91,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 4,
+    "highestRank": 51,
+    "lowestRank": 100,
+    "unitReward": "9+50#10+50",
+    "minAmount": 150,
+    "toolReward": 651,
+    "toolOffset": 121,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 4,
+    "highestRank": 101,
+    "lowestRank": 150,
+    "unitReward": "9+50#10+50",
+    "minAmount": 260,
+    "toolReward": 651,
+    "toolOffset": 161,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 4,
+    "highestRank": 151,
+    "lowestRank": 200,
+    "unitReward": "9+50#10+50",
+    "minAmount": 150,
+    "toolReward": 651,
+    "toolOffset": 201,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 4,
+    "highestRank": 201,
+    "minAmount": 10,
+    "c1Reward": 70000
+  },
+  {
+    "leaguetypeID": 3,
+    "highestRank": 1,
+    "lowestRank": 50,
+    "unitReward": "9+50#10+50",
+    "minAmount": 260,
+    "toolReward": 651,
+    "toolOffset": 91,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 3,
+    "highestRank": 51,
+    "lowestRank": 100,
+    "unitReward": "9+50#10+50",
+    "minAmount": 150,
+    "toolReward": 651,
+    "toolOffset": 121,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 3,
+    "highestRank": 101,
+    "lowestRank": 150,
+    "unitReward": "9+50#10+50",
+    "minAmount": 260,
+    "toolReward": 651,
+    "toolOffset": 161,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 3,
+    "highestRank": 151,
+    "lowestRank": 200,
+    "unitReward": "9+50#10+50",
+    "minAmount": 150,
+    "toolReward": 651,
+    "toolOffset": 201,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 3,
+    "highestRank": 201,
+    "minAmount": 10,
+    "c1Reward": 40000
+  },
+  {
+    "leaguetypeID": 2,
+    "highestRank": 1,
+    "lowestRank": 50,
+    "unitReward": "9+50#10+50",
+    "minAmount": 260,
+    "toolReward": 651,
+    "toolOffset": 61,
+    "toolMinAmount": 100
+  },
+  {
+    "leaguetypeID": 2,
+    "highestRank": 51,
+    "lowestRank": 100,
+    "unitReward": "9+50#10+50",
+    "minAmount": 150,
+    "toolReward": 651,
+    "toolOffset": 101,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 2,
+    "highestRank": 101,
+    "lowestRank": 150,
+    "unitReward": "9+50#10+50",
+    "minAmount": 260,
+    "toolReward": 651,
+    "toolOffset": 151,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 2,
+    "highestRank": 151,
+    "lowestRank": 200,
+    "unitReward": "9+50#10+50",
+    "minAmount": 150,
+    "toolReward": 651,
+    "toolOffset": 181,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 2,
+    "highestRank": 201,
+    "minAmount": 10,
+    "c1Reward": 25000
+  },
+  {
+    "leaguetypeID": 1,
+    "highestRank": 1,
+    "lowestRank": 50,
+    "unitReward": "9+50#10+50",
+    "minAmount": 260,
+    "toolReward": 651,
+    "toolOffset": 61,
+    "toolMinAmount": 100
+  },
+  {
+    "leaguetypeID": 1,
+    "highestRank": 51,
+    "lowestRank": 100,
+    "unitReward": "9+50#10+50",
+    "minAmount": 150,
+    "toolReward": 651,
+    "toolOffset": 101,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 1,
+    "highestRank": 101,
+    "lowestRank": 150,
+    "unitReward": "9+50#10+50",
+    "minAmount": 260,
+    "toolReward": 651,
+    "toolOffset": 151,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 1,
+    "highestRank": 151,
+    "lowestRank": 200,
+    "unitReward": "9+50#10+50",
+    "minAmount": 150,
+    "toolReward": 651,
+    "toolOffset": 181,
+    "toolMinAmount": 50
+  },
+  {
+    "leaguetypeID": 1,
+    "highestRank": 201,
+    "minAmount": 10,
+    "c1Reward": 7500
+  }
+]

@@ -1,49 +1,47 @@
-{
-  "gemColor": [
-    {
-      "gemColorID": 1,
-      "crossplayID": 1,
-      "colorCode": "0x29ABE2"
-    },
-    {
-      "gemColorID": 2,
-      "crossplayID": 2,
-      "colorCode": "0x0D26D6"
-    },
-    {
-      "gemColorID": 3,
-      "crossplayID": 3,
-      "colorCode": "0x05CC72"
-    },
-    {
-      "gemColorID": 4,
-      "crossplayID": 4,
-      "colorCode": "0x80E20E"
-    },
-    {
-      "gemColorID": 5,
-      "crossplayID": 5,
-      "colorCode": "0x048407"
-    },
-    {
-      "gemColorID": 6,
-      "crossplayID": 6,
-      "colorCode": "0xD3222F"
-    },
-    {
-      "gemColorID": 7,
-      "crossplayID": 7,
-      "colorCode": "0xFC6BC2"
-    },
-    {
-      "gemColorID": 8,
-      "crossplayID": 8,
-      "colorCode": "0xDBBC21"
-    },
-    {
-      "gemColorID": 9,
-      "crossplayID": 9,
-      "colorCode": "0xF15A24"
-    }
-  ]
-}
+[
+  {
+    "gemColorID": 1,
+    "crossplayID": 1,
+    "colorCode": "0x29ABE2"
+  },
+  {
+    "gemColorID": 2,
+    "crossplayID": 2,
+    "colorCode": "0x0D26D6"
+  },
+  {
+    "gemColorID": 3,
+    "crossplayID": 3,
+    "colorCode": "0x05CC72"
+  },
+  {
+    "gemColorID": 4,
+    "crossplayID": 4,
+    "colorCode": "0x80E20E"
+  },
+  {
+    "gemColorID": 5,
+    "crossplayID": 5,
+    "colorCode": "0x048407"
+  },
+  {
+    "gemColorID": 6,
+    "crossplayID": 6,
+    "colorCode": "0xD3222F"
+  },
+  {
+    "gemColorID": 7,
+    "crossplayID": 7,
+    "colorCode": "0xFC6BC2"
+  },
+  {
+    "gemColorID": 8,
+    "crossplayID": 8,
+    "colorCode": "0xDBBC21"
+  },
+  {
+    "gemColorID": 9,
+    "crossplayID": 9,
+    "colorCode": "0xF15A24"
+  }
+]

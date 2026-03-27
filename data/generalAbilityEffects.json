@@ -1,994 +1,992 @@
-{
-  "generalAbilityEffect": [
-    {
-      "abilityEffectID": 102610,
-      "crossplayID": 102610,
-      "effects": "21026&amp;759+1#760+1",
-      "priority": 75
-    },
-    {
-      "abilityEffectID": 102620,
-      "crossplayID": 102620,
-      "effects": "21026&amp;705+1.3#707+1.3",
-      "priority": 76
-    },
-    {
-      "abilityEffectID": 102630,
-      "crossplayID": 102630,
-      "effects": "21026&amp;706+1.6#708+1.6",
-      "priority": 77
-    },
-    {
-      "abilityEffectID": 102615,
-      "crossplayID": 102615,
-      "effects": "21026&amp;716+1#717+1",
-      "priority": 195
-    },
-    {
-      "abilityEffectID": 102625,
-      "crossplayID": 102625,
-      "effects": "21026&amp;701+1.3#703+1.3",
-      "priority": 196
-    },
-    {
-      "abilityEffectID": 102635,
-      "crossplayID": 102635,
-      "effects": "21026&amp;702+1.6#704+1.6",
-      "priority": 197
-    },
-    {
-      "abilityEffectID": 100110,
-      "crossplayID": 100110,
-      "effects": "21001&amp;6",
-      "priority": 1
-    },
-    {
-      "abilityEffectID": 100120,
-      "crossplayID": 100120,
-      "effects": "21001&amp;8",
-      "priority": 1
-    },
-    {
-      "abilityEffectID": 100130,
-      "crossplayID": 100130,
-      "effects": "21001&amp;10",
-      "priority": 1
-    },
-    {
-      "abilityEffectID": 100210,
-      "crossplayID": 100210,
-      "effects": "21002&amp;35",
-      "priority": 2
-    },
-    {
-      "abilityEffectID": 100220,
-      "crossplayID": 100220,
-      "effects": "21002&amp;45",
-      "priority": 2
-    },
-    {
-      "abilityEffectID": 100230,
-      "crossplayID": 100230,
-      "effects": "21002&amp;55",
-      "priority": 2
-    },
-    {
-      "abilityEffectID": 100310,
-      "crossplayID": 100310,
-      "effects": "21003&amp;5",
-      "priority": 3
-    },
-    {
-      "abilityEffectID": 100320,
-      "crossplayID": 100320,
-      "effects": "21003&amp;7",
-      "priority": 3
-    },
-    {
-      "abilityEffectID": 100330,
-      "crossplayID": 100330,
-      "effects": "21003&amp;9",
-      "priority": 3
-    },
-    {
-      "abilityEffectID": 100510,
-      "crossplayID": 100510,
-      "effects": "21005&amp;1",
-      "priority": 5
-    },
-    {
-      "abilityEffectID": 100520,
-      "crossplayID": 100520,
-      "effects": "21005&amp;1.2",
-      "priority": 5
-    },
-    {
-      "abilityEffectID": 100530,
-      "crossplayID": 100530,
-      "effects": "21005&amp;1.4",
-      "priority": 5
-    },
-    {
-      "abilityEffectID": 100710,
-      "crossplayID": 100710,
-      "effects": "21007&amp;0.5",
-      "priority": 7
-    },
-    {
-      "abilityEffectID": 100720,
-      "crossplayID": 100720,
-      "effects": "21007&amp;0.75",
-      "priority": 7
-    },
-    {
-      "abilityEffectID": 100730,
-      "crossplayID": 100730,
-      "effects": "21007&amp;1",
-      "priority": 7
-    },
-    {
-      "abilityEffectID": 101010,
-      "crossplayID": 101010,
-      "effects": "21010&amp;2",
-      "priority": 10
-    },
-    {
-      "abilityEffectID": 101020,
-      "crossplayID": 101020,
-      "effects": "21010&amp;3",
-      "priority": 10
-    },
-    {
-      "abilityEffectID": 101030,
-      "crossplayID": 101030,
-      "effects": "21010&amp;4",
-      "priority": 10
-    },
-    {
-      "abilityEffectID": 101110,
-      "crossplayID": 101110,
-      "effects": "21011&amp;50",
-      "priority": 11
-    },
-    {
-      "abilityEffectID": 101120,
-      "crossplayID": 101120,
-      "effects": "21011&amp;75",
-      "priority": 11
-    },
-    {
-      "abilityEffectID": 101130,
-      "crossplayID": 101130,
-      "effects": "21011&amp;100",
-      "priority": 11
-    },
-    {
-      "abilityEffectID": 101210,
-      "crossplayID": 101210,
-      "effects": "21012&amp;10",
-      "priority": 12
-    },
-    {
-      "abilityEffectID": 101220,
-      "crossplayID": 101220,
-      "effects": "21012&amp;15",
-      "priority": 12
-    },
-    {
-      "abilityEffectID": 101230,
-      "crossplayID": 101230,
-      "effects": "21012&amp;20",
-      "priority": 12
-    },
-    {
-      "abilityEffectID": 101310,
-      "crossplayID": 101310,
-      "effects": "21013&amp;20",
-      "priority": 13
-    },
-    {
-      "abilityEffectID": 101320,
-      "crossplayID": 101320,
-      "effects": "21013&amp;25",
-      "priority": 13
-    },
-    {
-      "abilityEffectID": 101330,
-      "crossplayID": 101330,
-      "effects": "21013&amp;30",
-      "priority": 13
-    },
-    {
-      "abilityEffectID": 101410,
-      "crossplayID": 101410,
-      "effects": "21014&amp;30",
-      "priority": 14
-    },
-    {
-      "abilityEffectID": 101420,
-      "crossplayID": 101420,
-      "effects": "21014&amp;35",
-      "priority": 14
-    },
-    {
-      "abilityEffectID": 101430,
-      "crossplayID": 101430,
-      "effects": "21014&amp;40",
-      "priority": 14
-    },
-    {
-      "abilityEffectID": 101510,
-      "crossplayID": 101510,
-      "effects": "21015&amp;10",
-      "priority": 15
-    },
-    {
-      "abilityEffectID": 101520,
-      "crossplayID": 101520,
-      "effects": "21015&amp;12",
-      "priority": 15
-    },
-    {
-      "abilityEffectID": 101530,
-      "crossplayID": 101530,
-      "effects": "21015&amp;14",
-      "priority": 15
-    },
-    {
-      "abilityEffectID": 101910,
-      "crossplayID": 101910,
-      "effects": "21019&amp;50,21040&amp;50",
-      "priority": 19
-    },
-    {
-      "abilityEffectID": 101920,
-      "crossplayID": 101920,
-      "effects": "21019&amp;55,21040&amp;50",
-      "priority": 19
-    },
-    {
-      "abilityEffectID": 101930,
-      "crossplayID": 101930,
-      "effects": "21019&amp;60,21040&amp;50",
-      "priority": 19
-    },
-    {
-      "abilityEffectID": 102010,
-      "crossplayID": 102010,
-      "effects": "21020&amp;1",
-      "priority": 20
-    },
-    {
-      "abilityEffectID": 102020,
-      "crossplayID": 102020,
-      "effects": "21020&amp;1.3",
-      "priority": 20
-    },
-    {
-      "abilityEffectID": 102030,
-      "crossplayID": 102030,
-      "effects": "21020&amp;1.6",
-      "priority": 20
-    },
-    {
-      "abilityEffectID": 102110,
-      "crossplayID": 102110,
-      "effects": "21021&amp;0",
-      "priority": 21
-    },
-    {
-      "abilityEffectID": 102120,
-      "crossplayID": 102120,
-      "effects": "21021&amp;1",
-      "priority": 21
-    },
-    {
-      "abilityEffectID": 102130,
-      "crossplayID": 102130,
-      "effects": "21021&amp;2",
-      "priority": 21
-    },
-    {
-      "abilityEffectID": 102210,
-      "crossplayID": 102210,
-      "effects": "21022&amp;5",
-      "priority": 22
-    },
-    {
-      "abilityEffectID": 102220,
-      "crossplayID": 102220,
-      "effects": "21022&amp;6",
-      "priority": 22
-    },
-    {
-      "abilityEffectID": 102230,
-      "crossplayID": 102230,
-      "effects": "21022&amp;7",
-      "priority": 22
-    },
-    {
-      "abilityEffectID": 102310,
-      "crossplayID": 102310,
-      "effects": "21023&amp;100",
-      "priority": 23
-    },
-    {
-      "abilityEffectID": 102320,
-      "crossplayID": 102320,
-      "effects": "21023&amp;125",
-      "priority": 23
-    },
-    {
-      "abilityEffectID": 102330,
-      "crossplayID": 102330,
-      "effects": "21023&amp;150",
-      "priority": 23
-    },
-    {
-      "abilityEffectID": 102510,
-      "crossplayID": 102510,
-      "effects": "21025&amp;30",
-      "priority": 25
-    },
-    {
-      "abilityEffectID": 102520,
-      "crossplayID": 102520,
-      "effects": "21025&amp;35",
-      "priority": 25
-    },
-    {
-      "abilityEffectID": 102530,
-      "crossplayID": 102530,
-      "effects": "21025&amp;40",
-      "priority": 25
-    },
-    {
-      "abilityEffectID": 102710,
-      "crossplayID": 102710,
-      "effects": "21027&amp;0.3",
-      "priority": 27
-    },
-    {
-      "abilityEffectID": 102720,
-      "crossplayID": 102720,
-      "effects": "21027&amp;0.5",
-      "priority": 27
-    },
-    {
-      "abilityEffectID": 102730,
-      "crossplayID": 102730,
-      "effects": "21027&amp;0.7",
-      "priority": 27
-    },
-    {
-      "abilityEffectID": 102810,
-      "crossplayID": 102810,
-      "effects": "21028&amp;15",
-      "priority": 28
-    },
-    {
-      "abilityEffectID": 102820,
-      "crossplayID": 102820,
-      "effects": "21028&amp;20",
-      "priority": 28
-    },
-    {
-      "abilityEffectID": 102830,
-      "crossplayID": 102830,
-      "effects": "21028&amp;25",
-      "priority": 28
-    },
-    {
-      "abilityEffectID": 102910,
-      "crossplayID": 102910,
-      "effects": "21029&amp;30",
-      "priority": 29
-    },
-    {
-      "abilityEffectID": 102920,
-      "crossplayID": 102920,
-      "effects": "21029&amp;40",
-      "priority": 29
-    },
-    {
-      "abilityEffectID": 102930,
-      "crossplayID": 102930,
-      "effects": "21029&amp;50",
-      "priority": 29
-    },
-    {
-      "abilityEffectID": 103010,
-      "crossplayID": 103010,
-      "effects": "21030&amp;0.3",
-      "priority": 30
-    },
-    {
-      "abilityEffectID": 103020,
-      "crossplayID": 103020,
-      "effects": "21030&amp;0.5",
-      "priority": 30
-    },
-    {
-      "abilityEffectID": 103030,
-      "crossplayID": 103030,
-      "effects": "21030&amp;0.7",
-      "priority": 30
-    },
-    {
-      "abilityEffectID": 103310,
-      "crossplayID": 103310,
-      "effects": "21033&amp;15",
-      "priority": 33
-    },
-    {
-      "abilityEffectID": 103320,
-      "crossplayID": 103320,
-      "effects": "21033&amp;18",
-      "priority": 33
-    },
-    {
-      "abilityEffectID": 103330,
-      "crossplayID": 103330,
-      "effects": "21033&amp;21",
-      "priority": 33
-    },
-    {
-      "abilityEffectID": 103410,
-      "crossplayID": 103410,
-      "effects": "21034&amp;1.5",
-      "priority": 34
-    },
-    {
-      "abilityEffectID": 103420,
-      "crossplayID": 103420,
-      "effects": "21034&amp;2",
-      "priority": 34
-    },
-    {
-      "abilityEffectID": 103430,
-      "crossplayID": 103430,
-      "effects": "21034&amp;2.5",
-      "priority": 34
-    },
-    {
-      "abilityEffectID": 103510,
-      "crossplayID": 103510,
-      "effects": "21035&amp;15",
-      "priority": 35
-    },
-    {
-      "abilityEffectID": 103520,
-      "crossplayID": 103520,
-      "effects": "21035&amp;20",
-      "priority": 35
-    },
-    {
-      "abilityEffectID": 103530,
-      "crossplayID": 103530,
-      "effects": "21035&amp;25",
-      "priority": 35
-    },
-    {
-      "abilityEffectID": 103810,
-      "crossplayID": 103810,
-      "effects": "21038&amp;0.1",
-      "priority": 38
-    },
-    {
-      "abilityEffectID": 103820,
-      "crossplayID": 103820,
-      "effects": "21038&amp;0.15",
-      "priority": 38
-    },
-    {
-      "abilityEffectID": 103830,
-      "crossplayID": 103830,
-      "effects": "21038&amp;0.2",
-      "priority": 38
-    },
-    {
-      "abilityEffectID": 103910,
-      "crossplayID": 103910,
-      "effects": "21039&amp;15",
-      "priority": 39
-    },
-    {
-      "abilityEffectID": 103920,
-      "crossplayID": 103920,
-      "effects": "21039&amp;20",
-      "priority": 39
-    },
-    {
-      "abilityEffectID": 103930,
-      "crossplayID": 103930,
-      "effects": "21039&amp;25",
-      "priority": 39
-    },
-    {
-      "abilityEffectID": 100115,
-      "crossplayID": 100115,
-      "effects": "21001&amp;6",
-      "priority": 1
-    },
-    {
-      "abilityEffectID": 100125,
-      "crossplayID": 100125,
-      "effects": "21001&amp;8",
-      "priority": 1
-    },
-    {
-      "abilityEffectID": 100135,
-      "crossplayID": 100135,
-      "effects": "21001&amp;10",
-      "priority": 1
-    },
-    {
-      "abilityEffectID": 100215,
-      "crossplayID": 100215,
-      "effects": "21002&amp;35",
-      "priority": 2
-    },
-    {
-      "abilityEffectID": 100225,
-      "crossplayID": 100225,
-      "effects": "21002&amp;45",
-      "priority": 2
-    },
-    {
-      "abilityEffectID": 100235,
-      "crossplayID": 100235,
-      "effects": "21002&amp;55",
-      "priority": 2
-    },
-    {
-      "abilityEffectID": 100315,
-      "crossplayID": 100315,
-      "effects": "21003&amp;5",
-      "priority": 3
-    },
-    {
-      "abilityEffectID": 100325,
-      "crossplayID": 100325,
-      "effects": "21003&amp;7",
-      "priority": 3
-    },
-    {
-      "abilityEffectID": 100335,
-      "crossplayID": 100335,
-      "effects": "21003&amp;9",
-      "priority": 3
-    },
-    {
-      "abilityEffectID": 100515,
-      "crossplayID": 100515,
-      "effects": "21005&amp;1.2",
-      "priority": 5
-    },
-    {
-      "abilityEffectID": 100525,
-      "crossplayID": 100525,
-      "effects": "21005&amp;1.5",
-      "priority": 5
-    },
-    {
-      "abilityEffectID": 100535,
-      "crossplayID": 100535,
-      "effects": "21005&amp;1.8",
-      "priority": 5
-    },
-    {
-      "abilityEffectID": 100715,
-      "crossplayID": 100715,
-      "effects": "21007&amp;0.5",
-      "priority": 7
-    },
-    {
-      "abilityEffectID": 100725,
-      "crossplayID": 100725,
-      "effects": "21007&amp;0.75",
-      "priority": 7
-    },
-    {
-      "abilityEffectID": 100735,
-      "crossplayID": 100735,
-      "effects": "21007&amp;1",
-      "priority": 7
-    },
-    {
-      "abilityEffectID": 101015,
-      "crossplayID": 101015,
-      "effects": "21010&amp;2",
-      "priority": 10
-    },
-    {
-      "abilityEffectID": 101025,
-      "crossplayID": 101025,
-      "effects": "21010&amp;3",
-      "priority": 10
-    },
-    {
-      "abilityEffectID": 101035,
-      "crossplayID": 101035,
-      "effects": "21010&amp;4",
-      "priority": 10
-    },
-    {
-      "abilityEffectID": 101115,
-      "crossplayID": 101115,
-      "effects": "21011&amp;50",
-      "priority": 11
-    },
-    {
-      "abilityEffectID": 101125,
-      "crossplayID": 101125,
-      "effects": "21011&amp;75",
-      "priority": 11
-    },
-    {
-      "abilityEffectID": 101135,
-      "crossplayID": 101135,
-      "effects": "21011&amp;100",
-      "priority": 11
-    },
-    {
-      "abilityEffectID": 101215,
-      "crossplayID": 101215,
-      "effects": "21012&amp;10",
-      "priority": 12
-    },
-    {
-      "abilityEffectID": 101225,
-      "crossplayID": 101225,
-      "effects": "21012&amp;15",
-      "priority": 12
-    },
-    {
-      "abilityEffectID": 101235,
-      "crossplayID": 101235,
-      "effects": "21012&amp;20",
-      "priority": 12
-    },
-    {
-      "abilityEffectID": 101315,
-      "crossplayID": 101315,
-      "effects": "21013&amp;20",
-      "priority": 13
-    },
-    {
-      "abilityEffectID": 101325,
-      "crossplayID": 101325,
-      "effects": "21013&amp;25",
-      "priority": 13
-    },
-    {
-      "abilityEffectID": 101335,
-      "crossplayID": 101335,
-      "effects": "21013&amp;30",
-      "priority": 13
-    },
-    {
-      "abilityEffectID": 101415,
-      "crossplayID": 101415,
-      "effects": "21014&amp;50",
-      "priority": 14
-    },
-    {
-      "abilityEffectID": 101425,
-      "crossplayID": 101425,
-      "effects": "21014&amp;56",
-      "priority": 14
-    },
-    {
-      "abilityEffectID": 101435,
-      "crossplayID": 101435,
-      "effects": "21014&amp;62",
-      "priority": 14
-    },
-    {
-      "abilityEffectID": 101515,
-      "crossplayID": 101515,
-      "effects": "21015&amp;10",
-      "priority": 15
-    },
-    {
-      "abilityEffectID": 101525,
-      "crossplayID": 101525,
-      "effects": "21015&amp;12",
-      "priority": 15
-    },
-    {
-      "abilityEffectID": 101535,
-      "crossplayID": 101535,
-      "effects": "21015&amp;14",
-      "priority": 15
-    },
-    {
-      "abilityEffectID": 101615,
-      "crossplayID": 101615,
-      "effects": "21016&amp;15",
-      "priority": 16
-    },
-    {
-      "abilityEffectID": 101625,
-      "crossplayID": 101625,
-      "effects": "21016&amp;18",
-      "priority": 16
-    },
-    {
-      "abilityEffectID": 101635,
-      "crossplayID": 101635,
-      "effects": "21016&amp;21",
-      "priority": 16
-    },
-    {
-      "abilityEffectID": 101815,
-      "crossplayID": 101815,
-      "effects": "21018&amp;10",
-      "priority": 18
-    },
-    {
-      "abilityEffectID": 101825,
-      "crossplayID": 101825,
-      "effects": "21018&amp;12",
-      "priority": 18
-    },
-    {
-      "abilityEffectID": 101835,
-      "crossplayID": 101835,
-      "effects": "21018&amp;14",
-      "priority": 18
-    },
-    {
-      "abilityEffectID": 102015,
-      "crossplayID": 102015,
-      "effects": "21020&amp;1.2",
-      "priority": 20
-    },
-    {
-      "abilityEffectID": 102025,
-      "crossplayID": 102025,
-      "effects": "21020&amp;1.5",
-      "priority": 20
-    },
-    {
-      "abilityEffectID": 102035,
-      "crossplayID": 102035,
-      "effects": "21020&amp;1.8",
-      "priority": 20
-    },
-    {
-      "abilityEffectID": 102115,
-      "crossplayID": 102115,
-      "effects": "21021&amp;0",
-      "priority": 21
-    },
-    {
-      "abilityEffectID": 102125,
-      "crossplayID": 102125,
-      "effects": "21021&amp;1",
-      "priority": 21
-    },
-    {
-      "abilityEffectID": 102135,
-      "crossplayID": 102135,
-      "effects": "21021&amp;2",
-      "priority": 21
-    },
-    {
-      "abilityEffectID": 102215,
-      "crossplayID": 102215,
-      "effects": "21022&amp;5",
-      "priority": 22
-    },
-    {
-      "abilityEffectID": 102225,
-      "crossplayID": 102225,
-      "effects": "21022&amp;6",
-      "priority": 22
-    },
-    {
-      "abilityEffectID": 102235,
-      "crossplayID": 102235,
-      "effects": "21022&amp;7",
-      "priority": 22
-    },
-    {
-      "abilityEffectID": 102315,
-      "crossplayID": 102315,
-      "effects": "21023&amp;100",
-      "priority": 23
-    },
-    {
-      "abilityEffectID": 102325,
-      "crossplayID": 102325,
-      "effects": "21023&amp;120",
-      "priority": 23
-    },
-    {
-      "abilityEffectID": 102335,
-      "crossplayID": 102335,
-      "effects": "21023&amp;140",
-      "priority": 23
-    },
-    {
-      "abilityEffectID": 102515,
-      "crossplayID": 102515,
-      "effects": "21025&amp;30",
-      "priority": 25
-    },
-    {
-      "abilityEffectID": 102525,
-      "crossplayID": 102525,
-      "effects": "21025&amp;35",
-      "priority": 25
-    },
-    {
-      "abilityEffectID": 102535,
-      "crossplayID": 102535,
-      "effects": "21025&amp;40",
-      "priority": 25
-    },
-    {
-      "abilityEffectID": 102715,
-      "crossplayID": 102715,
-      "effects": "21027&amp;0.3",
-      "priority": 27
-    },
-    {
-      "abilityEffectID": 102725,
-      "crossplayID": 102725,
-      "effects": "21027&amp;0.5",
-      "priority": 27
-    },
-    {
-      "abilityEffectID": 102735,
-      "crossplayID": 102735,
-      "effects": "21027&amp;0.7",
-      "priority": 27
-    },
-    {
-      "abilityEffectID": 102815,
-      "crossplayID": 102815,
-      "effects": "21028&amp;15",
-      "priority": 28
-    },
-    {
-      "abilityEffectID": 102825,
-      "crossplayID": 102825,
-      "effects": "21028&amp;20",
-      "priority": 28
-    },
-    {
-      "abilityEffectID": 102835,
-      "crossplayID": 102835,
-      "effects": "21028&amp;25",
-      "priority": 28
-    },
-    {
-      "abilityEffectID": 102915,
-      "crossplayID": 102915,
-      "effects": "21029&amp;30",
-      "priority": 29
-    },
-    {
-      "abilityEffectID": 102925,
-      "crossplayID": 102925,
-      "effects": "21029&amp;40",
-      "priority": 29
-    },
-    {
-      "abilityEffectID": 102935,
-      "crossplayID": 102935,
-      "effects": "21029&amp;50",
-      "priority": 29
-    },
-    {
-      "abilityEffectID": 103015,
-      "crossplayID": 103015,
-      "effects": "21030&amp;0.3",
-      "priority": 30
-    },
-    {
-      "abilityEffectID": 103025,
-      "crossplayID": 103025,
-      "effects": "21030&amp;0.5",
-      "priority": 30
-    },
-    {
-      "abilityEffectID": 103035,
-      "crossplayID": 103035,
-      "effects": "21030&amp;0.7",
-      "priority": 30
-    },
-    {
-      "abilityEffectID": 103315,
-      "crossplayID": 103315,
-      "effects": "21033&amp;15",
-      "priority": 33
-    },
-    {
-      "abilityEffectID": 103325,
-      "crossplayID": 103325,
-      "effects": "21033&amp;18",
-      "priority": 33
-    },
-    {
-      "abilityEffectID": 103335,
-      "crossplayID": 103335,
-      "effects": "21033&amp;21",
-      "priority": 33
-    },
-    {
-      "abilityEffectID": 103415,
-      "crossplayID": 103415,
-      "effects": "21034&amp;20",
-      "priority": 34
-    },
-    {
-      "abilityEffectID": 103425,
-      "crossplayID": 103425,
-      "effects": "21034&amp;26",
-      "priority": 34
-    },
-    {
-      "abilityEffectID": 103435,
-      "crossplayID": 103435,
-      "effects": "21034&amp;32",
-      "priority": 34
-    },
-    {
-      "abilityEffectID": 103515,
-      "crossplayID": 103515,
-      "effects": "21035&amp;15",
-      "priority": 35
-    },
-    {
-      "abilityEffectID": 103525,
-      "crossplayID": 103525,
-      "effects": "21035&amp;20",
-      "priority": 35
-    },
-    {
-      "abilityEffectID": 103535,
-      "crossplayID": 103535,
-      "effects": "21035&amp;25",
-      "priority": 35
-    },
-    {
-      "abilityEffectID": 103815,
-      "crossplayID": 103815,
-      "effects": "21038&amp;0.15",
-      "priority": 38
-    },
-    {
-      "abilityEffectID": 103825,
-      "crossplayID": 103825,
-      "effects": "21038&amp;0.2",
-      "priority": 38
-    },
-    {
-      "abilityEffectID": 103835,
-      "crossplayID": 103835,
-      "effects": "21038&amp;0.25",
-      "priority": 38
-    },
-    {
-      "abilityEffectID": 103915,
-      "crossplayID": 103915,
-      "effects": "21039&amp;15",
-      "priority": 39
-    },
-    {
-      "abilityEffectID": 103925,
-      "crossplayID": 103925,
-      "effects": "21039&amp;20",
-      "priority": 39
-    },
-    {
-      "abilityEffectID": 103935,
-      "crossplayID": 103935,
-      "effects": "21039&amp;25",
-      "priority": 39
-    }
-  ]
-}
+[
+  {
+    "abilityEffectID": 102610,
+    "crossplayID": 102610,
+    "effects": "21026&amp;759+1#760+1",
+    "priority": 75
+  },
+  {
+    "abilityEffectID": 102620,
+    "crossplayID": 102620,
+    "effects": "21026&amp;705+1.3#707+1.3",
+    "priority": 76
+  },
+  {
+    "abilityEffectID": 102630,
+    "crossplayID": 102630,
+    "effects": "21026&amp;706+1.6#708+1.6",
+    "priority": 77
+  },
+  {
+    "abilityEffectID": 102615,
+    "crossplayID": 102615,
+    "effects": "21026&amp;716+1#717+1",
+    "priority": 195
+  },
+  {
+    "abilityEffectID": 102625,
+    "crossplayID": 102625,
+    "effects": "21026&amp;701+1.3#703+1.3",
+    "priority": 196
+  },
+  {
+    "abilityEffectID": 102635,
+    "crossplayID": 102635,
+    "effects": "21026&amp;702+1.6#704+1.6",
+    "priority": 197
+  },
+  {
+    "abilityEffectID": 100110,
+    "crossplayID": 100110,
+    "effects": "21001&amp;6",
+    "priority": 1
+  },
+  {
+    "abilityEffectID": 100120,
+    "crossplayID": 100120,
+    "effects": "21001&amp;8",
+    "priority": 1
+  },
+  {
+    "abilityEffectID": 100130,
+    "crossplayID": 100130,
+    "effects": "21001&amp;10",
+    "priority": 1
+  },
+  {
+    "abilityEffectID": 100210,
+    "crossplayID": 100210,
+    "effects": "21002&amp;35",
+    "priority": 2
+  },
+  {
+    "abilityEffectID": 100220,
+    "crossplayID": 100220,
+    "effects": "21002&amp;45",
+    "priority": 2
+  },
+  {
+    "abilityEffectID": 100230,
+    "crossplayID": 100230,
+    "effects": "21002&amp;55",
+    "priority": 2
+  },
+  {
+    "abilityEffectID": 100310,
+    "crossplayID": 100310,
+    "effects": "21003&amp;5",
+    "priority": 3
+  },
+  {
+    "abilityEffectID": 100320,
+    "crossplayID": 100320,
+    "effects": "21003&amp;7",
+    "priority": 3
+  },
+  {
+    "abilityEffectID": 100330,
+    "crossplayID": 100330,
+    "effects": "21003&amp;9",
+    "priority": 3
+  },
+  {
+    "abilityEffectID": 100510,
+    "crossplayID": 100510,
+    "effects": "21005&amp;1",
+    "priority": 5
+  },
+  {
+    "abilityEffectID": 100520,
+    "crossplayID": 100520,
+    "effects": "21005&amp;1.2",
+    "priority": 5
+  },
+  {
+    "abilityEffectID": 100530,
+    "crossplayID": 100530,
+    "effects": "21005&amp;1.4",
+    "priority": 5
+  },
+  {
+    "abilityEffectID": 100710,
+    "crossplayID": 100710,
+    "effects": "21007&amp;0.5",
+    "priority": 7
+  },
+  {
+    "abilityEffectID": 100720,
+    "crossplayID": 100720,
+    "effects": "21007&amp;0.75",
+    "priority": 7
+  },
+  {
+    "abilityEffectID": 100730,
+    "crossplayID": 100730,
+    "effects": "21007&amp;1",
+    "priority": 7
+  },
+  {
+    "abilityEffectID": 101010,
+    "crossplayID": 101010,
+    "effects": "21010&amp;2",
+    "priority": 10
+  },
+  {
+    "abilityEffectID": 101020,
+    "crossplayID": 101020,
+    "effects": "21010&amp;3",
+    "priority": 10
+  },
+  {
+    "abilityEffectID": 101030,
+    "crossplayID": 101030,
+    "effects": "21010&amp;4",
+    "priority": 10
+  },
+  {
+    "abilityEffectID": 101110,
+    "crossplayID": 101110,
+    "effects": "21011&amp;50",
+    "priority": 11
+  },
+  {
+    "abilityEffectID": 101120,
+    "crossplayID": 101120,
+    "effects": "21011&amp;75",
+    "priority": 11
+  },
+  {
+    "abilityEffectID": 101130,
+    "crossplayID": 101130,
+    "effects": "21011&amp;100",
+    "priority": 11
+  },
+  {
+    "abilityEffectID": 101210,
+    "crossplayID": 101210,
+    "effects": "21012&amp;10",
+    "priority": 12
+  },
+  {
+    "abilityEffectID": 101220,
+    "crossplayID": 101220,
+    "effects": "21012&amp;15",
+    "priority": 12
+  },
+  {
+    "abilityEffectID": 101230,
+    "crossplayID": 101230,
+    "effects": "21012&amp;20",
+    "priority": 12
+  },
+  {
+    "abilityEffectID": 101310,
+    "crossplayID": 101310,
+    "effects": "21013&amp;20",
+    "priority": 13
+  },
+  {
+    "abilityEffectID": 101320,
+    "crossplayID": 101320,
+    "effects": "21013&amp;25",
+    "priority": 13
+  },
+  {
+    "abilityEffectID": 101330,
+    "crossplayID": 101330,
+    "effects": "21013&amp;30",
+    "priority": 13
+  },
+  {
+    "abilityEffectID": 101410,
+    "crossplayID": 101410,
+    "effects": "21014&amp;30",
+    "priority": 14
+  },
+  {
+    "abilityEffectID": 101420,
+    "crossplayID": 101420,
+    "effects": "21014&amp;35",
+    "priority": 14
+  },
+  {
+    "abilityEffectID": 101430,
+    "crossplayID": 101430,
+    "effects": "21014&amp;40",
+    "priority": 14
+  },
+  {
+    "abilityEffectID": 101510,
+    "crossplayID": 101510,
+    "effects": "21015&amp;10",
+    "priority": 15
+  },
+  {
+    "abilityEffectID": 101520,
+    "crossplayID": 101520,
+    "effects": "21015&amp;12",
+    "priority": 15
+  },
+  {
+    "abilityEffectID": 101530,
+    "crossplayID": 101530,
+    "effects": "21015&amp;14",
+    "priority": 15
+  },
+  {
+    "abilityEffectID": 101910,
+    "crossplayID": 101910,
+    "effects": "21019&amp;50,21040&amp;50",
+    "priority": 19
+  },
+  {
+    "abilityEffectID": 101920,
+    "crossplayID": 101920,
+    "effects": "21019&amp;55,21040&amp;50",
+    "priority": 19
+  },
+  {
+    "abilityEffectID": 101930,
+    "crossplayID": 101930,
+    "effects": "21019&amp;60,21040&amp;50",
+    "priority": 19
+  },
+  {
+    "abilityEffectID": 102010,
+    "crossplayID": 102010,
+    "effects": "21020&amp;1",
+    "priority": 20
+  },
+  {
+    "abilityEffectID": 102020,
+    "crossplayID": 102020,
+    "effects": "21020&amp;1.3",
+    "priority": 20
+  },
+  {
+    "abilityEffectID": 102030,
+    "crossplayID": 102030,
+    "effects": "21020&amp;1.6",
+    "priority": 20
+  },
+  {
+    "abilityEffectID": 102110,
+    "crossplayID": 102110,
+    "effects": "21021&amp;0",
+    "priority": 21
+  },
+  {
+    "abilityEffectID": 102120,
+    "crossplayID": 102120,
+    "effects": "21021&amp;1",
+    "priority": 21
+  },
+  {
+    "abilityEffectID": 102130,
+    "crossplayID": 102130,
+    "effects": "21021&amp;2",
+    "priority": 21
+  },
+  {
+    "abilityEffectID": 102210,
+    "crossplayID": 102210,
+    "effects": "21022&amp;5",
+    "priority": 22
+  },
+  {
+    "abilityEffectID": 102220,
+    "crossplayID": 102220,
+    "effects": "21022&amp;6",
+    "priority": 22
+  },
+  {
+    "abilityEffectID": 102230,
+    "crossplayID": 102230,
+    "effects": "21022&amp;7",
+    "priority": 22
+  },
+  {
+    "abilityEffectID": 102310,
+    "crossplayID": 102310,
+    "effects": "21023&amp;100",
+    "priority": 23
+  },
+  {
+    "abilityEffectID": 102320,
+    "crossplayID": 102320,
+    "effects": "21023&amp;125",
+    "priority": 23
+  },
+  {
+    "abilityEffectID": 102330,
+    "crossplayID": 102330,
+    "effects": "21023&amp;150",
+    "priority": 23
+  },
+  {
+    "abilityEffectID": 102510,
+    "crossplayID": 102510,
+    "effects": "21025&amp;30",
+    "priority": 25
+  },
+  {
+    "abilityEffectID": 102520,
+    "crossplayID": 102520,
+    "effects": "21025&amp;35",
+    "priority": 25
+  },
+  {
+    "abilityEffectID": 102530,
+    "crossplayID": 102530,
+    "effects": "21025&amp;40",
+    "priority": 25
+  },
+  {
+    "abilityEffectID": 102710,
+    "crossplayID": 102710,
+    "effects": "21027&amp;0.3",
+    "priority": 27
+  },
+  {
+    "abilityEffectID": 102720,
+    "crossplayID": 102720,
+    "effects": "21027&amp;0.5",
+    "priority": 27
+  },
+  {
+    "abilityEffectID": 102730,
+    "crossplayID": 102730,
+    "effects": "21027&amp;0.7",
+    "priority": 27
+  },
+  {
+    "abilityEffectID": 102810,
+    "crossplayID": 102810,
+    "effects": "21028&amp;15",
+    "priority": 28
+  },
+  {
+    "abilityEffectID": 102820,
+    "crossplayID": 102820,
+    "effects": "21028&amp;20",
+    "priority": 28
+  },
+  {
+    "abilityEffectID": 102830,
+    "crossplayID": 102830,
+    "effects": "21028&amp;25",
+    "priority": 28
+  },
+  {
+    "abilityEffectID": 102910,
+    "crossplayID": 102910,
+    "effects": "21029&amp;30",
+    "priority": 29
+  },
+  {
+    "abilityEffectID": 102920,
+    "crossplayID": 102920,
+    "effects": "21029&amp;40",
+    "priority": 29
+  },
+  {
+    "abilityEffectID": 102930,
+    "crossplayID": 102930,
+    "effects": "21029&amp;50",
+    "priority": 29
+  },
+  {
+    "abilityEffectID": 103010,
+    "crossplayID": 103010,
+    "effects": "21030&amp;0.3",
+    "priority": 30
+  },
+  {
+    "abilityEffectID": 103020,
+    "crossplayID": 103020,
+    "effects": "21030&amp;0.5",
+    "priority": 30
+  },
+  {
+    "abilityEffectID": 103030,
+    "crossplayID": 103030,
+    "effects": "21030&amp;0.7",
+    "priority": 30
+  },
+  {
+    "abilityEffectID": 103310,
+    "crossplayID": 103310,
+    "effects": "21033&amp;15",
+    "priority": 33
+  },
+  {
+    "abilityEffectID": 103320,
+    "crossplayID": 103320,
+    "effects": "21033&amp;18",
+    "priority": 33
+  },
+  {
+    "abilityEffectID": 103330,
+    "crossplayID": 103330,
+    "effects": "21033&amp;21",
+    "priority": 33
+  },
+  {
+    "abilityEffectID": 103410,
+    "crossplayID": 103410,
+    "effects": "21034&amp;1.5",
+    "priority": 34
+  },
+  {
+    "abilityEffectID": 103420,
+    "crossplayID": 103420,
+    "effects": "21034&amp;2",
+    "priority": 34
+  },
+  {
+    "abilityEffectID": 103430,
+    "crossplayID": 103430,
+    "effects": "21034&amp;2.5",
+    "priority": 34
+  },
+  {
+    "abilityEffectID": 103510,
+    "crossplayID": 103510,
+    "effects": "21035&amp;15",
+    "priority": 35
+  },
+  {
+    "abilityEffectID": 103520,
+    "crossplayID": 103520,
+    "effects": "21035&amp;20",
+    "priority": 35
+  },
+  {
+    "abilityEffectID": 103530,
+    "crossplayID": 103530,
+    "effects": "21035&amp;25",
+    "priority": 35
+  },
+  {
+    "abilityEffectID": 103810,
+    "crossplayID": 103810,
+    "effects": "21038&amp;0.1",
+    "priority": 38
+  },
+  {
+    "abilityEffectID": 103820,
+    "crossplayID": 103820,
+    "effects": "21038&amp;0.15",
+    "priority": 38
+  },
+  {
+    "abilityEffectID": 103830,
+    "crossplayID": 103830,
+    "effects": "21038&amp;0.2",
+    "priority": 38
+  },
+  {
+    "abilityEffectID": 103910,
+    "crossplayID": 103910,
+    "effects": "21039&amp;15",
+    "priority": 39
+  },
+  {
+    "abilityEffectID": 103920,
+    "crossplayID": 103920,
+    "effects": "21039&amp;20",
+    "priority": 39
+  },
+  {
+    "abilityEffectID": 103930,
+    "crossplayID": 103930,
+    "effects": "21039&amp;25",
+    "priority": 39
+  },
+  {
+    "abilityEffectID": 100115,
+    "crossplayID": 100115,
+    "effects": "21001&amp;6",
+    "priority": 1
+  },
+  {
+    "abilityEffectID": 100125,
+    "crossplayID": 100125,
+    "effects": "21001&amp;8",
+    "priority": 1
+  },
+  {
+    "abilityEffectID": 100135,
+    "crossplayID": 100135,
+    "effects": "21001&amp;10",
+    "priority": 1
+  },
+  {
+    "abilityEffectID": 100215,
+    "crossplayID": 100215,
+    "effects": "21002&amp;35",
+    "priority": 2
+  },
+  {
+    "abilityEffectID": 100225,
+    "crossplayID": 100225,
+    "effects": "21002&amp;45",
+    "priority": 2
+  },
+  {
+    "abilityEffectID": 100235,
+    "crossplayID": 100235,
+    "effects": "21002&amp;55",
+    "priority": 2
+  },
+  {
+    "abilityEffectID": 100315,
+    "crossplayID": 100315,
+    "effects": "21003&amp;5",
+    "priority": 3
+  },
+  {
+    "abilityEffectID": 100325,
+    "crossplayID": 100325,
+    "effects": "21003&amp;7",
+    "priority": 3
+  },
+  {
+    "abilityEffectID": 100335,
+    "crossplayID": 100335,
+    "effects": "21003&amp;9",
+    "priority": 3
+  },
+  {
+    "abilityEffectID": 100515,
+    "crossplayID": 100515,
+    "effects": "21005&amp;1.2",
+    "priority": 5
+  },
+  {
+    "abilityEffectID": 100525,
+    "crossplayID": 100525,
+    "effects": "21005&amp;1.5",
+    "priority": 5
+  },
+  {
+    "abilityEffectID": 100535,
+    "crossplayID": 100535,
+    "effects": "21005&amp;1.8",
+    "priority": 5
+  },
+  {
+    "abilityEffectID": 100715,
+    "crossplayID": 100715,
+    "effects": "21007&amp;0.5",
+    "priority": 7
+  },
+  {
+    "abilityEffectID": 100725,
+    "crossplayID": 100725,
+    "effects": "21007&amp;0.75",
+    "priority": 7
+  },
+  {
+    "abilityEffectID": 100735,
+    "crossplayID": 100735,
+    "effects": "21007&amp;1",
+    "priority": 7
+  },
+  {
+    "abilityEffectID": 101015,
+    "crossplayID": 101015,
+    "effects": "21010&amp;2",
+    "priority": 10
+  },
+  {
+    "abilityEffectID": 101025,
+    "crossplayID": 101025,
+    "effects": "21010&amp;3",
+    "priority": 10
+  },
+  {
+    "abilityEffectID": 101035,
+    "crossplayID": 101035,
+    "effects": "21010&amp;4",
+    "priority": 10
+  },
+  {
+    "abilityEffectID": 101115,
+    "crossplayID": 101115,
+    "effects": "21011&amp;50",
+    "priority": 11
+  },
+  {
+    "abilityEffectID": 101125,
+    "crossplayID": 101125,
+    "effects": "21011&amp;75",
+    "priority": 11
+  },
+  {
+    "abilityEffectID": 101135,
+    "crossplayID": 101135,
+    "effects": "21011&amp;100",
+    "priority": 11
+  },
+  {
+    "abilityEffectID": 101215,
+    "crossplayID": 101215,
+    "effects": "21012&amp;10",
+    "priority": 12
+  },
+  {
+    "abilityEffectID": 101225,
+    "crossplayID": 101225,
+    "effects": "21012&amp;15",
+    "priority": 12
+  },
+  {
+    "abilityEffectID": 101235,
+    "crossplayID": 101235,
+    "effects": "21012&amp;20",
+    "priority": 12
+  },
+  {
+    "abilityEffectID": 101315,
+    "crossplayID": 101315,
+    "effects": "21013&amp;20",
+    "priority": 13
+  },
+  {
+    "abilityEffectID": 101325,
+    "crossplayID": 101325,
+    "effects": "21013&amp;25",
+    "priority": 13
+  },
+  {
+    "abilityEffectID": 101335,
+    "crossplayID": 101335,
+    "effects": "21013&amp;30",
+    "priority": 13
+  },
+  {
+    "abilityEffectID": 101415,
+    "crossplayID": 101415,
+    "effects": "21014&amp;50",
+    "priority": 14
+  },
+  {
+    "abilityEffectID": 101425,
+    "crossplayID": 101425,
+    "effects": "21014&amp;56",
+    "priority": 14
+  },
+  {
+    "abilityEffectID": 101435,
+    "crossplayID": 101435,
+    "effects": "21014&amp;62",
+    "priority": 14
+  },
+  {
+    "abilityEffectID": 101515,
+    "crossplayID": 101515,
+    "effects": "21015&amp;10",
+    "priority": 15
+  },
+  {
+    "abilityEffectID": 101525,
+    "crossplayID": 101525,
+    "effects": "21015&amp;12",
+    "priority": 15
+  },
+  {
+    "abilityEffectID": 101535,
+    "crossplayID": 101535,
+    "effects": "21015&amp;14",
+    "priority": 15
+  },
+  {
+    "abilityEffectID": 101615,
+    "crossplayID": 101615,
+    "effects": "21016&amp;15",
+    "priority": 16
+  },
+  {
+    "abilityEffectID": 101625,
+    "crossplayID": 101625,
+    "effects": "21016&amp;18",
+    "priority": 16
+  },
+  {
+    "abilityEffectID": 101635,
+    "crossplayID": 101635,
+    "effects": "21016&amp;21",
+    "priority": 16
+  },
+  {
+    "abilityEffectID": 101815,
+    "crossplayID": 101815,
+    "effects": "21018&amp;10",
+    "priority": 18
+  },
+  {
+    "abilityEffectID": 101825,
+    "crossplayID": 101825,
+    "effects": "21018&amp;12",
+    "priority": 18
+  },
+  {
+    "abilityEffectID": 101835,
+    "crossplayID": 101835,
+    "effects": "21018&amp;14",
+    "priority": 18
+  },
+  {
+    "abilityEffectID": 102015,
+    "crossplayID": 102015,
+    "effects": "21020&amp;1.2",
+    "priority": 20
+  },
+  {
+    "abilityEffectID": 102025,
+    "crossplayID": 102025,
+    "effects": "21020&amp;1.5",
+    "priority": 20
+  },
+  {
+    "abilityEffectID": 102035,
+    "crossplayID": 102035,
+    "effects": "21020&amp;1.8",
+    "priority": 20
+  },
+  {
+    "abilityEffectID": 102115,
+    "crossplayID": 102115,
+    "effects": "21021&amp;0",
+    "priority": 21
+  },
+  {
+    "abilityEffectID": 102125,
+    "crossplayID": 102125,
+    "effects": "21021&amp;1",
+    "priority": 21
+  },
+  {
+    "abilityEffectID": 102135,
+    "crossplayID": 102135,
+    "effects": "21021&amp;2",
+    "priority": 21
+  },
+  {
+    "abilityEffectID": 102215,
+    "crossplayID": 102215,
+    "effects": "21022&amp;5",
+    "priority": 22
+  },
+  {
+    "abilityEffectID": 102225,
+    "crossplayID": 102225,
+    "effects": "21022&amp;6",
+    "priority": 22
+  },
+  {
+    "abilityEffectID": 102235,
+    "crossplayID": 102235,
+    "effects": "21022&amp;7",
+    "priority": 22
+  },
+  {
+    "abilityEffectID": 102315,
+    "crossplayID": 102315,
+    "effects": "21023&amp;100",
+    "priority": 23
+  },
+  {
+    "abilityEffectID": 102325,
+    "crossplayID": 102325,
+    "effects": "21023&amp;120",
+    "priority": 23
+  },
+  {
+    "abilityEffectID": 102335,
+    "crossplayID": 102335,
+    "effects": "21023&amp;140",
+    "priority": 23
+  },
+  {
+    "abilityEffectID": 102515,
+    "crossplayID": 102515,
+    "effects": "21025&amp;30",
+    "priority": 25
+  },
+  {
+    "abilityEffectID": 102525,
+    "crossplayID": 102525,
+    "effects": "21025&amp;35",
+    "priority": 25
+  },
+  {
+    "abilityEffectID": 102535,
+    "crossplayID": 102535,
+    "effects": "21025&amp;40",
+    "priority": 25
+  },
+  {
+    "abilityEffectID": 102715,
+    "crossplayID": 102715,
+    "effects": "21027&amp;0.3",
+    "priority": 27
+  },
+  {
+    "abilityEffectID": 102725,
+    "crossplayID": 102725,
+    "effects": "21027&amp;0.5",
+    "priority": 27
+  },
+  {
+    "abilityEffectID": 102735,
+    "crossplayID": 102735,
+    "effects": "21027&amp;0.7",
+    "priority": 27
+  },
+  {
+    "abilityEffectID": 102815,
+    "crossplayID": 102815,
+    "effects": "21028&amp;15",
+    "priority": 28
+  },
+  {
+    "abilityEffectID": 102825,
+    "crossplayID": 102825,
+    "effects": "21028&amp;20",
+    "priority": 28
+  },
+  {
+    "abilityEffectID": 102835,
+    "crossplayID": 102835,
+    "effects": "21028&amp;25",
+    "priority": 28
+  },
+  {
+    "abilityEffectID": 102915,
+    "crossplayID": 102915,
+    "effects": "21029&amp;30",
+    "priority": 29
+  },
+  {
+    "abilityEffectID": 102925,
+    "crossplayID": 102925,
+    "effects": "21029&amp;40",
+    "priority": 29
+  },
+  {
+    "abilityEffectID": 102935,
+    "crossplayID": 102935,
+    "effects": "21029&amp;50",
+    "priority": 29
+  },
+  {
+    "abilityEffectID": 103015,
+    "crossplayID": 103015,
+    "effects": "21030&amp;0.3",
+    "priority": 30
+  },
+  {
+    "abilityEffectID": 103025,
+    "crossplayID": 103025,
+    "effects": "21030&amp;0.5",
+    "priority": 30
+  },
+  {
+    "abilityEffectID": 103035,
+    "crossplayID": 103035,
+    "effects": "21030&amp;0.7",
+    "priority": 30
+  },
+  {
+    "abilityEffectID": 103315,
+    "crossplayID": 103315,
+    "effects": "21033&amp;15",
+    "priority": 33
+  },
+  {
+    "abilityEffectID": 103325,
+    "crossplayID": 103325,
+    "effects": "21033&amp;18",
+    "priority": 33
+  },
+  {
+    "abilityEffectID": 103335,
+    "crossplayID": 103335,
+    "effects": "21033&amp;21",
+    "priority": 33
+  },
+  {
+    "abilityEffectID": 103415,
+    "crossplayID": 103415,
+    "effects": "21034&amp;20",
+    "priority": 34
+  },
+  {
+    "abilityEffectID": 103425,
+    "crossplayID": 103425,
+    "effects": "21034&amp;26",
+    "priority": 34
+  },
+  {
+    "abilityEffectID": 103435,
+    "crossplayID": 103435,
+    "effects": "21034&amp;32",
+    "priority": 34
+  },
+  {
+    "abilityEffectID": 103515,
+    "crossplayID": 103515,
+    "effects": "21035&amp;15",
+    "priority": 35
+  },
+  {
+    "abilityEffectID": 103525,
+    "crossplayID": 103525,
+    "effects": "21035&amp;20",
+    "priority": 35
+  },
+  {
+    "abilityEffectID": 103535,
+    "crossplayID": 103535,
+    "effects": "21035&amp;25",
+    "priority": 35
+  },
+  {
+    "abilityEffectID": 103815,
+    "crossplayID": 103815,
+    "effects": "21038&amp;0.15",
+    "priority": 38
+  },
+  {
+    "abilityEffectID": 103825,
+    "crossplayID": 103825,
+    "effects": "21038&amp;0.2",
+    "priority": 38
+  },
+  {
+    "abilityEffectID": 103835,
+    "crossplayID": 103835,
+    "effects": "21038&amp;0.25",
+    "priority": 38
+  },
+  {
+    "abilityEffectID": 103915,
+    "crossplayID": 103915,
+    "effects": "21039&amp;15",
+    "priority": 39
+  },
+  {
+    "abilityEffectID": 103925,
+    "crossplayID": 103925,
+    "effects": "21039&amp;20",
+    "priority": 39
+  },
+  {
+    "abilityEffectID": 103935,
+    "crossplayID": 103935,
+    "effects": "21039&amp;25",
+    "priority": 39
+  }
+]

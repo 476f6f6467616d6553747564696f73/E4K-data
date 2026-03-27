@@ -1,39 +1,37 @@
-{
-  "currencyCollectTaskType": [
-    {
-      "currencyID": 1,
-      "crossplayID": 1,
-      "taskType": "collectKhanTablets"
-    },
-    {
-      "currencyID": 3,
-      "crossplayID": 3,
-      "taskType": "collectPearlRelics"
-    },
-    {
-      "currencyID": 4,
-      "crossplayID": 4,
-      "taskType": "collectSilverRunes"
-    },
-    {
-      "currencyID": 5,
-      "crossplayID": 5,
-      "taskType": "collectGoldRunes"
-    },
-    {
-      "currencyID": 7,
-      "crossplayID": 7,
-      "taskType": "collectSamuraiTokens"
-    },
-    {
-      "currencyID": 10,
-      "crossplayID": 10,
-      "taskType": "collectKhanMedals"
-    },
-    {
-      "currencyID": 13,
-      "crossplayID": 13,
-      "taskType": "collectSamuraiMedals"
-    }
-  ]
-}
+[
+  {
+    "currencyID": 1,
+    "crossplayID": 1,
+    "taskType": "collectKhanTablets"
+  },
+  {
+    "currencyID": 3,
+    "crossplayID": 3,
+    "taskType": "collectPearlRelics"
+  },
+  {
+    "currencyID": 4,
+    "crossplayID": 4,
+    "taskType": "collectSilverRunes"
+  },
+  {
+    "currencyID": 5,
+    "crossplayID": 5,
+    "taskType": "collectGoldRunes"
+  },
+  {
+    "currencyID": 7,
+    "crossplayID": 7,
+    "taskType": "collectSamuraiTokens"
+  },
+  {
+    "currencyID": 10,
+    "crossplayID": 10,
+    "taskType": "collectKhanMedals"
+  },
+  {
+    "currencyID": 13,
+    "crossplayID": 13,
+    "taskType": "collectSamuraiMedals"
+  }
+]

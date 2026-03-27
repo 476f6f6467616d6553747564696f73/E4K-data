@@ -1,8 +1,8 @@
-{
-  "sector": {
+[
+  {
     "wodID": 905000,
     "group": "Sector",
     "name": "Basic",
     "type": "-"
   }
-}
+]

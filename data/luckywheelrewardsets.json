@@ -1,1084 +1,1082 @@
-{
-  "luckywheelrewardset": [
-    {
-      "luckyWheelRewardSetID": 1,
-      "rewardIDs": "3592,3594,3595"
-    },
-    {
-      "luckyWheelRewardSetID": 2,
-      "rewardIDs": "3592,3594,3588"
-    },
-    {
-      "luckyWheelRewardSetID": 3,
-      "rewardIDs": "3593,3592,3590"
-    },
-    {
-      "luckyWheelRewardSetID": 4,
-      "rewardIDs": "3594,3595,3590"
-    },
-    {
-      "luckyWheelRewardSetID": 5,
-      "rewardIDs": "3594,3596,3591"
-    },
-    {
-      "luckyWheelRewardSetID": 6,
-      "rewardIDs": "3595,3587,3591"
-    },
-    {
-      "luckyWheelRewardSetID": 7,
-      "rewardIDs": "3596,3588,3597"
-    },
-    {
-      "luckyWheelRewardSetID": 8,
-      "rewardIDs": "3596,3590,3597"
-    },
-    {
-      "luckyWheelRewardSetID": 9,
-      "rewardIDs": "3596,3591,3589"
-    },
-    {
-      "luckyWheelRewardSetID": 10,
-      "rewardIDs": "3596,3597,3589"
-    },
-    {
-      "luckyWheelRewardSetID": 11,
-      "rewardIDs": "3592,3594,3595"
-    },
-    {
-      "luckyWheelRewardSetID": 12,
-      "rewardIDs": "3592,3595,3594"
-    },
-    {
-      "luckyWheelRewardSetID": 13,
-      "rewardIDs": "3593,3592,3598"
-    },
-    {
-      "luckyWheelRewardSetID": 14,
-      "rewardIDs": "3594,3603,3604"
-    },
-    {
-      "luckyWheelRewardSetID": 15,
-      "rewardIDs": "3594,3598,3599"
-    },
-    {
-      "luckyWheelRewardSetID": 16,
-      "rewardIDs": "3595,3601,3599"
-    },
-    {
-      "luckyWheelRewardSetID": 17,
-      "rewardIDs": "3603,3601,3589"
-    },
-    {
-      "luckyWheelRewardSetID": 18,
-      "rewardIDs": "3603,3602,3589"
-    },
-    {
-      "luckyWheelRewardSetID": 19,
-      "rewardIDs": "3603,3602,3600"
-    },
-    {
-      "luckyWheelRewardSetID": 20,
-      "rewardIDs": "3603,3604,3600"
-    },
-    {
-      "luckyWheelRewardSetID": 21,
-      "rewardIDs": "3605,3608,3609"
-    },
-    {
-      "luckyWheelRewardSetID": 22,
-      "rewardIDs": "3608,3609,3605"
-    },
-    {
-      "luckyWheelRewardSetID": 23,
-      "rewardIDs": "3609,3593,3605"
-    },
-    {
-      "luckyWheelRewardSetID": 24,
-      "rewardIDs": "3592,3613,3608"
-    },
-    {
-      "luckyWheelRewardSetID": 25,
-      "rewardIDs": "3592,3613,3593"
-    },
-    {
-      "luckyWheelRewardSetID": 26,
-      "rewardIDs": "3592,3613,3610"
-    },
-    {
-      "luckyWheelRewardSetID": 27,
-      "rewardIDs": "3592,3613,3610"
-    },
-    {
-      "luckyWheelRewardSetID": 28,
-      "rewardIDs": "3592,3613,3610"
-    },
-    {
-      "luckyWheelRewardSetID": 29,
-      "rewardIDs": "3593,3613,3610"
-    },
-    {
-      "luckyWheelRewardSetID": 30,
-      "rewardIDs": "3610,3613,3612"
-    },
-    {
-      "luckyWheelRewardSetID": 31,
-      "rewardIDs": "3610,3613,3612"
-    },
-    {
-      "luckyWheelRewardSetID": 32,
-      "rewardIDs": "3610,3613,3614"
-    },
-    {
-      "luckyWheelRewardSetID": 33,
-      "rewardIDs": "3610,3613,3614"
-    },
-    {
-      "luckyWheelRewardSetID": 34,
-      "rewardIDs": "3610,3613,3614"
-    },
-    {
-      "luckyWheelRewardSetID": 35,
-      "rewardIDs": "3612,3613,3614"
-    },
-    {
-      "luckyWheelRewardSetID": 36,
-      "rewardIDs": "3612,3613,3607"
-    },
-    {
-      "luckyWheelRewardSetID": 37,
-      "rewardIDs": "3612,3613,3600"
-    },
-    {
-      "luckyWheelRewardSetID": 38,
-      "rewardIDs": "3614,3589,3606"
-    },
-    {
-      "luckyWheelRewardSetID": 39,
-      "rewardIDs": "3613,3600,3589"
-    },
-    {
-      "luckyWheelRewardSetID": 40,
-      "rewardIDs": "3613,3607,3606"
-    },
-    {
-      "luckyWheelRewardSetID": 41,
-      "rewardIDs": "3617,3592,3618"
-    },
-    {
-      "luckyWheelRewardSetID": 42,
-      "rewardIDs": "3618,3617,3593"
-    },
-    {
-      "luckyWheelRewardSetID": 43,
-      "rewardIDs": "3592,3618,3617"
-    },
-    {
-      "luckyWheelRewardSetID": 44,
-      "rewardIDs": "3592,3593,3610"
-    },
-    {
-      "luckyWheelRewardSetID": 45,
-      "rewardIDs": "3592,3610,3612"
-    },
-    {
-      "luckyWheelRewardSetID": 46,
-      "rewardIDs": "3592,3610,3612"
-    },
-    {
-      "luckyWheelRewardSetID": 47,
-      "rewardIDs": "3593,3592,3619"
-    },
-    {
-      "luckyWheelRewardSetID": 48,
-      "rewardIDs": "3610,3612,3620"
-    },
-    {
-      "luckyWheelRewardSetID": 49,
-      "rewardIDs": "3610,3612,3611"
-    },
-    {
-      "luckyWheelRewardSetID": 50,
-      "rewardIDs": "3610,3619,3611"
-    },
-    {
-      "luckyWheelRewardSetID": 51,
-      "rewardIDs": "3610,3619,3611"
-    },
-    {
-      "luckyWheelRewardSetID": 52,
-      "rewardIDs": "3612,3619,3610"
-    },
-    {
-      "luckyWheelRewardSetID": 53,
-      "rewardIDs": "3612,3619,3610"
-    },
-    {
-      "luckyWheelRewardSetID": 54,
-      "rewardIDs": "3619,3620,3610"
-    },
-    {
-      "luckyWheelRewardSetID": 55,
-      "rewardIDs": "3619,3616,3615"
-    },
-    {
-      "luckyWheelRewardSetID": 56,
-      "rewardIDs": "3619,3611,3615"
-    },
-    {
-      "luckyWheelRewardSetID": 57,
-      "rewardIDs": "3619,3589,3600"
-    },
-    {
-      "luckyWheelRewardSetID": 58,
-      "rewardIDs": "3619,3600,3589"
-    },
-    {
-      "luckyWheelRewardSetID": 59,
-      "rewardIDs": "3619,3607,3616"
-    },
-    {
-      "luckyWheelRewardSetID": 60,
-      "rewardIDs": "3620,3619,3607"
-    },
-    {
-      "luckyWheelRewardSetID": 61,
-      "rewardIDs": "3624,3593,3626"
-    },
-    {
-      "luckyWheelRewardSetID": 62,
-      "rewardIDs": "3625,3624,3625"
-    },
-    {
-      "luckyWheelRewardSetID": 63,
-      "rewardIDs": "3592,3625,3624"
-    },
-    {
-      "luckyWheelRewardSetID": 64,
-      "rewardIDs": "3592,3612,3593"
-    },
-    {
-      "luckyWheelRewardSetID": 65,
-      "rewardIDs": "3592,3612,3610"
-    },
-    {
-      "luckyWheelRewardSetID": 66,
-      "rewardIDs": "3592,3612,3610"
-    },
-    {
-      "luckyWheelRewardSetID": 67,
-      "rewardIDs": "3592,3626,3612"
-    },
-    {
-      "luckyWheelRewardSetID": 68,
-      "rewardIDs": "3593,3626,3612"
-    },
-    {
-      "luckyWheelRewardSetID": 69,
-      "rewardIDs": "3610,3626,3612"
-    },
-    {
-      "luckyWheelRewardSetID": 70,
-      "rewardIDs": "3610,3626,3627"
-    },
-    {
-      "luckyWheelRewardSetID": 71,
-      "rewardIDs": "3610,3626,3589"
-    },
-    {
-      "luckyWheelRewardSetID": 72,
-      "rewardIDs": "3610,3626,3600"
-    },
-    {
-      "luckyWheelRewardSetID": 73,
-      "rewardIDs": "3610,3627,3626"
-    },
-    {
-      "luckyWheelRewardSetID": 74,
-      "rewardIDs": "3612,3621,3626"
-    },
-    {
-      "luckyWheelRewardSetID": 75,
-      "rewardIDs": "3626,3621,3607"
-    },
-    {
-      "luckyWheelRewardSetID": 76,
-      "rewardIDs": "3626,3589,3616"
-    },
-    {
-      "luckyWheelRewardSetID": 77,
-      "rewardIDs": "3626,3600,3622"
-    },
-    {
-      "luckyWheelRewardSetID": 78,
-      "rewardIDs": "3626,3607,3622"
-    },
-    {
-      "luckyWheelRewardSetID": 79,
-      "rewardIDs": "3626,3616,3623"
-    },
-    {
-      "luckyWheelRewardSetID": 80,
-      "rewardIDs": "3627,3623,3626"
-    },
-    {
-      "luckyWheelRewardSetID": 81,
-      "rewardIDs": "3631,3632,3634"
-    },
-    {
-      "luckyWheelRewardSetID": 82,
-      "rewardIDs": "3632,3631,3634"
-    },
-    {
-      "luckyWheelRewardSetID": 83,
-      "rewardIDs": "3592,3635,3631"
-    },
-    {
-      "luckyWheelRewardSetID": 84,
-      "rewardIDs": "3592,3635,3636"
-    },
-    {
-      "luckyWheelRewardSetID": 85,
-      "rewardIDs": "3592,3637,3636"
-    },
-    {
-      "luckyWheelRewardSetID": 86,
-      "rewardIDs": "3592,3628,3636"
-    },
-    {
-      "luckyWheelRewardSetID": 87,
-      "rewardIDs": "3592,3628,3636"
-    },
-    {
-      "luckyWheelRewardSetID": 88,
-      "rewardIDs": "3634,3589,3636"
-    },
-    {
-      "luckyWheelRewardSetID": 89,
-      "rewardIDs": "3634,3600,3636"
-    },
-    {
-      "luckyWheelRewardSetID": 90,
-      "rewardIDs": "3634,3607,3636"
-    },
-    {
-      "luckyWheelRewardSetID": 91,
-      "rewardIDs": "3634,3636,3632"
-    },
-    {
-      "luckyWheelRewardSetID": 92,
-      "rewardIDs": "3634,3636,3637"
-    },
-    {
-      "luckyWheelRewardSetID": 93,
-      "rewardIDs": "3635,3636,3589"
-    },
-    {
-      "luckyWheelRewardSetID": 94,
-      "rewardIDs": "3635,3636,3600"
-    },
-    {
-      "luckyWheelRewardSetID": 95,
-      "rewardIDs": "3636,3616,3607"
-    },
-    {
-      "luckyWheelRewardSetID": 96,
-      "rewardIDs": "3636,3623,3616"
-    },
-    {
-      "luckyWheelRewardSetID": 97,
-      "rewardIDs": "3636,3630,3623"
-    },
-    {
-      "luckyWheelRewardSetID": 98,
-      "rewardIDs": "3636,3633,3630"
-    },
-    {
-      "luckyWheelRewardSetID": 99,
-      "rewardIDs": "3636,3633,3629"
-    },
-    {
-      "luckyWheelRewardSetID": 100,
-      "rewardIDs": "3637,3636,3629"
-    },
-    {
-      "luckyWheelRewardSetID": 101,
-      "rewardIDs": "3638,3641,3642"
-    },
-    {
-      "luckyWheelRewardSetID": 102,
-      "rewardIDs": "3641,3642,3592"
-    },
-    {
-      "luckyWheelRewardSetID": 103,
-      "rewardIDs": "3642,3592,3641"
-    },
-    {
-      "luckyWheelRewardSetID": 104,
-      "rewardIDs": "3592,3828,3830"
-    },
-    {
-      "luckyWheelRewardSetID": 105,
-      "rewardIDs": "3592,3828,3831"
-    },
-    {
-      "luckyWheelRewardSetID": 106,
-      "rewardIDs": "3592,3830,3828"
-    },
-    {
-      "luckyWheelRewardSetID": 107,
-      "rewardIDs": "3644,3830,3592"
-    },
-    {
-      "luckyWheelRewardSetID": 108,
-      "rewardIDs": "3828,3830,3592"
-    },
-    {
-      "luckyWheelRewardSetID": 109,
-      "rewardIDs": "3828,3830,3589"
-    },
-    {
-      "luckyWheelRewardSetID": 110,
-      "rewardIDs": "3828,3830,3600"
-    },
-    {
-      "luckyWheelRewardSetID": 111,
-      "rewardIDs": "3828,3830,3607"
-    },
-    {
-      "luckyWheelRewardSetID": 112,
-      "rewardIDs": "3829,3830,3828"
-    },
-    {
-      "luckyWheelRewardSetID": 113,
-      "rewardIDs": "3829,3831,3616"
-    },
-    {
-      "luckyWheelRewardSetID": 114,
-      "rewardIDs": "3829,3589,3623"
-    },
-    {
-      "luckyWheelRewardSetID": 115,
-      "rewardIDs": "3830,3600,3630"
-    },
-    {
-      "luckyWheelRewardSetID": 116,
-      "rewardIDs": "3830,3607,3640"
-    },
-    {
-      "luckyWheelRewardSetID": 117,
-      "rewardIDs": "3830,3616,3639"
-    },
-    {
-      "luckyWheelRewardSetID": 118,
-      "rewardIDs": "3830,3623,3639"
-    },
-    {
-      "luckyWheelRewardSetID": 119,
-      "rewardIDs": "3830,3630,3643"
-    },
-    {
-      "luckyWheelRewardSetID": 120,
-      "rewardIDs": "3831,3640,3643"
-    },
-    {
-      "luckyWheelRewardSetID": 121,
-      "rewardIDs": "3832,3835,3836"
-    },
-    {
-      "luckyWheelRewardSetID": 122,
-      "rewardIDs": "3835,3836,3592"
-    },
-    {
-      "luckyWheelRewardSetID": 123,
-      "rewardIDs": "3836,3838,3835"
-    },
-    {
-      "luckyWheelRewardSetID": 124,
-      "rewardIDs": "3592,3838,3840"
-    },
-    {
-      "luckyWheelRewardSetID": 125,
-      "rewardIDs": "3592,3839,3838"
-    },
-    {
-      "luckyWheelRewardSetID": 126,
-      "rewardIDs": "3592,3839,3838"
-    },
-    {
-      "luckyWheelRewardSetID": 127,
-      "rewardIDs": "3837,3840,3592"
-    },
-    {
-      "luckyWheelRewardSetID": 128,
-      "rewardIDs": "3838,3840,3841"
-    },
-    {
-      "luckyWheelRewardSetID": 129,
-      "rewardIDs": "3838,3840,3589"
-    },
-    {
-      "luckyWheelRewardSetID": 130,
-      "rewardIDs": "3838,3840,3600"
-    },
-    {
-      "luckyWheelRewardSetID": 131,
-      "rewardIDs": "3838,3840,3607"
-    },
-    {
-      "luckyWheelRewardSetID": 132,
-      "rewardIDs": "3839,3841,3616"
-    },
-    {
-      "luckyWheelRewardSetID": 133,
-      "rewardIDs": "3839,3589,3623"
-    },
-    {
-      "luckyWheelRewardSetID": 134,
-      "rewardIDs": "3840,3600,3630"
-    },
-    {
-      "luckyWheelRewardSetID": 135,
-      "rewardIDs": "3840,3607,3640"
-    },
-    {
-      "luckyWheelRewardSetID": 136,
-      "rewardIDs": "3840,3616,3834"
-    },
-    {
-      "luckyWheelRewardSetID": 137,
-      "rewardIDs": "3840,3623,3833"
-    },
-    {
-      "luckyWheelRewardSetID": 138,
-      "rewardIDs": "3840,3630,3833"
-    },
-    {
-      "luckyWheelRewardSetID": 139,
-      "rewardIDs": "3840,3640,3643"
-    },
-    {
-      "luckyWheelRewardSetID": 140,
-      "rewardIDs": "3841,3834,3643"
-    },
-    {
-      "luckyWheelRewardSetID": 141,
-      "rewardIDs": "661,777,971"
-    },
-    {
-      "luckyWheelRewardSetID": 142,
-      "rewardIDs": "661,778,971"
-    },
-    {
-      "luckyWheelRewardSetID": 143,
-      "rewardIDs": "777,661,973"
-    },
-    {
-      "luckyWheelRewardSetID": 144,
-      "rewardIDs": "777,661,973"
-    },
-    {
-      "luckyWheelRewardSetID": 145,
-      "rewardIDs": "778,972,662"
-    },
-    {
-      "luckyWheelRewardSetID": 146,
-      "rewardIDs": "778,662,663"
-    },
-    {
-      "luckyWheelRewardSetID": 147,
-      "rewardIDs": "971,663,662"
-    },
-    {
-      "luckyWheelRewardSetID": 148,
-      "rewardIDs": "972,779,780"
-    },
-    {
-      "luckyWheelRewardSetID": 149,
-      "rewardIDs": "972,780,781"
-    },
-    {
-      "luckyWheelRewardSetID": 150,
-      "rewardIDs": "973,781,776"
-    },
-    {
-      "luckyWheelRewardSetID": 151,
-      "rewardIDs": "974,777,981"
-    },
-    {
-      "luckyWheelRewardSetID": 152,
-      "rewardIDs": "974,778,981"
-    },
-    {
-      "luckyWheelRewardSetID": 153,
-      "rewardIDs": "777,974,982"
-    },
-    {
-      "luckyWheelRewardSetID": 154,
-      "rewardIDs": "777,974,982"
-    },
-    {
-      "luckyWheelRewardSetID": 155,
-      "rewardIDs": "778,975,983"
-    },
-    {
-      "luckyWheelRewardSetID": 156,
-      "rewardIDs": "778,976,983"
-    },
-    {
-      "luckyWheelRewardSetID": 157,
-      "rewardIDs": "981,779,975"
-    },
-    {
-      "luckyWheelRewardSetID": 158,
-      "rewardIDs": "982,978,979"
-    },
-    {
-      "luckyWheelRewardSetID": 159,
-      "rewardIDs": "982,979,980"
-    },
-    {
-      "luckyWheelRewardSetID": 160,
-      "rewardIDs": "983,980,977"
-    },
-    {
-      "luckyWheelRewardSetID": 161,
-      "rewardIDs": "984,985,777"
-    },
-    {
-      "luckyWheelRewardSetID": 162,
-      "rewardIDs": "984,985,777"
-    },
-    {
-      "luckyWheelRewardSetID": 163,
-      "rewardIDs": "777,984,778"
-    },
-    {
-      "luckyWheelRewardSetID": 164,
-      "rewardIDs": "777,984,991"
-    },
-    {
-      "luckyWheelRewardSetID": 165,
-      "rewardIDs": "778,986,992"
-    },
-    {
-      "luckyWheelRewardSetID": 166,
-      "rewardIDs": "778,779,993"
-    },
-    {
-      "luckyWheelRewardSetID": 167,
-      "rewardIDs": "991,978,986"
-    },
-    {
-      "luckyWheelRewardSetID": 168,
-      "rewardIDs": "992,988,989"
-    },
-    {
-      "luckyWheelRewardSetID": 169,
-      "rewardIDs": "992,989,990"
-    },
-    {
-      "luckyWheelRewardSetID": 170,
-      "rewardIDs": "993,990,987"
-    },
-    {
-      "luckyWheelRewardSetID": 171,
-      "rewardIDs": "994,995,777"
-    },
-    {
-      "luckyWheelRewardSetID": 172,
-      "rewardIDs": "994,995,778"
-    },
-    {
-      "luckyWheelRewardSetID": 173,
-      "rewardIDs": "777,994,1125"
-    },
-    {
-      "luckyWheelRewardSetID": 174,
-      "rewardIDs": "777,996,994"
-    },
-    {
-      "luckyWheelRewardSetID": 175,
-      "rewardIDs": "778,779,994"
-    },
-    {
-      "luckyWheelRewardSetID": 176,
-      "rewardIDs": "778,978,994"
-    },
-    {
-      "luckyWheelRewardSetID": 177,
-      "rewardIDs": "1125,988,1127"
-    },
-    {
-      "luckyWheelRewardSetID": 178,
-      "rewardIDs": "1126,998,996"
-    },
-    {
-      "luckyWheelRewardSetID": 179,
-      "rewardIDs": "1126,999,997"
-    },
-    {
-      "luckyWheelRewardSetID": 180,
-      "rewardIDs": "1127,1124,999"
-    },
-    {
-      "luckyWheelRewardSetID": 181,
-      "rewardIDs": "1128,1176,1246"
-    },
-    {
-      "luckyWheelRewardSetID": 182,
-      "rewardIDs": "1128,1343,1176"
-    },
-    {
-      "luckyWheelRewardSetID": 183,
-      "rewardIDs": "777,1242,1128"
-    },
-    {
-      "luckyWheelRewardSetID": 184,
-      "rewardIDs": "777,779,1128"
-    },
-    {
-      "luckyWheelRewardSetID": 185,
-      "rewardIDs": "778,978,1128"
-    },
-    {
-      "luckyWheelRewardSetID": 186,
-      "rewardIDs": "778,988,1128"
-    },
-    {
-      "luckyWheelRewardSetID": 187,
-      "rewardIDs": "1246,998,1176"
-    },
-    {
-      "luckyWheelRewardSetID": 188,
-      "rewardIDs": "1247,1243,1176"
-    },
-    {
-      "luckyWheelRewardSetID": 189,
-      "rewardIDs": "1247,1244,1242"
-    },
-    {
-      "luckyWheelRewardSetID": 190,
-      "rewardIDs": "1248,1245,1241"
-    },
-    {
-      "luckyWheelRewardSetID": 201,
-      "rewardIDs": "1249,1251,1257"
-    },
-    {
-      "luckyWheelRewardSetID": 202,
-      "rewardIDs": "1249,1242,1257"
-    },
-    {
-      "luckyWheelRewardSetID": 203,
-      "rewardIDs": "1250,1249,1257"
-    },
-    {
-      "luckyWheelRewardSetID": 204,
-      "rewardIDs": "777,779,1249"
-    },
-    {
-      "luckyWheelRewardSetID": 205,
-      "rewardIDs": "777,978,1257"
-    },
-    {
-      "luckyWheelRewardSetID": 206,
-      "rewardIDs": "778,988,1242"
-    },
-    {
-      "luckyWheelRewardSetID": 207,
-      "rewardIDs": "778,998,1254"
-    },
-    {
-      "luckyWheelRewardSetID": 208,
-      "rewardIDs": "1256,1243,1252"
-    },
-    {
-      "luckyWheelRewardSetID": 209,
-      "rewardIDs": "1257,1254,1253"
-    },
-    {
-      "luckyWheelRewardSetID": 210,
-      "rewardIDs": "1258,1255,1253"
-    },
-    {
-      "luckyWheelRewardSetID": 221,
-      "rewardIDs": "1259,777,1242"
-    },
-    {
-      "luckyWheelRewardSetID": 222,
-      "rewardIDs": "1259,778,1267"
-    },
-    {
-      "luckyWheelRewardSetID": 223,
-      "rewardIDs": "1260,1261,1267"
-    },
-    {
-      "luckyWheelRewardSetID": 224,
-      "rewardIDs": "777,779,1264"
-    },
-    {
-      "luckyWheelRewardSetID": 225,
-      "rewardIDs": "778,978,1265"
-    },
-    {
-      "luckyWheelRewardSetID": 226,
-      "rewardIDs": "1242,988,1262"
-    },
-    {
-      "luckyWheelRewardSetID": 227,
-      "rewardIDs": "1266,998,1253"
-    },
-    {
-      "luckyWheelRewardSetID": 228,
-      "rewardIDs": "1267,1243,1253"
-    },
-    {
-      "luckyWheelRewardSetID": 229,
-      "rewardIDs": "1267,1264,1263"
-    },
-    {
-      "luckyWheelRewardSetID": 230,
-      "rewardIDs": "1268,1265,1263"
-    },
-    {
-      "luckyWheelRewardSetID": 251,
-      "rewardIDs": "1269,777,1271"
-    },
-    {
-      "luckyWheelRewardSetID": 252,
-      "rewardIDs": "1269,1271,1274"
-    },
-    {
-      "luckyWheelRewardSetID": 253,
-      "rewardIDs": "1269,1242,1275"
-    },
-    {
-      "luckyWheelRewardSetID": 254,
-      "rewardIDs": "1270,779,1272"
-    },
-    {
-      "luckyWheelRewardSetID": 255,
-      "rewardIDs": "777,978,1253"
-    },
-    {
-      "luckyWheelRewardSetID": 256,
-      "rewardIDs": "778,988,1253"
-    },
-    {
-      "luckyWheelRewardSetID": 257,
-      "rewardIDs": "1276,998,1263"
-    },
-    {
-      "luckyWheelRewardSetID": 258,
-      "rewardIDs": "1277,1243,1263"
-    },
-    {
-      "luckyWheelRewardSetID": 259,
-      "rewardIDs": "1277,1274,1273"
-    },
-    {
-      "luckyWheelRewardSetID": 260,
-      "rewardIDs": "1278,1275,1273"
-    },
-    {
-      "luckyWheelRewardSetID": 281,
-      "rewardIDs": "3842,3845,3846"
-    },
-    {
-      "luckyWheelRewardSetID": 282,
-      "rewardIDs": "3845,3846,3848"
-    },
-    {
-      "luckyWheelRewardSetID": 283,
-      "rewardIDs": "3846,3848,3845"
-    },
-    {
-      "luckyWheelRewardSetID": 284,
-      "rewardIDs": "3592,3850,3848"
-    },
-    {
-      "luckyWheelRewardSetID": 285,
-      "rewardIDs": "3592,3850,3848"
-    },
-    {
-      "luckyWheelRewardSetID": 286,
-      "rewardIDs": "3592,3850,3851"
-    },
-    {
-      "luckyWheelRewardSetID": 287,
-      "rewardIDs": "3847,3850,3589"
-    },
-    {
-      "luckyWheelRewardSetID": 288,
-      "rewardIDs": "3848,3850,3600"
-    },
-    {
-      "luckyWheelRewardSetID": 289,
-      "rewardIDs": "3848,3850,3607"
-    },
-    {
-      "luckyWheelRewardSetID": 290,
-      "rewardIDs": "3848,3851,3850"
-    },
-    {
-      "luckyWheelRewardSetID": 291,
-      "rewardIDs": "3848,3589,3850"
-    },
-    {
-      "luckyWheelRewardSetID": 292,
-      "rewardIDs": "3849,3600,3616"
-    },
-    {
-      "luckyWheelRewardSetID": 293,
-      "rewardIDs": "3849,3607,3623"
-    },
-    {
-      "luckyWheelRewardSetID": 294,
-      "rewardIDs": "3849,3616,3630"
-    },
-    {
-      "luckyWheelRewardSetID": 295,
-      "rewardIDs": "3850,3623,3640"
-    },
-    {
-      "luckyWheelRewardSetID": 296,
-      "rewardIDs": "3850,3630,3834"
-    },
-    {
-      "luckyWheelRewardSetID": 297,
-      "rewardIDs": "3850,3640,3844"
-    },
-    {
-      "luckyWheelRewardSetID": 298,
-      "rewardIDs": "3850,3834,3643"
-    },
-    {
-      "luckyWheelRewardSetID": 299,
-      "rewardIDs": "3850,3844,3843"
-    },
-    {
-      "luckyWheelRewardSetID": 300,
-      "rewardIDs": "3851,3643,3843"
-    },
-    {
-      "luckyWheelRewardSetID": 311,
-      "rewardIDs": "1279,1281,777"
-    },
-    {
-      "luckyWheelRewardSetID": 312,
-      "rewardIDs": "1279,1281,777"
-    },
-    {
-      "luckyWheelRewardSetID": 313,
-      "rewardIDs": "1279,777,778"
-    },
-    {
-      "luckyWheelRewardSetID": 314,
-      "rewardIDs": "1279,778,777"
-    },
-    {
-      "luckyWheelRewardSetID": 315,
-      "rewardIDs": "1279,1242,778"
-    },
-    {
-      "luckyWheelRewardSetID": 316,
-      "rewardIDs": "1279,1284,778"
-    },
-    {
-      "luckyWheelRewardSetID": 317,
-      "rewardIDs": "1280,1279,1284"
-    },
-    {
-      "luckyWheelRewardSetID": 318,
-      "rewardIDs": "1280,1279,1284"
-    },
-    {
-      "luckyWheelRewardSetID": 319,
-      "rewardIDs": "1280,1279,1284"
-    },
-    {
-      "luckyWheelRewardSetID": 320,
-      "rewardIDs": "1281,1285,1282"
-    },
-    {
-      "luckyWheelRewardSetID": 321,
-      "rewardIDs": "777,1286,1285"
-    },
-    {
-      "luckyWheelRewardSetID": 322,
-      "rewardIDs": "777,1282,1285"
-    },
-    {
-      "luckyWheelRewardSetID": 323,
-      "rewardIDs": "777,1253,1285"
-    },
-    {
-      "luckyWheelRewardSetID": 324,
-      "rewardIDs": "777,1253,1288"
-    },
-    {
-      "luckyWheelRewardSetID": 325,
-      "rewardIDs": "778,1263,1288"
-    },
-    {
-      "luckyWheelRewardSetID": 326,
-      "rewardIDs": "778,1263,1288"
-    },
-    {
-      "luckyWheelRewardSetID": 327,
-      "rewardIDs": "778,1273,1282"
-    },
-    {
-      "luckyWheelRewardSetID": 328,
-      "rewardIDs": "778,1273,1282"
-    },
-    {
-      "luckyWheelRewardSetID": 329,
-      "rewardIDs": "1242,1283,779"
-    },
-    {
-      "luckyWheelRewardSetID": 330,
-      "rewardIDs": "1242,1283,779"
-    },
-    {
-      "luckyWheelRewardSetID": 331,
-      "rewardIDs": "1284,779,1283"
-    },
-    {
-      "luckyWheelRewardSetID": 332,
-      "rewardIDs": "1285,779,1283"
-    },
-    {
-      "luckyWheelRewardSetID": 333,
-      "rewardIDs": "1286,978,988"
-    },
-    {
-      "luckyWheelRewardSetID": 334,
-      "rewardIDs": "1286,978,988"
-    },
-    {
-      "luckyWheelRewardSetID": 335,
-      "rewardIDs": "1287,988,998"
-    },
-    {
-      "luckyWheelRewardSetID": 336,
-      "rewardIDs": "1287,988,998"
-    },
-    {
-      "luckyWheelRewardSetID": 337,
-      "rewardIDs": "1287,998,1243"
-    },
-    {
-      "luckyWheelRewardSetID": 338,
-      "rewardIDs": "1287,998,1243"
-    },
-    {
-      "luckyWheelRewardSetID": 339,
-      "rewardIDs": "1288,1243,978"
-    },
-    {
-      "luckyWheelRewardSetID": 340,
-      "rewardIDs": "1288,1243,978"
-    }
-  ]
-}
+[
+  {
+    "luckyWheelRewardSetID": 1,
+    "rewardIDs": "3592,3594,3595"
+  },
+  {
+    "luckyWheelRewardSetID": 2,
+    "rewardIDs": "3592,3594,3588"
+  },
+  {
+    "luckyWheelRewardSetID": 3,
+    "rewardIDs": "3593,3592,3590"
+  },
+  {
+    "luckyWheelRewardSetID": 4,
+    "rewardIDs": "3594,3595,3590"
+  },
+  {
+    "luckyWheelRewardSetID": 5,
+    "rewardIDs": "3594,3596,3591"
+  },
+  {
+    "luckyWheelRewardSetID": 6,
+    "rewardIDs": "3595,3587,3591"
+  },
+  {
+    "luckyWheelRewardSetID": 7,
+    "rewardIDs": "3596,3588,3597"
+  },
+  {
+    "luckyWheelRewardSetID": 8,
+    "rewardIDs": "3596,3590,3597"
+  },
+  {
+    "luckyWheelRewardSetID": 9,
+    "rewardIDs": "3596,3591,3589"
+  },
+  {
+    "luckyWheelRewardSetID": 10,
+    "rewardIDs": "3596,3597,3589"
+  },
+  {
+    "luckyWheelRewardSetID": 11,
+    "rewardIDs": "3592,3594,3595"
+  },
+  {
+    "luckyWheelRewardSetID": 12,
+    "rewardIDs": "3592,3595,3594"
+  },
+  {
+    "luckyWheelRewardSetID": 13,
+    "rewardIDs": "3593,3592,3598"
+  },
+  {
+    "luckyWheelRewardSetID": 14,
+    "rewardIDs": "3594,3603,3604"
+  },
+  {
+    "luckyWheelRewardSetID": 15,
+    "rewardIDs": "3594,3598,3599"
+  },
+  {
+    "luckyWheelRewardSetID": 16,
+    "rewardIDs": "3595,3601,3599"
+  },
+  {
+    "luckyWheelRewardSetID": 17,
+    "rewardIDs": "3603,3601,3589"
+  },
+  {
+    "luckyWheelRewardSetID": 18,
+    "rewardIDs": "3603,3602,3589"
+  },
+  {
+    "luckyWheelRewardSetID": 19,
+    "rewardIDs": "3603,3602,3600"
+  },
+  {
+    "luckyWheelRewardSetID": 20,
+    "rewardIDs": "3603,3604,3600"
+  },
+  {
+    "luckyWheelRewardSetID": 21,
+    "rewardIDs": "3605,3608,3609"
+  },
+  {
+    "luckyWheelRewardSetID": 22,
+    "rewardIDs": "3608,3609,3605"
+  },
+  {
+    "luckyWheelRewardSetID": 23,
+    "rewardIDs": "3609,3593,3605"
+  },
+  {
+    "luckyWheelRewardSetID": 24,
+    "rewardIDs": "3592,3613,3608"
+  },
+  {
+    "luckyWheelRewardSetID": 25,
+    "rewardIDs": "3592,3613,3593"
+  },
+  {
+    "luckyWheelRewardSetID": 26,
+    "rewardIDs": "3592,3613,3610"
+  },
+  {
+    "luckyWheelRewardSetID": 27,
+    "rewardIDs": "3592,3613,3610"
+  },
+  {
+    "luckyWheelRewardSetID": 28,
+    "rewardIDs": "3592,3613,3610"
+  },
+  {
+    "luckyWheelRewardSetID": 29,
+    "rewardIDs": "3593,3613,3610"
+  },
+  {
+    "luckyWheelRewardSetID": 30,
+    "rewardIDs": "3610,3613,3612"
+  },
+  {
+    "luckyWheelRewardSetID": 31,
+    "rewardIDs": "3610,3613,3612"
+  },
+  {
+    "luckyWheelRewardSetID": 32,
+    "rewardIDs": "3610,3613,3614"
+  },
+  {
+    "luckyWheelRewardSetID": 33,
+    "rewardIDs": "3610,3613,3614"
+  },
+  {
+    "luckyWheelRewardSetID": 34,
+    "rewardIDs": "3610,3613,3614"
+  },
+  {
+    "luckyWheelRewardSetID": 35,
+    "rewardIDs": "3612,3613,3614"
+  },
+  {
+    "luckyWheelRewardSetID": 36,
+    "rewardIDs": "3612,3613,3607"
+  },
+  {
+    "luckyWheelRewardSetID": 37,
+    "rewardIDs": "3612,3613,3600"
+  },
+  {
+    "luckyWheelRewardSetID": 38,
+    "rewardIDs": "3614,3589,3606"
+  },
+  {
+    "luckyWheelRewardSetID": 39,
+    "rewardIDs": "3613,3600,3589"
+  },
+  {
+    "luckyWheelRewardSetID": 40,
+    "rewardIDs": "3613,3607,3606"
+  },
+  {
+    "luckyWheelRewardSetID": 41,
+    "rewardIDs": "3617,3592,3618"
+  },
+  {
+    "luckyWheelRewardSetID": 42,
+    "rewardIDs": "3618,3617,3593"
+  },
+  {
+    "luckyWheelRewardSetID": 43,
+    "rewardIDs": "3592,3618,3617"
+  },
+  {
+    "luckyWheelRewardSetID": 44,
+    "rewardIDs": "3592,3593,3610"
+  },
+  {
+    "luckyWheelRewardSetID": 45,
+    "rewardIDs": "3592,3610,3612"
+  },
+  {
+    "luckyWheelRewardSetID": 46,
+    "rewardIDs": "3592,3610,3612"
+  },
+  {
+    "luckyWheelRewardSetID": 47,
+    "rewardIDs": "3593,3592,3619"
+  },
+  {
+    "luckyWheelRewardSetID": 48,
+    "rewardIDs": "3610,3612,3620"
+  },
+  {
+    "luckyWheelRewardSetID": 49,
+    "rewardIDs": "3610,3612,3611"
+  },
+  {
+    "luckyWheelRewardSetID": 50,
+    "rewardIDs": "3610,3619,3611"
+  },
+  {
+    "luckyWheelRewardSetID": 51,
+    "rewardIDs": "3610,3619,3611"
+  },
+  {
+    "luckyWheelRewardSetID": 52,
+    "rewardIDs": "3612,3619,3610"
+  },
+  {
+    "luckyWheelRewardSetID": 53,
+    "rewardIDs": "3612,3619,3610"
+  },
+  {
+    "luckyWheelRewardSetID": 54,
+    "rewardIDs": "3619,3620,3610"
+  },
+  {
+    "luckyWheelRewardSetID": 55,
+    "rewardIDs": "3619,3616,3615"
+  },
+  {
+    "luckyWheelRewardSetID": 56,
+    "rewardIDs": "3619,3611,3615"
+  },
+  {
+    "luckyWheelRewardSetID": 57,
+    "rewardIDs": "3619,3589,3600"
+  },
+  {
+    "luckyWheelRewardSetID": 58,
+    "rewardIDs": "3619,3600,3589"
+  },
+  {
+    "luckyWheelRewardSetID": 59,
+    "rewardIDs": "3619,3607,3616"
+  },
+  {
+    "luckyWheelRewardSetID": 60,
+    "rewardIDs": "3620,3619,3607"
+  },
+  {
+    "luckyWheelRewardSetID": 61,
+    "rewardIDs": "3624,3593,3626"
+  },
+  {
+    "luckyWheelRewardSetID": 62,
+    "rewardIDs": "3625,3624,3625"
+  },
+  {
+    "luckyWheelRewardSetID": 63,
+    "rewardIDs": "3592,3625,3624"
+  },
+  {
+    "luckyWheelRewardSetID": 64,
+    "rewardIDs": "3592,3612,3593"
+  },
+  {
+    "luckyWheelRewardSetID": 65,
+    "rewardIDs": "3592,3612,3610"
+  },
+  {
+    "luckyWheelRewardSetID": 66,
+    "rewardIDs": "3592,3612,3610"
+  },
+  {
+    "luckyWheelRewardSetID": 67,
+    "rewardIDs": "3592,3626,3612"
+  },
+  {
+    "luckyWheelRewardSetID": 68,
+    "rewardIDs": "3593,3626,3612"
+  },
+  {
+    "luckyWheelRewardSetID": 69,
+    "rewardIDs": "3610,3626,3612"
+  },
+  {
+    "luckyWheelRewardSetID": 70,
+    "rewardIDs": "3610,3626,3627"
+  },
+  {
+    "luckyWheelRewardSetID": 71,
+    "rewardIDs": "3610,3626,3589"
+  },
+  {
+    "luckyWheelRewardSetID": 72,
+    "rewardIDs": "3610,3626,3600"
+  },
+  {
+    "luckyWheelRewardSetID": 73,
+    "rewardIDs": "3610,3627,3626"
+  },
+  {
+    "luckyWheelRewardSetID": 74,
+    "rewardIDs": "3612,3621,3626"
+  },
+  {
+    "luckyWheelRewardSetID": 75,
+    "rewardIDs": "3626,3621,3607"
+  },
+  {
+    "luckyWheelRewardSetID": 76,
+    "rewardIDs": "3626,3589,3616"
+  },
+  {
+    "luckyWheelRewardSetID": 77,
+    "rewardIDs": "3626,3600,3622"
+  },
+  {
+    "luckyWheelRewardSetID": 78,
+    "rewardIDs": "3626,3607,3622"
+  },
+  {
+    "luckyWheelRewardSetID": 79,
+    "rewardIDs": "3626,3616,3623"
+  },
+  {
+    "luckyWheelRewardSetID": 80,
+    "rewardIDs": "3627,3623,3626"
+  },
+  {
+    "luckyWheelRewardSetID": 81,
+    "rewardIDs": "3631,3632,3634"
+  },
+  {
+    "luckyWheelRewardSetID": 82,
+    "rewardIDs": "3632,3631,3634"
+  },
+  {
+    "luckyWheelRewardSetID": 83,
+    "rewardIDs": "3592,3635,3631"
+  },
+  {
+    "luckyWheelRewardSetID": 84,
+    "rewardIDs": "3592,3635,3636"
+  },
+  {
+    "luckyWheelRewardSetID": 85,
+    "rewardIDs": "3592,3637,3636"
+  },
+  {
+    "luckyWheelRewardSetID": 86,
+    "rewardIDs": "3592,3628,3636"
+  },
+  {
+    "luckyWheelRewardSetID": 87,
+    "rewardIDs": "3592,3628,3636"
+  },
+  {
+    "luckyWheelRewardSetID": 88,
+    "rewardIDs": "3634,3589,3636"
+  },
+  {
+    "luckyWheelRewardSetID": 89,
+    "rewardIDs": "3634,3600,3636"
+  },
+  {
+    "luckyWheelRewardSetID": 90,
+    "rewardIDs": "3634,3607,3636"
+  },
+  {
+    "luckyWheelRewardSetID": 91,
+    "rewardIDs": "3634,3636,3632"
+  },
+  {
+    "luckyWheelRewardSetID": 92,
+    "rewardIDs": "3634,3636,3637"
+  },
+  {
+    "luckyWheelRewardSetID": 93,
+    "rewardIDs": "3635,3636,3589"
+  },
+  {
+    "luckyWheelRewardSetID": 94,
+    "rewardIDs": "3635,3636,3600"
+  },
+  {
+    "luckyWheelRewardSetID": 95,
+    "rewardIDs": "3636,3616,3607"
+  },
+  {
+    "luckyWheelRewardSetID": 96,
+    "rewardIDs": "3636,3623,3616"
+  },
+  {
+    "luckyWheelRewardSetID": 97,
+    "rewardIDs": "3636,3630,3623"
+  },
+  {
+    "luckyWheelRewardSetID": 98,
+    "rewardIDs": "3636,3633,3630"
+  },
+  {
+    "luckyWheelRewardSetID": 99,
+    "rewardIDs": "3636,3633,3629"
+  },
+  {
+    "luckyWheelRewardSetID": 100,
+    "rewardIDs": "3637,3636,3629"
+  },
+  {
+    "luckyWheelRewardSetID": 101,
+    "rewardIDs": "3638,3641,3642"
+  },
+  {
+    "luckyWheelRewardSetID": 102,
+    "rewardIDs": "3641,3642,3592"
+  },
+  {
+    "luckyWheelRewardSetID": 103,
+    "rewardIDs": "3642,3592,3641"
+  },
+  {
+    "luckyWheelRewardSetID": 104,
+    "rewardIDs": "3592,3828,3830"
+  },
+  {
+    "luckyWheelRewardSetID": 105,
+    "rewardIDs": "3592,3828,3831"
+  },
+  {
+    "luckyWheelRewardSetID": 106,
+    "rewardIDs": "3592,3830,3828"
+  },
+  {
+    "luckyWheelRewardSetID": 107,
+    "rewardIDs": "3644,3830,3592"
+  },
+  {
+    "luckyWheelRewardSetID": 108,
+    "rewardIDs": "3828,3830,3592"
+  },
+  {
+    "luckyWheelRewardSetID": 109,
+    "rewardIDs": "3828,3830,3589"
+  },
+  {
+    "luckyWheelRewardSetID": 110,
+    "rewardIDs": "3828,3830,3600"
+  },
+  {
+    "luckyWheelRewardSetID": 111,
+    "rewardIDs": "3828,3830,3607"
+  },
+  {
+    "luckyWheelRewardSetID": 112,
+    "rewardIDs": "3829,3830,3828"
+  },
+  {
+    "luckyWheelRewardSetID": 113,
+    "rewardIDs": "3829,3831,3616"
+  },
+  {
+    "luckyWheelRewardSetID": 114,
+    "rewardIDs": "3829,3589,3623"
+  },
+  {
+    "luckyWheelRewardSetID": 115,
+    "rewardIDs": "3830,3600,3630"
+  },
+  {
+    "luckyWheelRewardSetID": 116,
+    "rewardIDs": "3830,3607,3640"
+  },
+  {
+    "luckyWheelRewardSetID": 117,
+    "rewardIDs": "3830,3616,3639"
+  },
+  {
+    "luckyWheelRewardSetID": 118,
+    "rewardIDs": "3830,3623,3639"
+  },
+  {
+    "luckyWheelRewardSetID": 119,
+    "rewardIDs": "3830,3630,3643"
+  },
+  {
+    "luckyWheelRewardSetID": 120,
+    "rewardIDs": "3831,3640,3643"
+  },
+  {
+    "luckyWheelRewardSetID": 121,
+    "rewardIDs": "3832,3835,3836"
+  },
+  {
+    "luckyWheelRewardSetID": 122,
+    "rewardIDs": "3835,3836,3592"
+  },
+  {
+    "luckyWheelRewardSetID": 123,
+    "rewardIDs": "3836,3838,3835"
+  },
+  {
+    "luckyWheelRewardSetID": 124,
+    "rewardIDs": "3592,3838,3840"
+  },
+  {
+    "luckyWheelRewardSetID": 125,
+    "rewardIDs": "3592,3839,3838"
+  },
+  {
+    "luckyWheelRewardSetID": 126,
+    "rewardIDs": "3592,3839,3838"
+  },
+  {
+    "luckyWheelRewardSetID": 127,
+    "rewardIDs": "3837,3840,3592"
+  },
+  {
+    "luckyWheelRewardSetID": 128,
+    "rewardIDs": "3838,3840,3841"
+  },
+  {
+    "luckyWheelRewardSetID": 129,
+    "rewardIDs": "3838,3840,3589"
+  },
+  {
+    "luckyWheelRewardSetID": 130,
+    "rewardIDs": "3838,3840,3600"
+  },
+  {
+    "luckyWheelRewardSetID": 131,
+    "rewardIDs": "3838,3840,3607"
+  },
+  {
+    "luckyWheelRewardSetID": 132,
+    "rewardIDs": "3839,3841,3616"
+  },
+  {
+    "luckyWheelRewardSetID": 133,
+    "rewardIDs": "3839,3589,3623"
+  },
+  {
+    "luckyWheelRewardSetID": 134,
+    "rewardIDs": "3840,3600,3630"
+  },
+  {
+    "luckyWheelRewardSetID": 135,
+    "rewardIDs": "3840,3607,3640"
+  },
+  {
+    "luckyWheelRewardSetID": 136,
+    "rewardIDs": "3840,3616,3834"
+  },
+  {
+    "luckyWheelRewardSetID": 137,
+    "rewardIDs": "3840,3623,3833"
+  },
+  {
+    "luckyWheelRewardSetID": 138,
+    "rewardIDs": "3840,3630,3833"
+  },
+  {
+    "luckyWheelRewardSetID": 139,
+    "rewardIDs": "3840,3640,3643"
+  },
+  {
+    "luckyWheelRewardSetID": 140,
+    "rewardIDs": "3841,3834,3643"
+  },
+  {
+    "luckyWheelRewardSetID": 141,
+    "rewardIDs": "661,777,971"
+  },
+  {
+    "luckyWheelRewardSetID": 142,
+    "rewardIDs": "661,778,971"
+  },
+  {
+    "luckyWheelRewardSetID": 143,
+    "rewardIDs": "777,661,973"
+  },
+  {
+    "luckyWheelRewardSetID": 144,
+    "rewardIDs": "777,661,973"
+  },
+  {
+    "luckyWheelRewardSetID": 145,
+    "rewardIDs": "778,972,662"
+  },
+  {
+    "luckyWheelRewardSetID": 146,
+    "rewardIDs": "778,662,663"
+  },
+  {
+    "luckyWheelRewardSetID": 147,
+    "rewardIDs": "971,663,662"
+  },
+  {
+    "luckyWheelRewardSetID": 148,
+    "rewardIDs": "972,779,780"
+  },
+  {
+    "luckyWheelRewardSetID": 149,
+    "rewardIDs": "972,780,781"
+  },
+  {
+    "luckyWheelRewardSetID": 150,
+    "rewardIDs": "973,781,776"
+  },
+  {
+    "luckyWheelRewardSetID": 151,
+    "rewardIDs": "974,777,981"
+  },
+  {
+    "luckyWheelRewardSetID": 152,
+    "rewardIDs": "974,778,981"
+  },
+  {
+    "luckyWheelRewardSetID": 153,
+    "rewardIDs": "777,974,982"
+  },
+  {
+    "luckyWheelRewardSetID": 154,
+    "rewardIDs": "777,974,982"
+  },
+  {
+    "luckyWheelRewardSetID": 155,
+    "rewardIDs": "778,975,983"
+  },
+  {
+    "luckyWheelRewardSetID": 156,
+    "rewardIDs": "778,976,983"
+  },
+  {
+    "luckyWheelRewardSetID": 157,
+    "rewardIDs": "981,779,975"
+  },
+  {
+    "luckyWheelRewardSetID": 158,
+    "rewardIDs": "982,978,979"
+  },
+  {
+    "luckyWheelRewardSetID": 159,
+    "rewardIDs": "982,979,980"
+  },
+  {
+    "luckyWheelRewardSetID": 160,
+    "rewardIDs": "983,980,977"
+  },
+  {
+    "luckyWheelRewardSetID": 161,
+    "rewardIDs": "984,985,777"
+  },
+  {
+    "luckyWheelRewardSetID": 162,
+    "rewardIDs": "984,985,777"
+  },
+  {
+    "luckyWheelRewardSetID": 163,
+    "rewardIDs": "777,984,778"
+  },
+  {
+    "luckyWheelRewardSetID": 164,
+    "rewardIDs": "777,984,991"
+  },
+  {
+    "luckyWheelRewardSetID": 165,
+    "rewardIDs": "778,986,992"
+  },
+  {
+    "luckyWheelRewardSetID": 166,
+    "rewardIDs": "778,779,993"
+  },
+  {
+    "luckyWheelRewardSetID": 167,
+    "rewardIDs": "991,978,986"
+  },
+  {
+    "luckyWheelRewardSetID": 168,
+    "rewardIDs": "992,988,989"
+  },
+  {
+    "luckyWheelRewardSetID": 169,
+    "rewardIDs": "992,989,990"
+  },
+  {
+    "luckyWheelRewardSetID": 170,
+    "rewardIDs": "993,990,987"
+  },
+  {
+    "luckyWheelRewardSetID": 171,
+    "rewardIDs": "994,995,777"
+  },
+  {
+    "luckyWheelRewardSetID": 172,
+    "rewardIDs": "994,995,778"
+  },
+  {
+    "luckyWheelRewardSetID": 173,
+    "rewardIDs": "777,994,1125"
+  },
+  {
+    "luckyWheelRewardSetID": 174,
+    "rewardIDs": "777,996,994"
+  },
+  {
+    "luckyWheelRewardSetID": 175,
+    "rewardIDs": "778,779,994"
+  },
+  {
+    "luckyWheelRewardSetID": 176,
+    "rewardIDs": "778,978,994"
+  },
+  {
+    "luckyWheelRewardSetID": 177,
+    "rewardIDs": "1125,988,1127"
+  },
+  {
+    "luckyWheelRewardSetID": 178,
+    "rewardIDs": "1126,998,996"
+  },
+  {
+    "luckyWheelRewardSetID": 179,
+    "rewardIDs": "1126,999,997"
+  },
+  {
+    "luckyWheelRewardSetID": 180,
+    "rewardIDs": "1127,1124,999"
+  },
+  {
+    "luckyWheelRewardSetID": 181,
+    "rewardIDs": "1128,1176,1246"
+  },
+  {
+    "luckyWheelRewardSetID": 182,
+    "rewardIDs": "1128,1343,1176"
+  },
+  {
+    "luckyWheelRewardSetID": 183,
+    "rewardIDs": "777,1242,1128"
+  },
+  {
+    "luckyWheelRewardSetID": 184,
+    "rewardIDs": "777,779,1128"
+  },
+  {
+    "luckyWheelRewardSetID": 185,
+    "rewardIDs": "778,978,1128"
+  },
+  {
+    "luckyWheelRewardSetID": 186,
+    "rewardIDs": "778,988,1128"
+  },
+  {
+    "luckyWheelRewardSetID": 187,
+    "rewardIDs": "1246,998,1176"
+  },
+  {
+    "luckyWheelRewardSetID": 188,
+    "rewardIDs": "1247,1243,1176"
+  },
+  {
+    "luckyWheelRewardSetID": 189,
+    "rewardIDs": "1247,1244,1242"
+  },
+  {
+    "luckyWheelRewardSetID": 190,
+    "rewardIDs": "1248,1245,1241"
+  },
+  {
+    "luckyWheelRewardSetID": 201,
+    "rewardIDs": "1249,1251,1257"
+  },
+  {
+    "luckyWheelRewardSetID": 202,
+    "rewardIDs": "1249,1242,1257"
+  },
+  {
+    "luckyWheelRewardSetID": 203,
+    "rewardIDs": "1250,1249,1257"
+  },
+  {
+    "luckyWheelRewardSetID": 204,
+    "rewardIDs": "777,779,1249"
+  },
+  {
+    "luckyWheelRewardSetID": 205,
+    "rewardIDs": "777,978,1257"
+  },
+  {
+    "luckyWheelRewardSetID": 206,
+    "rewardIDs": "778,988,1242"
+  },
+  {
+    "luckyWheelRewardSetID": 207,
+    "rewardIDs": "778,998,1254"
+  },
+  {
+    "luckyWheelRewardSetID": 208,
+    "rewardIDs": "1256,1243,1252"
+  },
+  {
+    "luckyWheelRewardSetID": 209,
+    "rewardIDs": "1257,1254,1253"
+  },
+  {
+    "luckyWheelRewardSetID": 210,
+    "rewardIDs": "1258,1255,1253"
+  },
+  {
+    "luckyWheelRewardSetID": 221,
+    "rewardIDs": "1259,777,1242"
+  },
+  {
+    "luckyWheelRewardSetID": 222,
+    "rewardIDs": "1259,778,1267"
+  },
+  {
+    "luckyWheelRewardSetID": 223,
+    "rewardIDs": "1260,1261,1267"
+  },
+  {
+    "luckyWheelRewardSetID": 224,
+    "rewardIDs": "777,779,1264"
+  },
+  {
+    "luckyWheelRewardSetID": 225,
+    "rewardIDs": "778,978,1265"
+  },
+  {
+    "luckyWheelRewardSetID": 226,
+    "rewardIDs": "1242,988,1262"
+  },
+  {
+    "luckyWheelRewardSetID": 227,
+    "rewardIDs": "1266,998,1253"
+  },
+  {
+    "luckyWheelRewardSetID": 228,
+    "rewardIDs": "1267,1243,1253"
+  },
+  {
+    "luckyWheelRewardSetID": 229,
+    "rewardIDs": "1267,1264,1263"
+  },
+  {
+    "luckyWheelRewardSetID": 230,
+    "rewardIDs": "1268,1265,1263"
+  },
+  {
+    "luckyWheelRewardSetID": 251,
+    "rewardIDs": "1269,777,1271"
+  },
+  {
+    "luckyWheelRewardSetID": 252,
+    "rewardIDs": "1269,1271,1274"
+  },
+  {
+    "luckyWheelRewardSetID": 253,
+    "rewardIDs": "1269,1242,1275"
+  },
+  {
+    "luckyWheelRewardSetID": 254,
+    "rewardIDs": "1270,779,1272"
+  },
+  {
+    "luckyWheelRewardSetID": 255,
+    "rewardIDs": "777,978,1253"
+  },
+  {
+    "luckyWheelRewardSetID": 256,
+    "rewardIDs": "778,988,1253"
+  },
+  {
+    "luckyWheelRewardSetID": 257,
+    "rewardIDs": "1276,998,1263"
+  },
+  {
+    "luckyWheelRewardSetID": 258,
+    "rewardIDs": "1277,1243,1263"
+  },
+  {
+    "luckyWheelRewardSetID": 259,
+    "rewardIDs": "1277,1274,1273"
+  },
+  {
+    "luckyWheelRewardSetID": 260,
+    "rewardIDs": "1278,1275,1273"
+  },
+  {
+    "luckyWheelRewardSetID": 281,
+    "rewardIDs": "3842,3845,3846"
+  },
+  {
+    "luckyWheelRewardSetID": 282,
+    "rewardIDs": "3845,3846,3848"
+  },
+  {
+    "luckyWheelRewardSetID": 283,
+    "rewardIDs": "3846,3848,3845"
+  },
+  {
+    "luckyWheelRewardSetID": 284,
+    "rewardIDs": "3592,3850,3848"
+  },
+  {
+    "luckyWheelRewardSetID": 285,
+    "rewardIDs": "3592,3850,3848"
+  },
+  {
+    "luckyWheelRewardSetID": 286,
+    "rewardIDs": "3592,3850,3851"
+  },
+  {
+    "luckyWheelRewardSetID": 287,
+    "rewardIDs": "3847,3850,3589"
+  },
+  {
+    "luckyWheelRewardSetID": 288,
+    "rewardIDs": "3848,3850,3600"
+  },
+  {
+    "luckyWheelRewardSetID": 289,
+    "rewardIDs": "3848,3850,3607"
+  },
+  {
+    "luckyWheelRewardSetID": 290,
+    "rewardIDs": "3848,3851,3850"
+  },
+  {
+    "luckyWheelRewardSetID": 291,
+    "rewardIDs": "3848,3589,3850"
+  },
+  {
+    "luckyWheelRewardSetID": 292,
+    "rewardIDs": "3849,3600,3616"
+  },
+  {
+    "luckyWheelRewardSetID": 293,
+    "rewardIDs": "3849,3607,3623"
+  },
+  {
+    "luckyWheelRewardSetID": 294,
+    "rewardIDs": "3849,3616,3630"
+  },
+  {
+    "luckyWheelRewardSetID": 295,
+    "rewardIDs": "3850,3623,3640"
+  },
+  {
+    "luckyWheelRewardSetID": 296,
+    "rewardIDs": "3850,3630,3834"
+  },
+  {
+    "luckyWheelRewardSetID": 297,
+    "rewardIDs": "3850,3640,3844"
+  },
+  {
+    "luckyWheelRewardSetID": 298,
+    "rewardIDs": "3850,3834,3643"
+  },
+  {
+    "luckyWheelRewardSetID": 299,
+    "rewardIDs": "3850,3844,3843"
+  },
+  {
+    "luckyWheelRewardSetID": 300,
+    "rewardIDs": "3851,3643,3843"
+  },
+  {
+    "luckyWheelRewardSetID": 311,
+    "rewardIDs": "1279,1281,777"
+  },
+  {
+    "luckyWheelRewardSetID": 312,
+    "rewardIDs": "1279,1281,777"
+  },
+  {
+    "luckyWheelRewardSetID": 313,
+    "rewardIDs": "1279,777,778"
+  },
+  {
+    "luckyWheelRewardSetID": 314,
+    "rewardIDs": "1279,778,777"
+  },
+  {
+    "luckyWheelRewardSetID": 315,
+    "rewardIDs": "1279,1242,778"
+  },
+  {
+    "luckyWheelRewardSetID": 316,
+    "rewardIDs": "1279,1284,778"
+  },
+  {
+    "luckyWheelRewardSetID": 317,
+    "rewardIDs": "1280,1279,1284"
+  },
+  {
+    "luckyWheelRewardSetID": 318,
+    "rewardIDs": "1280,1279,1284"
+  },
+  {
+    "luckyWheelRewardSetID": 319,
+    "rewardIDs": "1280,1279,1284"
+  },
+  {
+    "luckyWheelRewardSetID": 320,
+    "rewardIDs": "1281,1285,1282"
+  },
+  {
+    "luckyWheelRewardSetID": 321,
+    "rewardIDs": "777,1286,1285"
+  },
+  {
+    "luckyWheelRewardSetID": 322,
+    "rewardIDs": "777,1282,1285"
+  },
+  {
+    "luckyWheelRewardSetID": 323,
+    "rewardIDs": "777,1253,1285"
+  },
+  {
+    "luckyWheelRewardSetID": 324,
+    "rewardIDs": "777,1253,1288"
+  },
+  {
+    "luckyWheelRewardSetID": 325,
+    "rewardIDs": "778,1263,1288"
+  },
+  {
+    "luckyWheelRewardSetID": 326,
+    "rewardIDs": "778,1263,1288"
+  },
+  {
+    "luckyWheelRewardSetID": 327,
+    "rewardIDs": "778,1273,1282"
+  },
+  {
+    "luckyWheelRewardSetID": 328,
+    "rewardIDs": "778,1273,1282"
+  },
+  {
+    "luckyWheelRewardSetID": 329,
+    "rewardIDs": "1242,1283,779"
+  },
+  {
+    "luckyWheelRewardSetID": 330,
+    "rewardIDs": "1242,1283,779"
+  },
+  {
+    "luckyWheelRewardSetID": 331,
+    "rewardIDs": "1284,779,1283"
+  },
+  {
+    "luckyWheelRewardSetID": 332,
+    "rewardIDs": "1285,779,1283"
+  },
+  {
+    "luckyWheelRewardSetID": 333,
+    "rewardIDs": "1286,978,988"
+  },
+  {
+    "luckyWheelRewardSetID": 334,
+    "rewardIDs": "1286,978,988"
+  },
+  {
+    "luckyWheelRewardSetID": 335,
+    "rewardIDs": "1287,988,998"
+  },
+  {
+    "luckyWheelRewardSetID": 336,
+    "rewardIDs": "1287,988,998"
+  },
+  {
+    "luckyWheelRewardSetID": 337,
+    "rewardIDs": "1287,998,1243"
+  },
+  {
+    "luckyWheelRewardSetID": 338,
+    "rewardIDs": "1287,998,1243"
+  },
+  {
+    "luckyWheelRewardSetID": 339,
+    "rewardIDs": "1288,1243,978"
+  },
+  {
+    "luckyWheelRewardSetID": 340,
+    "rewardIDs": "1288,1243,978"
+  }
+]

@@ -1,32 +1,30 @@
-{
-  "beginner_loginreward": [
-    {
-      "beginnerLoginRewardID": 1,
-      "rewardID": 1
-    },
-    {
-      "beginnerLoginRewardID": 2,
-      "rewardID": 2
-    },
-    {
-      "beginnerLoginRewardID": 3,
-      "rewardID": 3
-    },
-    {
-      "beginnerLoginRewardID": 4,
-      "rewardID": 4
-    },
-    {
-      "beginnerLoginRewardID": 5,
-      "rewardID": 5
-    },
-    {
-      "beginnerLoginRewardID": 6,
-      "rewardID": 6
-    },
-    {
-      "beginnerLoginRewardID": 7,
-      "rewardID": 7
-    }
-  ]
-}
+[
+  {
+    "beginnerLoginRewardID": 1,
+    "rewardID": 1
+  },
+  {
+    "beginnerLoginRewardID": 2,
+    "rewardID": 2
+  },
+  {
+    "beginnerLoginRewardID": 3,
+    "rewardID": 3
+  },
+  {
+    "beginnerLoginRewardID": 4,
+    "rewardID": 4
+  },
+  {
+    "beginnerLoginRewardID": 5,
+    "rewardID": 5
+  },
+  {
+    "beginnerLoginRewardID": 6,
+    "rewardID": 6
+  },
+  {
+    "beginnerLoginRewardID": 7,
+    "rewardID": 7
+  }
+]

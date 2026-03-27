@@ -1,160 +1,158 @@
-{
-  "randomgroup": [
-    {
-      "randomGroupEntryID": 1,
-      "groupType": "randomGroup1",
-      "probability": 50,
-      "wodID": "672+11"
-    },
-    {
-      "randomGroupEntryID": 2,
-      "groupType": "randomGroup1",
-      "probability": 50,
-      "wodID": "655+10"
-    },
-    {
-      "randomGroupEntryID": 3,
-      "groupType": "randomGroup2",
-      "probability": 50,
-      "wodID": "714+10"
-    },
-    {
-      "randomGroupEntryID": 4,
-      "groupType": "randomGroup2",
-      "probability": 50,
-      "wodID": "655+13"
-    },
-    {
-      "randomGroupEntryID": 5,
-      "groupType": "randomGroup3",
-      "probability": 33,
-      "wodID": "753+12"
-    },
-    {
-      "randomGroupEntryID": 6,
-      "groupType": "randomGroup3",
-      "probability": 33,
-      "wodID": "78+10"
-    },
-    {
-      "randomGroupEntryID": 7,
-      "groupType": "randomGroup3",
-      "probability": 34,
-      "wodID": "759+13"
-    },
-    {
-      "randomGroupEntryID": 8,
-      "groupType": "randomGroup4",
-      "probability": 50,
-      "wodID": "664+11"
-    },
-    {
-      "randomGroupEntryID": 9,
-      "groupType": "randomGroup4",
-      "probability": 50,
-      "wodID": "656+10"
-    },
-    {
-      "randomGroupEntryID": 10,
-      "groupType": "randomGroup5",
-      "probability": 50,
-      "wodID": "715+10"
-    },
-    {
-      "randomGroupEntryID": 11,
-      "groupType": "randomGroup5",
-      "probability": 50,
-      "wodID": "656+12"
-    },
-    {
-      "randomGroupEntryID": 12,
-      "groupType": "randomGroup6",
-      "probability": 33,
-      "wodID": "754+13"
-    },
-    {
-      "randomGroupEntryID": 13,
-      "groupType": "randomGroup6",
-      "probability": 33,
-      "wodID": "79+10"
-    },
-    {
-      "randomGroupEntryID": 14,
-      "groupType": "randomGroup6",
-      "probability": 34,
-      "wodID": "760+14"
-    },
-    {
-      "randomGroupEntryID": 15,
-      "groupType": "randomGroup7",
-      "probability": 50,
-      "wodID": "723+10"
-    },
-    {
-      "randomGroupEntryID": 16,
-      "groupType": "randomGroup7",
-      "probability": 50,
-      "wodID": "729+12"
-    },
-    {
-      "randomGroupEntryID": 17,
-      "groupType": "randomGroup8",
-      "probability": 50,
-      "wodID": "728+11"
-    },
-    {
-      "randomGroupEntryID": 18,
-      "groupType": "randomGroup8",
-      "probability": 50,
-      "wodID": "722+10"
-    },
-    {
-      "randomGroupEntryID": 19,
-      "groupType": "randomGroup9",
-      "probability": 20,
-      "wodID": "648+1"
-    },
-    {
-      "randomGroupEntryID": 20,
-      "groupType": "randomGroup9",
-      "probability": 20,
-      "wodID": "649+1"
-    },
-    {
-      "randomGroupEntryID": 21,
-      "groupType": "randomGroup9",
-      "probability": 20,
-      "wodID": "651+1"
-    },
-    {
-      "randomGroupEntryID": 22,
-      "groupType": "randomGroup9",
-      "probability": 30,
-      "wodID": "77+1"
-    },
-    {
-      "randomGroupEntryID": 23,
-      "groupType": "randomGroup9",
-      "probability": 10,
-      "wodID": "737+1"
-    },
-    {
-      "randomGroupEntryID": 24,
-      "groupType": "randomGroup10",
-      "probability": 17,
-      "wodID": "730+1"
-    },
-    {
-      "randomGroupEntryID": 25,
-      "groupType": "randomGroup10",
-      "probability": 33,
-      "wodID": "622+1"
-    },
-    {
-      "randomGroupEntryID": 26,
-      "groupType": "randomGroup10",
-      "probability": 50,
-      "wodID": "627+1"
-    }
-  ]
-}
+[
+  {
+    "randomGroupEntryID": 1,
+    "groupType": "randomGroup1",
+    "probability": 50,
+    "wodID": "672+11"
+  },
+  {
+    "randomGroupEntryID": 2,
+    "groupType": "randomGroup1",
+    "probability": 50,
+    "wodID": "655+10"
+  },
+  {
+    "randomGroupEntryID": 3,
+    "groupType": "randomGroup2",
+    "probability": 50,
+    "wodID": "714+10"
+  },
+  {
+    "randomGroupEntryID": 4,
+    "groupType": "randomGroup2",
+    "probability": 50,
+    "wodID": "655+13"
+  },
+  {
+    "randomGroupEntryID": 5,
+    "groupType": "randomGroup3",
+    "probability": 33,
+    "wodID": "753+12"
+  },
+  {
+    "randomGroupEntryID": 6,
+    "groupType": "randomGroup3",
+    "probability": 33,
+    "wodID": "78+10"
+  },
+  {
+    "randomGroupEntryID": 7,
+    "groupType": "randomGroup3",
+    "probability": 34,
+    "wodID": "759+13"
+  },
+  {
+    "randomGroupEntryID": 8,
+    "groupType": "randomGroup4",
+    "probability": 50,
+    "wodID": "664+11"
+  },
+  {
+    "randomGroupEntryID": 9,
+    "groupType": "randomGroup4",
+    "probability": 50,
+    "wodID": "656+10"
+  },
+  {
+    "randomGroupEntryID": 10,
+    "groupType": "randomGroup5",
+    "probability": 50,
+    "wodID": "715+10"
+  },
+  {
+    "randomGroupEntryID": 11,
+    "groupType": "randomGroup5",
+    "probability": 50,
+    "wodID": "656+12"
+  },
+  {
+    "randomGroupEntryID": 12,
+    "groupType": "randomGroup6",
+    "probability": 33,
+    "wodID": "754+13"
+  },
+  {
+    "randomGroupEntryID": 13,
+    "groupType": "randomGroup6",
+    "probability": 33,
+    "wodID": "79+10"
+  },
+  {
+    "randomGroupEntryID": 14,
+    "groupType": "randomGroup6",
+    "probability": 34,
+    "wodID": "760+14"
+  },
+  {
+    "randomGroupEntryID": 15,
+    "groupType": "randomGroup7",
+    "probability": 50,
+    "wodID": "723+10"
+  },
+  {
+    "randomGroupEntryID": 16,
+    "groupType": "randomGroup7",
+    "probability": 50,
+    "wodID": "729+12"
+  },
+  {
+    "randomGroupEntryID": 17,
+    "groupType": "randomGroup8",
+    "probability": 50,
+    "wodID": "728+11"
+  },
+  {
+    "randomGroupEntryID": 18,
+    "groupType": "randomGroup8",
+    "probability": 50,
+    "wodID": "722+10"
+  },
+  {
+    "randomGroupEntryID": 19,
+    "groupType": "randomGroup9",
+    "probability": 20,
+    "wodID": "648+1"
+  },
+  {
+    "randomGroupEntryID": 20,
+    "groupType": "randomGroup9",
+    "probability": 20,
+    "wodID": "649+1"
+  },
+  {
+    "randomGroupEntryID": 21,
+    "groupType": "randomGroup9",
+    "probability": 20,
+    "wodID": "651+1"
+  },
+  {
+    "randomGroupEntryID": 22,
+    "groupType": "randomGroup9",
+    "probability": 30,
+    "wodID": "77+1"
+  },
+  {
+    "randomGroupEntryID": 23,
+    "groupType": "randomGroup9",
+    "probability": 10,
+    "wodID": "737+1"
+  },
+  {
+    "randomGroupEntryID": 24,
+    "groupType": "randomGroup10",
+    "probability": 17,
+    "wodID": "730+1"
+  },
+  {
+    "randomGroupEntryID": 25,
+    "groupType": "randomGroup10",
+    "probability": 33,
+    "wodID": "622+1"
+  },
+  {
+    "randomGroupEntryID": 26,
+    "groupType": "randomGroup10",
+    "probability": 50,
+    "wodID": "627+1"
+  }
+]

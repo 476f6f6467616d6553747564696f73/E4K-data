@@ -1,39 +1,37 @@
-{
-  "relicEffectPowerRating": [
-    {
-      "id": 1,
-      "crossplayID": 1,
-      "threshold": 60
-    },
-    {
-      "id": 2,
-      "crossplayID": 2,
-      "threshold": 40
-    },
-    {
-      "id": 3,
-      "crossplayID": 3,
-      "threshold": 0
-    },
-    {
-      "id": 4,
-      "crossplayID": 4,
-      "threshold": 70
-    },
-    {
-      "id": 5,
-      "crossplayID": 5,
-      "threshold": 80
-    },
-    {
-      "id": 6,
-      "crossplayID": 6,
-      "threshold": 90
-    },
-    {
-      "id": 7,
-      "crossplayID": 7,
-      "threshold": 100
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "crossplayID": 1,
+    "threshold": 60
+  },
+  {
+    "id": 2,
+    "crossplayID": 2,
+    "threshold": 40
+  },
+  {
+    "id": 3,
+    "crossplayID": 3,
+    "threshold": 0
+  },
+  {
+    "id": 4,
+    "crossplayID": 4,
+    "threshold": 70
+  },
+  {
+    "id": 5,
+    "crossplayID": 5,
+    "threshold": 80
+  },
+  {
+    "id": 6,
+    "crossplayID": 6,
+    "threshold": 90
+  },
+  {
+    "id": 7,
+    "crossplayID": 7,
+    "threshold": 100
+  }
+]

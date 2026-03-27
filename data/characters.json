@@ -1,46 +1,44 @@
-{
-  "character": [
-    {
-      "characterID": 1,
-      "crossplayID": 1,
-      "name": "fatKing",
-      "spinRarities": "1,1,1,2",
-      "tombolas": "6001+10001#6006+10006#6007+10007#6010+10013#6009+10012#6014+10016",
-      "coolDownInSeconds": 259200,
-      "maxFreeOpenings": 2,
-      "freeOpeningTombolaID": 10001,
-      "unluckyTotalPoints": 10,
-      "badLuckProtectionDrawAmount": 30,
-      "packageIDs": 10515,
-      "badLuckSpinRarities": "1,1,2,4"
-    },
-    {
-      "characterID": 2,
-      "crossplayID": 2,
-      "name": "drunkKnight",
-      "spinRarities": "1,1,1,2",
-      "tombolas": "6002+10002#6005+10005#6008+10011#6013+10017#6011+10014",
-      "coolDownInSeconds": 604800,
-      "maxFreeOpenings": 1,
-      "freeOpeningTombolaID": 10002,
-      "unluckyTotalPoints": 15,
-      "badLuckProtectionDrawAmount": 15,
-      "packageIDs": 10516,
-      "badLuckSpinRarities": "1,1,2,4"
-    },
-    {
-      "characterID": 3,
-      "crossplayID": 3,
-      "name": "gamblingPrincess",
-      "spinRarities": "1,1,1,2",
-      "tombolas": "6003+10003#6004+10004#6012+10015",
-      "coolDownInSeconds": 1296000,
-      "maxFreeOpenings": 1,
-      "freeOpeningTombolaID": 10003,
-      "unluckyTotalPoints": 18,
-      "badLuckProtectionDrawAmount": 10,
-      "packageIDs": "10517+10908",
-      "badLuckSpinRarities": "1,1,2,4"
-    }
-  ]
-}
+[
+  {
+    "characterID": 1,
+    "crossplayID": 1,
+    "name": "fatKing",
+    "spinRarities": "1,1,1,2",
+    "tombolas": "6001+10001#6006+10006#6007+10007#6010+10013#6009+10012#6014+10016",
+    "coolDownInSeconds": 259200,
+    "maxFreeOpenings": 2,
+    "freeOpeningTombolaID": 10001,
+    "unluckyTotalPoints": 10,
+    "badLuckProtectionDrawAmount": 30,
+    "packageIDs": 10515,
+    "badLuckSpinRarities": "1,1,2,4"
+  },
+  {
+    "characterID": 2,
+    "crossplayID": 2,
+    "name": "drunkKnight",
+    "spinRarities": "1,1,1,2",
+    "tombolas": "6002+10002#6005+10005#6008+10011#6013+10017#6011+10014",
+    "coolDownInSeconds": 604800,
+    "maxFreeOpenings": 1,
+    "freeOpeningTombolaID": 10002,
+    "unluckyTotalPoints": 15,
+    "badLuckProtectionDrawAmount": 15,
+    "packageIDs": 10516,
+    "badLuckSpinRarities": "1,1,2,4"
+  },
+  {
+    "characterID": 3,
+    "crossplayID": 3,
+    "name": "gamblingPrincess",
+    "spinRarities": "1,1,1,2",
+    "tombolas": "6003+10003#6004+10004#6012+10015",
+    "coolDownInSeconds": 1296000,
+    "maxFreeOpenings": 1,
+    "freeOpeningTombolaID": 10003,
+    "unluckyTotalPoints": 18,
+    "badLuckProtectionDrawAmount": 10,
+    "packageIDs": "10517+10908",
+    "badLuckSpinRarities": "1,1,2,4"
+  }
+]

@@ -1,16 +1,14 @@
-{
-  "boostConsumable": [
-    {
-      "currencyID": 2000,
-      "crossplayID": 2000
-    },
-    {
-      "currencyID": 2001,
-      "crossplayID": 2001
-    },
-    {
-      "currencyID": 2002,
-      "crossplayID": 2002
-    }
-  ]
-}
+[
+  {
+    "currencyID": 2000,
+    "crossplayID": 2000
+  },
+  {
+    "currencyID": 2001,
+    "crossplayID": 2001
+  },
+  {
+    "currencyID": 2002,
+    "crossplayID": 2002
+  }
+]

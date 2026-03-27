@@ -1,60 +1,58 @@
-{
-  "saleDaysLuckyWheelClass": [
-    {
-      "saleDaysLuckyWheelClassID": 1,
-      "crossplayID": 1,
-      "neededSpinsForNextClass": 10,
-      "HighlightNormal": "9052,9041,9042,9040,9047,9036,9039,9032,9037,9034,9033,9035,9043,9044,9038,9048,9045,9046"
-    },
-    {
-      "saleDaysLuckyWheelClassID": 2,
-      "crossplayID": 2,
-      "neededSpinsForNextClass": 20,
-      "activityRewardThreshold": 2,
-      "HighlightNormal": "9073,9062,9063,9061,9068,9057,9060,9053,9058,9055,9054,9056,9064,9065,9059,9069,9066,9067"
-    },
-    {
-      "saleDaysLuckyWheelClassID": 3,
-      "crossplayID": 3,
-      "neededSpinsForNextClass": 30,
-      "HighlightNormal": "9094,9083,9084,9082,9089,9078,9081,9074,9079,9076,9075,9077,9085,9086,9080,9090,9087,9088"
-    },
-    {
-      "saleDaysLuckyWheelClassID": 4,
-      "crossplayID": 4,
-      "neededSpinsForNextClass": 40,
-      "activityRewardThreshold": 4,
-      "HighlightNormal": "9115,9104,9105,9103,9110,9099,9102,9095,9100,9097,9096,9098,9106,9107,9101,9111,9108,9109"
-    },
-    {
-      "saleDaysLuckyWheelClassID": 5,
-      "crossplayID": 5,
-      "neededSpinsForNextClass": 50,
-      "HighlightNormal": "9136,9125,9126,9124,9131,9120,9123,9116,9121,9118,9117,9119,9127,9128,9122,9132,9129,9130"
-    },
-    {
-      "saleDaysLuckyWheelClassID": 6,
-      "crossplayID": 6,
-      "neededSpinsForNextClass": 60,
-      "activityRewardThreshold": 6,
-      "HighlightNormal": "9157,9146,9147,9145,9152,9141,9144,9137,9142,9139,9138,9140,9138,9149,9143,9153,9150,9151"
-    },
-    {
-      "saleDaysLuckyWheelClassID": 7,
-      "crossplayID": 7,
-      "neededSpinsForNextClass": 80,
-      "HighlightNormal": "9178,9167,9168,9166,9173,9162,9165,9158,9163,9160,9159,9161,9169,9170,9164,9174,9171,9172"
-    },
-    {
-      "saleDaysLuckyWheelClassID": 8,
-      "crossplayID": 8,
-      "neededSpinsForNextClass": 100,
-      "HighlightNormal": "9199,9188,9189,9187,9194,9183,9186,9179,9184,9181,9180,9182,9190,9191,9185,9195,9192,9193"
-    },
-    {
-      "saleDaysLuckyWheelClassID": 9,
-      "crossplayID": 9,
-      "HighlightNormal": "9220,9209,9210,9208,9215,9204,9207,9200,9205,9202,9201,9203,9211,9212,9206,9216,9213,9214"
-    }
-  ]
-}
+[
+  {
+    "saleDaysLuckyWheelClassID": 1,
+    "crossplayID": 1,
+    "neededSpinsForNextClass": 10,
+    "HighlightNormal": "9052,9041,9042,9040,9047,9036,9039,9032,9037,9034,9033,9035,9043,9044,9038,9048,9045,9046"
+  },
+  {
+    "saleDaysLuckyWheelClassID": 2,
+    "crossplayID": 2,
+    "neededSpinsForNextClass": 20,
+    "activityRewardThreshold": 2,
+    "HighlightNormal": "9073,9062,9063,9061,9068,9057,9060,9053,9058,9055,9054,9056,9064,9065,9059,9069,9066,9067"
+  },
+  {
+    "saleDaysLuckyWheelClassID": 3,
+    "crossplayID": 3,
+    "neededSpinsForNextClass": 30,
+    "HighlightNormal": "9094,9083,9084,9082,9089,9078,9081,9074,9079,9076,9075,9077,9085,9086,9080,9090,9087,9088"
+  },
+  {
+    "saleDaysLuckyWheelClassID": 4,
+    "crossplayID": 4,
+    "neededSpinsForNextClass": 40,
+    "activityRewardThreshold": 4,
+    "HighlightNormal": "9115,9104,9105,9103,9110,9099,9102,9095,9100,9097,9096,9098,9106,9107,9101,9111,9108,9109"
+  },
+  {
+    "saleDaysLuckyWheelClassID": 5,
+    "crossplayID": 5,
+    "neededSpinsForNextClass": 50,
+    "HighlightNormal": "9136,9125,9126,9124,9131,9120,9123,9116,9121,9118,9117,9119,9127,9128,9122,9132,9129,9130"
+  },
+  {
+    "saleDaysLuckyWheelClassID": 6,
+    "crossplayID": 6,
+    "neededSpinsForNextClass": 60,
+    "activityRewardThreshold": 6,
+    "HighlightNormal": "9157,9146,9147,9145,9152,9141,9144,9137,9142,9139,9138,9140,9138,9149,9143,9153,9150,9151"
+  },
+  {
+    "saleDaysLuckyWheelClassID": 7,
+    "crossplayID": 7,
+    "neededSpinsForNextClass": 80,
+    "HighlightNormal": "9178,9167,9168,9166,9173,9162,9165,9158,9163,9160,9159,9161,9169,9170,9164,9174,9171,9172"
+  },
+  {
+    "saleDaysLuckyWheelClassID": 8,
+    "crossplayID": 8,
+    "neededSpinsForNextClass": 100,
+    "HighlightNormal": "9199,9188,9189,9187,9194,9183,9186,9179,9184,9181,9180,9182,9190,9191,9185,9195,9192,9193"
+  },
+  {
+    "saleDaysLuckyWheelClassID": 9,
+    "crossplayID": 9,
+    "HighlightNormal": "9220,9209,9210,9208,9215,9204,9207,9200,9205,9202,9201,9203,9211,9212,9206,9216,9213,9214"
+  }
+]

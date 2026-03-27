@@ -1,145 +1,143 @@
-{
-  "saleDaysDaysLuckyWheelDropChance": [
-    {
-      "saleDaysWheelDropID": 1,
-      "rewardIDs": 9221,
-      "minLevel": 70,
-      "maxLegendLevel": 664,
-      "NormalDrop": 750
-    },
-    {
-      "saleDaysWheelDropID": 2,
-      "rewardIDs": 9222,
-      "minLevel": 70,
-      "maxLegendLevel": 664,
-      "NormalDrop": 750
-    },
-    {
-      "saleDaysWheelDropID": 3,
-      "rewardIDs": 9223,
-      "minLevel": 70,
-      "maxLegendLevel": 664,
-      "NormalDrop": 750
-    },
-    {
-      "saleDaysWheelDropID": 4,
-      "rewardIDs": 9224,
-      "minLevel": 70,
-      "maxLegendLevel": 664,
-      "NormalDrop": 750
-    },
-    {
-      "saleDaysWheelDropID": 5,
-      "rewardIDs": 9016,
-      "NormalDrop": 1500
-    },
-    {
-      "saleDaysWheelDropID": 6,
-      "rewardIDs": 9017,
-      "NormalDrop": 346
-    },
-    {
-      "saleDaysWheelDropID": 7,
-      "rewardIDs": 9018,
-      "NormalDrop": 200
-    },
-    {
-      "saleDaysWheelDropID": 8,
-      "rewardIDs": 9019,
-      "NormalDrop": 346
-    },
-    {
-      "saleDaysWheelDropID": 9,
-      "rewardIDs": 9020,
-      "NormalDrop": 200
-    },
-    {
-      "saleDaysWheelDropID": 10,
-      "rewardIDs": 9021,
-      "NormalDrop": 346
-    },
-    {
-      "saleDaysWheelDropID": 11,
-      "rewardIDs": 9022,
-      "NormalDrop": 200
-    },
-    {
-      "saleDaysWheelDropID": 12,
-      "rewardIDs": 9023,
-      "NormalDrop": 346
-    },
-    {
-      "saleDaysWheelDropID": 13,
-      "rewardIDs": 9024,
-      "NormalDrop": 200
-    },
-    {
-      "saleDaysWheelDropID": 14,
-      "rewardIDs": 9025,
-      "NormalDrop": 346
-    },
-    {
-      "saleDaysWheelDropID": 15,
-      "rewardIDs": 9026,
-      "NormalDrop": 346
-    },
-    {
-      "saleDaysWheelDropID": 16,
-      "rewardIDs": 9027,
-      "NormalDrop": 92
-    },
-    {
-      "saleDaysWheelDropID": 17,
-      "rewardIDs": 9028,
-      "NormalDrop": 92
-    },
-    {
-      "saleDaysWheelDropID": 18,
-      "rewardIDs": 9029,
-      "NormalDrop": 250
-    },
-    {
-      "saleDaysWheelDropID": 19,
-      "rewardIDs": 9030,
-      "NormalDrop": 250
-    },
-    {
-      "saleDaysWheelDropID": 20,
-      "rewardIDs": 9031,
-      "NormalDrop": 500
-    },
-    {
-      "saleDaysWheelDropID": 21,
-      "isJackpot": 1,
-      "NormalDrop": 1440
-    },
-    {
-      "saleDaysWheelDropID": 22,
-      "rewardIDs": 9012,
-      "minLevel": 70,
-      "minLegendLevel": 665,
-      "NormalDrop": 750
-    },
-    {
-      "saleDaysWheelDropID": 23,
-      "rewardIDs": 9013,
-      "minLevel": 70,
-      "minLegendLevel": 665,
-      "NormalDrop": 750
-    },
-    {
-      "saleDaysWheelDropID": 24,
-      "rewardIDs": 9014,
-      "minLevel": 70,
-      "minLegendLevel": 665,
-      "NormalDrop": 750
-    },
-    {
-      "saleDaysWheelDropID": 25,
-      "rewardIDs": 9015,
-      "minLevel": 70,
-      "minLegendLevel": 665,
-      "NormalDrop": 750
-    }
-  ]
-}
+[
+  {
+    "saleDaysWheelDropID": 1,
+    "rewardIDs": 9221,
+    "minLevel": 70,
+    "maxLegendLevel": 664,
+    "NormalDrop": 750
+  },
+  {
+    "saleDaysWheelDropID": 2,
+    "rewardIDs": 9222,
+    "minLevel": 70,
+    "maxLegendLevel": 664,
+    "NormalDrop": 750
+  },
+  {
+    "saleDaysWheelDropID": 3,
+    "rewardIDs": 9223,
+    "minLevel": 70,
+    "maxLegendLevel": 664,
+    "NormalDrop": 750
+  },
+  {
+    "saleDaysWheelDropID": 4,
+    "rewardIDs": 9224,
+    "minLevel": 70,
+    "maxLegendLevel": 664,
+    "NormalDrop": 750
+  },
+  {
+    "saleDaysWheelDropID": 5,
+    "rewardIDs": 9016,
+    "NormalDrop": 1500
+  },
+  {
+    "saleDaysWheelDropID": 6,
+    "rewardIDs": 9017,
+    "NormalDrop": 346
+  },
+  {
+    "saleDaysWheelDropID": 7,
+    "rewardIDs": 9018,
+    "NormalDrop": 200
+  },
+  {
+    "saleDaysWheelDropID": 8,
+    "rewardIDs": 9019,
+    "NormalDrop": 346
+  },
+  {
+    "saleDaysWheelDropID": 9,
+    "rewardIDs": 9020,
+    "NormalDrop": 200
+  },
+  {
+    "saleDaysWheelDropID": 10,
+    "rewardIDs": 9021,
+    "NormalDrop": 346
+  },
+  {
+    "saleDaysWheelDropID": 11,
+    "rewardIDs": 9022,
+    "NormalDrop": 200
+  },
+  {
+    "saleDaysWheelDropID": 12,
+    "rewardIDs": 9023,
+    "NormalDrop": 346
+  },
+  {
+    "saleDaysWheelDropID": 13,
+    "rewardIDs": 9024,
+    "NormalDrop": 200
+  },
+  {
+    "saleDaysWheelDropID": 14,
+    "rewardIDs": 9025,
+    "NormalDrop": 346
+  },
+  {
+    "saleDaysWheelDropID": 15,
+    "rewardIDs": 9026,
+    "NormalDrop": 346
+  },
+  {
+    "saleDaysWheelDropID": 16,
+    "rewardIDs": 9027,
+    "NormalDrop": 92
+  },
+  {
+    "saleDaysWheelDropID": 17,
+    "rewardIDs": 9028,
+    "NormalDrop": 92
+  },
+  {
+    "saleDaysWheelDropID": 18,
+    "rewardIDs": 9029,
+    "NormalDrop": 250
+  },
+  {
+    "saleDaysWheelDropID": 19,
+    "rewardIDs": 9030,
+    "NormalDrop": 250
+  },
+  {
+    "saleDaysWheelDropID": 20,
+    "rewardIDs": 9031,
+    "NormalDrop": 500
+  },
+  {
+    "saleDaysWheelDropID": 21,
+    "isJackpot": 1,
+    "NormalDrop": 1440
+  },
+  {
+    "saleDaysWheelDropID": 22,
+    "rewardIDs": 9012,
+    "minLevel": 70,
+    "minLegendLevel": 665,
+    "NormalDrop": 750
+  },
+  {
+    "saleDaysWheelDropID": 23,
+    "rewardIDs": 9013,
+    "minLevel": 70,
+    "minLegendLevel": 665,
+    "NormalDrop": 750
+  },
+  {
+    "saleDaysWheelDropID": 24,
+    "rewardIDs": 9014,
+    "minLevel": 70,
+    "minLegendLevel": 665,
+    "NormalDrop": 750
+  },
+  {
+    "saleDaysWheelDropID": 25,
+    "rewardIDs": 9015,
+    "minLevel": 70,
+    "minLegendLevel": 665,
+    "NormalDrop": 750
+  }
+]

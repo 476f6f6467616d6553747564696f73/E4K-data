@@ -69,8 +69,8 @@ export interface Network {
     versionNo: number,
     deployTime: number,
     is_approval: boolean,
-    instances: { instance: NetworkInstance[] },
-    "test-instances"?: { instance: NetworkInstance[] },
+    instances: NetworkInstance[],
+    "test-instances": NetworkInstance[],
     general: {
         defaultinstance: number,
         allowedfullscreen: boolean,

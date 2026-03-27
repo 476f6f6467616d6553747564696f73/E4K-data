@@ -1,46 +1,44 @@
-{
-  "currencyMinutesSkipValue": [
-    {
-      "currencyID": 1001,
-      "crossplayID": 1001,
-      "MinutesSkipValue": 1,
-      "MinuteSkipIndex": 0
-    },
-    {
-      "currencyID": 1002,
-      "crossplayID": 1002,
-      "MinutesSkipValue": 5,
-      "MinuteSkipIndex": 1
-    },
-    {
-      "currencyID": 1003,
-      "crossplayID": 1003,
-      "MinutesSkipValue": 10,
-      "MinuteSkipIndex": 2
-    },
-    {
-      "currencyID": 1004,
-      "crossplayID": 1004,
-      "MinutesSkipValue": 30,
-      "MinuteSkipIndex": 3
-    },
-    {
-      "currencyID": 1005,
-      "crossplayID": 1005,
-      "MinutesSkipValue": 60,
-      "MinuteSkipIndex": 4
-    },
-    {
-      "currencyID": 1006,
-      "crossplayID": 1006,
-      "MinutesSkipValue": 300,
-      "MinuteSkipIndex": 5
-    },
-    {
-      "currencyID": 1007,
-      "crossplayID": 1007,
-      "MinutesSkipValue": 1440,
-      "MinuteSkipIndex": 6
-    }
-  ]
-}
+[
+  {
+    "currencyID": 1001,
+    "crossplayID": 1001,
+    "MinutesSkipValue": 1,
+    "MinuteSkipIndex": 0
+  },
+  {
+    "currencyID": 1002,
+    "crossplayID": 1002,
+    "MinutesSkipValue": 5,
+    "MinuteSkipIndex": 1
+  },
+  {
+    "currencyID": 1003,
+    "crossplayID": 1003,
+    "MinutesSkipValue": 10,
+    "MinuteSkipIndex": 2
+  },
+  {
+    "currencyID": 1004,
+    "crossplayID": 1004,
+    "MinutesSkipValue": 30,
+    "MinuteSkipIndex": 3
+  },
+  {
+    "currencyID": 1005,
+    "crossplayID": 1005,
+    "MinutesSkipValue": 60,
+    "MinuteSkipIndex": 4
+  },
+  {
+    "currencyID": 1006,
+    "crossplayID": 1006,
+    "MinutesSkipValue": 300,
+    "MinuteSkipIndex": 5
+  },
+  {
+    "currencyID": 1007,
+    "crossplayID": 1007,
+    "MinutesSkipValue": 1440,
+    "MinuteSkipIndex": 6
+  }
+]

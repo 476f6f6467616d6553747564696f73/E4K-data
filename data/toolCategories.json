@@ -1,29 +1,27 @@
-{
-  "toolCategory": [
-    {
-      "toolCategoryID": 1,
-      "crossplayID": 1,
-      "name": "basic"
-    },
-    {
-      "toolCategoryID": 2,
-      "crossplayID": 2,
-      "name": "premium"
-    },
-    {
-      "toolCategoryID": 3,
-      "crossplayID": 3,
-      "name": "elite"
-    },
-    {
-      "toolCategoryID": 4,
-      "crossplayID": 4,
-      "name": "event"
-    },
-    {
-      "toolCategoryID": 5,
-      "crossplayID": 5,
-      "name": "combo"
-    }
-  ]
-}
+[
+  {
+    "toolCategoryID": 1,
+    "crossplayID": 1,
+    "name": "basic"
+  },
+  {
+    "toolCategoryID": 2,
+    "crossplayID": 2,
+    "name": "premium"
+  },
+  {
+    "toolCategoryID": 3,
+    "crossplayID": 3,
+    "name": "elite"
+  },
+  {
+    "toolCategoryID": 4,
+    "crossplayID": 4,
+    "name": "event"
+  },
+  {
+    "toolCategoryID": 5,
+    "crossplayID": 5,
+    "name": "combo"
+  }
+]

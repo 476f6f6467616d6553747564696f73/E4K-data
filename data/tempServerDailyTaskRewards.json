@@ -1,34 +1,32 @@
-{
-  "tempServerDailyTaskReward": [
-    {
-      "tempServerDailyTaskRewardID": 1,
-      "crossplayID": 1,
-      "minDailyTaskPointsPerDay": 5,
-      "rewardID": 10928
-    },
-    {
-      "tempServerDailyTaskRewardID": 2,
-      "crossplayID": 2,
-      "minDailyTaskPointsPerDay": 10,
-      "rewardID": 10929
-    },
-    {
-      "tempServerDailyTaskRewardID": 3,
-      "crossplayID": 3,
-      "minDailyTaskPointsPerDay": 15,
-      "rewardID": 10930
-    },
-    {
-      "tempServerDailyTaskRewardID": 4,
-      "crossplayID": 4,
-      "minDailyTaskPointsPerDay": 35,
-      "rewardID": 10931
-    },
-    {
-      "tempServerDailyTaskRewardID": 5,
-      "crossplayID": 5,
-      "minDailyTaskPointsPerDay": 40,
-      "rewardID": 10932
-    }
-  ]
-}
+[
+  {
+    "tempServerDailyTaskRewardID": 1,
+    "crossplayID": 1,
+    "minDailyTaskPointsPerDay": 5,
+    "rewardID": 10928
+  },
+  {
+    "tempServerDailyTaskRewardID": 2,
+    "crossplayID": 2,
+    "minDailyTaskPointsPerDay": 10,
+    "rewardID": 10929
+  },
+  {
+    "tempServerDailyTaskRewardID": 3,
+    "crossplayID": 3,
+    "minDailyTaskPointsPerDay": 15,
+    "rewardID": 10930
+  },
+  {
+    "tempServerDailyTaskRewardID": 4,
+    "crossplayID": 4,
+    "minDailyTaskPointsPerDay": 35,
+    "rewardID": 10931
+  },
+  {
+    "tempServerDailyTaskRewardID": 5,
+    "crossplayID": 5,
+    "minDailyTaskPointsPerDay": 40,
+    "rewardID": 10932
+  }
+]

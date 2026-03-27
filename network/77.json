@@ -1,0 +1,46 @@
+{
+  "versionNo": 1032103,
+  "deployTime": 1654175142,
+  "is_approval": false,
+  "instances": [
+    {
+      "instance": {
+        "value": 3,
+        "server": "e4k-live-preclient-pl1-game.goodgamestudios.com",
+        "port": 443,
+        "zone": "EmpirefourkingdomsExGG2_3",
+        "zoneId": 446,
+        "instanceName": 1,
+        "isFavorite": 0,
+        "instanceLocaId": "generic_country_PL",
+        "isPriority": 0,
+        "isInternational": 0,
+        "countries": [
+          "PL",
+          "XX"
+        ],
+        "defaultcountry": "PL"
+      }
+    }
+  ],
+  "test-instances": [],
+  "general": {
+    "defaultinstance": 7,
+    "allowedfullscreen": true,
+    "networkname": "Web",
+    "usekeybaselogin": false,
+    "networkbuddies": false,
+    "enablefeedmessages": false,
+    "enablelonelycow": false,
+    "requestpaybyjs": false,
+    "earncredits": 0,
+    "useexternallinks": true,
+    "invitefriends": true,
+    "maxusernamelength": 15,
+    "usepayment": true,
+    "showversion": true,
+    "replaceUrlPatternForWebSocket": true,
+    "useWebSocket": false,
+    "webSocketProtocol": "wss:"
+  }
+}

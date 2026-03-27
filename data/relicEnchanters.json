@@ -1,404 +1,402 @@
-{
-  "relicEnchanter": [
-    {
-      "level": 1,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 100,
-      "c1Cost": 100000,
-      "c2Cost": 0,
-      "costRelicFragment": 331
-    },
-    {
-      "level": 2,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 95,
-      "c1Cost": 134113,
-      "c2Cost": 500,
-      "costRelicFragment": 348
-    },
-    {
-      "level": 3,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 90,
-      "c1Cost": 147524,
-      "c2Cost": 550,
-      "costRelicFragment": 364
-    },
-    {
-      "level": 4,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 85,
-      "c1Cost": 167105,
-      "c2Cost": 623,
-      "costRelicFragment": 381
-    },
-    {
-      "level": 5,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 80,
-      "c1Cost": 192854,
-      "c2Cost": 719,
-      "costRelicFragment": 397
-    },
-    {
-      "level": 6,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 75,
-      "c1Cost": 224773,
-      "c2Cost": 838,
-      "costRelicFragment": 414
-    },
-    {
-      "level": 7,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 70,
-      "c1Cost": 262861,
-      "c2Cost": 980,
-      "costRelicFragment": 430
-    },
-    {
-      "level": 8,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 68,
-      "c1Cost": 307118,
-      "c2Cost": 1145,
-      "costRelicFragment": 447
-    },
-    {
-      "level": 9,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 66,
-      "c1Cost": 357545,
-      "c2Cost": 1333,
-      "costRelicFragment": 463
-    },
-    {
-      "level": 10,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 64,
-      "c1Cost": 414140,
-      "c2Cost": 1544,
-      "costRelicFragment": 480
-    },
-    {
-      "level": 11,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 62,
-      "c1Cost": 476905,
-      "c2Cost": 1778,
-      "costRelicFragment": 497
-    },
-    {
-      "level": 12,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 60,
-      "c1Cost": 545839,
-      "c2Cost": 2035,
-      "costRelicFragment": 513
-    },
-    {
-      "level": 13,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 58,
-      "c1Cost": 620942,
-      "c2Cost": 2315,
-      "costRelicFragment": 530
-    },
-    {
-      "level": 14,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 56,
-      "c1Cost": 702215,
-      "c2Cost": 2618,
-      "costRelicFragment": 546
-    },
-    {
-      "level": 15,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 54,
-      "c1Cost": 789656,
-      "c2Cost": 2944,
-      "costRelicFragment": 563
-    },
-    {
-      "level": 16,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 52,
-      "c1Cost": 883267,
-      "c2Cost": 3293,
-      "costRelicFragment": 579
-    },
-    {
-      "level": 17,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 50,
-      "c1Cost": 983047,
-      "c2Cost": 3665,
-      "costRelicFragment": 596
-    },
-    {
-      "level": 18,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 48,
-      "c1Cost": 1088996,
-      "c2Cost": 4060,
-      "costRelicFragment": 612
-    },
-    {
-      "level": 19,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 46,
-      "c1Cost": 1201114,
-      "c2Cost": 4478,
-      "costRelicFragment": 629
-    },
-    {
-      "level": 20,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 44,
-      "c1Cost": 1319402,
-      "c2Cost": 4919,
-      "costRelicFragment": 645
-    },
-    {
-      "level": 21,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 42,
-      "c1Cost": 1443858,
-      "c2Cost": 5383,
-      "costRelicFragment": 662
-    },
-    {
-      "level": 22,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 40,
-      "c1Cost": 1574484,
-      "c2Cost": 5870,
-      "costRelicFragment": 679
-    },
-    {
-      "level": 23,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 39,
-      "c1Cost": 1711279,
-      "c2Cost": 6380,
-      "costRelicFragment": 695
-    },
-    {
-      "level": 24,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 38,
-      "c1Cost": 1854243,
-      "c2Cost": 6913,
-      "costRelicFragment": 712
-    },
-    {
-      "level": 25,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 37,
-      "c1Cost": 2003377,
-      "c2Cost": 7469,
-      "costRelicFragment": 728
-    },
-    {
-      "level": 26,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 36,
-      "c1Cost": 2024964,
-      "c2Cost": 8048,
-      "costRelicFragment": 745
-    },
-    {
-      "level": 27,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 35,
-      "c1Cost": 2048166,
-      "c2Cost": 8650,
-      "costRelicFragment": 761
-    },
-    {
-      "level": 28,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 34,
-      "c1Cost": 2073044,
-      "c2Cost": 9275,
-      "costRelicFragment": 778
-    },
-    {
-      "level": 29,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 33,
-      "c1Cost": 2099660,
-      "c2Cost": 9923,
-      "costRelicFragment": 794
-    },
-    {
-      "level": 30,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 32,
-      "c1Cost": 2128076,
-      "c2Cost": 10594,
-      "costRelicFragment": 811
-    },
-    {
-      "level": 31,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 31,
-      "c1Cost": 2158353,
-      "c2Cost": 11288,
-      "costRelicFragment": 828
-    },
-    {
-      "level": 32,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 30,
-      "c1Cost": 2190553,
-      "c2Cost": 12005,
-      "costRelicFragment": 844
-    },
-    {
-      "level": 33,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 29,
-      "c1Cost": 2224738,
-      "c2Cost": 12745,
-      "costRelicFragment": 861
-    },
-    {
-      "level": 34,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 28,
-      "c1Cost": 2260970,
-      "c2Cost": 13508,
-      "costRelicFragment": 877
-    },
-    {
-      "level": 35,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 27,
-      "c1Cost": 2299310,
-      "c2Cost": 14294,
-      "costRelicFragment": 894
-    },
-    {
-      "level": 36,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 26,
-      "c1Cost": 2339820,
-      "c2Cost": 15103,
-      "costRelicFragment": 910
-    },
-    {
-      "level": 37,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 25,
-      "c1Cost": 2382562,
-      "c2Cost": 15935,
-      "costRelicFragment": 927
-    },
-    {
-      "level": 38,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 24,
-      "c1Cost": 2427597,
-      "c2Cost": 16790,
-      "costRelicFragment": 943
-    },
-    {
-      "level": 39,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 23,
-      "c1Cost": 2474987,
-      "c2Cost": 17668,
-      "costRelicFragment": 960
-    },
-    {
-      "level": 40,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 22,
-      "c1Cost": 2524794,
-      "c2Cost": 18569,
-      "costRelicFragment": 976
-    },
-    {
-      "level": 41,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 21,
-      "c1Cost": 2577079,
-      "c2Cost": 19493,
-      "costRelicFragment": 993
-    },
-    {
-      "level": 42,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 20,
-      "c1Cost": 2631904,
-      "c2Cost": 20440,
-      "costRelicFragment": 1010
-    },
-    {
-      "level": 43,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 19,
-      "c1Cost": 2689331,
-      "c2Cost": 21410,
-      "costRelicFragment": 1026
-    },
-    {
-      "level": 44,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 18,
-      "c1Cost": 2749422,
-      "c2Cost": 22403,
-      "costRelicFragment": 1043
-    },
-    {
-      "level": 45,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 17,
-      "c1Cost": 2812238,
-      "c2Cost": 23419,
-      "costRelicFragment": 1059
-    },
-    {
-      "level": 46,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 16,
-      "c1Cost": 2877841,
-      "c2Cost": 24458,
-      "costRelicFragment": 1076
-    },
-    {
-      "level": 47,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 15,
-      "c1Cost": 2946292,
-      "c2Cost": 25520,
-      "costRelicFragment": 1092
-    },
-    {
-      "level": 48,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 14,
-      "c1Cost": 3017653,
-      "c2Cost": 26605,
-      "costRelicFragment": 1109
-    },
-    {
-      "level": 49,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 13,
-      "c1Cost": 3091986,
-      "c2Cost": 27713,
-      "costRelicFragment": 1125
-    },
-    {
-      "level": 50,
-      "relicNormalEffectBoost": 0.1,
-      "chance": 12,
-      "c1Cost": 3169353,
-      "c2Cost": 28844,
-      "costRelicFragment": 1142
-    }
-  ]
-}
+[
+  {
+    "level": 1,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 100,
+    "c1Cost": 100000,
+    "c2Cost": 0,
+    "costRelicFragment": 331
+  },
+  {
+    "level": 2,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 95,
+    "c1Cost": 134113,
+    "c2Cost": 500,
+    "costRelicFragment": 348
+  },
+  {
+    "level": 3,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 90,
+    "c1Cost": 147524,
+    "c2Cost": 550,
+    "costRelicFragment": 364
+  },
+  {
+    "level": 4,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 85,
+    "c1Cost": 167105,
+    "c2Cost": 623,
+    "costRelicFragment": 381
+  },
+  {
+    "level": 5,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 80,
+    "c1Cost": 192854,
+    "c2Cost": 719,
+    "costRelicFragment": 397
+  },
+  {
+    "level": 6,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 75,
+    "c1Cost": 224773,
+    "c2Cost": 838,
+    "costRelicFragment": 414
+  },
+  {
+    "level": 7,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 70,
+    "c1Cost": 262861,
+    "c2Cost": 980,
+    "costRelicFragment": 430
+  },
+  {
+    "level": 8,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 68,
+    "c1Cost": 307118,
+    "c2Cost": 1145,
+    "costRelicFragment": 447
+  },
+  {
+    "level": 9,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 66,
+    "c1Cost": 357545,
+    "c2Cost": 1333,
+    "costRelicFragment": 463
+  },
+  {
+    "level": 10,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 64,
+    "c1Cost": 414140,
+    "c2Cost": 1544,
+    "costRelicFragment": 480
+  },
+  {
+    "level": 11,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 62,
+    "c1Cost": 476905,
+    "c2Cost": 1778,
+    "costRelicFragment": 497
+  },
+  {
+    "level": 12,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 60,
+    "c1Cost": 545839,
+    "c2Cost": 2035,
+    "costRelicFragment": 513
+  },
+  {
+    "level": 13,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 58,
+    "c1Cost": 620942,
+    "c2Cost": 2315,
+    "costRelicFragment": 530
+  },
+  {
+    "level": 14,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 56,
+    "c1Cost": 702215,
+    "c2Cost": 2618,
+    "costRelicFragment": 546
+  },
+  {
+    "level": 15,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 54,
+    "c1Cost": 789656,
+    "c2Cost": 2944,
+    "costRelicFragment": 563
+  },
+  {
+    "level": 16,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 52,
+    "c1Cost": 883267,
+    "c2Cost": 3293,
+    "costRelicFragment": 579
+  },
+  {
+    "level": 17,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 50,
+    "c1Cost": 983047,
+    "c2Cost": 3665,
+    "costRelicFragment": 596
+  },
+  {
+    "level": 18,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 48,
+    "c1Cost": 1088996,
+    "c2Cost": 4060,
+    "costRelicFragment": 612
+  },
+  {
+    "level": 19,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 46,
+    "c1Cost": 1201114,
+    "c2Cost": 4478,
+    "costRelicFragment": 629
+  },
+  {
+    "level": 20,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 44,
+    "c1Cost": 1319402,
+    "c2Cost": 4919,
+    "costRelicFragment": 645
+  },
+  {
+    "level": 21,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 42,
+    "c1Cost": 1443858,
+    "c2Cost": 5383,
+    "costRelicFragment": 662
+  },
+  {
+    "level": 22,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 40,
+    "c1Cost": 1574484,
+    "c2Cost": 5870,
+    "costRelicFragment": 679
+  },
+  {
+    "level": 23,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 39,
+    "c1Cost": 1711279,
+    "c2Cost": 6380,
+    "costRelicFragment": 695
+  },
+  {
+    "level": 24,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 38,
+    "c1Cost": 1854243,
+    "c2Cost": 6913,
+    "costRelicFragment": 712
+  },
+  {
+    "level": 25,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 37,
+    "c1Cost": 2003377,
+    "c2Cost": 7469,
+    "costRelicFragment": 728
+  },
+  {
+    "level": 26,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 36,
+    "c1Cost": 2024964,
+    "c2Cost": 8048,
+    "costRelicFragment": 745
+  },
+  {
+    "level": 27,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 35,
+    "c1Cost": 2048166,
+    "c2Cost": 8650,
+    "costRelicFragment": 761
+  },
+  {
+    "level": 28,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 34,
+    "c1Cost": 2073044,
+    "c2Cost": 9275,
+    "costRelicFragment": 778
+  },
+  {
+    "level": 29,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 33,
+    "c1Cost": 2099660,
+    "c2Cost": 9923,
+    "costRelicFragment": 794
+  },
+  {
+    "level": 30,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 32,
+    "c1Cost": 2128076,
+    "c2Cost": 10594,
+    "costRelicFragment": 811
+  },
+  {
+    "level": 31,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 31,
+    "c1Cost": 2158353,
+    "c2Cost": 11288,
+    "costRelicFragment": 828
+  },
+  {
+    "level": 32,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 30,
+    "c1Cost": 2190553,
+    "c2Cost": 12005,
+    "costRelicFragment": 844
+  },
+  {
+    "level": 33,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 29,
+    "c1Cost": 2224738,
+    "c2Cost": 12745,
+    "costRelicFragment": 861
+  },
+  {
+    "level": 34,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 28,
+    "c1Cost": 2260970,
+    "c2Cost": 13508,
+    "costRelicFragment": 877
+  },
+  {
+    "level": 35,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 27,
+    "c1Cost": 2299310,
+    "c2Cost": 14294,
+    "costRelicFragment": 894
+  },
+  {
+    "level": 36,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 26,
+    "c1Cost": 2339820,
+    "c2Cost": 15103,
+    "costRelicFragment": 910
+  },
+  {
+    "level": 37,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 25,
+    "c1Cost": 2382562,
+    "c2Cost": 15935,
+    "costRelicFragment": 927
+  },
+  {
+    "level": 38,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 24,
+    "c1Cost": 2427597,
+    "c2Cost": 16790,
+    "costRelicFragment": 943
+  },
+  {
+    "level": 39,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 23,
+    "c1Cost": 2474987,
+    "c2Cost": 17668,
+    "costRelicFragment": 960
+  },
+  {
+    "level": 40,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 22,
+    "c1Cost": 2524794,
+    "c2Cost": 18569,
+    "costRelicFragment": 976
+  },
+  {
+    "level": 41,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 21,
+    "c1Cost": 2577079,
+    "c2Cost": 19493,
+    "costRelicFragment": 993
+  },
+  {
+    "level": 42,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 20,
+    "c1Cost": 2631904,
+    "c2Cost": 20440,
+    "costRelicFragment": 1010
+  },
+  {
+    "level": 43,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 19,
+    "c1Cost": 2689331,
+    "c2Cost": 21410,
+    "costRelicFragment": 1026
+  },
+  {
+    "level": 44,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 18,
+    "c1Cost": 2749422,
+    "c2Cost": 22403,
+    "costRelicFragment": 1043
+  },
+  {
+    "level": 45,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 17,
+    "c1Cost": 2812238,
+    "c2Cost": 23419,
+    "costRelicFragment": 1059
+  },
+  {
+    "level": 46,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 16,
+    "c1Cost": 2877841,
+    "c2Cost": 24458,
+    "costRelicFragment": 1076
+  },
+  {
+    "level": 47,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 15,
+    "c1Cost": 2946292,
+    "c2Cost": 25520,
+    "costRelicFragment": 1092
+  },
+  {
+    "level": 48,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 14,
+    "c1Cost": 3017653,
+    "c2Cost": 26605,
+    "costRelicFragment": 1109
+  },
+  {
+    "level": 49,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 13,
+    "c1Cost": 3091986,
+    "c2Cost": 27713,
+    "costRelicFragment": 1125
+  },
+  {
+    "level": 50,
+    "relicNormalEffectBoost": 0.1,
+    "chance": 12,
+    "c1Cost": 3169353,
+    "c2Cost": 28844,
+    "costRelicFragment": 1142
+  }
+]

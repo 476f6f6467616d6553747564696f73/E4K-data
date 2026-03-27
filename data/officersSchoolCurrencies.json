@@ -1,16 +1,14 @@
-{
-  "officersSchoolCurrency": [
-    {
-      "id": 1,
-      "currency": "KhanTablet"
-    },
-    {
-      "id": 2,
-      "currency": "SamuraiToken"
-    },
-    {
-      "id": 3,
-      "currency": "KhanMedal"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "currency": "KhanTablet"
+  },
+  {
+    "id": 2,
+    "currency": "SamuraiToken"
+  },
+  {
+    "id": 3,
+    "currency": "KhanMedal"
+  }
+]

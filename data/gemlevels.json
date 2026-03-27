@@ -1,138 +1,136 @@
-{
-  "gemlevel": [
-    {
-      "gemLevelID": 0,
-      "crossplayID": 0,
-      "saleValue": 11000,
-      "insertCostC1": 80000,
-      "removalCostC2": 20000
-    },
-    {
-      "gemLevelID": 1,
-      "crossplayID": 1,
-      "saleValue": 25,
-      "insertCostC1": 1000,
-      "craftSuccessChance": 100,
-      "craftCostC1": 500,
-      "craftCostC2": 0,
-      "removalCostC2": 200
-    },
-    {
-      "gemLevelID": 2,
-      "crossplayID": 2,
-      "saleValue": 50,
-      "insertCostC1": 2500,
-      "craftSuccessChance": 80,
-      "craftCostC1": 1000,
-      "craftCostC2": 250,
-      "removalCostC2": 300
-    },
-    {
-      "gemLevelID": 3,
-      "crossplayID": 3,
-      "saleValue": 100,
-      "insertCostC1": 5000,
-      "craftSuccessChance": 60,
-      "craftCostC1": 2500,
-      "craftCostC2": 550,
-      "removalCostC2": 400
-    },
-    {
-      "gemLevelID": 4,
-      "crossplayID": 4,
-      "saleValue": 200,
-      "insertCostC1": 7500,
-      "craftSuccessChance": 40,
-      "craftCostC1": 5000,
-      "craftCostC2": 950,
-      "removalCostC2": 500
-    },
-    {
-      "gemLevelID": 5,
-      "crossplayID": 5,
-      "saleValue": 300,
-      "insertCostC1": 10000,
-      "craftSuccessChance": 20,
-      "craftCostC1": 7500,
-      "craftCostC2": 1250,
-      "removalCostC2": 1000
-    },
-    {
-      "gemLevelID": 6,
-      "crossplayID": 6,
-      "saleValue": 500,
-      "insertCostC1": 15000,
-      "craftSuccessChance": 10,
-      "craftCostC1": 10000,
-      "craftCostC2": 2500,
-      "removalCostC2": 2000
-    },
-    {
-      "gemLevelID": 7,
-      "crossplayID": 7,
-      "saleValue": 1000,
-      "insertCostC1": 20000,
-      "craftSuccessChance": 8,
-      "craftCostC1": 15000,
-      "craftCostC2": 12500,
-      "removalCostC2": 3000
-    },
-    {
-      "gemLevelID": 8,
-      "crossplayID": 8,
-      "saleValue": 2000,
-      "insertCostC1": 30000,
-      "craftSuccessChance": 4,
-      "craftCostC1": 25000,
-      "craftCostC2": 25000,
-      "removalCostC2": 5000
-    },
-    {
-      "gemLevelID": 9,
-      "crossplayID": 9,
-      "saleValue": 3000,
-      "insertCostC1": 40000,
-      "craftSuccessChance": 2,
-      "craftCostC1": 35000,
-      "craftCostC2": 50000,
-      "removalCostC2": 7500
-    },
-    {
-      "gemLevelID": 10,
-      "crossplayID": 10,
-      "saleValue": 5000,
-      "insertCostC1": 50000,
-      "craftSuccessChance": 2,
-      "craftCostC1": 45000,
-      "craftCostC2": 75000,
-      "removalCostC2": 10000
-    },
-    {
-      "gemLevelID": 11,
-      "crossplayID": 11,
-      "saleValue": 7000,
-      "insertCostC1": 60000,
-      "craftSuccessChance": 2,
-      "craftCostC1": 70000,
-      "craftCostC2": 150000,
-      "removalCostC2": 15000
-    },
-    {
-      "gemLevelID": 12,
-      "crossplayID": 12,
-      "saleValue": 9000,
-      "insertCostC1": 70000,
-      "craftSuccessChance": 2,
-      "craftCostC1": 105000,
-      "craftCostC2": 225000,
-      "removalCostC2": 17500
-    },
-    {
-      "gemLevelID": 13,
-      "crossplayID": 13,
-      "saleValue": 11000,
-      "insertCostC1": 80000,
-      "removalCostC2": 20000
-    }
-  ]
-}
+[
+  {
+    "gemLevelID": 0,
+    "crossplayID": 0,
+    "saleValue": 11000,
+    "insertCostC1": 80000,
+    "removalCostC2": 20000
+  },
+  {
+    "gemLevelID": 1,
+    "crossplayID": 1,
+    "saleValue": 25,
+    "insertCostC1": 1000,
+    "craftSuccessChance": 100,
+    "craftCostC1": 500,
+    "craftCostC2": 0,
+    "removalCostC2": 200
+  },
+  {
+    "gemLevelID": 2,
+    "crossplayID": 2,
+    "saleValue": 50,
+    "insertCostC1": 2500,
+    "craftSuccessChance": 80,
+    "craftCostC1": 1000,
+    "craftCostC2": 250,
+    "removalCostC2": 300
+  },
+  {
+    "gemLevelID": 3,
+    "crossplayID": 3,
+    "saleValue": 100,
+    "insertCostC1": 5000,
+    "craftSuccessChance": 60,
+    "craftCostC1": 2500,
+    "craftCostC2": 550,
+    "removalCostC2": 400
+  },
+  {
+    "gemLevelID": 4,
+    "crossplayID": 4,
+    "saleValue": 200,
+    "insertCostC1": 7500,
+    "craftSuccessChance": 40,
+    "craftCostC1": 5000,
+    "craftCostC2": 950,
+    "removalCostC2": 500
+  },
+  {
+    "gemLevelID": 5,
+    "crossplayID": 5,
+    "saleValue": 300,
+    "insertCostC1": 10000,
+    "craftSuccessChance": 20,
+    "craftCostC1": 7500,
+    "craftCostC2": 1250,
+    "removalCostC2": 1000
+  },
+  {
+    "gemLevelID": 6,
+    "crossplayID": 6,
+    "saleValue": 500,
+    "insertCostC1": 15000,
+    "craftSuccessChance": 10,
+    "craftCostC1": 10000,
+    "craftCostC2": 2500,
+    "removalCostC2": 2000
+  },
+  {
+    "gemLevelID": 7,
+    "crossplayID": 7,
+    "saleValue": 1000,
+    "insertCostC1": 20000,
+    "craftSuccessChance": 8,
+    "craftCostC1": 15000,
+    "craftCostC2": 12500,
+    "removalCostC2": 3000
+  },
+  {
+    "gemLevelID": 8,
+    "crossplayID": 8,
+    "saleValue": 2000,
+    "insertCostC1": 30000,
+    "craftSuccessChance": 4,
+    "craftCostC1": 25000,
+    "craftCostC2": 25000,
+    "removalCostC2": 5000
+  },
+  {
+    "gemLevelID": 9,
+    "crossplayID": 9,
+    "saleValue": 3000,
+    "insertCostC1": 40000,
+    "craftSuccessChance": 2,
+    "craftCostC1": 35000,
+    "craftCostC2": 50000,
+    "removalCostC2": 7500
+  },
+  {
+    "gemLevelID": 10,
+    "crossplayID": 10,
+    "saleValue": 5000,
+    "insertCostC1": 50000,
+    "craftSuccessChance": 2,
+    "craftCostC1": 45000,
+    "craftCostC2": 75000,
+    "removalCostC2": 10000
+  },
+  {
+    "gemLevelID": 11,
+    "crossplayID": 11,
+    "saleValue": 7000,
+    "insertCostC1": 60000,
+    "craftSuccessChance": 2,
+    "craftCostC1": 70000,
+    "craftCostC2": 150000,
+    "removalCostC2": 15000
+  },
+  {
+    "gemLevelID": 12,
+    "crossplayID": 12,
+    "saleValue": 9000,
+    "insertCostC1": 70000,
+    "craftSuccessChance": 2,
+    "craftCostC1": 105000,
+    "craftCostC2": 225000,
+    "removalCostC2": 17500
+  },
+  {
+    "gemLevelID": 13,
+    "crossplayID": 13,
+    "saleValue": 11000,
+    "insertCostC1": 80000,
+    "removalCostC2": 20000
+  }
+]

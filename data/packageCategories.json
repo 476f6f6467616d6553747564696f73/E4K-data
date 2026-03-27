@@ -1,126 +1,128 @@
-{
-  "packageCategory": [
-    {
-      "categoryID": 1,
-      "name": "Equipment"
-    },
-    {
-      "categoryID": 10,
-      "name": "Gems"
-    },
-    {
-      "categoryID": 20,
-      "name": "Troops"
-    },
-    {
-      "categoryID": 30,
-      "name": "Tools"
-    },
-    {
-      "categoryID": 40,
-      "name": "Buildings"
-    },
-    {
-      "categoryID": 50,
-      "name": "Construction items"
-    },
-    {
-      "categoryID": 60,
-      "name": "Resources"
-    },
-    {
-      "categoryID": 99,
-      "name": "Misc"
-    },
-    {
-      "categoryID": 101,
-      "name": "GoldCurrency"
-    },
-    {
-      "categoryID": 102,
-      "name": "SilverCurrency"
-    },
-    {
-      "categoryID": 103,
-      "name": "BronzeCurrency"
-    },
-    {
-      "categoryID": 104,
-      "name": "AnniversaryToken"
-    },
-    {
-      "categoryID": 105,
-      "name": "XmasLTPEToken"
-    },
-    {
-      "categoryID": 106,
-      "name": "SpringLTPEToken"
-    },
-    {
-      "categoryID": 107,
-      "name": "NewKingLTPEToken"
-    },
-    {
-      "categoryID": 108,
-      "name": "LotusFlowerLTPEToken"
-    },
-    {
-      "categoryID": 109,
-      "name": "OctoberfestLTPEToken"
-    },
-    {
-      "categoryID": 110,
-      "name": "HalloweenLTPEToken"
-    },
-    {
-      "categoryID": 111,
-      "name": "IceLTPEToken"
-    },
-    {
-      "categoryID": 112,
-      "name": "StPatrickLTPEToken"
-    },
-    {
-      "categoryID": 115,
-      "name": "MayaLTPEToken"
-    },
-    {
-      "categoryID": 113,
-      "name": "sceatToken",
-      "sortOrder": 2
-    },
-    {
-      "categoryID": 114,
-      "name": "1MinSkip"
-    },
-    {
-      "categoryID": 116,
-      "name": "PiratesLTPEToken"
-    },
-    {
-      "categoryID": 117,
-      "name": "DragonriderLTPEToken"
-    },
-    {
-      "categoryID": 118,
-      "name": "ImperialPatronageCharter"
-    },
-    {
-      "categoryID": 119,
-      "name": "Rubies"
-    },
-    {
-      "categoryID": 120,
-      "name": "RiftCoin"
-    },
-    {
-      "categoryID": 121,
-      "name": "LegendaryRiftCoin"
-    },
-    {
-      "categoryID": 999,
-      "name": "Overall",
-      "sortOrder": 1
-    }
-  ]
-}
+[
+  {
+    "categoryID": 1,
+    "name": "Equipment"
+  },
+  {
+    "categoryID": 10,
+    "name": "Gems"
+  },
+  {
+    "categoryID": 20,
+    "name": "Troops"
+  },
+  {
+    "categoryID": 30,
+    "name": "Tools"
+  },
+  {
+    "categoryID": 40,
+    "name": "Buildings"
+  },
+  {
+    "categoryID": 50,
+    "name": "Construction items"
+  },
+  {
+    "categoryID": 60,
+    "name": "Resources"
+  },
+  {
+    "categoryID": 99,
+    "name": "Misc"
+  },
+  {
+    "categoryID": 101,
+    "name": "GoldCurrency"
+  },
+  {
+    "categoryID": 102,
+    "name": "SilverCurrency"
+  },
+  {
+    "categoryID": 103,
+    "name": "BronzeCurrency"
+  },
+  {
+    "categoryID": 104,
+    "name": "AnniversaryToken"
+  },
+  {
+    "categoryID": 105,
+    "name": "XmasLTPEToken"
+  },
+  {
+    "categoryID": 106,
+    "name": "SpringLTPEToken"
+  },
+  {
+    "categoryID": 107,
+    "name": "NewKingLTPEToken"
+  },
+  {
+    "categoryID": 108,
+    "name": "LotusFlowerLTPEToken"
+  },
+  {
+    "categoryID": 109,
+    "name": "OctoberfestLTPEToken"
+  },
+  {
+    "categoryID": 110,
+    "name": "HalloweenLTPEToken"
+  },
+  {
+    "categoryID": 111,
+    "name": "IceLTPEToken"
+  },
+  {
+    "categoryID": 112,
+    "name": "StPatrickLTPEToken"
+  },
+  {
+    "categoryID": 115,
+    "name": "MayaLTPEToken"
+  },
+  {
+    "categoryID": 113,
+    "name": "sceatToken",
+    "sortOrder": 2
+  },
+  {
+    "categoryID": 114,
+    "name": "1MinSkip"
+  },
+  {
+    "categoryID": 116,
+    "name": "PiratesLTPEToken"
+  },
+  {
+    "categoryID": 117,
+    "name": "DragonriderLTPEToken"
+  },
+  {
+    "categoryID": 118,
+    "name": "ImperialPatronageCharter"
+  },
+  {
+    "categoryID": 119,
+    "name": "Rubies"
+  },
+  {
+    "categoryID": 120,
+    "name": "RiftCoin"
+  },
+  {
+    "categoryID": 121,
+    "name": "LegendaryRiftCoin"
+  },
+  {
+    "categoryID": 122,
+    "name": "Coins"
+  },
+  {
+    "categoryID": 999,
+    "name": "Overall",
+    "sortOrder": 1
+  }
+]

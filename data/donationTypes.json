@@ -1,19 +1,17 @@
-{
-  "donationType": [
-    {
-      "donationTypeID": 1,
-      "crossplayID": 1,
-      "name": "builder"
-    },
-    {
-      "donationTypeID": 2,
-      "crossplayID": 2,
-      "name": "architect"
-    },
-    {
-      "donationTypeID": 3,
-      "crossplayID": 3,
-      "name": "mason"
-    }
-  ]
-}
+[
+  {
+    "donationTypeID": 1,
+    "crossplayID": 1,
+    "name": "builder"
+  },
+  {
+    "donationTypeID": 2,
+    "crossplayID": 2,
+    "name": "architect"
+  },
+  {
+    "donationTypeID": 3,
+    "crossplayID": 3,
+    "name": "mason"
+  }
+]

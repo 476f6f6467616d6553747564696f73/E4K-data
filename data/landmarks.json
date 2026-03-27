@@ -1,31 +1,29 @@
-{
-  "landmark": [
-    {
-      "landmarkID": 1,
-      "emptyMinConquerLevel": 35,
-      "minDefenseLevel": 70,
-      "defaultLevel": 35,
-      "isDefault": 1
-    },
-    {
-      "landmarkID": 2,
-      "emptyMinConquerLevel": 11,
-      "minDefenseLevel": 70,
-      "defaultLevel": 11,
-      "preBuiltCastleID": 37
-    },
-    {
-      "landmarkID": 3,
-      "emptyMinConquerLevel": 11,
-      "minDefenseLevel": 70,
-      "defaultLevel": 11,
-      "preBuiltCastleID": 38
-    },
-    {
-      "landmarkID": 4,
-      "emptyMinConquerLevel": 11,
-      "minDefenseLevel": 70,
-      "defaultLevel": 11
-    }
-  ]
-}
+[
+  {
+    "landmarkID": 1,
+    "emptyMinConquerLevel": 35,
+    "minDefenseLevel": 70,
+    "defaultLevel": 35,
+    "isDefault": 1
+  },
+  {
+    "landmarkID": 2,
+    "emptyMinConquerLevel": 11,
+    "minDefenseLevel": 70,
+    "defaultLevel": 11,
+    "preBuiltCastleID": 37
+  },
+  {
+    "landmarkID": 3,
+    "emptyMinConquerLevel": 11,
+    "minDefenseLevel": 70,
+    "defaultLevel": 11,
+    "preBuiltCastleID": 38
+  },
+  {
+    "landmarkID": 4,
+    "emptyMinConquerLevel": 11,
+    "minDefenseLevel": 70,
+    "defaultLevel": 11
+  }
+]

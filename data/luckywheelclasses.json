@@ -1,70 +1,68 @@
-{
-  "luckywheelclass": [
-    {
-      "luckyWheelClassID": 1,
-      "neededSpinsForNextClass": 3,
-      "C2PerSkippedSpin": 300,
-      "HighlightNormal": "3589,3591,3588",
-      "HighlightHard": "779,776,971"
-    },
-    {
-      "luckyWheelClassID": 2,
-      "neededSpinsForNextClass": 9,
-      "C2PerSkippedSpin": 210,
-      "activityRewardThreshold": 2,
-      "HighlightNormal": "3589,3600,3602,3599",
-      "HighlightHard": "779,978,971,975,980"
-    },
-    {
-      "luckyWheelClassID": 3,
-      "neededSpinsForNextClass": 28,
-      "C2PerSkippedSpin": 175,
-      "HighlightNormal": "3589,3600,3607,3609,3606",
-      "HighlightHard": "779,978,988,987,991,990"
-    },
-    {
-      "luckyWheelClassID": 4,
-      "neededSpinsForNextClass": 60,
-      "C2PerSkippedSpin": 165,
-      "activityRewardThreshold": 4,
-      "HighlightNormal": "3589,3600,3607,3616,3618,3615",
-      "HighlightHard": "779,978,988,998,997,1125,1124"
-    },
-    {
-      "luckyWheelClassID": 5,
-      "neededSpinsForNextClass": 400,
-      "C2PerSkippedSpin": 99.75,
-      "HighlightNormal": "3589,3600,3607,3616,3623,3625,3622",
-      "HighlightHard": "779,978,988,998,1243,1246,1241,1245"
-    },
-    {
-      "luckyWheelClassID": 6,
-      "neededSpinsForNextClass": 1000,
-      "C2PerSkippedSpin": 79,
-      "activityRewardThreshold": 6,
-      "HighlightNormal": "3589,3600,3607,3616,3623,3630,3632,3629",
-      "HighlightHard": "779,978,988,998,1243,1253,1252,1256,1255"
-    },
-    {
-      "luckyWheelClassID": 7,
-      "neededSpinsForNextClass": 2000,
-      "C2PerSkippedSpin": 44.5,
-      "HighlightNormal": "3589,3600,3607,3616,3623,3630,3640,3642,3639",
-      "HighlightHard": "779,978,988,998,1243,1253,1263,1262,1266,1265"
-    },
-    {
-      "luckyWheelClassID": 8,
-      "neededSpinsForNextClass": 2000,
-      "C2PerSkippedSpin": 49,
-      "HighlightNormal": "3589,3600,3607,3616,3623,3630,3640,3834,3836,3833",
-      "HighlightHard": "779,978,988,998,1243,1253,1263,1273,1272,1276,1275"
-    },
-    {
-      "luckyWheelClassID": 9,
-      "HighlightNormal": "3589,3600,3607,3616,3623,3630,3640,3834,3844,3846,3843",
-      "HighlightHard": "779,978,988,998,1243,1253,1263,1273,1283,1282,1286,1285",
-      "TopHighlightNormal": "3589,3600,3607,3616,3623,3630,3640,3834,3844,3846,3843",
-      "TopHighlightHard": "779,978,988,998,1243,1253,1263,1273,1283,1282,1286,1285"
-    }
-  ]
-}
+[
+  {
+    "luckyWheelClassID": 1,
+    "neededSpinsForNextClass": 3,
+    "C2PerSkippedSpin": 300,
+    "HighlightNormal": "3589,3591,3588",
+    "HighlightHard": "779,776,971"
+  },
+  {
+    "luckyWheelClassID": 2,
+    "neededSpinsForNextClass": 9,
+    "C2PerSkippedSpin": 210,
+    "activityRewardThreshold": 2,
+    "HighlightNormal": "3589,3600,3602,3599",
+    "HighlightHard": "779,978,971,975,980"
+  },
+  {
+    "luckyWheelClassID": 3,
+    "neededSpinsForNextClass": 28,
+    "C2PerSkippedSpin": 175,
+    "HighlightNormal": "3589,3600,3607,3609,3606",
+    "HighlightHard": "779,978,988,987,991,990"
+  },
+  {
+    "luckyWheelClassID": 4,
+    "neededSpinsForNextClass": 60,
+    "C2PerSkippedSpin": 165,
+    "activityRewardThreshold": 4,
+    "HighlightNormal": "3589,3600,3607,3616,3618,3615",
+    "HighlightHard": "779,978,988,998,997,1125,1124"
+  },
+  {
+    "luckyWheelClassID": 5,
+    "neededSpinsForNextClass": 400,
+    "C2PerSkippedSpin": 99.75,
+    "HighlightNormal": "3589,3600,3607,3616,3623,3625,3622",
+    "HighlightHard": "779,978,988,998,1243,1246,1241,1245"
+  },
+  {
+    "luckyWheelClassID": 6,
+    "neededSpinsForNextClass": 1000,
+    "C2PerSkippedSpin": 79,
+    "activityRewardThreshold": 6,
+    "HighlightNormal": "3589,3600,3607,3616,3623,3630,3632,3629",
+    "HighlightHard": "779,978,988,998,1243,1253,1252,1256,1255"
+  },
+  {
+    "luckyWheelClassID": 7,
+    "neededSpinsForNextClass": 2000,
+    "C2PerSkippedSpin": 44.5,
+    "HighlightNormal": "3589,3600,3607,3616,3623,3630,3640,3642,3639",
+    "HighlightHard": "779,978,988,998,1243,1253,1263,1262,1266,1265"
+  },
+  {
+    "luckyWheelClassID": 8,
+    "neededSpinsForNextClass": 2000,
+    "C2PerSkippedSpin": 49,
+    "HighlightNormal": "3589,3600,3607,3616,3623,3630,3640,3834,3836,3833",
+    "HighlightHard": "779,978,988,998,1243,1253,1263,1273,1272,1276,1275"
+  },
+  {
+    "luckyWheelClassID": 9,
+    "HighlightNormal": "3589,3600,3607,3616,3623,3630,3640,3834,3844,3846,3843",
+    "HighlightHard": "779,978,988,998,1243,1253,1263,1273,1283,1282,1286,1285",
+    "TopHighlightNormal": "3589,3600,3607,3616,3623,3630,3640,3834,3844,3846,3843",
+    "TopHighlightHard": "779,978,988,998,1243,1253,1263,1273,1283,1282,1286,1285"
+  }
+]

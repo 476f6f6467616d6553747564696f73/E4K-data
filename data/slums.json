@@ -1,93 +1,91 @@
-{
-  "slum": [
-    {
-      "slumLevel": 0,
-      "kID": 2
-    },
-    {
-      "slumLevel": 1,
-      "kID": 2,
-      "partPayPriceID": 15,
-      "packageIDs": "100+3182"
-    },
-    {
-      "slumLevel": 2,
-      "kID": 2,
-      "partPayPriceID": 16,
-      "packageIDs": "102+103"
-    },
-    {
-      "slumLevel": 3,
-      "kID": 2,
-      "partPayPriceID": 17,
-      "packageIDs": "104+105"
-    },
-    {
-      "slumLevel": 4,
-      "kID": 2,
-      "partPayPriceID": 18,
-      "packageIDs": "3183+3184"
-    },
-    {
-      "slumLevel": 0,
-      "kID": 1
-    },
-    {
-      "slumLevel": 1,
-      "kID": 1,
-      "partPayPriceID": 19,
-      "packageIDs": "108+3185"
-    },
-    {
-      "slumLevel": 2,
-      "kID": 1,
-      "partPayPriceID": 20,
-      "packageIDs": "110+111"
-    },
-    {
-      "slumLevel": 3,
-      "kID": 1,
-      "partPayPriceID": 21,
-      "packageIDs": "112+113"
-    },
-    {
-      "slumLevel": 4,
-      "kID": 1,
-      "partPayPriceID": 22,
-      "packageIDs": "3186+3187"
-    },
-    {
-      "slumLevel": 0,
-      "kID": 3
-    },
-    {
-      "slumLevel": 1,
-      "kID": 3,
-      "partPayPriceID": 23,
-      "packageIDs": "116+3188"
-    },
-    {
-      "slumLevel": 2,
-      "kID": 3,
-      "partPayPriceID": 24,
-      "packageIDs": "118+119"
-    },
-    {
-      "slumLevel": 3,
-      "kID": 3,
-      "partPayPriceID": 25,
-      "packageIDs": "120+121"
-    },
-    {
-      "slumLevel": 4,
-      "kID": 3,
-      "partPayPriceID": 26,
-      "packageIDs": "3189+3190"
-    },
-    {
-      "slumLevel": 1,
-      "kID": 4,
-      "packageIDs": "3114+3115+3116+3117+3118+3119+3120+3122+3123+3124+3125+245+246+247+248+2795+2796+2797+2798"
-    }
-  ]
-}
+[
+  {
+    "slumLevel": 0,
+    "kID": 2
+  },
+  {
+    "slumLevel": 1,
+    "kID": 2,
+    "partPayPriceID": 15,
+    "packageIDs": "100+3182"
+  },
+  {
+    "slumLevel": 2,
+    "kID": 2,
+    "partPayPriceID": 16,
+    "packageIDs": "102+103"
+  },
+  {
+    "slumLevel": 3,
+    "kID": 2,
+    "partPayPriceID": 17,
+    "packageIDs": "104+105"
+  },
+  {
+    "slumLevel": 4,
+    "kID": 2,
+    "partPayPriceID": 18,
+    "packageIDs": "3183+3184"
+  },
+  {
+    "slumLevel": 0,
+    "kID": 1
+  },
+  {
+    "slumLevel": 1,
+    "kID": 1,
+    "partPayPriceID": 19,
+    "packageIDs": "108+3185"
+  },
+  {
+    "slumLevel": 2,
+    "kID": 1,
+    "partPayPriceID": 20,
+    "packageIDs": "110+111"
+  },
+  {
+    "slumLevel": 3,
+    "kID": 1,
+    "partPayPriceID": 21,
+    "packageIDs": "112+113"
+  },
+  {
+    "slumLevel": 4,
+    "kID": 1,
+    "partPayPriceID": 22,
+    "packageIDs": "3186+3187"
+  },
+  {
+    "slumLevel": 0,
+    "kID": 3
+  },
+  {
+    "slumLevel": 1,
+    "kID": 3,
+    "partPayPriceID": 23,
+    "packageIDs": "116+3188"
+  },
+  {
+    "slumLevel": 2,
+    "kID": 3,
+    "partPayPriceID": 24,
+    "packageIDs": "118+119"
+  },
+  {
+    "slumLevel": 3,
+    "kID": 3,
+    "partPayPriceID": 25,
+    "packageIDs": "120+121"
+  },
+  {
+    "slumLevel": 4,
+    "kID": 3,
+    "partPayPriceID": 26,
+    "packageIDs": "3189+3190"
+  },
+  {
+    "slumLevel": 1,
+    "kID": 4,
+    "packageIDs": "3114+3115+3116+3117+3118+3119+3120+3122+3123+3124+3125+245+246+247+248+2795+2796+2797+2798"
+  }
+]

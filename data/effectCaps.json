@@ -1,1151 +1,1264 @@
-{
-  "effectCap": [
-    {
-      "capID": 0,
-      "crossplayID": 0,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1,
-      "crossplayID": 1,
-      "maxTotalBonus": 80
-    },
-    {
-      "capID": 2,
-      "crossplayID": 2,
-      "maxTotalBonus": 70
-    },
-    {
-      "capID": 3,
-      "crossplayID": 3,
-      "maxTotalBonus": 90
-    },
-    {
-      "capID": 4,
-      "crossplayID": 4,
-      "maxTotalBonus": 75
-    },
-    {
-      "capID": 5,
-      "crossplayID": 5,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 6,
-      "crossplayID": 6,
-      "maxTotalBonus": 120
-    },
-    {
-      "capID": 7,
-      "crossplayID": 7,
-      "maxTotalBonus": 120
-    },
-    {
-      "capID": 8,
-      "crossplayID": 8,
-      "maxTotalBonus": 80
-    },
-    {
-      "capID": 9,
-      "crossplayID": 9,
-      "maxTotalBonus": 90
-    },
-    {
-      "capID": 10,
-      "crossplayID": 10,
-      "maxTotalBonus": 90
-    },
-    {
-      "capID": 11,
-      "crossplayID": 11,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 12,
-      "crossplayID": 12,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 13,
-      "crossplayID": 13,
-      "maxTotalBonus": 200
-    },
-    {
-      "capID": 14,
-      "crossplayID": 14,
-      "maxTotalBonus": 150
-    },
-    {
-      "capID": 15,
-      "crossplayID": 15,
-      "maxTotalBonus": 80
-    },
-    {
-      "capID": 16,
-      "crossplayID": 16,
-      "maxTotalBonus": 80
-    },
-    {
-      "capID": 17,
-      "crossplayID": 17,
-      "maxTotalBonus": 90
-    },
-    {
-      "capID": 18,
-      "crossplayID": 18,
-      "maxTotalBonus": 75
-    },
-    {
-      "capID": 19,
-      "crossplayID": 19,
-      "maxTotalBonus": 120
-    },
-    {
-      "capID": 20,
-      "crossplayID": 20,
-      "maxTotalBonus": 120
-    },
-    {
-      "capID": 21,
-      "crossplayID": 21,
-      "maxTotalBonus": 80
-    },
-    {
-      "capID": 22,
-      "crossplayID": 22,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 23,
-      "crossplayID": 23,
-      "maxTotalBonus": 90
-    },
-    {
-      "capID": 24,
-      "crossplayID": 24,
-      "maxTotalBonus": 90
-    },
-    {
-      "capID": 25,
-      "crossplayID": 25,
-      "maxTotalBonus": 5
-    },
-    {
-      "capID": 26,
-      "crossplayID": 26,
-      "maxTotalBonus": 95
-    },
-    {
-      "capID": 27,
-      "crossplayID": 27,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 28,
-      "crossplayID": 28,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 29,
-      "crossplayID": 29,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 30,
-      "crossplayID": 30,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 31,
-      "crossplayID": 31,
-      "maxTotalBonus": 5
-    },
-    {
-      "capID": 32,
-      "crossplayID": 32,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 33,
-      "crossplayID": 33,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 34,
-      "crossplayID": 34,
-      "maxTotalBonus": 12
-    },
-    {
-      "capID": 99,
-      "crossplayID": 99
-    },
-    {
-      "capID": 1001,
-      "crossplayID": 1001,
-      "maxTotalBonus": 140
-    },
-    {
-      "capID": 1002,
-      "crossplayID": 1002,
-      "maxTotalBonus": 140
-    },
-    {
-      "capID": 1003,
-      "crossplayID": 1003,
-      "maxTotalBonus": 160
-    },
-    {
-      "capID": 1004,
-      "crossplayID": 1004,
-      "maxTotalBonus": 160
-    },
-    {
-      "capID": 1005,
-      "crossplayID": 1005,
-      "maxTotalBonus": 120
-    },
-    {
-      "capID": 1006,
-      "crossplayID": 1006,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 1007,
-      "crossplayID": 1007,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1008,
-      "crossplayID": 1008,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1009,
-      "crossplayID": 1009,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 1010,
-      "crossplayID": 1010,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1011,
-      "crossplayID": 1011,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 1012,
-      "crossplayID": 1012,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 1013,
-      "crossplayID": 1013,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 1014,
-      "crossplayID": 1014
-    },
-    {
-      "capID": 1101,
-      "crossplayID": 1101,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1102,
-      "crossplayID": 1102,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1103,
-      "crossplayID": 1103,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1104,
-      "crossplayID": 1104,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1105,
-      "crossplayID": 1105,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1106,
-      "crossplayID": 1106,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1107,
-      "crossplayID": 1107,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1108,
-      "crossplayID": 1108,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 1109,
-      "crossplayID": 1109,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1110,
-      "crossplayID": 1110,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 1111,
-      "crossplayID": 1111,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 1112,
-      "crossplayID": 1112,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 1201,
-      "crossplayID": 1201,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1202,
-      "crossplayID": 1202,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1203,
-      "crossplayID": 1203,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1204,
-      "crossplayID": 1204,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1205,
-      "crossplayID": 1205,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1206,
-      "crossplayID": 1206,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1207,
-      "crossplayID": 1207,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1208,
-      "crossplayID": 1208,
-      "maxTotalBonus": 90
-    },
-    {
-      "capID": 1209,
-      "crossplayID": 1209,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 1210,
-      "crossplayID": 1210,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1211,
-      "crossplayID": 1211,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 1212,
-      "crossplayID": 1212,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1301,
-      "crossplayID": 1301,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1302,
-      "crossplayID": 1302,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1303,
-      "crossplayID": 1303,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1304,
-      "crossplayID": 1304,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1305,
-      "crossplayID": 1305,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1306,
-      "crossplayID": 1306,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1307,
-      "crossplayID": 1307,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1308,
-      "crossplayID": 1308,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 1309,
-      "crossplayID": 1309,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 1401,
-      "crossplayID": 1401,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1402,
-      "crossplayID": 1402,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1403,
-      "crossplayID": 1403,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1404,
-      "crossplayID": 1404,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1405,
-      "crossplayID": 1405,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1406,
-      "crossplayID": 1406,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1407,
-      "crossplayID": 1407,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1408,
-      "crossplayID": 1408,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 1409,
-      "crossplayID": 1409,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 1501,
-      "crossplayID": 1501,
-      "maxTotalBonus": 120
-    },
-    {
-      "capID": 1502,
-      "crossplayID": 1502,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1503,
-      "crossplayID": 1503,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1504,
-      "crossplayID": 1504,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 1505,
-      "crossplayID": 1505,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1506,
-      "crossplayID": 1506,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1507,
-      "crossplayID": 1507,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1508,
-      "crossplayID": 1508,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1509,
-      "crossplayID": 1509,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1601,
-      "crossplayID": 1601,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1602,
-      "crossplayID": 1602,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1603,
-      "crossplayID": 1603,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1604,
-      "crossplayID": 1604,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1605,
-      "crossplayID": 1605,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1606,
-      "crossplayID": 1606,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1607,
-      "crossplayID": 1607,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1608,
-      "crossplayID": 1608,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 1609,
-      "crossplayID": 1609,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 1701,
-      "crossplayID": 1701,
-      "maxTotalBonus": 90
-    },
-    {
-      "capID": 1702,
-      "crossplayID": 1702,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 1703,
-      "crossplayID": 1703,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1704,
-      "crossplayID": 1704,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1705,
-      "crossplayID": 1705,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 1706,
-      "crossplayID": 1706,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1707,
-      "crossplayID": 1707,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 1708,
-      "crossplayID": 1708,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1709,
-      "crossplayID": 1709,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1710,
-      "crossplayID": 1710,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 1711,
-      "crossplayID": 1711,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 11001,
-      "crossplayID": 11001,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11002,
-      "crossplayID": 11002,
-      "maxTotalBonus": 160
-    },
-    {
-      "capID": 11003,
-      "crossplayID": 11003,
-      "maxTotalBonus": 160
-    },
-    {
-      "capID": 11004,
-      "crossplayID": 11004,
-      "maxTotalBonus": 120
-    },
-    {
-      "capID": 11005,
-      "crossplayID": 11005,
-      "maxTotalBonus": 140
-    },
-    {
-      "capID": 11006,
-      "crossplayID": 11006,
-      "maxTotalBonus": 140
-    },
-    {
-      "capID": 11007,
-      "crossplayID": 11007,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11008,
-      "crossplayID": 11008,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 11009,
-      "crossplayID": 11009,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 11010,
-      "crossplayID": 11010,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 11011,
-      "crossplayID": 11011,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 11012,
-      "crossplayID": 11012
-    },
-    {
-      "capID": 11101,
-      "crossplayID": 11101,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11102,
-      "crossplayID": 11102,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11103,
-      "crossplayID": 11103,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11104,
-      "crossplayID": 11104,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11105,
-      "crossplayID": 11105,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 11106,
-      "crossplayID": 11106,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11107,
-      "crossplayID": 11107,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 11108,
-      "crossplayID": 11108,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 11109,
-      "crossplayID": 11109,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 11110,
-      "crossplayID": 11110,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 11111,
-      "crossplayID": 11111,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 11201,
-      "crossplayID": 11201,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11202,
-      "crossplayID": 11202,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11203,
-      "crossplayID": 11203,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11204,
-      "crossplayID": 11204,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11205,
-      "crossplayID": 11205,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 11206,
-      "crossplayID": 11206,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11207,
-      "crossplayID": 11207,
-      "maxTotalBonus": 90
-    },
-    {
-      "capID": 11208,
-      "crossplayID": 11208,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 11209,
-      "crossplayID": 11209,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11210,
-      "crossplayID": 11210,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 11301,
-      "crossplayID": 11301,
-      "maxTotalBonus": 25
-    },
-    {
-      "capID": 11302,
-      "crossplayID": 11302,
-      "maxTotalBonus": 25
-    },
-    {
-      "capID": 11303,
-      "crossplayID": 11303,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 11304,
-      "crossplayID": 11304,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11305,
-      "crossplayID": 11305,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11306,
-      "crossplayID": 11306,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11307,
-      "crossplayID": 11307,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11308,
-      "crossplayID": 11308,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 11309,
-      "crossplayID": 11309,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11310,
-      "crossplayID": 11310,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 11311,
-      "crossplayID": 11311,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 11312,
-      "crossplayID": 11312,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 11313,
-      "crossplayID": 11313,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 11401,
-      "crossplayID": 11401,
-      "maxTotalBonus": 25
-    },
-    {
-      "capID": 11402,
-      "crossplayID": 11402,
-      "maxTotalBonus": 25
-    },
-    {
-      "capID": 11403,
-      "crossplayID": 11403,
-      "maxTotalBonus": 90
-    },
-    {
-      "capID": 11404,
-      "crossplayID": 11404,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 11405,
-      "crossplayID": 11405,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11406,
-      "crossplayID": 11406,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11407,
-      "crossplayID": 11407,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11408,
-      "crossplayID": 11408,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11409,
-      "crossplayID": 11409,
-      "maxTotalBonus": 40
-    },
-    {
-      "capID": 11410,
-      "crossplayID": 11410,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 11411,
-      "crossplayID": 11411,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 11412,
-      "crossplayID": 11412,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 11413,
-      "crossplayID": 11413,
-      "maxTotalBonus": 3000
-    },
-    {
-      "capID": 11414,
-      "crossplayID": 11414,
-      "maxTotalBonus": 3000
-    },
-    {
-      "capID": 11500,
-      "crossplayID": 11500,
-      "maxTotalBonus": 4000
-    },
-    {
-      "capID": 35,
-      "crossplayID": 35,
-      "maxTotalBonus": 50000
-    },
-    {
-      "capID": 36,
-      "crossplayID": 36,
-      "maxTotalBonus": 500000
-    },
-    {
-      "capID": 37,
-      "crossplayID": 37,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 38,
-      "crossplayID": 38,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 39,
-      "crossplayID": 39,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 40,
-      "crossplayID": 40,
-      "maxTotalBonus": 20
-    },
-    {
-      "capID": 41,
-      "crossplayID": 41,
-      "maxTotalBonus": 400
-    },
-    {
-      "capID": 42,
-      "crossplayID": 42,
-      "maxTotalBonus": 50000
-    },
-    {
-      "capID": 43,
-      "crossplayID": 43,
-      "maxTotalBonus": 200
-    },
-    {
-      "capID": 44,
-      "crossplayID": 44,
-      "maxTotalBonus": 200
-    },
-    {
-      "capID": 45,
-      "crossplayID": 45,
-      "maxTotalBonus": 120
-    },
-    {
-      "capID": 46,
-      "crossplayID": 46,
-      "maxTotalBonus": 120
-    },
-    {
-      "capID": 47,
-      "crossplayID": 47,
-      "maxTotalBonus": 120
-    },
-    {
-      "capID": 48,
-      "crossplayID": 48,
-      "maxTotalBonus": 150000
-    },
-    {
-      "capID": 49,
-      "crossplayID": 49,
-      "maxTotalBonus": 75000
-    },
-    {
-      "capID": 50,
-      "crossplayID": 50,
-      "maxTotalBonus": 15000
-    },
-    {
-      "capID": 51,
-      "crossplayID": 51,
-      "maxTotalBonus": 50000
-    },
-    {
-      "capID": 52,
-      "crossplayID": 52,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 53,
-      "crossplayID": 53,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 54,
-      "crossplayID": 54,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 55,
-      "crossplayID": 55,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 56,
-      "crossplayID": 56,
-      "maxTotalBonus": 150000
-    },
-    {
-      "capID": 57,
-      "crossplayID": 57,
-      "maxTotalBonus": 60
-    },
-    {
-      "capID": 58,
-      "crossplayID": 58,
-      "maxTotalBonus": 150
-    },
-    {
-      "capID": 59,
-      "crossplayID": 59,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 60,
-      "crossplayID": 60,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 61,
-      "crossplayID": 61,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 62,
-      "crossplayID": 62,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 63,
-      "crossplayID": 63,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 64,
-      "crossplayID": 64,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 65,
-      "crossplayID": 65,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 66,
-      "crossplayID": 66,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 67,
-      "crossplayID": 67,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 68,
-      "crossplayID": 68,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 69,
-      "crossplayID": 69,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 70,
-      "crossplayID": 70,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 71,
-      "crossplayID": 71,
-      "maxTotalBonus": 100000
-    },
-    {
-      "capID": 72,
-      "crossplayID": 72,
-      "maxTotalBonus": 100000
-    },
-    {
-      "capID": 73,
-      "crossplayID": 73,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 74,
-      "crossplayID": 74,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 75,
-      "crossplayID": 75,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 76,
-      "crossplayID": 76,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 77,
-      "crossplayID": 77,
-      "maxTotalBonus": 50
-    },
-    {
-      "capID": 78,
-      "crossplayID": 78,
-      "maxTotalBonus": 150
-    },
-    {
-      "capID": 79,
-      "crossplayID": 79,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 80,
-      "crossplayID": 80,
-      "maxTotalBonus": 30
-    },
-    {
-      "capID": 81,
-      "crossplayID": 81,
-      "maxTotalBonus": 100
-    },
-    {
-      "capID": 82,
-      "crossplayID": 82,
-      "maxTotalBonus": 100
-    }
-  ]
-}
+[
+  {
+    "capID": 0,
+    "crossplayID": 0,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1,
+    "crossplayID": 1,
+    "maxTotalBonus": 80
+  },
+  {
+    "capID": 2,
+    "crossplayID": 2,
+    "maxTotalBonus": 70
+  },
+  {
+    "capID": 3,
+    "crossplayID": 3,
+    "maxTotalBonus": 90
+  },
+  {
+    "capID": 4,
+    "crossplayID": 4,
+    "maxTotalBonus": 75
+  },
+  {
+    "capID": 5,
+    "crossplayID": 5,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 6,
+    "crossplayID": 6,
+    "maxTotalBonus": 120
+  },
+  {
+    "capID": 7,
+    "crossplayID": 7,
+    "maxTotalBonus": 120
+  },
+  {
+    "capID": 8,
+    "crossplayID": 8,
+    "maxTotalBonus": 80
+  },
+  {
+    "capID": 9,
+    "crossplayID": 9,
+    "maxTotalBonus": 90
+  },
+  {
+    "capID": 10,
+    "crossplayID": 10,
+    "maxTotalBonus": 90
+  },
+  {
+    "capID": 11,
+    "crossplayID": 11,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 12,
+    "crossplayID": 12,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 13,
+    "crossplayID": 13,
+    "maxTotalBonus": 200
+  },
+  {
+    "capID": 14,
+    "crossplayID": 14,
+    "maxTotalBonus": 150
+  },
+  {
+    "capID": 15,
+    "crossplayID": 15,
+    "maxTotalBonus": 80
+  },
+  {
+    "capID": 16,
+    "crossplayID": 16,
+    "maxTotalBonus": 80
+  },
+  {
+    "capID": 17,
+    "crossplayID": 17,
+    "maxTotalBonus": 90
+  },
+  {
+    "capID": 18,
+    "crossplayID": 18,
+    "maxTotalBonus": 75
+  },
+  {
+    "capID": 19,
+    "crossplayID": 19,
+    "maxTotalBonus": 120
+  },
+  {
+    "capID": 20,
+    "crossplayID": 20,
+    "maxTotalBonus": 120
+  },
+  {
+    "capID": 21,
+    "crossplayID": 21,
+    "maxTotalBonus": 80
+  },
+  {
+    "capID": 22,
+    "crossplayID": 22,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 23,
+    "crossplayID": 23,
+    "maxTotalBonus": 90
+  },
+  {
+    "capID": 24,
+    "crossplayID": 24,
+    "maxTotalBonus": 90
+  },
+  {
+    "capID": 25,
+    "crossplayID": 25,
+    "maxTotalBonus": 5
+  },
+  {
+    "capID": 26,
+    "crossplayID": 26,
+    "maxTotalBonus": 95
+  },
+  {
+    "capID": 27,
+    "crossplayID": 27,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 28,
+    "crossplayID": 28,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 29,
+    "crossplayID": 29,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 30,
+    "crossplayID": 30,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 31,
+    "crossplayID": 31,
+    "maxTotalBonus": 5
+  },
+  {
+    "capID": 32,
+    "crossplayID": 32,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 33,
+    "crossplayID": 33,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 34,
+    "crossplayID": 34,
+    "maxTotalBonus": 12
+  },
+  {
+    "capID": 99,
+    "crossplayID": 99
+  },
+  {
+    "capID": 1001,
+    "crossplayID": 1001,
+    "maxTotalBonus": 140
+  },
+  {
+    "capID": 1002,
+    "crossplayID": 1002,
+    "maxTotalBonus": 140
+  },
+  {
+    "capID": 1003,
+    "crossplayID": 1003,
+    "maxTotalBonus": 160
+  },
+  {
+    "capID": 1004,
+    "crossplayID": 1004,
+    "maxTotalBonus": 160
+  },
+  {
+    "capID": 1005,
+    "crossplayID": 1005,
+    "maxTotalBonus": 120
+  },
+  {
+    "capID": 1006,
+    "crossplayID": 1006,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 1007,
+    "crossplayID": 1007,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1008,
+    "crossplayID": 1008,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1009,
+    "crossplayID": 1009,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 1010,
+    "crossplayID": 1010,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1011,
+    "crossplayID": 1011,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 1012,
+    "crossplayID": 1012,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 1013,
+    "crossplayID": 1013,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 1014,
+    "crossplayID": 1014
+  },
+  {
+    "capID": 1101,
+    "crossplayID": 1101,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1102,
+    "crossplayID": 1102,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1103,
+    "crossplayID": 1103,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1104,
+    "crossplayID": 1104,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1105,
+    "crossplayID": 1105,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1106,
+    "crossplayID": 1106,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1107,
+    "crossplayID": 1107,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1108,
+    "crossplayID": 1108,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 1109,
+    "crossplayID": 1109,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1110,
+    "crossplayID": 1110,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 1111,
+    "crossplayID": 1111,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 1112,
+    "crossplayID": 1112,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 1201,
+    "crossplayID": 1201,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1202,
+    "crossplayID": 1202,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1203,
+    "crossplayID": 1203,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1204,
+    "crossplayID": 1204,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1205,
+    "crossplayID": 1205,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1206,
+    "crossplayID": 1206,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1207,
+    "crossplayID": 1207,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1208,
+    "crossplayID": 1208,
+    "maxTotalBonus": 90
+  },
+  {
+    "capID": 1209,
+    "crossplayID": 1209,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 1210,
+    "crossplayID": 1210,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1211,
+    "crossplayID": 1211,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 1212,
+    "crossplayID": 1212,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1301,
+    "crossplayID": 1301,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1302,
+    "crossplayID": 1302,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1303,
+    "crossplayID": 1303,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1304,
+    "crossplayID": 1304,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1305,
+    "crossplayID": 1305,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1306,
+    "crossplayID": 1306,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1307,
+    "crossplayID": 1307,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1308,
+    "crossplayID": 1308,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 1309,
+    "crossplayID": 1309,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 1401,
+    "crossplayID": 1401,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1402,
+    "crossplayID": 1402,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1403,
+    "crossplayID": 1403,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1404,
+    "crossplayID": 1404,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1405,
+    "crossplayID": 1405,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1406,
+    "crossplayID": 1406,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1407,
+    "crossplayID": 1407,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1408,
+    "crossplayID": 1408,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 1409,
+    "crossplayID": 1409,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 1501,
+    "crossplayID": 1501,
+    "maxTotalBonus": 120
+  },
+  {
+    "capID": 1502,
+    "crossplayID": 1502,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1503,
+    "crossplayID": 1503,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1504,
+    "crossplayID": 1504,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 1505,
+    "crossplayID": 1505,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1506,
+    "crossplayID": 1506,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1507,
+    "crossplayID": 1507,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1508,
+    "crossplayID": 1508,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1509,
+    "crossplayID": 1509,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1601,
+    "crossplayID": 1601,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1602,
+    "crossplayID": 1602,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1603,
+    "crossplayID": 1603,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1604,
+    "crossplayID": 1604,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1605,
+    "crossplayID": 1605,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1606,
+    "crossplayID": 1606,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1607,
+    "crossplayID": 1607,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1608,
+    "crossplayID": 1608,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 1609,
+    "crossplayID": 1609,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 1701,
+    "crossplayID": 1701,
+    "maxTotalBonus": 90
+  },
+  {
+    "capID": 1702,
+    "crossplayID": 1702,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 1703,
+    "crossplayID": 1703,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1704,
+    "crossplayID": 1704,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1705,
+    "crossplayID": 1705,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 1706,
+    "crossplayID": 1706,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1707,
+    "crossplayID": 1707,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 1708,
+    "crossplayID": 1708,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1709,
+    "crossplayID": 1709,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1710,
+    "crossplayID": 1710,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 1711,
+    "crossplayID": 1711,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 11001,
+    "crossplayID": 11001,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11002,
+    "crossplayID": 11002,
+    "maxTotalBonus": 160
+  },
+  {
+    "capID": 11003,
+    "crossplayID": 11003,
+    "maxTotalBonus": 160
+  },
+  {
+    "capID": 11004,
+    "crossplayID": 11004,
+    "maxTotalBonus": 120
+  },
+  {
+    "capID": 11005,
+    "crossplayID": 11005,
+    "maxTotalBonus": 140
+  },
+  {
+    "capID": 11006,
+    "crossplayID": 11006,
+    "maxTotalBonus": 140
+  },
+  {
+    "capID": 11007,
+    "crossplayID": 11007,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11008,
+    "crossplayID": 11008,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 11009,
+    "crossplayID": 11009,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 11010,
+    "crossplayID": 11010,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 11011,
+    "crossplayID": 11011,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 11012,
+    "crossplayID": 11012
+  },
+  {
+    "capID": 11101,
+    "crossplayID": 11101,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11102,
+    "crossplayID": 11102,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11103,
+    "crossplayID": 11103,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11104,
+    "crossplayID": 11104,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11105,
+    "crossplayID": 11105,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 11106,
+    "crossplayID": 11106,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11107,
+    "crossplayID": 11107,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 11108,
+    "crossplayID": 11108,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 11109,
+    "crossplayID": 11109,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 11110,
+    "crossplayID": 11110,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 11111,
+    "crossplayID": 11111,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 11201,
+    "crossplayID": 11201,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11202,
+    "crossplayID": 11202,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11203,
+    "crossplayID": 11203,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11204,
+    "crossplayID": 11204,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11205,
+    "crossplayID": 11205,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 11206,
+    "crossplayID": 11206,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11207,
+    "crossplayID": 11207,
+    "maxTotalBonus": 90
+  },
+  {
+    "capID": 11208,
+    "crossplayID": 11208,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 11209,
+    "crossplayID": 11209,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11210,
+    "crossplayID": 11210,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 11301,
+    "crossplayID": 11301,
+    "maxTotalBonus": 25
+  },
+  {
+    "capID": 11302,
+    "crossplayID": 11302,
+    "maxTotalBonus": 25
+  },
+  {
+    "capID": 11303,
+    "crossplayID": 11303,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 11304,
+    "crossplayID": 11304,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11305,
+    "crossplayID": 11305,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11306,
+    "crossplayID": 11306,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11307,
+    "crossplayID": 11307,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11308,
+    "crossplayID": 11308,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 11309,
+    "crossplayID": 11309,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11310,
+    "crossplayID": 11310,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 11311,
+    "crossplayID": 11311,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 11312,
+    "crossplayID": 11312,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 11313,
+    "crossplayID": 11313,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 11401,
+    "crossplayID": 11401,
+    "maxTotalBonus": 25
+  },
+  {
+    "capID": 11402,
+    "crossplayID": 11402,
+    "maxTotalBonus": 25
+  },
+  {
+    "capID": 11403,
+    "crossplayID": 11403,
+    "maxTotalBonus": 90
+  },
+  {
+    "capID": 11404,
+    "crossplayID": 11404,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 11405,
+    "crossplayID": 11405,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11406,
+    "crossplayID": 11406,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11407,
+    "crossplayID": 11407,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11408,
+    "crossplayID": 11408,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11409,
+    "crossplayID": 11409,
+    "maxTotalBonus": 40
+  },
+  {
+    "capID": 11410,
+    "crossplayID": 11410,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 11411,
+    "crossplayID": 11411,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 11412,
+    "crossplayID": 11412,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 11413,
+    "crossplayID": 11413,
+    "maxTotalBonus": 3000
+  },
+  {
+    "capID": 11414,
+    "crossplayID": 11414,
+    "maxTotalBonus": 3000
+  },
+  {
+    "capID": 11500,
+    "crossplayID": 11500,
+    "maxTotalBonus": 4000
+  },
+  {
+    "capID": 35,
+    "crossplayID": 35,
+    "maxTotalBonus": 50000
+  },
+  {
+    "capID": 36,
+    "crossplayID": 36,
+    "maxTotalBonus": 500000
+  },
+  {
+    "capID": 37,
+    "crossplayID": 37,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 38,
+    "crossplayID": 38,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 39,
+    "crossplayID": 39,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 40,
+    "crossplayID": 40,
+    "maxTotalBonus": 20
+  },
+  {
+    "capID": 41,
+    "crossplayID": 41,
+    "maxTotalBonus": 400
+  },
+  {
+    "capID": 42,
+    "crossplayID": 42,
+    "maxTotalBonus": 50000
+  },
+  {
+    "capID": 43,
+    "crossplayID": 43,
+    "maxTotalBonus": 200
+  },
+  {
+    "capID": 44,
+    "crossplayID": 44,
+    "maxTotalBonus": 200
+  },
+  {
+    "capID": 45,
+    "crossplayID": 45,
+    "maxTotalBonus": 120
+  },
+  {
+    "capID": 46,
+    "crossplayID": 46,
+    "maxTotalBonus": 120
+  },
+  {
+    "capID": 47,
+    "crossplayID": 47,
+    "maxTotalBonus": 120
+  },
+  {
+    "capID": 48,
+    "crossplayID": 48,
+    "maxTotalBonus": 150000
+  },
+  {
+    "capID": 49,
+    "crossplayID": 49,
+    "maxTotalBonus": 75000
+  },
+  {
+    "capID": 50,
+    "crossplayID": 50,
+    "maxTotalBonus": 15000
+  },
+  {
+    "capID": 51,
+    "crossplayID": 51,
+    "maxTotalBonus": 50000
+  },
+  {
+    "capID": 52,
+    "crossplayID": 52,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 53,
+    "crossplayID": 53,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 54,
+    "crossplayID": 54,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 55,
+    "crossplayID": 55,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 56,
+    "crossplayID": 56,
+    "maxTotalBonus": 150000
+  },
+  {
+    "capID": 57,
+    "crossplayID": 57,
+    "maxTotalBonus": 60
+  },
+  {
+    "capID": 58,
+    "crossplayID": 58,
+    "maxTotalBonus": 150
+  },
+  {
+    "capID": 59,
+    "crossplayID": 59,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 60,
+    "crossplayID": 60,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 61,
+    "crossplayID": 61,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 62,
+    "crossplayID": 62,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 63,
+    "crossplayID": 63,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 64,
+    "crossplayID": 64,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 65,
+    "crossplayID": 65,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 66,
+    "crossplayID": 66,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 67,
+    "crossplayID": 67,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 68,
+    "crossplayID": 68,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 69,
+    "crossplayID": 69,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 70,
+    "crossplayID": 70,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 71,
+    "crossplayID": 71,
+    "maxTotalBonus": 100000
+  },
+  {
+    "capID": 72,
+    "crossplayID": 72,
+    "maxTotalBonus": 100000
+  },
+  {
+    "capID": 73,
+    "crossplayID": 73,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 74,
+    "crossplayID": 74,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 75,
+    "crossplayID": 75,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 76,
+    "crossplayID": 76,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 77,
+    "crossplayID": 77,
+    "maxTotalBonus": 50
+  },
+  {
+    "capID": 78,
+    "crossplayID": 78,
+    "maxTotalBonus": 150
+  },
+  {
+    "capID": 79,
+    "crossplayID": 79,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 80,
+    "crossplayID": 80,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 81,
+    "crossplayID": 81,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 82,
+    "crossplayID": 82,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 83,
+    "crossplayID": 83,
+    "maxTotalBonus": 55000
+  },
+  {
+    "capID": 84,
+    "crossplayID": 84,
+    "maxTotalBonus": 550000
+  },
+  {
+    "capID": 11501,
+    "crossplayID": 11501,
+    "maxTotalBonus": 4500
+  },
+  {
+    "capID": 85,
+    "crossplayID": 85,
+    "maxTotalBonus": 450
+  },
+  {
+    "capID": 86,
+    "crossplayID": 86,
+    "maxTotalBonus": 120
+  },
+  {
+    "capID": 87,
+    "crossplayID": 87,
+    "maxTotalBonus": 160
+  },
+  {
+    "capID": 88,
+    "crossplayID": 88,
+    "maxTotalBonus": 130
+  },
+  {
+    "capID": 89,
+    "crossplayID": 89,
+    "maxTotalBonus": 175000
+  },
+  {
+    "capID": 90,
+    "crossplayID": 90,
+    "maxTotalBonus": 200000
+  },
+  {
+    "capID": 2000,
+    "crossplayID": 2000,
+    "maxTotalBonus": 360
+  },
+  {
+    "capID": 2001,
+    "crossplayID": 2001,
+    "maxTotalBonus": 420
+  },
+  {
+    "capID": 2002,
+    "crossplayID": 2002,
+    "maxTotalBonus": 270
+  },
+  {
+    "capID": 2003,
+    "crossplayID": 2003,
+    "maxTotalBonus": 100
+  },
+  {
+    "capID": 2004,
+    "crossplayID": 2004,
+    "maxTotalBonus": 75
+  },
+  {
+    "capID": 2005,
+    "crossplayID": 2005,
+    "maxTotalBonus": 195
+  },
+  {
+    "capID": 2006,
+    "crossplayID": 2006,
+    "maxTotalBonus": 330
+  },
+  {
+    "capID": 2007,
+    "crossplayID": 2007,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 2008,
+    "crossplayID": 2008,
+    "maxTotalBonus": 1500
+  },
+  {
+    "capID": 2009,
+    "crossplayID": 2009,
+    "maxTotalBonus": 180
+  },
+  {
+    "capID": 2010,
+    "crossplayID": 2010,
+    "maxTotalBonus": 38
+  },
+  {
+    "capID": 2011,
+    "crossplayID": 2011,
+    "maxTotalBonus": 3
+  },
+  {
+    "capID": 2012,
+    "crossplayID": 2012,
+    "maxTotalBonus": 350
+  },
+  {
+    "capID": 2013,
+    "crossplayID": 2013,
+    "maxTotalBonus": 15
+  }
+]

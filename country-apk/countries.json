@@ -1,0 +1,325 @@
+{
+  "versionNo": 1008028,
+  "deployTime": 1476364727,
+  "AR": {
+    "country": "AR",
+    "lang": "es",
+    "flashCode": "es",
+    "timezoneStart": -3,
+    "timezoneEnd": -3,
+    "browserCodes": "",
+    "geoIpCodes": "[AR,UY]",
+    "np": "ak"
+  },
+  "ARAB": {
+    "country": "ARAB",
+    "lang": "en",
+    "flashCode": "ar",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[EG,SD,SA,DZ,IQ,MA,SY,YE,TN,JO,LY,PS,AE,LB,MR,KW,OM,BH,QA,KM,EH]",
+    "np": "ak"
+  },
+  "ASIA": {
+    "country": "ASIA",
+    "lang": "en",
+    "flashCode": "en",
+    "timezoneStart": 6,
+    "timezoneEnd": 13,
+    "browserCodes": "",
+    "geoIpCodes": "[SG,MY,TH,VN,FJ,VU,TO,WS,SB,KI,TV,PF,PG,GU,NC,FM,MP,MH,CK,PW,AS,WF,NU,TK,NF,CX,NR,CC,PN,KH,BT,BN,LA,MU,MN,PK,PW,SC,LK]",
+    "np": "ak"
+  },
+  "AU": {
+    "country": "AU",
+    "lang": "en",
+    "flashCode": "en",
+    "timezoneStart": 8,
+    "timezoneEnd": 12,
+    "browserCodes": "",
+    "geoIpCodes": "[AU,NZ]",
+    "np": "ak"
+  },
+  "BR": {
+    "country": "BR",
+    "lang": "pt",
+    "flashCode": "pt",
+    "timezoneStart": -5,
+    "timezoneEnd": -2,
+    "browserCodes": "",
+    "geoIpCodes": "[BR]",
+    "np": "ak"
+  },
+  "CN": {
+    "country": "CN",
+    "lang": "zh_CN",
+    "flashCode": "zh-CN,zh-HANS",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[CN]",
+    "np": "ak"
+  },
+  "DE": {
+    "country": "DE",
+    "lang": "de",
+    "flashCode": "de",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[DE,AT,CH,LI]",
+    "np": "ak"
+  },
+  "DK": {
+    "country": "DK",
+    "lang": "da",
+    "flashCode": "da",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[DK,GL]",
+    "np": "ak"
+  },
+  "ES": {
+    "country": "ES",
+    "lang": "es",
+    "flashCode": "es",
+    "timezoneStart": 1,
+    "timezoneEnd": 1,
+    "browserCodes": "",
+    "geoIpCodes": "[ES,IC]",
+    "np": "ak"
+  },
+  "FI": {
+    "country": "FI",
+    "lang": "fi",
+    "flashCode": "fi",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[FI]",
+    "np": "ak"
+  },
+  "FR": {
+    "country": "FR",
+    "lang": "fr",
+    "flashCode": "fr",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[FR,LU]",
+    "np": "ak"
+  },
+  "GB": {
+    "country": "GB",
+    "lang": "en",
+    "flashCode": "en",
+    "timezoneStart": 0,
+    "timezoneEnd": 0,
+    "browserCodes": "",
+    "geoIpCodes": "[GB,IS,IE]",
+    "np": "ak"
+  },
+  "GR": {
+    "country": "GR",
+    "lang": "el",
+    "flashCode": "el",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[GR]",
+    "np": "ak"
+  },
+  "HISP": {
+    "country": "HISP",
+    "lang": "es",
+    "flashCode": "es",
+    "timezoneStart": -5,
+    "timezoneEnd": -4,
+    "browserCodes": "",
+    "geoIpCodes": "[CO,VE,PE,CL,EC,CU,GT,DO,HN,BO,SV,CR,PR,PA,GQ,PY]",
+    "np": "ak"
+  },
+  "ID": {
+    "country": "ID",
+    "lang": "en",
+    "flashCode": "en,id",
+    "timezoneStart": 7,
+    "timezoneEnd": 9,
+    "browserCodes": "",
+    "geoIpCodes": "[ID]",
+    "np": "ak"
+  },
+  "IN": {
+    "country": "IN",
+    "lang": "en",
+    "flashCode": "en",
+    "timezoneStart": 5.5,
+    "timezoneEnd": 5.5,
+    "browserCodes": "",
+    "geoIpCodes": "[IN]",
+    "np": "ak"
+  },
+  "IT": {
+    "country": "IT",
+    "lang": "it",
+    "flashCode": "it",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[IT]",
+    "np": "ak"
+  },
+  "JP": {
+    "country": "JP",
+    "lang": "ja",
+    "flashCode": "ja",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[JP]",
+    "np": "ak"
+  },
+  "KR": {
+    "country": "KR",
+    "lang": "ko",
+    "flashCode": "ko",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[KR]",
+    "np": "ak"
+  },
+  "MX": {
+    "country": "MX",
+    "lang": "es",
+    "flashCode": "es",
+    "timezoneStart": -8,
+    "timezoneEnd": -6,
+    "browserCodes": "",
+    "geoIpCodes": "[MX,CR,GT,SV,HN,NI]",
+    "np": "ak"
+  },
+  "NL": {
+    "country": "NL",
+    "lang": "nl",
+    "flashCode": "nl",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[NL,BE]",
+    "np": "ak"
+  },
+  "NO": {
+    "country": "NO",
+    "lang": "no",
+    "flashCode": "no",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[NO]",
+    "np": "ak"
+  },
+  "PH": {
+    "country": "PH",
+    "lang": "en",
+    "flashCode": "tl",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[PH]",
+    "np": "ak"
+  },
+  "PL": {
+    "country": "PL",
+    "lang": "pl",
+    "flashCode": "pl",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[PL]",
+    "np": "ak"
+  },
+  "PT": {
+    "country": "PT",
+    "lang": "pt",
+    "flashCode": "pt",
+    "timezoneStart": -1,
+    "timezoneEnd": 0,
+    "browserCodes": "",
+    "geoIpCodes": "[PT]",
+    "np": "ak"
+  },
+  "RU": {
+    "country": "RU",
+    "lang": "ru",
+    "flashCode": "ru",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[RU,KZ,UA,KG,BY,UZ]",
+    "np": "ak"
+  },
+  "SE": {
+    "country": "SE",
+    "lang": "sv",
+    "flashCode": "sv",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[SE]",
+    "np": "ak"
+  },
+  "TR": {
+    "country": "TR",
+    "lang": "tr",
+    "flashCode": "tr",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[TR]",
+    "np": "ak"
+  },
+  "US": {
+    "country": "US",
+    "lang": "en",
+    "flashCode": "en",
+    "timezoneStart": -11,
+    "timezoneEnd": -4,
+    "browserCodes": "",
+    "geoIpCodes": "[US,CA]",
+    "np": "ak"
+  },
+  "XX": {
+    "default": 1,
+    "country": "XX",
+    "lang": "en",
+    "flashCode": "sl,sk,cs,lt,hu,hr,ro,bg,sq",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[LV,EE]",
+    "np": "ak"
+  },
+  "AE": {
+    "country": "AE",
+    "lang": "ar",
+    "flashCode": "",
+    "timezoneStart": 4,
+    "timezoneEnd": 4,
+    "browserCodes": "[ar,ar-sa,ar-EG,ar-AE,ar-DZ,ar-SY,ar-IQ,ar-MA,ar-JO,ar-TN]",
+    "geoIpCodes": "[AE]",
+    "np": "ak"
+  },
+  "HANT": {
+    "country": "HANT",
+    "lang": "zh_TW",
+    "flashCode": "zh-hant,zh-tw,zh-hk",
+    "timezoneStart": "",
+    "timezoneEnd": "",
+    "browserCodes": "",
+    "geoIpCodes": "[HK,TW,MO]",
+    "np": "ak"
+  }
+}

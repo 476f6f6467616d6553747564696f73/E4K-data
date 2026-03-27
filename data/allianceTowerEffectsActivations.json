@@ -1,34 +1,32 @@
-{
-  "allianceTowerEffectsActivation": [
-    {
-      "allianceTowerEffectsActivationID": 1,
-      "remainingTime": 21600,
-      "cost": 5000
-    },
-    {
-      "allianceTowerEffectsActivationID": 2,
-      "remainingTime": 18000,
-      "cost": 10000
-    },
-    {
-      "allianceTowerEffectsActivationID": 3,
-      "remainingTime": 14400,
-      "cost": 15000
-    },
-    {
-      "allianceTowerEffectsActivationID": 4,
-      "remainingTime": 10800,
-      "cost": 20000
-    },
-    {
-      "allianceTowerEffectsActivationID": 5,
-      "remainingTime": 7200,
-      "cost": 25000
-    },
-    {
-      "allianceTowerEffectsActivationID": 6,
-      "remainingTime": 3600,
-      "cost": 30000
-    }
-  ]
-}
+[
+  {
+    "allianceTowerEffectsActivationID": 1,
+    "remainingTime": 21600,
+    "cost": 5000
+  },
+  {
+    "allianceTowerEffectsActivationID": 2,
+    "remainingTime": 18000,
+    "cost": 10000
+  },
+  {
+    "allianceTowerEffectsActivationID": 3,
+    "remainingTime": 14400,
+    "cost": 15000
+  },
+  {
+    "allianceTowerEffectsActivationID": 4,
+    "remainingTime": 10800,
+    "cost": 20000
+  },
+  {
+    "allianceTowerEffectsActivationID": 5,
+    "remainingTime": 7200,
+    "cost": 25000
+  },
+  {
+    "allianceTowerEffectsActivationID": 6,
+    "remainingTime": 3600,
+    "cost": 30000
+  }
+]

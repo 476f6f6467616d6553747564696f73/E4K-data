@@ -1,46 +1,44 @@
-{
-  "decoThreshold": [
-    {
-      "decoLevelID": 1,
-      "eventID": 44,
-      "decoWodID": 342,
-      "MinPoints": 1
-    },
-    {
-      "decoLevelID": 2,
-      "eventID": 44,
-      "decoWodID": 342,
-      "MinPoints": 140
-    },
-    {
-      "decoLevelID": 3,
-      "eventID": 44,
-      "decoWodID": 342,
-      "MinPoints": 215
-    },
-    {
-      "decoLevelID": 1,
-      "eventID": 55,
-      "decoWodID": 391,
-      "MinPoints": 1
-    },
-    {
-      "decoLevelID": 2,
-      "eventID": 55,
-      "decoWodID": 391,
-      "MinPoints": 140
-    },
-    {
-      "decoLevelID": 3,
-      "eventID": 55,
-      "decoWodID": 391,
-      "MinPoints": 200
-    },
-    {
-      "decoLevelID": 4,
-      "eventID": 55,
-      "decoWodID": 391,
-      "MinPoints": 230
-    }
-  ]
-}
+[
+  {
+    "decoLevelID": 1,
+    "eventID": 44,
+    "decoWodID": 342,
+    "MinPoints": 1
+  },
+  {
+    "decoLevelID": 2,
+    "eventID": 44,
+    "decoWodID": 342,
+    "MinPoints": 140
+  },
+  {
+    "decoLevelID": 3,
+    "eventID": 44,
+    "decoWodID": 342,
+    "MinPoints": 215
+  },
+  {
+    "decoLevelID": 1,
+    "eventID": 55,
+    "decoWodID": 391,
+    "MinPoints": 1
+  },
+  {
+    "decoLevelID": 2,
+    "eventID": 55,
+    "decoWodID": 391,
+    "MinPoints": 140
+  },
+  {
+    "decoLevelID": 3,
+    "eventID": 55,
+    "decoWodID": 391,
+    "MinPoints": 200
+  },
+  {
+    "decoLevelID": 4,
+    "eventID": 55,
+    "decoWodID": 391,
+    "MinPoints": 230
+  }
+]

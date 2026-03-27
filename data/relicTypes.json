@@ -1,133 +1,131 @@
-{
-  "relicType": [
-    {
-      "id": 1,
-      "crossplayID": 1,
-      "wearerID": 2,
-      "slotID": 1
-    },
-    {
-      "id": 2,
-      "crossplayID": 2,
-      "wearerID": 2,
-      "slotID": 2
-    },
-    {
-      "id": 3,
-      "crossplayID": 3,
-      "wearerID": 2,
-      "slotID": 3
-    },
-    {
-      "id": 4,
-      "crossplayID": 4,
-      "wearerID": 2,
-      "slotID": 4
-    },
-    {
-      "id": 31,
-      "crossplayID": 31,
-      "name": "relicPVE",
-      "wearerID": 2,
-      "isGem": 1,
-      "canBeSlottedInSlotIDs": "1,2,3,4"
-    },
-    {
-      "id": 32,
-      "crossplayID": 32,
-      "name": "relicPVP",
-      "wearerID": 2,
-      "isGem": 1,
-      "canBeSlottedInSlotIDs": "1,2,3,4"
-    },
-    {
-      "id": 61,
-      "crossplayID": 61,
-      "name": "relicNomad",
-      "wearerID": 2,
-      "slotID": 6
-    },
-    {
-      "id": 62,
-      "crossplayID": 62,
-      "name": "relicSamurai",
-      "wearerID": 2,
-      "slotID": 6
-    },
-    {
-      "id": 63,
-      "crossplayID": 63,
-      "name": "relicAlien",
-      "wearerID": 2,
-      "slotID": 6
-    },
-    {
-      "id": 64,
-      "crossplayID": 64,
-      "name": "relicBerimond",
-      "wearerID": 2,
-      "slotID": 6
-    },
-    {
-      "id": 65,
-      "crossplayID": 65,
-      "name": "relicPVP",
-      "wearerID": 2,
-      "slotID": 6
-    },
-    {
-      "id": 101,
-      "crossplayID": 101,
-      "wearerID": 1,
-      "slotID": 1
-    },
-    {
-      "id": 102,
-      "crossplayID": 102,
-      "wearerID": 1,
-      "slotID": 2
-    },
-    {
-      "id": 103,
-      "crossplayID": 103,
-      "wearerID": 1,
-      "slotID": 3
-    },
-    {
-      "id": 104,
-      "crossplayID": 104,
-      "wearerID": 1,
-      "slotID": 4
-    },
-    {
-      "id": 131,
-      "crossplayID": 131,
-      "name": "relicPVE",
-      "wearerID": 1,
-      "isGem": 1,
-      "canBeSlottedInSlotIDs": "1,2,3,4"
-    },
-    {
-      "id": 132,
-      "crossplayID": 132,
-      "name": "relicPVP",
-      "wearerID": 1,
-      "isGem": 1,
-      "canBeSlottedInSlotIDs": "1,2,3,4"
-    },
-    {
-      "id": 161,
-      "crossplayID": 161,
-      "name": "relicPVE",
-      "wearerID": 1,
-      "slotID": 6
-    },
-    {
-      "id": 162,
-      "crossplayID": 162,
-      "name": "relicPVP",
-      "wearerID": 1,
-      "slotID": 6
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "crossplayID": 1,
+    "wearerID": 2,
+    "slotID": 1
+  },
+  {
+    "id": 2,
+    "crossplayID": 2,
+    "wearerID": 2,
+    "slotID": 2
+  },
+  {
+    "id": 3,
+    "crossplayID": 3,
+    "wearerID": 2,
+    "slotID": 3
+  },
+  {
+    "id": 4,
+    "crossplayID": 4,
+    "wearerID": 2,
+    "slotID": 4
+  },
+  {
+    "id": 31,
+    "crossplayID": 31,
+    "name": "relicPVE",
+    "wearerID": 2,
+    "isGem": 1,
+    "canBeSlottedInSlotIDs": "1,2,3,4"
+  },
+  {
+    "id": 32,
+    "crossplayID": 32,
+    "name": "relicPVP",
+    "wearerID": 2,
+    "isGem": 1,
+    "canBeSlottedInSlotIDs": "1,2,3,4"
+  },
+  {
+    "id": 61,
+    "crossplayID": 61,
+    "name": "relicNomad",
+    "wearerID": 2,
+    "slotID": 6
+  },
+  {
+    "id": 62,
+    "crossplayID": 62,
+    "name": "relicSamurai",
+    "wearerID": 2,
+    "slotID": 6
+  },
+  {
+    "id": 63,
+    "crossplayID": 63,
+    "name": "relicAlien",
+    "wearerID": 2,
+    "slotID": 6
+  },
+  {
+    "id": 64,
+    "crossplayID": 64,
+    "name": "relicBerimond",
+    "wearerID": 2,
+    "slotID": 6
+  },
+  {
+    "id": 65,
+    "crossplayID": 65,
+    "name": "relicPVP",
+    "wearerID": 2,
+    "slotID": 6
+  },
+  {
+    "id": 101,
+    "crossplayID": 101,
+    "wearerID": 1,
+    "slotID": 1
+  },
+  {
+    "id": 102,
+    "crossplayID": 102,
+    "wearerID": 1,
+    "slotID": 2
+  },
+  {
+    "id": 103,
+    "crossplayID": 103,
+    "wearerID": 1,
+    "slotID": 3
+  },
+  {
+    "id": 104,
+    "crossplayID": 104,
+    "wearerID": 1,
+    "slotID": 4
+  },
+  {
+    "id": 131,
+    "crossplayID": 131,
+    "name": "relicPVE",
+    "wearerID": 1,
+    "isGem": 1,
+    "canBeSlottedInSlotIDs": "1,2,3,4"
+  },
+  {
+    "id": 132,
+    "crossplayID": 132,
+    "name": "relicPVP",
+    "wearerID": 1,
+    "isGem": 1,
+    "canBeSlottedInSlotIDs": "1,2,3,4"
+  },
+  {
+    "id": 161,
+    "crossplayID": 161,
+    "name": "relicPVE",
+    "wearerID": 1,
+    "slotID": 6
+  },
+  {
+    "id": 162,
+    "crossplayID": 162,
+    "name": "relicPVP",
+    "wearerID": 1,
+    "slotID": 6
+  }
+]

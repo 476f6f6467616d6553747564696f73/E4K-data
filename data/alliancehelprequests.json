@@ -1,34 +1,32 @@
-{
-  "alliancehelprequest": [
-    {
-      "allianceHelpRequestID": 1,
-      "crossplayID": 1,
-      "maxHelpersCount": 3,
-      "unitCountBonus": 1
-    },
-    {
-      "allianceHelpRequestID": 2,
-      "crossplayID": 2,
-      "maxHelpersCount": 5,
-      "unitHealTimeReduction": 20
-    },
-    {
-      "allianceHelpRequestID": 3,
-      "crossplayID": 3,
-      "maxHelpersCount": 3,
-      "allianceRepairBuilding": 1
-    },
-    {
-      "allianceHelpRequestID": 4,
-      "crossplayID": 4,
-      "maxHelpersCount": 3,
-      "decreaseBuildingTimeAbsolute": 300
-    },
-    {
-      "allianceHelpRequestID": 6,
-      "crossplayID": 6,
-      "maxHelpersCount": 3,
-      "unitCountBonus": 1
-    }
-  ]
-}
+[
+  {
+    "allianceHelpRequestID": 1,
+    "crossplayID": 1,
+    "maxHelpersCount": 3,
+    "unitCountBonus": 1
+  },
+  {
+    "allianceHelpRequestID": 2,
+    "crossplayID": 2,
+    "maxHelpersCount": 5,
+    "unitHealTimeReduction": 20
+  },
+  {
+    "allianceHelpRequestID": 3,
+    "crossplayID": 3,
+    "maxHelpersCount": 3,
+    "allianceRepairBuilding": 1
+  },
+  {
+    "allianceHelpRequestID": 4,
+    "crossplayID": 4,
+    "maxHelpersCount": 3,
+    "decreaseBuildingTimeAbsolute": 300
+  },
+  {
+    "allianceHelpRequestID": 6,
+    "crossplayID": 6,
+    "maxHelpersCount": 3,
+    "unitCountBonus": 1
+  }
+]

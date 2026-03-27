@@ -1,310 +1,308 @@
-{
-  "constructionItemsEffectGroup": [
-    {
-      "constructionItemEffectGroupID": 1,
-      "crossplayID": 1,
-      "constructionItemGroupID": 1,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 2,
-      "crossplayID": 2,
-      "constructionItemGroupID": 2,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 3,
-      "crossplayID": 3,
-      "constructionItemGroupID": 3,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 4,
-      "crossplayID": 4,
-      "constructionItemGroupID": 4,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 5,
-      "crossplayID": 5,
-      "constructionItemGroupID": 5,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 6,
-      "crossplayID": 6,
-      "constructionItemGroupID": 6,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 7,
-      "crossplayID": 7,
-      "constructionItemGroupID": 7,
-      "areaLimit": 15
-    },
-    {
-      "constructionItemEffectGroupID": 8,
-      "crossplayID": 8,
-      "constructionItemGroupID": 8,
-      "areaLimit": 15
-    },
-    {
-      "constructionItemEffectGroupID": 9,
-      "crossplayID": 9,
-      "constructionItemGroupID": 9,
-      "areaLimit": 15
-    },
-    {
-      "constructionItemEffectGroupID": 10,
-      "crossplayID": 10,
-      "constructionItemGroupID": 10,
-      "areaLimit": 15
-    },
-    {
-      "constructionItemEffectGroupID": 11,
-      "crossplayID": 11,
-      "constructionItemGroupID": 11,
-      "areaLimit": 15
-    },
-    {
-      "constructionItemEffectGroupID": 12,
-      "crossplayID": 12,
-      "constructionItemGroupID": 12,
-      "areaLimit": 15
-    },
-    {
-      "constructionItemEffectGroupID": 14,
-      "crossplayID": 14,
-      "constructionItemGroupID": 14,
-      "areaLimit": 15
-    },
-    {
-      "constructionItemEffectGroupID": 15,
-      "crossplayID": 15,
-      "constructionItemGroupID": 15,
-      "areaLimit": 15
-    },
-    {
-      "constructionItemEffectGroupID": 17,
-      "crossplayID": 17,
-      "constructionItemGroupID": 17,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 19,
-      "crossplayID": 19,
-      "constructionItemGroupID": 19,
-      "areaLimit": 5
-    },
-    {
-      "constructionItemEffectGroupID": 20,
-      "crossplayID": 20,
-      "constructionItemGroupID": 20,
-      "areaLimit": 5
-    },
-    {
-      "constructionItemEffectGroupID": 21,
-      "crossplayID": 21,
-      "constructionItemGroupID": 21,
-      "areaLimit": 3
-    },
-    {
-      "constructionItemEffectGroupID": 22,
-      "crossplayID": 22,
-      "constructionItemGroupID": 22,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 23,
-      "crossplayID": 23,
-      "constructionItemGroupID": 23,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 24,
-      "crossplayID": 24,
-      "constructionItemGroupID": 24,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 25,
-      "crossplayID": 25,
-      "constructionItemGroupID": 25,
-      "areaLimit": 3
-    },
-    {
-      "constructionItemEffectGroupID": 26,
-      "crossplayID": 26,
-      "constructionItemGroupID": 26,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 27,
-      "crossplayID": 27,
-      "constructionItemGroupID": 27,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 29,
-      "crossplayID": 29,
-      "constructionItemGroupID": 29,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 30,
-      "crossplayID": 30,
-      "constructionItemGroupID": 30,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 28,
-      "crossplayID": 28,
-      "constructionItemGroupID": 28,
-      "areaLimit": 100
-    },
-    {
-      "constructionItemEffectGroupID": 31,
-      "crossplayID": 31,
-      "constructionItemGroupID": "32+33",
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 32,
-      "crossplayID": 32,
-      "constructionItemGroupID": "34+35",
-      "areaLimit": 20
-    },
-    {
-      "constructionItemEffectGroupID": 33,
-      "crossplayID": 33,
-      "constructionItemGroupID": "36+37",
-      "areaLimit": 10
-    },
-    {
-      "constructionItemEffectGroupID": 34,
-      "crossplayID": 34,
-      "constructionItemGroupID": 38,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 35,
-      "crossplayID": 35,
-      "constructionItemGroupID": 39,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 36,
-      "crossplayID": 36,
-      "constructionItemGroupID": 40,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 37,
-      "crossplayID": 37,
-      "constructionItemGroupID": 41,
-      "areaLimit": 2
-    },
-    {
-      "constructionItemEffectGroupID": 38,
-      "crossplayID": 38,
-      "constructionItemGroupID": 42,
-      "areaLimit": 2
-    },
-    {
-      "constructionItemEffectGroupID": 43,
-      "crossplayID": 43,
-      "constructionItemGroupID": 43,
-      "areaLimit": 10
-    },
-    {
-      "constructionItemEffectGroupID": 44,
-      "crossplayID": 44,
-      "constructionItemGroupID": 44,
-      "areaLimit": 10
-    },
-    {
-      "constructionItemEffectGroupID": 39,
-      "crossplayID": 39,
-      "constructionItemGroupID": 45,
-      "areaLimit": 10
-    },
-    {
-      "constructionItemEffectGroupID": 40,
-      "crossplayID": 40,
-      "constructionItemGroupID": 46,
-      "areaLimit": 10
-    },
-    {
-      "constructionItemEffectGroupID": 41,
-      "crossplayID": 41,
-      "constructionItemGroupID": 47,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 42,
-      "crossplayID": 42,
-      "constructionItemGroupID": 48,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 49,
-      "crossplayID": 49,
-      "constructionItemGroupID": 49,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 50,
-      "crossplayID": 50,
-      "constructionItemGroupID": 50,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 51,
-      "crossplayID": 51,
-      "constructionItemGroupID": 51,
-      "areaLimit": 100
-    },
-    {
-      "constructionItemEffectGroupID": 53,
-      "crossplayID": 53,
-      "constructionItemGroupID": 3218,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 54,
-      "crossplayID": 54,
-      "constructionItemGroupID": 3219,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 55,
-      "crossplayID": 55,
-      "constructionItemGroupID": 55,
-      "areaLimit": 4
-    },
-    {
-      "constructionItemEffectGroupID": 56,
-      "crossplayID": 56,
-      "constructionItemGroupID": 56,
-      "areaLimit": 4
-    },
-    {
-      "constructionItemEffectGroupID": 57,
-      "crossplayID": 57,
-      "constructionItemGroupID": 57,
-      "areaLimit": 4
-    },
-    {
-      "constructionItemEffectGroupID": 58,
-      "crossplayID": 58,
-      "constructionItemGroupID": 276,
-      "areaLimit": 1
-    },
-    {
-      "constructionItemEffectGroupID": 59,
-      "crossplayID": 59,
-      "constructionItemGroupID": 277,
-      "areaLimit": 1
-    }
-  ]
-}
+[
+  {
+    "constructionItemEffectGroupID": 1,
+    "crossplayID": 1,
+    "constructionItemGroupID": 1,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 2,
+    "crossplayID": 2,
+    "constructionItemGroupID": 2,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 3,
+    "crossplayID": 3,
+    "constructionItemGroupID": 3,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 4,
+    "crossplayID": 4,
+    "constructionItemGroupID": 4,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 5,
+    "crossplayID": 5,
+    "constructionItemGroupID": 5,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 6,
+    "crossplayID": 6,
+    "constructionItemGroupID": 6,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 7,
+    "crossplayID": 7,
+    "constructionItemGroupID": 7,
+    "areaLimit": 15
+  },
+  {
+    "constructionItemEffectGroupID": 8,
+    "crossplayID": 8,
+    "constructionItemGroupID": 8,
+    "areaLimit": 15
+  },
+  {
+    "constructionItemEffectGroupID": 9,
+    "crossplayID": 9,
+    "constructionItemGroupID": 9,
+    "areaLimit": 15
+  },
+  {
+    "constructionItemEffectGroupID": 10,
+    "crossplayID": 10,
+    "constructionItemGroupID": 10,
+    "areaLimit": 15
+  },
+  {
+    "constructionItemEffectGroupID": 11,
+    "crossplayID": 11,
+    "constructionItemGroupID": 11,
+    "areaLimit": 15
+  },
+  {
+    "constructionItemEffectGroupID": 12,
+    "crossplayID": 12,
+    "constructionItemGroupID": 12,
+    "areaLimit": 15
+  },
+  {
+    "constructionItemEffectGroupID": 14,
+    "crossplayID": 14,
+    "constructionItemGroupID": 14,
+    "areaLimit": 15
+  },
+  {
+    "constructionItemEffectGroupID": 15,
+    "crossplayID": 15,
+    "constructionItemGroupID": 15,
+    "areaLimit": 15
+  },
+  {
+    "constructionItemEffectGroupID": 17,
+    "crossplayID": 17,
+    "constructionItemGroupID": 17,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 19,
+    "crossplayID": 19,
+    "constructionItemGroupID": 19,
+    "areaLimit": 5
+  },
+  {
+    "constructionItemEffectGroupID": 20,
+    "crossplayID": 20,
+    "constructionItemGroupID": 20,
+    "areaLimit": 5
+  },
+  {
+    "constructionItemEffectGroupID": 21,
+    "crossplayID": 21,
+    "constructionItemGroupID": 21,
+    "areaLimit": 3
+  },
+  {
+    "constructionItemEffectGroupID": 22,
+    "crossplayID": 22,
+    "constructionItemGroupID": 22,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 23,
+    "crossplayID": 23,
+    "constructionItemGroupID": 23,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 24,
+    "crossplayID": 24,
+    "constructionItemGroupID": 24,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 25,
+    "crossplayID": 25,
+    "constructionItemGroupID": 25,
+    "areaLimit": 3
+  },
+  {
+    "constructionItemEffectGroupID": 26,
+    "crossplayID": 26,
+    "constructionItemGroupID": 26,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 27,
+    "crossplayID": 27,
+    "constructionItemGroupID": 27,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 29,
+    "crossplayID": 29,
+    "constructionItemGroupID": 29,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 30,
+    "crossplayID": 30,
+    "constructionItemGroupID": 30,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 28,
+    "crossplayID": 28,
+    "constructionItemGroupID": 28,
+    "areaLimit": 100
+  },
+  {
+    "constructionItemEffectGroupID": 31,
+    "crossplayID": 31,
+    "constructionItemGroupID": "32+33",
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 32,
+    "crossplayID": 32,
+    "constructionItemGroupID": "34+35",
+    "areaLimit": 20
+  },
+  {
+    "constructionItemEffectGroupID": 33,
+    "crossplayID": 33,
+    "constructionItemGroupID": "36+37",
+    "areaLimit": 10
+  },
+  {
+    "constructionItemEffectGroupID": 34,
+    "crossplayID": 34,
+    "constructionItemGroupID": 38,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 35,
+    "crossplayID": 35,
+    "constructionItemGroupID": 39,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 36,
+    "crossplayID": 36,
+    "constructionItemGroupID": 40,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 37,
+    "crossplayID": 37,
+    "constructionItemGroupID": 41,
+    "areaLimit": 2
+  },
+  {
+    "constructionItemEffectGroupID": 38,
+    "crossplayID": 38,
+    "constructionItemGroupID": 42,
+    "areaLimit": 2
+  },
+  {
+    "constructionItemEffectGroupID": 43,
+    "crossplayID": 43,
+    "constructionItemGroupID": 43,
+    "areaLimit": 10
+  },
+  {
+    "constructionItemEffectGroupID": 44,
+    "crossplayID": 44,
+    "constructionItemGroupID": 44,
+    "areaLimit": 10
+  },
+  {
+    "constructionItemEffectGroupID": 39,
+    "crossplayID": 39,
+    "constructionItemGroupID": 45,
+    "areaLimit": 10
+  },
+  {
+    "constructionItemEffectGroupID": 40,
+    "crossplayID": 40,
+    "constructionItemGroupID": 46,
+    "areaLimit": 10
+  },
+  {
+    "constructionItemEffectGroupID": 41,
+    "crossplayID": 41,
+    "constructionItemGroupID": 47,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 42,
+    "crossplayID": 42,
+    "constructionItemGroupID": 48,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 49,
+    "crossplayID": 49,
+    "constructionItemGroupID": 49,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 50,
+    "crossplayID": 50,
+    "constructionItemGroupID": 50,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 51,
+    "crossplayID": 51,
+    "constructionItemGroupID": 51,
+    "areaLimit": 100
+  },
+  {
+    "constructionItemEffectGroupID": 53,
+    "crossplayID": 53,
+    "constructionItemGroupID": 3218,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 54,
+    "crossplayID": 54,
+    "constructionItemGroupID": 3219,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 55,
+    "crossplayID": 55,
+    "constructionItemGroupID": 55,
+    "areaLimit": 4
+  },
+  {
+    "constructionItemEffectGroupID": 56,
+    "crossplayID": 56,
+    "constructionItemGroupID": 56,
+    "areaLimit": 4
+  },
+  {
+    "constructionItemEffectGroupID": 57,
+    "crossplayID": 57,
+    "constructionItemGroupID": 57,
+    "areaLimit": 4
+  },
+  {
+    "constructionItemEffectGroupID": 58,
+    "crossplayID": 58,
+    "constructionItemGroupID": 276,
+    "areaLimit": 1
+  },
+  {
+    "constructionItemEffectGroupID": 59,
+    "crossplayID": 59,
+    "constructionItemGroupID": 277,
+    "areaLimit": 1
+  }
+]

@@ -1,1544 +1,1542 @@
-{
-  "relicLootOption": [
-    {
-      "id": 1,
-      "crossplayID": 1,
-      "tombolaID": -1,
-      "relicEquipments": "1@0,69",
-      "shares": 10
-    },
-    {
-      "id": 2,
-      "crossplayID": 2,
-      "tombolaID": -1,
-      "relicEquipments": "101@0,69",
-      "shares": 10
-    },
-    {
-      "id": 3,
-      "crossplayID": 3,
-      "tombolaID": -1,
-      "relicEquipments": "201@0,69",
-      "shares": 10
-    },
-    {
-      "id": 4,
-      "crossplayID": 4,
-      "tombolaID": -1,
-      "relicEquipments": "301@0,69",
-      "shares": 10
-    },
-    {
-      "id": 5,
-      "crossplayID": 5,
-      "tombolaID": -1,
-      "relicEquipments": "3001@0,69",
-      "shares": 5
-    },
-    {
-      "id": 6,
-      "crossplayID": 6,
-      "tombolaID": -1,
-      "relicEquipments": "3101@0,69",
-      "shares": 5
-    },
-    {
-      "id": 7,
-      "crossplayID": 7,
-      "tombolaID": -1,
-      "relicEquipments": "6001@0,69",
-      "shares": 2
-    },
-    {
-      "id": 8,
-      "crossplayID": 8,
-      "tombolaID": -1,
-      "relicEquipments": "6101@0,69",
-      "shares": 2
-    },
-    {
-      "id": 9,
-      "crossplayID": 9,
-      "tombolaID": -1,
-      "relicEquipments": "6201@0,69",
-      "shares": 2
-    },
-    {
-      "id": 10,
-      "crossplayID": 10,
-      "tombolaID": -1,
-      "relicEquipments": "6301@0,69",
-      "shares": 2
-    },
-    {
-      "id": 11,
-      "crossplayID": 11,
-      "tombolaID": -1,
-      "relicEquipments": "6401@0,69",
-      "shares": 2
-    },
-    {
-      "id": 12,
-      "crossplayID": 12,
-      "tombolaID": -1,
-      "relicEquipments": "10001@0,69",
-      "shares": 10
-    },
-    {
-      "id": 13,
-      "crossplayID": 13,
-      "tombolaID": -1,
-      "relicEquipments": "10101@0,69",
-      "shares": 10
-    },
-    {
-      "id": 14,
-      "crossplayID": 14,
-      "tombolaID": -1,
-      "relicEquipments": "10201@0,69",
-      "shares": 10
-    },
-    {
-      "id": 15,
-      "crossplayID": 15,
-      "tombolaID": -1,
-      "relicEquipments": "10301@0,69",
-      "shares": 10
-    },
-    {
-      "id": 16,
-      "crossplayID": 16,
-      "tombolaID": -1,
-      "relicEquipments": "13001@0,69",
-      "shares": 5
-    },
-    {
-      "id": 17,
-      "crossplayID": 17,
-      "tombolaID": -1,
-      "relicEquipments": "13101@0,69",
-      "shares": 5
-    },
-    {
-      "id": 18,
-      "crossplayID": 18,
-      "tombolaID": -1,
-      "relicEquipments": "16001@0,69",
-      "shares": 5
-    },
-    {
-      "id": 19,
-      "crossplayID": 19,
-      "tombolaID": -1,
-      "relicEquipments": "16101@0,69",
-      "shares": 5
-    },
-    {
-      "id": 101,
-      "crossplayID": 101,
-      "tombolaID": -2,
-      "relicEquipments": "1@70,100",
-      "shares": 10
-    },
-    {
-      "id": 102,
-      "crossplayID": 102,
-      "tombolaID": -2,
-      "relicEquipments": "101@70,100",
-      "shares": 10
-    },
-    {
-      "id": 103,
-      "crossplayID": 103,
-      "tombolaID": -2,
-      "relicEquipments": "201@70,100",
-      "shares": 10
-    },
-    {
-      "id": 104,
-      "crossplayID": 104,
-      "tombolaID": -2,
-      "relicEquipments": "301@70,100",
-      "shares": 10
-    },
-    {
-      "id": 105,
-      "crossplayID": 105,
-      "tombolaID": -2,
-      "relicEquipments": "3001@70,100",
-      "shares": 20
-    },
-    {
-      "id": 106,
-      "crossplayID": 106,
-      "tombolaID": -2,
-      "relicEquipments": "3101@70,100",
-      "shares": 20
-    },
-    {
-      "id": 107,
-      "crossplayID": 107,
-      "tombolaID": -2,
-      "relicEquipments": "6001@70,100",
-      "shares": 2
-    },
-    {
-      "id": 108,
-      "crossplayID": 108,
-      "tombolaID": -2,
-      "relicEquipments": "6101@70,100",
-      "shares": 2
-    },
-    {
-      "id": 109,
-      "crossplayID": 109,
-      "tombolaID": -2,
-      "relicEquipments": "6201@70,100",
-      "shares": 2
-    },
-    {
-      "id": 110,
-      "crossplayID": 110,
-      "tombolaID": -2,
-      "relicEquipments": "6301@70,100",
-      "shares": 2
-    },
-    {
-      "id": 111,
-      "crossplayID": 111,
-      "tombolaID": -2,
-      "relicEquipments": "6401@70,100",
-      "shares": 2
-    },
-    {
-      "id": 112,
-      "crossplayID": 112,
-      "tombolaID": -2,
-      "relicEquipments": "10001@70,100",
-      "shares": 10
-    },
-    {
-      "id": 113,
-      "crossplayID": 113,
-      "tombolaID": -2,
-      "relicEquipments": "10101@70,100",
-      "shares": 10
-    },
-    {
-      "id": 114,
-      "crossplayID": 114,
-      "tombolaID": -2,
-      "relicEquipments": "10201@70,100",
-      "shares": 10
-    },
-    {
-      "id": 115,
-      "crossplayID": 115,
-      "tombolaID": -2,
-      "relicEquipments": "10301@70,100",
-      "shares": 10
-    },
-    {
-      "id": 116,
-      "crossplayID": 116,
-      "tombolaID": -2,
-      "relicEquipments": "13001@70,100",
-      "shares": 20
-    },
-    {
-      "id": 117,
-      "crossplayID": 117,
-      "tombolaID": -2,
-      "relicEquipments": "13101@70,100",
-      "shares": 20
-    },
-    {
-      "id": 118,
-      "crossplayID": 118,
-      "tombolaID": -2,
-      "relicEquipments": "16001@70,100",
-      "shares": 5
-    },
-    {
-      "id": 119,
-      "crossplayID": 119,
-      "tombolaID": -2,
-      "relicEquipments": "16101@70,100",
-      "shares": 5
-    },
-    {
-      "id": 201,
-      "crossplayID": 201,
-      "tombolaID": -3,
-      "relicEquipments": "1@60,100",
-      "shares": 10
-    },
-    {
-      "id": 202,
-      "crossplayID": 202,
-      "tombolaID": -3,
-      "relicEquipments": "101@60,100",
-      "shares": 10
-    },
-    {
-      "id": 203,
-      "crossplayID": 203,
-      "tombolaID": -3,
-      "relicEquipments": "201@60,100",
-      "shares": 10
-    },
-    {
-      "id": 204,
-      "crossplayID": 204,
-      "tombolaID": -3,
-      "relicEquipments": "301@60,100",
-      "shares": 10
-    },
-    {
-      "id": 205,
-      "crossplayID": 205,
-      "tombolaID": -3,
-      "relicEquipments": "3001@60,100",
-      "shares": 5
-    },
-    {
-      "id": 206,
-      "crossplayID": 206,
-      "tombolaID": -3,
-      "relicEquipments": "3101@60,100",
-      "shares": 5
-    },
-    {
-      "id": 207,
-      "crossplayID": 207,
-      "tombolaID": -3,
-      "relicEquipments": "6001@60,100",
-      "shares": 2
-    },
-    {
-      "id": 208,
-      "crossplayID": 208,
-      "tombolaID": -3,
-      "relicEquipments": "6101@60,100",
-      "shares": 2
-    },
-    {
-      "id": 209,
-      "crossplayID": 209,
-      "tombolaID": -3,
-      "relicEquipments": "6201@60,100",
-      "shares": 2
-    },
-    {
-      "id": 210,
-      "crossplayID": 210,
-      "tombolaID": -3,
-      "relicEquipments": "6301@60,100",
-      "shares": 2
-    },
-    {
-      "id": 211,
-      "crossplayID": 211,
-      "tombolaID": -3,
-      "relicEquipments": "6401@60,100",
-      "shares": 2
-    },
-    {
-      "id": 212,
-      "crossplayID": 212,
-      "tombolaID": -3,
-      "relicEquipments": "10001@60,100",
-      "shares": 10
-    },
-    {
-      "id": 213,
-      "crossplayID": 213,
-      "tombolaID": -3,
-      "relicEquipments": "10101@60,100",
-      "shares": 10
-    },
-    {
-      "id": 214,
-      "crossplayID": 214,
-      "tombolaID": -3,
-      "relicEquipments": "10201@60,100",
-      "shares": 10
-    },
-    {
-      "id": 215,
-      "crossplayID": 215,
-      "tombolaID": -3,
-      "relicEquipments": "10301@60,100",
-      "shares": 10
-    },
-    {
-      "id": 216,
-      "crossplayID": 216,
-      "tombolaID": -3,
-      "relicEquipments": "13001@60,100",
-      "shares": 5
-    },
-    {
-      "id": 217,
-      "crossplayID": 217,
-      "tombolaID": -3,
-      "relicEquipments": "13101@60,100",
-      "shares": 5
-    },
-    {
-      "id": 218,
-      "crossplayID": 218,
-      "tombolaID": -3,
-      "relicEquipments": "16001@60,100",
-      "shares": 5
-    },
-    {
-      "id": 219,
-      "crossplayID": 219,
-      "tombolaID": -3,
-      "relicEquipments": "16101@60,100",
-      "shares": 5
-    },
-    {
-      "id": 301,
-      "crossplayID": 301,
-      "tombolaID": -4,
-      "relicEquipments": "1@80,100",
-      "shares": 10
-    },
-    {
-      "id": 302,
-      "crossplayID": 302,
-      "tombolaID": -4,
-      "relicEquipments": "101@80,100",
-      "shares": 10
-    },
-    {
-      "id": 303,
-      "crossplayID": 303,
-      "tombolaID": -4,
-      "relicEquipments": "201@80,100",
-      "shares": 10
-    },
-    {
-      "id": 304,
-      "crossplayID": 304,
-      "tombolaID": -4,
-      "relicEquipments": "301@80,100",
-      "shares": 10
-    },
-    {
-      "id": 305,
-      "crossplayID": 305,
-      "tombolaID": -4,
-      "relicEquipments": "3001@80,100",
-      "shares": 20
-    },
-    {
-      "id": 306,
-      "crossplayID": 306,
-      "tombolaID": -4,
-      "relicEquipments": "3101@80,100",
-      "shares": 20
-    },
-    {
-      "id": 307,
-      "crossplayID": 307,
-      "tombolaID": -4,
-      "relicEquipments": "6001@80,100",
-      "shares": 2
-    },
-    {
-      "id": 308,
-      "crossplayID": 308,
-      "tombolaID": -4,
-      "relicEquipments": "6101@80,100",
-      "shares": 2
-    },
-    {
-      "id": 309,
-      "crossplayID": 309,
-      "tombolaID": -4,
-      "relicEquipments": "6201@80,100",
-      "shares": 2
-    },
-    {
-      "id": 310,
-      "crossplayID": 310,
-      "tombolaID": -4,
-      "relicEquipments": "6301@80,100",
-      "shares": 2
-    },
-    {
-      "id": 311,
-      "crossplayID": 311,
-      "tombolaID": -4,
-      "relicEquipments": "6401@80,100",
-      "shares": 2
-    },
-    {
-      "id": 312,
-      "crossplayID": 312,
-      "tombolaID": -4,
-      "relicEquipments": "10001@80,100",
-      "shares": 10
-    },
-    {
-      "id": 313,
-      "crossplayID": 313,
-      "tombolaID": -4,
-      "relicEquipments": "10101@80,100",
-      "shares": 10
-    },
-    {
-      "id": 314,
-      "crossplayID": 314,
-      "tombolaID": -4,
-      "relicEquipments": "10201@80,100",
-      "shares": 10
-    },
-    {
-      "id": 315,
-      "crossplayID": 315,
-      "tombolaID": -4,
-      "relicEquipments": "10301@80,100",
-      "shares": 10
-    },
-    {
-      "id": 316,
-      "crossplayID": 316,
-      "tombolaID": -4,
-      "relicEquipments": "13001@80,100",
-      "shares": 20
-    },
-    {
-      "id": 317,
-      "crossplayID": 317,
-      "tombolaID": -4,
-      "relicEquipments": "13101@80,100",
-      "shares": 20
-    },
-    {
-      "id": 318,
-      "crossplayID": 318,
-      "tombolaID": -4,
-      "relicEquipments": "16001@80,100",
-      "shares": 5
-    },
-    {
-      "id": 319,
-      "crossplayID": 319,
-      "tombolaID": -4,
-      "relicEquipments": "16101@80,100",
-      "shares": 5
-    },
-    {
-      "id": 401,
-      "crossplayID": 401,
-      "tombolaID": -5,
-      "relicEquipments": "1@90,100",
-      "shares": 10
-    },
-    {
-      "id": 402,
-      "crossplayID": 402,
-      "tombolaID": -5,
-      "relicEquipments": "101@90,100",
-      "shares": 10
-    },
-    {
-      "id": 403,
-      "crossplayID": 403,
-      "tombolaID": -5,
-      "relicEquipments": "201@90,100",
-      "shares": 10
-    },
-    {
-      "id": 404,
-      "crossplayID": 404,
-      "tombolaID": -5,
-      "relicEquipments": "301@90,100",
-      "shares": 10
-    },
-    {
-      "id": 405,
-      "crossplayID": 405,
-      "tombolaID": -5,
-      "relicEquipments": "3001@90,100",
-      "shares": 20
-    },
-    {
-      "id": 406,
-      "crossplayID": 406,
-      "tombolaID": -5,
-      "relicEquipments": "3101@90,100",
-      "shares": 20
-    },
-    {
-      "id": 407,
-      "crossplayID": 407,
-      "tombolaID": -5,
-      "relicEquipments": "6001@90,100",
-      "shares": 2
-    },
-    {
-      "id": 408,
-      "crossplayID": 408,
-      "tombolaID": -5,
-      "relicEquipments": "6101@90,100",
-      "shares": 2
-    },
-    {
-      "id": 409,
-      "crossplayID": 409,
-      "tombolaID": -5,
-      "relicEquipments": "6201@90,100",
-      "shares": 2
-    },
-    {
-      "id": 410,
-      "crossplayID": 410,
-      "tombolaID": -5,
-      "relicEquipments": "6301@90,100",
-      "shares": 2
-    },
-    {
-      "id": 411,
-      "crossplayID": 411,
-      "tombolaID": -5,
-      "relicEquipments": "6401@90,100",
-      "shares": 2
-    },
-    {
-      "id": 412,
-      "crossplayID": 412,
-      "tombolaID": -5,
-      "relicEquipments": "10001@90,100",
-      "shares": 10
-    },
-    {
-      "id": 413,
-      "crossplayID": 413,
-      "tombolaID": -5,
-      "relicEquipments": "10101@90,100",
-      "shares": 10
-    },
-    {
-      "id": 414,
-      "crossplayID": 414,
-      "tombolaID": -5,
-      "relicEquipments": "10201@90,100",
-      "shares": 10
-    },
-    {
-      "id": 415,
-      "crossplayID": 415,
-      "tombolaID": -5,
-      "relicEquipments": "10301@90,100",
-      "shares": 10
-    },
-    {
-      "id": 416,
-      "crossplayID": 416,
-      "tombolaID": -5,
-      "relicEquipments": "13001@90,100",
-      "shares": 20
-    },
-    {
-      "id": 417,
-      "crossplayID": 417,
-      "tombolaID": -5,
-      "relicEquipments": "13101@90,100",
-      "shares": 20
-    },
-    {
-      "id": 418,
-      "crossplayID": 418,
-      "tombolaID": -5,
-      "relicEquipments": "16001@90,100",
-      "shares": 5
-    },
-    {
-      "id": 419,
-      "crossplayID": 419,
-      "tombolaID": -5,
-      "relicEquipments": "16101@90,100",
-      "shares": 5
-    },
-    {
-      "id": 501,
-      "crossplayID": 501,
-      "tombolaID": -6,
-      "relicEquipments": "1@80,100",
-      "shares": 10
-    },
-    {
-      "id": 502,
-      "crossplayID": 502,
-      "tombolaID": -6,
-      "relicEquipments": "101@80,100",
-      "shares": 10
-    },
-    {
-      "id": 503,
-      "crossplayID": 503,
-      "tombolaID": -6,
-      "relicEquipments": "201@80,100",
-      "shares": 10
-    },
-    {
-      "id": 504,
-      "crossplayID": 504,
-      "tombolaID": -6,
-      "relicEquipments": "301@80,100",
-      "shares": 10
-    },
-    {
-      "id": 505,
-      "crossplayID": 505,
-      "tombolaID": -6,
-      "relicEquipments": "3001@80,100",
-      "shares": 20
-    },
-    {
-      "id": 506,
-      "crossplayID": 506,
-      "tombolaID": -6,
-      "relicEquipments": "3101@80,100",
-      "shares": 20
-    },
-    {
-      "id": 507,
-      "crossplayID": 507,
-      "tombolaID": -6,
-      "relicEquipments": "6001@80,100",
-      "shares": 2
-    },
-    {
-      "id": 508,
-      "crossplayID": 508,
-      "tombolaID": -6,
-      "relicEquipments": "6101@80,100",
-      "shares": 2
-    },
-    {
-      "id": 509,
-      "crossplayID": 509,
-      "tombolaID": -6,
-      "relicEquipments": "6201@80,100",
-      "shares": 2
-    },
-    {
-      "id": 510,
-      "crossplayID": 510,
-      "tombolaID": -6,
-      "relicEquipments": "6301@80,100",
-      "shares": 2
-    },
-    {
-      "id": 511,
-      "crossplayID": 511,
-      "tombolaID": -6,
-      "relicEquipments": "6401@80,100",
-      "shares": 2
-    },
-    {
-      "id": 512,
-      "crossplayID": 512,
-      "tombolaID": -7,
-      "relicEquipments": "10001@80,100",
-      "shares": 10
-    },
-    {
-      "id": 513,
-      "crossplayID": 513,
-      "tombolaID": -7,
-      "relicEquipments": "10101@80,100",
-      "shares": 10
-    },
-    {
-      "id": 514,
-      "crossplayID": 514,
-      "tombolaID": -7,
-      "relicEquipments": "10201@80,100",
-      "shares": 10
-    },
-    {
-      "id": 515,
-      "crossplayID": 515,
-      "tombolaID": -7,
-      "relicEquipments": "10301@80,100",
-      "shares": 10
-    },
-    {
-      "id": 516,
-      "crossplayID": 516,
-      "tombolaID": -7,
-      "relicEquipments": "13001@80,100",
-      "shares": 20
-    },
-    {
-      "id": 517,
-      "crossplayID": 517,
-      "tombolaID": -7,
-      "relicEquipments": "13101@80,100",
-      "shares": 20
-    },
-    {
-      "id": 518,
-      "crossplayID": 518,
-      "tombolaID": -7,
-      "relicEquipments": "16001@80,100",
-      "shares": 5
-    },
-    {
-      "id": 519,
-      "crossplayID": 519,
-      "tombolaID": -7,
-      "relicEquipments": "16101@80,100",
-      "shares": 5
-    },
-    {
-      "id": 520,
-      "crossplayID": 520,
-      "tombolaID": -8,
-      "relicEquipments": "6001@90,100",
-      "shares": 2
-    },
-    {
-      "id": 521,
-      "crossplayID": 521,
-      "tombolaID": -8,
-      "relicEquipments": "6101@90,100",
-      "shares": 2
-    },
-    {
-      "id": 522,
-      "crossplayID": 522,
-      "tombolaID": -8,
-      "relicEquipments": "6201@90,100",
-      "shares": 2
-    },
-    {
-      "id": 523,
-      "crossplayID": 523,
-      "tombolaID": -8,
-      "relicEquipments": "6301@90,100",
-      "shares": 2
-    },
-    {
-      "id": 524,
-      "crossplayID": 524,
-      "tombolaID": -8,
-      "relicEquipments": "6401@90,100",
-      "shares": 2
-    },
-    {
-      "id": 525,
-      "crossplayID": 525,
-      "tombolaID": -9,
-      "relicEquipments": "6001@95,100",
-      "shares": 2
-    },
-    {
-      "id": 526,
-      "crossplayID": 526,
-      "tombolaID": -9,
-      "relicEquipments": "6101@95,100",
-      "shares": 2
-    },
-    {
-      "id": 527,
-      "crossplayID": 527,
-      "tombolaID": -9,
-      "relicEquipments": "6201@95,100",
-      "shares": 2
-    },
-    {
-      "id": 528,
-      "crossplayID": 528,
-      "tombolaID": -9,
-      "relicEquipments": "6301@95,100",
-      "shares": 2
-    },
-    {
-      "id": 529,
-      "crossplayID": 529,
-      "tombolaID": -9,
-      "relicEquipments": "6401@95,100",
-      "shares": 2
-    },
-    {
-      "id": 530,
-      "crossplayID": 530,
-      "tombolaID": -10,
-      "relicEquipments": "6001@100,100",
-      "shares": 2
-    },
-    {
-      "id": 531,
-      "crossplayID": 531,
-      "tombolaID": -10,
-      "relicEquipments": "6101@100,100",
-      "shares": 2
-    },
-    {
-      "id": 532,
-      "crossplayID": 532,
-      "tombolaID": -10,
-      "relicEquipments": "6201@100,100",
-      "shares": 2
-    },
-    {
-      "id": 533,
-      "crossplayID": 533,
-      "tombolaID": -10,
-      "relicEquipments": "6301@100,100",
-      "shares": 2
-    },
-    {
-      "id": 534,
-      "crossplayID": 534,
-      "tombolaID": -10,
-      "relicEquipments": "6401@100,100",
-      "shares": 2
-    },
-    {
-      "id": 535,
-      "crossplayID": 535,
-      "tombolaID": -11,
-      "relicEquipments": "6001@100,100",
-      "shares": 2
-    },
-    {
-      "id": 536,
-      "crossplayID": 536,
-      "tombolaID": -11,
-      "relicEquipments": "6101@100,100",
-      "shares": 2
-    },
-    {
-      "id": 537,
-      "crossplayID": 537,
-      "tombolaID": -11,
-      "relicEquipments": "6201@100,100",
-      "shares": 2
-    },
-    {
-      "id": 538,
-      "crossplayID": 538,
-      "tombolaID": -11,
-      "relicEquipments": "6301@100,100",
-      "shares": 2
-    },
-    {
-      "id": 539,
-      "crossplayID": 539,
-      "tombolaID": -11,
-      "relicEquipments": "6401@100,100",
-      "shares": 2
-    },
-    {
-      "id": 540,
-      "crossplayID": 540,
-      "tombolaID": -12,
-      "relicEquipments": "3001@90,100",
-      "shares": 20
-    },
-    {
-      "id": 541,
-      "crossplayID": 541,
-      "tombolaID": -12,
-      "relicEquipments": "3101@90,100",
-      "shares": 20
-    },
-    {
-      "id": 542,
-      "crossplayID": 542,
-      "tombolaID": -13,
-      "relicEquipments": "3001@95,100",
-      "shares": 20
-    },
-    {
-      "id": 543,
-      "crossplayID": 543,
-      "tombolaID": -13,
-      "relicEquipments": "3101@95,100",
-      "shares": 20
-    },
-    {
-      "id": 544,
-      "crossplayID": 544,
-      "tombolaID": -14,
-      "relicEquipments": "3001@100,100",
-      "shares": 20
-    },
-    {
-      "id": 545,
-      "crossplayID": 545,
-      "tombolaID": -14,
-      "relicEquipments": "3101@910,100",
-      "shares": 20
-    },
-    {
-      "id": 546,
-      "crossplayID": 546,
-      "tombolaID": -15,
-      "relicEquipments": "3001@100,100",
-      "shares": 20
-    },
-    {
-      "id": 547,
-      "crossplayID": 547,
-      "tombolaID": -15,
-      "relicEquipments": "3101@100,100",
-      "shares": 20
-    },
-    {
-      "id": 548,
-      "crossplayID": 548,
-      "tombolaID": -16,
-      "relicEquipments": "16001@90,100",
-      "shares": 5
-    },
-    {
-      "id": 549,
-      "crossplayID": 549,
-      "tombolaID": -16,
-      "relicEquipments": "16101@90,100",
-      "shares": 5
-    },
-    {
-      "id": 550,
-      "crossplayID": 550,
-      "tombolaID": -17,
-      "relicEquipments": "16001@95,100",
-      "shares": 5
-    },
-    {
-      "id": 551,
-      "crossplayID": 551,
-      "tombolaID": -17,
-      "relicEquipments": "16101@95,100",
-      "shares": 5
-    },
-    {
-      "id": 552,
-      "crossplayID": 552,
-      "tombolaID": -18,
-      "relicEquipments": "16001@100,100",
-      "shares": 5
-    },
-    {
-      "id": 553,
-      "crossplayID": 553,
-      "tombolaID": -18,
-      "relicEquipments": "16101@100,100",
-      "shares": 5
-    },
-    {
-      "id": 554,
-      "crossplayID": 554,
-      "tombolaID": -19,
-      "relicEquipments": "16001@100,100",
-      "shares": 5
-    },
-    {
-      "id": 555,
-      "crossplayID": 555,
-      "tombolaID": -19,
-      "relicEquipments": "16101@100,100",
-      "shares": 5
-    },
-    {
-      "id": 556,
-      "crossplayID": 556,
-      "tombolaID": -20,
-      "relicEquipments": "13001@90,100",
-      "shares": 20
-    },
-    {
-      "id": 557,
-      "crossplayID": 557,
-      "tombolaID": -20,
-      "relicEquipments": "13101@90,100",
-      "shares": 20
-    },
-    {
-      "id": 558,
-      "crossplayID": 558,
-      "tombolaID": -21,
-      "relicEquipments": "13001@95,100",
-      "shares": 20
-    },
-    {
-      "id": 559,
-      "crossplayID": 559,
-      "tombolaID": -21,
-      "relicEquipments": "13101@95,100",
-      "shares": 20
-    },
-    {
-      "id": 560,
-      "crossplayID": 560,
-      "tombolaID": -22,
-      "relicEquipments": "13001@100,100",
-      "shares": 20
-    },
-    {
-      "id": 561,
-      "crossplayID": 561,
-      "tombolaID": -22,
-      "relicEquipments": "13101@100,100",
-      "shares": 20
-    },
-    {
-      "id": 562,
-      "crossplayID": 562,
-      "tombolaID": -23,
-      "relicEquipments": "13001@100,100",
-      "shares": 20
-    },
-    {
-      "id": 563,
-      "crossplayID": 563,
-      "tombolaID": -23,
-      "relicEquipments": "13101@100,100",
-      "shares": 20
-    },
-    {
-      "id": 564,
-      "crossplayID": 564,
-      "tombolaID": -24,
-      "relicEquipments": "1@80,100",
-      "shares": 10
-    },
-    {
-      "id": 565,
-      "crossplayID": 565,
-      "tombolaID": -24,
-      "relicEquipments": "101@80,100",
-      "shares": 10
-    },
-    {
-      "id": 566,
-      "crossplayID": 566,
-      "tombolaID": -24,
-      "relicEquipments": "201@80,100",
-      "shares": 10
-    },
-    {
-      "id": 567,
-      "crossplayID": 567,
-      "tombolaID": -24,
-      "relicEquipments": "301@80,100",
-      "shares": 10
-    },
-    {
-      "id": 568,
-      "crossplayID": 568,
-      "tombolaID": -24,
-      "relicEquipments": "3001@80,100",
-      "shares": 20
-    },
-    {
-      "id": 569,
-      "crossplayID": 569,
-      "tombolaID": -24,
-      "relicEquipments": "3101@80,100",
-      "shares": 20
-    },
-    {
-      "id": 570,
-      "crossplayID": 570,
-      "tombolaID": -24,
-      "relicEquipments": "6001@80,100",
-      "shares": 2
-    },
-    {
-      "id": 571,
-      "crossplayID": 571,
-      "tombolaID": -24,
-      "relicEquipments": "6101@80,100",
-      "shares": 2
-    },
-    {
-      "id": 572,
-      "crossplayID": 572,
-      "tombolaID": -24,
-      "relicEquipments": "6201@80,100",
-      "shares": 2
-    },
-    {
-      "id": 573,
-      "crossplayID": 573,
-      "tombolaID": -24,
-      "relicEquipments": "6301@80,100",
-      "shares": 2
-    },
-    {
-      "id": 574,
-      "crossplayID": 574,
-      "tombolaID": -24,
-      "relicEquipments": "6401@80,100",
-      "shares": 2
-    },
-    {
-      "id": 575,
-      "crossplayID": 575,
-      "tombolaID": -24,
-      "relicEquipments": "10001@80,100",
-      "shares": 10
-    },
-    {
-      "id": 576,
-      "crossplayID": 576,
-      "tombolaID": -24,
-      "relicEquipments": "10101@80,100",
-      "shares": 10
-    },
-    {
-      "id": 577,
-      "crossplayID": 577,
-      "tombolaID": -24,
-      "relicEquipments": "10201@80,100",
-      "shares": 10
-    },
-    {
-      "id": 578,
-      "crossplayID": 578,
-      "tombolaID": -24,
-      "relicEquipments": "10301@80,100",
-      "shares": 10
-    },
-    {
-      "id": 579,
-      "crossplayID": 579,
-      "tombolaID": -24,
-      "relicEquipments": "13001@80,100",
-      "shares": 20
-    },
-    {
-      "id": 580,
-      "crossplayID": 580,
-      "tombolaID": -24,
-      "relicEquipments": "13101@80,100",
-      "shares": 20
-    },
-    {
-      "id": 581,
-      "crossplayID": 581,
-      "tombolaID": -24,
-      "relicEquipments": "16001@80,100",
-      "shares": 5
-    },
-    {
-      "id": 582,
-      "crossplayID": 582,
-      "tombolaID": -24,
-      "relicEquipments": "16101@80,100",
-      "shares": 5
-    },
-    {
-      "id": 1000,
-      "crossplayID": 1000,
-      "tombolaID": -100,
-      "relicEquipments": "2@0,100",
-      "shares": 10
-    },
-    {
-      "id": 1001,
-      "crossplayID": 1001,
-      "tombolaID": -100,
-      "relicEquipments": "102@0,100",
-      "shares": 10
-    },
-    {
-      "id": 1002,
-      "crossplayID": 1002,
-      "tombolaID": -100,
-      "relicEquipments": "202@0,100",
-      "shares": 10
-    },
-    {
-      "id": 1003,
-      "crossplayID": 1003,
-      "tombolaID": -100,
-      "relicEquipments": "302@0,100",
-      "shares": 10
-    },
-    {
-      "id": 1004,
-      "crossplayID": 1004,
-      "tombolaID": -100,
-      "relicEquipments": "3002@0,100",
-      "shares": 20
-    },
-    {
-      "id": 1005,
-      "crossplayID": 1005,
-      "tombolaID": -100,
-      "relicEquipments": "3102@0,100",
-      "shares": 20
-    },
-    {
-      "id": 1006,
-      "crossplayID": 1006,
-      "tombolaID": -100,
-      "relicEquipments": "6002@0,100",
-      "shares": 3
-    },
-    {
-      "id": 1007,
-      "crossplayID": 1007,
-      "tombolaID": -100,
-      "relicEquipments": "6102@0,100",
-      "shares": 2
-    },
-    {
-      "id": 1008,
-      "crossplayID": 1008,
-      "tombolaID": -100,
-      "relicEquipments": "6202@0,100",
-      "shares": 3
-    },
-    {
-      "id": 1009,
-      "crossplayID": 1009,
-      "tombolaID": -100,
-      "relicEquipments": "6302@0,100",
-      "shares": 2
-    },
-    {
-      "id": 1010,
-      "crossplayID": 1010,
-      "tombolaID": -100,
-      "relicEquipments": "6402@0,100",
-      "shares": 10
-    },
-    {
-      "id": 1011,
-      "crossplayID": 1011,
-      "tombolaID": -100,
-      "relicEquipments": "10002@0,100",
-      "shares": 10
-    },
-    {
-      "id": 1012,
-      "crossplayID": 1012,
-      "tombolaID": -100,
-      "relicEquipments": "10102@0,100",
-      "shares": 10
-    },
-    {
-      "id": 1013,
-      "crossplayID": 1013,
-      "tombolaID": -100,
-      "relicEquipments": "10202@0,100",
-      "shares": 10
-    },
-    {
-      "id": 1014,
-      "crossplayID": 1014,
-      "tombolaID": -100,
-      "relicEquipments": "10302@0,100",
-      "shares": 10
-    },
-    {
-      "id": 1015,
-      "crossplayID": 1015,
-      "tombolaID": -100,
-      "relicEquipments": "13002@0,100",
-      "shares": 20
-    },
-    {
-      "id": 1016,
-      "crossplayID": 1016,
-      "tombolaID": -100,
-      "relicEquipments": "13102@0,100",
-      "shares": 20
-    },
-    {
-      "id": 1017,
-      "crossplayID": 1017,
-      "tombolaID": -100,
-      "relicEquipments": "16002@0,100",
-      "shares": 10
-    },
-    {
-      "id": 1018,
-      "crossplayID": 1018,
-      "tombolaID": -100,
-      "relicEquipments": "16102@0,100",
-      "shares": 10
-    },
-    {
-      "id": 1019,
-      "crossplayID": 1019,
-      "tombolaID": -101,
-      "relicEquipments": "2@0,60",
-      "shares": 1
-    },
-    {
-      "id": 1020,
-      "crossplayID": 1020,
-      "tombolaID": -101,
-      "relicEquipments": "102@0,60",
-      "shares": 1
-    },
-    {
-      "id": 1021,
-      "crossplayID": 1021,
-      "tombolaID": -101,
-      "relicEquipments": "202@0,60",
-      "shares": 1
-    },
-    {
-      "id": 1022,
-      "crossplayID": 1022,
-      "tombolaID": -101,
-      "relicEquipments": "302@0,60",
-      "shares": 1
-    },
-    {
-      "id": 1023,
-      "crossplayID": 1023,
-      "tombolaID": -101,
-      "relicEquipments": "3102@0,60",
-      "shares": 1
-    },
-    {
-      "id": 1024,
-      "crossplayID": 1024,
-      "tombolaID": -101,
-      "relicEquipments": "6102@0,60",
-      "shares": 1
-    },
-    {
-      "id": 1025,
-      "crossplayID": 1025,
-      "tombolaID": -102,
-      "relicEquipments": "10002@0,80",
-      "shares": 1
-    },
-    {
-      "id": 1026,
-      "crossplayID": 1026,
-      "tombolaID": -102,
-      "relicEquipments": "10102@0,80",
-      "shares": 1
-    },
-    {
-      "id": 1027,
-      "crossplayID": 1027,
-      "tombolaID": -102,
-      "relicEquipments": "10202@0,80",
-      "shares": 1
-    },
-    {
-      "id": 1028,
-      "crossplayID": 1028,
-      "tombolaID": -102,
-      "relicEquipments": "10302@0,80",
-      "shares": 1
-    },
-    {
-      "id": 1029,
-      "crossplayID": 1029,
-      "tombolaID": -102,
-      "relicEquipments": "13102@0,80",
-      "shares": 1
-    },
-    {
-      "id": 1030,
-      "crossplayID": 1030,
-      "tombolaID": -102,
-      "relicEquipments": "16102@0,80",
-      "shares": 1
-    },
-    {
-      "id": 1031,
-      "crossplayID": 1031,
-      "tombolaID": -103,
-      "relicEquipments": "2@30,80",
-      "shares": 1
-    },
-    {
-      "id": 1032,
-      "crossplayID": 1032,
-      "tombolaID": -103,
-      "relicEquipments": "102@30,80",
-      "shares": 1
-    },
-    {
-      "id": 1033,
-      "crossplayID": 1033,
-      "tombolaID": -103,
-      "relicEquipments": "202@30,80",
-      "shares": 1
-    },
-    {
-      "id": 1034,
-      "crossplayID": 1034,
-      "tombolaID": -103,
-      "relicEquipments": "302@30,80",
-      "shares": 1
-    },
-    {
-      "id": 1035,
-      "crossplayID": 1035,
-      "tombolaID": -103,
-      "relicEquipments": "3102@30,80",
-      "shares": 1
-    },
-    {
-      "id": 1036,
-      "crossplayID": 1036,
-      "tombolaID": -103,
-      "relicEquipments": "6102@30,80",
-      "shares": 1
-    },
-    {
-      "id": 1037,
-      "crossplayID": 1037,
-      "tombolaID": -104,
-      "relicEquipments": "10002@30,80",
-      "shares": 1
-    },
-    {
-      "id": 1038,
-      "crossplayID": 1038,
-      "tombolaID": -104,
-      "relicEquipments": "10102@30,80",
-      "shares": 1
-    },
-    {
-      "id": 1039,
-      "crossplayID": 1039,
-      "tombolaID": -104,
-      "relicEquipments": "10202@30,80",
-      "shares": 1
-    },
-    {
-      "id": 1040,
-      "crossplayID": 1040,
-      "tombolaID": -104,
-      "relicEquipments": "10302@30,80",
-      "shares": 1
-    },
-    {
-      "id": 1041,
-      "crossplayID": 1041,
-      "tombolaID": -104,
-      "relicEquipments": "13102@30,80",
-      "shares": 1
-    },
-    {
-      "id": 1042,
-      "crossplayID": 1042,
-      "tombolaID": -104,
-      "relicEquipments": "16102@30,80",
-      "shares": 1
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "crossplayID": 1,
+    "tombolaID": -1,
+    "relicEquipments": "1@0,69",
+    "shares": 10
+  },
+  {
+    "id": 2,
+    "crossplayID": 2,
+    "tombolaID": -1,
+    "relicEquipments": "101@0,69",
+    "shares": 10
+  },
+  {
+    "id": 3,
+    "crossplayID": 3,
+    "tombolaID": -1,
+    "relicEquipments": "201@0,69",
+    "shares": 10
+  },
+  {
+    "id": 4,
+    "crossplayID": 4,
+    "tombolaID": -1,
+    "relicEquipments": "301@0,69",
+    "shares": 10
+  },
+  {
+    "id": 5,
+    "crossplayID": 5,
+    "tombolaID": -1,
+    "relicEquipments": "3001@0,69",
+    "shares": 5
+  },
+  {
+    "id": 6,
+    "crossplayID": 6,
+    "tombolaID": -1,
+    "relicEquipments": "3101@0,69",
+    "shares": 5
+  },
+  {
+    "id": 7,
+    "crossplayID": 7,
+    "tombolaID": -1,
+    "relicEquipments": "6001@0,69",
+    "shares": 2
+  },
+  {
+    "id": 8,
+    "crossplayID": 8,
+    "tombolaID": -1,
+    "relicEquipments": "6101@0,69",
+    "shares": 2
+  },
+  {
+    "id": 9,
+    "crossplayID": 9,
+    "tombolaID": -1,
+    "relicEquipments": "6201@0,69",
+    "shares": 2
+  },
+  {
+    "id": 10,
+    "crossplayID": 10,
+    "tombolaID": -1,
+    "relicEquipments": "6301@0,69",
+    "shares": 2
+  },
+  {
+    "id": 11,
+    "crossplayID": 11,
+    "tombolaID": -1,
+    "relicEquipments": "6401@0,69",
+    "shares": 2
+  },
+  {
+    "id": 12,
+    "crossplayID": 12,
+    "tombolaID": -1,
+    "relicEquipments": "10001@0,69",
+    "shares": 10
+  },
+  {
+    "id": 13,
+    "crossplayID": 13,
+    "tombolaID": -1,
+    "relicEquipments": "10101@0,69",
+    "shares": 10
+  },
+  {
+    "id": 14,
+    "crossplayID": 14,
+    "tombolaID": -1,
+    "relicEquipments": "10201@0,69",
+    "shares": 10
+  },
+  {
+    "id": 15,
+    "crossplayID": 15,
+    "tombolaID": -1,
+    "relicEquipments": "10301@0,69",
+    "shares": 10
+  },
+  {
+    "id": 16,
+    "crossplayID": 16,
+    "tombolaID": -1,
+    "relicEquipments": "13001@0,69",
+    "shares": 5
+  },
+  {
+    "id": 17,
+    "crossplayID": 17,
+    "tombolaID": -1,
+    "relicEquipments": "13101@0,69",
+    "shares": 5
+  },
+  {
+    "id": 18,
+    "crossplayID": 18,
+    "tombolaID": -1,
+    "relicEquipments": "16001@0,69",
+    "shares": 5
+  },
+  {
+    "id": 19,
+    "crossplayID": 19,
+    "tombolaID": -1,
+    "relicEquipments": "16101@0,69",
+    "shares": 5
+  },
+  {
+    "id": 101,
+    "crossplayID": 101,
+    "tombolaID": -2,
+    "relicEquipments": "1@70,100",
+    "shares": 10
+  },
+  {
+    "id": 102,
+    "crossplayID": 102,
+    "tombolaID": -2,
+    "relicEquipments": "101@70,100",
+    "shares": 10
+  },
+  {
+    "id": 103,
+    "crossplayID": 103,
+    "tombolaID": -2,
+    "relicEquipments": "201@70,100",
+    "shares": 10
+  },
+  {
+    "id": 104,
+    "crossplayID": 104,
+    "tombolaID": -2,
+    "relicEquipments": "301@70,100",
+    "shares": 10
+  },
+  {
+    "id": 105,
+    "crossplayID": 105,
+    "tombolaID": -2,
+    "relicEquipments": "3001@70,100",
+    "shares": 20
+  },
+  {
+    "id": 106,
+    "crossplayID": 106,
+    "tombolaID": -2,
+    "relicEquipments": "3101@70,100",
+    "shares": 20
+  },
+  {
+    "id": 107,
+    "crossplayID": 107,
+    "tombolaID": -2,
+    "relicEquipments": "6001@70,100",
+    "shares": 2
+  },
+  {
+    "id": 108,
+    "crossplayID": 108,
+    "tombolaID": -2,
+    "relicEquipments": "6101@70,100",
+    "shares": 2
+  },
+  {
+    "id": 109,
+    "crossplayID": 109,
+    "tombolaID": -2,
+    "relicEquipments": "6201@70,100",
+    "shares": 2
+  },
+  {
+    "id": 110,
+    "crossplayID": 110,
+    "tombolaID": -2,
+    "relicEquipments": "6301@70,100",
+    "shares": 2
+  },
+  {
+    "id": 111,
+    "crossplayID": 111,
+    "tombolaID": -2,
+    "relicEquipments": "6401@70,100",
+    "shares": 2
+  },
+  {
+    "id": 112,
+    "crossplayID": 112,
+    "tombolaID": -2,
+    "relicEquipments": "10001@70,100",
+    "shares": 10
+  },
+  {
+    "id": 113,
+    "crossplayID": 113,
+    "tombolaID": -2,
+    "relicEquipments": "10101@70,100",
+    "shares": 10
+  },
+  {
+    "id": 114,
+    "crossplayID": 114,
+    "tombolaID": -2,
+    "relicEquipments": "10201@70,100",
+    "shares": 10
+  },
+  {
+    "id": 115,
+    "crossplayID": 115,
+    "tombolaID": -2,
+    "relicEquipments": "10301@70,100",
+    "shares": 10
+  },
+  {
+    "id": 116,
+    "crossplayID": 116,
+    "tombolaID": -2,
+    "relicEquipments": "13001@70,100",
+    "shares": 20
+  },
+  {
+    "id": 117,
+    "crossplayID": 117,
+    "tombolaID": -2,
+    "relicEquipments": "13101@70,100",
+    "shares": 20
+  },
+  {
+    "id": 118,
+    "crossplayID": 118,
+    "tombolaID": -2,
+    "relicEquipments": "16001@70,100",
+    "shares": 5
+  },
+  {
+    "id": 119,
+    "crossplayID": 119,
+    "tombolaID": -2,
+    "relicEquipments": "16101@70,100",
+    "shares": 5
+  },
+  {
+    "id": 201,
+    "crossplayID": 201,
+    "tombolaID": -3,
+    "relicEquipments": "1@60,100",
+    "shares": 10
+  },
+  {
+    "id": 202,
+    "crossplayID": 202,
+    "tombolaID": -3,
+    "relicEquipments": "101@60,100",
+    "shares": 10
+  },
+  {
+    "id": 203,
+    "crossplayID": 203,
+    "tombolaID": -3,
+    "relicEquipments": "201@60,100",
+    "shares": 10
+  },
+  {
+    "id": 204,
+    "crossplayID": 204,
+    "tombolaID": -3,
+    "relicEquipments": "301@60,100",
+    "shares": 10
+  },
+  {
+    "id": 205,
+    "crossplayID": 205,
+    "tombolaID": -3,
+    "relicEquipments": "3001@60,100",
+    "shares": 5
+  },
+  {
+    "id": 206,
+    "crossplayID": 206,
+    "tombolaID": -3,
+    "relicEquipments": "3101@60,100",
+    "shares": 5
+  },
+  {
+    "id": 207,
+    "crossplayID": 207,
+    "tombolaID": -3,
+    "relicEquipments": "6001@60,100",
+    "shares": 2
+  },
+  {
+    "id": 208,
+    "crossplayID": 208,
+    "tombolaID": -3,
+    "relicEquipments": "6101@60,100",
+    "shares": 2
+  },
+  {
+    "id": 209,
+    "crossplayID": 209,
+    "tombolaID": -3,
+    "relicEquipments": "6201@60,100",
+    "shares": 2
+  },
+  {
+    "id": 210,
+    "crossplayID": 210,
+    "tombolaID": -3,
+    "relicEquipments": "6301@60,100",
+    "shares": 2
+  },
+  {
+    "id": 211,
+    "crossplayID": 211,
+    "tombolaID": -3,
+    "relicEquipments": "6401@60,100",
+    "shares": 2
+  },
+  {
+    "id": 212,
+    "crossplayID": 212,
+    "tombolaID": -3,
+    "relicEquipments": "10001@60,100",
+    "shares": 10
+  },
+  {
+    "id": 213,
+    "crossplayID": 213,
+    "tombolaID": -3,
+    "relicEquipments": "10101@60,100",
+    "shares": 10
+  },
+  {
+    "id": 214,
+    "crossplayID": 214,
+    "tombolaID": -3,
+    "relicEquipments": "10201@60,100",
+    "shares": 10
+  },
+  {
+    "id": 215,
+    "crossplayID": 215,
+    "tombolaID": -3,
+    "relicEquipments": "10301@60,100",
+    "shares": 10
+  },
+  {
+    "id": 216,
+    "crossplayID": 216,
+    "tombolaID": -3,
+    "relicEquipments": "13001@60,100",
+    "shares": 5
+  },
+  {
+    "id": 217,
+    "crossplayID": 217,
+    "tombolaID": -3,
+    "relicEquipments": "13101@60,100",
+    "shares": 5
+  },
+  {
+    "id": 218,
+    "crossplayID": 218,
+    "tombolaID": -3,
+    "relicEquipments": "16001@60,100",
+    "shares": 5
+  },
+  {
+    "id": 219,
+    "crossplayID": 219,
+    "tombolaID": -3,
+    "relicEquipments": "16101@60,100",
+    "shares": 5
+  },
+  {
+    "id": 301,
+    "crossplayID": 301,
+    "tombolaID": -4,
+    "relicEquipments": "1@80,100",
+    "shares": 10
+  },
+  {
+    "id": 302,
+    "crossplayID": 302,
+    "tombolaID": -4,
+    "relicEquipments": "101@80,100",
+    "shares": 10
+  },
+  {
+    "id": 303,
+    "crossplayID": 303,
+    "tombolaID": -4,
+    "relicEquipments": "201@80,100",
+    "shares": 10
+  },
+  {
+    "id": 304,
+    "crossplayID": 304,
+    "tombolaID": -4,
+    "relicEquipments": "301@80,100",
+    "shares": 10
+  },
+  {
+    "id": 305,
+    "crossplayID": 305,
+    "tombolaID": -4,
+    "relicEquipments": "3001@80,100",
+    "shares": 20
+  },
+  {
+    "id": 306,
+    "crossplayID": 306,
+    "tombolaID": -4,
+    "relicEquipments": "3101@80,100",
+    "shares": 20
+  },
+  {
+    "id": 307,
+    "crossplayID": 307,
+    "tombolaID": -4,
+    "relicEquipments": "6001@80,100",
+    "shares": 2
+  },
+  {
+    "id": 308,
+    "crossplayID": 308,
+    "tombolaID": -4,
+    "relicEquipments": "6101@80,100",
+    "shares": 2
+  },
+  {
+    "id": 309,
+    "crossplayID": 309,
+    "tombolaID": -4,
+    "relicEquipments": "6201@80,100",
+    "shares": 2
+  },
+  {
+    "id": 310,
+    "crossplayID": 310,
+    "tombolaID": -4,
+    "relicEquipments": "6301@80,100",
+    "shares": 2
+  },
+  {
+    "id": 311,
+    "crossplayID": 311,
+    "tombolaID": -4,
+    "relicEquipments": "6401@80,100",
+    "shares": 2
+  },
+  {
+    "id": 312,
+    "crossplayID": 312,
+    "tombolaID": -4,
+    "relicEquipments": "10001@80,100",
+    "shares": 10
+  },
+  {
+    "id": 313,
+    "crossplayID": 313,
+    "tombolaID": -4,
+    "relicEquipments": "10101@80,100",
+    "shares": 10
+  },
+  {
+    "id": 314,
+    "crossplayID": 314,
+    "tombolaID": -4,
+    "relicEquipments": "10201@80,100",
+    "shares": 10
+  },
+  {
+    "id": 315,
+    "crossplayID": 315,
+    "tombolaID": -4,
+    "relicEquipments": "10301@80,100",
+    "shares": 10
+  },
+  {
+    "id": 316,
+    "crossplayID": 316,
+    "tombolaID": -4,
+    "relicEquipments": "13001@80,100",
+    "shares": 20
+  },
+  {
+    "id": 317,
+    "crossplayID": 317,
+    "tombolaID": -4,
+    "relicEquipments": "13101@80,100",
+    "shares": 20
+  },
+  {
+    "id": 318,
+    "crossplayID": 318,
+    "tombolaID": -4,
+    "relicEquipments": "16001@80,100",
+    "shares": 5
+  },
+  {
+    "id": 319,
+    "crossplayID": 319,
+    "tombolaID": -4,
+    "relicEquipments": "16101@80,100",
+    "shares": 5
+  },
+  {
+    "id": 401,
+    "crossplayID": 401,
+    "tombolaID": -5,
+    "relicEquipments": "1@90,100",
+    "shares": 10
+  },
+  {
+    "id": 402,
+    "crossplayID": 402,
+    "tombolaID": -5,
+    "relicEquipments": "101@90,100",
+    "shares": 10
+  },
+  {
+    "id": 403,
+    "crossplayID": 403,
+    "tombolaID": -5,
+    "relicEquipments": "201@90,100",
+    "shares": 10
+  },
+  {
+    "id": 404,
+    "crossplayID": 404,
+    "tombolaID": -5,
+    "relicEquipments": "301@90,100",
+    "shares": 10
+  },
+  {
+    "id": 405,
+    "crossplayID": 405,
+    "tombolaID": -5,
+    "relicEquipments": "3001@90,100",
+    "shares": 20
+  },
+  {
+    "id": 406,
+    "crossplayID": 406,
+    "tombolaID": -5,
+    "relicEquipments": "3101@90,100",
+    "shares": 20
+  },
+  {
+    "id": 407,
+    "crossplayID": 407,
+    "tombolaID": -5,
+    "relicEquipments": "6001@90,100",
+    "shares": 2
+  },
+  {
+    "id": 408,
+    "crossplayID": 408,
+    "tombolaID": -5,
+    "relicEquipments": "6101@90,100",
+    "shares": 2
+  },
+  {
+    "id": 409,
+    "crossplayID": 409,
+    "tombolaID": -5,
+    "relicEquipments": "6201@90,100",
+    "shares": 2
+  },
+  {
+    "id": 410,
+    "crossplayID": 410,
+    "tombolaID": -5,
+    "relicEquipments": "6301@90,100",
+    "shares": 2
+  },
+  {
+    "id": 411,
+    "crossplayID": 411,
+    "tombolaID": -5,
+    "relicEquipments": "6401@90,100",
+    "shares": 2
+  },
+  {
+    "id": 412,
+    "crossplayID": 412,
+    "tombolaID": -5,
+    "relicEquipments": "10001@90,100",
+    "shares": 10
+  },
+  {
+    "id": 413,
+    "crossplayID": 413,
+    "tombolaID": -5,
+    "relicEquipments": "10101@90,100",
+    "shares": 10
+  },
+  {
+    "id": 414,
+    "crossplayID": 414,
+    "tombolaID": -5,
+    "relicEquipments": "10201@90,100",
+    "shares": 10
+  },
+  {
+    "id": 415,
+    "crossplayID": 415,
+    "tombolaID": -5,
+    "relicEquipments": "10301@90,100",
+    "shares": 10
+  },
+  {
+    "id": 416,
+    "crossplayID": 416,
+    "tombolaID": -5,
+    "relicEquipments": "13001@90,100",
+    "shares": 20
+  },
+  {
+    "id": 417,
+    "crossplayID": 417,
+    "tombolaID": -5,
+    "relicEquipments": "13101@90,100",
+    "shares": 20
+  },
+  {
+    "id": 418,
+    "crossplayID": 418,
+    "tombolaID": -5,
+    "relicEquipments": "16001@90,100",
+    "shares": 5
+  },
+  {
+    "id": 419,
+    "crossplayID": 419,
+    "tombolaID": -5,
+    "relicEquipments": "16101@90,100",
+    "shares": 5
+  },
+  {
+    "id": 501,
+    "crossplayID": 501,
+    "tombolaID": -6,
+    "relicEquipments": "1@80,100",
+    "shares": 10
+  },
+  {
+    "id": 502,
+    "crossplayID": 502,
+    "tombolaID": -6,
+    "relicEquipments": "101@80,100",
+    "shares": 10
+  },
+  {
+    "id": 503,
+    "crossplayID": 503,
+    "tombolaID": -6,
+    "relicEquipments": "201@80,100",
+    "shares": 10
+  },
+  {
+    "id": 504,
+    "crossplayID": 504,
+    "tombolaID": -6,
+    "relicEquipments": "301@80,100",
+    "shares": 10
+  },
+  {
+    "id": 505,
+    "crossplayID": 505,
+    "tombolaID": -6,
+    "relicEquipments": "3001@80,100",
+    "shares": 20
+  },
+  {
+    "id": 506,
+    "crossplayID": 506,
+    "tombolaID": -6,
+    "relicEquipments": "3101@80,100",
+    "shares": 20
+  },
+  {
+    "id": 507,
+    "crossplayID": 507,
+    "tombolaID": -6,
+    "relicEquipments": "6001@80,100",
+    "shares": 2
+  },
+  {
+    "id": 508,
+    "crossplayID": 508,
+    "tombolaID": -6,
+    "relicEquipments": "6101@80,100",
+    "shares": 2
+  },
+  {
+    "id": 509,
+    "crossplayID": 509,
+    "tombolaID": -6,
+    "relicEquipments": "6201@80,100",
+    "shares": 2
+  },
+  {
+    "id": 510,
+    "crossplayID": 510,
+    "tombolaID": -6,
+    "relicEquipments": "6301@80,100",
+    "shares": 2
+  },
+  {
+    "id": 511,
+    "crossplayID": 511,
+    "tombolaID": -6,
+    "relicEquipments": "6401@80,100",
+    "shares": 2
+  },
+  {
+    "id": 512,
+    "crossplayID": 512,
+    "tombolaID": -7,
+    "relicEquipments": "10001@80,100",
+    "shares": 10
+  },
+  {
+    "id": 513,
+    "crossplayID": 513,
+    "tombolaID": -7,
+    "relicEquipments": "10101@80,100",
+    "shares": 10
+  },
+  {
+    "id": 514,
+    "crossplayID": 514,
+    "tombolaID": -7,
+    "relicEquipments": "10201@80,100",
+    "shares": 10
+  },
+  {
+    "id": 515,
+    "crossplayID": 515,
+    "tombolaID": -7,
+    "relicEquipments": "10301@80,100",
+    "shares": 10
+  },
+  {
+    "id": 516,
+    "crossplayID": 516,
+    "tombolaID": -7,
+    "relicEquipments": "13001@80,100",
+    "shares": 20
+  },
+  {
+    "id": 517,
+    "crossplayID": 517,
+    "tombolaID": -7,
+    "relicEquipments": "13101@80,100",
+    "shares": 20
+  },
+  {
+    "id": 518,
+    "crossplayID": 518,
+    "tombolaID": -7,
+    "relicEquipments": "16001@80,100",
+    "shares": 5
+  },
+  {
+    "id": 519,
+    "crossplayID": 519,
+    "tombolaID": -7,
+    "relicEquipments": "16101@80,100",
+    "shares": 5
+  },
+  {
+    "id": 520,
+    "crossplayID": 520,
+    "tombolaID": -8,
+    "relicEquipments": "6001@90,100",
+    "shares": 2
+  },
+  {
+    "id": 521,
+    "crossplayID": 521,
+    "tombolaID": -8,
+    "relicEquipments": "6101@90,100",
+    "shares": 2
+  },
+  {
+    "id": 522,
+    "crossplayID": 522,
+    "tombolaID": -8,
+    "relicEquipments": "6201@90,100",
+    "shares": 2
+  },
+  {
+    "id": 523,
+    "crossplayID": 523,
+    "tombolaID": -8,
+    "relicEquipments": "6301@90,100",
+    "shares": 2
+  },
+  {
+    "id": 524,
+    "crossplayID": 524,
+    "tombolaID": -8,
+    "relicEquipments": "6401@90,100",
+    "shares": 2
+  },
+  {
+    "id": 525,
+    "crossplayID": 525,
+    "tombolaID": -9,
+    "relicEquipments": "6001@95,100",
+    "shares": 2
+  },
+  {
+    "id": 526,
+    "crossplayID": 526,
+    "tombolaID": -9,
+    "relicEquipments": "6101@95,100",
+    "shares": 2
+  },
+  {
+    "id": 527,
+    "crossplayID": 527,
+    "tombolaID": -9,
+    "relicEquipments": "6201@95,100",
+    "shares": 2
+  },
+  {
+    "id": 528,
+    "crossplayID": 528,
+    "tombolaID": -9,
+    "relicEquipments": "6301@95,100",
+    "shares": 2
+  },
+  {
+    "id": 529,
+    "crossplayID": 529,
+    "tombolaID": -9,
+    "relicEquipments": "6401@95,100",
+    "shares": 2
+  },
+  {
+    "id": 530,
+    "crossplayID": 530,
+    "tombolaID": -10,
+    "relicEquipments": "6001@100,100",
+    "shares": 2
+  },
+  {
+    "id": 531,
+    "crossplayID": 531,
+    "tombolaID": -10,
+    "relicEquipments": "6101@100,100",
+    "shares": 2
+  },
+  {
+    "id": 532,
+    "crossplayID": 532,
+    "tombolaID": -10,
+    "relicEquipments": "6201@100,100",
+    "shares": 2
+  },
+  {
+    "id": 533,
+    "crossplayID": 533,
+    "tombolaID": -10,
+    "relicEquipments": "6301@100,100",
+    "shares": 2
+  },
+  {
+    "id": 534,
+    "crossplayID": 534,
+    "tombolaID": -10,
+    "relicEquipments": "6401@100,100",
+    "shares": 2
+  },
+  {
+    "id": 535,
+    "crossplayID": 535,
+    "tombolaID": -11,
+    "relicEquipments": "6001@100,100",
+    "shares": 2
+  },
+  {
+    "id": 536,
+    "crossplayID": 536,
+    "tombolaID": -11,
+    "relicEquipments": "6101@100,100",
+    "shares": 2
+  },
+  {
+    "id": 537,
+    "crossplayID": 537,
+    "tombolaID": -11,
+    "relicEquipments": "6201@100,100",
+    "shares": 2
+  },
+  {
+    "id": 538,
+    "crossplayID": 538,
+    "tombolaID": -11,
+    "relicEquipments": "6301@100,100",
+    "shares": 2
+  },
+  {
+    "id": 539,
+    "crossplayID": 539,
+    "tombolaID": -11,
+    "relicEquipments": "6401@100,100",
+    "shares": 2
+  },
+  {
+    "id": 540,
+    "crossplayID": 540,
+    "tombolaID": -12,
+    "relicEquipments": "3001@90,100",
+    "shares": 20
+  },
+  {
+    "id": 541,
+    "crossplayID": 541,
+    "tombolaID": -12,
+    "relicEquipments": "3101@90,100",
+    "shares": 20
+  },
+  {
+    "id": 542,
+    "crossplayID": 542,
+    "tombolaID": -13,
+    "relicEquipments": "3001@95,100",
+    "shares": 20
+  },
+  {
+    "id": 543,
+    "crossplayID": 543,
+    "tombolaID": -13,
+    "relicEquipments": "3101@95,100",
+    "shares": 20
+  },
+  {
+    "id": 544,
+    "crossplayID": 544,
+    "tombolaID": -14,
+    "relicEquipments": "3001@100,100",
+    "shares": 20
+  },
+  {
+    "id": 545,
+    "crossplayID": 545,
+    "tombolaID": -14,
+    "relicEquipments": "3101@910,100",
+    "shares": 20
+  },
+  {
+    "id": 546,
+    "crossplayID": 546,
+    "tombolaID": -15,
+    "relicEquipments": "3001@100,100",
+    "shares": 20
+  },
+  {
+    "id": 547,
+    "crossplayID": 547,
+    "tombolaID": -15,
+    "relicEquipments": "3101@100,100",
+    "shares": 20
+  },
+  {
+    "id": 548,
+    "crossplayID": 548,
+    "tombolaID": -16,
+    "relicEquipments": "16001@90,100",
+    "shares": 5
+  },
+  {
+    "id": 549,
+    "crossplayID": 549,
+    "tombolaID": -16,
+    "relicEquipments": "16101@90,100",
+    "shares": 5
+  },
+  {
+    "id": 550,
+    "crossplayID": 550,
+    "tombolaID": -17,
+    "relicEquipments": "16001@95,100",
+    "shares": 5
+  },
+  {
+    "id": 551,
+    "crossplayID": 551,
+    "tombolaID": -17,
+    "relicEquipments": "16101@95,100",
+    "shares": 5
+  },
+  {
+    "id": 552,
+    "crossplayID": 552,
+    "tombolaID": -18,
+    "relicEquipments": "16001@100,100",
+    "shares": 5
+  },
+  {
+    "id": 553,
+    "crossplayID": 553,
+    "tombolaID": -18,
+    "relicEquipments": "16101@100,100",
+    "shares": 5
+  },
+  {
+    "id": 554,
+    "crossplayID": 554,
+    "tombolaID": -19,
+    "relicEquipments": "16001@100,100",
+    "shares": 5
+  },
+  {
+    "id": 555,
+    "crossplayID": 555,
+    "tombolaID": -19,
+    "relicEquipments": "16101@100,100",
+    "shares": 5
+  },
+  {
+    "id": 556,
+    "crossplayID": 556,
+    "tombolaID": -20,
+    "relicEquipments": "13001@90,100",
+    "shares": 20
+  },
+  {
+    "id": 557,
+    "crossplayID": 557,
+    "tombolaID": -20,
+    "relicEquipments": "13101@90,100",
+    "shares": 20
+  },
+  {
+    "id": 558,
+    "crossplayID": 558,
+    "tombolaID": -21,
+    "relicEquipments": "13001@95,100",
+    "shares": 20
+  },
+  {
+    "id": 559,
+    "crossplayID": 559,
+    "tombolaID": -21,
+    "relicEquipments": "13101@95,100",
+    "shares": 20
+  },
+  {
+    "id": 560,
+    "crossplayID": 560,
+    "tombolaID": -22,
+    "relicEquipments": "13001@100,100",
+    "shares": 20
+  },
+  {
+    "id": 561,
+    "crossplayID": 561,
+    "tombolaID": -22,
+    "relicEquipments": "13101@100,100",
+    "shares": 20
+  },
+  {
+    "id": 562,
+    "crossplayID": 562,
+    "tombolaID": -23,
+    "relicEquipments": "13001@100,100",
+    "shares": 20
+  },
+  {
+    "id": 563,
+    "crossplayID": 563,
+    "tombolaID": -23,
+    "relicEquipments": "13101@100,100",
+    "shares": 20
+  },
+  {
+    "id": 564,
+    "crossplayID": 564,
+    "tombolaID": -24,
+    "relicEquipments": "1@80,100",
+    "shares": 10
+  },
+  {
+    "id": 565,
+    "crossplayID": 565,
+    "tombolaID": -24,
+    "relicEquipments": "101@80,100",
+    "shares": 10
+  },
+  {
+    "id": 566,
+    "crossplayID": 566,
+    "tombolaID": -24,
+    "relicEquipments": "201@80,100",
+    "shares": 10
+  },
+  {
+    "id": 567,
+    "crossplayID": 567,
+    "tombolaID": -24,
+    "relicEquipments": "301@80,100",
+    "shares": 10
+  },
+  {
+    "id": 568,
+    "crossplayID": 568,
+    "tombolaID": -24,
+    "relicEquipments": "3001@80,100",
+    "shares": 20
+  },
+  {
+    "id": 569,
+    "crossplayID": 569,
+    "tombolaID": -24,
+    "relicEquipments": "3101@80,100",
+    "shares": 20
+  },
+  {
+    "id": 570,
+    "crossplayID": 570,
+    "tombolaID": -24,
+    "relicEquipments": "6001@80,100",
+    "shares": 2
+  },
+  {
+    "id": 571,
+    "crossplayID": 571,
+    "tombolaID": -24,
+    "relicEquipments": "6101@80,100",
+    "shares": 2
+  },
+  {
+    "id": 572,
+    "crossplayID": 572,
+    "tombolaID": -24,
+    "relicEquipments": "6201@80,100",
+    "shares": 2
+  },
+  {
+    "id": 573,
+    "crossplayID": 573,
+    "tombolaID": -24,
+    "relicEquipments": "6301@80,100",
+    "shares": 2
+  },
+  {
+    "id": 574,
+    "crossplayID": 574,
+    "tombolaID": -24,
+    "relicEquipments": "6401@80,100",
+    "shares": 2
+  },
+  {
+    "id": 575,
+    "crossplayID": 575,
+    "tombolaID": -24,
+    "relicEquipments": "10001@80,100",
+    "shares": 10
+  },
+  {
+    "id": 576,
+    "crossplayID": 576,
+    "tombolaID": -24,
+    "relicEquipments": "10101@80,100",
+    "shares": 10
+  },
+  {
+    "id": 577,
+    "crossplayID": 577,
+    "tombolaID": -24,
+    "relicEquipments": "10201@80,100",
+    "shares": 10
+  },
+  {
+    "id": 578,
+    "crossplayID": 578,
+    "tombolaID": -24,
+    "relicEquipments": "10301@80,100",
+    "shares": 10
+  },
+  {
+    "id": 579,
+    "crossplayID": 579,
+    "tombolaID": -24,
+    "relicEquipments": "13001@80,100",
+    "shares": 20
+  },
+  {
+    "id": 580,
+    "crossplayID": 580,
+    "tombolaID": -24,
+    "relicEquipments": "13101@80,100",
+    "shares": 20
+  },
+  {
+    "id": 581,
+    "crossplayID": 581,
+    "tombolaID": -24,
+    "relicEquipments": "16001@80,100",
+    "shares": 5
+  },
+  {
+    "id": 582,
+    "crossplayID": 582,
+    "tombolaID": -24,
+    "relicEquipments": "16101@80,100",
+    "shares": 5
+  },
+  {
+    "id": 1000,
+    "crossplayID": 1000,
+    "tombolaID": -100,
+    "relicEquipments": "2@0,100",
+    "shares": 10
+  },
+  {
+    "id": 1001,
+    "crossplayID": 1001,
+    "tombolaID": -100,
+    "relicEquipments": "102@0,100",
+    "shares": 10
+  },
+  {
+    "id": 1002,
+    "crossplayID": 1002,
+    "tombolaID": -100,
+    "relicEquipments": "202@0,100",
+    "shares": 10
+  },
+  {
+    "id": 1003,
+    "crossplayID": 1003,
+    "tombolaID": -100,
+    "relicEquipments": "302@0,100",
+    "shares": 10
+  },
+  {
+    "id": 1004,
+    "crossplayID": 1004,
+    "tombolaID": -100,
+    "relicEquipments": "3002@0,100",
+    "shares": 20
+  },
+  {
+    "id": 1005,
+    "crossplayID": 1005,
+    "tombolaID": -100,
+    "relicEquipments": "3102@0,100",
+    "shares": 20
+  },
+  {
+    "id": 1006,
+    "crossplayID": 1006,
+    "tombolaID": -100,
+    "relicEquipments": "6002@0,100",
+    "shares": 3
+  },
+  {
+    "id": 1007,
+    "crossplayID": 1007,
+    "tombolaID": -100,
+    "relicEquipments": "6102@0,100",
+    "shares": 2
+  },
+  {
+    "id": 1008,
+    "crossplayID": 1008,
+    "tombolaID": -100,
+    "relicEquipments": "6202@0,100",
+    "shares": 3
+  },
+  {
+    "id": 1009,
+    "crossplayID": 1009,
+    "tombolaID": -100,
+    "relicEquipments": "6302@0,100",
+    "shares": 2
+  },
+  {
+    "id": 1010,
+    "crossplayID": 1010,
+    "tombolaID": -100,
+    "relicEquipments": "6402@0,100",
+    "shares": 10
+  },
+  {
+    "id": 1011,
+    "crossplayID": 1011,
+    "tombolaID": -100,
+    "relicEquipments": "10002@0,100",
+    "shares": 10
+  },
+  {
+    "id": 1012,
+    "crossplayID": 1012,
+    "tombolaID": -100,
+    "relicEquipments": "10102@0,100",
+    "shares": 10
+  },
+  {
+    "id": 1013,
+    "crossplayID": 1013,
+    "tombolaID": -100,
+    "relicEquipments": "10202@0,100",
+    "shares": 10
+  },
+  {
+    "id": 1014,
+    "crossplayID": 1014,
+    "tombolaID": -100,
+    "relicEquipments": "10302@0,100",
+    "shares": 10
+  },
+  {
+    "id": 1015,
+    "crossplayID": 1015,
+    "tombolaID": -100,
+    "relicEquipments": "13002@0,100",
+    "shares": 20
+  },
+  {
+    "id": 1016,
+    "crossplayID": 1016,
+    "tombolaID": -100,
+    "relicEquipments": "13102@0,100",
+    "shares": 20
+  },
+  {
+    "id": 1017,
+    "crossplayID": 1017,
+    "tombolaID": -100,
+    "relicEquipments": "16002@0,100",
+    "shares": 10
+  },
+  {
+    "id": 1018,
+    "crossplayID": 1018,
+    "tombolaID": -100,
+    "relicEquipments": "16102@0,100",
+    "shares": 10
+  },
+  {
+    "id": 1019,
+    "crossplayID": 1019,
+    "tombolaID": -101,
+    "relicEquipments": "2@0,60",
+    "shares": 1
+  },
+  {
+    "id": 1020,
+    "crossplayID": 1020,
+    "tombolaID": -101,
+    "relicEquipments": "102@0,60",
+    "shares": 1
+  },
+  {
+    "id": 1021,
+    "crossplayID": 1021,
+    "tombolaID": -101,
+    "relicEquipments": "202@0,60",
+    "shares": 1
+  },
+  {
+    "id": 1022,
+    "crossplayID": 1022,
+    "tombolaID": -101,
+    "relicEquipments": "302@0,60",
+    "shares": 1
+  },
+  {
+    "id": 1023,
+    "crossplayID": 1023,
+    "tombolaID": -101,
+    "relicEquipments": "3102@0,60",
+    "shares": 1
+  },
+  {
+    "id": 1024,
+    "crossplayID": 1024,
+    "tombolaID": -101,
+    "relicEquipments": "6102@0,60",
+    "shares": 1
+  },
+  {
+    "id": 1025,
+    "crossplayID": 1025,
+    "tombolaID": -102,
+    "relicEquipments": "10002@0,80",
+    "shares": 1
+  },
+  {
+    "id": 1026,
+    "crossplayID": 1026,
+    "tombolaID": -102,
+    "relicEquipments": "10102@0,80",
+    "shares": 1
+  },
+  {
+    "id": 1027,
+    "crossplayID": 1027,
+    "tombolaID": -102,
+    "relicEquipments": "10202@0,80",
+    "shares": 1
+  },
+  {
+    "id": 1028,
+    "crossplayID": 1028,
+    "tombolaID": -102,
+    "relicEquipments": "10302@0,80",
+    "shares": 1
+  },
+  {
+    "id": 1029,
+    "crossplayID": 1029,
+    "tombolaID": -102,
+    "relicEquipments": "13102@0,80",
+    "shares": 1
+  },
+  {
+    "id": 1030,
+    "crossplayID": 1030,
+    "tombolaID": -102,
+    "relicEquipments": "16102@0,80",
+    "shares": 1
+  },
+  {
+    "id": 1031,
+    "crossplayID": 1031,
+    "tombolaID": -103,
+    "relicEquipments": "2@30,80",
+    "shares": 1
+  },
+  {
+    "id": 1032,
+    "crossplayID": 1032,
+    "tombolaID": -103,
+    "relicEquipments": "102@30,80",
+    "shares": 1
+  },
+  {
+    "id": 1033,
+    "crossplayID": 1033,
+    "tombolaID": -103,
+    "relicEquipments": "202@30,80",
+    "shares": 1
+  },
+  {
+    "id": 1034,
+    "crossplayID": 1034,
+    "tombolaID": -103,
+    "relicEquipments": "302@30,80",
+    "shares": 1
+  },
+  {
+    "id": 1035,
+    "crossplayID": 1035,
+    "tombolaID": -103,
+    "relicEquipments": "3102@30,80",
+    "shares": 1
+  },
+  {
+    "id": 1036,
+    "crossplayID": 1036,
+    "tombolaID": -103,
+    "relicEquipments": "6102@30,80",
+    "shares": 1
+  },
+  {
+    "id": 1037,
+    "crossplayID": 1037,
+    "tombolaID": -104,
+    "relicEquipments": "10002@30,80",
+    "shares": 1
+  },
+  {
+    "id": 1038,
+    "crossplayID": 1038,
+    "tombolaID": -104,
+    "relicEquipments": "10102@30,80",
+    "shares": 1
+  },
+  {
+    "id": 1039,
+    "crossplayID": 1039,
+    "tombolaID": -104,
+    "relicEquipments": "10202@30,80",
+    "shares": 1
+  },
+  {
+    "id": 1040,
+    "crossplayID": 1040,
+    "tombolaID": -104,
+    "relicEquipments": "10302@30,80",
+    "shares": 1
+  },
+  {
+    "id": 1041,
+    "crossplayID": 1041,
+    "tombolaID": -104,
+    "relicEquipments": "13102@30,80",
+    "shares": 1
+  },
+  {
+    "id": 1042,
+    "crossplayID": 1042,
+    "tombolaID": -104,
+    "relicEquipments": "16102@30,80",
+    "shares": 1
+  }
+]

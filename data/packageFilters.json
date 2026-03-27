@@ -1,74 +1,72 @@
-{
-  "packageFilter": [
-    {
-      "filterID": 1,
-      "crossplayID": 1,
-      "name": "Equipment Types"
-    },
-    {
-      "filterID": 2,
-      "crossplayID": 2,
-      "name": "Rarities"
-    },
-    {
-      "filterID": 4,
-      "crossplayID": 4,
-      "name": "Enhanced"
-    },
-    {
-      "filterID": 5,
-      "crossplayID": 5,
-      "name": "Temporary"
-    },
-    {
-      "filterID": 6,
-      "crossplayID": 6,
-      "name": "Random"
-    },
-    {
-      "filterID": 7,
-      "crossplayID": 7,
-      "name": "Lord Type"
-    },
-    {
-      "filterID": 20,
-      "crossplayID": 20,
-      "name": "Usage"
-    },
-    {
-      "filterID": 21,
-      "crossplayID": 21,
-      "name": "Type"
-    },
-    {
-      "filterID": 40,
-      "crossplayID": 40,
-      "name": "Building"
-    },
-    {
-      "filterID": 41,
-      "crossplayID": 41,
-      "name": "Decoration"
-    },
-    {
-      "filterID": 60,
-      "crossplayID": 60,
-      "name": "Construction items"
-    },
-    {
-      "filterID": 61,
-      "crossplayID": 61,
-      "name": "Material"
-    },
-    {
-      "filterID": 80,
-      "crossplayID": 80,
-      "name": "Resources"
-    },
-    {
-      "filterID": 99,
-      "crossplayID": 99,
-      "name": "Misc"
-    }
-  ]
-}
+[
+  {
+    "filterID": 1,
+    "crossplayID": 1,
+    "name": "Equipment Types"
+  },
+  {
+    "filterID": 2,
+    "crossplayID": 2,
+    "name": "Rarities"
+  },
+  {
+    "filterID": 4,
+    "crossplayID": 4,
+    "name": "Enhanced"
+  },
+  {
+    "filterID": 5,
+    "crossplayID": 5,
+    "name": "Temporary"
+  },
+  {
+    "filterID": 6,
+    "crossplayID": 6,
+    "name": "Random"
+  },
+  {
+    "filterID": 7,
+    "crossplayID": 7,
+    "name": "Lord Type"
+  },
+  {
+    "filterID": 20,
+    "crossplayID": 20,
+    "name": "Usage"
+  },
+  {
+    "filterID": 21,
+    "crossplayID": 21,
+    "name": "Type"
+  },
+  {
+    "filterID": 40,
+    "crossplayID": 40,
+    "name": "Building"
+  },
+  {
+    "filterID": 41,
+    "crossplayID": 41,
+    "name": "Decoration"
+  },
+  {
+    "filterID": 60,
+    "crossplayID": 60,
+    "name": "Construction items"
+  },
+  {
+    "filterID": 61,
+    "crossplayID": 61,
+    "name": "Material"
+  },
+  {
+    "filterID": 80,
+    "crossplayID": 80,
+    "name": "Resources"
+  },
+  {
+    "filterID": 99,
+    "crossplayID": 99,
+    "name": "Misc"
+  }
+]

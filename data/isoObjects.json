@@ -1,25 +1,23 @@
-{
-  "isoObject": [
-    {
-      "wodID": 901200,
-      "group": "Castlewall",
-      "name": "Basic",
-      "type": "-",
-      "rotateType": 2
-    },
-    {
-      "wodID": 901201,
-      "group": "Castlewall",
-      "name": "Palisade",
-      "type": "-",
-      "rotateType": 2
-    },
-    {
-      "wodID": 901202,
-      "group": "Castlewall",
-      "name": "FactionCamp",
-      "type": "-",
-      "rotateType": 2
-    }
-  ]
-}
+[
+  {
+    "wodID": 901200,
+    "group": "Castlewall",
+    "name": "Basic",
+    "type": "-",
+    "rotateType": 2
+  },
+  {
+    "wodID": 901201,
+    "group": "Castlewall",
+    "name": "Palisade",
+    "type": "-",
+    "rotateType": 2
+  },
+  {
+    "wodID": 901202,
+    "group": "Castlewall",
+    "name": "FactionCamp",
+    "type": "-",
+    "rotateType": 2
+  }
+]

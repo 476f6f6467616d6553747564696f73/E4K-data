@@ -1,1076 +1,1078 @@
-{
-  "packageCategoryFilterRelation": [
-    {
-      "relationID": 1,
-      "categoryID": 1,
-      "filterID": 1,
-      "subFilterID": 1
-    },
-    {
-      "relationID": 2,
-      "categoryID": 1,
-      "filterID": 1,
-      "subFilterID": 2
-    },
-    {
-      "relationID": 3,
-      "categoryID": 1,
-      "filterID": 1,
-      "subFilterID": 3
-    },
-    {
-      "relationID": 4,
-      "categoryID": 1,
-      "filterID": 1,
-      "subFilterID": 4
-    },
-    {
-      "relationID": 5,
-      "categoryID": 1,
-      "filterID": 1,
-      "subFilterID": 5
-    },
-    {
-      "relationID": 6,
-      "categoryID": 1,
-      "filterID": 1,
-      "subFilterID": 6
-    },
-    {
-      "relationID": 7,
-      "categoryID": 1,
-      "filterID": 1,
-      "subFilterID": 7
-    },
-    {
-      "relationID": 8,
-      "categoryID": 1,
-      "filterID": 2,
-      "subFilterID": 8
-    },
-    {
-      "relationID": 9,
-      "categoryID": 1,
-      "filterID": 2,
-      "subFilterID": 9
-    },
-    {
-      "relationID": 10,
-      "categoryID": 1,
-      "filterID": 4
-    },
-    {
-      "relationID": 11,
-      "categoryID": 1,
-      "filterID": 5
-    },
-    {
-      "relationID": 12,
-      "categoryID": 1,
-      "filterID": 6
-    },
-    {
-      "relationID": 13,
-      "categoryID": 1,
-      "filterID": 7,
-      "subFilterID": 10
-    },
-    {
-      "relationID": 14,
-      "categoryID": 1,
-      "filterID": 7,
-      "subFilterID": 11
-    },
-    {
-      "relationID": 50,
-      "categoryID": 10,
-      "filterID": 2,
-      "subFilterID": 8
-    },
-    {
-      "relationID": 51,
-      "categoryID": 10,
-      "filterID": 2,
-      "subFilterID": 9
-    },
-    {
-      "relationID": 52,
-      "categoryID": 10,
-      "filterID": 2,
-      "subFilterID": 20
-    },
-    {
-      "relationID": 53,
-      "categoryID": 10,
-      "filterID": 6
-    },
-    {
-      "relationID": 54,
-      "categoryID": 10,
-      "filterID": 7,
-      "subFilterID": 10
-    },
-    {
-      "relationID": 55,
-      "categoryID": 10,
-      "filterID": 7,
-      "subFilterID": 11
-    },
-    {
-      "relationID": 100,
-      "categoryID": 20,
-      "filterID": 20,
-      "subFilterID": 32
-    },
-    {
-      "relationID": 101,
-      "categoryID": 20,
-      "filterID": 20,
-      "subFilterID": 33
-    },
-    {
-      "relationID": 102,
-      "categoryID": 20,
-      "filterID": 21,
-      "subFilterID": 30
-    },
-    {
-      "relationID": 103,
-      "categoryID": 20,
-      "filterID": 21,
-      "subFilterID": 31
-    },
-    {
-      "relationID": 150,
-      "categoryID": 30,
-      "filterID": 20,
-      "subFilterID": 32
-    },
-    {
-      "relationID": 151,
-      "categoryID": 30,
-      "filterID": 20,
-      "subFilterID": 33
-    },
-    {
-      "relationID": 152,
-      "categoryID": 30,
-      "filterID": 21,
-      "subFilterID": 40
-    },
-    {
-      "relationID": 153,
-      "categoryID": 30,
-      "filterID": 21,
-      "subFilterID": 41
-    },
-    {
-      "relationID": 154,
-      "categoryID": 30,
-      "filterID": 21,
-      "subFilterID": 42
-    },
-    {
-      "relationID": 155,
-      "categoryID": 30,
-      "filterID": 21,
-      "subFilterID": 43
-    },
-    {
-      "relationID": 156,
-      "categoryID": 30,
-      "filterID": 21,
-      "subFilterID": 44
-    },
-    {
-      "relationID": 157,
-      "categoryID": 30,
-      "filterID": 21,
-      "subFilterID": 45
-    },
-    {
-      "relationID": 158,
-      "categoryID": 30,
-      "filterID": 21,
-      "subFilterID": 46
-    },
-    {
-      "relationID": 159,
-      "categoryID": 30,
-      "filterID": 21,
-      "subFilterID": 47
-    },
-    {
-      "relationID": 200,
-      "categoryID": 40,
-      "filterID": 41,
-      "subFilterID": 50
-    },
-    {
-      "relationID": 201,
-      "categoryID": 40,
-      "filterID": 41,
-      "subFilterID": 51
-    },
-    {
-      "relationID": 202,
-      "categoryID": 40,
-      "filterID": 40
-    },
-    {
-      "relationID": 250,
-      "categoryID": 50,
-      "filterID": 60,
-      "subFilterID": 60
-    },
-    {
-      "relationID": 251,
-      "categoryID": 50,
-      "filterID": 60,
-      "subFilterID": 61
-    },
-    {
-      "relationID": 257,
-      "categoryID": 50,
-      "filterID": 60,
-      "subFilterID": 67
-    },
-    {
-      "relationID": 252,
-      "categoryID": 50,
-      "filterID": 61,
-      "subFilterID": 62
-    },
-    {
-      "relationID": 253,
-      "categoryID": 50,
-      "filterID": 61,
-      "subFilterID": 63
-    },
-    {
-      "relationID": 254,
-      "categoryID": 50,
-      "filterID": 61,
-      "subFilterID": 64
-    },
-    {
-      "relationID": 255,
-      "categoryID": 50,
-      "filterID": 61,
-      "subFilterID": 65
-    },
-    {
-      "relationID": 256,
-      "categoryID": 50,
-      "filterID": 61,
-      "subFilterID": 66
-    },
-    {
-      "relationID": 300,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 80
-    },
-    {
-      "relationID": 301,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 81
-    },
-    {
-      "relationID": 302,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 82
-    },
-    {
-      "relationID": 303,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 83
-    },
-    {
-      "relationID": 304,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 84
-    },
-    {
-      "relationID": 305,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 85
-    },
-    {
-      "relationID": 306,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 86
-    },
-    {
-      "relationID": 307,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 87
-    },
-    {
-      "relationID": 308,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 7
-    },
-    {
-      "relationID": 309,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 88
-    },
-    {
-      "relationID": 310,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 89
-    },
-    {
-      "relationID": 311,
-      "categoryID": 60,
-      "filterID": 80,
-      "subFilterID": 90
-    },
-    {
-      "relationID": 1001,
-      "categoryID": 101,
-      "filterID": 1,
-      "subFilterID": 1
-    },
-    {
-      "relationID": 1002,
-      "categoryID": 101,
-      "filterID": 1,
-      "subFilterID": 2
-    },
-    {
-      "relationID": 1003,
-      "categoryID": 101,
-      "filterID": 1,
-      "subFilterID": 3
-    },
-    {
-      "relationID": 1004,
-      "categoryID": 101,
-      "filterID": 1,
-      "subFilterID": 4
-    },
-    {
-      "relationID": 1005,
-      "categoryID": 101,
-      "filterID": 1,
-      "subFilterID": 5
-    },
-    {
-      "relationID": 1006,
-      "categoryID": 101,
-      "filterID": 1,
-      "subFilterID": 6
-    },
-    {
-      "relationID": 1007,
-      "categoryID": 101,
-      "filterID": 1,
-      "subFilterID": 7
-    },
-    {
-      "relationID": 1008,
-      "categoryID": 101,
-      "filterID": 2,
-      "subFilterID": 8
-    },
-    {
-      "relationID": 1009,
-      "categoryID": 101,
-      "filterID": 2,
-      "subFilterID": 9
-    },
-    {
-      "relationID": 1010,
-      "categoryID": 101,
-      "filterID": 4
-    },
-    {
-      "relationID": 1011,
-      "categoryID": 101,
-      "filterID": 5
-    },
-    {
-      "relationID": 1012,
-      "categoryID": 101,
-      "filterID": 6
-    },
-    {
-      "relationID": 1013,
-      "categoryID": 101,
-      "filterID": 7,
-      "subFilterID": 10
-    },
-    {
-      "relationID": 1014,
-      "categoryID": 101,
-      "filterID": 7,
-      "subFilterID": 11
-    },
-    {
-      "relationID": 1050,
-      "categoryID": 101,
-      "filterID": 2,
-      "subFilterID": 8
-    },
-    {
-      "relationID": 1051,
-      "categoryID": 101,
-      "filterID": 2,
-      "subFilterID": 9
-    },
-    {
-      "relationID": 1052,
-      "categoryID": 101,
-      "filterID": 2,
-      "subFilterID": 20
-    },
-    {
-      "relationID": 1053,
-      "categoryID": 101,
-      "filterID": 6
-    },
-    {
-      "relationID": 1054,
-      "categoryID": 101,
-      "filterID": 7,
-      "subFilterID": 10
-    },
-    {
-      "relationID": 1055,
-      "categoryID": 101,
-      "filterID": 7,
-      "subFilterID": 11
-    },
-    {
-      "relationID": 1100,
-      "categoryID": 101,
-      "filterID": 20,
-      "subFilterID": 32
-    },
-    {
-      "relationID": 1101,
-      "categoryID": 101,
-      "filterID": 20,
-      "subFilterID": 33
-    },
-    {
-      "relationID": 1102,
-      "categoryID": 101,
-      "filterID": 21,
-      "subFilterID": 30
-    },
-    {
-      "relationID": 1103,
-      "categoryID": 101,
-      "filterID": 21,
-      "subFilterID": 31
-    },
-    {
-      "relationID": 1150,
-      "categoryID": 101,
-      "filterID": 20,
-      "subFilterID": 32
-    },
-    {
-      "relationID": 1151,
-      "categoryID": 101,
-      "filterID": 20,
-      "subFilterID": 33
-    },
-    {
-      "relationID": 1152,
-      "categoryID": 101,
-      "filterID": 21,
-      "subFilterID": 40
-    },
-    {
-      "relationID": 1153,
-      "categoryID": 101,
-      "filterID": 21,
-      "subFilterID": 41
-    },
-    {
-      "relationID": 1154,
-      "categoryID": 101,
-      "filterID": 21,
-      "subFilterID": 42
-    },
-    {
-      "relationID": 1155,
-      "categoryID": 101,
-      "filterID": 21,
-      "subFilterID": 43
-    },
-    {
-      "relationID": 1156,
-      "categoryID": 101,
-      "filterID": 21,
-      "subFilterID": 44
-    },
-    {
-      "relationID": 1157,
-      "categoryID": 101,
-      "filterID": 21,
-      "subFilterID": 45
-    },
-    {
-      "relationID": 1158,
-      "categoryID": 101,
-      "filterID": 21,
-      "subFilterID": 46
-    },
-    {
-      "relationID": 1159,
-      "categoryID": 101,
-      "filterID": 21,
-      "subFilterID": 47
-    },
-    {
-      "relationID": 1200,
-      "categoryID": 101,
-      "filterID": 40
-    },
-    {
-      "relationID": 1201,
-      "categoryID": 101,
-      "filterID": 41
-    },
-    {
-      "relationID": 1250,
-      "categoryID": 101,
-      "filterID": 60,
-      "subFilterID": 60
-    },
-    {
-      "relationID": 1251,
-      "categoryID": 101,
-      "filterID": 60,
-      "subFilterID": 61
-    },
-    {
-      "relationID": 1252,
-      "categoryID": 101,
-      "filterID": 61,
-      "subFilterID": 62
-    },
-    {
-      "relationID": 1253,
-      "categoryID": 101,
-      "filterID": 61,
-      "subFilterID": 63
-    },
-    {
-      "relationID": 1254,
-      "categoryID": 101,
-      "filterID": 61,
-      "subFilterID": 64
-    },
-    {
-      "relationID": 1255,
-      "categoryID": 101,
-      "filterID": 61,
-      "subFilterID": 65
-    },
-    {
-      "relationID": 1256,
-      "categoryID": 101,
-      "filterID": 61,
-      "subFilterID": 66
-    },
-    {
-      "relationID": 1300,
-      "categoryID": 101,
-      "filterID": 80,
-      "subFilterID": 80
-    },
-    {
-      "relationID": 1301,
-      "categoryID": 101,
-      "filterID": 80,
-      "subFilterID": 81
-    },
-    {
-      "relationID": 1302,
-      "categoryID": 101,
-      "filterID": 80,
-      "subFilterID": 82
-    },
-    {
-      "relationID": 1303,
-      "categoryID": 101,
-      "filterID": 80,
-      "subFilterID": 83
-    },
-    {
-      "relationID": 1304,
-      "categoryID": 101,
-      "filterID": 80,
-      "subFilterID": 84
-    },
-    {
-      "relationID": 1305,
-      "categoryID": 101,
-      "filterID": 80,
-      "subFilterID": 85
-    },
-    {
-      "relationID": 1306,
-      "categoryID": 101,
-      "filterID": 80,
-      "subFilterID": 86
-    },
-    {
-      "relationID": 1307,
-      "categoryID": 101,
-      "filterID": 80,
-      "subFilterID": 87
-    },
-    {
-      "relationID": 1308,
-      "categoryID": 101,
-      "filterID": 80,
-      "subFilterID": 7
-    },
-    {
-      "relationID": 1309,
-      "categoryID": 101,
-      "filterID": 80,
-      "subFilterID": 88
-    },
-    {
-      "relationID": 1310,
-      "categoryID": 101,
-      "filterID": 80,
-      "subFilterID": 89
-    },
-    {
-      "relationID": 1999,
-      "categoryID": 101,
-      "filterID": 99
-    },
-    {
-      "relationID": 2001,
-      "categoryID": 102,
-      "filterID": 1,
-      "subFilterID": 1
-    },
-    {
-      "relationID": 2002,
-      "categoryID": 102,
-      "filterID": 1,
-      "subFilterID": 2
-    },
-    {
-      "relationID": 2003,
-      "categoryID": 102,
-      "filterID": 1,
-      "subFilterID": 3
-    },
-    {
-      "relationID": 2004,
-      "categoryID": 102,
-      "filterID": 1,
-      "subFilterID": 4
-    },
-    {
-      "relationID": 2005,
-      "categoryID": 102,
-      "filterID": 1,
-      "subFilterID": 5
-    },
-    {
-      "relationID": 2006,
-      "categoryID": 102,
-      "filterID": 1,
-      "subFilterID": 6
-    },
-    {
-      "relationID": 2007,
-      "categoryID": 102,
-      "filterID": 1,
-      "subFilterID": 7
-    },
-    {
-      "relationID": 2008,
-      "categoryID": 102,
-      "filterID": 2,
-      "subFilterID": 8
-    },
-    {
-      "relationID": 2009,
-      "categoryID": 102,
-      "filterID": 2,
-      "subFilterID": 9
-    },
-    {
-      "relationID": 2010,
-      "categoryID": 102,
-      "filterID": 4
-    },
-    {
-      "relationID": 2011,
-      "categoryID": 102,
-      "filterID": 5
-    },
-    {
-      "relationID": 2012,
-      "categoryID": 102,
-      "filterID": 6
-    },
-    {
-      "relationID": 2013,
-      "categoryID": 102,
-      "filterID": 7,
-      "subFilterID": 10
-    },
-    {
-      "relationID": 2014,
-      "categoryID": 102,
-      "filterID": 7,
-      "subFilterID": 11
-    },
-    {
-      "relationID": 2050,
-      "categoryID": 102,
-      "filterID": 2,
-      "subFilterID": 8
-    },
-    {
-      "relationID": 2051,
-      "categoryID": 102,
-      "filterID": 2,
-      "subFilterID": 9
-    },
-    {
-      "relationID": 2052,
-      "categoryID": 102,
-      "filterID": 2,
-      "subFilterID": 20
-    },
-    {
-      "relationID": 2053,
-      "categoryID": 102,
-      "filterID": 6
-    },
-    {
-      "relationID": 2054,
-      "categoryID": 102,
-      "filterID": 7,
-      "subFilterID": 10
-    },
-    {
-      "relationID": 2055,
-      "categoryID": 102,
-      "filterID": 7,
-      "subFilterID": 11
-    },
-    {
-      "relationID": 2100,
-      "categoryID": 102,
-      "filterID": 20,
-      "subFilterID": 32
-    },
-    {
-      "relationID": 2101,
-      "categoryID": 102,
-      "filterID": 20,
-      "subFilterID": 33
-    },
-    {
-      "relationID": 2102,
-      "categoryID": 102,
-      "filterID": 21,
-      "subFilterID": 30
-    },
-    {
-      "relationID": 2103,
-      "categoryID": 102,
-      "filterID": 21,
-      "subFilterID": 31
-    },
-    {
-      "relationID": 2150,
-      "categoryID": 102,
-      "filterID": 20,
-      "subFilterID": 32
-    },
-    {
-      "relationID": 2151,
-      "categoryID": 102,
-      "filterID": 20,
-      "subFilterID": 33
-    },
-    {
-      "relationID": 2152,
-      "categoryID": 102,
-      "filterID": 21,
-      "subFilterID": 40
-    },
-    {
-      "relationID": 2153,
-      "categoryID": 102,
-      "filterID": 21,
-      "subFilterID": 41
-    },
-    {
-      "relationID": 2154,
-      "categoryID": 102,
-      "filterID": 21,
-      "subFilterID": 42
-    },
-    {
-      "relationID": 2155,
-      "categoryID": 102,
-      "filterID": 21,
-      "subFilterID": 43
-    },
-    {
-      "relationID": 2156,
-      "categoryID": 102,
-      "filterID": 21,
-      "subFilterID": 44
-    },
-    {
-      "relationID": 2157,
-      "categoryID": 102,
-      "filterID": 21,
-      "subFilterID": 45
-    },
-    {
-      "relationID": 2158,
-      "categoryID": 102,
-      "filterID": 21,
-      "subFilterID": 46
-    },
-    {
-      "relationID": 2159,
-      "categoryID": 102,
-      "filterID": 21,
-      "subFilterID": 47
-    },
-    {
-      "relationID": 2200,
-      "categoryID": 102,
-      "filterID": 40
-    },
-    {
-      "relationID": 2201,
-      "categoryID": 102,
-      "filterID": 41
-    },
-    {
-      "relationID": 2250,
-      "categoryID": 102,
-      "filterID": 60,
-      "subFilterID": 60
-    },
-    {
-      "relationID": 2251,
-      "categoryID": 102,
-      "filterID": 60,
-      "subFilterID": 61
-    },
-    {
-      "relationID": 2252,
-      "categoryID": 102,
-      "filterID": 61,
-      "subFilterID": 62
-    },
-    {
-      "relationID": 2253,
-      "categoryID": 102,
-      "filterID": 61,
-      "subFilterID": 63
-    },
-    {
-      "relationID": 2254,
-      "categoryID": 102,
-      "filterID": 61,
-      "subFilterID": 64
-    },
-    {
-      "relationID": 2255,
-      "categoryID": 102,
-      "filterID": 61,
-      "subFilterID": 65
-    },
-    {
-      "relationID": 2256,
-      "categoryID": 102,
-      "filterID": 61,
-      "subFilterID": 66
-    },
-    {
-      "relationID": 2300,
-      "categoryID": 102,
-      "filterID": 80,
-      "subFilterID": 80
-    },
-    {
-      "relationID": 2301,
-      "categoryID": 102,
-      "filterID": 80,
-      "subFilterID": 81
-    },
-    {
-      "relationID": 2302,
-      "categoryID": 102,
-      "filterID": 80,
-      "subFilterID": 82
-    },
-    {
-      "relationID": 2303,
-      "categoryID": 102,
-      "filterID": 80,
-      "subFilterID": 83
-    },
-    {
-      "relationID": 2304,
-      "categoryID": 102,
-      "filterID": 80,
-      "subFilterID": 84
-    },
-    {
-      "relationID": 2305,
-      "categoryID": 102,
-      "filterID": 80,
-      "subFilterID": 85
-    },
-    {
-      "relationID": 2306,
-      "categoryID": 102,
-      "filterID": 80,
-      "subFilterID": 86
-    },
-    {
-      "relationID": 2307,
-      "categoryID": 102,
-      "filterID": 80,
-      "subFilterID": 87
-    },
-    {
-      "relationID": 2308,
-      "categoryID": 102,
-      "filterID": 80,
-      "subFilterID": 7
-    },
-    {
-      "relationID": 2309,
-      "categoryID": 102,
-      "filterID": 80,
-      "subFilterID": 88
-    },
-    {
-      "relationID": 2310,
-      "categoryID": 102,
-      "filterID": 80,
-      "subFilterID": 89
-    },
-    {
-      "relationID": 2999,
-      "categoryID": 102,
-      "filterID": 99
-    },
-    {
-      "relationID": 400,
-      "categoryID": 101
-    },
-    {
-      "relationID": 401,
-      "categoryID": 102
-    },
-    {
-      "relationID": 402,
-      "categoryID": 103
-    },
-    {
-      "relationID": 403,
-      "categoryID": 104
-    },
-    {
-      "relationID": 404,
-      "categoryID": 105
-    },
-    {
-      "relationID": 405,
-      "categoryID": 106
-    },
-    {
-      "relationID": 406,
-      "categoryID": 107
-    },
-    {
-      "relationID": 407,
-      "categoryID": 108
-    },
-    {
-      "relationID": 408,
-      "categoryID": 109
-    },
-    {
-      "relationID": 409,
-      "categoryID": 110
-    },
-    {
-      "relationID": 410,
-      "categoryID": 111
-    },
-    {
-      "relationID": 411,
-      "categoryID": 112
-    },
-    {
-      "relationID": 414,
-      "categoryID": 115
-    },
-    {
-      "relationID": 412,
-      "categoryID": 113
-    },
-    {
-      "relationID": 413,
-      "categoryID": 114
-    },
-    {
-      "relationID": 415,
-      "categoryID": 116
-    },
-    {
-      "relationID": 416,
-      "categoryID": 117
-    },
-    {
-      "relationID": 417,
-      "categoryID": 118
-    },
-    {
-      "relationID": 418,
-      "categoryID": 119
-    },
-    {
-      "relationID": 419,
-      "categoryID": 120
-    },
-    {
-      "relationID": 420,
-      "categoryID": 121
-    },
-    {
-      "relationID": 999,
-      "categoryID": 99,
-      "filterID": 99
-    }
-  ]
-}
+[
+  {
+    "relationID": 1,
+    "categoryID": 1,
+    "filterID": 1,
+    "subFilterID": 1
+  },
+  {
+    "relationID": 2,
+    "categoryID": 1,
+    "filterID": 1,
+    "subFilterID": 2
+  },
+  {
+    "relationID": 3,
+    "categoryID": 1,
+    "filterID": 1,
+    "subFilterID": 3
+  },
+  {
+    "relationID": 4,
+    "categoryID": 1,
+    "filterID": 1,
+    "subFilterID": 4
+  },
+  {
+    "relationID": 5,
+    "categoryID": 1,
+    "filterID": 1,
+    "subFilterID": 5
+  },
+  {
+    "relationID": 6,
+    "categoryID": 1,
+    "filterID": 1,
+    "subFilterID": 6
+  },
+  {
+    "relationID": 7,
+    "categoryID": 1,
+    "filterID": 1,
+    "subFilterID": 7
+  },
+  {
+    "relationID": 8,
+    "categoryID": 1,
+    "filterID": 2,
+    "subFilterID": 8
+  },
+  {
+    "relationID": 9,
+    "categoryID": 1,
+    "filterID": 2,
+    "subFilterID": 9
+  },
+  {
+    "relationID": 10,
+    "categoryID": 1,
+    "filterID": 4
+  },
+  {
+    "relationID": 11,
+    "categoryID": 1,
+    "filterID": 5
+  },
+  {
+    "relationID": 12,
+    "categoryID": 1,
+    "filterID": 6
+  },
+  {
+    "relationID": 13,
+    "categoryID": 1,
+    "filterID": 7,
+    "subFilterID": 10
+  },
+  {
+    "relationID": 14,
+    "categoryID": 1,
+    "filterID": 7,
+    "subFilterID": 11
+  },
+  {
+    "relationID": 50,
+    "categoryID": 10,
+    "filterID": 2,
+    "subFilterID": 8
+  },
+  {
+    "relationID": 51,
+    "categoryID": 10,
+    "filterID": 2,
+    "subFilterID": 9
+  },
+  {
+    "relationID": 52,
+    "categoryID": 10,
+    "filterID": 2,
+    "subFilterID": 20
+  },
+  {
+    "relationID": 53,
+    "categoryID": 10,
+    "filterID": 6
+  },
+  {
+    "relationID": 54,
+    "categoryID": 10,
+    "filterID": 7,
+    "subFilterID": 10
+  },
+  {
+    "relationID": 55,
+    "categoryID": 10,
+    "filterID": 7,
+    "subFilterID": 11
+  },
+  {
+    "relationID": 100,
+    "categoryID": 20,
+    "filterID": 20,
+    "subFilterID": 32
+  },
+  {
+    "relationID": 101,
+    "categoryID": 20,
+    "filterID": 20,
+    "subFilterID": 33
+  },
+  {
+    "relationID": 102,
+    "categoryID": 20,
+    "filterID": 21,
+    "subFilterID": 30
+  },
+  {
+    "relationID": 103,
+    "categoryID": 20,
+    "filterID": 21,
+    "subFilterID": 31
+  },
+  {
+    "relationID": 150,
+    "categoryID": 30,
+    "filterID": 20,
+    "subFilterID": 32
+  },
+  {
+    "relationID": 151,
+    "categoryID": 30,
+    "filterID": 20,
+    "subFilterID": 33
+  },
+  {
+    "relationID": 152,
+    "categoryID": 30,
+    "filterID": 21,
+    "subFilterID": 40
+  },
+  {
+    "relationID": 153,
+    "categoryID": 30,
+    "filterID": 21,
+    "subFilterID": 41
+  },
+  {
+    "relationID": 154,
+    "categoryID": 30,
+    "filterID": 21,
+    "subFilterID": 42
+  },
+  {
+    "relationID": 155,
+    "categoryID": 30,
+    "filterID": 21,
+    "subFilterID": 43
+  },
+  {
+    "relationID": 156,
+    "categoryID": 30,
+    "filterID": 21,
+    "subFilterID": 44
+  },
+  {
+    "relationID": 157,
+    "categoryID": 30,
+    "filterID": 21,
+    "subFilterID": 45
+  },
+  {
+    "relationID": 158,
+    "categoryID": 30,
+    "filterID": 21,
+    "subFilterID": 46
+  },
+  {
+    "relationID": 159,
+    "categoryID": 30,
+    "filterID": 21,
+    "subFilterID": 47
+  },
+  {
+    "relationID": 200,
+    "categoryID": 40,
+    "filterID": 41,
+    "subFilterID": 50
+  },
+  {
+    "relationID": 201,
+    "categoryID": 40,
+    "filterID": 41,
+    "subFilterID": 51
+  },
+  {
+    "relationID": 202,
+    "categoryID": 40,
+    "filterID": 40
+  },
+  {
+    "relationID": 250,
+    "categoryID": 50,
+    "filterID": 60,
+    "subFilterID": 60
+  },
+  {
+    "relationID": 251,
+    "categoryID": 50,
+    "filterID": 60,
+    "subFilterID": 61
+  },
+  {
+    "relationID": 257,
+    "categoryID": 50,
+    "filterID": 60,
+    "subFilterID": 67
+  },
+  {
+    "relationID": 252,
+    "categoryID": 50,
+    "filterID": 61,
+    "subFilterID": 62
+  },
+  {
+    "relationID": 253,
+    "categoryID": 50,
+    "filterID": 61,
+    "subFilterID": 63
+  },
+  {
+    "relationID": 254,
+    "categoryID": 50,
+    "filterID": 61,
+    "subFilterID": 64
+  },
+  {
+    "relationID": 255,
+    "categoryID": 50,
+    "filterID": 61,
+    "subFilterID": 65
+  },
+  {
+    "relationID": 256,
+    "categoryID": 50,
+    "filterID": 61,
+    "subFilterID": 66
+  },
+  {
+    "relationID": 300,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 80
+  },
+  {
+    "relationID": 301,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 81
+  },
+  {
+    "relationID": 302,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 82
+  },
+  {
+    "relationID": 303,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 83
+  },
+  {
+    "relationID": 304,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 84
+  },
+  {
+    "relationID": 305,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 85
+  },
+  {
+    "relationID": 306,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 86
+  },
+  {
+    "relationID": 307,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 87
+  },
+  {
+    "relationID": 308,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 7
+  },
+  {
+    "relationID": 309,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 88
+  },
+  {
+    "relationID": 310,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 89
+  },
+  {
+    "relationID": 311,
+    "categoryID": 60,
+    "filterID": 80,
+    "subFilterID": 90
+  },
+  {
+    "relationID": 1001,
+    "categoryID": 101,
+    "filterID": 1,
+    "subFilterID": 1
+  },
+  {
+    "relationID": 1002,
+    "categoryID": 101,
+    "filterID": 1,
+    "subFilterID": 2
+  },
+  {
+    "relationID": 1003,
+    "categoryID": 101,
+    "filterID": 1,
+    "subFilterID": 3
+  },
+  {
+    "relationID": 1004,
+    "categoryID": 101,
+    "filterID": 1,
+    "subFilterID": 4
+  },
+  {
+    "relationID": 1005,
+    "categoryID": 101,
+    "filterID": 1,
+    "subFilterID": 5
+  },
+  {
+    "relationID": 1006,
+    "categoryID": 101,
+    "filterID": 1,
+    "subFilterID": 6
+  },
+  {
+    "relationID": 1007,
+    "categoryID": 101,
+    "filterID": 1,
+    "subFilterID": 7
+  },
+  {
+    "relationID": 1008,
+    "categoryID": 101,
+    "filterID": 2,
+    "subFilterID": 8
+  },
+  {
+    "relationID": 1009,
+    "categoryID": 101,
+    "filterID": 2,
+    "subFilterID": 9
+  },
+  {
+    "relationID": 1010,
+    "categoryID": 101,
+    "filterID": 4
+  },
+  {
+    "relationID": 1011,
+    "categoryID": 101,
+    "filterID": 5
+  },
+  {
+    "relationID": 1012,
+    "categoryID": 101,
+    "filterID": 6
+  },
+  {
+    "relationID": 1013,
+    "categoryID": 101,
+    "filterID": 7,
+    "subFilterID": 10
+  },
+  {
+    "relationID": 1014,
+    "categoryID": 101,
+    "filterID": 7,
+    "subFilterID": 11
+  },
+  {
+    "relationID": 1050,
+    "categoryID": 101,
+    "filterID": 2,
+    "subFilterID": 8
+  },
+  {
+    "relationID": 1051,
+    "categoryID": 101,
+    "filterID": 2,
+    "subFilterID": 9
+  },
+  {
+    "relationID": 1052,
+    "categoryID": 101,
+    "filterID": 2,
+    "subFilterID": 20
+  },
+  {
+    "relationID": 1053,
+    "categoryID": 101,
+    "filterID": 6
+  },
+  {
+    "relationID": 1054,
+    "categoryID": 101,
+    "filterID": 7,
+    "subFilterID": 10
+  },
+  {
+    "relationID": 1055,
+    "categoryID": 101,
+    "filterID": 7,
+    "subFilterID": 11
+  },
+  {
+    "relationID": 1100,
+    "categoryID": 101,
+    "filterID": 20,
+    "subFilterID": 32
+  },
+  {
+    "relationID": 1101,
+    "categoryID": 101,
+    "filterID": 20,
+    "subFilterID": 33
+  },
+  {
+    "relationID": 1102,
+    "categoryID": 101,
+    "filterID": 21,
+    "subFilterID": 30
+  },
+  {
+    "relationID": 1103,
+    "categoryID": 101,
+    "filterID": 21,
+    "subFilterID": 31
+  },
+  {
+    "relationID": 1150,
+    "categoryID": 101,
+    "filterID": 20,
+    "subFilterID": 32
+  },
+  {
+    "relationID": 1151,
+    "categoryID": 101,
+    "filterID": 20,
+    "subFilterID": 33
+  },
+  {
+    "relationID": 1152,
+    "categoryID": 101,
+    "filterID": 21,
+    "subFilterID": 40
+  },
+  {
+    "relationID": 1153,
+    "categoryID": 101,
+    "filterID": 21,
+    "subFilterID": 41
+  },
+  {
+    "relationID": 1154,
+    "categoryID": 101,
+    "filterID": 21,
+    "subFilterID": 42
+  },
+  {
+    "relationID": 1155,
+    "categoryID": 101,
+    "filterID": 21,
+    "subFilterID": 43
+  },
+  {
+    "relationID": 1156,
+    "categoryID": 101,
+    "filterID": 21,
+    "subFilterID": 44
+  },
+  {
+    "relationID": 1157,
+    "categoryID": 101,
+    "filterID": 21,
+    "subFilterID": 45
+  },
+  {
+    "relationID": 1158,
+    "categoryID": 101,
+    "filterID": 21,
+    "subFilterID": 46
+  },
+  {
+    "relationID": 1159,
+    "categoryID": 101,
+    "filterID": 21,
+    "subFilterID": 47
+  },
+  {
+    "relationID": 1200,
+    "categoryID": 101,
+    "filterID": 40
+  },
+  {
+    "relationID": 1201,
+    "categoryID": 101,
+    "filterID": 41
+  },
+  {
+    "relationID": 1250,
+    "categoryID": 101,
+    "filterID": 60,
+    "subFilterID": 60
+  },
+  {
+    "relationID": 1251,
+    "categoryID": 101,
+    "filterID": 60,
+    "subFilterID": 61
+  },
+  {
+    "relationID": 1252,
+    "categoryID": 101,
+    "filterID": 61,
+    "subFilterID": 62
+  },
+  {
+    "relationID": 1253,
+    "categoryID": 101,
+    "filterID": 61,
+    "subFilterID": 63
+  },
+  {
+    "relationID": 1254,
+    "categoryID": 101,
+    "filterID": 61,
+    "subFilterID": 64
+  },
+  {
+    "relationID": 1255,
+    "categoryID": 101,
+    "filterID": 61,
+    "subFilterID": 65
+  },
+  {
+    "relationID": 1256,
+    "categoryID": 101,
+    "filterID": 61,
+    "subFilterID": 66
+  },
+  {
+    "relationID": 1300,
+    "categoryID": 101,
+    "filterID": 80,
+    "subFilterID": 80
+  },
+  {
+    "relationID": 1301,
+    "categoryID": 101,
+    "filterID": 80,
+    "subFilterID": 81
+  },
+  {
+    "relationID": 1302,
+    "categoryID": 101,
+    "filterID": 80,
+    "subFilterID": 82
+  },
+  {
+    "relationID": 1303,
+    "categoryID": 101,
+    "filterID": 80,
+    "subFilterID": 83
+  },
+  {
+    "relationID": 1304,
+    "categoryID": 101,
+    "filterID": 80,
+    "subFilterID": 84
+  },
+  {
+    "relationID": 1305,
+    "categoryID": 101,
+    "filterID": 80,
+    "subFilterID": 85
+  },
+  {
+    "relationID": 1306,
+    "categoryID": 101,
+    "filterID": 80,
+    "subFilterID": 86
+  },
+  {
+    "relationID": 1307,
+    "categoryID": 101,
+    "filterID": 80,
+    "subFilterID": 87
+  },
+  {
+    "relationID": 1308,
+    "categoryID": 101,
+    "filterID": 80,
+    "subFilterID": 7
+  },
+  {
+    "relationID": 1309,
+    "categoryID": 101,
+    "filterID": 80,
+    "subFilterID": 88
+  },
+  {
+    "relationID": 1310,
+    "categoryID": 101,
+    "filterID": 80,
+    "subFilterID": 89
+  },
+  {
+    "relationID": 1999,
+    "categoryID": 101,
+    "filterID": 99
+  },
+  {
+    "relationID": 2001,
+    "categoryID": 102,
+    "filterID": 1,
+    "subFilterID": 1
+  },
+  {
+    "relationID": 2002,
+    "categoryID": 102,
+    "filterID": 1,
+    "subFilterID": 2
+  },
+  {
+    "relationID": 2003,
+    "categoryID": 102,
+    "filterID": 1,
+    "subFilterID": 3
+  },
+  {
+    "relationID": 2004,
+    "categoryID": 102,
+    "filterID": 1,
+    "subFilterID": 4
+  },
+  {
+    "relationID": 2005,
+    "categoryID": 102,
+    "filterID": 1,
+    "subFilterID": 5
+  },
+  {
+    "relationID": 2006,
+    "categoryID": 102,
+    "filterID": 1,
+    "subFilterID": 6
+  },
+  {
+    "relationID": 2007,
+    "categoryID": 102,
+    "filterID": 1,
+    "subFilterID": 7
+  },
+  {
+    "relationID": 2008,
+    "categoryID": 102,
+    "filterID": 2,
+    "subFilterID": 8
+  },
+  {
+    "relationID": 2009,
+    "categoryID": 102,
+    "filterID": 2,
+    "subFilterID": 9
+  },
+  {
+    "relationID": 2010,
+    "categoryID": 102,
+    "filterID": 4
+  },
+  {
+    "relationID": 2011,
+    "categoryID": 102,
+    "filterID": 5
+  },
+  {
+    "relationID": 2012,
+    "categoryID": 102,
+    "filterID": 6
+  },
+  {
+    "relationID": 2013,
+    "categoryID": 102,
+    "filterID": 7,
+    "subFilterID": 10
+  },
+  {
+    "relationID": 2014,
+    "categoryID": 102,
+    "filterID": 7,
+    "subFilterID": 11
+  },
+  {
+    "relationID": 2050,
+    "categoryID": 102,
+    "filterID": 2,
+    "subFilterID": 8
+  },
+  {
+    "relationID": 2051,
+    "categoryID": 102,
+    "filterID": 2,
+    "subFilterID": 9
+  },
+  {
+    "relationID": 2052,
+    "categoryID": 102,
+    "filterID": 2,
+    "subFilterID": 20
+  },
+  {
+    "relationID": 2053,
+    "categoryID": 102,
+    "filterID": 6
+  },
+  {
+    "relationID": 2054,
+    "categoryID": 102,
+    "filterID": 7,
+    "subFilterID": 10
+  },
+  {
+    "relationID": 2055,
+    "categoryID": 102,
+    "filterID": 7,
+    "subFilterID": 11
+  },
+  {
+    "relationID": 2100,
+    "categoryID": 102,
+    "filterID": 20,
+    "subFilterID": 32
+  },
+  {
+    "relationID": 2101,
+    "categoryID": 102,
+    "filterID": 20,
+    "subFilterID": 33
+  },
+  {
+    "relationID": 2102,
+    "categoryID": 102,
+    "filterID": 21,
+    "subFilterID": 30
+  },
+  {
+    "relationID": 2103,
+    "categoryID": 102,
+    "filterID": 21,
+    "subFilterID": 31
+  },
+  {
+    "relationID": 2150,
+    "categoryID": 102,
+    "filterID": 20,
+    "subFilterID": 32
+  },
+  {
+    "relationID": 2151,
+    "categoryID": 102,
+    "filterID": 20,
+    "subFilterID": 33
+  },
+  {
+    "relationID": 2152,
+    "categoryID": 102,
+    "filterID": 21,
+    "subFilterID": 40
+  },
+  {
+    "relationID": 2153,
+    "categoryID": 102,
+    "filterID": 21,
+    "subFilterID": 41
+  },
+  {
+    "relationID": 2154,
+    "categoryID": 102,
+    "filterID": 21,
+    "subFilterID": 42
+  },
+  {
+    "relationID": 2155,
+    "categoryID": 102,
+    "filterID": 21,
+    "subFilterID": 43
+  },
+  {
+    "relationID": 2156,
+    "categoryID": 102,
+    "filterID": 21,
+    "subFilterID": 44
+  },
+  {
+    "relationID": 2157,
+    "categoryID": 102,
+    "filterID": 21,
+    "subFilterID": 45
+  },
+  {
+    "relationID": 2158,
+    "categoryID": 102,
+    "filterID": 21,
+    "subFilterID": 46
+  },
+  {
+    "relationID": 2159,
+    "categoryID": 102,
+    "filterID": 21,
+    "subFilterID": 47
+  },
+  {
+    "relationID": 2200,
+    "categoryID": 102,
+    "filterID": 40
+  },
+  {
+    "relationID": 2201,
+    "categoryID": 102,
+    "filterID": 41
+  },
+  {
+    "relationID": 2250,
+    "categoryID": 102,
+    "filterID": 60,
+    "subFilterID": 60
+  },
+  {
+    "relationID": 2251,
+    "categoryID": 102,
+    "filterID": 60,
+    "subFilterID": 61
+  },
+  {
+    "relationID": 2252,
+    "categoryID": 102,
+    "filterID": 61,
+    "subFilterID": 62
+  },
+  {
+    "relationID": 2253,
+    "categoryID": 102,
+    "filterID": 61,
+    "subFilterID": 63
+  },
+  {
+    "relationID": 2254,
+    "categoryID": 102,
+    "filterID": 61,
+    "subFilterID": 64
+  },
+  {
+    "relationID": 2255,
+    "categoryID": 102,
+    "filterID": 61,
+    "subFilterID": 65
+  },
+  {
+    "relationID": 2256,
+    "categoryID": 102,
+    "filterID": 61,
+    "subFilterID": 66
+  },
+  {
+    "relationID": 2300,
+    "categoryID": 102,
+    "filterID": 80,
+    "subFilterID": 80
+  },
+  {
+    "relationID": 2301,
+    "categoryID": 102,
+    "filterID": 80,
+    "subFilterID": 81
+  },
+  {
+    "relationID": 2302,
+    "categoryID": 102,
+    "filterID": 80,
+    "subFilterID": 82
+  },
+  {
+    "relationID": 2303,
+    "categoryID": 102,
+    "filterID": 80,
+    "subFilterID": 83
+  },
+  {
+    "relationID": 2304,
+    "categoryID": 102,
+    "filterID": 80,
+    "subFilterID": 84
+  },
+  {
+    "relationID": 2305,
+    "categoryID": 102,
+    "filterID": 80,
+    "subFilterID": 85
+  },
+  {
+    "relationID": 2306,
+    "categoryID": 102,
+    "filterID": 80,
+    "subFilterID": 86
+  },
+  {
+    "relationID": 2307,
+    "categoryID": 102,
+    "filterID": 80,
+    "subFilterID": 87
+  },
+  {
+    "relationID": 2308,
+    "categoryID": 102,
+    "filterID": 80,
+    "subFilterID": 7
+  },
+  {
+    "relationID": 2309,
+    "categoryID": 102,
+    "filterID": 80,
+    "subFilterID": 88
+  },
+  {
+    "relationID": 2310,
+    "categoryID": 102,
+    "filterID": 80,
+    "subFilterID": 89
+  },
+  {
+    "relationID": 2999,
+    "categoryID": 102,
+    "filterID": 99
+  },
+  {
+    "relationID": 400,
+    "categoryID": 101
+  },
+  {
+    "relationID": 401,
+    "categoryID": 102
+  },
+  {
+    "relationID": 402,
+    "categoryID": 103
+  },
+  {
+    "relationID": 403,
+    "categoryID": 104
+  },
+  {
+    "relationID": 404,
+    "categoryID": 105
+  },
+  {
+    "relationID": 405,
+    "categoryID": 106
+  },
+  {
+    "relationID": 406,
+    "categoryID": 107
+  },
+  {
+    "relationID": 407,
+    "categoryID": 108
+  },
+  {
+    "relationID": 408,
+    "categoryID": 109
+  },
+  {
+    "relationID": 409,
+    "categoryID": 110
+  },
+  {
+    "relationID": 410,
+    "categoryID": 111
+  },
+  {
+    "relationID": 411,
+    "categoryID": 112
+  },
+  {
+    "relationID": 414,
+    "categoryID": 115
+  },
+  {
+    "relationID": 412,
+    "categoryID": 113
+  },
+  {
+    "relationID": 413,
+    "categoryID": 114
+  },
+  {
+    "relationID": 415,
+    "categoryID": 116
+  },
+  {
+    "relationID": 416,
+    "categoryID": 117
+  },
+  {
+    "relationID": 417,
+    "categoryID": 118
+  },
+  {
+    "relationID": 418,
+    "categoryID": 119
+  },
+  {
+    "relationID": 419,
+    "categoryID": 120
+  },
+  {
+    "relationID": 420,
+    "categoryID": 121
+  },
+  {
+    "relationID": 421,
+    "categoryID": 122
+  },
+  {
+    "relationID": 999,
+    "categoryID": 99,
+    "filterID": 99
+  }
+]

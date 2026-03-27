@@ -1,118 +1,116 @@
-{
-  "mineType": [
-    {
-      "mineTypeID": 1,
-      "crossplayID": 1,
-      "amountLootable": 360,
-      "waitingTime": 86400,
-      "amountPerCollectC2": 250
-    },
-    {
-      "mineTypeID": 2,
-      "crossplayID": 2,
-      "amountLootable": 30,
-      "waitingTime": 86400,
-      "amountPerCollectC1": 500
-    },
-    {
-      "mineTypeID": 3,
-      "crossplayID": 3,
-      "amountLootable": 360,
-      "waitingTime": 86400,
-      "amountPerCollectC2": 110
-    },
-    {
-      "mineTypeID": 4,
-      "crossplayID": 4,
-      "amountLootable": 360,
-      "waitingTime": 86400,
-      "amountPerCollectC2": 500
-    },
-    {
-      "mineTypeID": 6,
-      "crossplayID": 6,
-      "amountLootable": 60,
-      "waitingTime": 86400,
-      "amountPerCollectC1": 500
-    },
-    {
-      "mineTypeID": 7,
-      "crossplayID": 7,
-      "amountLootable": 7,
-      "waitingTime": 86400,
-      "amountPerCollectC1": 2500
-    },
-    {
-      "mineTypeID": 8,
-      "crossplayID": 8,
-      "amountLootable": 60,
-      "waitingTime": 86400,
-      "amountPerCollectC1": 2000
-    },
-    {
-      "mineTypeID": 9,
-      "crossplayID": 9,
-      "amountLootable": 30,
-      "waitingTime": 86400,
-      "amountPerCollectC1": 2000
-    },
-    {
-      "mineTypeID": 10,
-      "crossplayID": 10,
-      "amountLootable": 7,
-      "waitingTime": 86400,
-      "amountPerCollectC1": 5000
-    },
-    {
-      "mineTypeID": 11,
-      "crossplayID": 11,
-      "amountLootable": 60,
-      "waitingTime": 86400,
-      "amountPerCollectC1": 4000
-    },
-    {
-      "mineTypeID": 12,
-      "crossplayID": 12,
-      "amountLootable": 30,
-      "waitingTime": 86400,
-      "amountPerCollectC1": 4000
-    },
-    {
-      "mineTypeID": 13,
-      "crossplayID": 13,
-      "amountLootable": 7,
-      "waitingTime": 86400,
-      "amountPerCollectC1": 3500
-    },
-    {
-      "mineTypeID": 14,
-      "crossplayID": 14,
-      "amountLootable": 7,
-      "waitingTime": 86400,
-      "amountPerCollectC1": 7000
-    },
-    {
-      "mineTypeID": 26,
-      "crossplayID": 26,
-      "waitingTime": 60,
-      "amountInfluencePerMinute": 208,
-      "maxInfluencePoints": 100000
-    },
-    {
-      "mineTypeID": 27,
-      "crossplayID": 27,
-      "waitingTime": 60,
-      "amountInfluencePerMinute": 278,
-      "maxInfluencePoints": 100000,
-      "reductionDisplay": 25
-    },
-    {
-      "mineTypeID": 28,
-      "crossplayID": 28,
-      "waitingTime": 60,
-      "amountInfluencePerMinute": 850,
-      "maxInfluencePoints": 100000,
-      "reductionDisplay": 75
-    }
-  ]
-}
+[
+  {
+    "mineTypeID": 1,
+    "crossplayID": 1,
+    "amountLootable": 360,
+    "waitingTime": 86400,
+    "amountPerCollectC2": 250
+  },
+  {
+    "mineTypeID": 2,
+    "crossplayID": 2,
+    "amountLootable": 30,
+    "waitingTime": 86400,
+    "amountPerCollectC1": 500
+  },
+  {
+    "mineTypeID": 3,
+    "crossplayID": 3,
+    "amountLootable": 360,
+    "waitingTime": 86400,
+    "amountPerCollectC2": 110
+  },
+  {
+    "mineTypeID": 4,
+    "crossplayID": 4,
+    "amountLootable": 360,
+    "waitingTime": 86400,
+    "amountPerCollectC2": 500
+  },
+  {
+    "mineTypeID": 6,
+    "crossplayID": 6,
+    "amountLootable": 60,
+    "waitingTime": 86400,
+    "amountPerCollectC1": 500
+  },
+  {
+    "mineTypeID": 7,
+    "crossplayID": 7,
+    "amountLootable": 7,
+    "waitingTime": 86400,
+    "amountPerCollectC1": 2500
+  },
+  {
+    "mineTypeID": 8,
+    "crossplayID": 8,
+    "amountLootable": 60,
+    "waitingTime": 86400,
+    "amountPerCollectC1": 2000
+  },
+  {
+    "mineTypeID": 9,
+    "crossplayID": 9,
+    "amountLootable": 30,
+    "waitingTime": 86400,
+    "amountPerCollectC1": 2000
+  },
+  {
+    "mineTypeID": 10,
+    "crossplayID": 10,
+    "amountLootable": 7,
+    "waitingTime": 86400,
+    "amountPerCollectC1": 5000
+  },
+  {
+    "mineTypeID": 11,
+    "crossplayID": 11,
+    "amountLootable": 60,
+    "waitingTime": 86400,
+    "amountPerCollectC1": 4000
+  },
+  {
+    "mineTypeID": 12,
+    "crossplayID": 12,
+    "amountLootable": 30,
+    "waitingTime": 86400,
+    "amountPerCollectC1": 4000
+  },
+  {
+    "mineTypeID": 13,
+    "crossplayID": 13,
+    "amountLootable": 7,
+    "waitingTime": 86400,
+    "amountPerCollectC1": 3500
+  },
+  {
+    "mineTypeID": 14,
+    "crossplayID": 14,
+    "amountLootable": 7,
+    "waitingTime": 86400,
+    "amountPerCollectC1": 7000
+  },
+  {
+    "mineTypeID": 26,
+    "crossplayID": 26,
+    "waitingTime": 60,
+    "amountInfluencePerMinute": 208,
+    "maxInfluencePoints": 100000
+  },
+  {
+    "mineTypeID": 27,
+    "crossplayID": 27,
+    "waitingTime": 60,
+    "amountInfluencePerMinute": 278,
+    "maxInfluencePoints": 100000,
+    "reductionDisplay": 25
+  },
+  {
+    "mineTypeID": 28,
+    "crossplayID": 28,
+    "waitingTime": 60,
+    "amountInfluencePerMinute": 850,
+    "maxInfluencePoints": 100000,
+    "reductionDisplay": 75
+  }
+]

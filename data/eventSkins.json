@@ -1,44 +1,42 @@
-{
-  "eventSkin": [
-    {
-      "eventSkinID": 1,
-      "kIDs": 0,
-      "eventType": "Midas",
-      "hasIsoSkin": 1,
-      "hasWorldMapSkin": 0,
-      "minLevel": 1
-    },
-    {
-      "eventSkinID": 3,
-      "kIDs": 0,
-      "eventType": "Winter",
-      "hasIsoSkin": 1,
-      "hasWorldMapSkin": 1,
-      "minLevel": 10
-    },
-    {
-      "eventSkinID": 4,
-      "kIDs": 0,
-      "eventType": "Spring",
-      "hasIsoSkin": 0,
-      "hasWorldMapSkin": 0,
-      "minLevel": 10
-    },
-    {
-      "eventSkinID": 6,
-      "kIDs": 0,
-      "eventType": "NewKing",
-      "hasIsoSkin": 0,
-      "hasWorldMapSkin": 0,
-      "minLevel": 10
-    },
-    {
-      "eventSkinID": 7,
-      "kIDs": 0,
-      "eventType": "WinterOffensive",
-      "hasIsoSkin": 1,
-      "hasWorldMapSkin": 1,
-      "minLevel": 1
-    }
-  ]
-}
+[
+  {
+    "eventSkinID": 1,
+    "kIDs": 0,
+    "eventType": "Midas",
+    "hasIsoSkin": 1,
+    "hasWorldMapSkin": 0,
+    "minLevel": 1
+  },
+  {
+    "eventSkinID": 3,
+    "kIDs": 0,
+    "eventType": "Winter",
+    "hasIsoSkin": 1,
+    "hasWorldMapSkin": 1,
+    "minLevel": 10
+  },
+  {
+    "eventSkinID": 4,
+    "kIDs": 0,
+    "eventType": "Spring",
+    "hasIsoSkin": 0,
+    "hasWorldMapSkin": 0,
+    "minLevel": 10
+  },
+  {
+    "eventSkinID": 6,
+    "kIDs": 0,
+    "eventType": "NewKing",
+    "hasIsoSkin": 0,
+    "hasWorldMapSkin": 0,
+    "minLevel": 10
+  },
+  {
+    "eventSkinID": 7,
+    "kIDs": 0,
+    "eventType": "WinterOffensive",
+    "hasIsoSkin": 1,
+    "hasWorldMapSkin": 1,
+    "minLevel": 1
+  }
+]

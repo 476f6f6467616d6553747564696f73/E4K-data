@@ -1,88 +1,86 @@
-{
-  "welcomeBackReward": [
-    {
-      "welcomeBackRewardID": 1,
-      "comment1": "LVL 1-70",
-      "comment2": "Small",
-      "minLevel": 1,
-      "maxLevel": 70,
-      "minInactiveDays": 30,
-      "maxInactiveDays": 89,
-      "rewardIDs": "6700,6701,6702,6703,6704,6705,6706,6707"
-    },
-    {
-      "welcomeBackRewardID": 2,
-      "comment1": "LVL 1-70",
-      "comment2": "Medium",
-      "minLevel": 1,
-      "maxLevel": 70,
-      "minInactiveDays": 90,
-      "maxInactiveDays": 179,
-      "rewardIDs": "6710,6711,6712,6713,6714,6715,6716,6717"
-    },
-    {
-      "welcomeBackRewardID": 3,
-      "comment1": "LVL 1-70",
-      "comment2": "Large",
-      "minLevel": 1,
-      "maxLevel": 70,
-      "minInactiveDays": 180,
-      "rewardIDs": "6720,6721,6722,6723,6724,6725,6726,6727"
-    },
-    {
-      "welcomeBackRewardID": 4,
-      "comment1": "LVL 71-669",
-      "comment2": "Small",
-      "minLevel": 71,
-      "maxLevel": 669,
-      "minInactiveDays": 30,
-      "maxInactiveDays": 89,
-      "rewardIDs": "6730,6731,6732,6733,6734,6735,6736,6737,6738,6739"
-    },
-    {
-      "welcomeBackRewardID": 5,
-      "comment1": "LVL 71-669",
-      "comment2": "Medium",
-      "minLevel": 71,
-      "maxLevel": 669,
-      "minInactiveDays": 90,
-      "maxInactiveDays": 179,
-      "rewardIDs": "6740,6741,6742,6743,6744,6745,6746,6747,6748,6749"
-    },
-    {
-      "welcomeBackRewardID": 6,
-      "comment1": "LVL 71-669",
-      "comment2": "Large",
-      "minLevel": 71,
-      "maxLevel": 669,
-      "minInactiveDays": 180,
-      "rewardIDs": "6750,6751,6752,6753,6754,6755,6756,6757,6758,6759"
-    },
-    {
-      "welcomeBackRewardID": 7,
-      "comment1": "LVL 670+",
-      "comment2": "Small",
-      "minLevel": 670,
-      "minInactiveDays": 30,
-      "maxInactiveDays": 89,
-      "rewardIDs": "6760,6761,6762,6763,6764,6765,6766,6767,6768,6769"
-    },
-    {
-      "welcomeBackRewardID": 8,
-      "comment1": "LVL 670+",
-      "comment2": "Medium",
-      "minLevel": 670,
-      "minInactiveDays": 90,
-      "maxInactiveDays": 179,
-      "rewardIDs": "6770,6771,6772,6773,6774,6775,6776,6777,6778,6779"
-    },
-    {
-      "welcomeBackRewardID": 9,
-      "comment1": "LVL 670+",
-      "comment2": "Large",
-      "minLevel": 670,
-      "minInactiveDays": 180,
-      "rewardIDs": "6780,6781,6782,6783,6784,6785,6786,6787,6788,6789"
-    }
-  ]
-}
+[
+  {
+    "welcomeBackRewardID": 1,
+    "comment1": "LVL 1-70",
+    "comment2": "Small",
+    "minLevel": 1,
+    "maxLevel": 70,
+    "minInactiveDays": 30,
+    "maxInactiveDays": 89,
+    "rewardIDs": "6700,6701,6702,6703,6704,6705,6706,6707"
+  },
+  {
+    "welcomeBackRewardID": 2,
+    "comment1": "LVL 1-70",
+    "comment2": "Medium",
+    "minLevel": 1,
+    "maxLevel": 70,
+    "minInactiveDays": 90,
+    "maxInactiveDays": 179,
+    "rewardIDs": "6710,6711,6712,6713,6714,6715,6716,6717"
+  },
+  {
+    "welcomeBackRewardID": 3,
+    "comment1": "LVL 1-70",
+    "comment2": "Large",
+    "minLevel": 1,
+    "maxLevel": 70,
+    "minInactiveDays": 180,
+    "rewardIDs": "6720,6721,6722,6723,6724,6725,6726,6727"
+  },
+  {
+    "welcomeBackRewardID": 4,
+    "comment1": "LVL 71-669",
+    "comment2": "Small",
+    "minLevel": 71,
+    "maxLevel": 669,
+    "minInactiveDays": 30,
+    "maxInactiveDays": 89,
+    "rewardIDs": "6730,6731,6732,6733,6734,6735,6736,6737,6738,6739"
+  },
+  {
+    "welcomeBackRewardID": 5,
+    "comment1": "LVL 71-669",
+    "comment2": "Medium",
+    "minLevel": 71,
+    "maxLevel": 669,
+    "minInactiveDays": 90,
+    "maxInactiveDays": 179,
+    "rewardIDs": "6740,6741,6742,6743,6744,6745,6746,6747,6748,6749"
+  },
+  {
+    "welcomeBackRewardID": 6,
+    "comment1": "LVL 71-669",
+    "comment2": "Large",
+    "minLevel": 71,
+    "maxLevel": 669,
+    "minInactiveDays": 180,
+    "rewardIDs": "6750,6751,6752,6753,6754,6755,6756,6757,6758,6759"
+  },
+  {
+    "welcomeBackRewardID": 7,
+    "comment1": "LVL 670+",
+    "comment2": "Small",
+    "minLevel": 670,
+    "minInactiveDays": 30,
+    "maxInactiveDays": 89,
+    "rewardIDs": "6760,6761,6762,6763,6764,6765,6766,6767,6768,6769"
+  },
+  {
+    "welcomeBackRewardID": 8,
+    "comment1": "LVL 670+",
+    "comment2": "Medium",
+    "minLevel": 670,
+    "minInactiveDays": 90,
+    "maxInactiveDays": 179,
+    "rewardIDs": "6770,6771,6772,6773,6774,6775,6776,6777,6778,6779"
+  },
+  {
+    "welcomeBackRewardID": 9,
+    "comment1": "LVL 670+",
+    "comment2": "Large",
+    "minLevel": 670,
+    "minInactiveDays": 180,
+    "rewardIDs": "6780,6781,6782,6783,6784,6785,6786,6787,6788,6789"
+  }
+]

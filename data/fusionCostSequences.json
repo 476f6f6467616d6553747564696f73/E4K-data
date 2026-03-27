@@ -1,32 +1,30 @@
-{
-  "fusionCostSequence": [
-    {
-      "id": 1,
-      "forgeID": 1,
-      "fusionTargetLevelIterationIndex": 1,
-      "costJSONKey": "I",
-      "costAmount": 4800
-    },
-    {
-      "id": 2,
-      "forgeID": 1,
-      "fusionTargetLevelIterationIndex": 2,
-      "costJSONKey": "C",
-      "costAmount": 4000
-    },
-    {
-      "id": 3,
-      "forgeID": 1,
-      "fusionTargetLevelIterationIndex": 3,
-      "costJSONKey": "O",
-      "costAmount": 2600
-    },
-    {
-      "id": 4,
-      "forgeID": 1,
-      "fusionTargetLevelIterationIndex": 4,
-      "costJSONKey": "G",
-      "costAmount": 2000
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "forgeID": 1,
+    "fusionTargetLevelIterationIndex": 1,
+    "costJSONKey": "I",
+    "costAmount": 4800
+  },
+  {
+    "id": 2,
+    "forgeID": 1,
+    "fusionTargetLevelIterationIndex": 2,
+    "costJSONKey": "C",
+    "costAmount": 4000
+  },
+  {
+    "id": 3,
+    "forgeID": 1,
+    "fusionTargetLevelIterationIndex": 3,
+    "costJSONKey": "O",
+    "costAmount": 2600
+  },
+  {
+    "id": 4,
+    "forgeID": 1,
+    "fusionTargetLevelIterationIndex": 4,
+    "costJSONKey": "G",
+    "costAmount": 2000
+  }
+]

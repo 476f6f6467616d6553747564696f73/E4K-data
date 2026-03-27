@@ -1,104 +1,102 @@
-{
-  "pointeventtype": [
-    {
-      "pointEventTypeID": 1,
-      "pointEventQuestIDs": "2,3,4,5,6,7,128"
-    },
-    {
-      "pointEventTypeID": 2,
-      "pointEventQuestIDs": "9,10,11,12,13,14,129"
-    },
-    {
-      "pointEventTypeID": 3,
-      "pointEventQuestIDs": "16,17,18,19,20,21,130"
-    },
-    {
-      "pointEventTypeID": 5,
-      "pointEventQuestIDs": "30,31,32,33,34,35,131"
-    },
-    {
-      "pointEventTypeID": 6,
-      "pointEventQuestIDs": "37,38,39,40,41,42,132"
-    },
-    {
-      "pointEventTypeID": 8,
-      "pointEventQuestIDs": "51,52,53,54,55,56,134"
-    },
-    {
-      "pointEventTypeID": 10,
-      "pointEventQuestIDs": "65,66,67,68,69,70,136"
-    },
-    {
-      "pointEventTypeID": 11,
-      "pointEventQuestIDs": "72,73,74,75,76,77,137"
-    },
-    {
-      "pointEventTypeID": 12,
-      "pointEventQuestIDs": "79,80,81,82,83,84,138"
-    },
-    {
-      "pointEventTypeID": 13,
-      "pointEventQuestIDs": "86,87,88,89,90,91,139"
-    },
-    {
-      "pointEventTypeID": 14,
-      "pointEventQuestIDs": "86,87,88,94,97,99,140"
-    },
-    {
-      "pointEventTypeID": 26,
-      "pointEventQuestIDs": "86,87,189,94,191,192,193"
-    },
-    {
-      "pointEventTypeID": 27,
-      "pointEventQuestIDs": "86,87,189,94,97,195,196"
-    },
-    {
-      "pointEventTypeID": 15,
-      "pointEventQuestIDs": "101,102,103,104,105,106,141"
-    },
-    {
-      "pointEventTypeID": 17,
-      "pointEventQuestIDs": "115,116,117,118,119,120,143"
-    },
-    {
-      "pointEventTypeID": 18,
-      "pointEventQuestIDs": "122,123,124,125,126,127,144"
-    },
-    {
-      "pointEventTypeID": 19,
-      "pointEventQuestIDs": 57
-    },
-    {
-      "pointEventTypeID": 20,
-      "pointEventQuestIDs": "146,147,148,149,150,151,152"
-    },
-    {
-      "pointEventTypeID": 28,
-      "pointEventQuestIDs": "198,199,200,201,202,203,204"
-    },
-    {
-      "pointEventTypeID": 21,
-      "pointEventQuestIDs": "154,155,156,157,158,159,160"
-    },
-    {
-      "pointEventTypeID": 22,
-      "pointEventQuestIDs": "162,163,164,165,166,167,168"
-    },
-    {
-      "pointEventTypeID": 23,
-      "pointEventQuestIDs": "170,171,172,173,174,175,176"
-    },
-    {
-      "pointEventTypeID": 24,
-      "pointEventQuestIDs": "178,179,180,181,182,183,184"
-    },
-    {
-      "pointEventTypeID": 25,
-      "pointEventQuestIDs": "185,186,187,188"
-    },
-    {
-      "pointEventTypeID": 30,
-      "pointEventQuestIDs": 213
-    }
-  ]
-}
+[
+  {
+    "pointEventTypeID": 1,
+    "pointEventQuestIDs": "2,3,4,5,6,7,128"
+  },
+  {
+    "pointEventTypeID": 2,
+    "pointEventQuestIDs": "9,10,11,12,13,14,129"
+  },
+  {
+    "pointEventTypeID": 3,
+    "pointEventQuestIDs": "16,17,18,19,20,21,130"
+  },
+  {
+    "pointEventTypeID": 5,
+    "pointEventQuestIDs": "30,31,32,33,34,35,131"
+  },
+  {
+    "pointEventTypeID": 6,
+    "pointEventQuestIDs": "37,38,39,40,41,42,132"
+  },
+  {
+    "pointEventTypeID": 8,
+    "pointEventQuestIDs": "51,52,53,54,55,56,134"
+  },
+  {
+    "pointEventTypeID": 10,
+    "pointEventQuestIDs": "65,66,67,68,69,70,136"
+  },
+  {
+    "pointEventTypeID": 11,
+    "pointEventQuestIDs": "72,73,74,75,76,77,137"
+  },
+  {
+    "pointEventTypeID": 12,
+    "pointEventQuestIDs": "79,80,81,82,83,84,138"
+  },
+  {
+    "pointEventTypeID": 13,
+    "pointEventQuestIDs": "86,87,88,89,90,91,139"
+  },
+  {
+    "pointEventTypeID": 14,
+    "pointEventQuestIDs": "86,87,88,94,97,99,140"
+  },
+  {
+    "pointEventTypeID": 26,
+    "pointEventQuestIDs": "86,87,189,94,191,192,193"
+  },
+  {
+    "pointEventTypeID": 27,
+    "pointEventQuestIDs": "86,87,189,94,97,195,196"
+  },
+  {
+    "pointEventTypeID": 15,
+    "pointEventQuestIDs": "101,102,103,104,105,106,141"
+  },
+  {
+    "pointEventTypeID": 17,
+    "pointEventQuestIDs": "115,116,117,118,119,120,143"
+  },
+  {
+    "pointEventTypeID": 18,
+    "pointEventQuestIDs": "122,123,124,125,126,127,144"
+  },
+  {
+    "pointEventTypeID": 19,
+    "pointEventQuestIDs": 57
+  },
+  {
+    "pointEventTypeID": 20,
+    "pointEventQuestIDs": "146,147,148,149,150,151,152"
+  },
+  {
+    "pointEventTypeID": 28,
+    "pointEventQuestIDs": "198,199,200,201,202,203,204"
+  },
+  {
+    "pointEventTypeID": 21,
+    "pointEventQuestIDs": "154,155,156,157,158,159,160"
+  },
+  {
+    "pointEventTypeID": 22,
+    "pointEventQuestIDs": "162,163,164,165,166,167,168"
+  },
+  {
+    "pointEventTypeID": 23,
+    "pointEventQuestIDs": "170,171,172,173,174,175,176"
+  },
+  {
+    "pointEventTypeID": 24,
+    "pointEventQuestIDs": "178,179,180,181,182,183,184"
+  },
+  {
+    "pointEventTypeID": 25,
+    "pointEventQuestIDs": "185,186,187,188"
+  },
+  {
+    "pointEventTypeID": 30,
+    "pointEventQuestIDs": 213
+  }
+]

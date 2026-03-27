@@ -1,43 +1,41 @@
-{
-  "village": [
-    {
-      "kID": 2,
-      "wallWodId": 502,
-      "gateWodId": 451,
-      "keepWodId": 172,
-      "moatWodId": -1,
-      "unitWallCount": 200,
-      "peasants": 150,
-      "guards": 30,
-      "productivityWoodBoost": 35,
-      "productivityStoneBoost": 35,
-      "productivityFoodBoost": 50
-    },
-    {
-      "kID": 1,
-      "wallWodId": 503,
-      "gateWodId": 452,
-      "keepWodId": 173,
-      "moatWodId": -1,
-      "unitWallCount": 200,
-      "peasants": 200,
-      "guards": 40,
-      "productivityWoodBoost": 20,
-      "productivityStoneBoost": 20,
-      "productivityFoodBoost": 30
-    },
-    {
-      "kID": 3,
-      "wallWodId": 503,
-      "gateWodId": 452,
-      "keepWodId": 173,
-      "moatWodId": -1,
-      "unitWallCount": 200,
-      "peasants": 250,
-      "guards": 50,
-      "productivityWoodBoost": 20,
-      "productivityStoneBoost": 20,
-      "productivityFoodBoost": 30
-    }
-  ]
-}
+[
+  {
+    "kID": 2,
+    "wallWodId": 502,
+    "gateWodId": 451,
+    "keepWodId": 172,
+    "moatWodId": -1,
+    "unitWallCount": 200,
+    "peasants": 150,
+    "guards": 30,
+    "productivityWoodBoost": 35,
+    "productivityStoneBoost": 35,
+    "productivityFoodBoost": 50
+  },
+  {
+    "kID": 1,
+    "wallWodId": 503,
+    "gateWodId": 452,
+    "keepWodId": 173,
+    "moatWodId": -1,
+    "unitWallCount": 200,
+    "peasants": 200,
+    "guards": 40,
+    "productivityWoodBoost": 20,
+    "productivityStoneBoost": 20,
+    "productivityFoodBoost": 30
+  },
+  {
+    "kID": 3,
+    "wallWodId": 503,
+    "gateWodId": 452,
+    "keepWodId": 173,
+    "moatWodId": -1,
+    "unitWallCount": 200,
+    "peasants": 250,
+    "guards": 50,
+    "productivityWoodBoost": 20,
+    "productivityStoneBoost": 20,
+    "productivityFoodBoost": 30
+  }
+]

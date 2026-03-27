@@ -1,44 +1,42 @@
-{
-  "townsfolk": [
-    {
-      "wodID": 901301,
-      "group": "Townsfolk",
-      "name": "Citizen",
-      "type": "-",
-      "walkable": 1,
-      "maxWayPoints": 3,
-      "speed": 13,
-      "speedRandomPercent": 20
-    },
-    {
-      "wodID": 901302,
-      "group": "Townsfolk",
-      "name": "Farmer",
-      "type": "-",
-      "walkable": 1,
-      "maxWayPoints": 0,
-      "speed": 20,
-      "speedRandomPercent": 30
-    },
-    {
-      "wodID": 901303,
-      "group": "Townsfolk",
-      "name": "Stonecutter",
-      "type": "-",
-      "walkable": 1,
-      "maxWayPoints": 0,
-      "speed": 20,
-      "speedRandomPercent": 20
-    },
-    {
-      "wodID": 901304,
-      "group": "Townsfolk",
-      "name": "Woodcutter",
-      "type": "-",
-      "walkable": 1,
-      "maxWayPoints": 0,
-      "speed": 20,
-      "speedRandomPercent": 20
-    }
-  ]
-}
+[
+  {
+    "wodID": 901301,
+    "group": "Townsfolk",
+    "name": "Citizen",
+    "type": "-",
+    "walkable": 1,
+    "maxWayPoints": 3,
+    "speed": 13,
+    "speedRandomPercent": 20
+  },
+  {
+    "wodID": 901302,
+    "group": "Townsfolk",
+    "name": "Farmer",
+    "type": "-",
+    "walkable": 1,
+    "maxWayPoints": 0,
+    "speed": 20,
+    "speedRandomPercent": 30
+  },
+  {
+    "wodID": 901303,
+    "group": "Townsfolk",
+    "name": "Stonecutter",
+    "type": "-",
+    "walkable": 1,
+    "maxWayPoints": 0,
+    "speed": 20,
+    "speedRandomPercent": 20
+  },
+  {
+    "wodID": 901304,
+    "group": "Townsfolk",
+    "name": "Woodcutter",
+    "type": "-",
+    "walkable": 1,
+    "maxWayPoints": 0,
+    "speed": 20,
+    "speedRandomPercent": 20
+  }
+]

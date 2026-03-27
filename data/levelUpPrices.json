@@ -1,431 +1,429 @@
-{
-  "levelUpPrice": [
-    {
-      "levelUpPriceID": 10,
-      "crossplayID": 10,
-      "fromLevel": 10,
-      "toLevel": 11,
-      "c2Cost": 490
-    },
-    {
-      "levelUpPriceID": 11,
-      "crossplayID": 11,
-      "fromLevel": 11,
-      "toLevel": 12,
-      "c2Cost": 590
-    },
-    {
-      "levelUpPriceID": 12,
-      "crossplayID": 12,
-      "fromLevel": 12,
-      "toLevel": 13,
-      "c2Cost": 690
-    },
-    {
-      "levelUpPriceID": 13,
-      "crossplayID": 13,
-      "fromLevel": 13,
-      "toLevel": 14,
-      "c2Cost": 790
-    },
-    {
-      "levelUpPriceID": 14,
-      "crossplayID": 14,
-      "fromLevel": 14,
-      "toLevel": 15,
-      "c2Cost": 910
-    },
-    {
-      "levelUpPriceID": 15,
-      "crossplayID": 15,
-      "fromLevel": 15,
-      "toLevel": 16,
-      "c2Cost": 1040
-    },
-    {
-      "levelUpPriceID": 16,
-      "crossplayID": 16,
-      "fromLevel": 16,
-      "toLevel": 17,
-      "c2Cost": 1170
-    },
-    {
-      "levelUpPriceID": 17,
-      "crossplayID": 17,
-      "fromLevel": 17,
-      "toLevel": 18,
-      "c2Cost": 1310
-    },
-    {
-      "levelUpPriceID": 18,
-      "crossplayID": 18,
-      "fromLevel": 18,
-      "toLevel": 19,
-      "c2Cost": 1460
-    },
-    {
-      "levelUpPriceID": 19,
-      "crossplayID": 19,
-      "fromLevel": 19,
-      "toLevel": 20,
-      "c2Cost": 1610
-    },
-    {
-      "levelUpPriceID": 20,
-      "crossplayID": 20,
-      "fromLevel": 20,
-      "toLevel": 21,
-      "c2Cost": 1780
-    },
-    {
-      "levelUpPriceID": 21,
-      "crossplayID": 21,
-      "fromLevel": 21,
-      "toLevel": 22,
-      "c2Cost": 1990
-    },
-    {
-      "levelUpPriceID": 22,
-      "crossplayID": 22,
-      "fromLevel": 22,
-      "toLevel": 23,
-      "c2Cost": 2140
-    },
-    {
-      "levelUpPriceID": 23,
-      "crossplayID": 23,
-      "fromLevel": 23,
-      "toLevel": 24,
-      "c2Cost": 2340
-    },
-    {
-      "levelUpPriceID": 24,
-      "crossplayID": 24,
-      "fromLevel": 24,
-      "toLevel": 25,
-      "c2Cost": 2530
-    },
-    {
-      "levelUpPriceID": 25,
-      "crossplayID": 25,
-      "fromLevel": 25,
-      "toLevel": 26,
-      "c2Cost": 2740
-    },
-    {
-      "levelUpPriceID": 26,
-      "crossplayID": 26,
-      "fromLevel": 26,
-      "toLevel": 27,
-      "c2Cost": 2950
-    },
-    {
-      "levelUpPriceID": 27,
-      "crossplayID": 27,
-      "fromLevel": 27,
-      "toLevel": 28,
-      "c2Cost": 3180
-    },
-    {
-      "levelUpPriceID": 28,
-      "crossplayID": 28,
-      "fromLevel": 28,
-      "toLevel": 29,
-      "c2Cost": 3410
-    },
-    {
-      "levelUpPriceID": 29,
-      "crossplayID": 29,
-      "fromLevel": 29,
-      "toLevel": 30,
-      "c2Cost": 3650
-    },
-    {
-      "levelUpPriceID": 30,
-      "crossplayID": 30,
-      "fromLevel": 30,
-      "toLevel": 31,
-      "c2Cost": 3900
-    },
-    {
-      "levelUpPriceID": 31,
-      "crossplayID": 31,
-      "fromLevel": 31,
-      "toLevel": 32,
-      "c2Cost": 4160
-    },
-    {
-      "levelUpPriceID": 32,
-      "crossplayID": 32,
-      "fromLevel": 32,
-      "toLevel": 33,
-      "c2Cost": 4430
-    },
-    {
-      "levelUpPriceID": 33,
-      "crossplayID": 33,
-      "fromLevel": 33,
-      "toLevel": 34,
-      "c2Cost": 4710
-    },
-    {
-      "levelUpPriceID": 34,
-      "crossplayID": 34,
-      "fromLevel": 34,
-      "toLevel": 35,
-      "c2Cost": 4990
-    },
-    {
-      "levelUpPriceID": 35,
-      "crossplayID": 35,
-      "fromLevel": 35,
-      "toLevel": 36,
-      "c2Cost": 5280
-    },
-    {
-      "levelUpPriceID": 36,
-      "crossplayID": 36,
-      "fromLevel": 36,
-      "toLevel": 37,
-      "c2Cost": 5590
-    },
-    {
-      "levelUpPriceID": 37,
-      "crossplayID": 37,
-      "fromLevel": 37,
-      "toLevel": 38,
-      "c2Cost": 5900
-    },
-    {
-      "levelUpPriceID": 38,
-      "crossplayID": 38,
-      "fromLevel": 38,
-      "toLevel": 39,
-      "c2Cost": 6210
-    },
-    {
-      "levelUpPriceID": 39,
-      "crossplayID": 39,
-      "fromLevel": 39,
-      "toLevel": 40,
-      "c2Cost": 6550
-    },
-    {
-      "levelUpPriceID": 40,
-      "crossplayID": 40,
-      "fromLevel": 40,
-      "toLevel": 41,
-      "c2Cost": 6880
-    },
-    {
-      "levelUpPriceID": 41,
-      "crossplayID": 41,
-      "fromLevel": 41,
-      "toLevel": 42,
-      "c2Cost": 7230
-    },
-    {
-      "levelUpPriceID": 42,
-      "crossplayID": 42,
-      "fromLevel": 42,
-      "toLevel": 43,
-      "c2Cost": 7580
-    },
-    {
-      "levelUpPriceID": 43,
-      "crossplayID": 43,
-      "fromLevel": 43,
-      "toLevel": 44,
-      "c2Cost": 7940
-    },
-    {
-      "levelUpPriceID": 44,
-      "crossplayID": 44,
-      "fromLevel": 44,
-      "toLevel": 45,
-      "c2Cost": 8310
-    },
-    {
-      "levelUpPriceID": 45,
-      "crossplayID": 45,
-      "fromLevel": 45,
-      "toLevel": 46,
-      "c2Cost": 8690
-    },
-    {
-      "levelUpPriceID": 46,
-      "crossplayID": 46,
-      "fromLevel": 46,
-      "toLevel": 47,
-      "c2Cost": 9070
-    },
-    {
-      "levelUpPriceID": 47,
-      "crossplayID": 47,
-      "fromLevel": 47,
-      "toLevel": 48,
-      "c2Cost": 9470
-    },
-    {
-      "levelUpPriceID": 48,
-      "crossplayID": 48,
-      "fromLevel": 48,
-      "toLevel": 49,
-      "c2Cost": 9870
-    },
-    {
-      "levelUpPriceID": 49,
-      "crossplayID": 49,
-      "fromLevel": 49,
-      "toLevel": 50,
-      "c2Cost": 10290
-    },
-    {
-      "levelUpPriceID": 50,
-      "crossplayID": 50,
-      "fromLevel": 50,
-      "toLevel": 51,
-      "c2Cost": 10710
-    },
-    {
-      "levelUpPriceID": 51,
-      "crossplayID": 51,
-      "fromLevel": 51,
-      "toLevel": 52,
-      "c2Cost": 11140
-    },
-    {
-      "levelUpPriceID": 52,
-      "crossplayID": 52,
-      "fromLevel": 52,
-      "toLevel": 53,
-      "c2Cost": 11570
-    },
-    {
-      "levelUpPriceID": 53,
-      "crossplayID": 53,
-      "fromLevel": 53,
-      "toLevel": 54,
-      "c2Cost": 12020
-    },
-    {
-      "levelUpPriceID": 54,
-      "crossplayID": 54,
-      "fromLevel": 54,
-      "toLevel": 55,
-      "c2Cost": 12480
-    },
-    {
-      "levelUpPriceID": 55,
-      "crossplayID": 55,
-      "fromLevel": 55,
-      "toLevel": 56,
-      "c2Cost": 12940
-    },
-    {
-      "levelUpPriceID": 56,
-      "crossplayID": 56,
-      "fromLevel": 56,
-      "toLevel": 57,
-      "c2Cost": 13410
-    },
-    {
-      "levelUpPriceID": 57,
-      "crossplayID": 57,
-      "fromLevel": 57,
-      "toLevel": 58,
-      "c2Cost": 13890
-    },
-    {
-      "levelUpPriceID": 58,
-      "crossplayID": 58,
-      "fromLevel": 58,
-      "toLevel": 59,
-      "c2Cost": 14380
-    },
-    {
-      "levelUpPriceID": 59,
-      "crossplayID": 59,
-      "fromLevel": 59,
-      "toLevel": 60,
-      "c2Cost": 14880
-    },
-    {
-      "levelUpPriceID": 60,
-      "crossplayID": 60,
-      "fromLevel": 60,
-      "toLevel": 61,
-      "c2Cost": 15380
-    },
-    {
-      "levelUpPriceID": 61,
-      "crossplayID": 61,
-      "fromLevel": 61,
-      "toLevel": 62,
-      "c2Cost": 15900
-    },
-    {
-      "levelUpPriceID": 62,
-      "crossplayID": 62,
-      "fromLevel": 62,
-      "toLevel": 63,
-      "c2Cost": 16420
-    },
-    {
-      "levelUpPriceID": 63,
-      "crossplayID": 63,
-      "fromLevel": 63,
-      "toLevel": 64,
-      "c2Cost": 16950
-    },
-    {
-      "levelUpPriceID": 64,
-      "crossplayID": 64,
-      "fromLevel": 64,
-      "toLevel": 65,
-      "c2Cost": 17490
-    },
-    {
-      "levelUpPriceID": 65,
-      "crossplayID": 65,
-      "fromLevel": 65,
-      "toLevel": 66,
-      "c2Cost": 18040
-    },
-    {
-      "levelUpPriceID": 66,
-      "crossplayID": 66,
-      "fromLevel": 66,
-      "toLevel": 67,
-      "c2Cost": 18590
-    },
-    {
-      "levelUpPriceID": 67,
-      "crossplayID": 67,
-      "fromLevel": 67,
-      "toLevel": 68,
-      "c2Cost": 19160
-    },
-    {
-      "levelUpPriceID": 68,
-      "crossplayID": 68,
-      "fromLevel": 68,
-      "toLevel": 69,
-      "c2Cost": 19730
-    },
-    {
-      "levelUpPriceID": 69,
-      "crossplayID": 69,
-      "fromLevel": 69,
-      "toLevel": 70,
-      "c2Cost": 20300
-    },
-    {
-      "levelUpPriceID": 70,
-      "crossplayID": 70,
-      "fromLevel": 70,
-      "toLevel": 71,
-      "c2Cost": 20900
-    }
-  ]
-}
+[
+  {
+    "levelUpPriceID": 10,
+    "crossplayID": 10,
+    "fromLevel": 10,
+    "toLevel": 11,
+    "c2Cost": 490
+  },
+  {
+    "levelUpPriceID": 11,
+    "crossplayID": 11,
+    "fromLevel": 11,
+    "toLevel": 12,
+    "c2Cost": 590
+  },
+  {
+    "levelUpPriceID": 12,
+    "crossplayID": 12,
+    "fromLevel": 12,
+    "toLevel": 13,
+    "c2Cost": 690
+  },
+  {
+    "levelUpPriceID": 13,
+    "crossplayID": 13,
+    "fromLevel": 13,
+    "toLevel": 14,
+    "c2Cost": 790
+  },
+  {
+    "levelUpPriceID": 14,
+    "crossplayID": 14,
+    "fromLevel": 14,
+    "toLevel": 15,
+    "c2Cost": 910
+  },
+  {
+    "levelUpPriceID": 15,
+    "crossplayID": 15,
+    "fromLevel": 15,
+    "toLevel": 16,
+    "c2Cost": 1040
+  },
+  {
+    "levelUpPriceID": 16,
+    "crossplayID": 16,
+    "fromLevel": 16,
+    "toLevel": 17,
+    "c2Cost": 1170
+  },
+  {
+    "levelUpPriceID": 17,
+    "crossplayID": 17,
+    "fromLevel": 17,
+    "toLevel": 18,
+    "c2Cost": 1310
+  },
+  {
+    "levelUpPriceID": 18,
+    "crossplayID": 18,
+    "fromLevel": 18,
+    "toLevel": 19,
+    "c2Cost": 1460
+  },
+  {
+    "levelUpPriceID": 19,
+    "crossplayID": 19,
+    "fromLevel": 19,
+    "toLevel": 20,
+    "c2Cost": 1610
+  },
+  {
+    "levelUpPriceID": 20,
+    "crossplayID": 20,
+    "fromLevel": 20,
+    "toLevel": 21,
+    "c2Cost": 1780
+  },
+  {
+    "levelUpPriceID": 21,
+    "crossplayID": 21,
+    "fromLevel": 21,
+    "toLevel": 22,
+    "c2Cost": 1990
+  },
+  {
+    "levelUpPriceID": 22,
+    "crossplayID": 22,
+    "fromLevel": 22,
+    "toLevel": 23,
+    "c2Cost": 2140
+  },
+  {
+    "levelUpPriceID": 23,
+    "crossplayID": 23,
+    "fromLevel": 23,
+    "toLevel": 24,
+    "c2Cost": 2340
+  },
+  {
+    "levelUpPriceID": 24,
+    "crossplayID": 24,
+    "fromLevel": 24,
+    "toLevel": 25,
+    "c2Cost": 2530
+  },
+  {
+    "levelUpPriceID": 25,
+    "crossplayID": 25,
+    "fromLevel": 25,
+    "toLevel": 26,
+    "c2Cost": 2740
+  },
+  {
+    "levelUpPriceID": 26,
+    "crossplayID": 26,
+    "fromLevel": 26,
+    "toLevel": 27,
+    "c2Cost": 2950
+  },
+  {
+    "levelUpPriceID": 27,
+    "crossplayID": 27,
+    "fromLevel": 27,
+    "toLevel": 28,
+    "c2Cost": 3180
+  },
+  {
+    "levelUpPriceID": 28,
+    "crossplayID": 28,
+    "fromLevel": 28,
+    "toLevel": 29,
+    "c2Cost": 3410
+  },
+  {
+    "levelUpPriceID": 29,
+    "crossplayID": 29,
+    "fromLevel": 29,
+    "toLevel": 30,
+    "c2Cost": 3650
+  },
+  {
+    "levelUpPriceID": 30,
+    "crossplayID": 30,
+    "fromLevel": 30,
+    "toLevel": 31,
+    "c2Cost": 3900
+  },
+  {
+    "levelUpPriceID": 31,
+    "crossplayID": 31,
+    "fromLevel": 31,
+    "toLevel": 32,
+    "c2Cost": 4160
+  },
+  {
+    "levelUpPriceID": 32,
+    "crossplayID": 32,
+    "fromLevel": 32,
+    "toLevel": 33,
+    "c2Cost": 4430
+  },
+  {
+    "levelUpPriceID": 33,
+    "crossplayID": 33,
+    "fromLevel": 33,
+    "toLevel": 34,
+    "c2Cost": 4710
+  },
+  {
+    "levelUpPriceID": 34,
+    "crossplayID": 34,
+    "fromLevel": 34,
+    "toLevel": 35,
+    "c2Cost": 4990
+  },
+  {
+    "levelUpPriceID": 35,
+    "crossplayID": 35,
+    "fromLevel": 35,
+    "toLevel": 36,
+    "c2Cost": 5280
+  },
+  {
+    "levelUpPriceID": 36,
+    "crossplayID": 36,
+    "fromLevel": 36,
+    "toLevel": 37,
+    "c2Cost": 5590
+  },
+  {
+    "levelUpPriceID": 37,
+    "crossplayID": 37,
+    "fromLevel": 37,
+    "toLevel": 38,
+    "c2Cost": 5900
+  },
+  {
+    "levelUpPriceID": 38,
+    "crossplayID": 38,
+    "fromLevel": 38,
+    "toLevel": 39,
+    "c2Cost": 6210
+  },
+  {
+    "levelUpPriceID": 39,
+    "crossplayID": 39,
+    "fromLevel": 39,
+    "toLevel": 40,
+    "c2Cost": 6550
+  },
+  {
+    "levelUpPriceID": 40,
+    "crossplayID": 40,
+    "fromLevel": 40,
+    "toLevel": 41,
+    "c2Cost": 6880
+  },
+  {
+    "levelUpPriceID": 41,
+    "crossplayID": 41,
+    "fromLevel": 41,
+    "toLevel": 42,
+    "c2Cost": 7230
+  },
+  {
+    "levelUpPriceID": 42,
+    "crossplayID": 42,
+    "fromLevel": 42,
+    "toLevel": 43,
+    "c2Cost": 7580
+  },
+  {
+    "levelUpPriceID": 43,
+    "crossplayID": 43,
+    "fromLevel": 43,
+    "toLevel": 44,
+    "c2Cost": 7940
+  },
+  {
+    "levelUpPriceID": 44,
+    "crossplayID": 44,
+    "fromLevel": 44,
+    "toLevel": 45,
+    "c2Cost": 8310
+  },
+  {
+    "levelUpPriceID": 45,
+    "crossplayID": 45,
+    "fromLevel": 45,
+    "toLevel": 46,
+    "c2Cost": 8690
+  },
+  {
+    "levelUpPriceID": 46,
+    "crossplayID": 46,
+    "fromLevel": 46,
+    "toLevel": 47,
+    "c2Cost": 9070
+  },
+  {
+    "levelUpPriceID": 47,
+    "crossplayID": 47,
+    "fromLevel": 47,
+    "toLevel": 48,
+    "c2Cost": 9470
+  },
+  {
+    "levelUpPriceID": 48,
+    "crossplayID": 48,
+    "fromLevel": 48,
+    "toLevel": 49,
+    "c2Cost": 9870
+  },
+  {
+    "levelUpPriceID": 49,
+    "crossplayID": 49,
+    "fromLevel": 49,
+    "toLevel": 50,
+    "c2Cost": 10290
+  },
+  {
+    "levelUpPriceID": 50,
+    "crossplayID": 50,
+    "fromLevel": 50,
+    "toLevel": 51,
+    "c2Cost": 10710
+  },
+  {
+    "levelUpPriceID": 51,
+    "crossplayID": 51,
+    "fromLevel": 51,
+    "toLevel": 52,
+    "c2Cost": 11140
+  },
+  {
+    "levelUpPriceID": 52,
+    "crossplayID": 52,
+    "fromLevel": 52,
+    "toLevel": 53,
+    "c2Cost": 11570
+  },
+  {
+    "levelUpPriceID": 53,
+    "crossplayID": 53,
+    "fromLevel": 53,
+    "toLevel": 54,
+    "c2Cost": 12020
+  },
+  {
+    "levelUpPriceID": 54,
+    "crossplayID": 54,
+    "fromLevel": 54,
+    "toLevel": 55,
+    "c2Cost": 12480
+  },
+  {
+    "levelUpPriceID": 55,
+    "crossplayID": 55,
+    "fromLevel": 55,
+    "toLevel": 56,
+    "c2Cost": 12940
+  },
+  {
+    "levelUpPriceID": 56,
+    "crossplayID": 56,
+    "fromLevel": 56,
+    "toLevel": 57,
+    "c2Cost": 13410
+  },
+  {
+    "levelUpPriceID": 57,
+    "crossplayID": 57,
+    "fromLevel": 57,
+    "toLevel": 58,
+    "c2Cost": 13890
+  },
+  {
+    "levelUpPriceID": 58,
+    "crossplayID": 58,
+    "fromLevel": 58,
+    "toLevel": 59,
+    "c2Cost": 14380
+  },
+  {
+    "levelUpPriceID": 59,
+    "crossplayID": 59,
+    "fromLevel": 59,
+    "toLevel": 60,
+    "c2Cost": 14880
+  },
+  {
+    "levelUpPriceID": 60,
+    "crossplayID": 60,
+    "fromLevel": 60,
+    "toLevel": 61,
+    "c2Cost": 15380
+  },
+  {
+    "levelUpPriceID": 61,
+    "crossplayID": 61,
+    "fromLevel": 61,
+    "toLevel": 62,
+    "c2Cost": 15900
+  },
+  {
+    "levelUpPriceID": 62,
+    "crossplayID": 62,
+    "fromLevel": 62,
+    "toLevel": 63,
+    "c2Cost": 16420
+  },
+  {
+    "levelUpPriceID": 63,
+    "crossplayID": 63,
+    "fromLevel": 63,
+    "toLevel": 64,
+    "c2Cost": 16950
+  },
+  {
+    "levelUpPriceID": 64,
+    "crossplayID": 64,
+    "fromLevel": 64,
+    "toLevel": 65,
+    "c2Cost": 17490
+  },
+  {
+    "levelUpPriceID": 65,
+    "crossplayID": 65,
+    "fromLevel": 65,
+    "toLevel": 66,
+    "c2Cost": 18040
+  },
+  {
+    "levelUpPriceID": 66,
+    "crossplayID": 66,
+    "fromLevel": 66,
+    "toLevel": 67,
+    "c2Cost": 18590
+  },
+  {
+    "levelUpPriceID": 67,
+    "crossplayID": 67,
+    "fromLevel": 67,
+    "toLevel": 68,
+    "c2Cost": 19160
+  },
+  {
+    "levelUpPriceID": 68,
+    "crossplayID": 68,
+    "fromLevel": 68,
+    "toLevel": 69,
+    "c2Cost": 19730
+  },
+  {
+    "levelUpPriceID": 69,
+    "crossplayID": 69,
+    "fromLevel": 69,
+    "toLevel": 70,
+    "c2Cost": 20300
+  },
+  {
+    "levelUpPriceID": 70,
+    "crossplayID": 70,
+    "fromLevel": 70,
+    "toLevel": 71,
+    "c2Cost": 20900
+  }
+]

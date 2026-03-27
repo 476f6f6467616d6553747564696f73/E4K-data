@@ -1,33 +1,31 @@
-{
-  "artifact": [
-    {
-      "artifactID": 1,
-      "crossplayID": 1,
-      "artifactType": "Grail",
-      "artifactParts": 8
-    },
-    {
-      "artifactID": 2,
-      "crossplayID": 2,
-      "artifactType": "GrailReloaded",
-      "artifactParts": 11
-    },
-    {
-      "artifactID": 3,
-      "crossplayID": 3,
-      "artifactType": "Map",
-      "artifactParts": 11
-    },
-    {
-      "artifactID": 4,
-      "crossplayID": 4,
-      "artifactType": "Portrait",
-      "artifactParts": 11
-    },
-    {
-      "artifactID": 5,
-      "artifactType": "Cheese",
-      "artifactParts": 10
-    }
-  ]
-}
+[
+  {
+    "artifactID": 1,
+    "crossplayID": 1,
+    "artifactType": "Grail",
+    "artifactParts": 8
+  },
+  {
+    "artifactID": 2,
+    "crossplayID": 2,
+    "artifactType": "GrailReloaded",
+    "artifactParts": 11
+  },
+  {
+    "artifactID": 3,
+    "crossplayID": 3,
+    "artifactType": "Map",
+    "artifactParts": 11
+  },
+  {
+    "artifactID": 4,
+    "crossplayID": 4,
+    "artifactType": "Portrait",
+    "artifactParts": 11
+  },
+  {
+    "artifactID": 5,
+    "artifactType": "Cheese",
+    "artifactParts": 10
+  }
+]

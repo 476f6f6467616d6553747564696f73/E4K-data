@@ -1,13 +1,11 @@
-{
-  "currencyHiddenList": [
-    {
-      "currencyID": 110
-    },
-    {
-      "currencyID": 46
-    },
-    {
-      "currencyID": 81
-    }
-  ]
-}
+[
+  {
+    "currencyID": 110
+  },
+  {
+    "currencyID": 46
+  },
+  {
+    "currencyID": 81
+  }
+]

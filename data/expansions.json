@@ -1,1156 +1,1154 @@
-{
-  "expansion": [
-    {
-      "expansionID": 1,
-      "crossplayID": 1,
-      "spaceIDs": 0,
-      "expansionLevel": 1,
-      "costWood": 29,
-      "costStone": 5,
-      "costC2": 200
-    },
-    {
-      "expansionID": 2,
-      "crossplayID": 2,
-      "spaceIDs": 0,
-      "expansionLevel": 2,
-      "costWood": 54,
-      "costStone": 10,
-      "costC2": 400
-    },
-    {
-      "expansionID": 3,
-      "crossplayID": 3,
-      "spaceIDs": 0,
-      "expansionLevel": 3,
-      "costWood": 117,
-      "costStone": 29,
-      "costC2": 600
-    },
-    {
-      "expansionID": 4,
-      "crossplayID": 4,
-      "spaceIDs": 0,
-      "expansionLevel": 4,
-      "costWood": 233,
-      "costStone": 82,
-      "costC2": 800
-    },
-    {
-      "expansionID": 5,
-      "crossplayID": 5,
-      "spaceIDs": 0,
-      "expansionLevel": 5,
-      "costWood": 418,
-      "costStone": 193,
-      "costC2": 1000
-    },
-    {
-      "expansionID": 6,
-      "crossplayID": 6,
-      "spaceIDs": 0,
-      "expansionLevel": 6,
-      "costWood": 685,
-      "costStone": 394,
-      "costC2": 1200
-    },
-    {
-      "expansionID": 7,
-      "crossplayID": 7,
-      "spaceIDs": 0,
-      "expansionLevel": 7,
-      "costWood": 1050,
-      "costStone": 725,
-      "costC2": 1400
-    },
-    {
-      "expansionID": 8,
-      "crossplayID": 8,
-      "spaceIDs": 0,
-      "expansionLevel": 8,
-      "costWood": 1524,
-      "costStone": 1234,
-      "costC2": 1600
-    },
-    {
-      "expansionID": 9,
-      "crossplayID": 9,
-      "spaceIDs": 0,
-      "expansionLevel": 9,
-      "costWood": 2122,
-      "costStone": 1973,
-      "costC2": 1800
-    },
-    {
-      "expansionID": 10,
-      "crossplayID": 10,
-      "spaceIDs": 0,
-      "expansionLevel": 10,
-      "costWood": 2857,
-      "costStone": 3005,
-      "costC2": 2000
-    },
-    {
-      "expansionID": 11,
-      "crossplayID": 11,
-      "spaceIDs": 0,
-      "expansionLevel": 11,
-      "costWood": 7289,
-      "costStone": 7077,
-      "costC2": 2200
-    },
-    {
-      "expansionID": 12,
-      "crossplayID": 12,
-      "spaceIDs": 0,
-      "expansionLevel": 12,
-      "costWood": 9903,
-      "costStone": 10856,
-      "costC2": 2400
-    },
-    {
-      "expansionID": 13,
-      "crossplayID": 13,
-      "spaceIDs": 0,
-      "expansionLevel": 13,
-      "costWood": 25991,
-      "costStone": 27293,
-      "costC2": 2600
-    },
-    {
-      "expansionID": 14,
-      "crossplayID": 14,
-      "spaceIDs": 0,
-      "expansionLevel": 14,
-      "costWood": 37648,
-      "costStone": 39242,
-      "costC2": 2800
-    },
-    {
-      "expansionID": 15,
-      "crossplayID": 15,
-      "spaceIDs": 0,
-      "expansionLevel": 15,
-      "costWood": 53156,
-      "costStone": 55026,
-      "costC2": 3000
-    },
-    {
-      "expansionID": 16,
-      "crossplayID": 16,
-      "spaceIDs": 0,
-      "expansionLevel": 16,
-      "costWood": 73400,
-      "costStone": 75494,
-      "costC2": 3200
-    },
-    {
-      "expansionID": 17,
-      "crossplayID": 17,
-      "spaceIDs": 0,
-      "expansionLevel": 17,
-      "costLegendaryToken": 500,
-      "costLegendaryMaterial": 2500,
-      "sceatSkillLocked": 166,
-      "effectLocked": 1
-    },
-    {
-      "expansionID": 18,
-      "crossplayID": 18,
-      "spaceIDs": 0,
-      "expansionLevel": 18,
-      "costLegendaryToken": 750,
-      "costLegendaryMaterial": 3750,
-      "sceatSkillLocked": 167,
-      "effectLocked": 1
-    },
-    {
-      "expansionID": 19,
-      "crossplayID": 19,
-      "spaceIDs": 0,
-      "expansionLevel": 19,
-      "costLegendaryToken": 1000,
-      "costLegendaryMaterial": 5000,
-      "sceatSkillLocked": 168,
-      "effectLocked": 1
-    },
-    {
-      "expansionID": 20,
-      "crossplayID": 20,
-      "spaceIDs": 2,
-      "expansionLevel": 1,
-      "costWood": 98,
-      "costStone": 67,
-      "costC2": 200
-    },
-    {
-      "expansionID": 21,
-      "crossplayID": 21,
-      "spaceIDs": 2,
-      "expansionLevel": 2,
-      "costWood": 126,
-      "costStone": 114,
-      "costC2": 400
-    },
-    {
-      "expansionID": 22,
-      "crossplayID": 22,
-      "spaceIDs": 2,
-      "expansionLevel": 3,
-      "costWood": 2069,
-      "costStone": 2069,
-      "costC2": 600
-    },
-    {
-      "expansionID": 23,
-      "crossplayID": 23,
-      "spaceIDs": 2,
-      "expansionLevel": 4,
-      "costWood": 2208,
-      "costStone": 2208,
-      "costC2": 800
-    },
-    {
-      "expansionID": 24,
-      "crossplayID": 24,
-      "spaceIDs": 2,
-      "expansionLevel": 5,
-      "costWood": 2491,
-      "costStone": 2491,
-      "costC2": 1000
-    },
-    {
-      "expansionID": 25,
-      "crossplayID": 25,
-      "spaceIDs": 2,
-      "expansionLevel": 6,
-      "costWood": 2991,
-      "costStone": 2991,
-      "costC2": 1200
-    },
-    {
-      "expansionID": 26,
-      "crossplayID": 26,
-      "spaceIDs": 2,
-      "expansionLevel": 7,
-      "costWood": 3793,
-      "costStone": 3793,
-      "costC2": 1400
-    },
-    {
-      "expansionID": 27,
-      "crossplayID": 27,
-      "spaceIDs": 2,
-      "expansionLevel": 8,
-      "costWood": 4998,
-      "costStone": 4998,
-      "costC2": 1600
-    },
-    {
-      "expansionID": 28,
-      "crossplayID": 28,
-      "spaceIDs": 2,
-      "expansionLevel": 9,
-      "costWood": 6719,
-      "costStone": 6719,
-      "costC2": 1800
-    },
-    {
-      "expansionID": 29,
-      "crossplayID": 29,
-      "spaceIDs": 2,
-      "expansionLevel": 10,
-      "costWood": 9079,
-      "costStone": 9079,
-      "costC2": 2000
-    },
-    {
-      "expansionID": 30,
-      "crossplayID": 30,
-      "spaceIDs": 2,
-      "expansionLevel": 11,
-      "costWood": 12218,
-      "costStone": 12218,
-      "costC2": 2200
-    },
-    {
-      "expansionID": 31,
-      "crossplayID": 31,
-      "spaceIDs": 2,
-      "expansionLevel": 12,
-      "costWood": 16284,
-      "costStone": 16284,
-      "costC2": 2400
-    },
-    {
-      "expansionID": 32,
-      "crossplayID": 32,
-      "spaceIDs": 2,
-      "expansionLevel": 13,
-      "costWood": 21439,
-      "costStone": 21439,
-      "costC2": 2600
-    },
-    {
-      "expansionID": 33,
-      "crossplayID": 33,
-      "spaceIDs": 2,
-      "expansionLevel": 14,
-      "costWood": 27858,
-      "costStone": 27858,
-      "costC2": 2800
-    },
-    {
-      "expansionID": 34,
-      "crossplayID": 34,
-      "spaceIDs": 2,
-      "expansionLevel": 15,
-      "costWood": 57500,
-      "costStone": 58250,
-      "costC2": 3000
-    },
-    {
-      "expansionID": 35,
-      "crossplayID": 35,
-      "spaceIDs": 2,
-      "expansionLevel": 16,
-      "costWood": 80000,
-      "costStone": 80000,
-      "costC2": 3200
-    },
-    {
-      "expansionID": 36,
-      "crossplayID": 36,
-      "spaceIDs": 2,
-      "expansionLevel": 17,
-      "costLegendaryToken": 500,
-      "costLegendaryMaterial": 2500,
-      "sceatSkillLocked": 166,
-      "effectLocked": 1
-    },
-    {
-      "expansionID": 37,
-      "crossplayID": 37,
-      "spaceIDs": 2,
-      "expansionLevel": 18,
-      "costLegendaryToken": 750,
-      "costLegendaryMaterial": 3750,
-      "sceatSkillLocked": 167,
-      "effectLocked": 1
-    },
-    {
-      "expansionID": 38,
-      "crossplayID": 38,
-      "spaceIDs": 2,
-      "expansionLevel": 19,
-      "costLegendaryToken": 1000,
-      "costLegendaryMaterial": 5000,
-      "sceatSkillLocked": 168,
-      "effectLocked": 1
-    },
-    {
-      "expansionID": 39,
-      "crossplayID": 39,
-      "spaceIDs": "1,3",
-      "expansionLevel": 1,
-      "costWood": 112,
-      "costStone": 109,
-      "costC2": 200
-    },
-    {
-      "expansionID": 40,
-      "crossplayID": 40,
-      "spaceIDs": "1,3",
-      "expansionLevel": 2,
-      "costWood": 198,
-      "costStone": 178,
-      "costC2": 400
-    },
-    {
-      "expansionID": 41,
-      "crossplayID": 41,
-      "spaceIDs": "1,3",
-      "expansionLevel": 3,
-      "costWood": 4093,
-      "costStone": 4093,
-      "costC2": 600
-    },
-    {
-      "expansionID": 42,
-      "crossplayID": 42,
-      "spaceIDs": "1,3",
-      "expansionLevel": 4,
-      "costWood": 4307,
-      "costStone": 4307,
-      "costC2": 800
-    },
-    {
-      "expansionID": 43,
-      "crossplayID": 43,
-      "spaceIDs": "1,3",
-      "expansionLevel": 5,
-      "costWood": 4770,
-      "costStone": 4770,
-      "costC2": 1000
-    },
-    {
-      "expansionID": 44,
-      "crossplayID": 44,
-      "spaceIDs": "1,3",
-      "expansionLevel": 6,
-      "costWood": 5636,
-      "costStone": 5636,
-      "costC2": 1200
-    },
-    {
-      "expansionID": 45,
-      "crossplayID": 45,
-      "spaceIDs": "1,3",
-      "expansionLevel": 7,
-      "costWood": 7092,
-      "costStone": 7092,
-      "costC2": 1400
-    },
-    {
-      "expansionID": 46,
-      "crossplayID": 46,
-      "spaceIDs": "1,3",
-      "expansionLevel": 8,
-      "costWood": 9367,
-      "costStone": 9367,
-      "costC2": 1600
-    },
-    {
-      "expansionID": 47,
-      "crossplayID": 47,
-      "spaceIDs": "1,3",
-      "expansionLevel": 9,
-      "costWood": 12730,
-      "costStone": 12730,
-      "costC2": 1800
-    },
-    {
-      "expansionID": 48,
-      "crossplayID": 48,
-      "spaceIDs": "1,3",
-      "expansionLevel": 10,
-      "costWood": 17490,
-      "costStone": 17490,
-      "costC2": 2000
-    },
-    {
-      "expansionID": 49,
-      "crossplayID": 49,
-      "spaceIDs": "1,3",
-      "expansionLevel": 11,
-      "costWood": 23996,
-      "costStone": 23996,
-      "costC2": 2200
-    },
-    {
-      "expansionID": 50,
-      "crossplayID": 50,
-      "spaceIDs": "1,3",
-      "expansionLevel": 12,
-      "costWood": 32643,
-      "costStone": 32643,
-      "costC2": 2400
-    },
-    {
-      "expansionID": 51,
-      "crossplayID": 51,
-      "spaceIDs": "1,3",
-      "expansionLevel": 13,
-      "costWood": 43864,
-      "costStone": 43864,
-      "costC2": 2600
-    },
-    {
-      "expansionID": 52,
-      "crossplayID": 52,
-      "spaceIDs": "1,3",
-      "expansionLevel": 14,
-      "costWood": 58139,
-      "costStone": 58139,
-      "costC2": 2800
-    },
-    {
-      "expansionID": 53,
-      "crossplayID": 53,
-      "spaceIDs": "1,3",
-      "expansionLevel": 15,
-      "costWood": 58500,
-      "costStone": 59250,
-      "costC2": 3000
-    },
-    {
-      "expansionID": 54,
-      "crossplayID": 54,
-      "spaceIDs": "1,3",
-      "expansionLevel": 16,
-      "costWood": 80000,
-      "costStone": 80000,
-      "costC2": 3200
-    },
-    {
-      "expansionID": 55,
-      "crossplayID": 55,
-      "spaceIDs": "1,3",
-      "expansionLevel": 17,
-      "costLegendaryToken": 500,
-      "costLegendaryMaterial": 2500,
-      "sceatSkillLocked": 166,
-      "effectLocked": 1
-    },
-    {
-      "expansionID": 56,
-      "crossplayID": 56,
-      "spaceIDs": "1,3",
-      "expansionLevel": 18,
-      "costLegendaryToken": 750,
-      "costLegendaryMaterial": 3750,
-      "sceatSkillLocked": 167,
-      "effectLocked": 1
-    },
-    {
-      "expansionID": 57,
-      "crossplayID": 57,
-      "spaceIDs": "1,3",
-      "expansionLevel": 19,
-      "costLegendaryToken": 1000,
-      "costLegendaryMaterial": 5000,
-      "sceatSkillLocked": 168,
-      "effectLocked": 1
-    },
-    {
-      "expansionID": 58,
-      "crossplayID": 58,
-      "spaceIDs": 10,
-      "expansionLevel": 1,
-      "costWood": 1305,
-      "costStone": 1352,
-      "costC2": 200
-    },
-    {
-      "expansionID": 59,
-      "crossplayID": 59,
-      "spaceIDs": 10,
-      "expansionLevel": 2,
-      "costWood": 2062,
-      "costStone": 2227,
-      "costC2": 400
-    },
-    {
-      "expansionID": 60,
-      "crossplayID": 60,
-      "spaceIDs": 10,
-      "expansionLevel": 3,
-      "costWood": 3204,
-      "costStone": 3545,
-      "costC2": 600
-    },
-    {
-      "expansionID": 61,
-      "crossplayID": 61,
-      "spaceIDs": 10,
-      "expansionLevel": 4,
-      "costWood": 4699,
-      "costStone": 5272,
-      "costC2": 800
-    },
-    {
-      "expansionID": 62,
-      "crossplayID": 62,
-      "spaceIDs": 10,
-      "expansionLevel": 5,
-      "costWood": 6527,
-      "costStone": 7384,
-      "costC2": 1000
-    },
-    {
-      "expansionID": 63,
-      "crossplayID": 63,
-      "spaceIDs": 10,
-      "expansionLevel": 6,
-      "costWood": 8675,
-      "costStone": 9864,
-      "costC2": 1200
-    },
-    {
-      "expansionID": 64,
-      "crossplayID": 64,
-      "spaceIDs": 10,
-      "expansionLevel": 7,
-      "costWood": 11129,
-      "costStone": 12698,
-      "costC2": 1400
-    },
-    {
-      "expansionID": 65,
-      "crossplayID": 65,
-      "spaceIDs": 10,
-      "expansionLevel": 8,
-      "costWood": 13881,
-      "costStone": 15877,
-      "costC2": 1600
-    },
-    {
-      "expansionID": 66,
-      "crossplayID": 66,
-      "spaceIDs": 10,
-      "expansionLevel": 9,
-      "costWood": 16923,
-      "costStone": 19390,
-      "costC2": 1800
-    },
-    {
-      "expansionID": 67,
-      "crossplayID": 67,
-      "spaceIDs": 10,
-      "expansionLevel": 10,
-      "costWood": 20248,
-      "costStone": 23231,
-      "costC2": 2000
-    },
-    {
-      "expansionID": 68,
-      "crossplayID": 68,
-      "spaceIDs": 10,
-      "expansionLevel": 11,
-      "costWood": 23850,
-      "costStone": 27391,
-      "costC2": 2200
-    },
-    {
-      "expansionID": 69,
-      "crossplayID": 69,
-      "spaceIDs": 10,
-      "expansionLevel": 12,
-      "costWood": 27724,
-      "costStone": 31866,
-      "costC2": 2400
-    },
-    {
-      "expansionID": 70,
-      "crossplayID": 70,
-      "spaceIDs": 10,
-      "expansionLevel": 13,
-      "costWood": 31866,
-      "costStone": 36649,
-      "costC2": 2600
-    },
-    {
-      "expansionID": 71,
-      "crossplayID": 71,
-      "spaceIDs": 10,
-      "expansionLevel": 14,
-      "costWood": 36270,
-      "costStone": 41736,
-      "costC2": 2800
-    },
-    {
-      "expansionID": 72,
-      "crossplayID": 72,
-      "spaceIDs": 10,
-      "expansionLevel": 15,
-      "costWood": 40934,
-      "costStone": 47123,
-      "costC2": 3000
-    },
-    {
-      "expansionID": 73,
-      "crossplayID": 73,
-      "spaceIDs": 10,
-      "expansionLevel": 16,
-      "costWood": 45853,
-      "costStone": 52805,
-      "costC2": 3200
-    },
-    {
-      "expansionID": 74,
-      "crossplayID": 74,
-      "spaceIDs": 22,
-      "expansionLevel": 1,
-      "costWood": 511,
-      "costStone": 510,
-      "costC2": 200
-    },
-    {
-      "expansionID": 75,
-      "crossplayID": 75,
-      "spaceIDs": 22,
-      "expansionLevel": 2,
-      "costWood": 546,
-      "costStone": 544,
-      "costC2": 400
-    },
-    {
-      "expansionID": 76,
-      "crossplayID": 76,
-      "spaceIDs": 22,
-      "expansionLevel": 3,
-      "costWood": 607,
-      "costStone": 607,
-      "costC2": 600
-    },
-    {
-      "expansionID": 77,
-      "crossplayID": 77,
-      "spaceIDs": 22,
-      "expansionLevel": 4,
-      "costWood": 697,
-      "costStone": 701,
-      "costC2": 800
-    },
-    {
-      "expansionID": 78,
-      "crossplayID": 78,
-      "spaceIDs": 22,
-      "expansionLevel": 5,
-      "costWood": 814,
-      "costStone": 828,
-      "costC2": 1000
-    },
-    {
-      "expansionID": 79,
-      "crossplayID": 79,
-      "spaceIDs": 22,
-      "expansionLevel": 6,
-      "costWood": 961,
-      "costStone": 989,
-      "costC2": 1200
-    },
-    {
-      "expansionID": 80,
-      "crossplayID": 80,
-      "spaceIDs": 22,
-      "expansionLevel": 7,
-      "costWood": 1137,
-      "costStone": 1187,
-      "costC2": 1400
-    },
-    {
-      "expansionID": 81,
-      "crossplayID": 81,
-      "spaceIDs": 22,
-      "expansionLevel": 8,
-      "costWood": 1343,
-      "costStone": 1422,
-      "costC2": 1600
-    },
-    {
-      "expansionID": 82,
-      "crossplayID": 82,
-      "spaceIDs": 22,
-      "expansionLevel": 9,
-      "costWood": 1580,
-      "costStone": 1694,
-      "costC2": 1800
-    },
-    {
-      "expansionID": 83,
-      "crossplayID": 83,
-      "spaceIDs": 22,
-      "expansionLevel": 10,
-      "costWood": 1847,
-      "costStone": 2006,
-      "costC2": 2000
-    },
-    {
-      "expansionID": 84,
-      "crossplayID": 84,
-      "spaceIDs": 22,
-      "expansionLevel": 11,
-      "costWood": 2146,
-      "costStone": 2357,
-      "costC2": 2200
-    },
-    {
-      "expansionID": 85,
-      "crossplayID": 85,
-      "spaceIDs": 22,
-      "expansionLevel": 12,
-      "costWood": 2475,
-      "costStone": 2749,
-      "costC2": 2400
-    },
-    {
-      "expansionID": 86,
-      "crossplayID": 86,
-      "spaceIDs": 22,
-      "expansionLevel": 13,
-      "costWood": 2837,
-      "costStone": 3182,
-      "costC2": 2600
-    },
-    {
-      "expansionID": 87,
-      "crossplayID": 87,
-      "spaceIDs": 22,
-      "expansionLevel": 14,
-      "costWood": 3231,
-      "costStone": 3656,
-      "costC2": 2800
-    },
-    {
-      "expansionID": 88,
-      "crossplayID": 88,
-      "spaceIDs": 22,
-      "expansionLevel": 15,
-      "costWood": 3656,
-      "costStone": 4174,
-      "costC2": 3000
-    },
-    {
-      "expansionID": 89,
-      "crossplayID": 89,
-      "spaceIDs": 22,
-      "expansionLevel": 16,
-      "costWood": 4114,
-      "costStone": 4734,
-      "costC2": 3200
-    },
-    {
-      "expansionID": 90,
-      "crossplayID": 90,
-      "spaceIDs": "27,28",
-      "expansionLevel": 1,
-      "costWood": 2555,
-      "costStone": 2550,
-      "costC2": 1000
-    },
-    {
-      "expansionID": 91,
-      "crossplayID": 91,
-      "spaceIDs": "27,28",
-      "expansionLevel": 2,
-      "costWood": 2730,
-      "costStone": 2720,
-      "costC2": 2000
-    },
-    {
-      "expansionID": 92,
-      "crossplayID": 92,
-      "spaceIDs": "27,28",
-      "expansionLevel": 3,
-      "costWood": 3035,
-      "costStone": 3035,
-      "costC2": 3000
-    },
-    {
-      "expansionID": 93,
-      "crossplayID": 93,
-      "spaceIDs": "27,28",
-      "expansionLevel": 4,
-      "costWood": 3485,
-      "costStone": 3505,
-      "costC2": 4000
-    },
-    {
-      "expansionID": 94,
-      "crossplayID": 94,
-      "spaceIDs": "27,28",
-      "expansionLevel": 5,
-      "costWood": 4070,
-      "costStone": 4140,
-      "costC2": 5000
-    },
-    {
-      "expansionID": 95,
-      "crossplayID": 95,
-      "spaceIDs": "27,28",
-      "expansionLevel": 6,
-      "costWood": 4805,
-      "costStone": 4945,
-      "costC2": 6000
-    },
-    {
-      "expansionID": 96,
-      "crossplayID": 96,
-      "spaceIDs": "27,28",
-      "expansionLevel": 7,
-      "costWood": 5685,
-      "costStone": 5935,
-      "costC2": 7000
-    },
-    {
-      "expansionID": 97,
-      "crossplayID": 97,
-      "spaceIDs": "27,28",
-      "expansionLevel": 8,
-      "costWood": 6715,
-      "costStone": 7110,
-      "costC2": 8000
-    },
-    {
-      "expansionID": 98,
-      "crossplayID": 98,
-      "spaceIDs": "27,28",
-      "expansionLevel": 9,
-      "costWood": 7900,
-      "costStone": 8470,
-      "costC2": 9000
-    },
-    {
-      "expansionID": 99,
-      "crossplayID": 99,
-      "spaceIDs": "27,28",
-      "expansionLevel": 10,
-      "costWood": 9235,
-      "costStone": 10030,
-      "costC2": 10000
-    },
-    {
-      "expansionID": 100,
-      "crossplayID": 100,
-      "spaceIDs": "27,28",
-      "expansionLevel": 11,
-      "costWood": 10730,
-      "costStone": 11785,
-      "costC2": 11000
-    },
-    {
-      "expansionID": 101,
-      "crossplayID": 101,
-      "spaceIDs": "27,28",
-      "expansionLevel": 12,
-      "costWood": 12375,
-      "costStone": 13745,
-      "costC2": 12000
-    },
-    {
-      "expansionID": 102,
-      "crossplayID": 102,
-      "spaceIDs": "27,28",
-      "expansionLevel": 13,
-      "costWood": 14185,
-      "costStone": 15910,
-      "costC2": 13000
-    },
-    {
-      "expansionID": 103,
-      "crossplayID": 103,
-      "spaceIDs": "27,28",
-      "expansionLevel": 14,
-      "costWood": 16155,
-      "costStone": 18280,
-      "costC2": 14000
-    },
-    {
-      "expansionID": 104,
-      "crossplayID": 104,
-      "spaceIDs": "27,28",
-      "expansionLevel": 15,
-      "costWood": 18280,
-      "costStone": 20870,
-      "costC2": 15000
-    },
-    {
-      "expansionID": 105,
-      "crossplayID": 105,
-      "spaceIDs": "27,28",
-      "expansionLevel": 16,
-      "costWood": 20570,
-      "costStone": 23670,
-      "costC2": 16000
-    },
-    {
-      "expansionID": 106,
-      "crossplayID": 106,
-      "spaceIDs": 4,
-      "expansionLevel": 1,
-      "costWood": 105,
-      "costStone": 88,
-      "costC2": 200
-    },
-    {
-      "expansionID": 107,
-      "crossplayID": 107,
-      "spaceIDs": 4,
-      "expansionLevel": 2,
-      "costWood": 162,
-      "costStone": 146,
-      "costC2": 400
-    },
-    {
-      "expansionID": 108,
-      "crossplayID": 108,
-      "spaceIDs": 4,
-      "expansionLevel": 3,
-      "costWood": 3081,
-      "costStone": 3081,
-      "costC2": 600
-    },
-    {
-      "expansionID": 109,
-      "crossplayID": 109,
-      "spaceIDs": 4,
-      "expansionLevel": 4,
-      "costWood": 3258,
-      "costStone": 3258,
-      "costC2": 800
-    },
-    {
-      "expansionID": 110,
-      "crossplayID": 110,
-      "spaceIDs": 4,
-      "expansionLevel": 5,
-      "costWood": 4251,
-      "costStone": 4251,
-      "costC2": 1000
-    },
-    {
-      "expansionID": 111,
-      "crossplayID": 111,
-      "spaceIDs": 4,
-      "expansionLevel": 6,
-      "costWood": 5124,
-      "costStone": 5124,
-      "costC2": 1200
-    },
-    {
-      "expansionID": 112,
-      "crossplayID": 112,
-      "spaceIDs": 4,
-      "expansionLevel": 7,
-      "costWood": 5914,
-      "costStone": 5914,
-      "costC2": 1400
-    },
-    {
-      "expansionID": 113,
-      "crossplayID": 113,
-      "spaceIDs": 4,
-      "expansionLevel": 8,
-      "costWood": 7183,
-      "costStone": 7183,
-      "costC2": 1600
-    },
-    {
-      "expansionID": 114,
-      "crossplayID": 114,
-      "spaceIDs": 4,
-      "expansionLevel": 9,
-      "costWood": 9725,
-      "costStone": 9725,
-      "costC2": 1800
-    },
-    {
-      "expansionID": 115,
-      "crossplayID": 115,
-      "spaceIDs": 4,
-      "expansionLevel": 10,
-      "costWood": 13285,
-      "costStone": 13285,
-      "costC2": 2000
-    },
-    {
-      "expansionID": 116,
-      "crossplayID": 116,
-      "spaceIDs": 4,
-      "expansionLevel": 11,
-      "costWood": 18107,
-      "costStone": 18107,
-      "costC2": 2200
-    },
-    {
-      "expansionID": 117,
-      "crossplayID": 117,
-      "spaceIDs": 4,
-      "expansionLevel": 12,
-      "costWood": 23500,
-      "costStone": 23500,
-      "costC2": 2400
-    },
-    {
-      "expansionID": 118,
-      "crossplayID": 118,
-      "spaceIDs": 4,
-      "expansionLevel": 13,
-      "costWood": 30798,
-      "costStone": 32652,
-      "costC2": 2600
-    },
-    {
-      "expansionID": 119,
-      "crossplayID": 119,
-      "spaceIDs": 4,
-      "expansionLevel": 14,
-      "costWood": 38000,
-      "costStone": 38000,
-      "costC2": 2800
-    },
-    {
-      "expansionID": 120,
-      "crossplayID": 120,
-      "spaceIDs": 4,
-      "expansionLevel": 15,
-      "costWood": 58000,
-      "costStone": 58750,
-      "costC2": 3000
-    },
-    {
-      "expansionID": 121,
-      "crossplayID": 121,
-      "spaceIDs": 4,
-      "expansionLevel": 16,
-      "costWood": 80000,
-      "costStone": 80000,
-      "costC2": 3200
-    },
-    {
-      "wodID": 901000,
-      "group": "Expansion",
-      "name": "Basic",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_NORMAL",
-      "kIDs": "0,1,2,3,4",
-      "mapIDs": ""
-    },
-    {
-      "wodID": 901001,
-      "group": "Expansion",
-      "name": "Basic",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_PREMIUM",
-      "kIDs": "0,1,2,3,4",
-      "mapIDs": ""
-    },
-    {
-      "wodID": 901002,
-      "group": "Expansion",
-      "name": "Camp",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_NORMAL",
-      "kIDs": "",
-      "mapIDs": "21,22,23,24,27,28"
-    },
-    {
-      "wodID": 901003,
-      "group": "Expansion",
-      "name": "Camp",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_PREMIUM",
-      "kIDs": "",
-      "mapIDs": "21,22,23,24,27,28"
-    },
-    {
-      "wodID": 901004,
-      "group": "Expansion",
-      "name": "Camp",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_NORMAL",
-      "kIDs": 10,
-      "mapIDs": ""
-    },
-    {
-      "wodID": 901005,
-      "group": "Expansion",
-      "name": "Camp",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_PREMIUM",
-      "kIDs": 10,
-      "mapIDs": ""
-    }
-  ]
-}
+[
+  {
+    "expansionID": 1,
+    "crossplayID": 1,
+    "spaceIDs": 0,
+    "expansionLevel": 1,
+    "costWood": 29,
+    "costStone": 5,
+    "costC2": 200
+  },
+  {
+    "expansionID": 2,
+    "crossplayID": 2,
+    "spaceIDs": 0,
+    "expansionLevel": 2,
+    "costWood": 54,
+    "costStone": 10,
+    "costC2": 400
+  },
+  {
+    "expansionID": 3,
+    "crossplayID": 3,
+    "spaceIDs": 0,
+    "expansionLevel": 3,
+    "costWood": 117,
+    "costStone": 29,
+    "costC2": 600
+  },
+  {
+    "expansionID": 4,
+    "crossplayID": 4,
+    "spaceIDs": 0,
+    "expansionLevel": 4,
+    "costWood": 233,
+    "costStone": 82,
+    "costC2": 800
+  },
+  {
+    "expansionID": 5,
+    "crossplayID": 5,
+    "spaceIDs": 0,
+    "expansionLevel": 5,
+    "costWood": 418,
+    "costStone": 193,
+    "costC2": 1000
+  },
+  {
+    "expansionID": 6,
+    "crossplayID": 6,
+    "spaceIDs": 0,
+    "expansionLevel": 6,
+    "costWood": 685,
+    "costStone": 394,
+    "costC2": 1200
+  },
+  {
+    "expansionID": 7,
+    "crossplayID": 7,
+    "spaceIDs": 0,
+    "expansionLevel": 7,
+    "costWood": 1050,
+    "costStone": 725,
+    "costC2": 1400
+  },
+  {
+    "expansionID": 8,
+    "crossplayID": 8,
+    "spaceIDs": 0,
+    "expansionLevel": 8,
+    "costWood": 1524,
+    "costStone": 1234,
+    "costC2": 1600
+  },
+  {
+    "expansionID": 9,
+    "crossplayID": 9,
+    "spaceIDs": 0,
+    "expansionLevel": 9,
+    "costWood": 2122,
+    "costStone": 1973,
+    "costC2": 1800
+  },
+  {
+    "expansionID": 10,
+    "crossplayID": 10,
+    "spaceIDs": 0,
+    "expansionLevel": 10,
+    "costWood": 2857,
+    "costStone": 3005,
+    "costC2": 2000
+  },
+  {
+    "expansionID": 11,
+    "crossplayID": 11,
+    "spaceIDs": 0,
+    "expansionLevel": 11,
+    "costWood": 7289,
+    "costStone": 7077,
+    "costC2": 2200
+  },
+  {
+    "expansionID": 12,
+    "crossplayID": 12,
+    "spaceIDs": 0,
+    "expansionLevel": 12,
+    "costWood": 9903,
+    "costStone": 10856,
+    "costC2": 2400
+  },
+  {
+    "expansionID": 13,
+    "crossplayID": 13,
+    "spaceIDs": 0,
+    "expansionLevel": 13,
+    "costWood": 25991,
+    "costStone": 27293,
+    "costC2": 2600
+  },
+  {
+    "expansionID": 14,
+    "crossplayID": 14,
+    "spaceIDs": 0,
+    "expansionLevel": 14,
+    "costWood": 37648,
+    "costStone": 39242,
+    "costC2": 2800
+  },
+  {
+    "expansionID": 15,
+    "crossplayID": 15,
+    "spaceIDs": 0,
+    "expansionLevel": 15,
+    "costWood": 53156,
+    "costStone": 55026,
+    "costC2": 3000
+  },
+  {
+    "expansionID": 16,
+    "crossplayID": 16,
+    "spaceIDs": 0,
+    "expansionLevel": 16,
+    "costWood": 73400,
+    "costStone": 75494,
+    "costC2": 3200
+  },
+  {
+    "expansionID": 17,
+    "crossplayID": 17,
+    "spaceIDs": 0,
+    "expansionLevel": 17,
+    "costLegendaryToken": 500,
+    "costLegendaryMaterial": 2500,
+    "sceatSkillLocked": 166,
+    "effectLocked": 1
+  },
+  {
+    "expansionID": 18,
+    "crossplayID": 18,
+    "spaceIDs": 0,
+    "expansionLevel": 18,
+    "costLegendaryToken": 750,
+    "costLegendaryMaterial": 3750,
+    "sceatSkillLocked": 167,
+    "effectLocked": 1
+  },
+  {
+    "expansionID": 19,
+    "crossplayID": 19,
+    "spaceIDs": 0,
+    "expansionLevel": 19,
+    "costLegendaryToken": 1000,
+    "costLegendaryMaterial": 5000,
+    "sceatSkillLocked": 168,
+    "effectLocked": 1
+  },
+  {
+    "expansionID": 20,
+    "crossplayID": 20,
+    "spaceIDs": 2,
+    "expansionLevel": 1,
+    "costWood": 98,
+    "costStone": 67,
+    "costC2": 200
+  },
+  {
+    "expansionID": 21,
+    "crossplayID": 21,
+    "spaceIDs": 2,
+    "expansionLevel": 2,
+    "costWood": 126,
+    "costStone": 114,
+    "costC2": 400
+  },
+  {
+    "expansionID": 22,
+    "crossplayID": 22,
+    "spaceIDs": 2,
+    "expansionLevel": 3,
+    "costWood": 2069,
+    "costStone": 2069,
+    "costC2": 600
+  },
+  {
+    "expansionID": 23,
+    "crossplayID": 23,
+    "spaceIDs": 2,
+    "expansionLevel": 4,
+    "costWood": 2208,
+    "costStone": 2208,
+    "costC2": 800
+  },
+  {
+    "expansionID": 24,
+    "crossplayID": 24,
+    "spaceIDs": 2,
+    "expansionLevel": 5,
+    "costWood": 2491,
+    "costStone": 2491,
+    "costC2": 1000
+  },
+  {
+    "expansionID": 25,
+    "crossplayID": 25,
+    "spaceIDs": 2,
+    "expansionLevel": 6,
+    "costWood": 2991,
+    "costStone": 2991,
+    "costC2": 1200
+  },
+  {
+    "expansionID": 26,
+    "crossplayID": 26,
+    "spaceIDs": 2,
+    "expansionLevel": 7,
+    "costWood": 3793,
+    "costStone": 3793,
+    "costC2": 1400
+  },
+  {
+    "expansionID": 27,
+    "crossplayID": 27,
+    "spaceIDs": 2,
+    "expansionLevel": 8,
+    "costWood": 4998,
+    "costStone": 4998,
+    "costC2": 1600
+  },
+  {
+    "expansionID": 28,
+    "crossplayID": 28,
+    "spaceIDs": 2,
+    "expansionLevel": 9,
+    "costWood": 6719,
+    "costStone": 6719,
+    "costC2": 1800
+  },
+  {
+    "expansionID": 29,
+    "crossplayID": 29,
+    "spaceIDs": 2,
+    "expansionLevel": 10,
+    "costWood": 9079,
+    "costStone": 9079,
+    "costC2": 2000
+  },
+  {
+    "expansionID": 30,
+    "crossplayID": 30,
+    "spaceIDs": 2,
+    "expansionLevel": 11,
+    "costWood": 12218,
+    "costStone": 12218,
+    "costC2": 2200
+  },
+  {
+    "expansionID": 31,
+    "crossplayID": 31,
+    "spaceIDs": 2,
+    "expansionLevel": 12,
+    "costWood": 16284,
+    "costStone": 16284,
+    "costC2": 2400
+  },
+  {
+    "expansionID": 32,
+    "crossplayID": 32,
+    "spaceIDs": 2,
+    "expansionLevel": 13,
+    "costWood": 21439,
+    "costStone": 21439,
+    "costC2": 2600
+  },
+  {
+    "expansionID": 33,
+    "crossplayID": 33,
+    "spaceIDs": 2,
+    "expansionLevel": 14,
+    "costWood": 27858,
+    "costStone": 27858,
+    "costC2": 2800
+  },
+  {
+    "expansionID": 34,
+    "crossplayID": 34,
+    "spaceIDs": 2,
+    "expansionLevel": 15,
+    "costWood": 57500,
+    "costStone": 58250,
+    "costC2": 3000
+  },
+  {
+    "expansionID": 35,
+    "crossplayID": 35,
+    "spaceIDs": 2,
+    "expansionLevel": 16,
+    "costWood": 80000,
+    "costStone": 80000,
+    "costC2": 3200
+  },
+  {
+    "expansionID": 36,
+    "crossplayID": 36,
+    "spaceIDs": 2,
+    "expansionLevel": 17,
+    "costLegendaryToken": 500,
+    "costLegendaryMaterial": 2500,
+    "sceatSkillLocked": 166,
+    "effectLocked": 1
+  },
+  {
+    "expansionID": 37,
+    "crossplayID": 37,
+    "spaceIDs": 2,
+    "expansionLevel": 18,
+    "costLegendaryToken": 750,
+    "costLegendaryMaterial": 3750,
+    "sceatSkillLocked": 167,
+    "effectLocked": 1
+  },
+  {
+    "expansionID": 38,
+    "crossplayID": 38,
+    "spaceIDs": 2,
+    "expansionLevel": 19,
+    "costLegendaryToken": 1000,
+    "costLegendaryMaterial": 5000,
+    "sceatSkillLocked": 168,
+    "effectLocked": 1
+  },
+  {
+    "expansionID": 39,
+    "crossplayID": 39,
+    "spaceIDs": "1,3",
+    "expansionLevel": 1,
+    "costWood": 112,
+    "costStone": 109,
+    "costC2": 200
+  },
+  {
+    "expansionID": 40,
+    "crossplayID": 40,
+    "spaceIDs": "1,3",
+    "expansionLevel": 2,
+    "costWood": 198,
+    "costStone": 178,
+    "costC2": 400
+  },
+  {
+    "expansionID": 41,
+    "crossplayID": 41,
+    "spaceIDs": "1,3",
+    "expansionLevel": 3,
+    "costWood": 4093,
+    "costStone": 4093,
+    "costC2": 600
+  },
+  {
+    "expansionID": 42,
+    "crossplayID": 42,
+    "spaceIDs": "1,3",
+    "expansionLevel": 4,
+    "costWood": 4307,
+    "costStone": 4307,
+    "costC2": 800
+  },
+  {
+    "expansionID": 43,
+    "crossplayID": 43,
+    "spaceIDs": "1,3",
+    "expansionLevel": 5,
+    "costWood": 4770,
+    "costStone": 4770,
+    "costC2": 1000
+  },
+  {
+    "expansionID": 44,
+    "crossplayID": 44,
+    "spaceIDs": "1,3",
+    "expansionLevel": 6,
+    "costWood": 5636,
+    "costStone": 5636,
+    "costC2": 1200
+  },
+  {
+    "expansionID": 45,
+    "crossplayID": 45,
+    "spaceIDs": "1,3",
+    "expansionLevel": 7,
+    "costWood": 7092,
+    "costStone": 7092,
+    "costC2": 1400
+  },
+  {
+    "expansionID": 46,
+    "crossplayID": 46,
+    "spaceIDs": "1,3",
+    "expansionLevel": 8,
+    "costWood": 9367,
+    "costStone": 9367,
+    "costC2": 1600
+  },
+  {
+    "expansionID": 47,
+    "crossplayID": 47,
+    "spaceIDs": "1,3",
+    "expansionLevel": 9,
+    "costWood": 12730,
+    "costStone": 12730,
+    "costC2": 1800
+  },
+  {
+    "expansionID": 48,
+    "crossplayID": 48,
+    "spaceIDs": "1,3",
+    "expansionLevel": 10,
+    "costWood": 17490,
+    "costStone": 17490,
+    "costC2": 2000
+  },
+  {
+    "expansionID": 49,
+    "crossplayID": 49,
+    "spaceIDs": "1,3",
+    "expansionLevel": 11,
+    "costWood": 23996,
+    "costStone": 23996,
+    "costC2": 2200
+  },
+  {
+    "expansionID": 50,
+    "crossplayID": 50,
+    "spaceIDs": "1,3",
+    "expansionLevel": 12,
+    "costWood": 32643,
+    "costStone": 32643,
+    "costC2": 2400
+  },
+  {
+    "expansionID": 51,
+    "crossplayID": 51,
+    "spaceIDs": "1,3",
+    "expansionLevel": 13,
+    "costWood": 43864,
+    "costStone": 43864,
+    "costC2": 2600
+  },
+  {
+    "expansionID": 52,
+    "crossplayID": 52,
+    "spaceIDs": "1,3",
+    "expansionLevel": 14,
+    "costWood": 58139,
+    "costStone": 58139,
+    "costC2": 2800
+  },
+  {
+    "expansionID": 53,
+    "crossplayID": 53,
+    "spaceIDs": "1,3",
+    "expansionLevel": 15,
+    "costWood": 58500,
+    "costStone": 59250,
+    "costC2": 3000
+  },
+  {
+    "expansionID": 54,
+    "crossplayID": 54,
+    "spaceIDs": "1,3",
+    "expansionLevel": 16,
+    "costWood": 80000,
+    "costStone": 80000,
+    "costC2": 3200
+  },
+  {
+    "expansionID": 55,
+    "crossplayID": 55,
+    "spaceIDs": "1,3",
+    "expansionLevel": 17,
+    "costLegendaryToken": 500,
+    "costLegendaryMaterial": 2500,
+    "sceatSkillLocked": 166,
+    "effectLocked": 1
+  },
+  {
+    "expansionID": 56,
+    "crossplayID": 56,
+    "spaceIDs": "1,3",
+    "expansionLevel": 18,
+    "costLegendaryToken": 750,
+    "costLegendaryMaterial": 3750,
+    "sceatSkillLocked": 167,
+    "effectLocked": 1
+  },
+  {
+    "expansionID": 57,
+    "crossplayID": 57,
+    "spaceIDs": "1,3",
+    "expansionLevel": 19,
+    "costLegendaryToken": 1000,
+    "costLegendaryMaterial": 5000,
+    "sceatSkillLocked": 168,
+    "effectLocked": 1
+  },
+  {
+    "expansionID": 58,
+    "crossplayID": 58,
+    "spaceIDs": 10,
+    "expansionLevel": 1,
+    "costWood": 1305,
+    "costStone": 1352,
+    "costC2": 200
+  },
+  {
+    "expansionID": 59,
+    "crossplayID": 59,
+    "spaceIDs": 10,
+    "expansionLevel": 2,
+    "costWood": 2062,
+    "costStone": 2227,
+    "costC2": 400
+  },
+  {
+    "expansionID": 60,
+    "crossplayID": 60,
+    "spaceIDs": 10,
+    "expansionLevel": 3,
+    "costWood": 3204,
+    "costStone": 3545,
+    "costC2": 600
+  },
+  {
+    "expansionID": 61,
+    "crossplayID": 61,
+    "spaceIDs": 10,
+    "expansionLevel": 4,
+    "costWood": 4699,
+    "costStone": 5272,
+    "costC2": 800
+  },
+  {
+    "expansionID": 62,
+    "crossplayID": 62,
+    "spaceIDs": 10,
+    "expansionLevel": 5,
+    "costWood": 6527,
+    "costStone": 7384,
+    "costC2": 1000
+  },
+  {
+    "expansionID": 63,
+    "crossplayID": 63,
+    "spaceIDs": 10,
+    "expansionLevel": 6,
+    "costWood": 8675,
+    "costStone": 9864,
+    "costC2": 1200
+  },
+  {
+    "expansionID": 64,
+    "crossplayID": 64,
+    "spaceIDs": 10,
+    "expansionLevel": 7,
+    "costWood": 11129,
+    "costStone": 12698,
+    "costC2": 1400
+  },
+  {
+    "expansionID": 65,
+    "crossplayID": 65,
+    "spaceIDs": 10,
+    "expansionLevel": 8,
+    "costWood": 13881,
+    "costStone": 15877,
+    "costC2": 1600
+  },
+  {
+    "expansionID": 66,
+    "crossplayID": 66,
+    "spaceIDs": 10,
+    "expansionLevel": 9,
+    "costWood": 16923,
+    "costStone": 19390,
+    "costC2": 1800
+  },
+  {
+    "expansionID": 67,
+    "crossplayID": 67,
+    "spaceIDs": 10,
+    "expansionLevel": 10,
+    "costWood": 20248,
+    "costStone": 23231,
+    "costC2": 2000
+  },
+  {
+    "expansionID": 68,
+    "crossplayID": 68,
+    "spaceIDs": 10,
+    "expansionLevel": 11,
+    "costWood": 23850,
+    "costStone": 27391,
+    "costC2": 2200
+  },
+  {
+    "expansionID": 69,
+    "crossplayID": 69,
+    "spaceIDs": 10,
+    "expansionLevel": 12,
+    "costWood": 27724,
+    "costStone": 31866,
+    "costC2": 2400
+  },
+  {
+    "expansionID": 70,
+    "crossplayID": 70,
+    "spaceIDs": 10,
+    "expansionLevel": 13,
+    "costWood": 31866,
+    "costStone": 36649,
+    "costC2": 2600
+  },
+  {
+    "expansionID": 71,
+    "crossplayID": 71,
+    "spaceIDs": 10,
+    "expansionLevel": 14,
+    "costWood": 36270,
+    "costStone": 41736,
+    "costC2": 2800
+  },
+  {
+    "expansionID": 72,
+    "crossplayID": 72,
+    "spaceIDs": 10,
+    "expansionLevel": 15,
+    "costWood": 40934,
+    "costStone": 47123,
+    "costC2": 3000
+  },
+  {
+    "expansionID": 73,
+    "crossplayID": 73,
+    "spaceIDs": 10,
+    "expansionLevel": 16,
+    "costWood": 45853,
+    "costStone": 52805,
+    "costC2": 3200
+  },
+  {
+    "expansionID": 74,
+    "crossplayID": 74,
+    "spaceIDs": 22,
+    "expansionLevel": 1,
+    "costWood": 511,
+    "costStone": 510,
+    "costC2": 200
+  },
+  {
+    "expansionID": 75,
+    "crossplayID": 75,
+    "spaceIDs": 22,
+    "expansionLevel": 2,
+    "costWood": 546,
+    "costStone": 544,
+    "costC2": 400
+  },
+  {
+    "expansionID": 76,
+    "crossplayID": 76,
+    "spaceIDs": 22,
+    "expansionLevel": 3,
+    "costWood": 607,
+    "costStone": 607,
+    "costC2": 600
+  },
+  {
+    "expansionID": 77,
+    "crossplayID": 77,
+    "spaceIDs": 22,
+    "expansionLevel": 4,
+    "costWood": 697,
+    "costStone": 701,
+    "costC2": 800
+  },
+  {
+    "expansionID": 78,
+    "crossplayID": 78,
+    "spaceIDs": 22,
+    "expansionLevel": 5,
+    "costWood": 814,
+    "costStone": 828,
+    "costC2": 1000
+  },
+  {
+    "expansionID": 79,
+    "crossplayID": 79,
+    "spaceIDs": 22,
+    "expansionLevel": 6,
+    "costWood": 961,
+    "costStone": 989,
+    "costC2": 1200
+  },
+  {
+    "expansionID": 80,
+    "crossplayID": 80,
+    "spaceIDs": 22,
+    "expansionLevel": 7,
+    "costWood": 1137,
+    "costStone": 1187,
+    "costC2": 1400
+  },
+  {
+    "expansionID": 81,
+    "crossplayID": 81,
+    "spaceIDs": 22,
+    "expansionLevel": 8,
+    "costWood": 1343,
+    "costStone": 1422,
+    "costC2": 1600
+  },
+  {
+    "expansionID": 82,
+    "crossplayID": 82,
+    "spaceIDs": 22,
+    "expansionLevel": 9,
+    "costWood": 1580,
+    "costStone": 1694,
+    "costC2": 1800
+  },
+  {
+    "expansionID": 83,
+    "crossplayID": 83,
+    "spaceIDs": 22,
+    "expansionLevel": 10,
+    "costWood": 1847,
+    "costStone": 2006,
+    "costC2": 2000
+  },
+  {
+    "expansionID": 84,
+    "crossplayID": 84,
+    "spaceIDs": 22,
+    "expansionLevel": 11,
+    "costWood": 2146,
+    "costStone": 2357,
+    "costC2": 2200
+  },
+  {
+    "expansionID": 85,
+    "crossplayID": 85,
+    "spaceIDs": 22,
+    "expansionLevel": 12,
+    "costWood": 2475,
+    "costStone": 2749,
+    "costC2": 2400
+  },
+  {
+    "expansionID": 86,
+    "crossplayID": 86,
+    "spaceIDs": 22,
+    "expansionLevel": 13,
+    "costWood": 2837,
+    "costStone": 3182,
+    "costC2": 2600
+  },
+  {
+    "expansionID": 87,
+    "crossplayID": 87,
+    "spaceIDs": 22,
+    "expansionLevel": 14,
+    "costWood": 3231,
+    "costStone": 3656,
+    "costC2": 2800
+  },
+  {
+    "expansionID": 88,
+    "crossplayID": 88,
+    "spaceIDs": 22,
+    "expansionLevel": 15,
+    "costWood": 3656,
+    "costStone": 4174,
+    "costC2": 3000
+  },
+  {
+    "expansionID": 89,
+    "crossplayID": 89,
+    "spaceIDs": 22,
+    "expansionLevel": 16,
+    "costWood": 4114,
+    "costStone": 4734,
+    "costC2": 3200
+  },
+  {
+    "expansionID": 90,
+    "crossplayID": 90,
+    "spaceIDs": "27,28",
+    "expansionLevel": 1,
+    "costWood": 2555,
+    "costStone": 2550,
+    "costC2": 1000
+  },
+  {
+    "expansionID": 91,
+    "crossplayID": 91,
+    "spaceIDs": "27,28",
+    "expansionLevel": 2,
+    "costWood": 2730,
+    "costStone": 2720,
+    "costC2": 2000
+  },
+  {
+    "expansionID": 92,
+    "crossplayID": 92,
+    "spaceIDs": "27,28",
+    "expansionLevel": 3,
+    "costWood": 3035,
+    "costStone": 3035,
+    "costC2": 3000
+  },
+  {
+    "expansionID": 93,
+    "crossplayID": 93,
+    "spaceIDs": "27,28",
+    "expansionLevel": 4,
+    "costWood": 3485,
+    "costStone": 3505,
+    "costC2": 4000
+  },
+  {
+    "expansionID": 94,
+    "crossplayID": 94,
+    "spaceIDs": "27,28",
+    "expansionLevel": 5,
+    "costWood": 4070,
+    "costStone": 4140,
+    "costC2": 5000
+  },
+  {
+    "expansionID": 95,
+    "crossplayID": 95,
+    "spaceIDs": "27,28",
+    "expansionLevel": 6,
+    "costWood": 4805,
+    "costStone": 4945,
+    "costC2": 6000
+  },
+  {
+    "expansionID": 96,
+    "crossplayID": 96,
+    "spaceIDs": "27,28",
+    "expansionLevel": 7,
+    "costWood": 5685,
+    "costStone": 5935,
+    "costC2": 7000
+  },
+  {
+    "expansionID": 97,
+    "crossplayID": 97,
+    "spaceIDs": "27,28",
+    "expansionLevel": 8,
+    "costWood": 6715,
+    "costStone": 7110,
+    "costC2": 8000
+  },
+  {
+    "expansionID": 98,
+    "crossplayID": 98,
+    "spaceIDs": "27,28",
+    "expansionLevel": 9,
+    "costWood": 7900,
+    "costStone": 8470,
+    "costC2": 9000
+  },
+  {
+    "expansionID": 99,
+    "crossplayID": 99,
+    "spaceIDs": "27,28",
+    "expansionLevel": 10,
+    "costWood": 9235,
+    "costStone": 10030,
+    "costC2": 10000
+  },
+  {
+    "expansionID": 100,
+    "crossplayID": 100,
+    "spaceIDs": "27,28",
+    "expansionLevel": 11,
+    "costWood": 10730,
+    "costStone": 11785,
+    "costC2": 11000
+  },
+  {
+    "expansionID": 101,
+    "crossplayID": 101,
+    "spaceIDs": "27,28",
+    "expansionLevel": 12,
+    "costWood": 12375,
+    "costStone": 13745,
+    "costC2": 12000
+  },
+  {
+    "expansionID": 102,
+    "crossplayID": 102,
+    "spaceIDs": "27,28",
+    "expansionLevel": 13,
+    "costWood": 14185,
+    "costStone": 15910,
+    "costC2": 13000
+  },
+  {
+    "expansionID": 103,
+    "crossplayID": 103,
+    "spaceIDs": "27,28",
+    "expansionLevel": 14,
+    "costWood": 16155,
+    "costStone": 18280,
+    "costC2": 14000
+  },
+  {
+    "expansionID": 104,
+    "crossplayID": 104,
+    "spaceIDs": "27,28",
+    "expansionLevel": 15,
+    "costWood": 18280,
+    "costStone": 20870,
+    "costC2": 15000
+  },
+  {
+    "expansionID": 105,
+    "crossplayID": 105,
+    "spaceIDs": "27,28",
+    "expansionLevel": 16,
+    "costWood": 20570,
+    "costStone": 23670,
+    "costC2": 16000
+  },
+  {
+    "expansionID": 106,
+    "crossplayID": 106,
+    "spaceIDs": 4,
+    "expansionLevel": 1,
+    "costWood": 105,
+    "costStone": 88,
+    "costC2": 200
+  },
+  {
+    "expansionID": 107,
+    "crossplayID": 107,
+    "spaceIDs": 4,
+    "expansionLevel": 2,
+    "costWood": 162,
+    "costStone": 146,
+    "costC2": 400
+  },
+  {
+    "expansionID": 108,
+    "crossplayID": 108,
+    "spaceIDs": 4,
+    "expansionLevel": 3,
+    "costWood": 3081,
+    "costStone": 3081,
+    "costC2": 600
+  },
+  {
+    "expansionID": 109,
+    "crossplayID": 109,
+    "spaceIDs": 4,
+    "expansionLevel": 4,
+    "costWood": 3258,
+    "costStone": 3258,
+    "costC2": 800
+  },
+  {
+    "expansionID": 110,
+    "crossplayID": 110,
+    "spaceIDs": 4,
+    "expansionLevel": 5,
+    "costWood": 4251,
+    "costStone": 4251,
+    "costC2": 1000
+  },
+  {
+    "expansionID": 111,
+    "crossplayID": 111,
+    "spaceIDs": 4,
+    "expansionLevel": 6,
+    "costWood": 5124,
+    "costStone": 5124,
+    "costC2": 1200
+  },
+  {
+    "expansionID": 112,
+    "crossplayID": 112,
+    "spaceIDs": 4,
+    "expansionLevel": 7,
+    "costWood": 5914,
+    "costStone": 5914,
+    "costC2": 1400
+  },
+  {
+    "expansionID": 113,
+    "crossplayID": 113,
+    "spaceIDs": 4,
+    "expansionLevel": 8,
+    "costWood": 7183,
+    "costStone": 7183,
+    "costC2": 1600
+  },
+  {
+    "expansionID": 114,
+    "crossplayID": 114,
+    "spaceIDs": 4,
+    "expansionLevel": 9,
+    "costWood": 9725,
+    "costStone": 9725,
+    "costC2": 1800
+  },
+  {
+    "expansionID": 115,
+    "crossplayID": 115,
+    "spaceIDs": 4,
+    "expansionLevel": 10,
+    "costWood": 13285,
+    "costStone": 13285,
+    "costC2": 2000
+  },
+  {
+    "expansionID": 116,
+    "crossplayID": 116,
+    "spaceIDs": 4,
+    "expansionLevel": 11,
+    "costWood": 18107,
+    "costStone": 18107,
+    "costC2": 2200
+  },
+  {
+    "expansionID": 117,
+    "crossplayID": 117,
+    "spaceIDs": 4,
+    "expansionLevel": 12,
+    "costWood": 23500,
+    "costStone": 23500,
+    "costC2": 2400
+  },
+  {
+    "expansionID": 118,
+    "crossplayID": 118,
+    "spaceIDs": 4,
+    "expansionLevel": 13,
+    "costWood": 30798,
+    "costStone": 32652,
+    "costC2": 2600
+  },
+  {
+    "expansionID": 119,
+    "crossplayID": 119,
+    "spaceIDs": 4,
+    "expansionLevel": 14,
+    "costWood": 38000,
+    "costStone": 38000,
+    "costC2": 2800
+  },
+  {
+    "expansionID": 120,
+    "crossplayID": 120,
+    "spaceIDs": 4,
+    "expansionLevel": 15,
+    "costWood": 58000,
+    "costStone": 58750,
+    "costC2": 3000
+  },
+  {
+    "expansionID": 121,
+    "crossplayID": 121,
+    "spaceIDs": 4,
+    "expansionLevel": 16,
+    "costWood": 80000,
+    "costStone": 80000,
+    "costC2": 3200
+  },
+  {
+    "wodID": 901000,
+    "group": "Expansion",
+    "name": "Basic",
+    "shopCategory": "EXPANSION",
+    "type": "TYPE_NORMAL",
+    "kIDs": "0,1,2,3,4",
+    "mapIDs": ""
+  },
+  {
+    "wodID": 901001,
+    "group": "Expansion",
+    "name": "Basic",
+    "shopCategory": "EXPANSION",
+    "type": "TYPE_PREMIUM",
+    "kIDs": "0,1,2,3,4",
+    "mapIDs": ""
+  },
+  {
+    "wodID": 901002,
+    "group": "Expansion",
+    "name": "Camp",
+    "shopCategory": "EXPANSION",
+    "type": "TYPE_NORMAL",
+    "kIDs": "",
+    "mapIDs": "21,22,23,24,27,28"
+  },
+  {
+    "wodID": 901003,
+    "group": "Expansion",
+    "name": "Camp",
+    "shopCategory": "EXPANSION",
+    "type": "TYPE_PREMIUM",
+    "kIDs": "",
+    "mapIDs": "21,22,23,24,27,28"
+  },
+  {
+    "wodID": 901004,
+    "group": "Expansion",
+    "name": "Camp",
+    "shopCategory": "EXPANSION",
+    "type": "TYPE_NORMAL",
+    "kIDs": 10,
+    "mapIDs": ""
+  },
+  {
+    "wodID": 901005,
+    "group": "Expansion",
+    "name": "Camp",
+    "shopCategory": "EXPANSION",
+    "type": "TYPE_PREMIUM",
+    "kIDs": 10,
+    "mapIDs": ""
+  }
+]

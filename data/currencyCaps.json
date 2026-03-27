@@ -1,78 +1,76 @@
-{
-  "currencyCap": [
-    {
-      "currencyID": 1001,
-      "crossplayID": 1001,
-      "softCap": 32767,
-      "hardCap": 32767,
-      "hideClientCapDisplay": 1
-    },
-    {
-      "currencyID": 1002,
-      "crossplayID": 1002,
-      "softCap": 32767,
-      "hardCap": 32767,
-      "hideClientCapDisplay": 1
-    },
-    {
-      "currencyID": 1003,
-      "crossplayID": 1003,
-      "softCap": 999,
-      "hardCap": 32767
-    },
-    {
-      "currencyID": 1004,
-      "crossplayID": 1004,
-      "softCap": 999,
-      "hardCap": 32767
-    },
-    {
-      "currencyID": 1005,
-      "crossplayID": 1005,
-      "softCap": 999,
-      "hardCap": 32767
-    },
-    {
-      "currencyID": 1006,
-      "crossplayID": 1006,
-      "softCap": 999,
-      "hardCap": 32767
-    },
-    {
-      "currencyID": 1007,
-      "crossplayID": 1007,
-      "softCap": 999,
-      "hardCap": 32767
-    },
-    {
-      "currencyID": 5001,
-      "crossplayID": 5001,
-      "softCap": 20,
-      "hardCap": 20
-    },
-    {
-      "currencyID": 5002,
-      "crossplayID": 5002,
-      "softCap": 10,
-      "hardCap": 10
-    },
-    {
-      "currencyID": 5003,
-      "crossplayID": 5003,
-      "softCap": 5,
-      "hardCap": 5
-    },
-    {
-      "currencyID": 15,
-      "crossplayID": 15,
-      "softCap": 99999,
-      "hardCap": 125000
-    },
-    {
-      "currencyID": 64,
-      "crossplayID": 64,
-      "softCap": 2000,
-      "hardCap": 5000
-    }
-  ]
-}
+[
+  {
+    "currencyID": 1001,
+    "crossplayID": 1001,
+    "softCap": 32767,
+    "hardCap": 32767,
+    "hideClientCapDisplay": 1
+  },
+  {
+    "currencyID": 1002,
+    "crossplayID": 1002,
+    "softCap": 32767,
+    "hardCap": 32767,
+    "hideClientCapDisplay": 1
+  },
+  {
+    "currencyID": 1003,
+    "crossplayID": 1003,
+    "softCap": 999,
+    "hardCap": 32767
+  },
+  {
+    "currencyID": 1004,
+    "crossplayID": 1004,
+    "softCap": 999,
+    "hardCap": 32767
+  },
+  {
+    "currencyID": 1005,
+    "crossplayID": 1005,
+    "softCap": 999,
+    "hardCap": 32767
+  },
+  {
+    "currencyID": 1006,
+    "crossplayID": 1006,
+    "softCap": 999,
+    "hardCap": 32767
+  },
+  {
+    "currencyID": 1007,
+    "crossplayID": 1007,
+    "softCap": 999,
+    "hardCap": 32767
+  },
+  {
+    "currencyID": 5001,
+    "crossplayID": 5001,
+    "softCap": 20,
+    "hardCap": 20
+  },
+  {
+    "currencyID": 5002,
+    "crossplayID": 5002,
+    "softCap": 10,
+    "hardCap": 10
+  },
+  {
+    "currencyID": 5003,
+    "crossplayID": 5003,
+    "softCap": 5,
+    "hardCap": 5
+  },
+  {
+    "currencyID": 15,
+    "crossplayID": 15,
+    "softCap": 99999,
+    "hardCap": 125000
+  },
+  {
+    "currencyID": 64,
+    "crossplayID": 64,
+    "softCap": 2000,
+    "hardCap": 5000
+  }
+]

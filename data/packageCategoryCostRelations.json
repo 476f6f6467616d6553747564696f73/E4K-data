@@ -1,130 +1,134 @@
-{
-  "packageCategoryCostRelation": [
-    {
-      "id": 1,
-      "crossplayID": 1,
-      "categoryID": 101,
-      "currencyID": 35
-    },
-    {
-      "id": 2,
-      "crossplayID": 2,
-      "categoryID": 102,
-      "currencyID": 36
-    },
-    {
-      "id": 3,
-      "crossplayID": 3,
-      "categoryID": 103,
-      "currencyID": 37
-    },
-    {
-      "id": 4,
-      "crossplayID": 4,
-      "categoryID": 104,
-      "currencyID": 50
-    },
-    {
-      "id": 5,
-      "crossplayID": 5,
-      "categoryID": 105,
-      "currencyID": 51
-    },
-    {
-      "id": 6,
-      "crossplayID": 6,
-      "categoryID": 106,
-      "currencyID": 52
-    },
-    {
-      "id": 7,
-      "crossplayID": 7,
-      "categoryID": 107,
-      "currencyID": 53
-    },
-    {
-      "id": 8,
-      "crossplayID": 8,
-      "categoryID": 108,
-      "currencyID": 54
-    },
-    {
-      "id": 9,
-      "crossplayID": 9,
-      "categoryID": 109,
-      "currencyID": 55
-    },
-    {
-      "id": 10,
-      "crossplayID": 10,
-      "categoryID": 110,
-      "currencyID": 56
-    },
-    {
-      "id": 11,
-      "crossplayID": 11,
-      "categoryID": 111,
-      "currencyID": 57
-    },
-    {
-      "id": 12,
-      "crossplayID": 12,
-      "categoryID": 112,
-      "currencyID": 58
-    },
-    {
-      "id": 13,
-      "crossplayID": 13,
-      "categoryID": 113,
-      "currencyID": 15
-    },
-    {
-      "id": 14,
-      "crossplayID": 14,
-      "categoryID": 114,
-      "currencyID": 1001
-    },
-    {
-      "id": 15,
-      "crossplayID": 15,
-      "categoryID": 115,
-      "currencyID": 59
-    },
-    {
-      "id": 16,
-      "crossplayID": 16,
-      "categoryID": 116,
-      "currencyID": 60
-    },
-    {
-      "id": 17,
-      "crossplayID": 17,
-      "categoryID": 117,
-      "currencyID": 61
-    },
-    {
-      "id": 18,
-      "crossplayID": 18,
-      "categoryID": 118,
-      "currencyID": 8000
-    },
-    {
-      "id": 19,
-      "crossplayID": 19,
-      "categoryID": 119,
-      "resourceID": 2
-    },
-    {
-      "id": 20,
-      "crossplayID": 20,
-      "categoryID": 120,
-      "currencyID": 85
-    },
-    {
-      "id": 21,
-      "crossplayID": 21,
-      "categoryID": 121,
-      "currencyID": 86
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "crossplayID": 1,
+    "categoryID": 101,
+    "currencyID": 35
+  },
+  {
+    "id": 2,
+    "crossplayID": 2,
+    "categoryID": 102,
+    "currencyID": 36
+  },
+  {
+    "id": 3,
+    "crossplayID": 3,
+    "categoryID": 103,
+    "currencyID": 37
+  },
+  {
+    "id": 4,
+    "crossplayID": 4,
+    "categoryID": 104,
+    "currencyID": 50
+  },
+  {
+    "id": 5,
+    "crossplayID": 5,
+    "categoryID": 105,
+    "currencyID": 51
+  },
+  {
+    "id": 6,
+    "crossplayID": 6,
+    "categoryID": 106,
+    "currencyID": 52
+  },
+  {
+    "id": 7,
+    "crossplayID": 7,
+    "categoryID": 107,
+    "currencyID": 53
+  },
+  {
+    "id": 8,
+    "crossplayID": 8,
+    "categoryID": 108,
+    "currencyID": 54
+  },
+  {
+    "id": 9,
+    "crossplayID": 9,
+    "categoryID": 109,
+    "currencyID": 55
+  },
+  {
+    "id": 10,
+    "crossplayID": 10,
+    "categoryID": 110,
+    "currencyID": 56
+  },
+  {
+    "id": 11,
+    "crossplayID": 11,
+    "categoryID": 111,
+    "currencyID": 57
+  },
+  {
+    "id": 12,
+    "crossplayID": 12,
+    "categoryID": 112,
+    "currencyID": 58
+  },
+  {
+    "id": 13,
+    "crossplayID": 13,
+    "categoryID": 113,
+    "currencyID": 15
+  },
+  {
+    "id": 14,
+    "crossplayID": 14,
+    "categoryID": 114,
+    "currencyID": 1001
+  },
+  {
+    "id": 15,
+    "crossplayID": 15,
+    "categoryID": 115,
+    "currencyID": 59
+  },
+  {
+    "id": 16,
+    "crossplayID": 16,
+    "categoryID": 116,
+    "currencyID": 60
+  },
+  {
+    "id": 17,
+    "crossplayID": 17,
+    "categoryID": 117,
+    "currencyID": 61
+  },
+  {
+    "id": 18,
+    "crossplayID": 18,
+    "categoryID": 118,
+    "currencyID": 8000
+  },
+  {
+    "id": 19,
+    "crossplayID": 19,
+    "categoryID": 119,
+    "resourceID": 2
+  },
+  {
+    "id": 20,
+    "crossplayID": 20,
+    "categoryID": 120,
+    "currencyID": 85
+  },
+  {
+    "id": 21,
+    "crossplayID": 21,
+    "categoryID": 121,
+    "currencyID": 86
+  },
+  {
+    "id": 22,
+    "crossplayID": 22,
+    "categoryID": 122,
+    "resourceID": 1
+  }
+]

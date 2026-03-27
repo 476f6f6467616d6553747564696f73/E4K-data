@@ -1,304 +1,302 @@
-{
-  "alienRerollChance": [
-    {
-      "alienRerollChancesID": 1,
-      "amountUnits": 20,
-      "chance": 625,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 2,
-      "amountUnits": 40,
-      "chance": 1250,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 3,
-      "amountUnits": 60,
-      "chance": 1875,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 4,
-      "amountUnits": 80,
-      "chance": 2500,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 5,
-      "amountUnits": 100,
-      "chance": 3125,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 6,
-      "amountUnits": 120,
-      "chance": 3750,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 7,
-      "amountUnits": 140,
-      "chance": 4375,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 8,
-      "amountUnits": 160,
-      "chance": 5000,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 9,
-      "amountUnits": 180,
-      "chance": 5625,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 10,
-      "amountUnits": 200,
-      "chance": 6250,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 11,
-      "amountUnits": 220,
-      "chance": 6250,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 12,
-      "amountUnits": 240,
-      "chance": 6250,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 13,
-      "amountUnits": 260,
-      "chance": 6250,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 14,
-      "amountUnits": 280,
-      "chance": 6250,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 15,
-      "amountUnits": 300,
-      "chance": 6250,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 16,
-      "amountUnits": 320,
-      "chance": 6250,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 17,
-      "amountUnits": 340,
-      "chance": 5625,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 18,
-      "amountUnits": 360,
-      "chance": 5000,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 19,
-      "amountUnits": 380,
-      "chance": 4375,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 20,
-      "amountUnits": 400,
-      "chance": 3750,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 21,
-      "amountUnits": 420,
-      "chance": 3125,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 22,
-      "amountUnits": 440,
-      "chance": 2500,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 23,
-      "amountUnits": 460,
-      "chance": 1875,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 24,
-      "amountUnits": 480,
-      "chance": 1250,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 25,
-      "amountUnits": 500,
-      "chance": 625,
-      "isSoftCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 26,
-      "amountUnits": 520,
-      "chance": 625,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 27,
-      "amountUnits": 540,
-      "chance": 1250,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 28,
-      "amountUnits": 560,
-      "chance": 1875,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 29,
-      "amountUnits": 580,
-      "chance": 2500,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 30,
-      "amountUnits": 600,
-      "chance": 3125,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 31,
-      "amountUnits": 620,
-      "chance": 3750,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 32,
-      "amountUnits": 640,
-      "chance": 4375,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 33,
-      "amountUnits": 660,
-      "chance": 5000,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 34,
-      "amountUnits": 680,
-      "chance": 5625,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 35,
-      "amountUnits": 700,
-      "chance": 6250,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 36,
-      "amountUnits": 720,
-      "chance": 6250,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 37,
-      "amountUnits": 740,
-      "chance": 6250,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 38,
-      "amountUnits": 760,
-      "chance": 6250,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 39,
-      "amountUnits": 780,
-      "chance": 6250,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 40,
-      "amountUnits": 800,
-      "chance": 6250,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 41,
-      "amountUnits": 820,
-      "chance": 6250,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 42,
-      "amountUnits": 840,
-      "chance": 5625,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 43,
-      "amountUnits": 860,
-      "chance": 5000,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 44,
-      "amountUnits": 880,
-      "chance": 4375,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 45,
-      "amountUnits": 900,
-      "chance": 3750,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 46,
-      "amountUnits": 920,
-      "chance": 3125,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 47,
-      "amountUnits": 940,
-      "chance": 2500,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 48,
-      "amountUnits": 960,
-      "chance": 1875,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 49,
-      "amountUnits": 980,
-      "chance": 1250,
-      "isHardCurrency": 1
-    },
-    {
-      "alienRerollChancesID": 50,
-      "amountUnits": 1000,
-      "chance": 625,
-      "isHardCurrency": 1
-    }
-  ]
-}
+[
+  {
+    "alienRerollChancesID": 1,
+    "amountUnits": 20,
+    "chance": 625,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 2,
+    "amountUnits": 40,
+    "chance": 1250,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 3,
+    "amountUnits": 60,
+    "chance": 1875,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 4,
+    "amountUnits": 80,
+    "chance": 2500,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 5,
+    "amountUnits": 100,
+    "chance": 3125,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 6,
+    "amountUnits": 120,
+    "chance": 3750,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 7,
+    "amountUnits": 140,
+    "chance": 4375,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 8,
+    "amountUnits": 160,
+    "chance": 5000,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 9,
+    "amountUnits": 180,
+    "chance": 5625,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 10,
+    "amountUnits": 200,
+    "chance": 6250,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 11,
+    "amountUnits": 220,
+    "chance": 6250,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 12,
+    "amountUnits": 240,
+    "chance": 6250,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 13,
+    "amountUnits": 260,
+    "chance": 6250,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 14,
+    "amountUnits": 280,
+    "chance": 6250,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 15,
+    "amountUnits": 300,
+    "chance": 6250,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 16,
+    "amountUnits": 320,
+    "chance": 6250,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 17,
+    "amountUnits": 340,
+    "chance": 5625,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 18,
+    "amountUnits": 360,
+    "chance": 5000,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 19,
+    "amountUnits": 380,
+    "chance": 4375,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 20,
+    "amountUnits": 400,
+    "chance": 3750,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 21,
+    "amountUnits": 420,
+    "chance": 3125,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 22,
+    "amountUnits": 440,
+    "chance": 2500,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 23,
+    "amountUnits": 460,
+    "chance": 1875,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 24,
+    "amountUnits": 480,
+    "chance": 1250,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 25,
+    "amountUnits": 500,
+    "chance": 625,
+    "isSoftCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 26,
+    "amountUnits": 520,
+    "chance": 625,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 27,
+    "amountUnits": 540,
+    "chance": 1250,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 28,
+    "amountUnits": 560,
+    "chance": 1875,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 29,
+    "amountUnits": 580,
+    "chance": 2500,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 30,
+    "amountUnits": 600,
+    "chance": 3125,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 31,
+    "amountUnits": 620,
+    "chance": 3750,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 32,
+    "amountUnits": 640,
+    "chance": 4375,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 33,
+    "amountUnits": 660,
+    "chance": 5000,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 34,
+    "amountUnits": 680,
+    "chance": 5625,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 35,
+    "amountUnits": 700,
+    "chance": 6250,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 36,
+    "amountUnits": 720,
+    "chance": 6250,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 37,
+    "amountUnits": 740,
+    "chance": 6250,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 38,
+    "amountUnits": 760,
+    "chance": 6250,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 39,
+    "amountUnits": 780,
+    "chance": 6250,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 40,
+    "amountUnits": 800,
+    "chance": 6250,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 41,
+    "amountUnits": 820,
+    "chance": 6250,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 42,
+    "amountUnits": 840,
+    "chance": 5625,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 43,
+    "amountUnits": 860,
+    "chance": 5000,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 44,
+    "amountUnits": 880,
+    "chance": 4375,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 45,
+    "amountUnits": 900,
+    "chance": 3750,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 46,
+    "amountUnits": 920,
+    "chance": 3125,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 47,
+    "amountUnits": 940,
+    "chance": 2500,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 48,
+    "amountUnits": 960,
+    "chance": 1875,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 49,
+    "amountUnits": 980,
+    "chance": 1250,
+    "isHardCurrency": 1
+  },
+  {
+    "alienRerollChancesID": 50,
+    "amountUnits": 1000,
+    "chance": 625,
+    "isHardCurrency": 1
+  }
+]

@@ -1,169 +1,167 @@
-{
-  "mightrank": [
-    {
-      "mightID": 1,
-      "threshold": 500,
-      "rewardID": 8512
-    },
-    {
-      "mightID": 2,
-      "threshold": 1000,
-      "rewardID": 8513
-    },
-    {
-      "mightID": 3,
-      "threshold": 1500,
-      "rewardID": 8514
-    },
-    {
-      "mightID": 4,
-      "threshold": 2500,
-      "rewardID": 8515
-    },
-    {
-      "mightID": 5,
-      "threshold": 4000,
-      "rewardID": 8516
-    },
-    {
-      "mightID": 6,
-      "threshold": 7000,
-      "rewardID": 8517
-    },
-    {
-      "mightID": 7,
-      "threshold": 10000,
-      "rewardID": 8518
-    },
-    {
-      "mightID": 8,
-      "threshold": 15000,
-      "rewardID": 8519
-    },
-    {
-      "mightID": 9,
-      "threshold": 20000,
-      "rewardID": 8520
-    },
-    {
-      "mightID": 10,
-      "threshold": 25000,
-      "rewardID": 8521
-    },
-    {
-      "mightID": 11,
-      "threshold": 30000,
-      "rewardID": 8522
-    },
-    {
-      "mightID": 12,
-      "threshold": 35000,
-      "rewardID": 8523
-    },
-    {
-      "mightID": 13,
-      "threshold": 40000,
-      "rewardID": 8524
-    },
-    {
-      "mightID": 14,
-      "threshold": 45000,
-      "rewardID": 8525
-    },
-    {
-      "mightID": 15,
-      "threshold": 50000,
-      "rewardID": 8526
-    },
-    {
-      "mightID": 16,
-      "threshold": 75000,
-      "rewardID": 8527
-    },
-    {
-      "mightID": 17,
-      "threshold": 100000,
-      "rewardID": 8528
-    },
-    {
-      "mightID": 18,
-      "threshold": 150000,
-      "rewardID": 8529
-    },
-    {
-      "mightID": 19,
-      "threshold": 200000,
-      "rewardID": 8530
-    },
-    {
-      "mightID": 20,
-      "threshold": 300000,
-      "rewardID": 8531
-    },
-    {
-      "mightID": 21,
-      "threshold": 500000,
-      "rewardID": 8532
-    },
-    {
-      "mightID": 22,
-      "threshold": 750000,
-      "rewardID": 8533
-    },
-    {
-      "mightID": 23,
-      "threshold": 1000000,
-      "rewardID": 8534
-    },
-    {
-      "mightID": 24,
-      "threshold": 1500000,
-      "rewardID": 8535
-    },
-    {
-      "mightID": 25,
-      "threshold": 2000000,
-      "rewardID": 8536
-    },
-    {
-      "mightID": 26,
-      "threshold": 3500000,
-      "rewardID": 8537
-    },
-    {
-      "mightID": 27,
-      "threshold": 5000000,
-      "rewardID": 8538
-    },
-    {
-      "mightID": 28,
-      "threshold": 7500000,
-      "rewardID": 8539
-    },
-    {
-      "mightID": 29,
-      "threshold": 10000000,
-      "rewardID": 8540
-    },
-    {
-      "mightID": 30,
-      "threshold": 12500000,
-      "rewardID": 8541
-    },
-    {
-      "mightID": 31,
-      "threshold": 15000000,
-      "rewardID": 8542
-    },
-    {
-      "mightID": 32,
-      "threshold": 17500000,
-      "rewardID": 8543
-    },
-    {
-      "mightID": 33,
-      "threshold": 20000000,
-      "rewardID": 8544
-    }
-  ]
-}
+[
+  {
+    "mightID": 1,
+    "threshold": 500,
+    "rewardID": 8512
+  },
+  {
+    "mightID": 2,
+    "threshold": 1000,
+    "rewardID": 8513
+  },
+  {
+    "mightID": 3,
+    "threshold": 1500,
+    "rewardID": 8514
+  },
+  {
+    "mightID": 4,
+    "threshold": 2500,
+    "rewardID": 8515
+  },
+  {
+    "mightID": 5,
+    "threshold": 4000,
+    "rewardID": 8516
+  },
+  {
+    "mightID": 6,
+    "threshold": 7000,
+    "rewardID": 8517
+  },
+  {
+    "mightID": 7,
+    "threshold": 10000,
+    "rewardID": 8518
+  },
+  {
+    "mightID": 8,
+    "threshold": 15000,
+    "rewardID": 8519
+  },
+  {
+    "mightID": 9,
+    "threshold": 20000,
+    "rewardID": 8520
+  },
+  {
+    "mightID": 10,
+    "threshold": 25000,
+    "rewardID": 8521
+  },
+  {
+    "mightID": 11,
+    "threshold": 30000,
+    "rewardID": 8522
+  },
+  {
+    "mightID": 12,
+    "threshold": 35000,
+    "rewardID": 8523
+  },
+  {
+    "mightID": 13,
+    "threshold": 40000,
+    "rewardID": 8524
+  },
+  {
+    "mightID": 14,
+    "threshold": 45000,
+    "rewardID": 8525
+  },
+  {
+    "mightID": 15,
+    "threshold": 50000,
+    "rewardID": 8526
+  },
+  {
+    "mightID": 16,
+    "threshold": 75000,
+    "rewardID": 8527
+  },
+  {
+    "mightID": 17,
+    "threshold": 100000,
+    "rewardID": 8528
+  },
+  {
+    "mightID": 18,
+    "threshold": 150000,
+    "rewardID": 8529
+  },
+  {
+    "mightID": 19,
+    "threshold": 200000,
+    "rewardID": 8530
+  },
+  {
+    "mightID": 20,
+    "threshold": 300000,
+    "rewardID": 8531
+  },
+  {
+    "mightID": 21,
+    "threshold": 500000,
+    "rewardID": 8532
+  },
+  {
+    "mightID": 22,
+    "threshold": 750000,
+    "rewardID": 8533
+  },
+  {
+    "mightID": 23,
+    "threshold": 1000000,
+    "rewardID": 8534
+  },
+  {
+    "mightID": 24,
+    "threshold": 1500000,
+    "rewardID": 8535
+  },
+  {
+    "mightID": 25,
+    "threshold": 2000000,
+    "rewardID": 8536
+  },
+  {
+    "mightID": 26,
+    "threshold": 3500000,
+    "rewardID": 8537
+  },
+  {
+    "mightID": 27,
+    "threshold": 5000000,
+    "rewardID": 8538
+  },
+  {
+    "mightID": 28,
+    "threshold": 7500000,
+    "rewardID": 8539
+  },
+  {
+    "mightID": 29,
+    "threshold": 10000000,
+    "rewardID": 8540
+  },
+  {
+    "mightID": 30,
+    "threshold": 12500000,
+    "rewardID": 8541
+  },
+  {
+    "mightID": 31,
+    "threshold": 15000000,
+    "rewardID": 8542
+  },
+  {
+    "mightID": 32,
+    "threshold": 17500000,
+    "rewardID": 8543
+  },
+  {
+    "mightID": 33,
+    "threshold": 20000000,
+    "rewardID": 8544
+  }
+]

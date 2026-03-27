@@ -1,334 +1,332 @@
-{
-  "LuckyWheelDropChance": [
-    {
-      "luckyWheelDropID": 1,
-      "rewardIDs": 1290,
-      "NormalDrop": 400,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 2,
-      "rewardIDs": 1291,
-      "NormalDrop": 300,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 3,
-      "rewardIDs": 1292,
-      "NormalDrop": 200,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 4,
-      "rewardIDs": 1293,
-      "NormalDrop": 101,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 5,
-      "rewardIDs": 1294,
-      "NormalDrop": 101,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 6,
-      "rewardIDs": 1295,
-      "NormalDrop": 400,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 7,
-      "rewardIDs": 1296,
-      "NormalDrop": 1250,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 8,
-      "rewardIDs": 1297,
-      "NormalDrop": 1250,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 9,
-      "rewardIDs": 1298,
-      "NormalDrop": 300,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 10,
-      "rewardIDs": 1299,
-      "NormalDrop": 200,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 11,
-      "rewardIDs": 1300,
-      "NormalDrop": 156,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 12,
-      "rewardIDs": 1301,
-      "NormalDrop": 156,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 13,
-      "rewardIDs": 1302,
-      "NormalDrop": 156,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 14,
-      "rewardIDs": 1303,
-      "NormalDrop": 156,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 15,
-      "rewardIDs": 1304,
-      "NormalDrop": 156,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 16,
-      "rewardIDs": 1305,
-      "NormalDrop": 156,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 17,
-      "rewardIDs": 1306,
-      "NormalDrop": 156,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 18,
-      "rewardIDs": 1307,
-      "NormalDrop": 156,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 19,
-      "rewardIDs": 1308,
-      "NormalDrop": 625,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 20,
-      "rewardIDs": 1309,
-      "NormalDrop": 310,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 21,
-      "rewardIDs": 1310,
-      "NormalDrop": 250,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 22,
-      "rewardIDs": 1311,
-      "NormalDrop": 65,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 23,
-      "rewardIDs": 1312,
-      "NormalDrop": 750,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 24,
-      "rewardIDs": 1313,
-      "NormalDrop": 375,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 25,
-      "rewardIDs": 1314,
-      "NormalDrop": 125,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 26,
-      "rewardIDs": 1315,
-      "NormalDrop": 300,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 27,
-      "rewardIDs": 1316,
-      "NormalDrop": 200,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 28,
-      "isJackpot": 1,
-      "NormalDrop": 1250,
-      "HardDrop": 0
-    },
-    {
-      "luckyWheelDropID": 29,
-      "rewardIDs": 1317,
-      "NormalDrop": 0,
-      "HardDrop": 500
-    },
-    {
-      "luckyWheelDropID": 30,
-      "rewardIDs": 1318,
-      "NormalDrop": 0,
-      "HardDrop": 400
-    },
-    {
-      "luckyWheelDropID": 31,
-      "rewardIDs": 1319,
-      "NormalDrop": 0,
-      "HardDrop": 300
-    },
-    {
-      "luckyWheelDropID": 32,
-      "rewardIDs": 1320,
-      "NormalDrop": 0,
-      "HardDrop": 200
-    },
-    {
-      "luckyWheelDropID": 33,
-      "rewardIDs": 1321,
-      "NormalDrop": 0,
-      "HardDrop": 200
-    },
-    {
-      "luckyWheelDropID": 34,
-      "rewardIDs": 1322,
-      "NormalDrop": 0,
-      "HardDrop": 100
-    },
-    {
-      "luckyWheelDropID": 35,
-      "rewardIDs": 1323,
-      "NormalDrop": 0,
-      "HardDrop": 1250
-    },
-    {
-      "luckyWheelDropID": 36,
-      "rewardIDs": 1324,
-      "NormalDrop": 0,
-      "HardDrop": 1250
-    },
-    {
-      "luckyWheelDropID": 37,
-      "rewardIDs": 1325,
-      "NormalDrop": 0,
-      "HardDrop": 125
-    },
-    {
-      "luckyWheelDropID": 38,
-      "rewardIDs": 1326,
-      "NormalDrop": 0,
-      "HardDrop": 125
-    },
-    {
-      "luckyWheelDropID": 39,
-      "rewardIDs": 1327,
-      "NormalDrop": 0,
-      "HardDrop": 125
-    },
-    {
-      "luckyWheelDropID": 40,
-      "rewardIDs": 1328,
-      "NormalDrop": 0,
-      "HardDrop": 125
-    },
-    {
-      "luckyWheelDropID": 41,
-      "rewardIDs": 1329,
-      "NormalDrop": 0,
-      "HardDrop": 125
-    },
-    {
-      "luckyWheelDropID": 42,
-      "rewardIDs": 1330,
-      "NormalDrop": 0,
-      "HardDrop": 125
-    },
-    {
-      "luckyWheelDropID": 43,
-      "rewardIDs": 1331,
-      "NormalDrop": 0,
-      "HardDrop": 125
-    },
-    {
-      "luckyWheelDropID": 44,
-      "rewardIDs": 1332,
-      "NormalDrop": 0,
-      "HardDrop": 125
-    },
-    {
-      "luckyWheelDropID": 45,
-      "rewardIDs": 1333,
-      "NormalDrop": 0,
-      "HardDrop": 125
-    },
-    {
-      "luckyWheelDropID": 46,
-      "rewardIDs": 1334,
-      "NormalDrop": 0,
-      "HardDrop": 125
-    },
-    {
-      "luckyWheelDropID": 47,
-      "rewardIDs": 1335,
-      "NormalDrop": 0,
-      "HardDrop": 625
-    },
-    {
-      "luckyWheelDropID": 48,
-      "rewardIDs": 1336,
-      "NormalDrop": 0,
-      "HardDrop": 375
-    },
-    {
-      "luckyWheelDropID": 49,
-      "rewardIDs": 1337,
-      "NormalDrop": 0,
-      "HardDrop": 190
-    },
-    {
-      "luckyWheelDropID": 50,
-      "rewardIDs": 1338,
-      "NormalDrop": 0,
-      "HardDrop": 60
-    },
-    {
-      "luckyWheelDropID": 51,
-      "rewardIDs": 1339,
-      "NormalDrop": 0,
-      "HardDrop": 750
-    },
-    {
-      "luckyWheelDropID": 52,
-      "rewardIDs": 1340,
-      "NormalDrop": 0,
-      "HardDrop": 375
-    },
-    {
-      "luckyWheelDropID": 53,
-      "rewardIDs": 1341,
-      "NormalDrop": 0,
-      "HardDrop": 125
-    },
-    {
-      "luckyWheelDropID": 54,
-      "rewardIDs": 1342,
-      "NormalDrop": 0,
-      "HardDrop": 800
-    },
-    {
-      "luckyWheelDropID": 55,
-      "isJackpot": 1,
-      "NormalDrop": 0,
-      "HardDrop": 1250
-    }
-  ]
-}
+[
+  {
+    "luckyWheelDropID": 1,
+    "rewardIDs": 1290,
+    "NormalDrop": 400,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 2,
+    "rewardIDs": 1291,
+    "NormalDrop": 300,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 3,
+    "rewardIDs": 1292,
+    "NormalDrop": 200,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 4,
+    "rewardIDs": 1293,
+    "NormalDrop": 101,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 5,
+    "rewardIDs": 1294,
+    "NormalDrop": 101,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 6,
+    "rewardIDs": 1295,
+    "NormalDrop": 400,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 7,
+    "rewardIDs": 1296,
+    "NormalDrop": 1250,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 8,
+    "rewardIDs": 1297,
+    "NormalDrop": 1250,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 9,
+    "rewardIDs": 1298,
+    "NormalDrop": 300,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 10,
+    "rewardIDs": 1299,
+    "NormalDrop": 200,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 11,
+    "rewardIDs": 1300,
+    "NormalDrop": 156,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 12,
+    "rewardIDs": 1301,
+    "NormalDrop": 156,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 13,
+    "rewardIDs": 1302,
+    "NormalDrop": 156,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 14,
+    "rewardIDs": 1303,
+    "NormalDrop": 156,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 15,
+    "rewardIDs": 1304,
+    "NormalDrop": 156,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 16,
+    "rewardIDs": 1305,
+    "NormalDrop": 156,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 17,
+    "rewardIDs": 1306,
+    "NormalDrop": 156,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 18,
+    "rewardIDs": 1307,
+    "NormalDrop": 156,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 19,
+    "rewardIDs": 1308,
+    "NormalDrop": 625,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 20,
+    "rewardIDs": 1309,
+    "NormalDrop": 310,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 21,
+    "rewardIDs": 1310,
+    "NormalDrop": 250,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 22,
+    "rewardIDs": 1311,
+    "NormalDrop": 65,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 23,
+    "rewardIDs": 1312,
+    "NormalDrop": 750,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 24,
+    "rewardIDs": 1313,
+    "NormalDrop": 375,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 25,
+    "rewardIDs": 1314,
+    "NormalDrop": 125,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 26,
+    "rewardIDs": 1315,
+    "NormalDrop": 300,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 27,
+    "rewardIDs": 1316,
+    "NormalDrop": 200,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 28,
+    "isJackpot": 1,
+    "NormalDrop": 1250,
+    "HardDrop": 0
+  },
+  {
+    "luckyWheelDropID": 29,
+    "rewardIDs": 1317,
+    "NormalDrop": 0,
+    "HardDrop": 500
+  },
+  {
+    "luckyWheelDropID": 30,
+    "rewardIDs": 1318,
+    "NormalDrop": 0,
+    "HardDrop": 400
+  },
+  {
+    "luckyWheelDropID": 31,
+    "rewardIDs": 1319,
+    "NormalDrop": 0,
+    "HardDrop": 300
+  },
+  {
+    "luckyWheelDropID": 32,
+    "rewardIDs": 1320,
+    "NormalDrop": 0,
+    "HardDrop": 200
+  },
+  {
+    "luckyWheelDropID": 33,
+    "rewardIDs": 1321,
+    "NormalDrop": 0,
+    "HardDrop": 200
+  },
+  {
+    "luckyWheelDropID": 34,
+    "rewardIDs": 1322,
+    "NormalDrop": 0,
+    "HardDrop": 100
+  },
+  {
+    "luckyWheelDropID": 35,
+    "rewardIDs": 1323,
+    "NormalDrop": 0,
+    "HardDrop": 1250
+  },
+  {
+    "luckyWheelDropID": 36,
+    "rewardIDs": 1324,
+    "NormalDrop": 0,
+    "HardDrop": 1250
+  },
+  {
+    "luckyWheelDropID": 37,
+    "rewardIDs": 1325,
+    "NormalDrop": 0,
+    "HardDrop": 125
+  },
+  {
+    "luckyWheelDropID": 38,
+    "rewardIDs": 1326,
+    "NormalDrop": 0,
+    "HardDrop": 125
+  },
+  {
+    "luckyWheelDropID": 39,
+    "rewardIDs": 1327,
+    "NormalDrop": 0,
+    "HardDrop": 125
+  },
+  {
+    "luckyWheelDropID": 40,
+    "rewardIDs": 1328,
+    "NormalDrop": 0,
+    "HardDrop": 125
+  },
+  {
+    "luckyWheelDropID": 41,
+    "rewardIDs": 1329,
+    "NormalDrop": 0,
+    "HardDrop": 125
+  },
+  {
+    "luckyWheelDropID": 42,
+    "rewardIDs": 1330,
+    "NormalDrop": 0,
+    "HardDrop": 125
+  },
+  {
+    "luckyWheelDropID": 43,
+    "rewardIDs": 1331,
+    "NormalDrop": 0,
+    "HardDrop": 125
+  },
+  {
+    "luckyWheelDropID": 44,
+    "rewardIDs": 1332,
+    "NormalDrop": 0,
+    "HardDrop": 125
+  },
+  {
+    "luckyWheelDropID": 45,
+    "rewardIDs": 1333,
+    "NormalDrop": 0,
+    "HardDrop": 125
+  },
+  {
+    "luckyWheelDropID": 46,
+    "rewardIDs": 1334,
+    "NormalDrop": 0,
+    "HardDrop": 125
+  },
+  {
+    "luckyWheelDropID": 47,
+    "rewardIDs": 1335,
+    "NormalDrop": 0,
+    "HardDrop": 625
+  },
+  {
+    "luckyWheelDropID": 48,
+    "rewardIDs": 1336,
+    "NormalDrop": 0,
+    "HardDrop": 375
+  },
+  {
+    "luckyWheelDropID": 49,
+    "rewardIDs": 1337,
+    "NormalDrop": 0,
+    "HardDrop": 190
+  },
+  {
+    "luckyWheelDropID": 50,
+    "rewardIDs": 1338,
+    "NormalDrop": 0,
+    "HardDrop": 60
+  },
+  {
+    "luckyWheelDropID": 51,
+    "rewardIDs": 1339,
+    "NormalDrop": 0,
+    "HardDrop": 750
+  },
+  {
+    "luckyWheelDropID": 52,
+    "rewardIDs": 1340,
+    "NormalDrop": 0,
+    "HardDrop": 375
+  },
+  {
+    "luckyWheelDropID": 53,
+    "rewardIDs": 1341,
+    "NormalDrop": 0,
+    "HardDrop": 125
+  },
+  {
+    "luckyWheelDropID": 54,
+    "rewardIDs": 1342,
+    "NormalDrop": 0,
+    "HardDrop": 800
+  },
+  {
+    "luckyWheelDropID": 55,
+    "isJackpot": 1,
+    "NormalDrop": 0,
+    "HardDrop": 1250
+  }
+]

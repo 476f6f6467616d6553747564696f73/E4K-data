@@ -1,48 +1,46 @@
-{
-  "craftingQueue": [
-    {
-      "craftingQueueId": 1,
-      "crossplayID": 1,
-      "queueTypeId": 1,
-      "permanentProductionSlots": 1,
-      "productionSlotUnlockCostC1": 5000000,
-      "productionSlotUnlockDuration": 604800,
-      "permanentQueueSlots": 1,
-      "queueSlotUnlockCostC1": "500000,3000000,7000000",
-      "queueSlotUnlockDuration": 604800
-    },
-    {
-      "craftingQueueId": 2,
-      "crossplayID": 2,
-      "queueTypeId": 2,
-      "permanentProductionSlots": 1,
-      "productionSlotUnlockCostC1": 5000000,
-      "productionSlotUnlockDuration": 604800,
-      "permanentQueueSlots": 1,
-      "queueSlotUnlockCostC1": "500000,3000000,7000000",
-      "queueSlotUnlockDuration": 604800
-    },
-    {
-      "craftingQueueId": 3,
-      "crossplayID": 3,
-      "queueTypeId": 3,
-      "permanentProductionSlots": 1,
-      "productionSlotUnlockCostC1": 5000000,
-      "productionSlotUnlockDuration": 604800,
-      "permanentQueueSlots": 1,
-      "queueSlotUnlockCostC1": "500000,3000000,7000000",
-      "queueSlotUnlockDuration": 604800
-    },
-    {
-      "craftingQueueId": 4,
-      "crossplayID": 4,
-      "queueTypeId": 4,
-      "permanentProductionSlots": 1,
-      "productionSlotUnlockCostC1": 5000000,
-      "productionSlotUnlockDuration": 604800,
-      "permanentQueueSlots": 1,
-      "queueSlotUnlockCostC1": "500000,3000000,7000000",
-      "queueSlotUnlockDuration": 604800
-    }
-  ]
-}
+[
+  {
+    "craftingQueueId": 1,
+    "crossplayID": 1,
+    "queueTypeId": 1,
+    "permanentProductionSlots": 1,
+    "productionSlotUnlockCostC1": 5000000,
+    "productionSlotUnlockDuration": 604800,
+    "permanentQueueSlots": 1,
+    "queueSlotUnlockCostC1": "500000,3000000,7000000",
+    "queueSlotUnlockDuration": 604800
+  },
+  {
+    "craftingQueueId": 2,
+    "crossplayID": 2,
+    "queueTypeId": 2,
+    "permanentProductionSlots": 1,
+    "productionSlotUnlockCostC1": 5000000,
+    "productionSlotUnlockDuration": 604800,
+    "permanentQueueSlots": 1,
+    "queueSlotUnlockCostC1": "500000,3000000,7000000",
+    "queueSlotUnlockDuration": 604800
+  },
+  {
+    "craftingQueueId": 3,
+    "crossplayID": 3,
+    "queueTypeId": 3,
+    "permanentProductionSlots": 1,
+    "productionSlotUnlockCostC1": 5000000,
+    "productionSlotUnlockDuration": 604800,
+    "permanentQueueSlots": 1,
+    "queueSlotUnlockCostC1": "500000,3000000,7000000",
+    "queueSlotUnlockDuration": 604800
+  },
+  {
+    "craftingQueueId": 4,
+    "crossplayID": 4,
+    "queueTypeId": 4,
+    "permanentProductionSlots": 1,
+    "productionSlotUnlockCostC1": 5000000,
+    "productionSlotUnlockDuration": 604800,
+    "permanentQueueSlots": 1,
+    "queueSlotUnlockCostC1": "500000,3000000,7000000",
+    "queueSlotUnlockDuration": 604800
+  }
+]

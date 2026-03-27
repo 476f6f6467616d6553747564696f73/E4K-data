@@ -1,44 +1,42 @@
-{
-  "allianceTowerEffect": [
-    {
-      "allianceTowerEffectID": 1,
-      "effectID": 168,
-      "effectBasePrice": 100,
-      "effectMaxLevel": 60,
-      "effectStartValue": 1,
-      "effectIncrease": 2
-    },
-    {
-      "allianceTowerEffectID": 2,
-      "effectID": 169,
-      "effectBasePrice": 100,
-      "effectMaxLevel": 60,
-      "effectStartValue": 1,
-      "effectIncrease": 2
-    },
-    {
-      "allianceTowerEffectID": 3,
-      "effectID": 170,
-      "effectBasePrice": 100,
-      "effectMaxLevel": 60,
-      "effectStartValue": 1,
-      "effectIncrease": 2
-    },
-    {
-      "allianceTowerEffectID": 4,
-      "effectID": 171,
-      "effectBasePrice": 100,
-      "effectMaxLevel": 60,
-      "effectStartValue": 1,
-      "effectIncrease": 2
-    },
-    {
-      "allianceTowerEffectID": 5,
-      "effectID": 172,
-      "effectBasePrice": 100,
-      "effectMaxLevel": 60,
-      "effectStartValue": 1,
-      "effectIncrease": 2
-    }
-  ]
-}
+[
+  {
+    "allianceTowerEffectID": 1,
+    "effectID": 168,
+    "effectBasePrice": 100,
+    "effectMaxLevel": 60,
+    "effectStartValue": 1,
+    "effectIncrease": 2
+  },
+  {
+    "allianceTowerEffectID": 2,
+    "effectID": 169,
+    "effectBasePrice": 100,
+    "effectMaxLevel": 60,
+    "effectStartValue": 1,
+    "effectIncrease": 2
+  },
+  {
+    "allianceTowerEffectID": 3,
+    "effectID": 170,
+    "effectBasePrice": 100,
+    "effectMaxLevel": 60,
+    "effectStartValue": 1,
+    "effectIncrease": 2
+  },
+  {
+    "allianceTowerEffectID": 4,
+    "effectID": 171,
+    "effectBasePrice": 100,
+    "effectMaxLevel": 60,
+    "effectStartValue": 1,
+    "effectIncrease": 2
+  },
+  {
+    "allianceTowerEffectID": 5,
+    "effectID": 172,
+    "effectBasePrice": 100,
+    "effectMaxLevel": 60,
+    "effectStartValue": 1,
+    "effectIncrease": 2
+  }
+]

@@ -1,80 +1,78 @@
-{
-  "activityreward": [
-    {
-      "activityRewardID": 1,
-      "crossplayID": 1,
-      "nextActivityRewardID": 2,
-      "rewardID": 21,
-      "waitingTime": 45
-    },
-    {
-      "activityRewardID": 2,
-      "crossplayID": 2,
-      "nextActivityRewardID": 3,
-      "rewardID": 22,
-      "waitingTime": 120
-    },
-    {
-      "activityRewardID": 3,
-      "crossplayID": 3,
-      "nextActivityRewardID": 4,
-      "rewardID": 23,
-      "waitingTime": 300
-    },
-    {
-      "activityRewardID": 4,
-      "crossplayID": 4,
-      "nextActivityRewardID": 5,
-      "rewardID": 24,
-      "waitingTime": 900
-    },
-    {
-      "activityRewardID": 5,
-      "crossplayID": 5,
-      "nextActivityRewardID": 6,
-      "rewardID": 25,
-      "waitingTime": 2700
-    },
-    {
-      "activityRewardID": 6,
-      "crossplayID": 6,
-      "nextActivityRewardID": 7,
-      "rewardID": 26,
-      "waitingTime": 3600
-    },
-    {
-      "activityRewardID": 7,
-      "crossplayID": 7,
-      "nextActivityRewardID": 8,
-      "rewardID": 27,
-      "waitingTime": 7200
-    },
-    {
-      "activityRewardID": 8,
-      "crossplayID": 8,
-      "nextActivityRewardID": 9,
-      "rewardID": 28,
-      "waitingTime": 10800
-    },
-    {
-      "activityRewardID": 9,
-      "crossplayID": 9,
-      "nextActivityRewardID": 10,
-      "rewardID": 29,
-      "waitingTime": 14400
-    },
-    {
-      "activityRewardID": 10,
-      "crossplayID": 10,
-      "nextActivityRewardID": 11,
-      "rewardID": 30,
-      "waitingTime": 18000
-    },
-    {
-      "activityRewardID": 11,
-      "crossplayID": 11,
-      "rewardID": 31,
-      "waitingTime": 21600
-    }
-  ]
-}
+[
+  {
+    "activityRewardID": 1,
+    "crossplayID": 1,
+    "nextActivityRewardID": 2,
+    "rewardID": 21,
+    "waitingTime": 45
+  },
+  {
+    "activityRewardID": 2,
+    "crossplayID": 2,
+    "nextActivityRewardID": 3,
+    "rewardID": 22,
+    "waitingTime": 120
+  },
+  {
+    "activityRewardID": 3,
+    "crossplayID": 3,
+    "nextActivityRewardID": 4,
+    "rewardID": 23,
+    "waitingTime": 300
+  },
+  {
+    "activityRewardID": 4,
+    "crossplayID": 4,
+    "nextActivityRewardID": 5,
+    "rewardID": 24,
+    "waitingTime": 900
+  },
+  {
+    "activityRewardID": 5,
+    "crossplayID": 5,
+    "nextActivityRewardID": 6,
+    "rewardID": 25,
+    "waitingTime": 2700
+  },
+  {
+    "activityRewardID": 6,
+    "crossplayID": 6,
+    "nextActivityRewardID": 7,
+    "rewardID": 26,
+    "waitingTime": 3600
+  },
+  {
+    "activityRewardID": 7,
+    "crossplayID": 7,
+    "nextActivityRewardID": 8,
+    "rewardID": 27,
+    "waitingTime": 7200
+  },
+  {
+    "activityRewardID": 8,
+    "crossplayID": 8,
+    "nextActivityRewardID": 9,
+    "rewardID": 28,
+    "waitingTime": 10800
+  },
+  {
+    "activityRewardID": 9,
+    "crossplayID": 9,
+    "nextActivityRewardID": 10,
+    "rewardID": 29,
+    "waitingTime": 14400
+  },
+  {
+    "activityRewardID": 10,
+    "crossplayID": 10,
+    "nextActivityRewardID": 11,
+    "rewardID": 30,
+    "waitingTime": 18000
+  },
+  {
+    "activityRewardID": 11,
+    "crossplayID": 11,
+    "rewardID": 31,
+    "waitingTime": 21600
+  }
+]

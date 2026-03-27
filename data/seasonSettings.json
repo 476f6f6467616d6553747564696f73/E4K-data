@@ -1,9 +1,9 @@
-{
-  "seasonSetting": {
+[
+  {
     "settingID": 1,
     "seasonPassPromotionPrice": 809,
     "seasonPassEventEndPrice": 1620,
     "seasonPassFullDiscount": 25,
     "seasonPassSingleDiscount": 10
   }
-}
+]

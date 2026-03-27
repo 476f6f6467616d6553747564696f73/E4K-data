@@ -1,288 +1,286 @@
-{
-  "daimyoCastleAllianceContract": [
-    {
-      "id": 1,
-      "rank": 1,
-      "enableOnStart": 1,
-      "nextContract": 2,
-      "shogunPoints": 1000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 2,
-      "rank": 1,
-      "nextContract": 3,
-      "shogunPoints": 2000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 3,
-      "rank": 1,
-      "nextContract": 4,
-      "shogunPoints": 3000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 4,
-      "rank": 1,
-      "nextContract": 5,
-      "shogunPoints": 4000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 5,
-      "rank": 1,
-      "nextContract": 6,
-      "shogunPoints": 5000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 6,
-      "rank": 1,
-      "nextContract": 7,
-      "shogunPoints": 6000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 7,
-      "rank": 1,
-      "nextContract": 8,
-      "shogunPoints": 7000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 8,
-      "rank": 1,
-      "nextContract": 9,
-      "shogunPoints": 8000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 9,
-      "rank": 1,
-      "nextContract": 10,
-      "shogunPoints": 9000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 10,
-      "rank": 1,
-      "nextContract": 10,
-      "shogunPoints": 10000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 11,
-      "rank": 2,
-      "enableOnStart": 1,
-      "nextContract": 12,
-      "shogunPoints": 1000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 12,
-      "rank": 2,
-      "nextContract": 13,
-      "shogunPoints": 2000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 13,
-      "rank": 2,
-      "nextContract": 14,
-      "shogunPoints": 3000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 14,
-      "rank": 2,
-      "nextContract": 15,
-      "shogunPoints": 4000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 15,
-      "rank": 2,
-      "nextContract": 16,
-      "shogunPoints": 5000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 16,
-      "rank": 2,
-      "nextContract": 17,
-      "shogunPoints": 6000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 17,
-      "rank": 2,
-      "nextContract": 18,
-      "shogunPoints": 7000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 18,
-      "rank": 2,
-      "nextContract": 19,
-      "shogunPoints": 8000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 19,
-      "rank": 2,
-      "nextContract": 20,
-      "shogunPoints": 9000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 20,
-      "rank": 2,
-      "nextContract": 20,
-      "shogunPoints": 10000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 21,
-      "rank": 3,
-      "enableOnStart": 1,
-      "nextContract": 22,
-      "shogunPoints": 1000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 22,
-      "rank": 3,
-      "nextContract": 23,
-      "shogunPoints": 2000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 23,
-      "rank": 3,
-      "nextContract": 24,
-      "shogunPoints": 3000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 24,
-      "rank": 3,
-      "nextContract": 25,
-      "shogunPoints": 4000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 25,
-      "rank": 3,
-      "nextContract": 26,
-      "shogunPoints": 5000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 26,
-      "rank": 3,
-      "nextContract": 27,
-      "shogunPoints": 6000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 27,
-      "rank": 3,
-      "nextContract": 28,
-      "shogunPoints": 7000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 28,
-      "rank": 3,
-      "nextContract": 29,
-      "shogunPoints": 8000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 29,
-      "rank": 3,
-      "nextContract": 30,
-      "shogunPoints": 9000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 30,
-      "rank": 3,
-      "nextContract": 30,
-      "shogunPoints": 10000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 31,
-      "rank": 4,
-      "enableOnStart": 1,
-      "nextContract": 32,
-      "shogunPoints": 1000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 32,
-      "rank": 4,
-      "nextContract": 33,
-      "shogunPoints": 2000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 33,
-      "rank": 4,
-      "nextContract": 34,
-      "shogunPoints": 3000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 34,
-      "rank": 4,
-      "nextContract": 35,
-      "shogunPoints": 4000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 35,
-      "rank": 4,
-      "nextContract": 36,
-      "shogunPoints": 5000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 36,
-      "rank": 4,
-      "nextContract": 37,
-      "shogunPoints": 6000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 37,
-      "rank": 4,
-      "nextContract": 38,
-      "shogunPoints": 7000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 38,
-      "rank": 4,
-      "nextContract": 39,
-      "shogunPoints": 8000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 39,
-      "rank": 4,
-      "nextContract": 40,
-      "shogunPoints": 9000,
-      "warEffortPoints": 1
-    },
-    {
-      "id": 40,
-      "rank": 4,
-      "nextContract": 40,
-      "shogunPoints": 10000,
-      "warEffortPoints": 1
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "rank": 1,
+    "enableOnStart": 1,
+    "nextContract": 2,
+    "shogunPoints": 1000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 2,
+    "rank": 1,
+    "nextContract": 3,
+    "shogunPoints": 2000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 3,
+    "rank": 1,
+    "nextContract": 4,
+    "shogunPoints": 3000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 4,
+    "rank": 1,
+    "nextContract": 5,
+    "shogunPoints": 4000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 5,
+    "rank": 1,
+    "nextContract": 6,
+    "shogunPoints": 5000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 6,
+    "rank": 1,
+    "nextContract": 7,
+    "shogunPoints": 6000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 7,
+    "rank": 1,
+    "nextContract": 8,
+    "shogunPoints": 7000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 8,
+    "rank": 1,
+    "nextContract": 9,
+    "shogunPoints": 8000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 9,
+    "rank": 1,
+    "nextContract": 10,
+    "shogunPoints": 9000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 10,
+    "rank": 1,
+    "nextContract": 10,
+    "shogunPoints": 10000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 11,
+    "rank": 2,
+    "enableOnStart": 1,
+    "nextContract": 12,
+    "shogunPoints": 1000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 12,
+    "rank": 2,
+    "nextContract": 13,
+    "shogunPoints": 2000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 13,
+    "rank": 2,
+    "nextContract": 14,
+    "shogunPoints": 3000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 14,
+    "rank": 2,
+    "nextContract": 15,
+    "shogunPoints": 4000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 15,
+    "rank": 2,
+    "nextContract": 16,
+    "shogunPoints": 5000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 16,
+    "rank": 2,
+    "nextContract": 17,
+    "shogunPoints": 6000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 17,
+    "rank": 2,
+    "nextContract": 18,
+    "shogunPoints": 7000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 18,
+    "rank": 2,
+    "nextContract": 19,
+    "shogunPoints": 8000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 19,
+    "rank": 2,
+    "nextContract": 20,
+    "shogunPoints": 9000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 20,
+    "rank": 2,
+    "nextContract": 20,
+    "shogunPoints": 10000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 21,
+    "rank": 3,
+    "enableOnStart": 1,
+    "nextContract": 22,
+    "shogunPoints": 1000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 22,
+    "rank": 3,
+    "nextContract": 23,
+    "shogunPoints": 2000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 23,
+    "rank": 3,
+    "nextContract": 24,
+    "shogunPoints": 3000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 24,
+    "rank": 3,
+    "nextContract": 25,
+    "shogunPoints": 4000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 25,
+    "rank": 3,
+    "nextContract": 26,
+    "shogunPoints": 5000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 26,
+    "rank": 3,
+    "nextContract": 27,
+    "shogunPoints": 6000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 27,
+    "rank": 3,
+    "nextContract": 28,
+    "shogunPoints": 7000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 28,
+    "rank": 3,
+    "nextContract": 29,
+    "shogunPoints": 8000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 29,
+    "rank": 3,
+    "nextContract": 30,
+    "shogunPoints": 9000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 30,
+    "rank": 3,
+    "nextContract": 30,
+    "shogunPoints": 10000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 31,
+    "rank": 4,
+    "enableOnStart": 1,
+    "nextContract": 32,
+    "shogunPoints": 1000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 32,
+    "rank": 4,
+    "nextContract": 33,
+    "shogunPoints": 2000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 33,
+    "rank": 4,
+    "nextContract": 34,
+    "shogunPoints": 3000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 34,
+    "rank": 4,
+    "nextContract": 35,
+    "shogunPoints": 4000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 35,
+    "rank": 4,
+    "nextContract": 36,
+    "shogunPoints": 5000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 36,
+    "rank": 4,
+    "nextContract": 37,
+    "shogunPoints": 6000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 37,
+    "rank": 4,
+    "nextContract": 38,
+    "shogunPoints": 7000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 38,
+    "rank": 4,
+    "nextContract": 39,
+    "shogunPoints": 8000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 39,
+    "rank": 4,
+    "nextContract": 40,
+    "shogunPoints": 9000,
+    "warEffortPoints": 1
+  },
+  {
+    "id": 40,
+    "rank": 4,
+    "nextContract": 40,
+    "shogunPoints": 10000,
+    "warEffortPoints": 1
+  }
+]

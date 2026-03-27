@@ -1,176 +1,174 @@
-{
-  "sceatSkillTier": [
-    {
-      "tierID": 1,
-      "crossplayID": 1,
-      "skillTreeID": 3,
-      "tier": 1
-    },
-    {
-      "tierID": 2,
-      "crossplayID": 2,
-      "skillTreeID": 3,
-      "tier": 2,
-      "requiredBuildings": 1940
-    },
-    {
-      "tierID": 3,
-      "crossplayID": 3,
-      "skillTreeID": 3,
-      "tier": 3,
-      "requiredBuildings": "1941,1942,1957"
-    },
-    {
-      "tierID": 4,
-      "crossplayID": 4,
-      "skillTreeID": 3,
-      "tier": 4,
-      "requiredBuildings": 1938
-    },
-    {
-      "tierID": 6,
-      "crossplayID": 6,
-      "skillTreeID": 3,
-      "tier": 5,
-      "requiredBuildings": "1984,1985,1986"
-    },
-    {
-      "tierID": 5,
-      "crossplayID": 5,
-      "skillTreeID": 4,
-      "tier": 1,
-      "requiredBuildings": "1957,1938"
-    },
-    {
-      "tierID": 8,
-      "crossplayID": 8,
-      "skillTreeID": 5,
-      "tier": 1
-    },
-    {
-      "tierID": 9,
-      "crossplayID": 9,
-      "skillTreeID": 5,
-      "tier": 2,
-      "requiredBuildings": 252
-    },
-    {
-      "tierID": 10,
-      "crossplayID": 10,
-      "skillTreeID": 5,
-      "tier": 3,
-      "requiredBuildings": 254,
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 11,
-      "crossplayID": 11,
-      "skillTreeID": 5,
-      "tier": 4,
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 12,
-      "crossplayID": 12,
-      "skillTreeID": 5,
-      "tier": 5,
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 13,
-      "crossplayID": 13,
-      "skillTreeID": 6,
-      "tier": 1,
-      "requiredBuildings": "252,256,257",
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 14,
-      "crossplayID": 14,
-      "skillTreeID": 6,
-      "tier": 2,
-      "requiredBuildings": "252,256,257",
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 15,
-      "crossplayID": 15,
-      "skillTreeID": 6,
-      "tier": 3,
-      "requiredBuildings": "252,256,257",
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 16,
-      "crossplayID": 16,
-      "skillTreeID": 6,
-      "tier": 4,
-      "requiredBuildings": "252,256,257",
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 17,
-      "crossplayID": 17,
-      "skillTreeID": 6,
-      "tier": 5,
-      "requiredBuildings": "252,256,257",
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 18,
-      "crossplayID": 18,
-      "skillTreeID": 7,
-      "tier": 1,
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 19,
-      "crossplayID": 19,
-      "skillTreeID": 7,
-      "tier": 2,
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 20,
-      "crossplayID": 20,
-      "skillTreeID": 7,
-      "tier": 3,
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 21,
-      "crossplayID": 21,
-      "skillTreeID": 7,
-      "tier": 4,
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 22,
-      "crossplayID": 22,
-      "skillTreeID": 7,
-      "tier": 5,
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 25,
-      "crossplayID": 25,
-      "skillTreeID": 7,
-      "tier": 6,
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 23,
-      "crossplayID": 23,
-      "skillTreeID": 8,
-      "tier": 1,
-      "requirePreviousTierUnlocked": 0
-    },
-    {
-      "tierID": 24,
-      "crossplayID": 24,
-      "skillTreeID": 8,
-      "tier": 2,
-      "requirePreviousTierUnlocked": 0
-    }
-  ]
-}
+[
+  {
+    "tierID": 1,
+    "crossplayID": 1,
+    "skillTreeID": 3,
+    "tier": 1
+  },
+  {
+    "tierID": 2,
+    "crossplayID": 2,
+    "skillTreeID": 3,
+    "tier": 2,
+    "requiredBuildings": 1940
+  },
+  {
+    "tierID": 3,
+    "crossplayID": 3,
+    "skillTreeID": 3,
+    "tier": 3,
+    "requiredBuildings": "1941,1942,1957"
+  },
+  {
+    "tierID": 4,
+    "crossplayID": 4,
+    "skillTreeID": 3,
+    "tier": 4,
+    "requiredBuildings": 1938
+  },
+  {
+    "tierID": 6,
+    "crossplayID": 6,
+    "skillTreeID": 3,
+    "tier": 5,
+    "requiredBuildings": "1984,1985,1986"
+  },
+  {
+    "tierID": 5,
+    "crossplayID": 5,
+    "skillTreeID": 4,
+    "tier": 1,
+    "requiredBuildings": "1957,1938"
+  },
+  {
+    "tierID": 8,
+    "crossplayID": 8,
+    "skillTreeID": 5,
+    "tier": 1
+  },
+  {
+    "tierID": 9,
+    "crossplayID": 9,
+    "skillTreeID": 5,
+    "tier": 2,
+    "requiredBuildings": 252
+  },
+  {
+    "tierID": 10,
+    "crossplayID": 10,
+    "skillTreeID": 5,
+    "tier": 3,
+    "requiredBuildings": 254,
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 11,
+    "crossplayID": 11,
+    "skillTreeID": 5,
+    "tier": 4,
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 12,
+    "crossplayID": 12,
+    "skillTreeID": 5,
+    "tier": 5,
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 13,
+    "crossplayID": 13,
+    "skillTreeID": 6,
+    "tier": 1,
+    "requiredBuildings": "252,256,257",
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 14,
+    "crossplayID": 14,
+    "skillTreeID": 6,
+    "tier": 2,
+    "requiredBuildings": "252,256,257",
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 15,
+    "crossplayID": 15,
+    "skillTreeID": 6,
+    "tier": 3,
+    "requiredBuildings": "252,256,257",
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 16,
+    "crossplayID": 16,
+    "skillTreeID": 6,
+    "tier": 4,
+    "requiredBuildings": "252,256,257",
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 17,
+    "crossplayID": 17,
+    "skillTreeID": 6,
+    "tier": 5,
+    "requiredBuildings": "252,256,257",
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 18,
+    "crossplayID": 18,
+    "skillTreeID": 7,
+    "tier": 1,
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 19,
+    "crossplayID": 19,
+    "skillTreeID": 7,
+    "tier": 2,
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 20,
+    "crossplayID": 20,
+    "skillTreeID": 7,
+    "tier": 3,
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 21,
+    "crossplayID": 21,
+    "skillTreeID": 7,
+    "tier": 4,
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 22,
+    "crossplayID": 22,
+    "skillTreeID": 7,
+    "tier": 5,
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 25,
+    "crossplayID": 25,
+    "skillTreeID": 7,
+    "tier": 6,
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 23,
+    "crossplayID": 23,
+    "skillTreeID": 8,
+    "tier": 1,
+    "requirePreviousTierUnlocked": 0
+  },
+  {
+    "tierID": 24,
+    "crossplayID": 24,
+    "skillTreeID": 8,
+    "tier": 2,
+    "requirePreviousTierUnlocked": 0
+  }
+]

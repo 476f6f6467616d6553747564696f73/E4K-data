@@ -1,18 +1,16 @@
-{
-  "raidBoss": [
-    {
-      "raidBossID": 1,
-      "rarity": 2,
-      "name": "Necromancer",
-      "leaguetypeID": 1,
-      "lifebarColor": "69F761"
-    },
-    {
-      "raidBossID": 2,
-      "rarity": 1,
-      "name": "FungalSwarm",
-      "leaguetypeID": 1,
-      "lifebarColor": "7DDCF2"
-    }
-  ]
-}
+[
+  {
+    "raidBossID": 1,
+    "rarity": 2,
+    "name": "Necromancer",
+    "leaguetypeID": 1,
+    "lifebarColor": "69F761"
+  },
+  {
+    "raidBossID": 2,
+    "rarity": 1,
+    "name": "FungalSwarm",
+    "leaguetypeID": 1,
+    "lifebarColor": "7DDCF2"
+  }
+]

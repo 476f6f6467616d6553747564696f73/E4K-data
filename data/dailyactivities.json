@@ -1,145 +1,143 @@
-{
-  "dailyactivity": [
-    {
-      "dailyQuestID": 1,
-      "triggerKingdomID": -1,
-      "conditions": "login+1",
-      "isDefaultQuest": 1,
-      "add1MinSkip": 2,
-      "add5MinSkip": 1
-    },
-    {
-      "dailyQuestID": 2,
-      "triggerKingdomID": -1,
-      "conditions": "spendC2+1",
-      "isDefaultQuest": 1,
-      "add10MinSkip": 2,
-      "add30MinSkip": 1
-    },
-    {
-      "dailyQuestID": 3,
-      "triggerKingdomID": -1,
-      "levelCalculated": 1,
-      "conditions": "collectTax+0",
-      "units": "611+3#641+1"
-    },
-    {
-      "dailyQuestID": 4,
-      "triggerKingdomID": -1,
-      "conditions": "resourceToPlayer+1",
-      "add1MinSkip": 2,
-      "add5MinSkip": 1
-    },
-    {
-      "dailyQuestID": 5,
-      "triggerKingdomID": -1,
-      "levelCalculated": 1,
-      "conditions": "spy+0+0|1",
-      "units": "660+2#661+1"
-    },
-    {
-      "dailyQuestID": 6,
-      "triggerKingdomID": -1,
-      "conditions": "sabotageDamage+1",
-      "units": "620+3#635+1"
-    },
-    {
-      "dailyQuestID": 7,
-      "triggerKingdomID": 0,
-      "levelCalculated": 1,
-      "conditions": "countDungeons+1",
-      "isDefaultQuest": 1,
-      "add5MinSkip": 2,
-      "add10MinSkip": 1
-    },
-    {
-      "dailyQuestID": 8,
-      "triggerKingdomID": 2,
-      "conditions": "countDungeons+1",
-      "minLevel": 25,
-      "units": "620+1#635+1"
-    },
-    {
-      "dailyQuestID": 9,
-      "triggerKingdomID": 1,
-      "conditions": "countDungeons+1",
-      "minLevel": 40,
-      "units": "660+3#661+1"
-    },
-    {
-      "dailyQuestID": 10,
-      "triggerKingdomID": 3,
-      "conditions": "countDungeons+1",
-      "minLevel": 50,
-      "units": "620+3#635+1"
-    },
-    {
-      "dailyQuestID": 13,
-      "triggerKingdomID": -1,
-      "conditions": "craftEquipment+1",
-      "add1MinSkip": 3,
-      "add5MinSkip": 1
-    },
-    {
-      "dailyQuestID": 14,
-      "triggerKingdomID": -1,
-      "conditions": "writeInAllianceChat+1",
-      "needsAlliance": 1,
-      "units": "611+3#641+1"
-    },
-    {
-      "dailyQuestID": 15,
-      "triggerKingdomID": -1,
-      "conditions": "collectFromCitizen+10",
-      "units": "620+2#660+2"
-    },
-    {
-      "dailyQuestID": 16,
-      "triggerKingdomID": -1,
-      "conditions": "recruitUnits+1",
-      "units": "614+3#660+3"
-    },
-    {
-      "dailyQuestID": 17,
-      "triggerKingdomID": -1,
-      "conditions": "produceTools+1",
-      "units": "614+3#640+1"
-    },
-    {
-      "dailyQuestID": 21,
-      "triggerKingdomID": -1,
-      "conditions": "requestAllianceHelp+1",
-      "needsAlliance": 1,
-      "add1MinSkip": 2,
-      "add5MinSkip": 1
-    },
-    {
-      "dailyQuestID": 22,
-      "triggerKingdomID": -1,
-      "conditions": "completeMercenaryMission+1",
-      "add1MinSkip": 4,
-      "add5MinSkip": 1
-    },
-    {
-      "dailyQuestID": 24,
-      "triggerKingdomID": -1,
-      "conditions": "countDungeons+10+1",
-      "isTempServerQuest": 1,
-      "addDailyDutyPoints": 30
-    },
-    {
-      "dailyQuestID": 25,
-      "triggerKingdomID": -1,
-      "conditions": "countBattles+10",
-      "isTempServerQuest": 1,
-      "addDailyDutyPoints": 60
-    },
-    {
-      "dailyQuestID": 26,
-      "triggerKingdomID": -1,
-      "conditions": "countBattles+15",
-      "isTempServerQuest": 1,
-      "addDailyDutyPoints": 150
-    }
-  ]
-}
+[
+  {
+    "dailyQuestID": 1,
+    "triggerKingdomID": -1,
+    "conditions": "login+1",
+    "isDefaultQuest": 1,
+    "add1MinSkip": 2,
+    "add5MinSkip": 1
+  },
+  {
+    "dailyQuestID": 2,
+    "triggerKingdomID": -1,
+    "conditions": "spendC2+1",
+    "isDefaultQuest": 1,
+    "add10MinSkip": 2,
+    "add30MinSkip": 1
+  },
+  {
+    "dailyQuestID": 3,
+    "triggerKingdomID": -1,
+    "levelCalculated": 1,
+    "conditions": "collectTax+0",
+    "units": "611+3#641+1"
+  },
+  {
+    "dailyQuestID": 4,
+    "triggerKingdomID": -1,
+    "conditions": "resourceToPlayer+1",
+    "add1MinSkip": 2,
+    "add5MinSkip": 1
+  },
+  {
+    "dailyQuestID": 5,
+    "triggerKingdomID": -1,
+    "levelCalculated": 1,
+    "conditions": "spy+0+0|1",
+    "units": "660+2#661+1"
+  },
+  {
+    "dailyQuestID": 6,
+    "triggerKingdomID": -1,
+    "conditions": "sabotageDamage+1",
+    "units": "620+3#635+1"
+  },
+  {
+    "dailyQuestID": 7,
+    "triggerKingdomID": 0,
+    "levelCalculated": 1,
+    "conditions": "countDungeons+1",
+    "isDefaultQuest": 1,
+    "add5MinSkip": 2,
+    "add10MinSkip": 1
+  },
+  {
+    "dailyQuestID": 8,
+    "triggerKingdomID": 2,
+    "conditions": "countDungeons+1",
+    "minLevel": 25,
+    "units": "620+1#635+1"
+  },
+  {
+    "dailyQuestID": 9,
+    "triggerKingdomID": 1,
+    "conditions": "countDungeons+1",
+    "minLevel": 40,
+    "units": "660+3#661+1"
+  },
+  {
+    "dailyQuestID": 10,
+    "triggerKingdomID": 3,
+    "conditions": "countDungeons+1",
+    "minLevel": 50,
+    "units": "620+3#635+1"
+  },
+  {
+    "dailyQuestID": 13,
+    "triggerKingdomID": -1,
+    "conditions": "craftEquipment+1",
+    "add1MinSkip": 3,
+    "add5MinSkip": 1
+  },
+  {
+    "dailyQuestID": 14,
+    "triggerKingdomID": -1,
+    "conditions": "writeInAllianceChat+1",
+    "needsAlliance": 1,
+    "units": "611+3#641+1"
+  },
+  {
+    "dailyQuestID": 15,
+    "triggerKingdomID": -1,
+    "conditions": "collectFromCitizen+10",
+    "units": "620+2#660+2"
+  },
+  {
+    "dailyQuestID": 16,
+    "triggerKingdomID": -1,
+    "conditions": "recruitUnits+1",
+    "units": "614+3#660+3"
+  },
+  {
+    "dailyQuestID": 17,
+    "triggerKingdomID": -1,
+    "conditions": "produceTools+1",
+    "units": "614+3#640+1"
+  },
+  {
+    "dailyQuestID": 21,
+    "triggerKingdomID": -1,
+    "conditions": "requestAllianceHelp+1",
+    "needsAlliance": 1,
+    "add1MinSkip": 2,
+    "add5MinSkip": 1
+  },
+  {
+    "dailyQuestID": 22,
+    "triggerKingdomID": -1,
+    "conditions": "completeMercenaryMission+1",
+    "add1MinSkip": 4,
+    "add5MinSkip": 1
+  },
+  {
+    "dailyQuestID": 24,
+    "triggerKingdomID": -1,
+    "conditions": "countDungeons+10+1",
+    "isTempServerQuest": 1,
+    "addDailyDutyPoints": 30
+  },
+  {
+    "dailyQuestID": 25,
+    "triggerKingdomID": -1,
+    "conditions": "countBattles+10",
+    "isTempServerQuest": 1,
+    "addDailyDutyPoints": 60
+  },
+  {
+    "dailyQuestID": 26,
+    "triggerKingdomID": -1,
+    "conditions": "countBattles+15",
+    "isTempServerQuest": 1,
+    "addDailyDutyPoints": 150
+  }
+]

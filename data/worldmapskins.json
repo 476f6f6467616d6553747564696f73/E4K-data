@@ -1,707 +1,715 @@
-{
-  "worldmapskin": [
-    {
-      "skinID": 1,
-      "crossplayID": 1,
-      "name": "Sundial"
-    },
-    {
-      "skinID": 2,
-      "crossplayID": 2,
-      "name": "Saxophone"
-    },
-    {
-      "skinID": 4,
-      "crossplayID": 4,
-      "name": "Hourglass"
-    },
-    {
-      "skinID": 5,
-      "crossplayID": 5,
-      "name": "Demon",
-      "definesMoat": 1
-    },
-    {
-      "skinID": 6,
-      "crossplayID": 6,
-      "name": "Underworld",
-      "definesAllCastleLevels": 1
-    },
-    {
-      "skinID": 7,
-      "crossplayID": 7,
-      "name": "Cloudmaker",
-      "definesResources": 1
-    },
-    {
-      "skinID": 8,
-      "crossplayID": 8,
-      "name": "Kiltoffreedom"
-    },
-    {
-      "skinID": 9,
-      "crossplayID": 9,
-      "name": "Block"
-    },
-    {
-      "skinID": 10,
-      "crossplayID": 10,
-      "name": "Sand",
-      "definesResources": 1
-    },
-    {
-      "skinID": 11,
-      "crossplayID": 11,
-      "name": "Chtuhullu"
-    },
-    {
-      "skinID": 12,
-      "crossplayID": 12,
-      "name": "WitchCastle"
-    },
-    {
-      "skinID": 13,
-      "crossplayID": 13,
-      "name": "Halloween"
-    },
-    {
-      "skinID": 14,
-      "crossplayID": 14,
-      "name": "StPatricks"
-    },
-    {
-      "skinID": 15,
-      "crossplayID": 15,
-      "name": "Easter"
-    },
-    {
-      "skinID": 16,
-      "crossplayID": 16,
-      "name": "Emblem"
-    },
-    {
-      "skinID": 17,
-      "crossplayID": 17,
-      "name": "HalloweenTrap"
-    },
-    {
-      "skinID": 18,
-      "crossplayID": 18,
-      "name": "HalloweenPoster"
-    },
-    {
-      "skinID": 19,
-      "crossplayID": 19,
-      "name": "HalloweenRing"
-    },
-    {
-      "skinID": 20,
-      "crossplayID": 20,
-      "name": "ChristmasAxe"
-    },
-    {
-      "skinID": 21,
-      "crossplayID": 21,
-      "name": "ChristmasTotem"
-    },
-    {
-      "skinID": 22,
-      "crossplayID": 22,
-      "name": "ChristmasKnife"
-    },
-    {
-      "skinID": 23,
-      "crossplayID": 23,
-      "name": "IceJug"
-    },
-    {
-      "skinID": 24,
-      "crossplayID": 24,
-      "name": "CarnivalCouldron"
-    },
-    {
-      "skinID": 25,
-      "crossplayID": 25,
-      "name": "CarnivalBird"
-    },
-    {
-      "skinID": 26,
-      "crossplayID": 26,
-      "name": "CarnivalMask"
-    },
-    {
-      "skinID": 27,
-      "crossplayID": 27,
-      "name": "SpringFrozenBlossom"
-    },
-    {
-      "skinID": 28,
-      "crossplayID": 28,
-      "name": "SpringBlossom"
-    },
-    {
-      "skinID": 29,
-      "crossplayID": 29,
-      "name": "SpringHoneycomb"
-    },
-    {
-      "skinID": 30,
-      "crossplayID": 30,
-      "name": "DragonEgg"
-    },
-    {
-      "skinID": 31,
-      "crossplayID": 31,
-      "name": "WoodAxe"
-    },
-    {
-      "skinID": 32,
-      "crossplayID": 32,
-      "name": "MetalMask"
-    },
-    {
-      "skinID": 33,
-      "crossplayID": 33,
-      "name": "LostAnchor"
-    },
-    {
-      "skinID": 34,
-      "crossplayID": 34,
-      "name": "TreasureChest"
-    },
-    {
-      "skinID": 35,
-      "crossplayID": 35,
-      "name": "MudGolem"
-    },
-    {
-      "skinID": 36,
-      "crossplayID": 36,
-      "name": "Whirlwind"
-    },
-    {
-      "skinID": 37,
-      "crossplayID": 37,
-      "name": "IcedLava"
-    },
-    {
-      "skinID": 38,
-      "crossplayID": 38,
-      "name": "Anubis"
-    },
-    {
-      "skinID": 39,
-      "crossplayID": 39,
-      "name": "FlowerBracelet"
-    },
-    {
-      "skinID": 40,
-      "crossplayID": 40,
-      "name": "BeerBarrel"
-    },
-    {
-      "skinID": 41,
-      "crossplayID": 41,
-      "name": "MayaInsignia"
-    },
-    {
-      "skinID": 42,
-      "crossplayID": 42,
-      "name": "EmperorsChessSet"
-    },
-    {
-      "skinID": 43,
-      "crossplayID": 43,
-      "name": "Nutcracker"
-    },
-    {
-      "skinID": 44,
-      "crossplayID": 44,
-      "name": "SpringBell"
-    },
-    {
-      "skinID": 45,
-      "crossplayID": 45,
-      "name": "TeaLeaf"
-    },
-    {
-      "skinID": 46,
-      "crossplayID": 46,
-      "name": "MosaicPlate"
-    },
-    {
-      "skinID": 47,
-      "crossplayID": 47,
-      "name": "FreshTea"
-    },
-    {
-      "skinID": 48,
-      "crossplayID": 48,
-      "name": "Birdhouse"
-    },
-    {
-      "skinID": 49,
-      "crossplayID": 49,
-      "name": "SeaShell"
-    },
-    {
-      "skinID": 50,
-      "crossplayID": 50,
-      "name": "Elephant"
-    },
-    {
-      "skinID": 51,
-      "crossplayID": 51,
-      "name": "StarCompass"
-    },
-    {
-      "skinID": 52,
-      "crossplayID": 52,
-      "name": "MistyShroud"
-    },
-    {
-      "skinID": 53,
-      "crossplayID": 53,
-      "name": "SoulCandle"
-    },
-    {
-      "skinID": 54,
-      "crossplayID": 54,
-      "name": "snowflakehouse"
-    },
-    {
-      "skinID": 55,
-      "crossplayID": 55,
-      "name": "VikingGeneral"
-    },
-    {
-      "skinID": 56,
-      "crossplayID": 56,
-      "name": "VikingBaron"
-    },
-    {
-      "skinID": 57,
-      "crossplayID": 57,
-      "name": "EvergreenClover"
-    },
-    {
-      "skinID": 58,
-      "crossplayID": 58,
-      "name": "SpringtimeBlossom"
-    },
-    {
-      "skinID": 59,
-      "crossplayID": 59,
-      "name": "MistwoodFern"
-    },
-    {
-      "skinID": 60,
-      "crossplayID": 60,
-      "name": "MistwoodBastion"
-    },
-    {
-      "skinID": 61,
-      "crossplayID": 61,
-      "name": "RingtailHat"
-    },
-    {
-      "skinID": 62,
-      "crossplayID": 62,
-      "name": "RosewoodBud"
-    },
-    {
-      "skinID": 63,
-      "crossplayID": 63,
-      "name": "GeneralPinacolada"
-    },
-    {
-      "skinID": 64,
-      "crossplayID": 64,
-      "name": "BaronDucky"
-    },
-    {
-      "skinID": 65,
-      "crossplayID": 65,
-      "name": "GeneralBanana"
-    },
-    {
-      "skinID": 66,
-      "crossplayID": 66,
-      "name": "BaronWatermelon"
-    },
-    {
-      "skinID": 67,
-      "crossplayID": 67,
-      "name": "10YearsAnniversaryGeneralRed"
-    },
-    {
-      "skinID": 68,
-      "crossplayID": 68,
-      "name": "10YearsAnniversaryBaronRed"
-    },
-    {
-      "skinID": 69,
-      "crossplayID": 69,
-      "name": "AnniversaryCake"
-    },
-    {
-      "skinID": 70,
-      "crossplayID": 70,
-      "name": "AnniversaryPartyBadge"
-    },
-    {
-      "skinID": 71,
-      "crossplayID": 71,
-      "name": "AnniversaryPartyCannon"
-    },
-    {
-      "skinID": 72,
-      "crossplayID": 72,
-      "name": "GeneralSquirrel"
-    },
-    {
-      "skinID": 73,
-      "crossplayID": 73,
-      "name": "BaronNuts"
-    },
-    {
-      "skinID": 74,
-      "crossplayID": 74,
-      "name": "Generalcthulhu"
-    },
-    {
-      "skinID": 75,
-      "crossplayID": 75,
-      "name": "BaronCthulhu"
-    },
-    {
-      "skinID": 76,
-      "crossplayID": 76,
-      "name": "GeneralSamurai"
-    },
-    {
-      "skinID": 77,
-      "crossplayID": 77,
-      "name": "BaronSamurai"
-    },
-    {
-      "skinID": 78,
-      "crossplayID": 78,
-      "name": "GeneralCandyCane"
-    },
-    {
-      "skinID": 80,
-      "crossplayID": 80,
-      "name": "WinterBaron"
-    },
-    {
-      "skinID": 81,
-      "crossplayID": 81,
-      "name": "GeneralofLove"
-    },
-    {
-      "skinID": 82,
-      "crossplayID": 82,
-      "name": "BaronTortureofLove"
-    },
-    {
-      "skinID": 83,
-      "crossplayID": 83,
-      "name": "GeneralCarnival"
-    },
-    {
-      "skinID": 84,
-      "crossplayID": 84,
-      "name": "BaronCarnival"
-    },
-    {
-      "skinID": 85,
-      "crossplayID": 85,
-      "name": "GeneralViking"
-    },
-    {
-      "skinID": 86,
-      "crossplayID": 86,
-      "name": "BaronViking"
-    },
-    {
-      "skinID": 87,
-      "crossplayID": 87,
-      "name": "GeneralFishKite"
-    },
-    {
-      "skinID": 88,
-      "crossplayID": 88,
-      "name": "BaronEasterTree"
-    },
-    {
-      "skinID": 89,
-      "crossplayID": 89,
-      "name": "GeneralSpring"
-    },
-    {
-      "skinID": 90,
-      "crossplayID": 90,
-      "name": "BaronSpring"
-    },
-    {
-      "skinID": 91,
-      "crossplayID": 91,
-      "name": "Generalsummer"
-    },
-    {
-      "skinID": 92,
-      "crossplayID": 92,
-      "name": "BaronSummer"
-    },
-    {
-      "skinID": 93,
-      "crossplayID": 93,
-      "name": "GeneralCupcake"
-    },
-    {
-      "skinID": 94,
-      "crossplayID": 94,
-      "name": "GeneralOctoberfest"
-    },
-    {
-      "skinID": 95,
-      "crossplayID": 95,
-      "name": "GeneralGenericAnniversary"
-    },
-    {
-      "skinID": 96,
-      "crossplayID": 96,
-      "name": "CyberBaron"
-    },
-    {
-      "skinID": 97,
-      "crossplayID": 97,
-      "name": "HalloweenGeneral"
-    },
-    {
-      "skinID": 98,
-      "crossplayID": 98,
-      "name": "SinglesDay22General"
-    },
-    {
-      "skinID": 99,
-      "crossplayID": 99,
-      "name": "BaronDeathMask"
-    },
-    {
-      "skinID": 100,
-      "crossplayID": 100,
-      "name": "PineconeBaron"
-    },
-    {
-      "skinID": 101,
-      "crossplayID": 101,
-      "name": "StPatrickBaron"
-    },
-    {
-      "skinID": 102,
-      "crossplayID": 102,
-      "name": "ButterflyBaron"
-    },
-    {
-      "skinID": 103,
-      "crossplayID": 103,
-      "name": "SnakeGeneral"
-    },
-    {
-      "skinID": 104,
-      "crossplayID": 104,
-      "name": "HarpBaron"
-    },
-    {
-      "skinID": 105,
-      "crossplayID": 105,
-      "name": "FireworkBaron"
-    },
-    {
-      "skinID": 106,
-      "crossplayID": 106,
-      "name": "FireworkGeneral"
-    },
-    {
-      "skinID": 107,
-      "crossplayID": 107,
-      "name": "PretzelCommander"
-    },
-    {
-      "skinID": 108,
-      "crossplayID": 108,
-      "name": "PretzelCastellan"
-    },
-    {
-      "skinID": 109,
-      "crossplayID": 109,
-      "name": "turkeyCommander"
-    },
-    {
-      "skinID": 110,
-      "crossplayID": 110,
-      "name": "turkeyCastellan"
-    },
-    {
-      "skinID": 111,
-      "crossplayID": 111,
-      "name": "xmasCastellan"
-    },
-    {
-      "skinID": 112,
-      "crossplayID": 112,
-      "name": "EasterAppearence"
-    },
-    {
-      "skinID": 113,
-      "crossplayID": 113,
-      "name": "SummerAppearence"
-    },
-    {
-      "skinID": 79,
-      "crossplayID": 79,
-      "name": "FestiveCandyCane"
-    },
-    {
-      "skinID": 114,
-      "crossplayID": 114,
-      "name": "GingerbreadManSoul"
-    },
-    {
-      "skinID": 115,
-      "crossplayID": 115,
-      "name": "GrandNewKingCrown",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 116,
-      "crossplayID": 116,
-      "name": "GrandCloverEmblem",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 117,
-      "crossplayID": 117,
-      "name": "GrandIceDagger",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 118,
-      "crossplayID": 118,
-      "name": "GrandSapphireBrooch",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 119,
-      "crossplayID": 119,
-      "name": "GrandFeatherCrest",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 120,
-      "crossplayID": 120,
-      "name": "GrandAmethystLotus",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 121,
-      "crossplayID": 121,
-      "name": "EasterBirdhouse"
-    },
-    {
-      "skinID": 122,
-      "crossplayID": 122,
-      "name": "EasterFern"
-    },
-    {
-      "skinID": 123,
-      "crossplayID": 123,
-      "name": "WarbandOfTheCitrusMonster"
-    },
-    {
-      "skinID": 124,
-      "crossplayID": 124,
-      "name": "CitrusFortress"
-    },
-    {
-      "skinID": 125,
-      "crossplayID": 125,
-      "name": "PirateCove",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 126,
-      "crossplayID": 126,
-      "name": "BaronBaloon",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 127,
-      "crossplayID": 127,
-      "name": "KegCastle",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 128,
-      "crossplayID": 128,
-      "name": "AnniversaryChestComm",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 129,
-      "crossplayID": 129,
-      "name": "AnniversaryCakeSliceCast",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 130,
-      "crossplayID": 130,
-      "name": "HalloweenRing2025",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 131,
-      "crossplayID": 131,
-      "name": "VikingBaron2025",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 132,
-      "crossplayID": 132,
-      "name": "Snowflakehouse2025",
-      "increasedSize": 1
-    },
-    {
-      "skinID": 133,
-      "crossplayID": 133,
-      "name": "BlackFriday2025Cast"
-    },
-    {
-      "skinID": 134,
-      "crossplayID": 134,
-      "name": "BlackFriday2025Com"
-    },
-    {
-      "skinID": 135,
-      "crossplayID": 135,
-      "name": "Xmas2025Cast"
-    },
-    {
-      "skinID": 136,
-      "crossplayID": 136,
-      "name": "Xmas2025Com"
-    },
-    {
-      "skinID": 137,
-      "crossplayID": 137,
-      "name": "CarnivalMaskComm"
-    },
-    {
-      "skinID": 138,
-      "crossplayID": 138,
-      "name": "CarnivalMaskCast"
-    }
-  ]
-}
+[
+  {
+    "skinID": 1,
+    "crossplayID": 1,
+    "name": "Sundial"
+  },
+  {
+    "skinID": 2,
+    "crossplayID": 2,
+    "name": "Saxophone"
+  },
+  {
+    "skinID": 4,
+    "crossplayID": 4,
+    "name": "Hourglass"
+  },
+  {
+    "skinID": 5,
+    "crossplayID": 5,
+    "name": "Demon",
+    "definesMoat": 1
+  },
+  {
+    "skinID": 6,
+    "crossplayID": 6,
+    "name": "Underworld",
+    "definesAllCastleLevels": 1
+  },
+  {
+    "skinID": 7,
+    "crossplayID": 7,
+    "name": "Cloudmaker",
+    "definesResources": 1
+  },
+  {
+    "skinID": 8,
+    "crossplayID": 8,
+    "name": "Kiltoffreedom"
+  },
+  {
+    "skinID": 9,
+    "crossplayID": 9,
+    "name": "Block"
+  },
+  {
+    "skinID": 10,
+    "crossplayID": 10,
+    "name": "Sand",
+    "definesResources": 1
+  },
+  {
+    "skinID": 11,
+    "crossplayID": 11,
+    "name": "Chtuhullu"
+  },
+  {
+    "skinID": 12,
+    "crossplayID": 12,
+    "name": "WitchCastle"
+  },
+  {
+    "skinID": 13,
+    "crossplayID": 13,
+    "name": "Halloween"
+  },
+  {
+    "skinID": 14,
+    "crossplayID": 14,
+    "name": "StPatricks"
+  },
+  {
+    "skinID": 15,
+    "crossplayID": 15,
+    "name": "Easter"
+  },
+  {
+    "skinID": 16,
+    "crossplayID": 16,
+    "name": "Emblem"
+  },
+  {
+    "skinID": 17,
+    "crossplayID": 17,
+    "name": "HalloweenTrap"
+  },
+  {
+    "skinID": 18,
+    "crossplayID": 18,
+    "name": "HalloweenPoster"
+  },
+  {
+    "skinID": 19,
+    "crossplayID": 19,
+    "name": "HalloweenRing"
+  },
+  {
+    "skinID": 20,
+    "crossplayID": 20,
+    "name": "ChristmasAxe"
+  },
+  {
+    "skinID": 21,
+    "crossplayID": 21,
+    "name": "ChristmasTotem"
+  },
+  {
+    "skinID": 22,
+    "crossplayID": 22,
+    "name": "ChristmasKnife"
+  },
+  {
+    "skinID": 23,
+    "crossplayID": 23,
+    "name": "IceJug"
+  },
+  {
+    "skinID": 24,
+    "crossplayID": 24,
+    "name": "CarnivalCouldron"
+  },
+  {
+    "skinID": 25,
+    "crossplayID": 25,
+    "name": "CarnivalBird"
+  },
+  {
+    "skinID": 26,
+    "crossplayID": 26,
+    "name": "CarnivalMask"
+  },
+  {
+    "skinID": 27,
+    "crossplayID": 27,
+    "name": "SpringFrozenBlossom"
+  },
+  {
+    "skinID": 28,
+    "crossplayID": 28,
+    "name": "SpringBlossom"
+  },
+  {
+    "skinID": 29,
+    "crossplayID": 29,
+    "name": "SpringHoneycomb"
+  },
+  {
+    "skinID": 30,
+    "crossplayID": 30,
+    "name": "DragonEgg"
+  },
+  {
+    "skinID": 31,
+    "crossplayID": 31,
+    "name": "WoodAxe"
+  },
+  {
+    "skinID": 32,
+    "crossplayID": 32,
+    "name": "MetalMask"
+  },
+  {
+    "skinID": 33,
+    "crossplayID": 33,
+    "name": "LostAnchor"
+  },
+  {
+    "skinID": 34,
+    "crossplayID": 34,
+    "name": "TreasureChest"
+  },
+  {
+    "skinID": 35,
+    "crossplayID": 35,
+    "name": "MudGolem"
+  },
+  {
+    "skinID": 36,
+    "crossplayID": 36,
+    "name": "Whirlwind"
+  },
+  {
+    "skinID": 37,
+    "crossplayID": 37,
+    "name": "IcedLava"
+  },
+  {
+    "skinID": 38,
+    "crossplayID": 38,
+    "name": "Anubis"
+  },
+  {
+    "skinID": 39,
+    "crossplayID": 39,
+    "name": "FlowerBracelet"
+  },
+  {
+    "skinID": 40,
+    "crossplayID": 40,
+    "name": "BeerBarrel"
+  },
+  {
+    "skinID": 41,
+    "crossplayID": 41,
+    "name": "MayaInsignia"
+  },
+  {
+    "skinID": 42,
+    "crossplayID": 42,
+    "name": "EmperorsChessSet"
+  },
+  {
+    "skinID": 43,
+    "crossplayID": 43,
+    "name": "Nutcracker"
+  },
+  {
+    "skinID": 44,
+    "crossplayID": 44,
+    "name": "SpringBell"
+  },
+  {
+    "skinID": 45,
+    "crossplayID": 45,
+    "name": "TeaLeaf"
+  },
+  {
+    "skinID": 46,
+    "crossplayID": 46,
+    "name": "MosaicPlate"
+  },
+  {
+    "skinID": 47,
+    "crossplayID": 47,
+    "name": "FreshTea"
+  },
+  {
+    "skinID": 48,
+    "crossplayID": 48,
+    "name": "Birdhouse"
+  },
+  {
+    "skinID": 49,
+    "crossplayID": 49,
+    "name": "SeaShell"
+  },
+  {
+    "skinID": 50,
+    "crossplayID": 50,
+    "name": "Elephant"
+  },
+  {
+    "skinID": 51,
+    "crossplayID": 51,
+    "name": "StarCompass"
+  },
+  {
+    "skinID": 52,
+    "crossplayID": 52,
+    "name": "MistyShroud"
+  },
+  {
+    "skinID": 53,
+    "crossplayID": 53,
+    "name": "SoulCandle"
+  },
+  {
+    "skinID": 54,
+    "crossplayID": 54,
+    "name": "snowflakehouse"
+  },
+  {
+    "skinID": 55,
+    "crossplayID": 55,
+    "name": "VikingGeneral"
+  },
+  {
+    "skinID": 56,
+    "crossplayID": 56,
+    "name": "VikingBaron"
+  },
+  {
+    "skinID": 57,
+    "crossplayID": 57,
+    "name": "EvergreenClover"
+  },
+  {
+    "skinID": 58,
+    "crossplayID": 58,
+    "name": "SpringtimeBlossom"
+  },
+  {
+    "skinID": 59,
+    "crossplayID": 59,
+    "name": "MistwoodFern"
+  },
+  {
+    "skinID": 60,
+    "crossplayID": 60,
+    "name": "MistwoodBastion"
+  },
+  {
+    "skinID": 61,
+    "crossplayID": 61,
+    "name": "RingtailHat"
+  },
+  {
+    "skinID": 62,
+    "crossplayID": 62,
+    "name": "RosewoodBud"
+  },
+  {
+    "skinID": 63,
+    "crossplayID": 63,
+    "name": "GeneralPinacolada"
+  },
+  {
+    "skinID": 64,
+    "crossplayID": 64,
+    "name": "BaronDucky"
+  },
+  {
+    "skinID": 65,
+    "crossplayID": 65,
+    "name": "GeneralBanana"
+  },
+  {
+    "skinID": 66,
+    "crossplayID": 66,
+    "name": "BaronWatermelon"
+  },
+  {
+    "skinID": 67,
+    "crossplayID": 67,
+    "name": "10YearsAnniversaryGeneralRed"
+  },
+  {
+    "skinID": 68,
+    "crossplayID": 68,
+    "name": "10YearsAnniversaryBaronRed"
+  },
+  {
+    "skinID": 69,
+    "crossplayID": 69,
+    "name": "AnniversaryCake"
+  },
+  {
+    "skinID": 70,
+    "crossplayID": 70,
+    "name": "AnniversaryPartyBadge"
+  },
+  {
+    "skinID": 71,
+    "crossplayID": 71,
+    "name": "AnniversaryPartyCannon"
+  },
+  {
+    "skinID": 72,
+    "crossplayID": 72,
+    "name": "GeneralSquirrel"
+  },
+  {
+    "skinID": 73,
+    "crossplayID": 73,
+    "name": "BaronNuts"
+  },
+  {
+    "skinID": 74,
+    "crossplayID": 74,
+    "name": "Generalcthulhu"
+  },
+  {
+    "skinID": 75,
+    "crossplayID": 75,
+    "name": "BaronCthulhu"
+  },
+  {
+    "skinID": 76,
+    "crossplayID": 76,
+    "name": "GeneralSamurai"
+  },
+  {
+    "skinID": 77,
+    "crossplayID": 77,
+    "name": "BaronSamurai"
+  },
+  {
+    "skinID": 78,
+    "crossplayID": 78,
+    "name": "GeneralCandyCane"
+  },
+  {
+    "skinID": 80,
+    "crossplayID": 80,
+    "name": "WinterBaron"
+  },
+  {
+    "skinID": 81,
+    "crossplayID": 81,
+    "name": "GeneralofLove"
+  },
+  {
+    "skinID": 82,
+    "crossplayID": 82,
+    "name": "BaronTortureofLove"
+  },
+  {
+    "skinID": 83,
+    "crossplayID": 83,
+    "name": "GeneralCarnival"
+  },
+  {
+    "skinID": 84,
+    "crossplayID": 84,
+    "name": "BaronCarnival"
+  },
+  {
+    "skinID": 85,
+    "crossplayID": 85,
+    "name": "GeneralViking"
+  },
+  {
+    "skinID": 86,
+    "crossplayID": 86,
+    "name": "BaronViking"
+  },
+  {
+    "skinID": 87,
+    "crossplayID": 87,
+    "name": "GeneralFishKite"
+  },
+  {
+    "skinID": 88,
+    "crossplayID": 88,
+    "name": "BaronEasterTree"
+  },
+  {
+    "skinID": 89,
+    "crossplayID": 89,
+    "name": "GeneralSpring"
+  },
+  {
+    "skinID": 90,
+    "crossplayID": 90,
+    "name": "BaronSpring"
+  },
+  {
+    "skinID": 91,
+    "crossplayID": 91,
+    "name": "Generalsummer"
+  },
+  {
+    "skinID": 92,
+    "crossplayID": 92,
+    "name": "BaronSummer"
+  },
+  {
+    "skinID": 93,
+    "crossplayID": 93,
+    "name": "GeneralCupcake"
+  },
+  {
+    "skinID": 94,
+    "crossplayID": 94,
+    "name": "GeneralOctoberfest"
+  },
+  {
+    "skinID": 95,
+    "crossplayID": 95,
+    "name": "GeneralGenericAnniversary"
+  },
+  {
+    "skinID": 96,
+    "crossplayID": 96,
+    "name": "CyberBaron"
+  },
+  {
+    "skinID": 97,
+    "crossplayID": 97,
+    "name": "HalloweenGeneral"
+  },
+  {
+    "skinID": 98,
+    "crossplayID": 98,
+    "name": "SinglesDay22General"
+  },
+  {
+    "skinID": 99,
+    "crossplayID": 99,
+    "name": "BaronDeathMask"
+  },
+  {
+    "skinID": 100,
+    "crossplayID": 100,
+    "name": "PineconeBaron"
+  },
+  {
+    "skinID": 101,
+    "crossplayID": 101,
+    "name": "StPatrickBaron"
+  },
+  {
+    "skinID": 102,
+    "crossplayID": 102,
+    "name": "ButterflyBaron"
+  },
+  {
+    "skinID": 103,
+    "crossplayID": 103,
+    "name": "SnakeGeneral"
+  },
+  {
+    "skinID": 104,
+    "crossplayID": 104,
+    "name": "HarpBaron"
+  },
+  {
+    "skinID": 105,
+    "crossplayID": 105,
+    "name": "FireworkBaron"
+  },
+  {
+    "skinID": 106,
+    "crossplayID": 106,
+    "name": "FireworkGeneral"
+  },
+  {
+    "skinID": 107,
+    "crossplayID": 107,
+    "name": "PretzelCommander"
+  },
+  {
+    "skinID": 108,
+    "crossplayID": 108,
+    "name": "PretzelCastellan"
+  },
+  {
+    "skinID": 109,
+    "crossplayID": 109,
+    "name": "turkeyCommander"
+  },
+  {
+    "skinID": 110,
+    "crossplayID": 110,
+    "name": "turkeyCastellan"
+  },
+  {
+    "skinID": 111,
+    "crossplayID": 111,
+    "name": "xmasCastellan"
+  },
+  {
+    "skinID": 112,
+    "crossplayID": 112,
+    "name": "EasterAppearence"
+  },
+  {
+    "skinID": 113,
+    "crossplayID": 113,
+    "name": "SummerAppearence"
+  },
+  {
+    "skinID": 79,
+    "crossplayID": 79,
+    "name": "FestiveCandyCane"
+  },
+  {
+    "skinID": 114,
+    "crossplayID": 114,
+    "name": "GingerbreadManSoul"
+  },
+  {
+    "skinID": 115,
+    "crossplayID": 115,
+    "name": "GrandNewKingCrown",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 116,
+    "crossplayID": 116,
+    "name": "GrandCloverEmblem",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 117,
+    "crossplayID": 117,
+    "name": "GrandIceDagger",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 118,
+    "crossplayID": 118,
+    "name": "GrandSapphireBrooch",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 119,
+    "crossplayID": 119,
+    "name": "GrandFeatherCrest",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 120,
+    "crossplayID": 120,
+    "name": "GrandAmethystLotus",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 121,
+    "crossplayID": 121,
+    "name": "EasterBirdhouse"
+  },
+  {
+    "skinID": 122,
+    "crossplayID": 122,
+    "name": "EasterFern"
+  },
+  {
+    "skinID": 123,
+    "crossplayID": 123,
+    "name": "WarbandOfTheCitrusMonster"
+  },
+  {
+    "skinID": 124,
+    "crossplayID": 124,
+    "name": "CitrusFortress"
+  },
+  {
+    "skinID": 125,
+    "crossplayID": 125,
+    "name": "PirateCove",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 126,
+    "crossplayID": 126,
+    "name": "BaronBaloon",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 127,
+    "crossplayID": 127,
+    "name": "KegCastle",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 128,
+    "crossplayID": 128,
+    "name": "AnniversaryChestComm",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 129,
+    "crossplayID": 129,
+    "name": "AnniversaryCakeSliceCast",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 130,
+    "crossplayID": 130,
+    "name": "HalloweenRing2025",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 131,
+    "crossplayID": 131,
+    "name": "VikingBaron2025",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 132,
+    "crossplayID": 132,
+    "name": "Snowflakehouse2025",
+    "increasedSize": 1
+  },
+  {
+    "skinID": 133,
+    "crossplayID": 133,
+    "name": "BlackFriday2025Cast"
+  },
+  {
+    "skinID": 134,
+    "crossplayID": 134,
+    "name": "BlackFriday2025Com"
+  },
+  {
+    "skinID": 135,
+    "crossplayID": 135,
+    "name": "Xmas2025Cast"
+  },
+  {
+    "skinID": 136,
+    "crossplayID": 136,
+    "name": "Xmas2025Com"
+  },
+  {
+    "skinID": 137,
+    "crossplayID": 137,
+    "name": "CarnivalMaskComm"
+  },
+  {
+    "skinID": 138,
+    "crossplayID": 138,
+    "name": "CarnivalMaskCast"
+  },
+  {
+    "skinID": 139,
+    "crossplayID": 139,
+    "name": "ChocolateBunny"
+  },
+  {
+    "skinID": 140,
+    "crossplayID": 140,
+    "name": "ChocolateEggSprout"
+  }
+]

@@ -1,53 +1,51 @@
-{
-  "constructionItemDisassemblingTombola": [
-    {
-      "constructionItemDisassemblingTombolaID": 1,
-      "crossplayID": 1,
-      "tombolaID": 1,
-      "shares": 100,
-      "rewardID": 5840
-    },
-    {
-      "constructionItemDisassemblingTombolaID": 100,
-      "crossplayID": 100,
-      "tombolaID": 2,
-      "shares": 100,
-      "rewardID": 5841
-    },
-    {
-      "constructionItemDisassemblingTombolaID": 200,
-      "crossplayID": 200,
-      "tombolaID": 3,
-      "shares": 25,
-      "rewardID": 5841
-    },
-    {
-      "constructionItemDisassemblingTombolaID": 201,
-      "crossplayID": 201,
-      "tombolaID": 3,
-      "shares": 75,
-      "rewardID": 5842
-    },
-    {
-      "constructionItemDisassemblingTombolaID": 300,
-      "crossplayID": 300,
-      "tombolaID": 4,
-      "shares": 15,
-      "rewardID": 5841
-    },
-    {
-      "constructionItemDisassemblingTombolaID": 301,
-      "crossplayID": 301,
-      "tombolaID": 4,
-      "shares": 35,
-      "rewardID": 5842
-    },
-    {
-      "constructionItemDisassemblingTombolaID": 302,
-      "crossplayID": 302,
-      "tombolaID": 4,
-      "shares": 50,
-      "rewardID": 5843
-    }
-  ]
-}
+[
+  {
+    "constructionItemDisassemblingTombolaID": 1,
+    "crossplayID": 1,
+    "tombolaID": 1,
+    "shares": 100,
+    "rewardID": 5840
+  },
+  {
+    "constructionItemDisassemblingTombolaID": 100,
+    "crossplayID": 100,
+    "tombolaID": 2,
+    "shares": 100,
+    "rewardID": 5841
+  },
+  {
+    "constructionItemDisassemblingTombolaID": 200,
+    "crossplayID": 200,
+    "tombolaID": 3,
+    "shares": 25,
+    "rewardID": 5841
+  },
+  {
+    "constructionItemDisassemblingTombolaID": 201,
+    "crossplayID": 201,
+    "tombolaID": 3,
+    "shares": 75,
+    "rewardID": 5842
+  },
+  {
+    "constructionItemDisassemblingTombolaID": 300,
+    "crossplayID": 300,
+    "tombolaID": 4,
+    "shares": 15,
+    "rewardID": 5841
+  },
+  {
+    "constructionItemDisassemblingTombolaID": 301,
+    "crossplayID": 301,
+    "tombolaID": 4,
+    "shares": 35,
+    "rewardID": 5842
+  },
+  {
+    "constructionItemDisassemblingTombolaID": 302,
+    "crossplayID": 302,
+    "tombolaID": 4,
+    "shares": 50,
+    "rewardID": 5843
+  }
+]

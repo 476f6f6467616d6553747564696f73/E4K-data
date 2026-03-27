@@ -1,184 +1,182 @@
-{
-  "packageSubFilter": [
-    {
-      "subFilterID": 1,
-      "name": "Helmet"
-    },
-    {
-      "subFilterID": 2,
-      "name": "Armor"
-    },
-    {
-      "subFilterID": 3,
-      "name": "Weapon"
-    },
-    {
-      "subFilterID": 4,
-      "name": "Artifact"
-    },
-    {
-      "subFilterID": 5,
-      "name": "Appearance"
-    },
-    {
-      "subFilterID": 6,
-      "name": "Heroes"
-    },
-    {
-      "subFilterID": 7,
-      "name": "Bundles"
-    },
-    {
-      "subFilterID": 8,
-      "name": "Unique"
-    },
-    {
-      "subFilterID": 9,
-      "name": "Relic"
-    },
-    {
-      "subFilterID": 10,
-      "name": "General"
-    },
-    {
-      "subFilterID": 11,
-      "name": "Baron"
-    },
-    {
-      "subFilterID": 20,
-      "name": "Level"
-    },
-    {
-      "subFilterID": 30,
-      "name": "Melee"
-    },
-    {
-      "subFilterID": 31,
-      "name": "Range"
-    },
-    {
-      "subFilterID": 32,
-      "name": "Offensive"
-    },
-    {
-      "subFilterID": 33,
-      "name": "Defensive"
-    },
-    {
-      "subFilterID": 40,
-      "name": "Melee bonus attack"
-    },
-    {
-      "subFilterID": 41,
-      "name": "Range bonus attack"
-    },
-    {
-      "subFilterID": 42,
-      "name": "Melee bonus defense"
-    },
-    {
-      "subFilterID": 43,
-      "name": "Range bonus defense"
-    },
-    {
-      "subFilterID": 44,
-      "name": "Wall"
-    },
-    {
-      "subFilterID": 45,
-      "name": "Gate"
-    },
-    {
-      "subFilterID": 46,
-      "name": "Moat"
-    },
-    {
-      "subFilterID": 47,
-      "name": "Bonus value"
-    },
-    {
-      "subFilterID": 50,
-      "name": "Target"
-    },
-    {
-      "subFilterID": 51,
-      "name": "Source"
-    },
-    {
-      "subFilterID": 60,
-      "name": "Construction items"
-    },
-    {
-      "subFilterID": 61,
-      "name": "Construction items Apperance"
-    },
-    {
-      "subFilterID": 62,
-      "name": "Material Bags"
-    },
-    {
-      "subFilterID": 63,
-      "name": "Material Common"
-    },
-    {
-      "subFilterID": 64,
-      "name": "Material Rare"
-    },
-    {
-      "subFilterID": 65,
-      "name": "Material Epic"
-    },
-    {
-      "subFilterID": 66,
-      "name": "Material Legendary"
-    },
-    {
-      "subFilterID": 67,
-      "name": "Relic CI"
-    },
-    {
-      "subFilterID": 80,
-      "name": "Stone"
-    },
-    {
-      "subFilterID": 81,
-      "name": "Wood"
-    },
-    {
-      "subFilterID": 82,
-      "name": "Food"
-    },
-    {
-      "subFilterID": 83,
-      "name": "Coal"
-    },
-    {
-      "subFilterID": 84,
-      "name": "Glass"
-    },
-    {
-      "subFilterID": 85,
-      "name": "Oil"
-    },
-    {
-      "subFilterID": 86,
-      "name": "Iron"
-    },
-    {
-      "subFilterID": 87,
-      "name": "Coins"
-    },
-    {
-      "subFilterID": 88,
-      "name": "Honey"
-    },
-    {
-      "subFilterID": 89,
-      "name": "Mead"
-    },
-    {
-      "subFilterID": 90,
-      "name": "Beef"
-    }
-  ]
-}
+[
+  {
+    "subFilterID": 1,
+    "name": "Helmet"
+  },
+  {
+    "subFilterID": 2,
+    "name": "Armor"
+  },
+  {
+    "subFilterID": 3,
+    "name": "Weapon"
+  },
+  {
+    "subFilterID": 4,
+    "name": "Artifact"
+  },
+  {
+    "subFilterID": 5,
+    "name": "Appearance"
+  },
+  {
+    "subFilterID": 6,
+    "name": "Heroes"
+  },
+  {
+    "subFilterID": 7,
+    "name": "Bundles"
+  },
+  {
+    "subFilterID": 8,
+    "name": "Unique"
+  },
+  {
+    "subFilterID": 9,
+    "name": "Relic"
+  },
+  {
+    "subFilterID": 10,
+    "name": "General"
+  },
+  {
+    "subFilterID": 11,
+    "name": "Baron"
+  },
+  {
+    "subFilterID": 20,
+    "name": "Level"
+  },
+  {
+    "subFilterID": 30,
+    "name": "Melee"
+  },
+  {
+    "subFilterID": 31,
+    "name": "Range"
+  },
+  {
+    "subFilterID": 32,
+    "name": "Offensive"
+  },
+  {
+    "subFilterID": 33,
+    "name": "Defensive"
+  },
+  {
+    "subFilterID": 40,
+    "name": "Melee bonus attack"
+  },
+  {
+    "subFilterID": 41,
+    "name": "Range bonus attack"
+  },
+  {
+    "subFilterID": 42,
+    "name": "Melee bonus defense"
+  },
+  {
+    "subFilterID": 43,
+    "name": "Range bonus defense"
+  },
+  {
+    "subFilterID": 44,
+    "name": "Wall"
+  },
+  {
+    "subFilterID": 45,
+    "name": "Gate"
+  },
+  {
+    "subFilterID": 46,
+    "name": "Moat"
+  },
+  {
+    "subFilterID": 47,
+    "name": "Bonus value"
+  },
+  {
+    "subFilterID": 50,
+    "name": "Target"
+  },
+  {
+    "subFilterID": 51,
+    "name": "Source"
+  },
+  {
+    "subFilterID": 60,
+    "name": "Construction items"
+  },
+  {
+    "subFilterID": 61,
+    "name": "Construction items Apperance"
+  },
+  {
+    "subFilterID": 62,
+    "name": "Material Bags"
+  },
+  {
+    "subFilterID": 63,
+    "name": "Material Common"
+  },
+  {
+    "subFilterID": 64,
+    "name": "Material Rare"
+  },
+  {
+    "subFilterID": 65,
+    "name": "Material Epic"
+  },
+  {
+    "subFilterID": 66,
+    "name": "Material Legendary"
+  },
+  {
+    "subFilterID": 67,
+    "name": "Relic CI"
+  },
+  {
+    "subFilterID": 80,
+    "name": "Stone"
+  },
+  {
+    "subFilterID": 81,
+    "name": "Wood"
+  },
+  {
+    "subFilterID": 82,
+    "name": "Food"
+  },
+  {
+    "subFilterID": 83,
+    "name": "Coal"
+  },
+  {
+    "subFilterID": 84,
+    "name": "Glass"
+  },
+  {
+    "subFilterID": 85,
+    "name": "Oil"
+  },
+  {
+    "subFilterID": 86,
+    "name": "Iron"
+  },
+  {
+    "subFilterID": 87,
+    "name": "Coins"
+  },
+  {
+    "subFilterID": 88,
+    "name": "Honey"
+  },
+  {
+    "subFilterID": 89,
+    "name": "Mead"
+  },
+  {
+    "subFilterID": 90,
+    "name": "Beef"
+  }
+]

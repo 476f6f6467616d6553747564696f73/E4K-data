@@ -1,29 +1,27 @@
-{
-  "saleDaysLuckyWheelInitialCategorySelection": [
-    {
-      "id": 0,
-      "chance": 14.4,
-      "category": "Jackpot"
-    },
-    {
-      "id": 1,
-      "chance": 30.6,
-      "category": "Tools"
-    },
-    {
-      "id": 2,
-      "chance": 15,
-      "category": "Tickets"
-    },
-    {
-      "id": 3,
-      "chance": 10,
-      "category": "Items"
-    },
-    {
-      "id": 4,
-      "chance": 30,
-      "category": "Units"
-    }
-  ]
-}
+[
+  {
+    "id": 0,
+    "chance": 14.4,
+    "category": "Jackpot"
+  },
+  {
+    "id": 1,
+    "chance": 30.6,
+    "category": "Tools"
+  },
+  {
+    "id": 2,
+    "chance": 15,
+    "category": "Tickets"
+  },
+  {
+    "id": 3,
+    "chance": 10,
+    "category": "Items"
+  },
+  {
+    "id": 4,
+    "chance": 30,
+    "category": "Units"
+  }
+]

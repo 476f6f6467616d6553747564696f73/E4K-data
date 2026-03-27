@@ -1,16 +1,14 @@
-{
-  "equipment_wearer": [
-    {
-      "wearerID": 1,
-      "crossplayID": 1,
-      "dropRate": 47,
-      "name": "baron"
-    },
-    {
-      "wearerID": 2,
-      "crossplayID": 2,
-      "dropRate": 53,
-      "name": "general"
-    }
-  ]
-}
+[
+  {
+    "wearerID": 1,
+    "crossplayID": 1,
+    "dropRate": 47,
+    "name": "baron"
+  },
+  {
+    "wearerID": 2,
+    "crossplayID": 2,
+    "dropRate": 53,
+    "name": "general"
+  }
+]

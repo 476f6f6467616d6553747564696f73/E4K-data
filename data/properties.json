@@ -1,47 +1,45 @@
-{
-  "property": [
-    {
-      "propertyID": 1,
-      "value": 70,
-      "name": "battleReportCutoffLargeNormalWin",
-      "clientOnly": 1
-    },
-    {
-      "propertyID": 2,
-      "value": 50,
-      "name": "battleReportCutoffNormalCloseWin",
-      "clientOnly": 1
-    },
-    {
-      "propertyID": 3,
-      "value": 60,
-      "name": "battleReportCutoffNormalCloseLoss",
-      "clientOnly": 1
-    },
-    {
-      "propertyID": 4,
-      "value": 604800,
-      "name": "activeTimeToParticipateInEvents"
-    },
-    {
-      "propertyID": 11,
-      "value": 3,
-      "name": "samuraiMedalBoosterKeyBoost"
-    },
-    {
-      "propertyID": 12,
-      "value": 100,
-      "name": "samuraiMedalBoosterKeyLimit"
-    },
-    {
-      "propertyID": 13,
-      "value": 3,
-      "name": "shogunPointBoosterKeyBoost"
-    },
-    {
-      "propertyID": 14,
-      "value": 100,
-      "name": "shogunPointBoosterKeyLimit"
-    }
-  ]
-}
+[
+  {
+    "propertyID": 1,
+    "value": 70,
+    "name": "battleReportCutoffLargeNormalWin",
+    "clientOnly": 1
+  },
+  {
+    "propertyID": 2,
+    "value": 50,
+    "name": "battleReportCutoffNormalCloseWin",
+    "clientOnly": 1
+  },
+  {
+    "propertyID": 3,
+    "value": 60,
+    "name": "battleReportCutoffNormalCloseLoss",
+    "clientOnly": 1
+  },
+  {
+    "propertyID": 4,
+    "value": 604800,
+    "name": "activeTimeToParticipateInEvents"
+  },
+  {
+    "propertyID": 11,
+    "value": 3,
+    "name": "samuraiMedalBoosterKeyBoost"
+  },
+  {
+    "propertyID": 12,
+    "value": 100,
+    "name": "samuraiMedalBoosterKeyLimit"
+  },
+  {
+    "propertyID": 13,
+    "value": 3,
+    "name": "shogunPointBoosterKeyBoost"
+  },
+  {
+    "propertyID": 14,
+    "value": 100,
+    "name": "shogunPointBoosterKeyLimit"
+  }
+]

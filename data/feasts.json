@@ -1,104 +1,102 @@
-{
-  "feast": [
-    {
-      "feastID": 0,
-      "productionBoost": 80,
-      "duration": 3600,
-      "costFood": 4000,
-      "minLevel": 10,
-      "maxLevel": 69,
-      "type": "small",
-      "sortOrder": 1
-    },
-    {
-      "feastID": 4,
-      "productionBoost": 500,
-      "duration": 900,
-      "costC2": 1750,
-      "minLevel": 10,
-      "maxLevel": 69,
-      "type": "ruby",
-      "sortOrder": 2
-    },
-    {
-      "feastID": 1,
-      "productionBoost": 150,
-      "duration": 10800,
-      "costFood": 13000,
-      "minLevel": 18,
-      "maxLevel": 69,
-      "type": "medium",
-      "sortOrder": 3
-    },
-    {
-      "feastID": 2,
-      "productionBoost": 300,
-      "duration": 21600,
-      "costFood": 40000,
-      "minLevel": 33,
-      "maxLevel": 69,
-      "type": "big",
-      "sortOrder": 4
-    },
-    {
-      "feastID": 3,
-      "productionBoost": 600,
-      "duration": 21600,
-      "costFood": 80000,
-      "minLevel": 45,
-      "maxLevel": 69,
-      "type": "fourth",
-      "sortOrder": 5
-    },
-    {
-      "feastID": 5,
-      "productionBoost": 150,
-      "duration": 21600,
-      "costFood": 25000,
-      "minLevel": 70,
-      "maxLevel": 1020,
-      "type": "smallLevel2",
-      "sortOrder": 1
-    },
-    {
-      "feastID": 6,
-      "productionBoost": 250,
-      "duration": 21600,
-      "costFood": 50000,
-      "minLevel": 70,
-      "maxLevel": 1020,
-      "type": "mediumLevel2",
-      "sortOrder": 2
-    },
-    {
-      "feastID": 7,
-      "productionBoost": 500,
-      "duration": 21600,
-      "costFood": 100000,
-      "minLevel": 70,
-      "maxLevel": 1020,
-      "type": "bigLevel2",
-      "sortOrder": 3
-    },
-    {
-      "feastID": 8,
-      "productionBoost": 800,
-      "duration": 21600,
-      "costFood": 150000,
-      "minLevel": 70,
-      "maxLevel": 1020,
-      "type": "fourthLevel2",
-      "sortOrder": 4
-    },
-    {
-      "feastID": 9,
-      "productionBoost": 1000,
-      "duration": 21600,
-      "costC2": 30000,
-      "minLevel": 70,
-      "maxLevel": 1020,
-      "type": "rubyLevel2",
-      "sortOrder": 5
-    }
-  ]
-}
+[
+  {
+    "feastID": 0,
+    "productionBoost": 80,
+    "duration": 3600,
+    "costFood": 4000,
+    "minLevel": 10,
+    "maxLevel": 69,
+    "type": "small",
+    "sortOrder": 1
+  },
+  {
+    "feastID": 4,
+    "productionBoost": 500,
+    "duration": 900,
+    "costC2": 1750,
+    "minLevel": 10,
+    "maxLevel": 69,
+    "type": "ruby",
+    "sortOrder": 2
+  },
+  {
+    "feastID": 1,
+    "productionBoost": 150,
+    "duration": 10800,
+    "costFood": 13000,
+    "minLevel": 18,
+    "maxLevel": 69,
+    "type": "medium",
+    "sortOrder": 3
+  },
+  {
+    "feastID": 2,
+    "productionBoost": 300,
+    "duration": 21600,
+    "costFood": 40000,
+    "minLevel": 33,
+    "maxLevel": 69,
+    "type": "big",
+    "sortOrder": 4
+  },
+  {
+    "feastID": 3,
+    "productionBoost": 600,
+    "duration": 21600,
+    "costFood": 80000,
+    "minLevel": 45,
+    "maxLevel": 69,
+    "type": "fourth",
+    "sortOrder": 5
+  },
+  {
+    "feastID": 5,
+    "productionBoost": 150,
+    "duration": 21600,
+    "costFood": 25000,
+    "minLevel": 70,
+    "maxLevel": 1020,
+    "type": "smallLevel2",
+    "sortOrder": 1
+  },
+  {
+    "feastID": 6,
+    "productionBoost": 250,
+    "duration": 21600,
+    "costFood": 50000,
+    "minLevel": 70,
+    "maxLevel": 1020,
+    "type": "mediumLevel2",
+    "sortOrder": 2
+  },
+  {
+    "feastID": 7,
+    "productionBoost": 500,
+    "duration": 21600,
+    "costFood": 100000,
+    "minLevel": 70,
+    "maxLevel": 1020,
+    "type": "bigLevel2",
+    "sortOrder": 3
+  },
+  {
+    "feastID": 8,
+    "productionBoost": 800,
+    "duration": 21600,
+    "costFood": 150000,
+    "minLevel": 70,
+    "maxLevel": 1020,
+    "type": "fourthLevel2",
+    "sortOrder": 4
+  },
+  {
+    "feastID": 9,
+    "productionBoost": 1000,
+    "duration": 21600,
+    "costC2": 30000,
+    "minLevel": 70,
+    "maxLevel": 1020,
+    "type": "rubyLevel2",
+    "sortOrder": 5
+  }
+]

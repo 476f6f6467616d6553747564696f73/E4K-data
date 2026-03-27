@@ -1,54 +1,52 @@
-{
-  "mainquest": [
-    {
-      "mainQuestID": 1,
-      "crossplayID": 1,
-      "IDsForRunning": 2035
-    },
-    {
-      "mainQuestID": 2,
-      "crossplayID": 2,
-      "IDsForRunning": 2050,
-      "IDsForDone": 2068
-    },
-    {
-      "mainQuestID": 3,
-      "crossplayID": 3,
-      "IDsForAnnounced": 93,
-      "IDsForRunning": 95,
-      "IDsForDone": 106
-    },
-    {
-      "mainQuestID": 4,
-      "crossplayID": 4,
-      "IDsForRunning": 115,
-      "IDsForDone": 143
-    },
-    {
-      "mainQuestID": 5,
-      "crossplayID": 5,
-      "IDsForRunning": 143
-    },
-    {
-      "mainQuestID": 6,
-      "crossplayID": 6,
-      "IDsForAnnounced": 250,
-      "IDsForRunning": 251,
-      "IDsForDone": 271
-    },
-    {
-      "mainQuestID": 7,
-      "crossplayID": 7,
-      "IDsForAnnounced": 351,
-      "IDsForRunning": 355,
-      "IDsForDone": 369
-    },
-    {
-      "mainQuestID": 8,
-      "crossplayID": 8,
-      "IDsForAnnounced": 196,
-      "IDsForRunning": 198,
-      "IDsForDone": 211
-    }
-  ]
-}
+[
+  {
+    "mainQuestID": 1,
+    "crossplayID": 1,
+    "IDsForRunning": 2035
+  },
+  {
+    "mainQuestID": 2,
+    "crossplayID": 2,
+    "IDsForRunning": 2050,
+    "IDsForDone": 2068
+  },
+  {
+    "mainQuestID": 3,
+    "crossplayID": 3,
+    "IDsForAnnounced": 93,
+    "IDsForRunning": 95,
+    "IDsForDone": 106
+  },
+  {
+    "mainQuestID": 4,
+    "crossplayID": 4,
+    "IDsForRunning": 115,
+    "IDsForDone": 143
+  },
+  {
+    "mainQuestID": 5,
+    "crossplayID": 5,
+    "IDsForRunning": 143
+  },
+  {
+    "mainQuestID": 6,
+    "crossplayID": 6,
+    "IDsForAnnounced": 250,
+    "IDsForRunning": 251,
+    "IDsForDone": 271
+  },
+  {
+    "mainQuestID": 7,
+    "crossplayID": 7,
+    "IDsForAnnounced": 351,
+    "IDsForRunning": 355,
+    "IDsForDone": 369
+  },
+  {
+    "mainQuestID": 8,
+    "crossplayID": 8,
+    "IDsForAnnounced": 196,
+    "IDsForRunning": 198,
+    "IDsForDone": 211
+  }
+]

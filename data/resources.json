@@ -1,82 +1,80 @@
-{
-  "resource": [
-    {
-      "resourceID": 1,
-      "crossplayID": 1,
-      "name": "currency1",
-      "JSONKey": "C1"
-    },
-    {
-      "resourceID": 2,
-      "crossplayID": 2,
-      "name": "currency2",
-      "JSONKey": "C2"
-    },
-    {
-      "resourceID": 3,
-      "crossplayID": 3,
-      "name": "wood",
-      "JSONKey": "W"
-    },
-    {
-      "resourceID": 4,
-      "crossplayID": 4,
-      "name": "stone",
-      "JSONKey": "S"
-    },
-    {
-      "resourceID": 5,
-      "crossplayID": 5,
-      "name": "food",
-      "JSONKey": "F"
-    },
-    {
-      "resourceID": 6,
-      "crossplayID": 6,
-      "name": "coal",
-      "JSONKey": "C"
-    },
-    {
-      "resourceID": 7,
-      "crossplayID": 7,
-      "name": "oil",
-      "JSONKey": "O"
-    },
-    {
-      "resourceID": 8,
-      "crossplayID": 8,
-      "name": "glass",
-      "JSONKey": "G"
-    },
-    {
-      "resourceID": 9,
-      "crossplayID": 9,
-      "name": "aquamarine",
-      "JSONKey": "A"
-    },
-    {
-      "resourceID": 10,
-      "crossplayID": 10,
-      "name": "iron",
-      "JSONKey": "I"
-    },
-    {
-      "resourceID": 11,
-      "crossplayID": 11,
-      "name": "honey",
-      "JSONKey": "HONEY"
-    },
-    {
-      "resourceID": 12,
-      "crossplayID": 12,
-      "name": "mead",
-      "JSONKey": "MEAD"
-    },
-    {
-      "resourceID": 13,
-      "crossplayID": 13,
-      "name": "beef",
-      "JSONKey": "BEEF"
-    }
-  ]
-}
+[
+  {
+    "resourceID": 1,
+    "crossplayID": 1,
+    "name": "currency1",
+    "JSONKey": "C1"
+  },
+  {
+    "resourceID": 2,
+    "crossplayID": 2,
+    "name": "currency2",
+    "JSONKey": "C2"
+  },
+  {
+    "resourceID": 3,
+    "crossplayID": 3,
+    "name": "wood",
+    "JSONKey": "W"
+  },
+  {
+    "resourceID": 4,
+    "crossplayID": 4,
+    "name": "stone",
+    "JSONKey": "S"
+  },
+  {
+    "resourceID": 5,
+    "crossplayID": 5,
+    "name": "food",
+    "JSONKey": "F"
+  },
+  {
+    "resourceID": 6,
+    "crossplayID": 6,
+    "name": "coal",
+    "JSONKey": "C"
+  },
+  {
+    "resourceID": 7,
+    "crossplayID": 7,
+    "name": "oil",
+    "JSONKey": "O"
+  },
+  {
+    "resourceID": 8,
+    "crossplayID": 8,
+    "name": "glass",
+    "JSONKey": "G"
+  },
+  {
+    "resourceID": 9,
+    "crossplayID": 9,
+    "name": "aquamarine",
+    "JSONKey": "A"
+  },
+  {
+    "resourceID": 10,
+    "crossplayID": 10,
+    "name": "iron",
+    "JSONKey": "I"
+  },
+  {
+    "resourceID": 11,
+    "crossplayID": 11,
+    "name": "honey",
+    "JSONKey": "HONEY"
+  },
+  {
+    "resourceID": 12,
+    "crossplayID": 12,
+    "name": "mead",
+    "JSONKey": "MEAD"
+  },
+  {
+    "resourceID": 13,
+    "crossplayID": 13,
+    "name": "beef",
+    "JSONKey": "BEEF"
+  }
+]

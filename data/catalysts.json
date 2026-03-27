@@ -1,724 +1,722 @@
-{
-  "catalyst": [
-    {
-      "currencyID": 100001,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 10,
-      "tier": 1,
-      "addDecoDust": 2,
-      "costDecoDust": 2
-    },
-    {
-      "currencyID": 100002,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 20,
-      "tier": 2,
-      "addDecoDust": 4,
-      "costDecoDust": 4
-    },
-    {
-      "currencyID": 100003,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 30,
-      "tier": 3,
-      "addDecoDust": 6,
-      "costDecoDust": 6
-    },
-    {
-      "currencyID": 100004,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 40,
-      "tier": 4,
-      "addDecoDust": 8,
-      "costDecoDust": 8
-    },
-    {
-      "currencyID": 100005,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 50,
-      "tier": 5,
-      "addDecoDust": 10,
-      "costDecoDust": 10
-    },
-    {
-      "currencyID": 100006,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 60,
-      "tier": 6,
-      "addDecoDust": 12,
-      "costDecoDust": 12
-    },
-    {
-      "currencyID": 100007,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 70,
-      "tier": 7,
-      "addDecoDust": 14,
-      "costDecoDust": 14
-    },
-    {
-      "currencyID": 100008,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 80,
-      "tier": 8,
-      "addDecoDust": 16,
-      "costDecoDust": 16
-    },
-    {
-      "currencyID": 100009,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 90,
-      "tier": 9,
-      "addDecoDust": 18,
-      "costDecoDust": 18
-    },
-    {
-      "currencyID": 100010,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 100,
-      "tier": 10,
-      "addDecoDust": 20,
-      "costDecoDust": 20
-    },
-    {
-      "currencyID": 100011,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 110,
-      "tier": 11,
-      "addDecoDust": 22,
-      "costDecoDust": 22
-    },
-    {
-      "currencyID": 100012,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 120,
-      "tier": 12,
-      "addDecoDust": 24,
-      "costDecoDust": 24
-    },
-    {
-      "currencyID": 100013,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 130,
-      "tier": 13,
-      "addDecoDust": 26,
-      "costDecoDust": 26
-    },
-    {
-      "currencyID": 100014,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 140,
-      "tier": 14,
-      "addDecoDust": 28,
-      "costDecoDust": 28
-    },
-    {
-      "currencyID": 100015,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 150,
-      "tier": 15,
-      "addDecoDust": 30,
-      "costDecoDust": 30
-    },
-    {
-      "currencyID": 100016,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 160,
-      "tier": 16,
-      "addDecoDust": 32,
-      "costDecoDust": 32
-    },
-    {
-      "currencyID": 100017,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 170,
-      "tier": 17,
-      "addDecoDust": 34,
-      "costDecoDust": 34
-    },
-    {
-      "currencyID": 100018,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 180,
-      "tier": 18,
-      "addDecoDust": 36,
-      "costDecoDust": 36
-    },
-    {
-      "currencyID": 100019,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 190,
-      "tier": 19,
-      "addDecoDust": 38,
-      "costDecoDust": 38
-    },
-    {
-      "currencyID": 100020,
-      "forgeID": 1,
-      "deprecated": 1,
-      "maxUsableFusionLevel": 200,
-      "tier": 20,
-      "addDecoDust": 40,
-      "costDecoDust": 40
-    },
-    {
-      "currencyID": 100021,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 210,
-      "tier": 21,
-      "addDecoDust": 42,
-      "costDecoDust": 42
-    },
-    {
-      "currencyID": 100022,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 220,
-      "tier": 22,
-      "addDecoDust": 44,
-      "costDecoDust": 44
-    },
-    {
-      "currencyID": 100023,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 230,
-      "tier": 23,
-      "addDecoDust": 46,
-      "costDecoDust": 46
-    },
-    {
-      "currencyID": 100024,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 240,
-      "tier": 24,
-      "addDecoDust": 48,
-      "costDecoDust": 48
-    },
-    {
-      "currencyID": 100025,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 250,
-      "tier": 25,
-      "addDecoDust": 50,
-      "costDecoDust": 50
-    },
-    {
-      "currencyID": 100026,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 260,
-      "tier": 26,
-      "addDecoDust": 52,
-      "costDecoDust": 52
-    },
-    {
-      "currencyID": 100027,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 270,
-      "tier": 27,
-      "addDecoDust": 54,
-      "costDecoDust": 54
-    },
-    {
-      "currencyID": 100028,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 280,
-      "tier": 28,
-      "addDecoDust": 56,
-      "costDecoDust": 56
-    },
-    {
-      "currencyID": 100029,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 290,
-      "tier": 29,
-      "addDecoDust": 58,
-      "costDecoDust": 58
-    },
-    {
-      "currencyID": 100030,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 300,
-      "tier": 30,
-      "addDecoDust": 60,
-      "costDecoDust": 60
-    },
-    {
-      "currencyID": 100031,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 310,
-      "tier": 31,
-      "addDecoDust": 62,
-      "costDecoDust": 62
-    },
-    {
-      "currencyID": 100032,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 320,
-      "tier": 32,
-      "addDecoDust": 64,
-      "costDecoDust": 64
-    },
-    {
-      "currencyID": 100033,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 330,
-      "tier": 33,
-      "addDecoDust": 66,
-      "costDecoDust": 66
-    },
-    {
-      "currencyID": 100034,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 340,
-      "tier": 34,
-      "addDecoDust": 68,
-      "costDecoDust": 68
-    },
-    {
-      "currencyID": 100035,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 350,
-      "tier": 35,
-      "addDecoDust": 70,
-      "costDecoDust": 70
-    },
-    {
-      "currencyID": 100036,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 360,
-      "tier": 36,
-      "addDecoDust": 72,
-      "costDecoDust": 72
-    },
-    {
-      "currencyID": 100037,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 370,
-      "tier": 37,
-      "addDecoDust": 74,
-      "costDecoDust": 74
-    },
-    {
-      "currencyID": 100038,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 380,
-      "tier": 38,
-      "addDecoDust": 76,
-      "costDecoDust": 76
-    },
-    {
-      "currencyID": 100039,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 390,
-      "tier": 39,
-      "addDecoDust": 78,
-      "costDecoDust": 78
-    },
-    {
-      "currencyID": 100040,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 400,
-      "tier": 40,
-      "addDecoDust": 80,
-      "costDecoDust": 80
-    },
-    {
-      "currencyID": 100041,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 410,
-      "tier": 41,
-      "addDecoDust": 82,
-      "costDecoDust": 82
-    },
-    {
-      "currencyID": 100042,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 420,
-      "tier": 42,
-      "addDecoDust": 84,
-      "costDecoDust": 84
-    },
-    {
-      "currencyID": 100043,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 430,
-      "tier": 43,
-      "addDecoDust": 86,
-      "costDecoDust": 86
-    },
-    {
-      "currencyID": 100044,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 440,
-      "tier": 44,
-      "addDecoDust": 88,
-      "costDecoDust": 88
-    },
-    {
-      "currencyID": 100045,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 450,
-      "tier": 45,
-      "addDecoDust": 90,
-      "costDecoDust": 90
-    },
-    {
-      "currencyID": 100046,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 460,
-      "tier": 46,
-      "addDecoDust": 92,
-      "costDecoDust": 92
-    },
-    {
-      "currencyID": 100047,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 470,
-      "tier": 47,
-      "addDecoDust": 94,
-      "costDecoDust": 94
-    },
-    {
-      "currencyID": 100048,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 480,
-      "tier": 48,
-      "addDecoDust": 96,
-      "costDecoDust": 96
-    },
-    {
-      "currencyID": 100049,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 490,
-      "tier": 49,
-      "addDecoDust": 98,
-      "costDecoDust": 98
-    },
-    {
-      "currencyID": 100050,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 500,
-      "tier": 50,
-      "addDecoDust": 100,
-      "costDecoDust": 100
-    },
-    {
-      "currencyID": 100051,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 510,
-      "tier": 51,
-      "addDecoDust": 102,
-      "costDecoDust": 102
-    },
-    {
-      "currencyID": 100052,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 520,
-      "tier": 52,
-      "addDecoDust": 104,
-      "costDecoDust": 104
-    },
-    {
-      "currencyID": 100053,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 530,
-      "tier": 53,
-      "addDecoDust": 106,
-      "costDecoDust": 106
-    },
-    {
-      "currencyID": 100054,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 540,
-      "tier": 54,
-      "addDecoDust": 108,
-      "costDecoDust": 108
-    },
-    {
-      "currencyID": 100055,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 550,
-      "tier": 55,
-      "addDecoDust": 110,
-      "costDecoDust": 110
-    },
-    {
-      "currencyID": 100056,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 560,
-      "tier": 56,
-      "addDecoDust": 112,
-      "costDecoDust": 112
-    },
-    {
-      "currencyID": 100057,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 570,
-      "tier": 57,
-      "addDecoDust": 114,
-      "costDecoDust": 114
-    },
-    {
-      "currencyID": 100058,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 580,
-      "tier": 58,
-      "addDecoDust": 116,
-      "costDecoDust": 116
-    },
-    {
-      "currencyID": 100059,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 590,
-      "tier": 59,
-      "addDecoDust": 118,
-      "costDecoDust": 118
-    },
-    {
-      "currencyID": 100060,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 600,
-      "tier": 60,
-      "addDecoDust": 120,
-      "costDecoDust": 120
-    },
-    {
-      "currencyID": 100061,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 610,
-      "tier": 61,
-      "addDecoDust": 122,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100062,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 620,
-      "tier": 62,
-      "addDecoDust": 124,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100063,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 630,
-      "tier": 63,
-      "addDecoDust": 126,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100064,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 640,
-      "tier": 64,
-      "addDecoDust": 128,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100065,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 650,
-      "tier": 65,
-      "addDecoDust": 130,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100066,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 660,
-      "tier": 66,
-      "addDecoDust": 132,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100067,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 670,
-      "tier": 67,
-      "addDecoDust": 134,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100068,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 680,
-      "tier": 68,
-      "addDecoDust": 136,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100069,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 690,
-      "tier": 69,
-      "addDecoDust": 138,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100070,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 700,
-      "tier": 70,
-      "addDecoDust": 140,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100071,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 710,
-      "tier": 71,
-      "addDecoDust": 142,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100072,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 720,
-      "tier": 72,
-      "addDecoDust": 144,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100073,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 730,
-      "tier": 73,
-      "addDecoDust": 146,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100074,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 740,
-      "tier": 74,
-      "addDecoDust": 148,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100075,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 750,
-      "tier": 75,
-      "addDecoDust": 150,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100076,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 760,
-      "tier": 76,
-      "addDecoDust": 152,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100077,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 770,
-      "tier": 77,
-      "addDecoDust": 154,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100078,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 780,
-      "tier": 78,
-      "addDecoDust": 156,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100079,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 790,
-      "tier": 79,
-      "addDecoDust": 158,
-      "costDecoDust": 0
-    },
-    {
-      "currencyID": 100080,
-      "forgeID": 1,
-      "deprecated": 0,
-      "maxUsableFusionLevel": 800,
-      "tier": 80,
-      "addDecoDust": 160,
-      "costDecoDust": 0
-    }
-  ]
-}
+[
+  {
+    "currencyID": 100001,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 10,
+    "tier": 1,
+    "addDecoDust": 2,
+    "costDecoDust": 2
+  },
+  {
+    "currencyID": 100002,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 20,
+    "tier": 2,
+    "addDecoDust": 4,
+    "costDecoDust": 4
+  },
+  {
+    "currencyID": 100003,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 30,
+    "tier": 3,
+    "addDecoDust": 6,
+    "costDecoDust": 6
+  },
+  {
+    "currencyID": 100004,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 40,
+    "tier": 4,
+    "addDecoDust": 8,
+    "costDecoDust": 8
+  },
+  {
+    "currencyID": 100005,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 50,
+    "tier": 5,
+    "addDecoDust": 10,
+    "costDecoDust": 10
+  },
+  {
+    "currencyID": 100006,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 60,
+    "tier": 6,
+    "addDecoDust": 12,
+    "costDecoDust": 12
+  },
+  {
+    "currencyID": 100007,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 70,
+    "tier": 7,
+    "addDecoDust": 14,
+    "costDecoDust": 14
+  },
+  {
+    "currencyID": 100008,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 80,
+    "tier": 8,
+    "addDecoDust": 16,
+    "costDecoDust": 16
+  },
+  {
+    "currencyID": 100009,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 90,
+    "tier": 9,
+    "addDecoDust": 18,
+    "costDecoDust": 18
+  },
+  {
+    "currencyID": 100010,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 100,
+    "tier": 10,
+    "addDecoDust": 20,
+    "costDecoDust": 20
+  },
+  {
+    "currencyID": 100011,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 110,
+    "tier": 11,
+    "addDecoDust": 22,
+    "costDecoDust": 22
+  },
+  {
+    "currencyID": 100012,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 120,
+    "tier": 12,
+    "addDecoDust": 24,
+    "costDecoDust": 24
+  },
+  {
+    "currencyID": 100013,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 130,
+    "tier": 13,
+    "addDecoDust": 26,
+    "costDecoDust": 26
+  },
+  {
+    "currencyID": 100014,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 140,
+    "tier": 14,
+    "addDecoDust": 28,
+    "costDecoDust": 28
+  },
+  {
+    "currencyID": 100015,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 150,
+    "tier": 15,
+    "addDecoDust": 30,
+    "costDecoDust": 30
+  },
+  {
+    "currencyID": 100016,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 160,
+    "tier": 16,
+    "addDecoDust": 32,
+    "costDecoDust": 32
+  },
+  {
+    "currencyID": 100017,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 170,
+    "tier": 17,
+    "addDecoDust": 34,
+    "costDecoDust": 34
+  },
+  {
+    "currencyID": 100018,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 180,
+    "tier": 18,
+    "addDecoDust": 36,
+    "costDecoDust": 36
+  },
+  {
+    "currencyID": 100019,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 190,
+    "tier": 19,
+    "addDecoDust": 38,
+    "costDecoDust": 38
+  },
+  {
+    "currencyID": 100020,
+    "forgeID": 1,
+    "deprecated": 1,
+    "maxUsableFusionLevel": 200,
+    "tier": 20,
+    "addDecoDust": 40,
+    "costDecoDust": 40
+  },
+  {
+    "currencyID": 100021,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 210,
+    "tier": 21,
+    "addDecoDust": 42,
+    "costDecoDust": 42
+  },
+  {
+    "currencyID": 100022,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 220,
+    "tier": 22,
+    "addDecoDust": 44,
+    "costDecoDust": 44
+  },
+  {
+    "currencyID": 100023,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 230,
+    "tier": 23,
+    "addDecoDust": 46,
+    "costDecoDust": 46
+  },
+  {
+    "currencyID": 100024,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 240,
+    "tier": 24,
+    "addDecoDust": 48,
+    "costDecoDust": 48
+  },
+  {
+    "currencyID": 100025,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 250,
+    "tier": 25,
+    "addDecoDust": 50,
+    "costDecoDust": 50
+  },
+  {
+    "currencyID": 100026,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 260,
+    "tier": 26,
+    "addDecoDust": 52,
+    "costDecoDust": 52
+  },
+  {
+    "currencyID": 100027,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 270,
+    "tier": 27,
+    "addDecoDust": 54,
+    "costDecoDust": 54
+  },
+  {
+    "currencyID": 100028,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 280,
+    "tier": 28,
+    "addDecoDust": 56,
+    "costDecoDust": 56
+  },
+  {
+    "currencyID": 100029,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 290,
+    "tier": 29,
+    "addDecoDust": 58,
+    "costDecoDust": 58
+  },
+  {
+    "currencyID": 100030,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 300,
+    "tier": 30,
+    "addDecoDust": 60,
+    "costDecoDust": 60
+  },
+  {
+    "currencyID": 100031,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 310,
+    "tier": 31,
+    "addDecoDust": 62,
+    "costDecoDust": 62
+  },
+  {
+    "currencyID": 100032,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 320,
+    "tier": 32,
+    "addDecoDust": 64,
+    "costDecoDust": 64
+  },
+  {
+    "currencyID": 100033,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 330,
+    "tier": 33,
+    "addDecoDust": 66,
+    "costDecoDust": 66
+  },
+  {
+    "currencyID": 100034,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 340,
+    "tier": 34,
+    "addDecoDust": 68,
+    "costDecoDust": 68
+  },
+  {
+    "currencyID": 100035,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 350,
+    "tier": 35,
+    "addDecoDust": 70,
+    "costDecoDust": 70
+  },
+  {
+    "currencyID": 100036,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 360,
+    "tier": 36,
+    "addDecoDust": 72,
+    "costDecoDust": 72
+  },
+  {
+    "currencyID": 100037,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 370,
+    "tier": 37,
+    "addDecoDust": 74,
+    "costDecoDust": 74
+  },
+  {
+    "currencyID": 100038,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 380,
+    "tier": 38,
+    "addDecoDust": 76,
+    "costDecoDust": 76
+  },
+  {
+    "currencyID": 100039,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 390,
+    "tier": 39,
+    "addDecoDust": 78,
+    "costDecoDust": 78
+  },
+  {
+    "currencyID": 100040,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 400,
+    "tier": 40,
+    "addDecoDust": 80,
+    "costDecoDust": 80
+  },
+  {
+    "currencyID": 100041,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 410,
+    "tier": 41,
+    "addDecoDust": 82,
+    "costDecoDust": 82
+  },
+  {
+    "currencyID": 100042,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 420,
+    "tier": 42,
+    "addDecoDust": 84,
+    "costDecoDust": 84
+  },
+  {
+    "currencyID": 100043,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 430,
+    "tier": 43,
+    "addDecoDust": 86,
+    "costDecoDust": 86
+  },
+  {
+    "currencyID": 100044,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 440,
+    "tier": 44,
+    "addDecoDust": 88,
+    "costDecoDust": 88
+  },
+  {
+    "currencyID": 100045,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 450,
+    "tier": 45,
+    "addDecoDust": 90,
+    "costDecoDust": 90
+  },
+  {
+    "currencyID": 100046,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 460,
+    "tier": 46,
+    "addDecoDust": 92,
+    "costDecoDust": 92
+  },
+  {
+    "currencyID": 100047,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 470,
+    "tier": 47,
+    "addDecoDust": 94,
+    "costDecoDust": 94
+  },
+  {
+    "currencyID": 100048,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 480,
+    "tier": 48,
+    "addDecoDust": 96,
+    "costDecoDust": 96
+  },
+  {
+    "currencyID": 100049,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 490,
+    "tier": 49,
+    "addDecoDust": 98,
+    "costDecoDust": 98
+  },
+  {
+    "currencyID": 100050,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 500,
+    "tier": 50,
+    "addDecoDust": 100,
+    "costDecoDust": 100
+  },
+  {
+    "currencyID": 100051,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 510,
+    "tier": 51,
+    "addDecoDust": 102,
+    "costDecoDust": 102
+  },
+  {
+    "currencyID": 100052,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 520,
+    "tier": 52,
+    "addDecoDust": 104,
+    "costDecoDust": 104
+  },
+  {
+    "currencyID": 100053,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 530,
+    "tier": 53,
+    "addDecoDust": 106,
+    "costDecoDust": 106
+  },
+  {
+    "currencyID": 100054,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 540,
+    "tier": 54,
+    "addDecoDust": 108,
+    "costDecoDust": 108
+  },
+  {
+    "currencyID": 100055,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 550,
+    "tier": 55,
+    "addDecoDust": 110,
+    "costDecoDust": 110
+  },
+  {
+    "currencyID": 100056,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 560,
+    "tier": 56,
+    "addDecoDust": 112,
+    "costDecoDust": 112
+  },
+  {
+    "currencyID": 100057,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 570,
+    "tier": 57,
+    "addDecoDust": 114,
+    "costDecoDust": 114
+  },
+  {
+    "currencyID": 100058,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 580,
+    "tier": 58,
+    "addDecoDust": 116,
+    "costDecoDust": 116
+  },
+  {
+    "currencyID": 100059,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 590,
+    "tier": 59,
+    "addDecoDust": 118,
+    "costDecoDust": 118
+  },
+  {
+    "currencyID": 100060,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 600,
+    "tier": 60,
+    "addDecoDust": 120,
+    "costDecoDust": 120
+  },
+  {
+    "currencyID": 100061,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 610,
+    "tier": 61,
+    "addDecoDust": 122,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100062,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 620,
+    "tier": 62,
+    "addDecoDust": 124,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100063,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 630,
+    "tier": 63,
+    "addDecoDust": 126,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100064,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 640,
+    "tier": 64,
+    "addDecoDust": 128,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100065,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 650,
+    "tier": 65,
+    "addDecoDust": 130,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100066,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 660,
+    "tier": 66,
+    "addDecoDust": 132,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100067,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 670,
+    "tier": 67,
+    "addDecoDust": 134,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100068,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 680,
+    "tier": 68,
+    "addDecoDust": 136,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100069,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 690,
+    "tier": 69,
+    "addDecoDust": 138,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100070,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 700,
+    "tier": 70,
+    "addDecoDust": 140,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100071,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 710,
+    "tier": 71,
+    "addDecoDust": 142,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100072,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 720,
+    "tier": 72,
+    "addDecoDust": 144,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100073,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 730,
+    "tier": 73,
+    "addDecoDust": 146,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100074,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 740,
+    "tier": 74,
+    "addDecoDust": 148,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100075,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 750,
+    "tier": 75,
+    "addDecoDust": 150,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100076,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 760,
+    "tier": 76,
+    "addDecoDust": 152,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100077,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 770,
+    "tier": 77,
+    "addDecoDust": 154,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100078,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 780,
+    "tier": 78,
+    "addDecoDust": 156,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100079,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 790,
+    "tier": 79,
+    "addDecoDust": 158,
+    "costDecoDust": 0
+  },
+  {
+    "currencyID": 100080,
+    "forgeID": 1,
+    "deprecated": 0,
+    "maxUsableFusionLevel": 800,
+    "tier": 80,
+    "addDecoDust": 160,
+    "costDecoDust": 0
+  }
+]

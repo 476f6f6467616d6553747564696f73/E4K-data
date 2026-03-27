@@ -1,42 +1,40 @@
-{
-  "levelbracket": [
-    {
-      "bracketID": 0,
-      "maxLevel": 10
-    },
-    {
-      "bracketID": 1,
-      "minLevel": 11,
-      "maxLevel": 20
-    },
-    {
-      "bracketID": 2,
-      "minLevel": 21,
-      "maxLevel": 30
-    },
-    {
-      "bracketID": 3,
-      "minLevel": 31,
-      "maxLevel": 40
-    },
-    {
-      "bracketID": 4,
-      "minLevel": 41,
-      "maxLevel": 50
-    },
-    {
-      "bracketID": 5,
-      "minLevel": 51,
-      "maxLevel": 60
-    },
-    {
-      "bracketID": 6,
-      "minLevel": 61,
-      "maxLevel": 69
-    },
-    {
-      "bracketID": 7,
-      "minLevel": 70
-    }
-  ]
-}
+[
+  {
+    "bracketID": 0,
+    "maxLevel": 10
+  },
+  {
+    "bracketID": 1,
+    "minLevel": 11,
+    "maxLevel": 20
+  },
+  {
+    "bracketID": 2,
+    "minLevel": 21,
+    "maxLevel": 30
+  },
+  {
+    "bracketID": 3,
+    "minLevel": 31,
+    "maxLevel": 40
+  },
+  {
+    "bracketID": 4,
+    "minLevel": 41,
+    "maxLevel": 50
+  },
+  {
+    "bracketID": 5,
+    "minLevel": 51,
+    "maxLevel": 60
+  },
+  {
+    "bracketID": 6,
+    "minLevel": 61,
+    "maxLevel": 69
+  },
+  {
+    "bracketID": 7,
+    "minLevel": 70
+  }
+]

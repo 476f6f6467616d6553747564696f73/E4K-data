@@ -1,40 +1,38 @@
-{
-  "sceatSkillTree": [
-    {
-      "skillTreeID": 3,
-      "crossplayID": 3,
-      "tabID": 1,
-      "keepDisplayLevel": 6
-    },
-    {
-      "skillTreeID": 4,
-      "crossplayID": 4,
-      "tabID": 2,
-      "keepDisplayLevel": 6
-    },
-    {
-      "skillTreeID": 5,
-      "crossplayID": 5,
-      "tabID": 1,
-      "keepDisplayLevel": 7
-    },
-    {
-      "skillTreeID": 6,
-      "crossplayID": 6,
-      "tabID": 2,
-      "keepDisplayLevel": 7
-    },
-    {
-      "skillTreeID": 7,
-      "crossplayID": 7,
-      "tabID": 1,
-      "keepDisplayLevel": 8
-    },
-    {
-      "skillTreeID": 8,
-      "crossplayID": 8,
-      "tabID": 2,
-      "keepDisplayLevel": 8
-    }
-  ]
-}
+[
+  {
+    "skillTreeID": 3,
+    "crossplayID": 3,
+    "tabID": 1,
+    "keepDisplayLevel": 6
+  },
+  {
+    "skillTreeID": 4,
+    "crossplayID": 4,
+    "tabID": 2,
+    "keepDisplayLevel": 6
+  },
+  {
+    "skillTreeID": 5,
+    "crossplayID": 5,
+    "tabID": 1,
+    "keepDisplayLevel": 7
+  },
+  {
+    "skillTreeID": 6,
+    "crossplayID": 6,
+    "tabID": 2,
+    "keepDisplayLevel": 7
+  },
+  {
+    "skillTreeID": 7,
+    "crossplayID": 7,
+    "tabID": 1,
+    "keepDisplayLevel": 8
+  },
+  {
+    "skillTreeID": 8,
+    "crossplayID": 8,
+    "tabID": 2,
+    "keepDisplayLevel": 8
+  }
+]

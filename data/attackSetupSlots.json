@@ -1,154 +1,152 @@
-{
-  "attackSetupSlot": [
-    {
-      "slotID": 0,
-      "crossplayID": 0,
-      "costC2": 0
-    },
-    {
-      "slotID": 1,
-      "crossplayID": 1,
-      "costC2": 2200
-    },
-    {
-      "slotID": 2,
-      "crossplayID": 2,
-      "costC2": 4650
-    },
-    {
-      "slotID": 3,
-      "crossplayID": 3,
-      "costC2": 7100
-    },
-    {
-      "slotID": 4,
-      "crossplayID": 4,
-      "costC2": 9600
-    },
-    {
-      "slotID": 5,
-      "crossplayID": 5,
-      "costC2": 12100
-    },
-    {
-      "slotID": 6,
-      "crossplayID": 6,
-      "costC2": 14600
-    },
-    {
-      "slotID": 7,
-      "crossplayID": 7,
-      "costC2": 17100
-    },
-    {
-      "slotID": 8,
-      "crossplayID": 8,
-      "costC2": 19600
-    },
-    {
-      "slotID": 9,
-      "crossplayID": 9,
-      "costC2": 22100
-    },
-    {
-      "slotID": 10,
-      "crossplayID": 10,
-      "costC2": 24600
-    },
-    {
-      "slotID": 11,
-      "crossplayID": 11,
-      "costC2": 27100
-    },
-    {
-      "slotID": 12,
-      "crossplayID": 12,
-      "costC2": 29600
-    },
-    {
-      "slotID": 13,
-      "crossplayID": 13,
-      "costC2": 32100
-    },
-    {
-      "slotID": 14,
-      "crossplayID": 14,
-      "costC2": 34600
-    },
-    {
-      "slotID": 15,
-      "crossplayID": 15,
-      "costC2": 37100
-    },
-    {
-      "slotID": 16,
-      "crossplayID": 16,
-      "costC2": 39600
-    },
-    {
-      "slotID": 17,
-      "crossplayID": 17,
-      "costC2": 42100
-    },
-    {
-      "slotID": 18,
-      "crossplayID": 18,
-      "costC2": 44600
-    },
-    {
-      "slotID": 19,
-      "crossplayID": 19,
-      "costC2": 47100
-    },
-    {
-      "slotID": 20,
-      "crossplayID": 20,
-      "costC2": 49600
-    },
-    {
-      "slotID": 21,
-      "crossplayID": 21,
-      "costC2": 52100
-    },
-    {
-      "slotID": 22,
-      "crossplayID": 22,
-      "costC2": 54600
-    },
-    {
-      "slotID": 23,
-      "crossplayID": 23,
-      "costC2": 57100
-    },
-    {
-      "slotID": 24,
-      "crossplayID": 24,
-      "costC2": 59600
-    },
-    {
-      "slotID": 25,
-      "crossplayID": 25,
-      "costC2": 62100
-    },
-    {
-      "slotID": 26,
-      "crossplayID": 26,
-      "costC2": 64600
-    },
-    {
-      "slotID": 27,
-      "crossplayID": 27,
-      "costC2": 67100
-    },
-    {
-      "slotID": 28,
-      "crossplayID": 28,
-      "costC2": 69600
-    },
-    {
-      "slotID": 29,
-      "crossplayID": 29,
-      "costC2": 72100
-    }
-  ]
-}
+[
+  {
+    "slotID": 0,
+    "crossplayID": 0,
+    "costC2": 0
+  },
+  {
+    "slotID": 1,
+    "crossplayID": 1,
+    "costC2": 2200
+  },
+  {
+    "slotID": 2,
+    "crossplayID": 2,
+    "costC2": 4650
+  },
+  {
+    "slotID": 3,
+    "crossplayID": 3,
+    "costC2": 7100
+  },
+  {
+    "slotID": 4,
+    "crossplayID": 4,
+    "costC2": 9600
+  },
+  {
+    "slotID": 5,
+    "crossplayID": 5,
+    "costC2": 12100
+  },
+  {
+    "slotID": 6,
+    "crossplayID": 6,
+    "costC2": 14600
+  },
+  {
+    "slotID": 7,
+    "crossplayID": 7,
+    "costC2": 17100
+  },
+  {
+    "slotID": 8,
+    "crossplayID": 8,
+    "costC2": 19600
+  },
+  {
+    "slotID": 9,
+    "crossplayID": 9,
+    "costC2": 22100
+  },
+  {
+    "slotID": 10,
+    "crossplayID": 10,
+    "costC2": 24600
+  },
+  {
+    "slotID": 11,
+    "crossplayID": 11,
+    "costC2": 27100
+  },
+  {
+    "slotID": 12,
+    "crossplayID": 12,
+    "costC2": 29600
+  },
+  {
+    "slotID": 13,
+    "crossplayID": 13,
+    "costC2": 32100
+  },
+  {
+    "slotID": 14,
+    "crossplayID": 14,
+    "costC2": 34600
+  },
+  {
+    "slotID": 15,
+    "crossplayID": 15,
+    "costC2": 37100
+  },
+  {
+    "slotID": 16,
+    "crossplayID": 16,
+    "costC2": 39600
+  },
+  {
+    "slotID": 17,
+    "crossplayID": 17,
+    "costC2": 42100
+  },
+  {
+    "slotID": 18,
+    "crossplayID": 18,
+    "costC2": 44600
+  },
+  {
+    "slotID": 19,
+    "crossplayID": 19,
+    "costC2": 47100
+  },
+  {
+    "slotID": 20,
+    "crossplayID": 20,
+    "costC2": 49600
+  },
+  {
+    "slotID": 21,
+    "crossplayID": 21,
+    "costC2": 52100
+  },
+  {
+    "slotID": 22,
+    "crossplayID": 22,
+    "costC2": 54600
+  },
+  {
+    "slotID": 23,
+    "crossplayID": 23,
+    "costC2": 57100
+  },
+  {
+    "slotID": 24,
+    "crossplayID": 24,
+    "costC2": 59600
+  },
+  {
+    "slotID": 25,
+    "crossplayID": 25,
+    "costC2": 62100
+  },
+  {
+    "slotID": 26,
+    "crossplayID": 26,
+    "costC2": 64600
+  },
+  {
+    "slotID": 27,
+    "crossplayID": 27,
+    "costC2": 67100
+  },
+  {
+    "slotID": 28,
+    "crossplayID": 28,
+    "costC2": 69600
+  },
+  {
+    "slotID": 29,
+    "crossplayID": 29,
+    "costC2": 72100
+  }
+]

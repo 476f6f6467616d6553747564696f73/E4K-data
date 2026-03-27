@@ -1,8 +1,8 @@
-{
-  "lootBoxType": {
+[
+  {
     "lootBoxTypeID": 1,
     "crossplayID": 1,
     "lootBoxTheme": "MysteryBox",
     "lootBoxKeyPayoutThreshold": 10
   }
-}
+]

@@ -1,129 +1,127 @@
-{
-  "currencyRareness": [
-    {
-      "currencyID": 30001,
-      "crossplayID": 30001,
-      "rareness": 1
-    },
-    {
-      "currencyID": 30002,
-      "crossplayID": 30002,
-      "rareness": 1
-    },
-    {
-      "currencyID": 30003,
-      "crossplayID": 30003,
-      "rareness": 2
-    },
-    {
-      "currencyID": 30004,
-      "crossplayID": 30004,
-      "rareness": 2
-    },
-    {
-      "currencyID": 30005,
-      "crossplayID": 30005,
-      "rareness": 3
-    },
-    {
-      "currencyID": 30006,
-      "crossplayID": 30006,
-      "rareness": 4
-    },
-    {
-      "currencyID": 30007,
-      "crossplayID": 30007,
-      "rareness": 1
-    },
-    {
-      "currencyID": 30008,
-      "crossplayID": 30008,
-      "rareness": 1
-    },
-    {
-      "currencyID": 30009,
-      "crossplayID": 30009,
-      "rareness": 2
-    },
-    {
-      "currencyID": 30010,
-      "crossplayID": 30010,
-      "rareness": 2
-    },
-    {
-      "currencyID": 30011,
-      "crossplayID": 30011,
-      "rareness": 3
-    },
-    {
-      "currencyID": 30012,
-      "crossplayID": 30012,
-      "rareness": 4
-    },
-    {
-      "currencyID": 30013,
-      "crossplayID": 30013,
-      "rareness": 1
-    },
-    {
-      "currencyID": 30014,
-      "crossplayID": 30014,
-      "rareness": 1
-    },
-    {
-      "currencyID": 30015,
-      "crossplayID": 30015,
-      "rareness": 2
-    },
-    {
-      "currencyID": 30016,
-      "crossplayID": 30016,
-      "rareness": 2
-    },
-    {
-      "currencyID": 30017,
-      "crossplayID": 30017,
-      "rareness": 3
-    },
-    {
-      "currencyID": 30018,
-      "crossplayID": 30018,
-      "rareness": 4
-    },
-    {
-      "currencyID": 2000,
-      "crossplayID": 2000,
-      "rareness": 2
-    },
-    {
-      "currencyID": 2001,
-      "crossplayID": 2001,
-      "rareness": 3
-    },
-    {
-      "currencyID": 2002,
-      "crossplayID": 2002,
-      "rareness": 4
-    },
-    {
-      "currencyID": 5000,
-      "crossplayID": 5000,
-      "rareness": 1
-    },
-    {
-      "currencyID": 5001,
-      "crossplayID": 5001,
-      "rareness": 2
-    },
-    {
-      "currencyID": 5002,
-      "crossplayID": 5002,
-      "rareness": 3
-    },
-    {
-      "currencyID": 5003,
-      "crossplayID": 5003,
-      "rareness": 4
-    }
-  ]
-}
+[
+  {
+    "currencyID": 30001,
+    "crossplayID": 30001,
+    "rareness": 1
+  },
+  {
+    "currencyID": 30002,
+    "crossplayID": 30002,
+    "rareness": 1
+  },
+  {
+    "currencyID": 30003,
+    "crossplayID": 30003,
+    "rareness": 2
+  },
+  {
+    "currencyID": 30004,
+    "crossplayID": 30004,
+    "rareness": 2
+  },
+  {
+    "currencyID": 30005,
+    "crossplayID": 30005,
+    "rareness": 3
+  },
+  {
+    "currencyID": 30006,
+    "crossplayID": 30006,
+    "rareness": 4
+  },
+  {
+    "currencyID": 30007,
+    "crossplayID": 30007,
+    "rareness": 1
+  },
+  {
+    "currencyID": 30008,
+    "crossplayID": 30008,
+    "rareness": 1
+  },
+  {
+    "currencyID": 30009,
+    "crossplayID": 30009,
+    "rareness": 2
+  },
+  {
+    "currencyID": 30010,
+    "crossplayID": 30010,
+    "rareness": 2
+  },
+  {
+    "currencyID": 30011,
+    "crossplayID": 30011,
+    "rareness": 3
+  },
+  {
+    "currencyID": 30012,
+    "crossplayID": 30012,
+    "rareness": 4
+  },
+  {
+    "currencyID": 30013,
+    "crossplayID": 30013,
+    "rareness": 1
+  },
+  {
+    "currencyID": 30014,
+    "crossplayID": 30014,
+    "rareness": 1
+  },
+  {
+    "currencyID": 30015,
+    "crossplayID": 30015,
+    "rareness": 2
+  },
+  {
+    "currencyID": 30016,
+    "crossplayID": 30016,
+    "rareness": 2
+  },
+  {
+    "currencyID": 30017,
+    "crossplayID": 30017,
+    "rareness": 3
+  },
+  {
+    "currencyID": 30018,
+    "crossplayID": 30018,
+    "rareness": 4
+  },
+  {
+    "currencyID": 2000,
+    "crossplayID": 2000,
+    "rareness": 2
+  },
+  {
+    "currencyID": 2001,
+    "crossplayID": 2001,
+    "rareness": 3
+  },
+  {
+    "currencyID": 2002,
+    "crossplayID": 2002,
+    "rareness": 4
+  },
+  {
+    "currencyID": 5000,
+    "crossplayID": 5000,
+    "rareness": 1
+  },
+  {
+    "currencyID": 5001,
+    "crossplayID": 5001,
+    "rareness": 2
+  },
+  {
+    "currencyID": 5002,
+    "crossplayID": 5002,
+    "rareness": 3
+  },
+  {
+    "currencyID": 5003,
+    "crossplayID": 5003,
+    "rareness": 4
+  }
+]

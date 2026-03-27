@@ -1,880 +1,878 @@
-{
-  "currencyClearCompensation": [
-    {
-      "currencyClearCompensationID": 1,
-      "currencyID": 50,
-      "minCurrencyAmount": 22500,
-      "rewardID": 6225
-    },
-    {
-      "currencyClearCompensationID": 2,
-      "currencyID": 50,
-      "minCurrencyAmount": 20000,
-      "rewardID": 6226
-    },
-    {
-      "currencyClearCompensationID": 3,
-      "currencyID": 50,
-      "minCurrencyAmount": 19000,
-      "rewardID": 6227
-    },
-    {
-      "currencyClearCompensationID": 4,
-      "currencyID": 50,
-      "minCurrencyAmount": 17350,
-      "rewardID": 6228
-    },
-    {
-      "currencyClearCompensationID": 5,
-      "currencyID": 50,
-      "minCurrencyAmount": 12250,
-      "rewardID": 6229
-    },
-    {
-      "currencyClearCompensationID": 6,
-      "currencyID": 50,
-      "minCurrencyAmount": 9000,
-      "rewardID": 6230
-    },
-    {
-      "currencyClearCompensationID": 7,
-      "currencyID": 50,
-      "minCurrencyAmount": 7500,
-      "rewardID": 6231
-    },
-    {
-      "currencyClearCompensationID": 8,
-      "currencyID": 50,
-      "minCurrencyAmount": 5000,
-      "rewardID": 6232
-    },
-    {
-      "currencyClearCompensationID": 9,
-      "currencyID": 50,
-      "minCurrencyAmount": 3000,
-      "rewardID": 6233
-    },
-    {
-      "currencyClearCompensationID": 10,
-      "currencyID": 50,
-      "minCurrencyAmount": 2250,
-      "rewardID": 6234
-    },
-    {
-      "currencyClearCompensationID": 11,
-      "currencyID": 50,
-      "minCurrencyAmount": 1500,
-      "rewardID": 6235
-    },
-    {
-      "currencyClearCompensationID": 12,
-      "currencyID": 50,
-      "minCurrencyAmount": 750,
-      "rewardID": 6236
-    },
-    {
-      "currencyClearCompensationID": 13,
-      "currencyID": 50,
-      "minCurrencyAmount": 250,
-      "rewardID": 6237
-    },
-    {
-      "currencyClearCompensationID": 14,
-      "currencyID": 50,
-      "minCurrencyAmount": 50,
-      "rewardID": 6238
-    },
-    {
-      "currencyClearCompensationID": 15,
-      "currencyID": 52,
-      "minCurrencyAmount": 24850,
-      "rewardID": 6225
-    },
-    {
-      "currencyClearCompensationID": 16,
-      "currencyID": 52,
-      "minCurrencyAmount": 17350,
-      "rewardID": 6556
-    },
-    {
-      "currencyClearCompensationID": 17,
-      "currencyID": 52,
-      "minCurrencyAmount": 12250,
-      "rewardID": 6557
-    },
-    {
-      "currencyClearCompensationID": 18,
-      "currencyID": 52,
-      "minCurrencyAmount": 9000,
-      "rewardID": 6558
-    },
-    {
-      "currencyClearCompensationID": 19,
-      "currencyID": 52,
-      "minCurrencyAmount": 7500,
-      "rewardID": 6559
-    },
-    {
-      "currencyClearCompensationID": 20,
-      "currencyID": 52,
-      "minCurrencyAmount": 5000,
-      "rewardID": 6232
-    },
-    {
-      "currencyClearCompensationID": 21,
-      "currencyID": 52,
-      "minCurrencyAmount": 3000,
-      "rewardID": 6233
-    },
-    {
-      "currencyClearCompensationID": 22,
-      "currencyID": 52,
-      "minCurrencyAmount": 2250,
-      "rewardID": 6234
-    },
-    {
-      "currencyClearCompensationID": 23,
-      "currencyID": 52,
-      "minCurrencyAmount": 1500,
-      "rewardID": 6235
-    },
-    {
-      "currencyClearCompensationID": 24,
-      "currencyID": 52,
-      "minCurrencyAmount": 750,
-      "rewardID": 6236
-    },
-    {
-      "currencyClearCompensationID": 25,
-      "currencyID": 52,
-      "minCurrencyAmount": 250,
-      "rewardID": 6237
-    },
-    {
-      "currencyClearCompensationID": 26,
-      "currencyID": 52,
-      "minCurrencyAmount": 50,
-      "rewardID": 6238
-    },
-    {
-      "currencyClearCompensationID": 27,
-      "currencyID": 53,
-      "minCurrencyAmount": 24840,
-      "rewardID": 6225
-    },
-    {
-      "currencyClearCompensationID": 28,
-      "currencyID": 53,
-      "minCurrencyAmount": 17350,
-      "rewardID": 6556
-    },
-    {
-      "currencyClearCompensationID": 29,
-      "currencyID": 53,
-      "minCurrencyAmount": 12250,
-      "rewardID": 6557
-    },
-    {
-      "currencyClearCompensationID": 30,
-      "currencyID": 53,
-      "minCurrencyAmount": 9000,
-      "rewardID": 6558
-    },
-    {
-      "currencyClearCompensationID": 31,
-      "currencyID": 53,
-      "minCurrencyAmount": 7500,
-      "rewardID": 6559
-    },
-    {
-      "currencyClearCompensationID": 32,
-      "currencyID": 53,
-      "minCurrencyAmount": 5000,
-      "rewardID": 6232
-    },
-    {
-      "currencyClearCompensationID": 33,
-      "currencyID": 53,
-      "minCurrencyAmount": 3000,
-      "rewardID": 6233
-    },
-    {
-      "currencyClearCompensationID": 34,
-      "currencyID": 53,
-      "minCurrencyAmount": 2250,
-      "rewardID": 6234
-    },
-    {
-      "currencyClearCompensationID": 35,
-      "currencyID": 53,
-      "minCurrencyAmount": 1500,
-      "rewardID": 6235
-    },
-    {
-      "currencyClearCompensationID": 36,
-      "currencyID": 53,
-      "minCurrencyAmount": 750,
-      "rewardID": 6236
-    },
-    {
-      "currencyClearCompensationID": 37,
-      "currencyID": 53,
-      "minCurrencyAmount": 250,
-      "rewardID": 6237
-    },
-    {
-      "currencyClearCompensationID": 38,
-      "currencyID": 53,
-      "minCurrencyAmount": 50,
-      "rewardID": 6238
-    },
-    {
-      "currencyClearCompensationID": 39,
-      "currencyID": 54,
-      "minCurrencyAmount": 24840,
-      "rewardID": 7479
-    },
-    {
-      "currencyClearCompensationID": 40,
-      "currencyID": 54,
-      "minCurrencyAmount": 17350,
-      "rewardID": 7480
-    },
-    {
-      "currencyClearCompensationID": 41,
-      "currencyID": 54,
-      "minCurrencyAmount": 12250,
-      "rewardID": 7481
-    },
-    {
-      "currencyClearCompensationID": 42,
-      "currencyID": 54,
-      "minCurrencyAmount": 9000,
-      "rewardID": 7482
-    },
-    {
-      "currencyClearCompensationID": 43,
-      "currencyID": 54,
-      "minCurrencyAmount": 7500,
-      "rewardID": 7483
-    },
-    {
-      "currencyClearCompensationID": 44,
-      "currencyID": 54,
-      "minCurrencyAmount": 5000,
-      "rewardID": 7484
-    },
-    {
-      "currencyClearCompensationID": 45,
-      "currencyID": 54,
-      "minCurrencyAmount": 3000,
-      "rewardID": 7485
-    },
-    {
-      "currencyClearCompensationID": 46,
-      "currencyID": 54,
-      "minCurrencyAmount": 2250,
-      "rewardID": 7486
-    },
-    {
-      "currencyClearCompensationID": 47,
-      "currencyID": 54,
-      "minCurrencyAmount": 1500,
-      "rewardID": 7487
-    },
-    {
-      "currencyClearCompensationID": 48,
-      "currencyID": 54,
-      "minCurrencyAmount": 750,
-      "rewardID": 7488
-    },
-    {
-      "currencyClearCompensationID": 49,
-      "currencyID": 54,
-      "minCurrencyAmount": 250,
-      "rewardID": 7489
-    },
-    {
-      "currencyClearCompensationID": 50,
-      "currencyID": 54,
-      "minCurrencyAmount": 50,
-      "rewardID": 7490
-    },
-    {
-      "currencyClearCompensationID": 51,
-      "currencyID": 55,
-      "minCurrencyAmount": 24840,
-      "rewardID": 7479
-    },
-    {
-      "currencyClearCompensationID": 52,
-      "currencyID": 55,
-      "minCurrencyAmount": 17350,
-      "rewardID": 7480
-    },
-    {
-      "currencyClearCompensationID": 53,
-      "currencyID": 55,
-      "minCurrencyAmount": 12250,
-      "rewardID": 7481
-    },
-    {
-      "currencyClearCompensationID": 54,
-      "currencyID": 55,
-      "minCurrencyAmount": 9000,
-      "rewardID": 7482
-    },
-    {
-      "currencyClearCompensationID": 55,
-      "currencyID": 55,
-      "minCurrencyAmount": 7500,
-      "rewardID": 7483
-    },
-    {
-      "currencyClearCompensationID": 56,
-      "currencyID": 55,
-      "minCurrencyAmount": 5000,
-      "rewardID": 7484
-    },
-    {
-      "currencyClearCompensationID": 57,
-      "currencyID": 55,
-      "minCurrencyAmount": 3000,
-      "rewardID": 7485
-    },
-    {
-      "currencyClearCompensationID": 58,
-      "currencyID": 55,
-      "minCurrencyAmount": 2250,
-      "rewardID": 7486
-    },
-    {
-      "currencyClearCompensationID": 59,
-      "currencyID": 55,
-      "minCurrencyAmount": 1500,
-      "rewardID": 7487
-    },
-    {
-      "currencyClearCompensationID": 60,
-      "currencyID": 55,
-      "minCurrencyAmount": 750,
-      "rewardID": 7488
-    },
-    {
-      "currencyClearCompensationID": 61,
-      "currencyID": 55,
-      "minCurrencyAmount": 250,
-      "rewardID": 7489
-    },
-    {
-      "currencyClearCompensationID": 62,
-      "currencyID": 55,
-      "minCurrencyAmount": 50,
-      "rewardID": 7490
-    },
-    {
-      "currencyClearCompensationID": 63,
-      "currencyID": 56,
-      "minCurrencyAmount": 24840,
-      "rewardID": 7479
-    },
-    {
-      "currencyClearCompensationID": 64,
-      "currencyID": 56,
-      "minCurrencyAmount": 17350,
-      "rewardID": 7480
-    },
-    {
-      "currencyClearCompensationID": 65,
-      "currencyID": 56,
-      "minCurrencyAmount": 12250,
-      "rewardID": 7481
-    },
-    {
-      "currencyClearCompensationID": 66,
-      "currencyID": 56,
-      "minCurrencyAmount": 9000,
-      "rewardID": 7482
-    },
-    {
-      "currencyClearCompensationID": 67,
-      "currencyID": 56,
-      "minCurrencyAmount": 7500,
-      "rewardID": 7483
-    },
-    {
-      "currencyClearCompensationID": 68,
-      "currencyID": 56,
-      "minCurrencyAmount": 5000,
-      "rewardID": 7484
-    },
-    {
-      "currencyClearCompensationID": 69,
-      "currencyID": 56,
-      "minCurrencyAmount": 3000,
-      "rewardID": 7485
-    },
-    {
-      "currencyClearCompensationID": 70,
-      "currencyID": 56,
-      "minCurrencyAmount": 2250,
-      "rewardID": 7486
-    },
-    {
-      "currencyClearCompensationID": 71,
-      "currencyID": 56,
-      "minCurrencyAmount": 1500,
-      "rewardID": 7487
-    },
-    {
-      "currencyClearCompensationID": 72,
-      "currencyID": 56,
-      "minCurrencyAmount": 750,
-      "rewardID": 7488
-    },
-    {
-      "currencyClearCompensationID": 73,
-      "currencyID": 56,
-      "minCurrencyAmount": 250,
-      "rewardID": 7489
-    },
-    {
-      "currencyClearCompensationID": 74,
-      "currencyID": 56,
-      "minCurrencyAmount": 50,
-      "rewardID": 7490
-    },
-    {
-      "currencyClearCompensationID": 75,
-      "currencyID": 57,
-      "minCurrencyAmount": 24840,
-      "rewardID": 7479
-    },
-    {
-      "currencyClearCompensationID": 76,
-      "currencyID": 57,
-      "minCurrencyAmount": 17350,
-      "rewardID": 7480
-    },
-    {
-      "currencyClearCompensationID": 77,
-      "currencyID": 57,
-      "minCurrencyAmount": 12250,
-      "rewardID": 7481
-    },
-    {
-      "currencyClearCompensationID": 78,
-      "currencyID": 57,
-      "minCurrencyAmount": 9000,
-      "rewardID": 7482
-    },
-    {
-      "currencyClearCompensationID": 79,
-      "currencyID": 57,
-      "minCurrencyAmount": 7500,
-      "rewardID": 7483
-    },
-    {
-      "currencyClearCompensationID": 80,
-      "currencyID": 57,
-      "minCurrencyAmount": 5000,
-      "rewardID": 7484
-    },
-    {
-      "currencyClearCompensationID": 81,
-      "currencyID": 57,
-      "minCurrencyAmount": 3000,
-      "rewardID": 7485
-    },
-    {
-      "currencyClearCompensationID": 82,
-      "currencyID": 57,
-      "minCurrencyAmount": 2250,
-      "rewardID": 7486
-    },
-    {
-      "currencyClearCompensationID": 83,
-      "currencyID": 57,
-      "minCurrencyAmount": 1500,
-      "rewardID": 7487
-    },
-    {
-      "currencyClearCompensationID": 84,
-      "currencyID": 57,
-      "minCurrencyAmount": 750,
-      "rewardID": 7488
-    },
-    {
-      "currencyClearCompensationID": 85,
-      "currencyID": 57,
-      "minCurrencyAmount": 250,
-      "rewardID": 7489
-    },
-    {
-      "currencyClearCompensationID": 86,
-      "currencyID": 57,
-      "minCurrencyAmount": 50,
-      "rewardID": 7490
-    },
-    {
-      "currencyClearCompensationID": 87,
-      "currencyID": 58,
-      "minCurrencyAmount": 24840,
-      "rewardID": 7479
-    },
-    {
-      "currencyClearCompensationID": 88,
-      "currencyID": 58,
-      "minCurrencyAmount": 17350,
-      "rewardID": 7480
-    },
-    {
-      "currencyClearCompensationID": 89,
-      "currencyID": 58,
-      "minCurrencyAmount": 12250,
-      "rewardID": 7481
-    },
-    {
-      "currencyClearCompensationID": 90,
-      "currencyID": 58,
-      "minCurrencyAmount": 9000,
-      "rewardID": 7482
-    },
-    {
-      "currencyClearCompensationID": 91,
-      "currencyID": 58,
-      "minCurrencyAmount": 7500,
-      "rewardID": 7483
-    },
-    {
-      "currencyClearCompensationID": 92,
-      "currencyID": 58,
-      "minCurrencyAmount": 5000,
-      "rewardID": 7484
-    },
-    {
-      "currencyClearCompensationID": 93,
-      "currencyID": 58,
-      "minCurrencyAmount": 3000,
-      "rewardID": 7485
-    },
-    {
-      "currencyClearCompensationID": 94,
-      "currencyID": 58,
-      "minCurrencyAmount": 2250,
-      "rewardID": 7486
-    },
-    {
-      "currencyClearCompensationID": 95,
-      "currencyID": 58,
-      "minCurrencyAmount": 1500,
-      "rewardID": 7487
-    },
-    {
-      "currencyClearCompensationID": 96,
-      "currencyID": 58,
-      "minCurrencyAmount": 750,
-      "rewardID": 7488
-    },
-    {
-      "currencyClearCompensationID": 97,
-      "currencyID": 58,
-      "minCurrencyAmount": 250,
-      "rewardID": 7489
-    },
-    {
-      "currencyClearCompensationID": 98,
-      "currencyID": 58,
-      "minCurrencyAmount": 50,
-      "rewardID": 7490
-    },
-    {
-      "currencyClearCompensationID": 99,
-      "currencyID": 59,
-      "minCurrencyAmount": 24840,
-      "rewardID": 7479
-    },
-    {
-      "currencyClearCompensationID": 100,
-      "currencyID": 59,
-      "minCurrencyAmount": 17350,
-      "rewardID": 7480
-    },
-    {
-      "currencyClearCompensationID": 101,
-      "currencyID": 59,
-      "minCurrencyAmount": 12250,
-      "rewardID": 7481
-    },
-    {
-      "currencyClearCompensationID": 102,
-      "currencyID": 59,
-      "minCurrencyAmount": 9000,
-      "rewardID": 7482
-    },
-    {
-      "currencyClearCompensationID": 103,
-      "currencyID": 59,
-      "minCurrencyAmount": 7500,
-      "rewardID": 7483
-    },
-    {
-      "currencyClearCompensationID": 104,
-      "currencyID": 59,
-      "minCurrencyAmount": 5000,
-      "rewardID": 7484
-    },
-    {
-      "currencyClearCompensationID": 105,
-      "currencyID": 59,
-      "minCurrencyAmount": 3000,
-      "rewardID": 7485
-    },
-    {
-      "currencyClearCompensationID": 106,
-      "currencyID": 59,
-      "minCurrencyAmount": 2250,
-      "rewardID": 7486
-    },
-    {
-      "currencyClearCompensationID": 107,
-      "currencyID": 59,
-      "minCurrencyAmount": 1500,
-      "rewardID": 7487
-    },
-    {
-      "currencyClearCompensationID": 108,
-      "currencyID": 59,
-      "minCurrencyAmount": 750,
-      "rewardID": 7488
-    },
-    {
-      "currencyClearCompensationID": 109,
-      "currencyID": 59,
-      "minCurrencyAmount": 250,
-      "rewardID": 7489
-    },
-    {
-      "currencyClearCompensationID": 110,
-      "currencyID": 59,
-      "minCurrencyAmount": 50,
-      "rewardID": 7490
-    },
-    {
-      "currencyClearCompensationID": 111,
-      "currencyID": 60,
-      "minCurrencyAmount": 24840,
-      "rewardID": 7479
-    },
-    {
-      "currencyClearCompensationID": 112,
-      "currencyID": 60,
-      "minCurrencyAmount": 17350,
-      "rewardID": 7480
-    },
-    {
-      "currencyClearCompensationID": 113,
-      "currencyID": 60,
-      "minCurrencyAmount": 12250,
-      "rewardID": 7481
-    },
-    {
-      "currencyClearCompensationID": 114,
-      "currencyID": 60,
-      "minCurrencyAmount": 9000,
-      "rewardID": 7482
-    },
-    {
-      "currencyClearCompensationID": 115,
-      "currencyID": 60,
-      "minCurrencyAmount": 7500,
-      "rewardID": 7483
-    },
-    {
-      "currencyClearCompensationID": 116,
-      "currencyID": 60,
-      "minCurrencyAmount": 5000,
-      "rewardID": 7484
-    },
-    {
-      "currencyClearCompensationID": 117,
-      "currencyID": 60,
-      "minCurrencyAmount": 3000,
-      "rewardID": 7485
-    },
-    {
-      "currencyClearCompensationID": 118,
-      "currencyID": 60,
-      "minCurrencyAmount": 2250,
-      "rewardID": 7486
-    },
-    {
-      "currencyClearCompensationID": 119,
-      "currencyID": 60,
-      "minCurrencyAmount": 1500,
-      "rewardID": 7487
-    },
-    {
-      "currencyClearCompensationID": 120,
-      "currencyID": 60,
-      "minCurrencyAmount": 750,
-      "rewardID": 7488
-    },
-    {
-      "currencyClearCompensationID": 121,
-      "currencyID": 60,
-      "minCurrencyAmount": 250,
-      "rewardID": 7489
-    },
-    {
-      "currencyClearCompensationID": 122,
-      "currencyID": 60,
-      "minCurrencyAmount": 50,
-      "rewardID": 7490
-    },
-    {
-      "currencyClearCompensationID": 123,
-      "currencyID": 51,
-      "minCurrencyAmount": 24840,
-      "rewardID": 7479
-    },
-    {
-      "currencyClearCompensationID": 124,
-      "currencyID": 51,
-      "minCurrencyAmount": 17350,
-      "rewardID": 7480
-    },
-    {
-      "currencyClearCompensationID": 125,
-      "currencyID": 51,
-      "minCurrencyAmount": 12250,
-      "rewardID": 7481
-    },
-    {
-      "currencyClearCompensationID": 126,
-      "currencyID": 51,
-      "minCurrencyAmount": 9000,
-      "rewardID": 7482
-    },
-    {
-      "currencyClearCompensationID": 127,
-      "currencyID": 51,
-      "minCurrencyAmount": 7500,
-      "rewardID": 7483
-    },
-    {
-      "currencyClearCompensationID": 128,
-      "currencyID": 51,
-      "minCurrencyAmount": 5000,
-      "rewardID": 7484
-    },
-    {
-      "currencyClearCompensationID": 129,
-      "currencyID": 51,
-      "minCurrencyAmount": 3000,
-      "rewardID": 7485
-    },
-    {
-      "currencyClearCompensationID": 130,
-      "currencyID": 51,
-      "minCurrencyAmount": 2250,
-      "rewardID": 7486
-    },
-    {
-      "currencyClearCompensationID": 131,
-      "currencyID": 51,
-      "minCurrencyAmount": 1500,
-      "rewardID": 7487
-    },
-    {
-      "currencyClearCompensationID": 132,
-      "currencyID": 51,
-      "minCurrencyAmount": 750,
-      "rewardID": 7488
-    },
-    {
-      "currencyClearCompensationID": 133,
-      "currencyID": 51,
-      "minCurrencyAmount": 250,
-      "rewardID": 7489
-    },
-    {
-      "currencyClearCompensationID": 134,
-      "currencyID": 51,
-      "minCurrencyAmount": 50,
-      "rewardID": 7490
-    },
-    {
-      "currencyClearCompensationID": 135,
-      "currencyID": 61,
-      "minCurrencyAmount": 24840,
-      "rewardID": 7479
-    },
-    {
-      "currencyClearCompensationID": 136,
-      "currencyID": 61,
-      "minCurrencyAmount": 17350,
-      "rewardID": 7480
-    },
-    {
-      "currencyClearCompensationID": 137,
-      "currencyID": 61,
-      "minCurrencyAmount": 12250,
-      "rewardID": 7481
-    },
-    {
-      "currencyClearCompensationID": 138,
-      "currencyID": 61,
-      "minCurrencyAmount": 9000,
-      "rewardID": 7482
-    },
-    {
-      "currencyClearCompensationID": 139,
-      "currencyID": 61,
-      "minCurrencyAmount": 7500,
-      "rewardID": 7483
-    },
-    {
-      "currencyClearCompensationID": 140,
-      "currencyID": 61,
-      "minCurrencyAmount": 5000,
-      "rewardID": 7484
-    },
-    {
-      "currencyClearCompensationID": 141,
-      "currencyID": 61,
-      "minCurrencyAmount": 3000,
-      "rewardID": 7485
-    },
-    {
-      "currencyClearCompensationID": 142,
-      "currencyID": 61,
-      "minCurrencyAmount": 2250,
-      "rewardID": 7486
-    },
-    {
-      "currencyClearCompensationID": 143,
-      "currencyID": 61,
-      "minCurrencyAmount": 1500,
-      "rewardID": 7487
-    },
-    {
-      "currencyClearCompensationID": 144,
-      "currencyID": 61,
-      "minCurrencyAmount": 750,
-      "rewardID": 7488
-    },
-    {
-      "currencyClearCompensationID": 145,
-      "currencyID": 61,
-      "minCurrencyAmount": 250,
-      "rewardID": 7489
-    },
-    {
-      "currencyClearCompensationID": 146,
-      "currencyID": 61,
-      "minCurrencyAmount": 50,
-      "rewardID": 7490
-    }
-  ]
-}
+[
+  {
+    "currencyClearCompensationID": 1,
+    "currencyID": 50,
+    "minCurrencyAmount": 22500,
+    "rewardID": 6225
+  },
+  {
+    "currencyClearCompensationID": 2,
+    "currencyID": 50,
+    "minCurrencyAmount": 20000,
+    "rewardID": 6226
+  },
+  {
+    "currencyClearCompensationID": 3,
+    "currencyID": 50,
+    "minCurrencyAmount": 19000,
+    "rewardID": 6227
+  },
+  {
+    "currencyClearCompensationID": 4,
+    "currencyID": 50,
+    "minCurrencyAmount": 17350,
+    "rewardID": 6228
+  },
+  {
+    "currencyClearCompensationID": 5,
+    "currencyID": 50,
+    "minCurrencyAmount": 12250,
+    "rewardID": 6229
+  },
+  {
+    "currencyClearCompensationID": 6,
+    "currencyID": 50,
+    "minCurrencyAmount": 9000,
+    "rewardID": 6230
+  },
+  {
+    "currencyClearCompensationID": 7,
+    "currencyID": 50,
+    "minCurrencyAmount": 7500,
+    "rewardID": 6231
+  },
+  {
+    "currencyClearCompensationID": 8,
+    "currencyID": 50,
+    "minCurrencyAmount": 5000,
+    "rewardID": 6232
+  },
+  {
+    "currencyClearCompensationID": 9,
+    "currencyID": 50,
+    "minCurrencyAmount": 3000,
+    "rewardID": 6233
+  },
+  {
+    "currencyClearCompensationID": 10,
+    "currencyID": 50,
+    "minCurrencyAmount": 2250,
+    "rewardID": 6234
+  },
+  {
+    "currencyClearCompensationID": 11,
+    "currencyID": 50,
+    "minCurrencyAmount": 1500,
+    "rewardID": 6235
+  },
+  {
+    "currencyClearCompensationID": 12,
+    "currencyID": 50,
+    "minCurrencyAmount": 750,
+    "rewardID": 6236
+  },
+  {
+    "currencyClearCompensationID": 13,
+    "currencyID": 50,
+    "minCurrencyAmount": 250,
+    "rewardID": 6237
+  },
+  {
+    "currencyClearCompensationID": 14,
+    "currencyID": 50,
+    "minCurrencyAmount": 50,
+    "rewardID": 6238
+  },
+  {
+    "currencyClearCompensationID": 15,
+    "currencyID": 52,
+    "minCurrencyAmount": 24850,
+    "rewardID": 6225
+  },
+  {
+    "currencyClearCompensationID": 16,
+    "currencyID": 52,
+    "minCurrencyAmount": 17350,
+    "rewardID": 6556
+  },
+  {
+    "currencyClearCompensationID": 17,
+    "currencyID": 52,
+    "minCurrencyAmount": 12250,
+    "rewardID": 6557
+  },
+  {
+    "currencyClearCompensationID": 18,
+    "currencyID": 52,
+    "minCurrencyAmount": 9000,
+    "rewardID": 6558
+  },
+  {
+    "currencyClearCompensationID": 19,
+    "currencyID": 52,
+    "minCurrencyAmount": 7500,
+    "rewardID": 6559
+  },
+  {
+    "currencyClearCompensationID": 20,
+    "currencyID": 52,
+    "minCurrencyAmount": 5000,
+    "rewardID": 6232
+  },
+  {
+    "currencyClearCompensationID": 21,
+    "currencyID": 52,
+    "minCurrencyAmount": 3000,
+    "rewardID": 6233
+  },
+  {
+    "currencyClearCompensationID": 22,
+    "currencyID": 52,
+    "minCurrencyAmount": 2250,
+    "rewardID": 6234
+  },
+  {
+    "currencyClearCompensationID": 23,
+    "currencyID": 52,
+    "minCurrencyAmount": 1500,
+    "rewardID": 6235
+  },
+  {
+    "currencyClearCompensationID": 24,
+    "currencyID": 52,
+    "minCurrencyAmount": 750,
+    "rewardID": 6236
+  },
+  {
+    "currencyClearCompensationID": 25,
+    "currencyID": 52,
+    "minCurrencyAmount": 250,
+    "rewardID": 6237
+  },
+  {
+    "currencyClearCompensationID": 26,
+    "currencyID": 52,
+    "minCurrencyAmount": 50,
+    "rewardID": 6238
+  },
+  {
+    "currencyClearCompensationID": 27,
+    "currencyID": 53,
+    "minCurrencyAmount": 24840,
+    "rewardID": 6225
+  },
+  {
+    "currencyClearCompensationID": 28,
+    "currencyID": 53,
+    "minCurrencyAmount": 17350,
+    "rewardID": 6556
+  },
+  {
+    "currencyClearCompensationID": 29,
+    "currencyID": 53,
+    "minCurrencyAmount": 12250,
+    "rewardID": 6557
+  },
+  {
+    "currencyClearCompensationID": 30,
+    "currencyID": 53,
+    "minCurrencyAmount": 9000,
+    "rewardID": 6558
+  },
+  {
+    "currencyClearCompensationID": 31,
+    "currencyID": 53,
+    "minCurrencyAmount": 7500,
+    "rewardID": 6559
+  },
+  {
+    "currencyClearCompensationID": 32,
+    "currencyID": 53,
+    "minCurrencyAmount": 5000,
+    "rewardID": 6232
+  },
+  {
+    "currencyClearCompensationID": 33,
+    "currencyID": 53,
+    "minCurrencyAmount": 3000,
+    "rewardID": 6233
+  },
+  {
+    "currencyClearCompensationID": 34,
+    "currencyID": 53,
+    "minCurrencyAmount": 2250,
+    "rewardID": 6234
+  },
+  {
+    "currencyClearCompensationID": 35,
+    "currencyID": 53,
+    "minCurrencyAmount": 1500,
+    "rewardID": 6235
+  },
+  {
+    "currencyClearCompensationID": 36,
+    "currencyID": 53,
+    "minCurrencyAmount": 750,
+    "rewardID": 6236
+  },
+  {
+    "currencyClearCompensationID": 37,
+    "currencyID": 53,
+    "minCurrencyAmount": 250,
+    "rewardID": 6237
+  },
+  {
+    "currencyClearCompensationID": 38,
+    "currencyID": 53,
+    "minCurrencyAmount": 50,
+    "rewardID": 6238
+  },
+  {
+    "currencyClearCompensationID": 39,
+    "currencyID": 54,
+    "minCurrencyAmount": 24840,
+    "rewardID": 7479
+  },
+  {
+    "currencyClearCompensationID": 40,
+    "currencyID": 54,
+    "minCurrencyAmount": 17350,
+    "rewardID": 7480
+  },
+  {
+    "currencyClearCompensationID": 41,
+    "currencyID": 54,
+    "minCurrencyAmount": 12250,
+    "rewardID": 7481
+  },
+  {
+    "currencyClearCompensationID": 42,
+    "currencyID": 54,
+    "minCurrencyAmount": 9000,
+    "rewardID": 7482
+  },
+  {
+    "currencyClearCompensationID": 43,
+    "currencyID": 54,
+    "minCurrencyAmount": 7500,
+    "rewardID": 7483
+  },
+  {
+    "currencyClearCompensationID": 44,
+    "currencyID": 54,
+    "minCurrencyAmount": 5000,
+    "rewardID": 7484
+  },
+  {
+    "currencyClearCompensationID": 45,
+    "currencyID": 54,
+    "minCurrencyAmount": 3000,
+    "rewardID": 7485
+  },
+  {
+    "currencyClearCompensationID": 46,
+    "currencyID": 54,
+    "minCurrencyAmount": 2250,
+    "rewardID": 7486
+  },
+  {
+    "currencyClearCompensationID": 47,
+    "currencyID": 54,
+    "minCurrencyAmount": 1500,
+    "rewardID": 7487
+  },
+  {
+    "currencyClearCompensationID": 48,
+    "currencyID": 54,
+    "minCurrencyAmount": 750,
+    "rewardID": 7488
+  },
+  {
+    "currencyClearCompensationID": 49,
+    "currencyID": 54,
+    "minCurrencyAmount": 250,
+    "rewardID": 7489
+  },
+  {
+    "currencyClearCompensationID": 50,
+    "currencyID": 54,
+    "minCurrencyAmount": 50,
+    "rewardID": 7490
+  },
+  {
+    "currencyClearCompensationID": 51,
+    "currencyID": 55,
+    "minCurrencyAmount": 24840,
+    "rewardID": 7479
+  },
+  {
+    "currencyClearCompensationID": 52,
+    "currencyID": 55,
+    "minCurrencyAmount": 17350,
+    "rewardID": 7480
+  },
+  {
+    "currencyClearCompensationID": 53,
+    "currencyID": 55,
+    "minCurrencyAmount": 12250,
+    "rewardID": 7481
+  },
+  {
+    "currencyClearCompensationID": 54,
+    "currencyID": 55,
+    "minCurrencyAmount": 9000,
+    "rewardID": 7482
+  },
+  {
+    "currencyClearCompensationID": 55,
+    "currencyID": 55,
+    "minCurrencyAmount": 7500,
+    "rewardID": 7483
+  },
+  {
+    "currencyClearCompensationID": 56,
+    "currencyID": 55,
+    "minCurrencyAmount": 5000,
+    "rewardID": 7484
+  },
+  {
+    "currencyClearCompensationID": 57,
+    "currencyID": 55,
+    "minCurrencyAmount": 3000,
+    "rewardID": 7485
+  },
+  {
+    "currencyClearCompensationID": 58,
+    "currencyID": 55,
+    "minCurrencyAmount": 2250,
+    "rewardID": 7486
+  },
+  {
+    "currencyClearCompensationID": 59,
+    "currencyID": 55,
+    "minCurrencyAmount": 1500,
+    "rewardID": 7487
+  },
+  {
+    "currencyClearCompensationID": 60,
+    "currencyID": 55,
+    "minCurrencyAmount": 750,
+    "rewardID": 7488
+  },
+  {
+    "currencyClearCompensationID": 61,
+    "currencyID": 55,
+    "minCurrencyAmount": 250,
+    "rewardID": 7489
+  },
+  {
+    "currencyClearCompensationID": 62,
+    "currencyID": 55,
+    "minCurrencyAmount": 50,
+    "rewardID": 7490
+  },
+  {
+    "currencyClearCompensationID": 63,
+    "currencyID": 56,
+    "minCurrencyAmount": 24840,
+    "rewardID": 7479
+  },
+  {
+    "currencyClearCompensationID": 64,
+    "currencyID": 56,
+    "minCurrencyAmount": 17350,
+    "rewardID": 7480
+  },
+  {
+    "currencyClearCompensationID": 65,
+    "currencyID": 56,
+    "minCurrencyAmount": 12250,
+    "rewardID": 7481
+  },
+  {
+    "currencyClearCompensationID": 66,
+    "currencyID": 56,
+    "minCurrencyAmount": 9000,
+    "rewardID": 7482
+  },
+  {
+    "currencyClearCompensationID": 67,
+    "currencyID": 56,
+    "minCurrencyAmount": 7500,
+    "rewardID": 7483
+  },
+  {
+    "currencyClearCompensationID": 68,
+    "currencyID": 56,
+    "minCurrencyAmount": 5000,
+    "rewardID": 7484
+  },
+  {
+    "currencyClearCompensationID": 69,
+    "currencyID": 56,
+    "minCurrencyAmount": 3000,
+    "rewardID": 7485
+  },
+  {
+    "currencyClearCompensationID": 70,
+    "currencyID": 56,
+    "minCurrencyAmount": 2250,
+    "rewardID": 7486
+  },
+  {
+    "currencyClearCompensationID": 71,
+    "currencyID": 56,
+    "minCurrencyAmount": 1500,
+    "rewardID": 7487
+  },
+  {
+    "currencyClearCompensationID": 72,
+    "currencyID": 56,
+    "minCurrencyAmount": 750,
+    "rewardID": 7488
+  },
+  {
+    "currencyClearCompensationID": 73,
+    "currencyID": 56,
+    "minCurrencyAmount": 250,
+    "rewardID": 7489
+  },
+  {
+    "currencyClearCompensationID": 74,
+    "currencyID": 56,
+    "minCurrencyAmount": 50,
+    "rewardID": 7490
+  },
+  {
+    "currencyClearCompensationID": 75,
+    "currencyID": 57,
+    "minCurrencyAmount": 24840,
+    "rewardID": 7479
+  },
+  {
+    "currencyClearCompensationID": 76,
+    "currencyID": 57,
+    "minCurrencyAmount": 17350,
+    "rewardID": 7480
+  },
+  {
+    "currencyClearCompensationID": 77,
+    "currencyID": 57,
+    "minCurrencyAmount": 12250,
+    "rewardID": 7481
+  },
+  {
+    "currencyClearCompensationID": 78,
+    "currencyID": 57,
+    "minCurrencyAmount": 9000,
+    "rewardID": 7482
+  },
+  {
+    "currencyClearCompensationID": 79,
+    "currencyID": 57,
+    "minCurrencyAmount": 7500,
+    "rewardID": 7483
+  },
+  {
+    "currencyClearCompensationID": 80,
+    "currencyID": 57,
+    "minCurrencyAmount": 5000,
+    "rewardID": 7484
+  },
+  {
+    "currencyClearCompensationID": 81,
+    "currencyID": 57,
+    "minCurrencyAmount": 3000,
+    "rewardID": 7485
+  },
+  {
+    "currencyClearCompensationID": 82,
+    "currencyID": 57,
+    "minCurrencyAmount": 2250,
+    "rewardID": 7486
+  },
+  {
+    "currencyClearCompensationID": 83,
+    "currencyID": 57,
+    "minCurrencyAmount": 1500,
+    "rewardID": 7487
+  },
+  {
+    "currencyClearCompensationID": 84,
+    "currencyID": 57,
+    "minCurrencyAmount": 750,
+    "rewardID": 7488
+  },
+  {
+    "currencyClearCompensationID": 85,
+    "currencyID": 57,
+    "minCurrencyAmount": 250,
+    "rewardID": 7489
+  },
+  {
+    "currencyClearCompensationID": 86,
+    "currencyID": 57,
+    "minCurrencyAmount": 50,
+    "rewardID": 7490
+  },
+  {
+    "currencyClearCompensationID": 87,
+    "currencyID": 58,
+    "minCurrencyAmount": 24840,
+    "rewardID": 7479
+  },
+  {
+    "currencyClearCompensationID": 88,
+    "currencyID": 58,
+    "minCurrencyAmount": 17350,
+    "rewardID": 7480
+  },
+  {
+    "currencyClearCompensationID": 89,
+    "currencyID": 58,
+    "minCurrencyAmount": 12250,
+    "rewardID": 7481
+  },
+  {
+    "currencyClearCompensationID": 90,
+    "currencyID": 58,
+    "minCurrencyAmount": 9000,
+    "rewardID": 7482
+  },
+  {
+    "currencyClearCompensationID": 91,
+    "currencyID": 58,
+    "minCurrencyAmount": 7500,
+    "rewardID": 7483
+  },
+  {
+    "currencyClearCompensationID": 92,
+    "currencyID": 58,
+    "minCurrencyAmount": 5000,
+    "rewardID": 7484
+  },
+  {
+    "currencyClearCompensationID": 93,
+    "currencyID": 58,
+    "minCurrencyAmount": 3000,
+    "rewardID": 7485
+  },
+  {
+    "currencyClearCompensationID": 94,
+    "currencyID": 58,
+    "minCurrencyAmount": 2250,
+    "rewardID": 7486
+  },
+  {
+    "currencyClearCompensationID": 95,
+    "currencyID": 58,
+    "minCurrencyAmount": 1500,
+    "rewardID": 7487
+  },
+  {
+    "currencyClearCompensationID": 96,
+    "currencyID": 58,
+    "minCurrencyAmount": 750,
+    "rewardID": 7488
+  },
+  {
+    "currencyClearCompensationID": 97,
+    "currencyID": 58,
+    "minCurrencyAmount": 250,
+    "rewardID": 7489
+  },
+  {
+    "currencyClearCompensationID": 98,
+    "currencyID": 58,
+    "minCurrencyAmount": 50,
+    "rewardID": 7490
+  },
+  {
+    "currencyClearCompensationID": 99,
+    "currencyID": 59,
+    "minCurrencyAmount": 24840,
+    "rewardID": 7479
+  },
+  {
+    "currencyClearCompensationID": 100,
+    "currencyID": 59,
+    "minCurrencyAmount": 17350,
+    "rewardID": 7480
+  },
+  {
+    "currencyClearCompensationID": 101,
+    "currencyID": 59,
+    "minCurrencyAmount": 12250,
+    "rewardID": 7481
+  },
+  {
+    "currencyClearCompensationID": 102,
+    "currencyID": 59,
+    "minCurrencyAmount": 9000,
+    "rewardID": 7482
+  },
+  {
+    "currencyClearCompensationID": 103,
+    "currencyID": 59,
+    "minCurrencyAmount": 7500,
+    "rewardID": 7483
+  },
+  {
+    "currencyClearCompensationID": 104,
+    "currencyID": 59,
+    "minCurrencyAmount": 5000,
+    "rewardID": 7484
+  },
+  {
+    "currencyClearCompensationID": 105,
+    "currencyID": 59,
+    "minCurrencyAmount": 3000,
+    "rewardID": 7485
+  },
+  {
+    "currencyClearCompensationID": 106,
+    "currencyID": 59,
+    "minCurrencyAmount": 2250,
+    "rewardID": 7486
+  },
+  {
+    "currencyClearCompensationID": 107,
+    "currencyID": 59,
+    "minCurrencyAmount": 1500,
+    "rewardID": 7487
+  },
+  {
+    "currencyClearCompensationID": 108,
+    "currencyID": 59,
+    "minCurrencyAmount": 750,
+    "rewardID": 7488
+  },
+  {
+    "currencyClearCompensationID": 109,
+    "currencyID": 59,
+    "minCurrencyAmount": 250,
+    "rewardID": 7489
+  },
+  {
+    "currencyClearCompensationID": 110,
+    "currencyID": 59,
+    "minCurrencyAmount": 50,
+    "rewardID": 7490
+  },
+  {
+    "currencyClearCompensationID": 111,
+    "currencyID": 60,
+    "minCurrencyAmount": 24840,
+    "rewardID": 7479
+  },
+  {
+    "currencyClearCompensationID": 112,
+    "currencyID": 60,
+    "minCurrencyAmount": 17350,
+    "rewardID": 7480
+  },
+  {
+    "currencyClearCompensationID": 113,
+    "currencyID": 60,
+    "minCurrencyAmount": 12250,
+    "rewardID": 7481
+  },
+  {
+    "currencyClearCompensationID": 114,
+    "currencyID": 60,
+    "minCurrencyAmount": 9000,
+    "rewardID": 7482
+  },
+  {
+    "currencyClearCompensationID": 115,
+    "currencyID": 60,
+    "minCurrencyAmount": 7500,
+    "rewardID": 7483
+  },
+  {
+    "currencyClearCompensationID": 116,
+    "currencyID": 60,
+    "minCurrencyAmount": 5000,
+    "rewardID": 7484
+  },
+  {
+    "currencyClearCompensationID": 117,
+    "currencyID": 60,
+    "minCurrencyAmount": 3000,
+    "rewardID": 7485
+  },
+  {
+    "currencyClearCompensationID": 118,
+    "currencyID": 60,
+    "minCurrencyAmount": 2250,
+    "rewardID": 7486
+  },
+  {
+    "currencyClearCompensationID": 119,
+    "currencyID": 60,
+    "minCurrencyAmount": 1500,
+    "rewardID": 7487
+  },
+  {
+    "currencyClearCompensationID": 120,
+    "currencyID": 60,
+    "minCurrencyAmount": 750,
+    "rewardID": 7488
+  },
+  {
+    "currencyClearCompensationID": 121,
+    "currencyID": 60,
+    "minCurrencyAmount": 250,
+    "rewardID": 7489
+  },
+  {
+    "currencyClearCompensationID": 122,
+    "currencyID": 60,
+    "minCurrencyAmount": 50,
+    "rewardID": 7490
+  },
+  {
+    "currencyClearCompensationID": 123,
+    "currencyID": 51,
+    "minCurrencyAmount": 24840,
+    "rewardID": 7479
+  },
+  {
+    "currencyClearCompensationID": 124,
+    "currencyID": 51,
+    "minCurrencyAmount": 17350,
+    "rewardID": 7480
+  },
+  {
+    "currencyClearCompensationID": 125,
+    "currencyID": 51,
+    "minCurrencyAmount": 12250,
+    "rewardID": 7481
+  },
+  {
+    "currencyClearCompensationID": 126,
+    "currencyID": 51,
+    "minCurrencyAmount": 9000,
+    "rewardID": 7482
+  },
+  {
+    "currencyClearCompensationID": 127,
+    "currencyID": 51,
+    "minCurrencyAmount": 7500,
+    "rewardID": 7483
+  },
+  {
+    "currencyClearCompensationID": 128,
+    "currencyID": 51,
+    "minCurrencyAmount": 5000,
+    "rewardID": 7484
+  },
+  {
+    "currencyClearCompensationID": 129,
+    "currencyID": 51,
+    "minCurrencyAmount": 3000,
+    "rewardID": 7485
+  },
+  {
+    "currencyClearCompensationID": 130,
+    "currencyID": 51,
+    "minCurrencyAmount": 2250,
+    "rewardID": 7486
+  },
+  {
+    "currencyClearCompensationID": 131,
+    "currencyID": 51,
+    "minCurrencyAmount": 1500,
+    "rewardID": 7487
+  },
+  {
+    "currencyClearCompensationID": 132,
+    "currencyID": 51,
+    "minCurrencyAmount": 750,
+    "rewardID": 7488
+  },
+  {
+    "currencyClearCompensationID": 133,
+    "currencyID": 51,
+    "minCurrencyAmount": 250,
+    "rewardID": 7489
+  },
+  {
+    "currencyClearCompensationID": 134,
+    "currencyID": 51,
+    "minCurrencyAmount": 50,
+    "rewardID": 7490
+  },
+  {
+    "currencyClearCompensationID": 135,
+    "currencyID": 61,
+    "minCurrencyAmount": 24840,
+    "rewardID": 7479
+  },
+  {
+    "currencyClearCompensationID": 136,
+    "currencyID": 61,
+    "minCurrencyAmount": 17350,
+    "rewardID": 7480
+  },
+  {
+    "currencyClearCompensationID": 137,
+    "currencyID": 61,
+    "minCurrencyAmount": 12250,
+    "rewardID": 7481
+  },
+  {
+    "currencyClearCompensationID": 138,
+    "currencyID": 61,
+    "minCurrencyAmount": 9000,
+    "rewardID": 7482
+  },
+  {
+    "currencyClearCompensationID": 139,
+    "currencyID": 61,
+    "minCurrencyAmount": 7500,
+    "rewardID": 7483
+  },
+  {
+    "currencyClearCompensationID": 140,
+    "currencyID": 61,
+    "minCurrencyAmount": 5000,
+    "rewardID": 7484
+  },
+  {
+    "currencyClearCompensationID": 141,
+    "currencyID": 61,
+    "minCurrencyAmount": 3000,
+    "rewardID": 7485
+  },
+  {
+    "currencyClearCompensationID": 142,
+    "currencyID": 61,
+    "minCurrencyAmount": 2250,
+    "rewardID": 7486
+  },
+  {
+    "currencyClearCompensationID": 143,
+    "currencyID": 61,
+    "minCurrencyAmount": 1500,
+    "rewardID": 7487
+  },
+  {
+    "currencyClearCompensationID": 144,
+    "currencyID": 61,
+    "minCurrencyAmount": 750,
+    "rewardID": 7488
+  },
+  {
+    "currencyClearCompensationID": 145,
+    "currencyID": 61,
+    "minCurrencyAmount": 250,
+    "rewardID": 7489
+  },
+  {
+    "currencyClearCompensationID": 146,
+    "currencyID": 61,
+    "minCurrencyAmount": 50,
+    "rewardID": 7490
+  }
+]

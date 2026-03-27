@@ -1,1316 +1,1314 @@
-{
-  "seasonEndReward": [
-    {
-      "id": 1,
-      "rewardSetID": 1,
-      "minHighscoreRank": 1,
-      "rewardIDs": "30374,30375,30376,30377"
-    },
-    {
-      "id": 2,
-      "rewardSetID": 1,
-      "minHighscoreRank": 2,
-      "rewardIDs": "30378,30379,30380,30381"
-    },
-    {
-      "id": 3,
-      "rewardSetID": 1,
-      "minHighscoreRank": 3,
-      "rewardIDs": "30382,30383,30384,30385"
-    },
-    {
-      "id": 4,
-      "rewardSetID": 1,
-      "minHighscoreRank": 4,
-      "rewardIDs": "30386,30387,30388,30389"
-    },
-    {
-      "id": 5,
-      "rewardSetID": 1,
-      "minHighscoreRank": 5,
-      "rewardIDs": "30390,30391,30392,30393"
-    },
-    {
-      "id": 6,
-      "rewardSetID": 1,
-      "minHighscoreRank": 6,
-      "rewardIDs": "30394,30395,30396,30397"
-    },
-    {
-      "id": 7,
-      "rewardSetID": 1,
-      "minHighscoreRank": 11,
-      "rewardIDs": "30398,30399"
-    },
-    {
-      "id": 8,
-      "rewardSetID": 1,
-      "minHighscoreRank": 21,
-      "rewardIDs": "30400,30401"
-    },
-    {
-      "id": 9,
-      "rewardSetID": 1,
-      "minHighscoreRank": 51,
-      "rewardIDs": "30402,30403"
-    },
-    {
-      "id": 10,
-      "rewardSetID": 1,
-      "minHighscoreRank": 101,
-      "rewardIDs": "30404,30405"
-    },
-    {
-      "id": 11,
-      "rewardSetID": 1,
-      "minHighscoreRank": 201,
-      "rewardIDs": "30406,30407"
-    },
-    {
-      "id": 12,
-      "rewardSetID": 1,
-      "minHighscoreRank": 501,
-      "rewardIDs": "30408,30409"
-    },
-    {
-      "id": 13,
-      "rewardSetID": 1,
-      "minHighscoreRank": 1001,
-      "rewardIDs": "30410,30411"
-    },
-    {
-      "id": 14,
-      "rewardSetID": 1,
-      "minHighscoreRank": 2501,
-      "rewardIDs": "30412,30413"
-    },
-    {
-      "id": 15,
-      "rewardSetID": 1,
-      "minHighscoreRank": 5001,
-      "rewardIDs": "30414,30415"
-    },
-    {
-      "id": 16,
-      "rewardSetID": 1,
-      "minHighscoreRank": 10001,
-      "rewardIDs": "30416,30417"
-    },
-    {
-      "id": 17,
-      "rewardSetID": 2,
-      "minHighscoreRank": 1,
-      "rewardIDs": "31748,31749,31750,31751"
-    },
-    {
-      "id": 18,
-      "rewardSetID": 2,
-      "minHighscoreRank": 2,
-      "rewardIDs": "31752,31753,31754,31755"
-    },
-    {
-      "id": 19,
-      "rewardSetID": 2,
-      "minHighscoreRank": 3,
-      "rewardIDs": "31756,31757,31758,31759"
-    },
-    {
-      "id": 20,
-      "rewardSetID": 2,
-      "minHighscoreRank": 4,
-      "rewardIDs": "31760,31761,31762,31763"
-    },
-    {
-      "id": 21,
-      "rewardSetID": 2,
-      "minHighscoreRank": 5,
-      "rewardIDs": "31764,31765,31766,31767"
-    },
-    {
-      "id": 22,
-      "rewardSetID": 2,
-      "minHighscoreRank": 6,
-      "rewardIDs": "31768,31769,31770,31771"
-    },
-    {
-      "id": 23,
-      "rewardSetID": 2,
-      "minHighscoreRank": 11,
-      "rewardIDs": "31772,31773,31774"
-    },
-    {
-      "id": 24,
-      "rewardSetID": 2,
-      "minHighscoreRank": 21,
-      "rewardIDs": "31776,31777,31778"
-    },
-    {
-      "id": 25,
-      "rewardSetID": 2,
-      "minHighscoreRank": 51,
-      "rewardIDs": "31780,31781,31782"
-    },
-    {
-      "id": 26,
-      "rewardSetID": 2,
-      "minHighscoreRank": 101,
-      "rewardIDs": "31784,31785,31786"
-    },
-    {
-      "id": 27,
-      "rewardSetID": 2,
-      "minHighscoreRank": 201,
-      "rewardIDs": "31788,31789,31790"
-    },
-    {
-      "id": 28,
-      "rewardSetID": 2,
-      "minHighscoreRank": 501,
-      "rewardIDs": "31792,31793,31794"
-    },
-    {
-      "id": 29,
-      "rewardSetID": 2,
-      "minHighscoreRank": 1001,
-      "rewardIDs": "31796,31797,31798"
-    },
-    {
-      "id": 30,
-      "rewardSetID": 2,
-      "minHighscoreRank": 2501,
-      "rewardIDs": "31800,31801,31802"
-    },
-    {
-      "id": 31,
-      "rewardSetID": 2,
-      "minHighscoreRank": 5001,
-      "rewardIDs": "31804,31805,31806"
-    },
-    {
-      "id": 32,
-      "rewardSetID": 2,
-      "minHighscoreRank": 10001,
-      "rewardIDs": "31808,31809,31810"
-    },
-    {
-      "id": 33,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 1,
-      "rewardIDs": "5418,5419,5420,5421"
-    },
-    {
-      "id": 34,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 2,
-      "rewardIDs": "5422,5423,5424,5425"
-    },
-    {
-      "id": 35,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 3,
-      "rewardIDs": "5426,5427,5428,5429"
-    },
-    {
-      "id": 36,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 4,
-      "rewardIDs": "5430,5431,5432,5433"
-    },
-    {
-      "id": 37,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 5,
-      "rewardIDs": "5434,5435,5436,5437"
-    },
-    {
-      "id": 38,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 6,
-      "rewardIDs": "5438,5439,5440,5441"
-    },
-    {
-      "id": 39,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 11,
-      "rewardIDs": "5442,5443,5444,5445"
-    },
-    {
-      "id": 40,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 21,
-      "rewardIDs": "5446,5447,5448,5449"
-    },
-    {
-      "id": 41,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 51,
-      "rewardIDs": "5450,5451,5452,5453"
-    },
-    {
-      "id": 42,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 101,
-      "rewardIDs": "5454,5455,5456"
-    },
-    {
-      "id": 43,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 201,
-      "rewardIDs": "5457,5458,5459"
-    },
-    {
-      "id": 44,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 501,
-      "rewardIDs": "5460,5461,5462"
-    },
-    {
-      "id": 45,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 1001,
-      "rewardIDs": "5463,5464,5465"
-    },
-    {
-      "id": 46,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 2501,
-      "rewardIDs": "5466,5467,5468"
-    },
-    {
-      "id": 47,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 5001,
-      "rewardIDs": "5469,5470,5471"
-    },
-    {
-      "id": 48,
-      "leaguetypeID": 1,
-      "rewardSetID": 3,
-      "minHighscoreRank": 10001,
-      "rewardIDs": "5472,5473,5474"
-    },
-    {
-      "id": 49,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 1,
-      "rewardIDs": "5595,5596,5597,5598"
-    },
-    {
-      "id": 50,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 2,
-      "rewardIDs": "5599,5600,5601,5602"
-    },
-    {
-      "id": 51,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 3,
-      "rewardIDs": "5603,5604,5605,5606"
-    },
-    {
-      "id": 52,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 4,
-      "rewardIDs": "5607,5608,5609,5610"
-    },
-    {
-      "id": 53,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 5,
-      "rewardIDs": "5611,5612,5613,5614"
-    },
-    {
-      "id": 54,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 6,
-      "rewardIDs": "5615,5616,5617,5618"
-    },
-    {
-      "id": 55,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 11,
-      "rewardIDs": "5619,5620,5621"
-    },
-    {
-      "id": 56,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 21,
-      "rewardIDs": "5622,5623,5624"
-    },
-    {
-      "id": 57,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 51,
-      "rewardIDs": "5625,5626,5627"
-    },
-    {
-      "id": 58,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 101,
-      "rewardIDs": "5628,5629,5630"
-    },
-    {
-      "id": 59,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 201,
-      "rewardIDs": "5631,5632,5633"
-    },
-    {
-      "id": 60,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 501,
-      "rewardIDs": "5634,5635,5636"
-    },
-    {
-      "id": 61,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 1001,
-      "rewardIDs": "5637,5638,5639"
-    },
-    {
-      "id": 62,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 2501,
-      "rewardIDs": "5640,5641,5642"
-    },
-    {
-      "id": 63,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 5001,
-      "rewardIDs": "5643,5644,5645"
-    },
-    {
-      "id": 64,
-      "leaguetypeID": 2,
-      "rewardSetID": 3,
-      "minHighscoreRank": 10001,
-      "rewardIDs": "5646,5647,5648"
-    },
-    {
-      "id": 65,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 1,
-      "rewardIDs": "32244,32245"
-    },
-    {
-      "id": 66,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 2,
-      "rewardIDs": "32246,32247"
-    },
-    {
-      "id": 67,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 3,
-      "rewardIDs": "32248,32249"
-    },
-    {
-      "id": 68,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 4,
-      "rewardIDs": "32250,32251"
-    },
-    {
-      "id": 69,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 5,
-      "rewardIDs": "32252,32253"
-    },
-    {
-      "id": 70,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 6,
-      "rewardIDs": "32254,32255"
-    },
-    {
-      "id": 71,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 11,
-      "rewardIDs": "32256,32257"
-    },
-    {
-      "id": 72,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 21,
-      "rewardIDs": "32258,32259"
-    },
-    {
-      "id": 73,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 51,
-      "rewardIDs": "32260,32261"
-    },
-    {
-      "id": 74,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 101,
-      "rewardIDs": 32262
-    },
-    {
-      "id": 75,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 201,
-      "rewardIDs": 32264
-    },
-    {
-      "id": 76,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 501,
-      "rewardIDs": 32266
-    },
-    {
-      "id": 77,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 1001,
-      "rewardIDs": 32268
-    },
-    {
-      "id": 78,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 2501,
-      "rewardIDs": 32270
-    },
-    {
-      "id": 79,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 5001,
-      "rewardIDs": 32272
-    },
-    {
-      "id": 80,
-      "leaguetypeID": 1,
-      "rewardSetID": 4,
-      "minHighscoreRank": 10001,
-      "rewardIDs": 32274
-    },
-    {
-      "id": 81,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 1,
-      "rewardIDs": 32276
-    },
-    {
-      "id": 82,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 2,
-      "rewardIDs": 32278
-    },
-    {
-      "id": 83,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 3,
-      "rewardIDs": 32280
-    },
-    {
-      "id": 84,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 4,
-      "rewardIDs": 32282
-    },
-    {
-      "id": 85,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 5,
-      "rewardIDs": 32284
-    },
-    {
-      "id": 86,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 6,
-      "rewardIDs": 32286
-    },
-    {
-      "id": 87,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 11,
-      "rewardIDs": 32288
-    },
-    {
-      "id": 88,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 21,
-      "rewardIDs": 32290
-    },
-    {
-      "id": 89,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 51,
-      "rewardIDs": 32292
-    },
-    {
-      "id": 90,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 101,
-      "rewardIDs": 32294
-    },
-    {
-      "id": 91,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 201,
-      "rewardIDs": 32296
-    },
-    {
-      "id": 92,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 501,
-      "rewardIDs": 32298
-    },
-    {
-      "id": 93,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 1001,
-      "rewardIDs": 32300
-    },
-    {
-      "id": 94,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 2501,
-      "rewardIDs": 32302
-    },
-    {
-      "id": 95,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 5001,
-      "rewardIDs": 32304
-    },
-    {
-      "id": 96,
-      "leaguetypeID": 2,
-      "rewardSetID": 4,
-      "minHighscoreRank": 10001,
-      "rewardIDs": 32306
-    },
-    {
-      "id": 97,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 1,
-      "rewardIDs": 32307
-    },
-    {
-      "id": 98,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 2,
-      "rewardIDs": 32308
-    },
-    {
-      "id": 99,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 3,
-      "rewardIDs": 32309
-    },
-    {
-      "id": 100,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 4,
-      "rewardIDs": 32310
-    },
-    {
-      "id": 101,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 5,
-      "rewardIDs": 32311
-    },
-    {
-      "id": 102,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 6,
-      "rewardIDs": 32312
-    },
-    {
-      "id": 103,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 11,
-      "rewardIDs": 32313
-    },
-    {
-      "id": 104,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 21,
-      "rewardIDs": 32314
-    },
-    {
-      "id": 105,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 51,
-      "rewardIDs": 32315
-    },
-    {
-      "id": 106,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 101,
-      "rewardIDs": 32316
-    },
-    {
-      "id": 107,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 201,
-      "rewardIDs": 32317
-    },
-    {
-      "id": 108,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 501,
-      "rewardIDs": 32318
-    },
-    {
-      "id": 109,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 1001,
-      "rewardIDs": 32319
-    },
-    {
-      "id": 110,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 2501,
-      "rewardIDs": 32320
-    },
-    {
-      "id": 111,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 5001,
-      "rewardIDs": 32321
-    },
-    {
-      "id": 112,
-      "leaguetypeID": 1,
-      "rewardSetID": 5,
-      "minHighscoreRank": 10001,
-      "rewardIDs": 32322
-    },
-    {
-      "id": 113,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 1,
-      "rewardIDs": 32323
-    },
-    {
-      "id": 114,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 2,
-      "rewardIDs": 32324
-    },
-    {
-      "id": 115,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 3,
-      "rewardIDs": 32325
-    },
-    {
-      "id": 116,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 4,
-      "rewardIDs": 32326
-    },
-    {
-      "id": 117,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 5,
-      "rewardIDs": 32327
-    },
-    {
-      "id": 118,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 6,
-      "rewardIDs": 32328
-    },
-    {
-      "id": 119,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 11,
-      "rewardIDs": 32329
-    },
-    {
-      "id": 120,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 21,
-      "rewardIDs": 32330
-    },
-    {
-      "id": 121,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 51,
-      "rewardIDs": 32331
-    },
-    {
-      "id": 122,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 101,
-      "rewardIDs": 32332
-    },
-    {
-      "id": 123,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 201,
-      "rewardIDs": 32333
-    },
-    {
-      "id": 124,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 501,
-      "rewardIDs": 32334
-    },
-    {
-      "id": 125,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 1001,
-      "rewardIDs": 32335
-    },
-    {
-      "id": 126,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 2501,
-      "rewardIDs": 32336
-    },
-    {
-      "id": 127,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 5001,
-      "rewardIDs": 32337
-    },
-    {
-      "id": 128,
-      "leaguetypeID": 2,
-      "rewardSetID": 5,
-      "minHighscoreRank": 10001,
-      "rewardIDs": 32338
-    },
-    {
-      "id": 129,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 1,
-      "rewardIDs": 32339
-    },
-    {
-      "id": 130,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 2,
-      "rewardIDs": 32340
-    },
-    {
-      "id": 131,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 3,
-      "rewardIDs": 32341
-    },
-    {
-      "id": 132,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 4,
-      "rewardIDs": 32342
-    },
-    {
-      "id": 133,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 5,
-      "rewardIDs": 32343
-    },
-    {
-      "id": 134,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 6,
-      "rewardIDs": 32344
-    },
-    {
-      "id": 135,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 11,
-      "rewardIDs": 32345
-    },
-    {
-      "id": 136,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 21,
-      "rewardIDs": 32346
-    },
-    {
-      "id": 137,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 51,
-      "rewardIDs": 32347
-    },
-    {
-      "id": 138,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 101,
-      "rewardIDs": 32348
-    },
-    {
-      "id": 139,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 201,
-      "rewardIDs": 32349
-    },
-    {
-      "id": 140,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 501,
-      "rewardIDs": 32350
-    },
-    {
-      "id": 141,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 1001,
-      "rewardIDs": 32351
-    },
-    {
-      "id": 142,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 2501,
-      "rewardIDs": 32352
-    },
-    {
-      "id": 143,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 5001,
-      "rewardIDs": 32353
-    },
-    {
-      "id": 144,
-      "leaguetypeID": 1,
-      "rewardSetID": 6,
-      "minHighscoreRank": 10001,
-      "rewardIDs": 32354
-    },
-    {
-      "id": 145,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 1,
-      "rewardIDs": 32355
-    },
-    {
-      "id": 146,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 2,
-      "rewardIDs": 32356
-    },
-    {
-      "id": 147,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 3,
-      "rewardIDs": 32357
-    },
-    {
-      "id": 148,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 4,
-      "rewardIDs": 32358
-    },
-    {
-      "id": 149,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 5,
-      "rewardIDs": 32359
-    },
-    {
-      "id": 150,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 6,
-      "rewardIDs": 32360
-    },
-    {
-      "id": 151,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 11,
-      "rewardIDs": 32361
-    },
-    {
-      "id": 152,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 21,
-      "rewardIDs": 32362
-    },
-    {
-      "id": 153,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 51,
-      "rewardIDs": 32363
-    },
-    {
-      "id": 154,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 101,
-      "rewardIDs": 32364
-    },
-    {
-      "id": 155,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 201,
-      "rewardIDs": 32365
-    },
-    {
-      "id": 156,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 501,
-      "rewardIDs": 32366
-    },
-    {
-      "id": 157,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 1001,
-      "rewardIDs": 32367
-    },
-    {
-      "id": 158,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 2501,
-      "rewardIDs": 32368
-    },
-    {
-      "id": 159,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 5001,
-      "rewardIDs": 32369
-    },
-    {
-      "id": 160,
-      "leaguetypeID": 2,
-      "rewardSetID": 6,
-      "minHighscoreRank": 10001,
-      "rewardIDs": 32370
-    },
-    {
-      "id": 161,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 1,
-      "rewardIDs": 32371
-    },
-    {
-      "id": 162,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 2,
-      "rewardIDs": 32372
-    },
-    {
-      "id": 163,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 3,
-      "rewardIDs": 32373
-    },
-    {
-      "id": 164,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 4,
-      "rewardIDs": 32374
-    },
-    {
-      "id": 165,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 5,
-      "rewardIDs": 32375
-    },
-    {
-      "id": 166,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 6,
-      "rewardIDs": 32376
-    },
-    {
-      "id": 167,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 11,
-      "rewardIDs": 32377
-    },
-    {
-      "id": 168,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 21,
-      "rewardIDs": 32378
-    },
-    {
-      "id": 169,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 51,
-      "rewardIDs": 32379
-    },
-    {
-      "id": 170,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 101,
-      "rewardIDs": 32380
-    },
-    {
-      "id": 171,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 201,
-      "rewardIDs": 32381
-    },
-    {
-      "id": 172,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 501,
-      "rewardIDs": 32382
-    },
-    {
-      "id": 173,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 1001,
-      "rewardIDs": 32383
-    },
-    {
-      "id": 174,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 2501,
-      "rewardIDs": 32384
-    },
-    {
-      "id": 175,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 5001,
-      "rewardIDs": 32385
-    },
-    {
-      "id": 176,
-      "leaguetypeID": 2,
-      "rewardSetID": 7,
-      "minHighscoreRank": 10001,
-      "rewardIDs": 32386
-    },
-    {
-      "id": 177,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 1,
-      "rewardIDs": 32387
-    },
-    {
-      "id": 178,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 2,
-      "rewardIDs": 32388
-    },
-    {
-      "id": 179,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 3,
-      "rewardIDs": 32389
-    },
-    {
-      "id": 180,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 4,
-      "rewardIDs": 32390
-    },
-    {
-      "id": 181,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 5,
-      "rewardIDs": 32391
-    },
-    {
-      "id": 182,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 6,
-      "rewardIDs": 32392
-    },
-    {
-      "id": 183,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 11,
-      "rewardIDs": 32393
-    },
-    {
-      "id": 184,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 21,
-      "rewardIDs": 32394
-    },
-    {
-      "id": 185,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 51,
-      "rewardIDs": 32395
-    },
-    {
-      "id": 186,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 101,
-      "rewardIDs": 32396
-    },
-    {
-      "id": 187,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 201,
-      "rewardIDs": 32397
-    },
-    {
-      "id": 188,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 501,
-      "rewardIDs": 32398
-    },
-    {
-      "id": 189,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 1001,
-      "rewardIDs": 32399
-    },
-    {
-      "id": 190,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 2501,
-      "rewardIDs": 32400
-    },
-    {
-      "id": 191,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 5001,
-      "rewardIDs": 32401
-    },
-    {
-      "id": 192,
-      "leaguetypeID": 1,
-      "rewardSetID": 7,
-      "minHighscoreRank": 10001,
-      "rewardIDs": 32402
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "rewardSetID": 1,
+    "minHighscoreRank": 1,
+    "rewardIDs": "30374,30375,30376,30377"
+  },
+  {
+    "id": 2,
+    "rewardSetID": 1,
+    "minHighscoreRank": 2,
+    "rewardIDs": "30378,30379,30380,30381"
+  },
+  {
+    "id": 3,
+    "rewardSetID": 1,
+    "minHighscoreRank": 3,
+    "rewardIDs": "30382,30383,30384,30385"
+  },
+  {
+    "id": 4,
+    "rewardSetID": 1,
+    "minHighscoreRank": 4,
+    "rewardIDs": "30386,30387,30388,30389"
+  },
+  {
+    "id": 5,
+    "rewardSetID": 1,
+    "minHighscoreRank": 5,
+    "rewardIDs": "30390,30391,30392,30393"
+  },
+  {
+    "id": 6,
+    "rewardSetID": 1,
+    "minHighscoreRank": 6,
+    "rewardIDs": "30394,30395,30396,30397"
+  },
+  {
+    "id": 7,
+    "rewardSetID": 1,
+    "minHighscoreRank": 11,
+    "rewardIDs": "30398,30399"
+  },
+  {
+    "id": 8,
+    "rewardSetID": 1,
+    "minHighscoreRank": 21,
+    "rewardIDs": "30400,30401"
+  },
+  {
+    "id": 9,
+    "rewardSetID": 1,
+    "minHighscoreRank": 51,
+    "rewardIDs": "30402,30403"
+  },
+  {
+    "id": 10,
+    "rewardSetID": 1,
+    "minHighscoreRank": 101,
+    "rewardIDs": "30404,30405"
+  },
+  {
+    "id": 11,
+    "rewardSetID": 1,
+    "minHighscoreRank": 201,
+    "rewardIDs": "30406,30407"
+  },
+  {
+    "id": 12,
+    "rewardSetID": 1,
+    "minHighscoreRank": 501,
+    "rewardIDs": "30408,30409"
+  },
+  {
+    "id": 13,
+    "rewardSetID": 1,
+    "minHighscoreRank": 1001,
+    "rewardIDs": "30410,30411"
+  },
+  {
+    "id": 14,
+    "rewardSetID": 1,
+    "minHighscoreRank": 2501,
+    "rewardIDs": "30412,30413"
+  },
+  {
+    "id": 15,
+    "rewardSetID": 1,
+    "minHighscoreRank": 5001,
+    "rewardIDs": "30414,30415"
+  },
+  {
+    "id": 16,
+    "rewardSetID": 1,
+    "minHighscoreRank": 10001,
+    "rewardIDs": "30416,30417"
+  },
+  {
+    "id": 17,
+    "rewardSetID": 2,
+    "minHighscoreRank": 1,
+    "rewardIDs": "31748,31749,31750,31751"
+  },
+  {
+    "id": 18,
+    "rewardSetID": 2,
+    "minHighscoreRank": 2,
+    "rewardIDs": "31752,31753,31754,31755"
+  },
+  {
+    "id": 19,
+    "rewardSetID": 2,
+    "minHighscoreRank": 3,
+    "rewardIDs": "31756,31757,31758,31759"
+  },
+  {
+    "id": 20,
+    "rewardSetID": 2,
+    "minHighscoreRank": 4,
+    "rewardIDs": "31760,31761,31762,31763"
+  },
+  {
+    "id": 21,
+    "rewardSetID": 2,
+    "minHighscoreRank": 5,
+    "rewardIDs": "31764,31765,31766,31767"
+  },
+  {
+    "id": 22,
+    "rewardSetID": 2,
+    "minHighscoreRank": 6,
+    "rewardIDs": "31768,31769,31770,31771"
+  },
+  {
+    "id": 23,
+    "rewardSetID": 2,
+    "minHighscoreRank": 11,
+    "rewardIDs": "31772,31773,31774"
+  },
+  {
+    "id": 24,
+    "rewardSetID": 2,
+    "minHighscoreRank": 21,
+    "rewardIDs": "31776,31777,31778"
+  },
+  {
+    "id": 25,
+    "rewardSetID": 2,
+    "minHighscoreRank": 51,
+    "rewardIDs": "31780,31781,31782"
+  },
+  {
+    "id": 26,
+    "rewardSetID": 2,
+    "minHighscoreRank": 101,
+    "rewardIDs": "31784,31785,31786"
+  },
+  {
+    "id": 27,
+    "rewardSetID": 2,
+    "minHighscoreRank": 201,
+    "rewardIDs": "31788,31789,31790"
+  },
+  {
+    "id": 28,
+    "rewardSetID": 2,
+    "minHighscoreRank": 501,
+    "rewardIDs": "31792,31793,31794"
+  },
+  {
+    "id": 29,
+    "rewardSetID": 2,
+    "minHighscoreRank": 1001,
+    "rewardIDs": "31796,31797,31798"
+  },
+  {
+    "id": 30,
+    "rewardSetID": 2,
+    "minHighscoreRank": 2501,
+    "rewardIDs": "31800,31801,31802"
+  },
+  {
+    "id": 31,
+    "rewardSetID": 2,
+    "minHighscoreRank": 5001,
+    "rewardIDs": "31804,31805,31806"
+  },
+  {
+    "id": 32,
+    "rewardSetID": 2,
+    "minHighscoreRank": 10001,
+    "rewardIDs": "31808,31809,31810"
+  },
+  {
+    "id": 33,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 1,
+    "rewardIDs": "5418,5419,5420,5421"
+  },
+  {
+    "id": 34,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 2,
+    "rewardIDs": "5422,5423,5424,5425"
+  },
+  {
+    "id": 35,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 3,
+    "rewardIDs": "5426,5427,5428,5429"
+  },
+  {
+    "id": 36,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 4,
+    "rewardIDs": "5430,5431,5432,5433"
+  },
+  {
+    "id": 37,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 5,
+    "rewardIDs": "5434,5435,5436,5437"
+  },
+  {
+    "id": 38,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 6,
+    "rewardIDs": "5438,5439,5440,5441"
+  },
+  {
+    "id": 39,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 11,
+    "rewardIDs": "5442,5443,5444,5445"
+  },
+  {
+    "id": 40,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 21,
+    "rewardIDs": "5446,5447,5448,5449"
+  },
+  {
+    "id": 41,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 51,
+    "rewardIDs": "5450,5451,5452,5453"
+  },
+  {
+    "id": 42,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 101,
+    "rewardIDs": "5454,5455,5456"
+  },
+  {
+    "id": 43,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 201,
+    "rewardIDs": "5457,5458,5459"
+  },
+  {
+    "id": 44,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 501,
+    "rewardIDs": "5460,5461,5462"
+  },
+  {
+    "id": 45,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 1001,
+    "rewardIDs": "5463,5464,5465"
+  },
+  {
+    "id": 46,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 2501,
+    "rewardIDs": "5466,5467,5468"
+  },
+  {
+    "id": 47,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 5001,
+    "rewardIDs": "5469,5470,5471"
+  },
+  {
+    "id": 48,
+    "leaguetypeID": 1,
+    "rewardSetID": 3,
+    "minHighscoreRank": 10001,
+    "rewardIDs": "5472,5473,5474"
+  },
+  {
+    "id": 49,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 1,
+    "rewardIDs": "5595,5596,5597,5598"
+  },
+  {
+    "id": 50,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 2,
+    "rewardIDs": "5599,5600,5601,5602"
+  },
+  {
+    "id": 51,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 3,
+    "rewardIDs": "5603,5604,5605,5606"
+  },
+  {
+    "id": 52,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 4,
+    "rewardIDs": "5607,5608,5609,5610"
+  },
+  {
+    "id": 53,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 5,
+    "rewardIDs": "5611,5612,5613,5614"
+  },
+  {
+    "id": 54,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 6,
+    "rewardIDs": "5615,5616,5617,5618"
+  },
+  {
+    "id": 55,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 11,
+    "rewardIDs": "5619,5620,5621"
+  },
+  {
+    "id": 56,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 21,
+    "rewardIDs": "5622,5623,5624"
+  },
+  {
+    "id": 57,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 51,
+    "rewardIDs": "5625,5626,5627"
+  },
+  {
+    "id": 58,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 101,
+    "rewardIDs": "5628,5629,5630"
+  },
+  {
+    "id": 59,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 201,
+    "rewardIDs": "5631,5632,5633"
+  },
+  {
+    "id": 60,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 501,
+    "rewardIDs": "5634,5635,5636"
+  },
+  {
+    "id": 61,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 1001,
+    "rewardIDs": "5637,5638,5639"
+  },
+  {
+    "id": 62,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 2501,
+    "rewardIDs": "5640,5641,5642"
+  },
+  {
+    "id": 63,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 5001,
+    "rewardIDs": "5643,5644,5645"
+  },
+  {
+    "id": 64,
+    "leaguetypeID": 2,
+    "rewardSetID": 3,
+    "minHighscoreRank": 10001,
+    "rewardIDs": "5646,5647,5648"
+  },
+  {
+    "id": 65,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 1,
+    "rewardIDs": "32244,32245"
+  },
+  {
+    "id": 66,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 2,
+    "rewardIDs": "32246,32247"
+  },
+  {
+    "id": 67,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 3,
+    "rewardIDs": "32248,32249"
+  },
+  {
+    "id": 68,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 4,
+    "rewardIDs": "32250,32251"
+  },
+  {
+    "id": 69,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 5,
+    "rewardIDs": "32252,32253"
+  },
+  {
+    "id": 70,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 6,
+    "rewardIDs": "32254,32255"
+  },
+  {
+    "id": 71,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 11,
+    "rewardIDs": "32256,32257"
+  },
+  {
+    "id": 72,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 21,
+    "rewardIDs": "32258,32259"
+  },
+  {
+    "id": 73,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 51,
+    "rewardIDs": "32260,32261"
+  },
+  {
+    "id": 74,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 101,
+    "rewardIDs": 32262
+  },
+  {
+    "id": 75,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 201,
+    "rewardIDs": 32264
+  },
+  {
+    "id": 76,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 501,
+    "rewardIDs": 32266
+  },
+  {
+    "id": 77,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 1001,
+    "rewardIDs": 32268
+  },
+  {
+    "id": 78,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 2501,
+    "rewardIDs": 32270
+  },
+  {
+    "id": 79,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 5001,
+    "rewardIDs": 32272
+  },
+  {
+    "id": 80,
+    "leaguetypeID": 1,
+    "rewardSetID": 4,
+    "minHighscoreRank": 10001,
+    "rewardIDs": 32274
+  },
+  {
+    "id": 81,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 1,
+    "rewardIDs": 32276
+  },
+  {
+    "id": 82,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 2,
+    "rewardIDs": 32278
+  },
+  {
+    "id": 83,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 3,
+    "rewardIDs": 32280
+  },
+  {
+    "id": 84,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 4,
+    "rewardIDs": 32282
+  },
+  {
+    "id": 85,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 5,
+    "rewardIDs": 32284
+  },
+  {
+    "id": 86,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 6,
+    "rewardIDs": 32286
+  },
+  {
+    "id": 87,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 11,
+    "rewardIDs": 32288
+  },
+  {
+    "id": 88,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 21,
+    "rewardIDs": 32290
+  },
+  {
+    "id": 89,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 51,
+    "rewardIDs": 32292
+  },
+  {
+    "id": 90,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 101,
+    "rewardIDs": 32294
+  },
+  {
+    "id": 91,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 201,
+    "rewardIDs": 32296
+  },
+  {
+    "id": 92,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 501,
+    "rewardIDs": 32298
+  },
+  {
+    "id": 93,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 1001,
+    "rewardIDs": 32300
+  },
+  {
+    "id": 94,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 2501,
+    "rewardIDs": 32302
+  },
+  {
+    "id": 95,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 5001,
+    "rewardIDs": 32304
+  },
+  {
+    "id": 96,
+    "leaguetypeID": 2,
+    "rewardSetID": 4,
+    "minHighscoreRank": 10001,
+    "rewardIDs": 32306
+  },
+  {
+    "id": 97,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 1,
+    "rewardIDs": 32307
+  },
+  {
+    "id": 98,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 2,
+    "rewardIDs": 32308
+  },
+  {
+    "id": 99,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 3,
+    "rewardIDs": 32309
+  },
+  {
+    "id": 100,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 4,
+    "rewardIDs": 32310
+  },
+  {
+    "id": 101,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 5,
+    "rewardIDs": 32311
+  },
+  {
+    "id": 102,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 6,
+    "rewardIDs": 32312
+  },
+  {
+    "id": 103,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 11,
+    "rewardIDs": 32313
+  },
+  {
+    "id": 104,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 21,
+    "rewardIDs": 32314
+  },
+  {
+    "id": 105,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 51,
+    "rewardIDs": 32315
+  },
+  {
+    "id": 106,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 101,
+    "rewardIDs": 32316
+  },
+  {
+    "id": 107,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 201,
+    "rewardIDs": 32317
+  },
+  {
+    "id": 108,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 501,
+    "rewardIDs": 32318
+  },
+  {
+    "id": 109,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 1001,
+    "rewardIDs": 32319
+  },
+  {
+    "id": 110,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 2501,
+    "rewardIDs": 32320
+  },
+  {
+    "id": 111,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 5001,
+    "rewardIDs": 32321
+  },
+  {
+    "id": 112,
+    "leaguetypeID": 1,
+    "rewardSetID": 5,
+    "minHighscoreRank": 10001,
+    "rewardIDs": 32322
+  },
+  {
+    "id": 113,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 1,
+    "rewardIDs": 32323
+  },
+  {
+    "id": 114,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 2,
+    "rewardIDs": 32324
+  },
+  {
+    "id": 115,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 3,
+    "rewardIDs": 32325
+  },
+  {
+    "id": 116,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 4,
+    "rewardIDs": 32326
+  },
+  {
+    "id": 117,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 5,
+    "rewardIDs": 32327
+  },
+  {
+    "id": 118,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 6,
+    "rewardIDs": 32328
+  },
+  {
+    "id": 119,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 11,
+    "rewardIDs": 32329
+  },
+  {
+    "id": 120,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 21,
+    "rewardIDs": 32330
+  },
+  {
+    "id": 121,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 51,
+    "rewardIDs": 32331
+  },
+  {
+    "id": 122,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 101,
+    "rewardIDs": 32332
+  },
+  {
+    "id": 123,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 201,
+    "rewardIDs": 32333
+  },
+  {
+    "id": 124,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 501,
+    "rewardIDs": 32334
+  },
+  {
+    "id": 125,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 1001,
+    "rewardIDs": 32335
+  },
+  {
+    "id": 126,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 2501,
+    "rewardIDs": 32336
+  },
+  {
+    "id": 127,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 5001,
+    "rewardIDs": 32337
+  },
+  {
+    "id": 128,
+    "leaguetypeID": 2,
+    "rewardSetID": 5,
+    "minHighscoreRank": 10001,
+    "rewardIDs": 32338
+  },
+  {
+    "id": 129,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 1,
+    "rewardIDs": 32339
+  },
+  {
+    "id": 130,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 2,
+    "rewardIDs": 32340
+  },
+  {
+    "id": 131,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 3,
+    "rewardIDs": 32341
+  },
+  {
+    "id": 132,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 4,
+    "rewardIDs": 32342
+  },
+  {
+    "id": 133,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 5,
+    "rewardIDs": 32343
+  },
+  {
+    "id": 134,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 6,
+    "rewardIDs": 32344
+  },
+  {
+    "id": 135,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 11,
+    "rewardIDs": 32345
+  },
+  {
+    "id": 136,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 21,
+    "rewardIDs": 32346
+  },
+  {
+    "id": 137,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 51,
+    "rewardIDs": 32347
+  },
+  {
+    "id": 138,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 101,
+    "rewardIDs": 32348
+  },
+  {
+    "id": 139,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 201,
+    "rewardIDs": 32349
+  },
+  {
+    "id": 140,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 501,
+    "rewardIDs": 32350
+  },
+  {
+    "id": 141,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 1001,
+    "rewardIDs": 32351
+  },
+  {
+    "id": 142,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 2501,
+    "rewardIDs": 32352
+  },
+  {
+    "id": 143,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 5001,
+    "rewardIDs": 32353
+  },
+  {
+    "id": 144,
+    "leaguetypeID": 1,
+    "rewardSetID": 6,
+    "minHighscoreRank": 10001,
+    "rewardIDs": 32354
+  },
+  {
+    "id": 145,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 1,
+    "rewardIDs": 32355
+  },
+  {
+    "id": 146,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 2,
+    "rewardIDs": 32356
+  },
+  {
+    "id": 147,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 3,
+    "rewardIDs": 32357
+  },
+  {
+    "id": 148,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 4,
+    "rewardIDs": 32358
+  },
+  {
+    "id": 149,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 5,
+    "rewardIDs": 32359
+  },
+  {
+    "id": 150,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 6,
+    "rewardIDs": 32360
+  },
+  {
+    "id": 151,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 11,
+    "rewardIDs": 32361
+  },
+  {
+    "id": 152,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 21,
+    "rewardIDs": 32362
+  },
+  {
+    "id": 153,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 51,
+    "rewardIDs": 32363
+  },
+  {
+    "id": 154,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 101,
+    "rewardIDs": 32364
+  },
+  {
+    "id": 155,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 201,
+    "rewardIDs": 32365
+  },
+  {
+    "id": 156,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 501,
+    "rewardIDs": 32366
+  },
+  {
+    "id": 157,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 1001,
+    "rewardIDs": 32367
+  },
+  {
+    "id": 158,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 2501,
+    "rewardIDs": 32368
+  },
+  {
+    "id": 159,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 5001,
+    "rewardIDs": 32369
+  },
+  {
+    "id": 160,
+    "leaguetypeID": 2,
+    "rewardSetID": 6,
+    "minHighscoreRank": 10001,
+    "rewardIDs": 32370
+  },
+  {
+    "id": 161,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 1,
+    "rewardIDs": 32371
+  },
+  {
+    "id": 162,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 2,
+    "rewardIDs": 32372
+  },
+  {
+    "id": 163,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 3,
+    "rewardIDs": 32373
+  },
+  {
+    "id": 164,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 4,
+    "rewardIDs": 32374
+  },
+  {
+    "id": 165,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 5,
+    "rewardIDs": 32375
+  },
+  {
+    "id": 166,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 6,
+    "rewardIDs": 32376
+  },
+  {
+    "id": 167,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 11,
+    "rewardIDs": 32377
+  },
+  {
+    "id": 168,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 21,
+    "rewardIDs": 32378
+  },
+  {
+    "id": 169,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 51,
+    "rewardIDs": 32379
+  },
+  {
+    "id": 170,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 101,
+    "rewardIDs": 32380
+  },
+  {
+    "id": 171,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 201,
+    "rewardIDs": 32381
+  },
+  {
+    "id": 172,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 501,
+    "rewardIDs": 32382
+  },
+  {
+    "id": 173,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 1001,
+    "rewardIDs": 32383
+  },
+  {
+    "id": 174,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 2501,
+    "rewardIDs": 32384
+  },
+  {
+    "id": 175,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 5001,
+    "rewardIDs": 32385
+  },
+  {
+    "id": 176,
+    "leaguetypeID": 2,
+    "rewardSetID": 7,
+    "minHighscoreRank": 10001,
+    "rewardIDs": 32386
+  },
+  {
+    "id": 177,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 1,
+    "rewardIDs": 32387
+  },
+  {
+    "id": 178,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 2,
+    "rewardIDs": 32388
+  },
+  {
+    "id": 179,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 3,
+    "rewardIDs": 32389
+  },
+  {
+    "id": 180,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 4,
+    "rewardIDs": 32390
+  },
+  {
+    "id": 181,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 5,
+    "rewardIDs": 32391
+  },
+  {
+    "id": 182,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 6,
+    "rewardIDs": 32392
+  },
+  {
+    "id": 183,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 11,
+    "rewardIDs": 32393
+  },
+  {
+    "id": 184,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 21,
+    "rewardIDs": 32394
+  },
+  {
+    "id": 185,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 51,
+    "rewardIDs": 32395
+  },
+  {
+    "id": 186,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 101,
+    "rewardIDs": 32396
+  },
+  {
+    "id": 187,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 201,
+    "rewardIDs": 32397
+  },
+  {
+    "id": 188,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 501,
+    "rewardIDs": 32398
+  },
+  {
+    "id": 189,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 1001,
+    "rewardIDs": 32399
+  },
+  {
+    "id": 190,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 2501,
+    "rewardIDs": 32400
+  },
+  {
+    "id": 191,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 5001,
+    "rewardIDs": 32401
+  },
+  {
+    "id": 192,
+    "leaguetypeID": 1,
+    "rewardSetID": 7,
+    "minHighscoreRank": 10001,
+    "rewardIDs": 32402
+  }
+]

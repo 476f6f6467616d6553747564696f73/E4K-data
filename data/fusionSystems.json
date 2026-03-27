@@ -1,5 +1,5 @@
-{
-  "fusionSystem": {
+[
+  {
     "id": 1,
     "minLevel": 70,
     "fusionCurrencyID": 24,
@@ -11,4 +11,4 @@
     "skipRechargeHardCurrencyCost": 500,
     "skipRechargeHardCurrencyCostFactor": 2
   }
-}
+]

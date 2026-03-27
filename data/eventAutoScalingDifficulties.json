@@ -1,280 +1,278 @@
-{
-  "eventAutoScalingDifficulty": [
-    {
-      "difficultyID": 1,
-      "eventID": 71,
-      "difficultyTypeID": 1
-    },
-    {
-      "difficultyID": 2,
-      "eventID": 71,
-      "difficultyTypeID": 2
-    },
-    {
-      "difficultyID": 3,
-      "eventID": 71,
-      "difficultyTypeID": 3
-    },
-    {
-      "difficultyID": 4,
-      "eventID": 71,
-      "difficultyTypeID": 4
-    },
-    {
-      "difficultyID": 5,
-      "eventID": 71,
-      "difficultyTypeID": 5,
-      "isLocked": 1,
-      "rentC2Cost": 10000
-    },
-    {
-      "difficultyID": 6,
-      "eventID": 71,
-      "difficultyTypeID": 6,
-      "isLocked": 1,
-      "rentC2Cost": 17500
-    },
-    {
-      "difficultyID": 7,
-      "eventID": 71,
-      "difficultyTypeID": 7,
-      "isLocked": 1,
-      "rentC2Cost": 25000
-    },
-    {
-      "difficultyID": 8,
-      "eventID": 71,
-      "difficultyTypeID": 8,
-      "isLocked": 1,
-      "rentC2Cost": 32500
-    },
-    {
-      "difficultyID": 9,
-      "eventID": 71,
-      "difficultyTypeID": 9,
-      "isLocked": 1,
-      "rentC2Cost": 40000
-    },
-    {
-      "difficultyID": 10,
-      "eventID": 71,
-      "difficultyTypeID": 10,
-      "isLocked": 1,
-      "rentC2Cost": 47500
-    },
-    {
-      "difficultyID": 11,
-      "eventID": 71,
-      "difficultyTypeID": 11,
-      "isLocked": 1,
-      "rentC2Cost": 55000
-    },
-    {
-      "difficultyID": 101,
-      "eventID": 103,
-      "difficultyTypeID": 1
-    },
-    {
-      "difficultyID": 102,
-      "eventID": 103,
-      "difficultyTypeID": 2
-    },
-    {
-      "difficultyID": 103,
-      "eventID": 103,
-      "difficultyTypeID": 3
-    },
-    {
-      "difficultyID": 104,
-      "eventID": 103,
-      "difficultyTypeID": 4
-    },
-    {
-      "difficultyID": 105,
-      "eventID": 103,
-      "difficultyTypeID": 5,
-      "isLocked": 1,
-      "rentC2Cost": 10000
-    },
-    {
-      "difficultyID": 106,
-      "eventID": 103,
-      "difficultyTypeID": 6,
-      "isLocked": 1,
-      "rentC2Cost": 17500
-    },
-    {
-      "difficultyID": 107,
-      "eventID": 103,
-      "difficultyTypeID": 7,
-      "isLocked": 1,
-      "rentC2Cost": 25000
-    },
-    {
-      "difficultyID": 108,
-      "eventID": 103,
-      "difficultyTypeID": 8,
-      "isLocked": 1,
-      "rentC2Cost": 32500
-    },
-    {
-      "difficultyID": 109,
-      "eventID": 103,
-      "difficultyTypeID": 9,
-      "isLocked": 1,
-      "rentC2Cost": 40000
-    },
-    {
-      "difficultyID": 110,
-      "eventID": 103,
-      "difficultyTypeID": 10,
-      "isLocked": 1,
-      "rentC2Cost": 47500
-    },
-    {
-      "difficultyID": 111,
-      "eventID": 103,
-      "difficultyTypeID": 11,
-      "isLocked": 1,
-      "rentC2Cost": 55000
-    },
-    {
-      "difficultyID": 201,
-      "eventID": 80,
-      "difficultyTypeID": 1
-    },
-    {
-      "difficultyID": 202,
-      "eventID": 80,
-      "difficultyTypeID": 2
-    },
-    {
-      "difficultyID": 203,
-      "eventID": 80,
-      "difficultyTypeID": 3
-    },
-    {
-      "difficultyID": 204,
-      "eventID": 80,
-      "difficultyTypeID": 4
-    },
-    {
-      "difficultyID": 205,
-      "eventID": 80,
-      "difficultyTypeID": 5,
-      "isLocked": 1,
-      "rentC2Cost": 10000
-    },
-    {
-      "difficultyID": 206,
-      "eventID": 80,
-      "difficultyTypeID": 6,
-      "isLocked": 1,
-      "rentC2Cost": 17500
-    },
-    {
-      "difficultyID": 207,
-      "eventID": 80,
-      "difficultyTypeID": 7,
-      "isLocked": 1,
-      "rentC2Cost": 25000
-    },
-    {
-      "difficultyID": 208,
-      "eventID": 80,
-      "difficultyTypeID": 8,
-      "isLocked": 1,
-      "rentC2Cost": 32500
-    },
-    {
-      "difficultyID": 209,
-      "eventID": 80,
-      "difficultyTypeID": 9,
-      "isLocked": 1,
-      "rentC2Cost": 40000
-    },
-    {
-      "difficultyID": 210,
-      "eventID": 80,
-      "difficultyTypeID": 10,
-      "isLocked": 1,
-      "rentC2Cost": 47500
-    },
-    {
-      "difficultyID": 211,
-      "eventID": 80,
-      "difficultyTypeID": 11,
-      "isLocked": 1,
-      "rentC2Cost": 55000
-    },
-    {
-      "difficultyID": 301,
-      "eventID": 72,
-      "difficultyTypeID": 1
-    },
-    {
-      "difficultyID": 302,
-      "eventID": 72,
-      "difficultyTypeID": 2
-    },
-    {
-      "difficultyID": 303,
-      "eventID": 72,
-      "difficultyTypeID": 3
-    },
-    {
-      "difficultyID": 304,
-      "eventID": 72,
-      "difficultyTypeID": 4
-    },
-    {
-      "difficultyID": 305,
-      "eventID": 72,
-      "difficultyTypeID": 5,
-      "isLocked": 1,
-      "rentC2Cost": 10000
-    },
-    {
-      "difficultyID": 306,
-      "eventID": 72,
-      "difficultyTypeID": 6,
-      "isLocked": 1,
-      "rentC2Cost": 17500
-    },
-    {
-      "difficultyID": 307,
-      "eventID": 72,
-      "difficultyTypeID": 7,
-      "isLocked": 1,
-      "rentC2Cost": 25000
-    },
-    {
-      "difficultyID": 308,
-      "eventID": 72,
-      "difficultyTypeID": 8,
-      "isLocked": 1,
-      "rentC2Cost": 32500
-    },
-    {
-      "difficultyID": 309,
-      "eventID": 72,
-      "difficultyTypeID": 9,
-      "isLocked": 1,
-      "rentC2Cost": 40000
-    },
-    {
-      "difficultyID": 310,
-      "eventID": 72,
-      "difficultyTypeID": 10,
-      "isLocked": 1,
-      "rentC2Cost": 47500
-    },
-    {
-      "difficultyID": 311,
-      "eventID": 72,
-      "difficultyTypeID": 11,
-      "isLocked": 1,
-      "rentC2Cost": 55000
-    }
-  ]
-}
+[
+  {
+    "difficultyID": 1,
+    "eventID": 71,
+    "difficultyTypeID": 1
+  },
+  {
+    "difficultyID": 2,
+    "eventID": 71,
+    "difficultyTypeID": 2
+  },
+  {
+    "difficultyID": 3,
+    "eventID": 71,
+    "difficultyTypeID": 3
+  },
+  {
+    "difficultyID": 4,
+    "eventID": 71,
+    "difficultyTypeID": 4
+  },
+  {
+    "difficultyID": 5,
+    "eventID": 71,
+    "difficultyTypeID": 5,
+    "isLocked": 1,
+    "rentC2Cost": 10000
+  },
+  {
+    "difficultyID": 6,
+    "eventID": 71,
+    "difficultyTypeID": 6,
+    "isLocked": 1,
+    "rentC2Cost": 17500
+  },
+  {
+    "difficultyID": 7,
+    "eventID": 71,
+    "difficultyTypeID": 7,
+    "isLocked": 1,
+    "rentC2Cost": 25000
+  },
+  {
+    "difficultyID": 8,
+    "eventID": 71,
+    "difficultyTypeID": 8,
+    "isLocked": 1,
+    "rentC2Cost": 32500
+  },
+  {
+    "difficultyID": 9,
+    "eventID": 71,
+    "difficultyTypeID": 9,
+    "isLocked": 1,
+    "rentC2Cost": 40000
+  },
+  {
+    "difficultyID": 10,
+    "eventID": 71,
+    "difficultyTypeID": 10,
+    "isLocked": 1,
+    "rentC2Cost": 47500
+  },
+  {
+    "difficultyID": 11,
+    "eventID": 71,
+    "difficultyTypeID": 11,
+    "isLocked": 1,
+    "rentC2Cost": 55000
+  },
+  {
+    "difficultyID": 101,
+    "eventID": 103,
+    "difficultyTypeID": 1
+  },
+  {
+    "difficultyID": 102,
+    "eventID": 103,
+    "difficultyTypeID": 2
+  },
+  {
+    "difficultyID": 103,
+    "eventID": 103,
+    "difficultyTypeID": 3
+  },
+  {
+    "difficultyID": 104,
+    "eventID": 103,
+    "difficultyTypeID": 4
+  },
+  {
+    "difficultyID": 105,
+    "eventID": 103,
+    "difficultyTypeID": 5,
+    "isLocked": 1,
+    "rentC2Cost": 10000
+  },
+  {
+    "difficultyID": 106,
+    "eventID": 103,
+    "difficultyTypeID": 6,
+    "isLocked": 1,
+    "rentC2Cost": 17500
+  },
+  {
+    "difficultyID": 107,
+    "eventID": 103,
+    "difficultyTypeID": 7,
+    "isLocked": 1,
+    "rentC2Cost": 25000
+  },
+  {
+    "difficultyID": 108,
+    "eventID": 103,
+    "difficultyTypeID": 8,
+    "isLocked": 1,
+    "rentC2Cost": 32500
+  },
+  {
+    "difficultyID": 109,
+    "eventID": 103,
+    "difficultyTypeID": 9,
+    "isLocked": 1,
+    "rentC2Cost": 40000
+  },
+  {
+    "difficultyID": 110,
+    "eventID": 103,
+    "difficultyTypeID": 10,
+    "isLocked": 1,
+    "rentC2Cost": 47500
+  },
+  {
+    "difficultyID": 111,
+    "eventID": 103,
+    "difficultyTypeID": 11,
+    "isLocked": 1,
+    "rentC2Cost": 55000
+  },
+  {
+    "difficultyID": 201,
+    "eventID": 80,
+    "difficultyTypeID": 1
+  },
+  {
+    "difficultyID": 202,
+    "eventID": 80,
+    "difficultyTypeID": 2
+  },
+  {
+    "difficultyID": 203,
+    "eventID": 80,
+    "difficultyTypeID": 3
+  },
+  {
+    "difficultyID": 204,
+    "eventID": 80,
+    "difficultyTypeID": 4
+  },
+  {
+    "difficultyID": 205,
+    "eventID": 80,
+    "difficultyTypeID": 5,
+    "isLocked": 1,
+    "rentC2Cost": 10000
+  },
+  {
+    "difficultyID": 206,
+    "eventID": 80,
+    "difficultyTypeID": 6,
+    "isLocked": 1,
+    "rentC2Cost": 17500
+  },
+  {
+    "difficultyID": 207,
+    "eventID": 80,
+    "difficultyTypeID": 7,
+    "isLocked": 1,
+    "rentC2Cost": 25000
+  },
+  {
+    "difficultyID": 208,
+    "eventID": 80,
+    "difficultyTypeID": 8,
+    "isLocked": 1,
+    "rentC2Cost": 32500
+  },
+  {
+    "difficultyID": 209,
+    "eventID": 80,
+    "difficultyTypeID": 9,
+    "isLocked": 1,
+    "rentC2Cost": 40000
+  },
+  {
+    "difficultyID": 210,
+    "eventID": 80,
+    "difficultyTypeID": 10,
+    "isLocked": 1,
+    "rentC2Cost": 47500
+  },
+  {
+    "difficultyID": 211,
+    "eventID": 80,
+    "difficultyTypeID": 11,
+    "isLocked": 1,
+    "rentC2Cost": 55000
+  },
+  {
+    "difficultyID": 301,
+    "eventID": 72,
+    "difficultyTypeID": 1
+  },
+  {
+    "difficultyID": 302,
+    "eventID": 72,
+    "difficultyTypeID": 2
+  },
+  {
+    "difficultyID": 303,
+    "eventID": 72,
+    "difficultyTypeID": 3
+  },
+  {
+    "difficultyID": 304,
+    "eventID": 72,
+    "difficultyTypeID": 4
+  },
+  {
+    "difficultyID": 305,
+    "eventID": 72,
+    "difficultyTypeID": 5,
+    "isLocked": 1,
+    "rentC2Cost": 10000
+  },
+  {
+    "difficultyID": 306,
+    "eventID": 72,
+    "difficultyTypeID": 6,
+    "isLocked": 1,
+    "rentC2Cost": 17500
+  },
+  {
+    "difficultyID": 307,
+    "eventID": 72,
+    "difficultyTypeID": 7,
+    "isLocked": 1,
+    "rentC2Cost": 25000
+  },
+  {
+    "difficultyID": 308,
+    "eventID": 72,
+    "difficultyTypeID": 8,
+    "isLocked": 1,
+    "rentC2Cost": 32500
+  },
+  {
+    "difficultyID": 309,
+    "eventID": 72,
+    "difficultyTypeID": 9,
+    "isLocked": 1,
+    "rentC2Cost": 40000
+  },
+  {
+    "difficultyID": 310,
+    "eventID": 72,
+    "difficultyTypeID": 10,
+    "isLocked": 1,
+    "rentC2Cost": 47500
+  },
+  {
+    "difficultyID": 311,
+    "eventID": 72,
+    "difficultyTypeID": 11,
+    "isLocked": 1,
+    "rentC2Cost": 55000
+  }
+]

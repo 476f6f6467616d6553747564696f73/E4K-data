@@ -1,118 +1,116 @@
-{
-  "movement": [
-    {
-      "wodID": 905101,
-      "group": "Mapmovement",
-      "name": "Armyattack",
-      "type": "-"
-    },
-    {
-      "wodID": 905102,
-      "group": "Mapmovement",
-      "name": "Supportdefence",
-      "type": "-"
-    },
-    {
-      "wodID": 905103,
-      "group": "Mapmovement",
-      "name": "Armytravel",
-      "type": "-"
-    },
-    {
-      "wodID": 905104,
-      "group": "Mapmovement",
-      "name": "Spy",
-      "type": "-"
-    },
-    {
-      "wodID": 905105,
-      "group": "Mapmovement",
-      "name": "Market",
-      "type": "-"
-    },
-    {
-      "wodID": 905106,
-      "group": "Mapmovement",
-      "name": "Siege",
-      "type": "-"
-    },
-    {
-      "wodID": 905107,
-      "group": "Mapmovement",
-      "name": "Shadow",
-      "type": "-"
-    },
-    {
-      "wodID": 905108,
-      "group": "Mapmovement",
-      "name": "Shadowtravel",
-      "type": "-"
-    },
-    {
-      "wodID": 905109,
-      "group": "Mapmovement",
-      "name": "Treasuremap",
-      "type": "-"
-    },
-    {
-      "wodID": 905110,
-      "group": "Mapmovement",
-      "name": "Alienattack",
-      "type": "-"
-    },
-    {
-      "wodID": 905111,
-      "group": "Mapmovement",
-      "name": "Invasionattack",
-      "type": "-"
-    },
-    {
-      "wodID": 905113,
-      "group": "Mapmovement",
-      "name": "Collectorattack",
-      "type": "-"
-    },
-    {
-      "wodID": 905114,
-      "group": "Mapmovement",
-      "name": "TempServerCollectorattack",
-      "type": "-"
-    },
-    {
-      "wodID": 905115,
-      "group": "Mapmovement",
-      "name": "TempServerRankSwapattack",
-      "type": "-"
-    },
-    {
-      "wodID": 905116,
-      "group": "Mapmovement",
-      "name": "DaimyoTownshipDefense",
-      "type": "-"
-    },
-    {
-      "wodID": 905117,
-      "group": "Mapmovement",
-      "name": "DaimyoTauntAttack",
-      "type": "-"
-    },
-    {
-      "wodID": 905118,
-      "group": "Mapmovement",
-      "name": "DaimyoCastleAttack",
-      "type": "-"
-    },
-    {
-      "wodID": 905119,
-      "group": "Mapmovement",
-      "name": "AllianceBattleGroundCollectorattack",
-      "type": "-"
-    },
-    {
-      "wodID": 905120,
-      "group": "Mapmovement",
-      "name": "WolfKingTaunt",
-      "type": "-"
-    }
-  ]
-}
+[
+  {
+    "wodID": 905101,
+    "group": "Mapmovement",
+    "name": "Armyattack",
+    "type": "-"
+  },
+  {
+    "wodID": 905102,
+    "group": "Mapmovement",
+    "name": "Supportdefence",
+    "type": "-"
+  },
+  {
+    "wodID": 905103,
+    "group": "Mapmovement",
+    "name": "Armytravel",
+    "type": "-"
+  },
+  {
+    "wodID": 905104,
+    "group": "Mapmovement",
+    "name": "Spy",
+    "type": "-"
+  },
+  {
+    "wodID": 905105,
+    "group": "Mapmovement",
+    "name": "Market",
+    "type": "-"
+  },
+  {
+    "wodID": 905106,
+    "group": "Mapmovement",
+    "name": "Siege",
+    "type": "-"
+  },
+  {
+    "wodID": 905107,
+    "group": "Mapmovement",
+    "name": "Shadow",
+    "type": "-"
+  },
+  {
+    "wodID": 905108,
+    "group": "Mapmovement",
+    "name": "Shadowtravel",
+    "type": "-"
+  },
+  {
+    "wodID": 905109,
+    "group": "Mapmovement",
+    "name": "Treasuremap",
+    "type": "-"
+  },
+  {
+    "wodID": 905110,
+    "group": "Mapmovement",
+    "name": "Alienattack",
+    "type": "-"
+  },
+  {
+    "wodID": 905111,
+    "group": "Mapmovement",
+    "name": "Invasionattack",
+    "type": "-"
+  },
+  {
+    "wodID": 905113,
+    "group": "Mapmovement",
+    "name": "Collectorattack",
+    "type": "-"
+  },
+  {
+    "wodID": 905114,
+    "group": "Mapmovement",
+    "name": "TempServerCollectorattack",
+    "type": "-"
+  },
+  {
+    "wodID": 905115,
+    "group": "Mapmovement",
+    "name": "TempServerRankSwapattack",
+    "type": "-"
+  },
+  {
+    "wodID": 905116,
+    "group": "Mapmovement",
+    "name": "DaimyoTownshipDefense",
+    "type": "-"
+  },
+  {
+    "wodID": 905117,
+    "group": "Mapmovement",
+    "name": "DaimyoTauntAttack",
+    "type": "-"
+  },
+  {
+    "wodID": 905118,
+    "group": "Mapmovement",
+    "name": "DaimyoCastleAttack",
+    "type": "-"
+  },
+  {
+    "wodID": 905119,
+    "group": "Mapmovement",
+    "name": "AllianceBattleGroundCollectorattack",
+    "type": "-"
+  },
+  {
+    "wodID": 905120,
+    "group": "Mapmovement",
+    "name": "WolfKingTaunt",
+    "type": "-"
+  }
+]

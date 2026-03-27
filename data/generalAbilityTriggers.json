@@ -1,24 +1,22 @@
-{
-  "generalAbilityTrigger": [
-    {
-      "abilityTriggerID": 1,
-      "crossplayID": 1,
-      "name": "preCombat"
-    },
-    {
-      "abilityTriggerID": 2,
-      "crossplayID": 2,
-      "name": "everyXWaves"
-    },
-    {
-      "abilityTriggerID": 3,
-      "crossplayID": 3,
-      "name": "yard"
-    },
-    {
-      "abilityTriggerID": 4,
-      "crossplayID": 4,
-      "name": "postCombat"
-    }
-  ]
-}
+[
+  {
+    "abilityTriggerID": 1,
+    "crossplayID": 1,
+    "name": "preCombat"
+  },
+  {
+    "abilityTriggerID": 2,
+    "crossplayID": 2,
+    "name": "everyXWaves"
+  },
+  {
+    "abilityTriggerID": 3,
+    "crossplayID": 3,
+    "name": "yard"
+  },
+  {
+    "abilityTriggerID": 4,
+    "crossplayID": 4,
+    "name": "postCombat"
+  }
+]

@@ -1,130 +1,128 @@
-{
-  "islandrewardrank": [
-    {
-      "islandRewardRankID": 0,
-      "cargoPointRequirement": 5000,
-      "rewardIDs": 126,
-      "islandRewardSetID": 0
-    },
-    {
-      "islandRewardRankID": 1,
-      "cargoPointRequirement": 15000,
-      "rewardIDs": 257,
-      "islandRewardSetID": 0
-    },
-    {
-      "islandRewardRankID": 2,
-      "cargoPointRequirement": 50000,
-      "rewardIDs": 258,
-      "islandRewardSetID": 0
-    },
-    {
-      "islandRewardRankID": 3,
-      "cargoPointRequirement": 90000,
-      "rewardIDs": "127,259",
-      "islandRewardSetID": 0
-    },
-    {
-      "islandRewardRankID": 4,
-      "cargoPointRequirement": 160000,
-      "rewardIDs": "308,309",
-      "islandRewardSetID": 0
-    },
-    {
-      "islandRewardRankID": 5,
-      "cargoPointRequirement": 200000,
-      "rewardIDs": "128,260",
-      "islandRewardSetID": 0
-    },
-    {
-      "islandRewardRankID": 6,
-      "topXValue": 5,
-      "rewardIDs": "129,261",
-      "islandRewardSetID": 0
-    },
-    {
-      "islandRewardRankID": 7,
-      "cargoPointRequirement": 5000,
-      "rewardIDs": 126,
-      "islandRewardSetID": 1
-    },
-    {
-      "islandRewardRankID": 8,
-      "cargoPointRequirement": 15000,
-      "rewardIDs": 257,
-      "islandRewardSetID": 1
-    },
-    {
-      "islandRewardRankID": 9,
-      "cargoPointRequirement": 50000,
-      "rewardIDs": 258,
-      "islandRewardSetID": 1
-    },
-    {
-      "islandRewardRankID": 10,
-      "cargoPointRequirement": 90000,
-      "rewardIDs": "127,259",
-      "islandRewardSetID": 1
-    },
-    {
-      "islandRewardRankID": 11,
-      "cargoPointRequirement": 160000,
-      "rewardIDs": "2826,309",
-      "islandRewardSetID": 1
-    },
-    {
-      "islandRewardRankID": 12,
-      "cargoPointRequirement": 200000,
-      "rewardIDs": "128,260",
-      "islandRewardSetID": 1
-    },
-    {
-      "islandRewardRankID": 13,
-      "topXValue": 5,
-      "rewardIDs": "129,261",
-      "islandRewardSetID": 1
-    },
-    {
-      "islandRewardRankID": 14,
-      "cargoPointRequirement": 5000,
-      "rewardIDs": "6805,6806",
-      "islandRewardSetID": 2
-    },
-    {
-      "islandRewardRankID": 15,
-      "cargoPointRequirement": 15000,
-      "rewardIDs": "6803,6804",
-      "islandRewardSetID": 2
-    },
-    {
-      "islandRewardRankID": 16,
-      "cargoPointRequirement": 50000,
-      "rewardIDs": "6801,6802",
-      "islandRewardSetID": 2
-    },
-    {
-      "islandRewardRankID": 17,
-      "cargoPointRequirement": 90000,
-      "rewardIDs": "6799,6800",
-      "islandRewardSetID": 2
-    },
-    {
-      "islandRewardRankID": 18,
-      "cargoPointRequirement": 160000,
-      "rewardIDs": "6797,6798",
-      "islandRewardSetID": 2
-    },
-    {
-      "islandRewardRankID": 19,
-      "cargoPointRequirement": 200000,
-      "rewardIDs": "6795,6796",
-      "islandRewardSetID": 2
-    },
-    {
-      "islandRewardRankID": 20,
-      "topXValue": 5,
-      "rewardIDs": "6793,6794",
-      "islandRewardSetID": 2
-    }
-  ]
-}
+[
+  {
+    "islandRewardRankID": 0,
+    "cargoPointRequirement": 5000,
+    "rewardIDs": 126,
+    "islandRewardSetID": 0
+  },
+  {
+    "islandRewardRankID": 1,
+    "cargoPointRequirement": 15000,
+    "rewardIDs": 257,
+    "islandRewardSetID": 0
+  },
+  {
+    "islandRewardRankID": 2,
+    "cargoPointRequirement": 50000,
+    "rewardIDs": 258,
+    "islandRewardSetID": 0
+  },
+  {
+    "islandRewardRankID": 3,
+    "cargoPointRequirement": 90000,
+    "rewardIDs": "127,259",
+    "islandRewardSetID": 0
+  },
+  {
+    "islandRewardRankID": 4,
+    "cargoPointRequirement": 160000,
+    "rewardIDs": "308,309",
+    "islandRewardSetID": 0
+  },
+  {
+    "islandRewardRankID": 5,
+    "cargoPointRequirement": 200000,
+    "rewardIDs": "128,260",
+    "islandRewardSetID": 0
+  },
+  {
+    "islandRewardRankID": 6,
+    "topXValue": 5,
+    "rewardIDs": "129,261",
+    "islandRewardSetID": 0
+  },
+  {
+    "islandRewardRankID": 7,
+    "cargoPointRequirement": 5000,
+    "rewardIDs": 126,
+    "islandRewardSetID": 1
+  },
+  {
+    "islandRewardRankID": 8,
+    "cargoPointRequirement": 15000,
+    "rewardIDs": 257,
+    "islandRewardSetID": 1
+  },
+  {
+    "islandRewardRankID": 9,
+    "cargoPointRequirement": 50000,
+    "rewardIDs": 258,
+    "islandRewardSetID": 1
+  },
+  {
+    "islandRewardRankID": 10,
+    "cargoPointRequirement": 90000,
+    "rewardIDs": "127,259",
+    "islandRewardSetID": 1
+  },
+  {
+    "islandRewardRankID": 11,
+    "cargoPointRequirement": 160000,
+    "rewardIDs": "2826,309",
+    "islandRewardSetID": 1
+  },
+  {
+    "islandRewardRankID": 12,
+    "cargoPointRequirement": 200000,
+    "rewardIDs": "128,260",
+    "islandRewardSetID": 1
+  },
+  {
+    "islandRewardRankID": 13,
+    "topXValue": 5,
+    "rewardIDs": "129,261",
+    "islandRewardSetID": 1
+  },
+  {
+    "islandRewardRankID": 14,
+    "cargoPointRequirement": 5000,
+    "rewardIDs": "6805,6806",
+    "islandRewardSetID": 2
+  },
+  {
+    "islandRewardRankID": 15,
+    "cargoPointRequirement": 15000,
+    "rewardIDs": "6803,6804",
+    "islandRewardSetID": 2
+  },
+  {
+    "islandRewardRankID": 16,
+    "cargoPointRequirement": 50000,
+    "rewardIDs": "6801,6802",
+    "islandRewardSetID": 2
+  },
+  {
+    "islandRewardRankID": 17,
+    "cargoPointRequirement": 90000,
+    "rewardIDs": "6799,6800",
+    "islandRewardSetID": 2
+  },
+  {
+    "islandRewardRankID": 18,
+    "cargoPointRequirement": 160000,
+    "rewardIDs": "6797,6798",
+    "islandRewardSetID": 2
+  },
+  {
+    "islandRewardRankID": 19,
+    "cargoPointRequirement": 200000,
+    "rewardIDs": "6795,6796",
+    "islandRewardSetID": 2
+  },
+  {
+    "islandRewardRankID": 20,
+    "topXValue": 5,
+    "rewardIDs": "6793,6794",
+    "islandRewardSetID": 2
+  }
+]

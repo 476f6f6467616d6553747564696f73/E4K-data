@@ -1,1057 +1,1091 @@
-{
-  "equipment_gem_effect": [
-    {
-      "effectID": 501,
-      "crossplayID": 501,
-      "name": "defenseBoostYard",
-      "effectTypeID": 32
-    },
-    {
-      "effectID": 502,
-      "crossplayID": 502,
-      "name": "hideoutCapacity",
-      "effectTypeID": 35
-    },
-    {
-      "effectID": 503,
-      "crossplayID": 503,
-      "name": "AttackUnitAmountFront",
-      "effectTypeID": 34
-    },
-    {
-      "effectID": 504,
-      "crossplayID": 504,
-      "name": "AttackBoostYard",
-      "effectTypeID": 33
-    },
-    {
-      "effectID": 505,
-      "crossplayID": 505,
-      "name": "LootCapacity",
-      "effectTypeID": 37
-    },
-    {
-      "effectID": 506,
-      "crossplayID": 506,
-      "name": "ReturnTravelBoost",
-      "effectTypeID": 38
-    },
-    {
-      "effectID": 507,
-      "crossplayID": 507,
-      "name": "DefenseSupportUnitsWeak",
-      "effectTypeID": 47
-    },
-    {
-      "effectID": 508,
-      "crossplayID": 508,
-      "name": "DefenseSupportUnitsStrong",
-      "effectTypeID": 47
-    },
-    {
-      "effectID": 509,
-      "crossplayID": 509,
-      "name": "DefenseBoostFront",
-      "effectTypeID": 49
-    },
-    {
-      "effectID": 510,
-      "crossplayID": 510,
-      "name": "DefenseBoostFlank",
-      "effectTypeID": 50
-    },
-    {
-      "effectID": 511,
-      "crossplayID": 511,
-      "name": "AttackSupportUnitsWeak",
-      "effectTypeID": 51
-    },
-    {
-      "effectID": 512,
-      "crossplayID": 512,
-      "name": "AttackSupportUnitsStrong",
-      "effectTypeID": 51
-    },
-    {
-      "effectID": 513,
-      "crossplayID": 513,
-      "name": "AttackBoostFront",
-      "effectTypeID": 53
-    },
-    {
-      "effectID": 514,
-      "crossplayID": 514,
-      "name": "AttackBoostFlank",
-      "effectTypeID": 54
-    },
-    {
-      "effectID": 1,
-      "crossplayID": 1,
-      "name": "fameDefenseBonus",
-      "effectTypeID": 0
-    },
-    {
-      "effectID": 2,
-      "crossplayID": 2,
-      "name": "conquerSpeedBonus",
-      "effectTypeID": 1
-    },
-    {
-      "effectID": 3,
-      "crossplayID": 3,
-      "name": "lootReduction",
-      "effectTypeID": 2
-    },
-    {
-      "effectID": 4,
-      "crossplayID": 4,
-      "name": "perceptionBonus",
-      "effectTypeID": 3
-    },
-    {
-      "effectID": 5,
-      "crossplayID": 5,
-      "name": "fireBrigadeBoost",
-      "effectTypeID": 4
-    },
-    {
-      "effectID": 6,
-      "crossplayID": 6,
-      "name": "occupationTimeReduction",
-      "effectTypeID": 5
-    },
-    {
-      "effectID": 7,
-      "crossplayID": 7,
-      "name": "wallBonus",
-      "effectTypeID": 6
-    },
-    {
-      "effectID": 8,
-      "crossplayID": 8,
-      "name": "gateBonus",
-      "effectTypeID": 7
-    },
-    {
-      "effectID": 9,
-      "crossplayID": 9,
-      "name": "moatBonus",
-      "effectTypeID": 8
-    },
-    {
-      "effectID": 10,
-      "crossplayID": 10,
-      "name": "meleeBonus",
-      "effectTypeID": 9
-    },
-    {
-      "effectID": 11,
-      "crossplayID": 11,
-      "name": "rangeBonus",
-      "effectTypeID": 10
-    },
-    {
-      "effectID": 12,
-      "crossplayID": 12,
-      "name": "npcDefenseBonus",
-      "effectTypeID": 11
-    },
-    {
-      "effectID": 13,
-      "crossplayID": 13,
-      "name": "defenseUnitAmountWall",
-      "effectTypeID": 12
-    },
-    {
-      "effectID": 51,
-      "crossplayID": 51,
-      "name": "fameOffenseBonus",
-      "effectTypeID": 13
-    },
-    {
-      "effectID": 52,
-      "crossplayID": 52,
-      "name": "honorBonus",
-      "effectTypeID": 14
-    },
-    {
-      "effectID": 53,
-      "crossplayID": 53,
-      "name": "speedBonus",
-      "effectTypeID": 15
-    },
-    {
-      "effectID": 54,
-      "crossplayID": 54,
-      "name": "lootBonus",
-      "effectTypeID": 16
-    },
-    {
-      "effectID": 55,
-      "crossplayID": 55,
-      "name": "stealthBonus",
-      "effectTypeID": 17
-    },
-    {
-      "effectID": 56,
-      "crossplayID": 56,
-      "name": "fireBoost",
-      "effectTypeID": 18
-    },
-    {
-      "effectID": 57,
-      "crossplayID": 57,
-      "name": "wallReduction",
-      "effectTypeID": 19
-    },
-    {
-      "effectID": 58,
-      "crossplayID": 58,
-      "name": "gateReduction",
-      "effectTypeID": 20
-    },
-    {
-      "effectID": 59,
-      "crossplayID": 59,
-      "name": "moatReduction",
-      "effectTypeID": 21
-    },
-    {
-      "effectID": 60,
-      "crossplayID": 60,
-      "name": "magicFindBonus",
-      "effectTypeID": 22
-    },
-    {
-      "effectID": 61,
-      "crossplayID": 61,
-      "name": "offensiveMeleeBonus",
-      "effectTypeID": 23
-    },
-    {
-      "effectID": 62,
-      "crossplayID": 62,
-      "name": "offensiveRangeBonus",
-      "effectTypeID": 24
-    },
-    {
-      "effectID": 63,
-      "crossplayID": 63,
-      "name": "smashChance",
-      "effectTypeID": 25
-    },
-    {
-      "effectID": 64,
-      "crossplayID": 64,
-      "name": "travelCostReduction",
-      "effectTypeID": 26
-    },
-    {
-      "effectID": 65,
-      "crossplayID": 65,
-      "name": "cooldownReduction",
-      "effectTypeID": 27
-    },
-    {
-      "effectID": 66,
-      "crossplayID": 66,
-      "name": "attackUnitAmountFlank",
-      "effectTypeID": 28
-    },
-    {
-      "effectID": 101,
-      "crossplayID": 101,
-      "name": "skin",
-      "effectTypeID": 29
-    },
-    {
-      "effectID": 102,
-      "crossplayID": 102,
-      "name": "skinBaron",
-      "effectTypeID": 30
-    },
-    {
-      "effectID": 201,
-      "crossplayID": 201,
-      "name": "defenseBonusMainCastle",
-      "effectTypeID": 31,
-      "areaTypeID": "1,10,12,15,21,23,24,26,28"
-    },
-    {
-      "effectID": 202,
-      "crossplayID": 202,
-      "name": "defenseBonusNotMainCastle",
-      "effectTypeID": 31,
-      "areaTypeID": "3,4,22"
-    },
-    {
-      "effectID": 203,
-      "crossplayID": 203,
-      "name": "wallBonusBaron",
-      "effectTypeID": 6,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 204,
-      "crossplayID": 204,
-      "name": "gateBonusBaron",
-      "effectTypeID": 7,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 205,
-      "crossplayID": 205,
-      "name": "moatBonusBaron",
-      "effectTypeID": 8,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 206,
-      "crossplayID": 206,
-      "name": "defenseUnitAmountWallMainCastle",
-      "effectTypeID": 12,
-      "areaTypeID": "1,10,12,15,21,23,24,26,28"
-    },
-    {
-      "effectID": 207,
-      "crossplayID": 207,
-      "name": "defenseUnitAmountWallNotMainCastle",
-      "effectTypeID": 12,
-      "areaTypeID": "3,4,22"
-    },
-    {
-      "effectID": 267,
-      "crossplayID": 267,
-      "name": "defenseUnitAmountWallPVP",
-      "effectTypeID": 46
-    },
-    {
-      "effectID": 208,
-      "crossplayID": 208,
-      "name": "defenseBoostYardBaron",
-      "effectTypeID": 32,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 209,
-      "crossplayID": 209,
-      "name": "occupationTimeReductionBaron",
-      "effectTypeID": 5,
-      "areaTypeID": "4,15"
-    },
-    {
-      "effectID": 210,
-      "crossplayID": 210,
-      "name": "offensiveMeleeBonusConquerBaron",
-      "effectTypeID": 23,
-      "areaTypeID": "4,15"
-    },
-    {
-      "effectID": 211,
-      "crossplayID": 211,
-      "name": "offensiveRangeBonusConquerBaron",
-      "effectTypeID": 24,
-      "areaTypeID": "4,15"
-    },
-    {
-      "effectID": 212,
-      "crossplayID": 212,
-      "name": "speedBonusConquerBaron",
-      "effectTypeID": 15,
-      "areaTypeID": "4,15"
-    },
-    {
-      "effectID": 213,
-      "crossplayID": 213,
-      "name": "stealthBonusConquerBaron",
-      "effectTypeID": 17,
-      "areaTypeID": "4,15"
-    },
-    {
-      "effectID": 214,
-      "crossplayID": 214,
-      "name": "attackBoostYardConquerBaron",
-      "effectTypeID": 33,
-      "areaTypeID": "4,15"
-    },
-    {
-      "effectID": 215,
-      "crossplayID": 215,
-      "name": "wallReductionConquerBaron",
-      "effectTypeID": 19,
-      "areaTypeID": "4,15"
-    },
-    {
-      "effectID": 216,
-      "crossplayID": 216,
-      "name": "attackUnitAmountFrontConquerBaron",
-      "effectTypeID": 34,
-      "areaTypeID": "4,15"
-    },
-    {
-      "effectID": 217,
-      "crossplayID": 217,
-      "name": "attackUnitAmountFlankConquerBaron",
-      "effectTypeID": 28,
-      "areaTypeID": "4,15"
-    },
-    {
-      "effectID": 218,
-      "crossplayID": 218,
-      "name": "fameDefenseBonusBaron",
-      "effectTypeID": 0,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 219,
-      "crossplayID": 219,
-      "name": "fireBrigadeBoostBaron",
-      "effectTypeID": 4,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 220,
-      "crossplayID": 220,
-      "name": "hideoutCapacityBaron",
-      "effectTypeID": 35,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 221,
-      "crossplayID": 221,
-      "name": "lootReductionBaron",
-      "effectTypeID": 2,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 222,
-      "crossplayID": 222,
-      "name": "perceptionBonusBaron",
-      "effectTypeID": 3,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 223,
-      "crossplayID": 223,
-      "name": "offensiveMeleeBonusConquerGeneral",
-      "effectTypeID": 23,
-      "areaTypeID": "10,16,23,24,26,28"
-    },
-    {
-      "effectID": 224,
-      "crossplayID": 224,
-      "name": "offensiveRangeBonusConquerGeneral",
-      "effectTypeID": 24,
-      "areaTypeID": "10,16,23,24,26,28"
-    },
-    {
-      "effectID": 225,
-      "crossplayID": 225,
-      "name": "speedBonusConquerGeneral",
-      "effectTypeID": 15,
-      "areaTypeID": "10,16,23,24,26,28"
-    },
-    {
-      "effectID": 226,
-      "crossplayID": 226,
-      "name": "stealthBonusConquerGeneral",
-      "effectTypeID": 17,
-      "areaTypeID": "10,16,23,24,26,28"
-    },
-    {
-      "effectID": 227,
-      "crossplayID": 227,
-      "name": "attackBoostYardConquerGeneral",
-      "effectTypeID": 33,
-      "areaTypeID": "10,16,23,24,26,28"
-    },
-    {
-      "effectID": 228,
-      "crossplayID": 228,
-      "name": "wallReductionConquerGeneral",
-      "effectTypeID": 19,
-      "areaTypeID": "10,16,23,24,26,28"
-    },
-    {
-      "effectID": 229,
-      "crossplayID": 229,
-      "name": "attackUnitAmountFrontConquerGeneral",
-      "effectTypeID": 34,
-      "areaTypeID": "10,16,23,24,26,28"
-    },
-    {
-      "effectID": 230,
-      "crossplayID": 230,
-      "name": "attackUnitAmountFlankConquerGeneral",
-      "effectTypeID": 28,
-      "areaTypeID": "10,16,23,24,26,28"
-    },
-    {
-      "effectID": 231,
-      "crossplayID": 231,
-      "name": "attackBonusMainCastle",
-      "effectTypeID": 36,
-      "areaTypeID": "1,12,21"
-    },
-    {
-      "effectID": 232,
-      "crossplayID": 232,
-      "name": "attackBonusNotMainCastle",
-      "effectTypeID": 36,
-      "areaTypeID": "3,4,22"
-    },
-    {
-      "effectID": 233,
-      "crossplayID": 233,
-      "name": "stealthBonusGeneral",
-      "effectTypeID": 17,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 234,
-      "crossplayID": 234,
-      "name": "attackBoostYardPVP",
-      "effectTypeID": 33,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 235,
-      "crossplayID": 235,
-      "name": "wallReductionPVP",
-      "effectTypeID": 19,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 236,
-      "crossplayID": 236,
-      "name": "gateReductionPVP",
-      "effectTypeID": 20,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 237,
-      "crossplayID": 237,
-      "name": "moatReductionPVP",
-      "effectTypeID": 21,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 238,
-      "crossplayID": 238,
-      "name": "attackUnitAmountFrontPVP",
-      "effectTypeID": 34,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 239,
-      "crossplayID": 239,
-      "name": "attackUnitAmountFlankPVP",
-      "effectTypeID": 28,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 240,
-      "crossplayID": 240,
-      "name": "offensiveMeleeBonusPVE",
-      "effectTypeID": 23,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 241,
-      "crossplayID": 241,
-      "name": "offensiveRangeBonusPVE",
-      "effectTypeID": 24,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 242,
-      "crossplayID": 242,
-      "name": "speedBonusPVE",
-      "effectTypeID": 15,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 243,
-      "crossplayID": 243,
-      "name": "attackBoostYardPVE",
-      "effectTypeID": 33,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 244,
-      "crossplayID": 244,
-      "name": "wallReductionPVE",
-      "effectTypeID": 19,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 245,
-      "crossplayID": 245,
-      "name": "gateReductionPVE",
-      "effectTypeID": 20,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 246,
-      "crossplayID": 246,
-      "name": "attackUnitAmountFrontPVE",
-      "effectTypeID": 34,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 247,
-      "crossplayID": 247,
-      "name": "attackUnitAmountFlankPVE",
-      "effectTypeID": 28,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 248,
-      "crossplayID": 248,
-      "name": "fameOffenseBonusGeneral",
-      "effectTypeID": 13,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 249,
-      "crossplayID": 249,
-      "name": "honorBonusGeneral",
-      "effectTypeID": 14,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 250,
-      "crossplayID": 250,
-      "name": "lootCapacityPVP",
-      "effectTypeID": 37,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 251,
-      "crossplayID": 251,
-      "name": "returnTravelBoostPVP",
-      "effectTypeID": 45,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 252,
-      "crossplayID": 252,
-      "name": "speedBonusPVP",
-      "effectTypeID": 44,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 253,
-      "crossplayID": 253,
-      "name": "travelCostReductionPVP",
-      "effectTypeID": 43,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 254,
-      "crossplayID": 254,
-      "name": "smashChanceGeneral",
-      "effectTypeID": 25,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 255,
-      "crossplayID": 255,
-      "name": "fireBoostGeneral",
-      "effectTypeID": 18,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 256,
-      "crossplayID": 256,
-      "name": "cooldownReductionPVP",
-      "effectTypeID": 27,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 257,
-      "crossplayID": 257,
-      "name": "cooldownReductionPVE",
-      "effectTypeID": 27,
-      "areaTypeID": "2,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 258,
-      "crossplayID": 258,
-      "name": "magicFindBonusGeneral",
-      "effectTypeID": 22,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 259,
-      "crossplayID": 259,
-      "name": "lootBonusPVE",
-      "effectTypeID": 16,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 260,
-      "crossplayID": 260,
-      "name": "lootCapacityPVE",
-      "effectTypeID": 37,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 261,
-      "crossplayID": 261,
-      "name": "returnTravelBoostPVE",
-      "effectTypeID": 38,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 262,
-      "crossplayID": 262,
-      "name": "travelCostReductionPVE",
-      "effectTypeID": 26,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 263,
-      "crossplayID": 263,
-      "name": "supportSpeedBonus",
-      "effectTypeID": 39,
-      "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28"
-    },
-    {
-      "effectID": 264,
-      "crossplayID": 264,
-      "name": "stationingSpeedBonus",
-      "effectTypeID": 40,
-      "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28"
-    },
-    {
-      "effectID": 265,
-      "crossplayID": 265,
-      "name": "supportTravelCostReduction",
-      "effectTypeID": 42,
-      "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28"
-    },
-    {
-      "effectID": 266,
-      "crossplayID": 266,
-      "name": "stationingTravelCostReduction",
-      "effectTypeID": 41,
-      "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28"
-    },
-    {
-      "effectID": 301,
-      "crossplayID": 301,
-      "name": "fameDefenseMalusBaron",
-      "effectTypeID": 0,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 302,
-      "crossplayID": 302,
-      "name": "gateMalusBaron",
-      "effectTypeID": 7,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 303,
-      "crossplayID": 303,
-      "name": "wallMalusBaron",
-      "effectTypeID": 6,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 304,
-      "crossplayID": 304,
-      "name": "lootIncreaseBaron",
-      "effectTypeID": 2,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 305,
-      "crossplayID": 305,
-      "name": "wallIncreasePVE",
-      "effectTypeID": 19,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 306,
-      "crossplayID": 306,
-      "name": "wallIncreasePVP",
-      "effectTypeID": 19,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 307,
-      "crossplayID": 307,
-      "name": "stealthMalusGeneral",
-      "effectTypeID": 17,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 308,
-      "crossplayID": 308,
-      "name": "gateIncreasePVE",
-      "effectTypeID": 20,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 309,
-      "crossplayID": 309,
-      "name": "gateIncreasePVP",
-      "effectTypeID": 20,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 310,
-      "crossplayID": 310,
-      "name": "perceptionMalusBaron",
-      "effectTypeID": 3,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 311,
-      "crossplayID": 311,
-      "name": "moatMalusBaron",
-      "effectTypeID": 8,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 312,
-      "crossplayID": 312,
-      "name": "attackMalusConquerBaron",
-      "effectTypeID": 36,
-      "areaTypeID": "4,15"
-    },
-    {
-      "effectID": 313,
-      "crossplayID": 313,
-      "name": "attackMalusPVE",
-      "effectTypeID": 36,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 314,
-      "crossplayID": 314,
-      "name": "attackMalusPVP",
-      "effectTypeID": 36,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 315,
-      "crossplayID": 315,
-      "name": "fireBrigadeMalusBaron",
-      "effectTypeID": 4,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 316,
-      "crossplayID": 316,
-      "name": "defenseMalusBaron",
-      "effectTypeID": 31,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 317,
-      "crossplayID": 317,
-      "name": "speedMalusGeneral",
-      "effectTypeID": 15,
-      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,30,33"
-    },
-    {
-      "effectID": 318,
-      "crossplayID": 318,
-      "name": "attackUnitAmountFrontMalusPVE",
-      "effectTypeID": 34,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 319,
-      "crossplayID": 319,
-      "name": "attackUnitAmountFlankMalusPVE",
-      "effectTypeID": 28,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 320,
-      "crossplayID": 320,
-      "name": "attackUnitAmountFrontMalusPVP",
-      "effectTypeID": 34,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 321,
-      "crossplayID": 321,
-      "name": "attackUnitAmountFlankMalusPVP",
-      "effectTypeID": 28,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 322,
-      "crossplayID": 322,
-      "name": "defenseUnitAmountwallMalusBaron",
-      "effectTypeID": 12,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 323,
-      "crossplayID": 323,
-      "name": "fameMalusGeneral",
-      "effectTypeID": 13,
-      "areaTypeID": "1,3,4,12,15,21,22"
-    },
-    {
-      "effectID": 324,
-      "crossplayID": 324,
-      "name": "lootDecreaseGeneral",
-      "effectTypeID": 16,
-      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,30,33"
-    },
-    {
-      "effectID": 325,
-      "crossplayID": 325,
-      "name": "occupationTimeIncreaseBaron",
-      "effectTypeID": 5,
-      "areaTypeID": "4,15"
-    },
-    {
-      "effectID": 327,
-      "crossplayID": 327,
-      "name": "returnTravelMalusGeneral",
-      "effectTypeID": 38,
-      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,30,33"
-    },
-    {
-      "effectID": 328,
-      "crossplayID": 328,
-      "name": "offensiveMeleeMalusPVP",
-      "effectTypeID": 23,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 329,
-      "crossplayID": 329,
-      "name": "offensiveMeleeMalusPVE",
-      "effectTypeID": 23,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 330,
-      "crossplayID": 330,
-      "name": "travelCostIncreaseGeneral",
-      "effectTypeID": 26,
-      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,30,33"
-    },
-    {
-      "effectID": 331,
-      "crossplayID": 331,
-      "name": "offensiveRangeMalusPVP",
-      "effectTypeID": 24,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 332,
-      "crossplayID": 332,
-      "name": "moatIncreasePVP",
-      "effectTypeID": 21,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
-    },
-    {
-      "effectID": 333,
-      "crossplayID": 333,
-      "name": "offensiveRangeMalusPVE",
-      "effectTypeID": 24,
-      "areaTypeID": "2,11,13,17,18,25,27,30,33"
-    },
-    {
-      "effectID": 268,
-      "crossplayID": 268,
-      "name": "infectionRateWallBonus",
-      "effectTypeID": 205,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 269,
-      "crossplayID": 269,
-      "name": "infectionRateMeleeMalus",
-      "effectTypeID": 203,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 270,
-      "crossplayID": 270,
-      "name": "infectionRateRangeMalus",
-      "effectTypeID": 204,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 271,
-      "crossplayID": 271,
-      "name": "infectionRateCourtyardMalus",
-      "effectTypeID": 206,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 272,
-      "crossplayID": 272,
-      "name": "equipmentAREOffensiveFrontStr",
-      "effectTypeID": 53,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 273,
-      "crossplayID": 273,
-      "name": "equipmentAREOffensiveFlankStrBonus",
-      "effectTypeID": 54,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 274,
-      "crossplayID": 274,
-      "name": "equipmentAREOffensiveRangedBonus",
-      "effectTypeID": 10,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 275,
-      "crossplayID": 275,
-      "name": "equipmentAREOffensiveMeleeBonus",
-      "effectTypeID": 9,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 276,
-      "crossplayID": 276,
-      "name": "equipmentAREOffensiveYardStrBonus",
-      "effectTypeID": 33,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 277,
-      "crossplayID": 277,
-      "name": "raidBossWallRegenerationDelayLeftFungalSwarm",
-      "effectTypeID": 209,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 278,
-      "crossplayID": 278,
-      "name": "raidBossWallRegenerationDelayFrontFungalSwarm",
-      "effectTypeID": 210,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 279,
-      "crossplayID": 279,
-      "name": "raidBossWallRegenerationDelayRightFungalSwarm",
-      "effectTypeID": 211,
-      "areaTypeID": 43
-    },
-    {
-      "effectID": 280,
-      "crossplayID": 280,
-      "name": "raidBossWallRegenerationDelayAllFungalSwarm",
-      "effectTypeID": 212,
-      "areaTypeID": 43
-    }
-  ]
-}
+[
+  {
+    "effectID": 501,
+    "crossplayID": 501,
+    "name": "defenseBoostYard",
+    "effectTypeID": 32
+  },
+  {
+    "effectID": 502,
+    "crossplayID": 502,
+    "name": "hideoutCapacity",
+    "effectTypeID": 35
+  },
+  {
+    "effectID": 503,
+    "crossplayID": 503,
+    "name": "AttackUnitAmountFront",
+    "effectTypeID": 34
+  },
+  {
+    "effectID": 504,
+    "crossplayID": 504,
+    "name": "AttackBoostYard",
+    "effectTypeID": 33
+  },
+  {
+    "effectID": 505,
+    "crossplayID": 505,
+    "name": "LootCapacity",
+    "effectTypeID": 37
+  },
+  {
+    "effectID": 506,
+    "crossplayID": 506,
+    "name": "ReturnTravelBoost",
+    "effectTypeID": 38
+  },
+  {
+    "effectID": 507,
+    "crossplayID": 507,
+    "name": "DefenseSupportUnitsWeak",
+    "effectTypeID": 47
+  },
+  {
+    "effectID": 508,
+    "crossplayID": 508,
+    "name": "DefenseSupportUnitsStrong",
+    "effectTypeID": 47
+  },
+  {
+    "effectID": 509,
+    "crossplayID": 509,
+    "name": "DefenseBoostFront",
+    "effectTypeID": 49
+  },
+  {
+    "effectID": 510,
+    "crossplayID": 510,
+    "name": "DefenseBoostFlank",
+    "effectTypeID": 50
+  },
+  {
+    "effectID": 511,
+    "crossplayID": 511,
+    "name": "AttackSupportUnitsWeak",
+    "effectTypeID": 51
+  },
+  {
+    "effectID": 512,
+    "crossplayID": 512,
+    "name": "AttackSupportUnitsStrong",
+    "effectTypeID": 51
+  },
+  {
+    "effectID": 513,
+    "crossplayID": 513,
+    "name": "AttackBoostFront",
+    "effectTypeID": 53
+  },
+  {
+    "effectID": 514,
+    "crossplayID": 514,
+    "name": "AttackBoostFlank",
+    "effectTypeID": 54
+  },
+  {
+    "effectID": 1,
+    "crossplayID": 1,
+    "name": "fameDefenseBonus",
+    "effectTypeID": 0
+  },
+  {
+    "effectID": 2,
+    "crossplayID": 2,
+    "name": "conquerSpeedBonus",
+    "effectTypeID": 1
+  },
+  {
+    "effectID": 3,
+    "crossplayID": 3,
+    "name": "lootReduction",
+    "effectTypeID": 2
+  },
+  {
+    "effectID": 4,
+    "crossplayID": 4,
+    "name": "perceptionBonus",
+    "effectTypeID": 3
+  },
+  {
+    "effectID": 5,
+    "crossplayID": 5,
+    "name": "fireBrigadeBoost",
+    "effectTypeID": 4
+  },
+  {
+    "effectID": 6,
+    "crossplayID": 6,
+    "name": "occupationTimeReduction",
+    "effectTypeID": 5
+  },
+  {
+    "effectID": 7,
+    "crossplayID": 7,
+    "name": "wallBonus",
+    "effectTypeID": 6
+  },
+  {
+    "effectID": 8,
+    "crossplayID": 8,
+    "name": "gateBonus",
+    "effectTypeID": 7
+  },
+  {
+    "effectID": 9,
+    "crossplayID": 9,
+    "name": "moatBonus",
+    "effectTypeID": 8
+  },
+  {
+    "effectID": 10,
+    "crossplayID": 10,
+    "name": "meleeBonus",
+    "effectTypeID": 9
+  },
+  {
+    "effectID": 11,
+    "crossplayID": 11,
+    "name": "rangeBonus",
+    "effectTypeID": 10
+  },
+  {
+    "effectID": 12,
+    "crossplayID": 12,
+    "name": "npcDefenseBonus",
+    "effectTypeID": 11
+  },
+  {
+    "effectID": 13,
+    "crossplayID": 13,
+    "name": "defenseUnitAmountWall",
+    "effectTypeID": 12
+  },
+  {
+    "effectID": 51,
+    "crossplayID": 51,
+    "name": "fameOffenseBonus",
+    "effectTypeID": 13
+  },
+  {
+    "effectID": 52,
+    "crossplayID": 52,
+    "name": "honorBonus",
+    "effectTypeID": 14
+  },
+  {
+    "effectID": 53,
+    "crossplayID": 53,
+    "name": "speedBonus",
+    "effectTypeID": 15
+  },
+  {
+    "effectID": 54,
+    "crossplayID": 54,
+    "name": "lootBonus",
+    "effectTypeID": 16
+  },
+  {
+    "effectID": 55,
+    "crossplayID": 55,
+    "name": "stealthBonus",
+    "effectTypeID": 17
+  },
+  {
+    "effectID": 56,
+    "crossplayID": 56,
+    "name": "fireBoost",
+    "effectTypeID": 18
+  },
+  {
+    "effectID": 57,
+    "crossplayID": 57,
+    "name": "wallReduction",
+    "effectTypeID": 19
+  },
+  {
+    "effectID": 58,
+    "crossplayID": 58,
+    "name": "gateReduction",
+    "effectTypeID": 20
+  },
+  {
+    "effectID": 59,
+    "crossplayID": 59,
+    "name": "moatReduction",
+    "effectTypeID": 21
+  },
+  {
+    "effectID": 60,
+    "crossplayID": 60,
+    "name": "magicFindBonus",
+    "effectTypeID": 22
+  },
+  {
+    "effectID": 61,
+    "crossplayID": 61,
+    "name": "offensiveMeleeBonus",
+    "effectTypeID": 23
+  },
+  {
+    "effectID": 62,
+    "crossplayID": 62,
+    "name": "offensiveRangeBonus",
+    "effectTypeID": 24
+  },
+  {
+    "effectID": 63,
+    "crossplayID": 63,
+    "name": "smashChance",
+    "effectTypeID": 25
+  },
+  {
+    "effectID": 64,
+    "crossplayID": 64,
+    "name": "travelCostReduction",
+    "effectTypeID": 26
+  },
+  {
+    "effectID": 65,
+    "crossplayID": 65,
+    "name": "cooldownReduction",
+    "effectTypeID": 27
+  },
+  {
+    "effectID": 66,
+    "crossplayID": 66,
+    "name": "attackUnitAmountFlank",
+    "effectTypeID": 28
+  },
+  {
+    "effectID": 101,
+    "crossplayID": 101,
+    "name": "skin",
+    "effectTypeID": 29
+  },
+  {
+    "effectID": 102,
+    "crossplayID": 102,
+    "name": "skinBaron",
+    "effectTypeID": 30
+  },
+  {
+    "effectID": 201,
+    "crossplayID": 201,
+    "name": "defenseBonusMainCastle",
+    "effectTypeID": 31,
+    "areaTypeID": "1,10,12,15,21,23,24,26,28"
+  },
+  {
+    "effectID": 202,
+    "crossplayID": 202,
+    "name": "defenseBonusNotMainCastle",
+    "effectTypeID": 31,
+    "areaTypeID": "3,4,22"
+  },
+  {
+    "effectID": 203,
+    "crossplayID": 203,
+    "name": "wallBonusBaron",
+    "effectTypeID": 6,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 204,
+    "crossplayID": 204,
+    "name": "gateBonusBaron",
+    "effectTypeID": 7,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 205,
+    "crossplayID": 205,
+    "name": "moatBonusBaron",
+    "effectTypeID": 8,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 206,
+    "crossplayID": 206,
+    "name": "defenseUnitAmountWallMainCastle",
+    "effectTypeID": 12,
+    "areaTypeID": "1,10,12,15,21,23,24,26,28"
+  },
+  {
+    "effectID": 207,
+    "crossplayID": 207,
+    "name": "defenseUnitAmountWallNotMainCastle",
+    "effectTypeID": 12,
+    "areaTypeID": "3,4,22"
+  },
+  {
+    "effectID": 267,
+    "crossplayID": 267,
+    "name": "defenseUnitAmountWallPVP",
+    "effectTypeID": 46
+  },
+  {
+    "effectID": 208,
+    "crossplayID": 208,
+    "name": "defenseBoostYardBaron",
+    "effectTypeID": 32,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 209,
+    "crossplayID": 209,
+    "name": "occupationTimeReductionBaron",
+    "effectTypeID": 5,
+    "areaTypeID": "4,15"
+  },
+  {
+    "effectID": 210,
+    "crossplayID": 210,
+    "name": "offensiveMeleeBonusConquerBaron",
+    "effectTypeID": 23,
+    "areaTypeID": "4,15"
+  },
+  {
+    "effectID": 211,
+    "crossplayID": 211,
+    "name": "offensiveRangeBonusConquerBaron",
+    "effectTypeID": 24,
+    "areaTypeID": "4,15"
+  },
+  {
+    "effectID": 212,
+    "crossplayID": 212,
+    "name": "speedBonusConquerBaron",
+    "effectTypeID": 15,
+    "areaTypeID": "4,15"
+  },
+  {
+    "effectID": 213,
+    "crossplayID": 213,
+    "name": "stealthBonusConquerBaron",
+    "effectTypeID": 17,
+    "areaTypeID": "4,15"
+  },
+  {
+    "effectID": 214,
+    "crossplayID": 214,
+    "name": "attackBoostYardConquerBaron",
+    "effectTypeID": 33,
+    "areaTypeID": "4,15"
+  },
+  {
+    "effectID": 215,
+    "crossplayID": 215,
+    "name": "wallReductionConquerBaron",
+    "effectTypeID": 19,
+    "areaTypeID": "4,15"
+  },
+  {
+    "effectID": 216,
+    "crossplayID": 216,
+    "name": "attackUnitAmountFrontConquerBaron",
+    "effectTypeID": 34,
+    "areaTypeID": "4,15"
+  },
+  {
+    "effectID": 217,
+    "crossplayID": 217,
+    "name": "attackUnitAmountFlankConquerBaron",
+    "effectTypeID": 28,
+    "areaTypeID": "4,15"
+  },
+  {
+    "effectID": 218,
+    "crossplayID": 218,
+    "name": "fameDefenseBonusBaron",
+    "effectTypeID": 0,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 219,
+    "crossplayID": 219,
+    "name": "fireBrigadeBoostBaron",
+    "effectTypeID": 4,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 220,
+    "crossplayID": 220,
+    "name": "hideoutCapacityBaron",
+    "effectTypeID": 35,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 221,
+    "crossplayID": 221,
+    "name": "lootReductionBaron",
+    "effectTypeID": 2,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 222,
+    "crossplayID": 222,
+    "name": "perceptionBonusBaron",
+    "effectTypeID": 3,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 223,
+    "crossplayID": 223,
+    "name": "offensiveMeleeBonusConquerGeneral",
+    "effectTypeID": 23,
+    "areaTypeID": "10,16,23,24,26,28"
+  },
+  {
+    "effectID": 224,
+    "crossplayID": 224,
+    "name": "offensiveRangeBonusConquerGeneral",
+    "effectTypeID": 24,
+    "areaTypeID": "10,16,23,24,26,28"
+  },
+  {
+    "effectID": 225,
+    "crossplayID": 225,
+    "name": "speedBonusConquerGeneral",
+    "effectTypeID": 15,
+    "areaTypeID": "10,16,23,24,26,28"
+  },
+  {
+    "effectID": 226,
+    "crossplayID": 226,
+    "name": "stealthBonusConquerGeneral",
+    "effectTypeID": 17,
+    "areaTypeID": "10,16,23,24,26,28"
+  },
+  {
+    "effectID": 227,
+    "crossplayID": 227,
+    "name": "attackBoostYardConquerGeneral",
+    "effectTypeID": 33,
+    "areaTypeID": "10,16,23,24,26,28"
+  },
+  {
+    "effectID": 228,
+    "crossplayID": 228,
+    "name": "wallReductionConquerGeneral",
+    "effectTypeID": 19,
+    "areaTypeID": "10,16,23,24,26,28"
+  },
+  {
+    "effectID": 229,
+    "crossplayID": 229,
+    "name": "attackUnitAmountFrontConquerGeneral",
+    "effectTypeID": 34,
+    "areaTypeID": "10,16,23,24,26,28"
+  },
+  {
+    "effectID": 230,
+    "crossplayID": 230,
+    "name": "attackUnitAmountFlankConquerGeneral",
+    "effectTypeID": 28,
+    "areaTypeID": "10,16,23,24,26,28"
+  },
+  {
+    "effectID": 231,
+    "crossplayID": 231,
+    "name": "attackBonusMainCastle",
+    "effectTypeID": 36,
+    "areaTypeID": "1,12,21"
+  },
+  {
+    "effectID": 232,
+    "crossplayID": 232,
+    "name": "attackBonusNotMainCastle",
+    "effectTypeID": 36,
+    "areaTypeID": "3,4,22"
+  },
+  {
+    "effectID": 233,
+    "crossplayID": 233,
+    "name": "stealthBonusGeneral",
+    "effectTypeID": 17,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 234,
+    "crossplayID": 234,
+    "name": "attackBoostYardPVP",
+    "effectTypeID": 33,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 235,
+    "crossplayID": 235,
+    "name": "wallReductionPVP",
+    "effectTypeID": 19,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 236,
+    "crossplayID": 236,
+    "name": "gateReductionPVP",
+    "effectTypeID": 20,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 237,
+    "crossplayID": 237,
+    "name": "moatReductionPVP",
+    "effectTypeID": 21,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 238,
+    "crossplayID": 238,
+    "name": "attackUnitAmountFrontPVP",
+    "effectTypeID": 34,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 239,
+    "crossplayID": 239,
+    "name": "attackUnitAmountFlankPVP",
+    "effectTypeID": 28,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 240,
+    "crossplayID": 240,
+    "name": "offensiveMeleeBonusPVE",
+    "effectTypeID": 23,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 241,
+    "crossplayID": 241,
+    "name": "offensiveRangeBonusPVE",
+    "effectTypeID": 24,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 242,
+    "crossplayID": 242,
+    "name": "speedBonusPVE",
+    "effectTypeID": 15,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 243,
+    "crossplayID": 243,
+    "name": "attackBoostYardPVE",
+    "effectTypeID": 33,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 244,
+    "crossplayID": 244,
+    "name": "wallReductionPVE",
+    "effectTypeID": 19,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 245,
+    "crossplayID": 245,
+    "name": "gateReductionPVE",
+    "effectTypeID": 20,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 246,
+    "crossplayID": 246,
+    "name": "attackUnitAmountFrontPVE",
+    "effectTypeID": 34,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 247,
+    "crossplayID": 247,
+    "name": "attackUnitAmountFlankPVE",
+    "effectTypeID": 28,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 248,
+    "crossplayID": 248,
+    "name": "fameOffenseBonusGeneral",
+    "effectTypeID": 13,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 249,
+    "crossplayID": 249,
+    "name": "honorBonusGeneral",
+    "effectTypeID": 14,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 250,
+    "crossplayID": 250,
+    "name": "lootCapacityPVP",
+    "effectTypeID": 37,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 251,
+    "crossplayID": 251,
+    "name": "returnTravelBoostPVP",
+    "effectTypeID": 45,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 252,
+    "crossplayID": 252,
+    "name": "speedBonusPVP",
+    "effectTypeID": 44,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 253,
+    "crossplayID": 253,
+    "name": "travelCostReductionPVP",
+    "effectTypeID": 43,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 254,
+    "crossplayID": 254,
+    "name": "smashChanceGeneral",
+    "effectTypeID": 25,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 255,
+    "crossplayID": 255,
+    "name": "fireBoostGeneral",
+    "effectTypeID": 18,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 256,
+    "crossplayID": 256,
+    "name": "cooldownReductionPVP",
+    "effectTypeID": 27,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 257,
+    "crossplayID": 257,
+    "name": "cooldownReductionPVE",
+    "effectTypeID": 27,
+    "areaTypeID": "2,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 258,
+    "crossplayID": 258,
+    "name": "magicFindBonusGeneral",
+    "effectTypeID": 22,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 259,
+    "crossplayID": 259,
+    "name": "lootBonusPVE",
+    "effectTypeID": 16,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 260,
+    "crossplayID": 260,
+    "name": "lootCapacityPVE",
+    "effectTypeID": 37,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 261,
+    "crossplayID": 261,
+    "name": "returnTravelBoostPVE",
+    "effectTypeID": 38,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 262,
+    "crossplayID": 262,
+    "name": "travelCostReductionPVE",
+    "effectTypeID": 26,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 263,
+    "crossplayID": 263,
+    "name": "supportSpeedBonus",
+    "effectTypeID": 39,
+    "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28"
+  },
+  {
+    "effectID": 264,
+    "crossplayID": 264,
+    "name": "stationingSpeedBonus",
+    "effectTypeID": 40,
+    "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28"
+  },
+  {
+    "effectID": 265,
+    "crossplayID": 265,
+    "name": "supportTravelCostReduction",
+    "effectTypeID": 42,
+    "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28"
+  },
+  {
+    "effectID": 266,
+    "crossplayID": 266,
+    "name": "stationingTravelCostReduction",
+    "effectTypeID": 41,
+    "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28"
+  },
+  {
+    "effectID": 301,
+    "crossplayID": 301,
+    "name": "fameDefenseMalusBaron",
+    "effectTypeID": 0,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 302,
+    "crossplayID": 302,
+    "name": "gateMalusBaron",
+    "effectTypeID": 7,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 303,
+    "crossplayID": 303,
+    "name": "wallMalusBaron",
+    "effectTypeID": 6,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 304,
+    "crossplayID": 304,
+    "name": "lootIncreaseBaron",
+    "effectTypeID": 2,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 305,
+    "crossplayID": 305,
+    "name": "wallIncreasePVE",
+    "effectTypeID": 19,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 306,
+    "crossplayID": 306,
+    "name": "wallIncreasePVP",
+    "effectTypeID": 19,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 307,
+    "crossplayID": 307,
+    "name": "stealthMalusGeneral",
+    "effectTypeID": 17,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 308,
+    "crossplayID": 308,
+    "name": "gateIncreasePVE",
+    "effectTypeID": 20,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 309,
+    "crossplayID": 309,
+    "name": "gateIncreasePVP",
+    "effectTypeID": 20,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 310,
+    "crossplayID": 310,
+    "name": "perceptionMalusBaron",
+    "effectTypeID": 3,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 311,
+    "crossplayID": 311,
+    "name": "moatMalusBaron",
+    "effectTypeID": 8,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 312,
+    "crossplayID": 312,
+    "name": "attackMalusConquerBaron",
+    "effectTypeID": 36,
+    "areaTypeID": "4,15"
+  },
+  {
+    "effectID": 313,
+    "crossplayID": 313,
+    "name": "attackMalusPVE",
+    "effectTypeID": 36,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 314,
+    "crossplayID": 314,
+    "name": "attackMalusPVP",
+    "effectTypeID": 36,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 315,
+    "crossplayID": 315,
+    "name": "fireBrigadeMalusBaron",
+    "effectTypeID": 4,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 316,
+    "crossplayID": 316,
+    "name": "defenseMalusBaron",
+    "effectTypeID": 31,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 317,
+    "crossplayID": 317,
+    "name": "speedMalusGeneral",
+    "effectTypeID": 15,
+    "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,30,33"
+  },
+  {
+    "effectID": 318,
+    "crossplayID": 318,
+    "name": "attackUnitAmountFrontMalusPVE",
+    "effectTypeID": 34,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 319,
+    "crossplayID": 319,
+    "name": "attackUnitAmountFlankMalusPVE",
+    "effectTypeID": 28,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 320,
+    "crossplayID": 320,
+    "name": "attackUnitAmountFrontMalusPVP",
+    "effectTypeID": 34,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 321,
+    "crossplayID": 321,
+    "name": "attackUnitAmountFlankMalusPVP",
+    "effectTypeID": 28,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 322,
+    "crossplayID": 322,
+    "name": "defenseUnitAmountwallMalusBaron",
+    "effectTypeID": 12,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 323,
+    "crossplayID": 323,
+    "name": "fameMalusGeneral",
+    "effectTypeID": 13,
+    "areaTypeID": "1,3,4,12,15,21,22"
+  },
+  {
+    "effectID": 324,
+    "crossplayID": 324,
+    "name": "lootDecreaseGeneral",
+    "effectTypeID": 16,
+    "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,30,33"
+  },
+  {
+    "effectID": 325,
+    "crossplayID": 325,
+    "name": "occupationTimeIncreaseBaron",
+    "effectTypeID": 5,
+    "areaTypeID": "4,15"
+  },
+  {
+    "effectID": 327,
+    "crossplayID": 327,
+    "name": "returnTravelMalusGeneral",
+    "effectTypeID": 38,
+    "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,30,33"
+  },
+  {
+    "effectID": 328,
+    "crossplayID": 328,
+    "name": "offensiveMeleeMalusPVP",
+    "effectTypeID": 23,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 329,
+    "crossplayID": 329,
+    "name": "offensiveMeleeMalusPVE",
+    "effectTypeID": 23,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 330,
+    "crossplayID": 330,
+    "name": "travelCostIncreaseGeneral",
+    "effectTypeID": 26,
+    "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,30,33"
+  },
+  {
+    "effectID": 331,
+    "crossplayID": 331,
+    "name": "offensiveRangeMalusPVP",
+    "effectTypeID": 24,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 332,
+    "crossplayID": 332,
+    "name": "moatIncreasePVP",
+    "effectTypeID": 21,
+    "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28"
+  },
+  {
+    "effectID": 333,
+    "crossplayID": 333,
+    "name": "offensiveRangeMalusPVE",
+    "effectTypeID": 24,
+    "areaTypeID": "2,11,13,17,18,25,27,30,33"
+  },
+  {
+    "effectID": 268,
+    "crossplayID": 268,
+    "name": "infectionRateWallBonus",
+    "effectTypeID": 205,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 269,
+    "crossplayID": 269,
+    "name": "infectionRateMeleeMalus",
+    "effectTypeID": 203,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 270,
+    "crossplayID": 270,
+    "name": "infectionRateRangeMalus",
+    "effectTypeID": 204,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 271,
+    "crossplayID": 271,
+    "name": "infectionRateCourtyardMalus",
+    "effectTypeID": 206,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 272,
+    "crossplayID": 272,
+    "name": "equipmentAREOffensiveFrontStr",
+    "effectTypeID": 53,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 273,
+    "crossplayID": 273,
+    "name": "equipmentAREOffensiveFlankStrBonus",
+    "effectTypeID": 54,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 274,
+    "crossplayID": 274,
+    "name": "equipmentAREOffensiveRangedBonus",
+    "effectTypeID": 10,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 275,
+    "crossplayID": 275,
+    "name": "equipmentAREOffensiveMeleeBonus",
+    "effectTypeID": 9,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 276,
+    "crossplayID": 276,
+    "name": "equipmentAREOffensiveYardStrBonus",
+    "effectTypeID": 33,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 277,
+    "crossplayID": 277,
+    "name": "raidBossWallRegenerationDelayLeftFungalSwarm",
+    "effectTypeID": 209,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 278,
+    "crossplayID": 278,
+    "name": "raidBossWallRegenerationDelayFrontFungalSwarm",
+    "effectTypeID": 210,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 279,
+    "crossplayID": 279,
+    "name": "raidBossWallRegenerationDelayRightFungalSwarm",
+    "effectTypeID": 211,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 280,
+    "crossplayID": 280,
+    "name": "raidBossWallRegenerationDelayAllFungalSwarm",
+    "effectTypeID": 212,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 281,
+    "crossplayID": 281,
+    "name": "newPVPOffensiveMeleeBonus",
+    "effectTypeID": 23
+  },
+  {
+    "effectID": 282,
+    "crossplayID": 282,
+    "name": "newPVPOffensiveRangeBonus",
+    "effectTypeID": 24
+  },
+  {
+    "effectID": 283,
+    "crossplayID": 283,
+    "name": "newPVPAttackBoostYard",
+    "effectTypeID": 33
+  },
+  {
+    "effectID": 284,
+    "crossplayID": 284,
+    "name": "newPVPAttackUnitAmountFlank",
+    "effectTypeID": 28
+  },
+  {
+    "effectID": 285,
+    "crossplayID": 285,
+    "name": "newPVPAttackUnitAmountFront",
+    "effectTypeID": 34
+  },
+  {
+    "effectID": 286,
+    "crossplayID": 286,
+    "name": "newPVPAttackBonus",
+    "effectTypeID": 36
+  }
+]

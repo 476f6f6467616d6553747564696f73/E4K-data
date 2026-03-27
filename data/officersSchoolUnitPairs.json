@@ -1,88 +1,86 @@
-{
-  "officersSchoolUnitPair": [
-    {
-      "id": 1,
-      "wodID": "630+636",
-      "shares": 1,
-      "unlockBuildingWodID": 1789
-    },
-    {
-      "id": 2,
-      "wodID": "309+312",
-      "shares": 1,
-      "unlockBuildingWodID": 1790
-    },
-    {
-      "id": 3,
-      "wodID": "148+149",
-      "shares": 1,
-      "unlockBuildingWodID": 1793
-    },
-    {
-      "id": 4,
-      "wodID": "9+10",
-      "shares": 1,
-      "unlockBuildingWodID": 1799
-    },
-    {
-      "id": 5,
-      "wodID": "714+715",
-      "shares": 1,
-      "unlockBuildingWodID": 1798
-    },
-    {
-      "id": 6,
-      "wodID": "672+664",
-      "shares": 1,
-      "unlockBuildingWodID": 1791
-    },
-    {
-      "id": 7,
-      "wodID": "75+76",
-      "shares": 1,
-      "unlockBuildingWodID": 1795
-    },
-    {
-      "id": 8,
-      "wodID": "22+23",
-      "shares": 1,
-      "unlockBuildingWodID": 1797
-    },
-    {
-      "id": 9,
-      "wodID": "18+19",
-      "shares": 1,
-      "unlockBuildingWodID": 1792
-    },
-    {
-      "id": 10,
-      "wodID": "20+21",
-      "shares": 1,
-      "unlockBuildingWodID": 1796
-    },
-    {
-      "id": 11,
-      "wodID": "19+664",
-      "shares": 1,
-      "unlockBuildingWodID": 1795
-    },
-    {
-      "id": 12,
-      "wodID": "21+76",
-      "shares": 1,
-      "unlockBuildingWodID": 1796
-    },
-    {
-      "id": 13,
-      "wodID": "23+21",
-      "shares": 1,
-      "unlockBuildingWodID": 1797
-    },
-    {
-      "id": 14,
-      "wodID": "23+76",
-      "shares": 1,
-      "unlockBuildingWodID": 1797
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "wodID": "630+636",
+    "shares": 1,
+    "unlockBuildingWodID": 1789
+  },
+  {
+    "id": 2,
+    "wodID": "309+312",
+    "shares": 1,
+    "unlockBuildingWodID": 1790
+  },
+  {
+    "id": 3,
+    "wodID": "148+149",
+    "shares": 1,
+    "unlockBuildingWodID": 1793
+  },
+  {
+    "id": 4,
+    "wodID": "9+10",
+    "shares": 1,
+    "unlockBuildingWodID": 1799
+  },
+  {
+    "id": 5,
+    "wodID": "714+715",
+    "shares": 1,
+    "unlockBuildingWodID": 1798
+  },
+  {
+    "id": 6,
+    "wodID": "672+664",
+    "shares": 1,
+    "unlockBuildingWodID": 1791
+  },
+  {
+    "id": 7,
+    "wodID": "75+76",
+    "shares": 1,
+    "unlockBuildingWodID": 1795
+  },
+  {
+    "id": 8,
+    "wodID": "22+23",
+    "shares": 1,
+    "unlockBuildingWodID": 1797
+  },
+  {
+    "id": 9,
+    "wodID": "18+19",
+    "shares": 1,
+    "unlockBuildingWodID": 1792
+  },
+  {
+    "id": 10,
+    "wodID": "20+21",
+    "shares": 1,
+    "unlockBuildingWodID": 1796
+  },
+  {
+    "id": 11,
+    "wodID": "19+664",
+    "shares": 1,
+    "unlockBuildingWodID": 1795
+  },
+  {
+    "id": 12,
+    "wodID": "21+76",
+    "shares": 1,
+    "unlockBuildingWodID": 1796
+  },
+  {
+    "id": 13,
+    "wodID": "23+21",
+    "shares": 1,
+    "unlockBuildingWodID": 1797
+  },
+  {
+    "id": 14,
+    "wodID": "23+76",
+    "shares": 1,
+    "unlockBuildingWodID": 1797
+  }
+]

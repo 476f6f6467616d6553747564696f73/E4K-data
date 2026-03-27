@@ -1,94 +1,92 @@
-{
-  "alliancerankright": [
-    {
-      "rankRightID": 0,
-      "rankRightName": "RIGHT_HANDLE_DEPUTY",
-      "neededMemberRank": 0
-    },
-    {
-      "rankRightID": 1,
-      "rankRightName": "RIGHT_RENAME",
-      "neededMemberRank": 0
-    },
-    {
-      "rankRightID": 2,
-      "rankRightName": "RIGHT_DELETE",
-      "neededMemberRank": 0
-    },
-    {
-      "rankRightID": 3,
-      "rankRightName": "RIGHT_NEW_LEADER",
-      "neededMemberRank": 0
-    },
-    {
-      "rankRightID": 4,
-      "rankRightName": "RIGHT_HANDLE_GENERAL",
-      "neededMemberRank": 1
-    },
-    {
-      "rankRightID": 5,
-      "rankRightName": "RIGHT_HANDLE_SEAGANT",
-      "neededMemberRank": 6
-    },
-    {
-      "rankRightID": 6,
-      "rankRightName": "RIGHT_DESCRIPTION",
-      "neededMemberRank": 6
-    },
-    {
-      "rankRightID": 7,
-      "rankRightName": "RIGHT_DIPLOMACY",
-      "neededMemberRank": 6
-    },
-    {
-      "rankRightID": 8,
-      "rankRightName": "RIGHT_UPGRADE",
-      "neededMemberRank": 6
-    },
-    {
-      "rankRightID": 9,
-      "rankRightName": "RIGHT_INVITE",
-      "neededMemberRank": 7
-    },
-    {
-      "rankRightID": 10,
-      "rankRightName": "RIGHT_KICK_MEMBER",
-      "neededMemberRank": 7
-    },
-    {
-      "rankRightID": 11,
-      "rankRightName": "RIGHT_ANNOUNCEMENT",
-      "neededMemberRank": 7
-    },
-    {
-      "rankRightID": 12,
-      "rankRightName": "RIGHT_NEWSLETTER",
-      "neededMemberRank": 9
-    },
-    {
-      "rankRightID": 13,
-      "rankRightName": "RIGHT_AUTO_WAR",
-      "neededMemberRank": 1
-    },
-    {
-      "rankRightID": 14,
-      "rankRightName": "RIGHT_ACCEPT_APPLICATIONS",
-      "neededMemberRank": 7
-    },
-    {
-      "rankRightID": 15,
-      "rankRightName": "RIGHT_MANAGE_BOOKMARKS",
-      "neededMemberRank": 6
-    },
-    {
-      "rankRightID": 16,
-      "rankRightName": "RIGHT_EMBLEM",
-      "neededMemberRank": 1
-    },
-    {
-      "rankRightID": 18,
-      "rankRightName": "RIGHT_CHANGE_LANGUAGE",
-      "neededMemberRank": 6
-    }
-  ]
-}
+[
+  {
+    "rankRightID": 0,
+    "rankRightName": "RIGHT_HANDLE_DEPUTY",
+    "neededMemberRank": 0
+  },
+  {
+    "rankRightID": 1,
+    "rankRightName": "RIGHT_RENAME",
+    "neededMemberRank": 0
+  },
+  {
+    "rankRightID": 2,
+    "rankRightName": "RIGHT_DELETE",
+    "neededMemberRank": 0
+  },
+  {
+    "rankRightID": 3,
+    "rankRightName": "RIGHT_NEW_LEADER",
+    "neededMemberRank": 0
+  },
+  {
+    "rankRightID": 4,
+    "rankRightName": "RIGHT_HANDLE_GENERAL",
+    "neededMemberRank": 1
+  },
+  {
+    "rankRightID": 5,
+    "rankRightName": "RIGHT_HANDLE_SEAGANT",
+    "neededMemberRank": 6
+  },
+  {
+    "rankRightID": 6,
+    "rankRightName": "RIGHT_DESCRIPTION",
+    "neededMemberRank": 6
+  },
+  {
+    "rankRightID": 7,
+    "rankRightName": "RIGHT_DIPLOMACY",
+    "neededMemberRank": 6
+  },
+  {
+    "rankRightID": 8,
+    "rankRightName": "RIGHT_UPGRADE",
+    "neededMemberRank": 6
+  },
+  {
+    "rankRightID": 9,
+    "rankRightName": "RIGHT_INVITE",
+    "neededMemberRank": 7
+  },
+  {
+    "rankRightID": 10,
+    "rankRightName": "RIGHT_KICK_MEMBER",
+    "neededMemberRank": 7
+  },
+  {
+    "rankRightID": 11,
+    "rankRightName": "RIGHT_ANNOUNCEMENT",
+    "neededMemberRank": 7
+  },
+  {
+    "rankRightID": 12,
+    "rankRightName": "RIGHT_NEWSLETTER",
+    "neededMemberRank": 9
+  },
+  {
+    "rankRightID": 13,
+    "rankRightName": "RIGHT_AUTO_WAR",
+    "neededMemberRank": 1
+  },
+  {
+    "rankRightID": 14,
+    "rankRightName": "RIGHT_ACCEPT_APPLICATIONS",
+    "neededMemberRank": 7
+  },
+  {
+    "rankRightID": 15,
+    "rankRightName": "RIGHT_MANAGE_BOOKMARKS",
+    "neededMemberRank": 6
+  },
+  {
+    "rankRightID": 16,
+    "rankRightName": "RIGHT_EMBLEM",
+    "neededMemberRank": 1
+  },
+  {
+    "rankRightID": 18,
+    "rankRightName": "RIGHT_CHANGE_LANGUAGE",
+    "neededMemberRank": 6
+  }
+]

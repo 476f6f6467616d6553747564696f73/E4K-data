@@ -1,12 +1,10 @@
-{
-  "externalServerSkin": [
-    {
-      "skinID": 1,
-      "skin": "Maya"
-    },
-    {
-      "skinID": 3,
-      "skin": "PlsWork"
-    }
-  ]
-}
+[
+  {
+    "skinID": 1,
+    "skin": "Maya"
+  },
+  {
+    "skinID": 3,
+    "skin": "PlsWork"
+  }
+]

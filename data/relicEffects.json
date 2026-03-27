@@ -1,2596 +1,2594 @@
-{
-  "relicEffect": [
-    {
-      "id": 1,
-      "crossplayID": 1,
-      "effectID": 2101,
-      "minimumValue": 82,
-      "maximumValue": 87,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 2,
-      "crossplayID": 2,
-      "effectID": 2102,
-      "minimumValue": 82,
-      "maximumValue": 87,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 3,
-      "crossplayID": 3,
-      "effectID": 2103,
-      "minimumValue": 112,
-      "maximumValue": 117,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 4,
-      "crossplayID": 4,
-      "effectID": 2104,
-      "minimumValue": 112,
-      "maximumValue": 117,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 5,
-      "crossplayID": 5,
-      "effectID": 2105,
-      "minimumValue": 72,
-      "maximumValue": 77,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 6,
-      "crossplayID": 6,
-      "effectID": 2106,
-      "minimumValue": 72,
-      "maximumValue": 77,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 7,
-      "crossplayID": 7,
-      "effectID": 2107,
-      "minimumValue": 12,
-      "maximumValue": 17,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 101,
-      "crossplayID": 101,
-      "effectID": 2101,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 102,
-      "crossplayID": 102,
-      "effectID": 2102,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 103,
-      "crossplayID": 103,
-      "effectID": 2103,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 104,
-      "crossplayID": 104,
-      "effectID": 2104,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 105,
-      "crossplayID": 105,
-      "effectID": 2105,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 106,
-      "crossplayID": 106,
-      "effectID": 2106,
-      "minimumValue": 1.5,
-      "maximumValue": 6,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 107,
-      "crossplayID": 107,
-      "effectID": 2107,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 108,
-      "crossplayID": 108,
-      "effectID": 2101,
-      "minimumValue": 8,
-      "maximumValue": 48,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 109,
-      "crossplayID": 109,
-      "effectID": 2102,
-      "minimumValue": 8,
-      "maximumValue": 48,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 110,
-      "crossplayID": 110,
-      "effectID": 2103,
-      "minimumValue": 8,
-      "maximumValue": 38,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 111,
-      "crossplayID": 111,
-      "effectID": 2104,
-      "minimumValue": 8,
-      "maximumValue": 38,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 112,
-      "crossplayID": 112,
-      "effectID": 2105,
-      "minimumValue": 8,
-      "maximumValue": 38,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 113,
-      "crossplayID": 113,
-      "effectID": 2106,
-      "minimumValue": 3,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 114,
-      "crossplayID": 114,
-      "effectID": 2107,
-      "minimumValue": 5,
-      "maximumValue": 28,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 115,
-      "crossplayID": 115,
-      "effectID": 2108,
-      "minimumValue": 5,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 116,
-      "crossplayID": 116,
-      "effectID": 2109,
-      "minimumValue": 15,
-      "maximumValue": 95,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 117,
-      "crossplayID": 117,
-      "effectID": 2110,
-      "minimumValue": 5,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 118,
-      "crossplayID": 118,
-      "effectID": 2111,
-      "minimumValue": 1,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 119,
-      "crossplayID": 119,
-      "effectID": 2112,
-      "minimumValue": 1,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 120,
-      "crossplayID": 120,
-      "effectID": 2113,
-      "minimumValue": 1,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 121,
-      "crossplayID": 121,
-      "effectID": 2114,
-      "minimumValue": 10,
-      "maximumValue": 1000,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": 204
-    },
-    {
-      "id": 201,
-      "crossplayID": 201,
-      "effectID": 2108,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 202,
-      "crossplayID": 202,
-      "effectID": 2109,
-      "minimumValue": 12.25,
-      "maximumValue": 49,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 203,
-      "crossplayID": 203,
-      "effectID": 2201,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 204,
-      "crossplayID": 204,
-      "effectID": 2202,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 205,
-      "crossplayID": 205,
-      "effectID": 2203,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 206,
-      "crossplayID": 206,
-      "effectID": 2204,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 207,
-      "crossplayID": 207,
-      "effectID": 2205,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 208,
-      "crossplayID": 208,
-      "effectID": 2206,
-      "minimumValue": 5.25,
-      "maximumValue": 21,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 209,
-      "crossplayID": 209,
-      "effectID": 2201,
-      "minimumValue": 2,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 210,
-      "crossplayID": 210,
-      "effectID": 2202,
-      "minimumValue": 2,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 211,
-      "crossplayID": 211,
-      "effectID": 2203,
-      "minimumValue": 4,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 212,
-      "crossplayID": 212,
-      "effectID": 2204,
-      "minimumValue": 4,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 213,
-      "crossplayID": 213,
-      "effectID": 2205,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 214,
-      "crossplayID": 214,
-      "effectID": 2206,
-      "minimumValue": 6,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 215,
-      "crossplayID": 215,
-      "effectID": 2207,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 216,
-      "crossplayID": 216,
-      "effectID": 2208,
-      "minimumValue": 1,
-      "maximumValue": 10,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 217,
-      "crossplayID": 217,
-      "effectID": 2209,
-      "minimumValue": 4,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 218,
-      "crossplayID": 218,
-      "effectID": 2210,
-      "minimumValue": 1,
-      "maximumValue": 5,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 219,
-      "crossplayID": 219,
-      "effectID": 2211,
-      "minimumValue": 1,
-      "maximumValue": 5,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 220,
-      "crossplayID": 220,
-      "effectID": 2212,
-      "minimumValue": 1,
-      "maximumValue": 5,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 301,
-      "crossplayID": 301,
-      "effectID": 2108,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 302,
-      "crossplayID": 302,
-      "effectID": 2109,
-      "minimumValue": 12.25,
-      "maximumValue": 49,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 303,
-      "crossplayID": 303,
-      "effectID": 2301,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 304,
-      "crossplayID": 304,
-      "effectID": 2302,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 305,
-      "crossplayID": 305,
-      "effectID": 2303,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 306,
-      "crossplayID": 306,
-      "effectID": 2304,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 307,
-      "crossplayID": 307,
-      "effectID": 2305,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 308,
-      "crossplayID": 308,
-      "effectID": 2306,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 309,
-      "crossplayID": 309,
-      "effectID": 2301,
-      "minimumValue": 2,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 310,
-      "crossplayID": 310,
-      "effectID": 2302,
-      "minimumValue": 2,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 311,
-      "crossplayID": 311,
-      "effectID": 2303,
-      "minimumValue": 4,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 312,
-      "crossplayID": 312,
-      "effectID": 2304,
-      "minimumValue": 4,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 313,
-      "crossplayID": 313,
-      "effectID": 2305,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 314,
-      "crossplayID": 314,
-      "effectID": 2306,
-      "minimumValue": 6,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 315,
-      "crossplayID": 315,
-      "effectID": 2307,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 316,
-      "crossplayID": 316,
-      "effectID": 2308,
-      "minimumValue": 5,
-      "maximumValue": 40,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 317,
-      "crossplayID": 317,
-      "effectID": 2309,
-      "minimumValue": 1,
-      "maximumValue": 10,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 318,
-      "crossplayID": 318,
-      "effectID": 2310,
-      "minimumValue": 2,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 319,
-      "crossplayID": 319,
-      "effectID": 2311,
-      "minimumValue": 1,
-      "maximumValue": 10,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 320,
-      "crossplayID": 320,
-      "effectID": 2312,
-      "minimumValue": 2,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 401,
-      "crossplayID": 401,
-      "effectID": 2401,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 402,
-      "crossplayID": 402,
-      "effectID": 2402,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 403,
-      "crossplayID": 403,
-      "effectID": 2403,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 404,
-      "crossplayID": 404,
-      "effectID": 2404,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 405,
-      "crossplayID": 405,
-      "effectID": 2405,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 406,
-      "crossplayID": 406,
-      "effectID": 2406,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 407,
-      "crossplayID": 407,
-      "effectID": 2401,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 408,
-      "crossplayID": 408,
-      "effectID": 2402,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 409,
-      "crossplayID": 409,
-      "effectID": 2403,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 410,
-      "crossplayID": 410,
-      "effectID": 2404,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 411,
-      "crossplayID": 411,
-      "effectID": 2405,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 412,
-      "crossplayID": 412,
-      "effectID": 2406,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 413,
-      "crossplayID": 413,
-      "effectID": 2407,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 414,
-      "crossplayID": 414,
-      "effectID": 2408,
-      "minimumValue": 5,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 415,
-      "crossplayID": 415,
-      "effectID": 2409,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 501,
-      "crossplayID": 501,
-      "effectID": 2501,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 502,
-      "crossplayID": 502,
-      "effectID": 2502,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 503,
-      "crossplayID": 503,
-      "effectID": 2503,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 504,
-      "crossplayID": 504,
-      "effectID": 2504,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 505,
-      "crossplayID": 505,
-      "effectID": 2505,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 506,
-      "crossplayID": 506,
-      "effectID": 2506,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 507,
-      "crossplayID": 507,
-      "effectID": 2501,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 508,
-      "crossplayID": 508,
-      "effectID": 2502,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 509,
-      "crossplayID": 509,
-      "effectID": 2503,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 510,
-      "crossplayID": 510,
-      "effectID": 2504,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 511,
-      "crossplayID": 511,
-      "effectID": 2505,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 512,
-      "crossplayID": 512,
-      "effectID": 2506,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 513,
-      "crossplayID": 513,
-      "effectID": 2507,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 514,
-      "crossplayID": 514,
-      "effectID": 2508,
-      "minimumValue": 5,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 515,
-      "crossplayID": 515,
-      "effectID": 2509,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 601,
-      "crossplayID": 601,
-      "effectID": 2601,
-      "minimumValue": 28.5,
-      "maximumValue": 114,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 602,
-      "crossplayID": 602,
-      "effectID": 2602,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 603,
-      "crossplayID": 603,
-      "effectID": 2603,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 604,
-      "crossplayID": 604,
-      "effectID": 2604,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 605,
-      "crossplayID": 605,
-      "effectID": 2605,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 606,
-      "crossplayID": 606,
-      "effectID": 2606,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 607,
-      "crossplayID": 607,
-      "effectID": 2607,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 608,
-      "crossplayID": 608,
-      "effectID": 2608,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 609,
-      "crossplayID": 609,
-      "effectID": 2601,
-      "minimumValue": 29,
-      "maximumValue": 115,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 610,
-      "crossplayID": 610,
-      "effectID": 2602,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 611,
-      "crossplayID": 611,
-      "effectID": 2603,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 612,
-      "crossplayID": 612,
-      "effectID": 2604,
-      "minimumValue": 5,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 613,
-      "crossplayID": 613,
-      "effectID": 2605,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 614,
-      "crossplayID": 614,
-      "effectID": 2606,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 615,
-      "crossplayID": 615,
-      "effectID": 2607,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 616,
-      "crossplayID": 616,
-      "effectID": 2608,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 617,
-      "crossplayID": 617,
-      "effectID": 2609,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 701,
-      "crossplayID": 701,
-      "effectID": 2701,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 702,
-      "crossplayID": 702,
-      "effectID": 2702,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 703,
-      "crossplayID": 703,
-      "effectID": 2703,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 704,
-      "crossplayID": 704,
-      "effectID": 2704,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 705,
-      "crossplayID": 705,
-      "effectID": 2705,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 706,
-      "crossplayID": 706,
-      "effectID": 2706,
-      "minimumValue": 10.5,
-      "maximumValue": 42,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 707,
-      "crossplayID": 707,
-      "effectID": 2701,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 708,
-      "crossplayID": 708,
-      "effectID": 2702,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 709,
-      "crossplayID": 709,
-      "effectID": 2703,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 710,
-      "crossplayID": 710,
-      "effectID": 2704,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 711,
-      "crossplayID": 711,
-      "effectID": 2705,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 712,
-      "crossplayID": 712,
-      "effectID": 2706,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 713,
-      "crossplayID": 713,
-      "effectID": 2707,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 714,
-      "crossplayID": 714,
-      "effectID": 2708,
-      "minimumValue": 5,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 715,
-      "crossplayID": 715,
-      "effectID": 2709,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 801,
-      "crossplayID": 801,
-      "effectID": 2801,
-      "minimumValue": 75,
-      "maximumValue": 90,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 802,
-      "crossplayID": 802,
-      "effectID": 2802,
-      "minimumValue": 5,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 803,
-      "crossplayID": 803,
-      "effectID": 2803,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 804,
-      "crossplayID": 804,
-      "effectID": 2804,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 805,
-      "crossplayID": 805,
-      "effectID": 2805,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 806,
-      "crossplayID": 806,
-      "effectID": 2801,
-      "minimumValue": 75,
-      "maximumValue": 90,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 807,
-      "crossplayID": 807,
-      "effectID": 2802,
-      "minimumValue": 5,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 808,
-      "crossplayID": 808,
-      "effectID": 2803,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 809,
-      "crossplayID": 809,
-      "effectID": 2804,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 810,
-      "crossplayID": 810,
-      "effectID": 2805,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 811,
-      "crossplayID": 811,
-      "effectID": 2806,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 812,
-      "crossplayID": 812,
-      "effectID": 2807,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 813,
-      "crossplayID": 813,
-      "effectID": 2808,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 814,
-      "crossplayID": 814,
-      "effectID": 2809,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 815,
-      "crossplayID": 815,
-      "effectID": 2810,
-      "minimumValue": 4,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 816,
-      "crossplayID": 816,
-      "effectID": 2811,
-      "minimumValue": 2,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10001,
-      "crossplayID": 10001,
-      "effectID": 12101,
-      "minimumValue": 12,
-      "maximumValue": 17,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 10002,
-      "crossplayID": 10002,
-      "effectID": 12102,
-      "minimumValue": 112,
-      "maximumValue": 117,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10003,
-      "crossplayID": 10003,
-      "effectID": 12103,
-      "minimumValue": 112,
-      "maximumValue": 117,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10004,
-      "crossplayID": 10004,
-      "effectID": 12104,
-      "minimumValue": 72,
-      "maximumValue": 77,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10005,
-      "crossplayID": 10005,
-      "effectID": 12105,
-      "minimumValue": 82,
-      "maximumValue": 87,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10006,
-      "crossplayID": 10006,
-      "effectID": 12106,
-      "minimumValue": 82,
-      "maximumValue": 87,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10101,
-      "crossplayID": 10101,
-      "effectID": 12101,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 10102,
-      "crossplayID": 10102,
-      "effectID": 12102,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10103,
-      "crossplayID": 10103,
-      "effectID": 12103,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10104,
-      "crossplayID": 10104,
-      "effectID": 12104,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10105,
-      "crossplayID": 10105,
-      "effectID": 12105,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10106,
-      "crossplayID": 10106,
-      "effectID": 12106,
-      "minimumValue": 7.5,
-      "maximumValue": 30,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10107,
-      "crossplayID": 10107,
-      "effectID": 12101,
-      "minimumValue": 5,
-      "maximumValue": 28,
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": 10108,
-      "crossplayID": 10108,
-      "effectID": 12102,
-      "minimumValue": 8,
-      "maximumValue": 38,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10109,
-      "crossplayID": 10109,
-      "effectID": 12103,
-      "minimumValue": 8,
-      "maximumValue": 38,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10110,
-      "crossplayID": 10110,
-      "effectID": 12104,
-      "minimumValue": 8,
-      "maximumValue": 38,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10111,
-      "crossplayID": 10111,
-      "effectID": 12105,
-      "minimumValue": 8,
-      "maximumValue": 48,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10112,
-      "crossplayID": 10112,
-      "effectID": 12106,
-      "minimumValue": 8,
-      "maximumValue": 48,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10113,
-      "crossplayID": 10113,
-      "effectID": 12107,
-      "minimumValue": 5,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10114,
-      "crossplayID": 10114,
-      "effectID": 12108,
-      "minimumValue": 15,
-      "maximumValue": 95,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10115,
-      "crossplayID": 10115,
-      "effectID": 12109,
-      "minimumValue": 1,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10116,
-      "crossplayID": 10116,
-      "effectID": 12110,
-      "minimumValue": 1,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10117,
-      "crossplayID": 10117,
-      "effectID": 12111,
-      "minimumValue": 1,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10118,
-      "crossplayID": 10118,
-      "effectID": 12112,
-      "minimumValue": 10,
-      "maximumValue": 1000,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": 227
-    },
-    {
-      "id": 10119,
-      "crossplayID": 10119,
-      "effectID": 2115,
-      "minimumValue": 120,
-      "maximumValue": 750,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 10120,
-      "crossplayID": 10120,
-      "effectID": 12113,
-      "minimumValue": 120,
-      "maximumValue": 750,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 10201,
-      "crossplayID": 10201,
-      "effectID": 12107,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10202,
-      "crossplayID": 10202,
-      "effectID": 12108,
-      "minimumValue": 12.25,
-      "maximumValue": 49,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10203,
-      "crossplayID": 10203,
-      "effectID": 12201,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10204,
-      "crossplayID": 10204,
-      "effectID": 12202,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10205,
-      "crossplayID": 10205,
-      "effectID": 12203,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10206,
-      "crossplayID": 10206,
-      "effectID": 12204,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10207,
-      "crossplayID": 10207,
-      "effectID": 12205,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10208,
-      "crossplayID": 10208,
-      "effectID": 12206,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10209,
-      "crossplayID": 10209,
-      "effectID": 12201,
-      "minimumValue": 2,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10210,
-      "crossplayID": 10210,
-      "effectID": 12202,
-      "minimumValue": 2,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10211,
-      "crossplayID": 10211,
-      "effectID": 12203,
-      "minimumValue": 4,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10212,
-      "crossplayID": 10212,
-      "effectID": 12204,
-      "minimumValue": 4,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10213,
-      "crossplayID": 10213,
-      "effectID": 12205,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10214,
-      "crossplayID": 10214,
-      "effectID": 12206,
-      "minimumValue": 6,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10215,
-      "crossplayID": 10215,
-      "effectID": 12207,
-      "minimumValue": 1,
-      "maximumValue": 10,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10216,
-      "crossplayID": 10216,
-      "effectID": 12208,
-      "minimumValue": 1,
-      "maximumValue": 5,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": 1
-    },
-    {
-      "id": 10217,
-      "crossplayID": 10217,
-      "effectID": 12209,
-      "minimumValue": 1,
-      "maximumValue": 5,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": 7
-    },
-    {
-      "id": 10218,
-      "crossplayID": 10218,
-      "effectID": 12210,
-      "minimumValue": 1,
-      "maximumValue": 5,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": 10
-    },
-    {
-      "id": 10219,
-      "crossplayID": 10219,
-      "effectID": 12211,
-      "minimumValue": 1,
-      "maximumValue": 5,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": 13
-    },
-    {
-      "id": 10301,
-      "crossplayID": 10301,
-      "effectID": 12107,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10302,
-      "crossplayID": 10302,
-      "effectID": 12108,
-      "minimumValue": 12.25,
-      "maximumValue": 49,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10303,
-      "crossplayID": 10303,
-      "effectID": 12301,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10304,
-      "crossplayID": 10304,
-      "effectID": 12302,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10305,
-      "crossplayID": 10305,
-      "effectID": 12303,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10306,
-      "crossplayID": 10306,
-      "effectID": 12304,
-      "minimumValue": 3.5,
-      "maximumValue": 14,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10307,
-      "crossplayID": 10307,
-      "effectID": 12305,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10308,
-      "crossplayID": 10308,
-      "effectID": 12306,
-      "minimumValue": 1.75,
-      "maximumValue": 7,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10309,
-      "crossplayID": 10309,
-      "effectID": 12301,
-      "minimumValue": 2,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10310,
-      "crossplayID": 10310,
-      "effectID": 12302,
-      "minimumValue": 2,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10311,
-      "crossplayID": 10311,
-      "effectID": 12303,
-      "minimumValue": 4,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10312,
-      "crossplayID": 10312,
-      "effectID": 12304,
-      "minimumValue": 4,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10313,
-      "crossplayID": 10313,
-      "effectID": 12305,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10314,
-      "crossplayID": 10314,
-      "effectID": 12306,
-      "minimumValue": 6,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10315,
-      "crossplayID": 10315,
-      "effectID": 12307,
-      "minimumValue": 5,
-      "maximumValue": 40,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10316,
-      "crossplayID": 10316,
-      "effectID": 12308,
-      "minimumValue": 1,
-      "maximumValue": 10,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10317,
-      "crossplayID": 10317,
-      "effectID": 12309,
-      "minimumValue": 2,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10318,
-      "crossplayID": 10318,
-      "effectID": 12310,
-      "minimumValue": 1,
-      "maximumValue": 10,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10401,
-      "crossplayID": 10401,
-      "effectID": 12401,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10402,
-      "crossplayID": 10402,
-      "effectID": 12402,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10403,
-      "crossplayID": 10403,
-      "effectID": 12403,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10404,
-      "crossplayID": 10404,
-      "effectID": 12404,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10405,
-      "crossplayID": 10405,
-      "effectID": 12405,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10406,
-      "crossplayID": 10406,
-      "effectID": 12401,
-      "minimumValue": 5,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10407,
-      "crossplayID": 10407,
-      "effectID": 12402,
-      "minimumValue": 5,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10408,
-      "crossplayID": 10408,
-      "effectID": 12403,
-      "minimumValue": 5,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10409,
-      "crossplayID": 10409,
-      "effectID": 12404,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10410,
-      "crossplayID": 10410,
-      "effectID": 12405,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10411,
-      "crossplayID": 10411,
-      "effectID": 12406,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10412,
-      "crossplayID": 10412,
-      "effectID": 12407,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10413,
-      "crossplayID": 10413,
-      "effectID": 12408,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10414,
-      "crossplayID": 10414,
-      "effectID": 12409,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10415,
-      "crossplayID": 10415,
-      "effectID": 12410,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": 1
-    },
-    {
-      "id": 10416,
-      "crossplayID": 10416,
-      "effectID": 12411,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": 7
-    },
-    {
-      "id": 10417,
-      "crossplayID": 10417,
-      "effectID": 12412,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": 10
-    },
-    {
-      "id": 10418,
-      "crossplayID": 10418,
-      "effectID": 12413,
-      "minimumValue": 2,
-      "maximumValue": 15,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": 13
-    },
-    {
-      "id": 10501,
-      "crossplayID": 10501,
-      "effectID": 12501,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10502,
-      "crossplayID": 10502,
-      "effectID": 12502,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10503,
-      "crossplayID": 10503,
-      "effectID": 12503,
-      "minimumValue": 75,
-      "maximumValue": 90,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10504,
-      "crossplayID": 10504,
-      "effectID": 12504,
-      "minimumValue": 5,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10505,
-      "crossplayID": 10505,
-      "effectID": 12505,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10506,
-      "crossplayID": 10506,
-      "effectID": 12506,
-      "minimumValue": 4.5,
-      "maximumValue": 18,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10507,
-      "crossplayID": 10507,
-      "effectID": 12501,
-      "minimumValue": 5,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10508,
-      "crossplayID": 10508,
-      "effectID": 12502,
-      "minimumValue": 5,
-      "maximumValue": 20,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10509,
-      "crossplayID": 10509,
-      "effectID": 12503,
-      "minimumValue": 75,
-      "maximumValue": 90,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10510,
-      "crossplayID": 10510,
-      "effectID": 12504,
-      "minimumValue": 5,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10511,
-      "crossplayID": 10511,
-      "effectID": 12505,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10512,
-      "crossplayID": 10512,
-      "effectID": 12506,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10513,
-      "crossplayID": 10513,
-      "effectID": 12507,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10514,
-      "crossplayID": 10514,
-      "effectID": 12508,
-      "minimumValue": 8,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10515,
-      "crossplayID": 10515,
-      "effectID": 12509,
-      "minimumValue": 5,
-      "maximumValue": 35,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10516,
-      "crossplayID": 10516,
-      "effectID": 12510,
-      "minimumValue": 11,
-      "maximumValue": 55,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10517,
-      "crossplayID": 10517,
-      "effectID": 12511,
-      "minimumValue": 4,
-      "maximumValue": 45,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 10518,
-      "crossplayID": 10518,
-      "effectID": 12512,
-      "minimumValue": 2,
-      "maximumValue": 25,
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 20001,
-      "crossplayID": 20001,
-      "effectID": 22001,
-      "minimumValue": 4,
-      "maximumValue": 12,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "672,664,686,687,75,76"
-    },
-    {
-      "id": 20002,
-      "crossplayID": 20002,
-      "effectID": 22002,
-      "minimumValue": 4,
-      "maximumValue": 12,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "9,10,714,715,58,59"
-    },
-    {
-      "id": 20003,
-      "crossplayID": 20003,
-      "effectID": 22003,
-      "minimumValue": 4,
-      "maximumValue": 12,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "18,19,20,21"
-    },
-    {
-      "id": 20004,
-      "crossplayID": 20004,
-      "effectID": 22004,
-      "minimumValue": 4,
-      "maximumValue": 12,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "22,23"
-    },
-    {
-      "id": 20005,
-      "crossplayID": 20005,
-      "effectID": 22005,
-      "minimumValue": 4,
-      "maximumValue": 12,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "148,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,150,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,149,2060,2061,2062,2063,2064,2065,2066,2067,2068,2069,151,2070,2071,2072,2073,2074,2075,2076,2077,2078,2079"
-    },
-    {
-      "id": 20006,
-      "crossplayID": 20006,
-      "effectID": 22006,
-      "minimumValue": 30,
-      "maximumValue": 120,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": 620
-    },
-    {
-      "id": 20007,
-      "crossplayID": 20007,
-      "effectID": 22007,
-      "minimumValue": 9,
-      "maximumValue": 36,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": "672,664,686,687,75,76"
-    },
-    {
-      "id": 20008,
-      "crossplayID": 20008,
-      "effectID": 22008,
-      "minimumValue": 9,
-      "maximumValue": 36,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": "9,10,714,715,58,59"
-    },
-    {
-      "id": 20009,
-      "crossplayID": 20009,
-      "effectID": 22009,
-      "minimumValue": 9,
-      "maximumValue": 36,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": "18,19,20,21"
-    },
-    {
-      "id": 20010,
-      "crossplayID": 20010,
-      "effectID": 22010,
-      "minimumValue": 9,
-      "maximumValue": 36,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": "22,23"
-    },
-    {
-      "id": 20011,
-      "crossplayID": 20011,
-      "effectID": 22011,
-      "minimumValue": 9,
-      "maximumValue": 36,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": "148,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,150,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,149,2060,2061,2062,2063,2064,2065,2066,2067,2068,2069,151,2070,2071,2072,2073,2074,2075,2076,2077,2078,2079"
-    },
-    {
-      "id": 20012,
-      "crossplayID": 20012,
-      "effectID": 22001,
-      "minimumValue": 20,
-      "maximumValue": 60,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "672,664,686,687,75,76"
-    },
-    {
-      "id": 20013,
-      "crossplayID": 20013,
-      "effectID": 22002,
-      "minimumValue": 10,
-      "maximumValue": 40,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "9,10,714,715,58,59"
-    },
-    {
-      "id": 20014,
-      "crossplayID": 20014,
-      "effectID": 22003,
-      "minimumValue": 20,
-      "maximumValue": 60,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "18,19,20,21"
-    },
-    {
-      "id": 20015,
-      "crossplayID": 20015,
-      "effectID": 22004,
-      "minimumValue": 20,
-      "maximumValue": 60,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "22,23"
-    },
-    {
-      "id": 20016,
-      "crossplayID": 20016,
-      "effectID": 22005,
-      "minimumValue": 10,
-      "maximumValue": 40,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "148,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,150,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,149,2060,2061,2062,2063,2064,2065,2066,2067,2068,2069,151,2070,2071,2072,2073,2074,2075,2076,2077,2078,2079"
-    },
-    {
-      "id": 20017,
-      "crossplayID": 20017,
-      "effectID": 22012,
-      "minimumValue": 5,
-      "maximumValue": 20,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "195,196,197,198,199,200,201,202,203,204,215,205,206,207,208,209,210,211,212,213,214,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238"
-    },
-    {
-      "id": 20018,
-      "crossplayID": 20018,
-      "effectID": 22013,
-      "minimumValue": 1,
-      "maximumValue": 1,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 20019,
-      "crossplayID": 20019,
-      "effectID": 22014,
-      "minimumValue": 5,
-      "maximumValue": 15,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 20020,
-      "crossplayID": 20020,
-      "effectID": 22015,
-      "minimumValue": 10,
-      "maximumValue": 25,
-      "relicEffectType": "unitTool",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 30001,
-      "crossplayID": 30001,
-      "effectID": 32001,
-      "minimumValue": 60,
-      "maximumValue": 240,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 30002,
-      "crossplayID": 30002,
-      "effectID": 32002,
-      "minimumValue": 30,
-      "maximumValue": 120,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 30003,
-      "crossplayID": 30003,
-      "effectID": 32003,
-      "minimumValue": 15,
-      "maximumValue": 60,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 30004,
-      "crossplayID": 30004,
-      "effectID": 32004,
-      "minimumValue": 300,
-      "maximumValue": 1200,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 30005,
-      "crossplayID": 30005,
-      "effectID": 32005,
-      "minimumValue": 150,
-      "maximumValue": 600,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 30006,
-      "crossplayID": 30006,
-      "effectID": 32006,
-      "minimumValue": 300,
-      "maximumValue": 1200,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 30007,
-      "crossplayID": 30007,
-      "effectID": 32007,
-      "minimumValue": 15,
-      "maximumValue": 60,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 30008,
-      "crossplayID": 30008,
-      "effectID": 32008,
-      "minimumValue": 22.5,
-      "maximumValue": 90,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 30009,
-      "crossplayID": 30009,
-      "effectID": 32001,
-      "minimumValue": 100,
-      "maximumValue": 300,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 30010,
-      "crossplayID": 30010,
-      "effectID": 32002,
-      "minimumValue": 60,
-      "maximumValue": 200,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 30011,
-      "crossplayID": 30011,
-      "effectID": 32003,
-      "minimumValue": 30,
-      "maximumValue": 75,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 30012,
-      "crossplayID": 30012,
-      "effectID": 32004,
-      "minimumValue": 600,
-      "maximumValue": 2400,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 30013,
-      "crossplayID": 30013,
-      "effectID": 32005,
-      "minimumValue": 300,
-      "maximumValue": 1200,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 30014,
-      "crossplayID": 30014,
-      "effectID": 32006,
-      "minimumValue": 3000,
-      "maximumValue": 10000,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 30015,
-      "crossplayID": 30015,
-      "effectID": 32007,
-      "minimumValue": 30,
-      "maximumValue": 75,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 30016,
-      "crossplayID": 30016,
-      "effectID": 32008,
-      "minimumValue": 50,
-      "maximumValue": 300,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 30017,
-      "crossplayID": 30017,
-      "effectID": 32009,
-      "minimumValue": 5,
-      "maximumValue": 25,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 30018,
-      "crossplayID": 30018,
-      "effectID": 32010,
-      "minimumValue": 5,
-      "maximumValue": 25,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": 30019,
-      "crossplayID": 30019,
-      "effectID": 32011,
-      "minimumValue": 50000,
-      "maximumValue": 200000,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    },
-    {
-      "id": 30020,
-      "crossplayID": 30020,
-      "effectID": 32012,
-      "minimumValue": 50000,
-      "maximumValue": 200000,
-      "relicEffectType": "economy",
-      "valueTextType": "relicIncreaseInt"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "crossplayID": 1,
+    "effectID": 2101,
+    "minimumValue": 82,
+    "maximumValue": 87,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 2,
+    "crossplayID": 2,
+    "effectID": 2102,
+    "minimumValue": 82,
+    "maximumValue": 87,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 3,
+    "crossplayID": 3,
+    "effectID": 2103,
+    "minimumValue": 112,
+    "maximumValue": 117,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 4,
+    "crossplayID": 4,
+    "effectID": 2104,
+    "minimumValue": 112,
+    "maximumValue": 117,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 5,
+    "crossplayID": 5,
+    "effectID": 2105,
+    "minimumValue": 72,
+    "maximumValue": 77,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 6,
+    "crossplayID": 6,
+    "effectID": 2106,
+    "minimumValue": 72,
+    "maximumValue": 77,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 7,
+    "crossplayID": 7,
+    "effectID": 2107,
+    "minimumValue": 12,
+    "maximumValue": 17,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 101,
+    "crossplayID": 101,
+    "effectID": 2101,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 102,
+    "crossplayID": 102,
+    "effectID": 2102,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 103,
+    "crossplayID": 103,
+    "effectID": 2103,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 104,
+    "crossplayID": 104,
+    "effectID": 2104,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 105,
+    "crossplayID": 105,
+    "effectID": 2105,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 106,
+    "crossplayID": 106,
+    "effectID": 2106,
+    "minimumValue": 1.5,
+    "maximumValue": 6,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 107,
+    "crossplayID": 107,
+    "effectID": 2107,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 108,
+    "crossplayID": 108,
+    "effectID": 2101,
+    "minimumValue": 8,
+    "maximumValue": 48,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 109,
+    "crossplayID": 109,
+    "effectID": 2102,
+    "minimumValue": 8,
+    "maximumValue": 48,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 110,
+    "crossplayID": 110,
+    "effectID": 2103,
+    "minimumValue": 8,
+    "maximumValue": 38,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 111,
+    "crossplayID": 111,
+    "effectID": 2104,
+    "minimumValue": 8,
+    "maximumValue": 38,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 112,
+    "crossplayID": 112,
+    "effectID": 2105,
+    "minimumValue": 8,
+    "maximumValue": 38,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 113,
+    "crossplayID": 113,
+    "effectID": 2106,
+    "minimumValue": 3,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 114,
+    "crossplayID": 114,
+    "effectID": 2107,
+    "minimumValue": 5,
+    "maximumValue": 28,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 115,
+    "crossplayID": 115,
+    "effectID": 2108,
+    "minimumValue": 5,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 116,
+    "crossplayID": 116,
+    "effectID": 2109,
+    "minimumValue": 15,
+    "maximumValue": 95,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 117,
+    "crossplayID": 117,
+    "effectID": 2110,
+    "minimumValue": 5,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 118,
+    "crossplayID": 118,
+    "effectID": 2111,
+    "minimumValue": 1,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 119,
+    "crossplayID": 119,
+    "effectID": 2112,
+    "minimumValue": 1,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 120,
+    "crossplayID": 120,
+    "effectID": 2113,
+    "minimumValue": 1,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 121,
+    "crossplayID": 121,
+    "effectID": 2114,
+    "minimumValue": 10,
+    "maximumValue": 1000,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": 204
+  },
+  {
+    "id": 201,
+    "crossplayID": 201,
+    "effectID": 2108,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 202,
+    "crossplayID": 202,
+    "effectID": 2109,
+    "minimumValue": 12.25,
+    "maximumValue": 49,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 203,
+    "crossplayID": 203,
+    "effectID": 2201,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 204,
+    "crossplayID": 204,
+    "effectID": 2202,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 205,
+    "crossplayID": 205,
+    "effectID": 2203,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 206,
+    "crossplayID": 206,
+    "effectID": 2204,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 207,
+    "crossplayID": 207,
+    "effectID": 2205,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 208,
+    "crossplayID": 208,
+    "effectID": 2206,
+    "minimumValue": 5.25,
+    "maximumValue": 21,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 209,
+    "crossplayID": 209,
+    "effectID": 2201,
+    "minimumValue": 2,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 210,
+    "crossplayID": 210,
+    "effectID": 2202,
+    "minimumValue": 2,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 211,
+    "crossplayID": 211,
+    "effectID": 2203,
+    "minimumValue": 4,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 212,
+    "crossplayID": 212,
+    "effectID": 2204,
+    "minimumValue": 4,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 213,
+    "crossplayID": 213,
+    "effectID": 2205,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 214,
+    "crossplayID": 214,
+    "effectID": 2206,
+    "minimumValue": 6,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 215,
+    "crossplayID": 215,
+    "effectID": 2207,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 216,
+    "crossplayID": 216,
+    "effectID": 2208,
+    "minimumValue": 1,
+    "maximumValue": 10,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 217,
+    "crossplayID": 217,
+    "effectID": 2209,
+    "minimumValue": 4,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 218,
+    "crossplayID": 218,
+    "effectID": 2210,
+    "minimumValue": 1,
+    "maximumValue": 5,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 219,
+    "crossplayID": 219,
+    "effectID": 2211,
+    "minimumValue": 1,
+    "maximumValue": 5,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 220,
+    "crossplayID": 220,
+    "effectID": 2212,
+    "minimumValue": 1,
+    "maximumValue": 5,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 301,
+    "crossplayID": 301,
+    "effectID": 2108,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 302,
+    "crossplayID": 302,
+    "effectID": 2109,
+    "minimumValue": 12.25,
+    "maximumValue": 49,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 303,
+    "crossplayID": 303,
+    "effectID": 2301,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 304,
+    "crossplayID": 304,
+    "effectID": 2302,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 305,
+    "crossplayID": 305,
+    "effectID": 2303,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 306,
+    "crossplayID": 306,
+    "effectID": 2304,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 307,
+    "crossplayID": 307,
+    "effectID": 2305,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 308,
+    "crossplayID": 308,
+    "effectID": 2306,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 309,
+    "crossplayID": 309,
+    "effectID": 2301,
+    "minimumValue": 2,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 310,
+    "crossplayID": 310,
+    "effectID": 2302,
+    "minimumValue": 2,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 311,
+    "crossplayID": 311,
+    "effectID": 2303,
+    "minimumValue": 4,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 312,
+    "crossplayID": 312,
+    "effectID": 2304,
+    "minimumValue": 4,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 313,
+    "crossplayID": 313,
+    "effectID": 2305,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 314,
+    "crossplayID": 314,
+    "effectID": 2306,
+    "minimumValue": 6,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 315,
+    "crossplayID": 315,
+    "effectID": 2307,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 316,
+    "crossplayID": 316,
+    "effectID": 2308,
+    "minimumValue": 5,
+    "maximumValue": 40,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 317,
+    "crossplayID": 317,
+    "effectID": 2309,
+    "minimumValue": 1,
+    "maximumValue": 10,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 318,
+    "crossplayID": 318,
+    "effectID": 2310,
+    "minimumValue": 2,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 319,
+    "crossplayID": 319,
+    "effectID": 2311,
+    "minimumValue": 1,
+    "maximumValue": 10,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 320,
+    "crossplayID": 320,
+    "effectID": 2312,
+    "minimumValue": 2,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 401,
+    "crossplayID": 401,
+    "effectID": 2401,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 402,
+    "crossplayID": 402,
+    "effectID": 2402,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 403,
+    "crossplayID": 403,
+    "effectID": 2403,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 404,
+    "crossplayID": 404,
+    "effectID": 2404,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 405,
+    "crossplayID": 405,
+    "effectID": 2405,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 406,
+    "crossplayID": 406,
+    "effectID": 2406,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 407,
+    "crossplayID": 407,
+    "effectID": 2401,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 408,
+    "crossplayID": 408,
+    "effectID": 2402,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 409,
+    "crossplayID": 409,
+    "effectID": 2403,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 410,
+    "crossplayID": 410,
+    "effectID": 2404,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 411,
+    "crossplayID": 411,
+    "effectID": 2405,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 412,
+    "crossplayID": 412,
+    "effectID": 2406,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 413,
+    "crossplayID": 413,
+    "effectID": 2407,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 414,
+    "crossplayID": 414,
+    "effectID": 2408,
+    "minimumValue": 5,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 415,
+    "crossplayID": 415,
+    "effectID": 2409,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 501,
+    "crossplayID": 501,
+    "effectID": 2501,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 502,
+    "crossplayID": 502,
+    "effectID": 2502,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 503,
+    "crossplayID": 503,
+    "effectID": 2503,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 504,
+    "crossplayID": 504,
+    "effectID": 2504,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 505,
+    "crossplayID": 505,
+    "effectID": 2505,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 506,
+    "crossplayID": 506,
+    "effectID": 2506,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 507,
+    "crossplayID": 507,
+    "effectID": 2501,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 508,
+    "crossplayID": 508,
+    "effectID": 2502,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 509,
+    "crossplayID": 509,
+    "effectID": 2503,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 510,
+    "crossplayID": 510,
+    "effectID": 2504,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 511,
+    "crossplayID": 511,
+    "effectID": 2505,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 512,
+    "crossplayID": 512,
+    "effectID": 2506,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 513,
+    "crossplayID": 513,
+    "effectID": 2507,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 514,
+    "crossplayID": 514,
+    "effectID": 2508,
+    "minimumValue": 5,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 515,
+    "crossplayID": 515,
+    "effectID": 2509,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 601,
+    "crossplayID": 601,
+    "effectID": 2601,
+    "minimumValue": 28.5,
+    "maximumValue": 114,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 602,
+    "crossplayID": 602,
+    "effectID": 2602,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 603,
+    "crossplayID": 603,
+    "effectID": 2603,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 604,
+    "crossplayID": 604,
+    "effectID": 2604,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 605,
+    "crossplayID": 605,
+    "effectID": 2605,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 606,
+    "crossplayID": 606,
+    "effectID": 2606,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 607,
+    "crossplayID": 607,
+    "effectID": 2607,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 608,
+    "crossplayID": 608,
+    "effectID": 2608,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 609,
+    "crossplayID": 609,
+    "effectID": 2601,
+    "minimumValue": 29,
+    "maximumValue": 115,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 610,
+    "crossplayID": 610,
+    "effectID": 2602,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 611,
+    "crossplayID": 611,
+    "effectID": 2603,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 612,
+    "crossplayID": 612,
+    "effectID": 2604,
+    "minimumValue": 5,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 613,
+    "crossplayID": 613,
+    "effectID": 2605,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 614,
+    "crossplayID": 614,
+    "effectID": 2606,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 615,
+    "crossplayID": 615,
+    "effectID": 2607,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 616,
+    "crossplayID": 616,
+    "effectID": 2608,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 617,
+    "crossplayID": 617,
+    "effectID": 2609,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 701,
+    "crossplayID": 701,
+    "effectID": 2701,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 702,
+    "crossplayID": 702,
+    "effectID": 2702,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 703,
+    "crossplayID": 703,
+    "effectID": 2703,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 704,
+    "crossplayID": 704,
+    "effectID": 2704,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 705,
+    "crossplayID": 705,
+    "effectID": 2705,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 706,
+    "crossplayID": 706,
+    "effectID": 2706,
+    "minimumValue": 10.5,
+    "maximumValue": 42,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 707,
+    "crossplayID": 707,
+    "effectID": 2701,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 708,
+    "crossplayID": 708,
+    "effectID": 2702,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 709,
+    "crossplayID": 709,
+    "effectID": 2703,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 710,
+    "crossplayID": 710,
+    "effectID": 2704,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 711,
+    "crossplayID": 711,
+    "effectID": 2705,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 712,
+    "crossplayID": 712,
+    "effectID": 2706,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 713,
+    "crossplayID": 713,
+    "effectID": 2707,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 714,
+    "crossplayID": 714,
+    "effectID": 2708,
+    "minimumValue": 5,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 715,
+    "crossplayID": 715,
+    "effectID": 2709,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 801,
+    "crossplayID": 801,
+    "effectID": 2801,
+    "minimumValue": 75,
+    "maximumValue": 90,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 802,
+    "crossplayID": 802,
+    "effectID": 2802,
+    "minimumValue": 5,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 803,
+    "crossplayID": 803,
+    "effectID": 2803,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 804,
+    "crossplayID": 804,
+    "effectID": 2804,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 805,
+    "crossplayID": 805,
+    "effectID": 2805,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 806,
+    "crossplayID": 806,
+    "effectID": 2801,
+    "minimumValue": 75,
+    "maximumValue": 90,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 807,
+    "crossplayID": 807,
+    "effectID": 2802,
+    "minimumValue": 5,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 808,
+    "crossplayID": 808,
+    "effectID": 2803,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 809,
+    "crossplayID": 809,
+    "effectID": 2804,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 810,
+    "crossplayID": 810,
+    "effectID": 2805,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 811,
+    "crossplayID": 811,
+    "effectID": 2806,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 812,
+    "crossplayID": 812,
+    "effectID": 2807,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 813,
+    "crossplayID": 813,
+    "effectID": 2808,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 814,
+    "crossplayID": 814,
+    "effectID": 2809,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 815,
+    "crossplayID": 815,
+    "effectID": 2810,
+    "minimumValue": 4,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 816,
+    "crossplayID": 816,
+    "effectID": 2811,
+    "minimumValue": 2,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10001,
+    "crossplayID": 10001,
+    "effectID": 12101,
+    "minimumValue": 12,
+    "maximumValue": 17,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 10002,
+    "crossplayID": 10002,
+    "effectID": 12102,
+    "minimumValue": 112,
+    "maximumValue": 117,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10003,
+    "crossplayID": 10003,
+    "effectID": 12103,
+    "minimumValue": 112,
+    "maximumValue": 117,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10004,
+    "crossplayID": 10004,
+    "effectID": 12104,
+    "minimumValue": 72,
+    "maximumValue": 77,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10005,
+    "crossplayID": 10005,
+    "effectID": 12105,
+    "minimumValue": 82,
+    "maximumValue": 87,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10006,
+    "crossplayID": 10006,
+    "effectID": 12106,
+    "minimumValue": 82,
+    "maximumValue": 87,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10101,
+    "crossplayID": 10101,
+    "effectID": 12101,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 10102,
+    "crossplayID": 10102,
+    "effectID": 12102,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10103,
+    "crossplayID": 10103,
+    "effectID": 12103,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10104,
+    "crossplayID": 10104,
+    "effectID": 12104,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10105,
+    "crossplayID": 10105,
+    "effectID": 12105,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10106,
+    "crossplayID": 10106,
+    "effectID": 12106,
+    "minimumValue": 7.5,
+    "maximumValue": 30,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10107,
+    "crossplayID": 10107,
+    "effectID": 12101,
+    "minimumValue": 5,
+    "maximumValue": 28,
+    "relicEffectType": "normal",
+    "valueTextType": "relicDecrease"
+  },
+  {
+    "id": 10108,
+    "crossplayID": 10108,
+    "effectID": 12102,
+    "minimumValue": 8,
+    "maximumValue": 38,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10109,
+    "crossplayID": 10109,
+    "effectID": 12103,
+    "minimumValue": 8,
+    "maximumValue": 38,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10110,
+    "crossplayID": 10110,
+    "effectID": 12104,
+    "minimumValue": 8,
+    "maximumValue": 38,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10111,
+    "crossplayID": 10111,
+    "effectID": 12105,
+    "minimumValue": 8,
+    "maximumValue": 48,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10112,
+    "crossplayID": 10112,
+    "effectID": 12106,
+    "minimumValue": 8,
+    "maximumValue": 48,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10113,
+    "crossplayID": 10113,
+    "effectID": 12107,
+    "minimumValue": 5,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10114,
+    "crossplayID": 10114,
+    "effectID": 12108,
+    "minimumValue": 15,
+    "maximumValue": 95,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10115,
+    "crossplayID": 10115,
+    "effectID": 12109,
+    "minimumValue": 1,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10116,
+    "crossplayID": 10116,
+    "effectID": 12110,
+    "minimumValue": 1,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10117,
+    "crossplayID": 10117,
+    "effectID": 12111,
+    "minimumValue": 1,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10118,
+    "crossplayID": 10118,
+    "effectID": 12112,
+    "minimumValue": 10,
+    "maximumValue": 1000,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": 227
+  },
+  {
+    "id": 10119,
+    "crossplayID": 10119,
+    "effectID": 2115,
+    "minimumValue": 120,
+    "maximumValue": 750,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 10120,
+    "crossplayID": 10120,
+    "effectID": 12113,
+    "minimumValue": 120,
+    "maximumValue": 750,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 10201,
+    "crossplayID": 10201,
+    "effectID": 12107,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10202,
+    "crossplayID": 10202,
+    "effectID": 12108,
+    "minimumValue": 12.25,
+    "maximumValue": 49,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10203,
+    "crossplayID": 10203,
+    "effectID": 12201,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10204,
+    "crossplayID": 10204,
+    "effectID": 12202,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10205,
+    "crossplayID": 10205,
+    "effectID": 12203,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10206,
+    "crossplayID": 10206,
+    "effectID": 12204,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10207,
+    "crossplayID": 10207,
+    "effectID": 12205,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10208,
+    "crossplayID": 10208,
+    "effectID": 12206,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10209,
+    "crossplayID": 10209,
+    "effectID": 12201,
+    "minimumValue": 2,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10210,
+    "crossplayID": 10210,
+    "effectID": 12202,
+    "minimumValue": 2,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10211,
+    "crossplayID": 10211,
+    "effectID": 12203,
+    "minimumValue": 4,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10212,
+    "crossplayID": 10212,
+    "effectID": 12204,
+    "minimumValue": 4,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10213,
+    "crossplayID": 10213,
+    "effectID": 12205,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10214,
+    "crossplayID": 10214,
+    "effectID": 12206,
+    "minimumValue": 6,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10215,
+    "crossplayID": 10215,
+    "effectID": 12207,
+    "minimumValue": 1,
+    "maximumValue": 10,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10216,
+    "crossplayID": 10216,
+    "effectID": 12208,
+    "minimumValue": 1,
+    "maximumValue": 5,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": 1
+  },
+  {
+    "id": 10217,
+    "crossplayID": 10217,
+    "effectID": 12209,
+    "minimumValue": 1,
+    "maximumValue": 5,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": 7
+  },
+  {
+    "id": 10218,
+    "crossplayID": 10218,
+    "effectID": 12210,
+    "minimumValue": 1,
+    "maximumValue": 5,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": 10
+  },
+  {
+    "id": 10219,
+    "crossplayID": 10219,
+    "effectID": 12211,
+    "minimumValue": 1,
+    "maximumValue": 5,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": 13
+  },
+  {
+    "id": 10301,
+    "crossplayID": 10301,
+    "effectID": 12107,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10302,
+    "crossplayID": 10302,
+    "effectID": 12108,
+    "minimumValue": 12.25,
+    "maximumValue": 49,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10303,
+    "crossplayID": 10303,
+    "effectID": 12301,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10304,
+    "crossplayID": 10304,
+    "effectID": 12302,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10305,
+    "crossplayID": 10305,
+    "effectID": 12303,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10306,
+    "crossplayID": 10306,
+    "effectID": 12304,
+    "minimumValue": 3.5,
+    "maximumValue": 14,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10307,
+    "crossplayID": 10307,
+    "effectID": 12305,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10308,
+    "crossplayID": 10308,
+    "effectID": 12306,
+    "minimumValue": 1.75,
+    "maximumValue": 7,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10309,
+    "crossplayID": 10309,
+    "effectID": 12301,
+    "minimumValue": 2,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10310,
+    "crossplayID": 10310,
+    "effectID": 12302,
+    "minimumValue": 2,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10311,
+    "crossplayID": 10311,
+    "effectID": 12303,
+    "minimumValue": 4,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10312,
+    "crossplayID": 10312,
+    "effectID": 12304,
+    "minimumValue": 4,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10313,
+    "crossplayID": 10313,
+    "effectID": 12305,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10314,
+    "crossplayID": 10314,
+    "effectID": 12306,
+    "minimumValue": 6,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10315,
+    "crossplayID": 10315,
+    "effectID": 12307,
+    "minimumValue": 5,
+    "maximumValue": 40,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10316,
+    "crossplayID": 10316,
+    "effectID": 12308,
+    "minimumValue": 1,
+    "maximumValue": 10,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10317,
+    "crossplayID": 10317,
+    "effectID": 12309,
+    "minimumValue": 2,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10318,
+    "crossplayID": 10318,
+    "effectID": 12310,
+    "minimumValue": 1,
+    "maximumValue": 10,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10401,
+    "crossplayID": 10401,
+    "effectID": 12401,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10402,
+    "crossplayID": 10402,
+    "effectID": 12402,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10403,
+    "crossplayID": 10403,
+    "effectID": 12403,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10404,
+    "crossplayID": 10404,
+    "effectID": 12404,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10405,
+    "crossplayID": 10405,
+    "effectID": 12405,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10406,
+    "crossplayID": 10406,
+    "effectID": 12401,
+    "minimumValue": 5,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10407,
+    "crossplayID": 10407,
+    "effectID": 12402,
+    "minimumValue": 5,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10408,
+    "crossplayID": 10408,
+    "effectID": 12403,
+    "minimumValue": 5,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10409,
+    "crossplayID": 10409,
+    "effectID": 12404,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10410,
+    "crossplayID": 10410,
+    "effectID": 12405,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10411,
+    "crossplayID": 10411,
+    "effectID": 12406,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10412,
+    "crossplayID": 10412,
+    "effectID": 12407,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10413,
+    "crossplayID": 10413,
+    "effectID": 12408,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10414,
+    "crossplayID": 10414,
+    "effectID": 12409,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10415,
+    "crossplayID": 10415,
+    "effectID": 12410,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": 1
+  },
+  {
+    "id": 10416,
+    "crossplayID": 10416,
+    "effectID": 12411,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": 7
+  },
+  {
+    "id": 10417,
+    "crossplayID": 10417,
+    "effectID": 12412,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": 10
+  },
+  {
+    "id": 10418,
+    "crossplayID": 10418,
+    "effectID": 12413,
+    "minimumValue": 2,
+    "maximumValue": 15,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": 13
+  },
+  {
+    "id": 10501,
+    "crossplayID": 10501,
+    "effectID": 12501,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10502,
+    "crossplayID": 10502,
+    "effectID": 12502,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10503,
+    "crossplayID": 10503,
+    "effectID": 12503,
+    "minimumValue": 75,
+    "maximumValue": 90,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10504,
+    "crossplayID": 10504,
+    "effectID": 12504,
+    "minimumValue": 5,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10505,
+    "crossplayID": 10505,
+    "effectID": 12505,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10506,
+    "crossplayID": 10506,
+    "effectID": 12506,
+    "minimumValue": 4.5,
+    "maximumValue": 18,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10507,
+    "crossplayID": 10507,
+    "effectID": 12501,
+    "minimumValue": 5,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10508,
+    "crossplayID": 10508,
+    "effectID": 12502,
+    "minimumValue": 5,
+    "maximumValue": 20,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10509,
+    "crossplayID": 10509,
+    "effectID": 12503,
+    "minimumValue": 75,
+    "maximumValue": 90,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10510,
+    "crossplayID": 10510,
+    "effectID": 12504,
+    "minimumValue": 5,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10511,
+    "crossplayID": 10511,
+    "effectID": 12505,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10512,
+    "crossplayID": 10512,
+    "effectID": 12506,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10513,
+    "crossplayID": 10513,
+    "effectID": 12507,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10514,
+    "crossplayID": 10514,
+    "effectID": 12508,
+    "minimumValue": 8,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10515,
+    "crossplayID": 10515,
+    "effectID": 12509,
+    "minimumValue": 5,
+    "maximumValue": 35,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10516,
+    "crossplayID": 10516,
+    "effectID": 12510,
+    "minimumValue": 11,
+    "maximumValue": 55,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10517,
+    "crossplayID": 10517,
+    "effectID": 12511,
+    "minimumValue": 4,
+    "maximumValue": 45,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 10518,
+    "crossplayID": 10518,
+    "effectID": 12512,
+    "minimumValue": 2,
+    "maximumValue": 25,
+    "relicEffectType": "normal",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 20001,
+    "crossplayID": 20001,
+    "effectID": 22001,
+    "minimumValue": 4,
+    "maximumValue": 12,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": "672,664,686,687,75,76"
+  },
+  {
+    "id": 20002,
+    "crossplayID": 20002,
+    "effectID": 22002,
+    "minimumValue": 4,
+    "maximumValue": 12,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": "9,10,714,715,58,59"
+  },
+  {
+    "id": 20003,
+    "crossplayID": 20003,
+    "effectID": 22003,
+    "minimumValue": 4,
+    "maximumValue": 12,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": "18,19,20,21"
+  },
+  {
+    "id": 20004,
+    "crossplayID": 20004,
+    "effectID": 22004,
+    "minimumValue": 4,
+    "maximumValue": 12,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": "22,23"
+  },
+  {
+    "id": 20005,
+    "crossplayID": 20005,
+    "effectID": 22005,
+    "minimumValue": 4,
+    "maximumValue": 12,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": "148,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,150,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,149,2060,2061,2062,2063,2064,2065,2066,2067,2068,2069,151,2070,2071,2072,2073,2074,2075,2076,2077,2078,2079"
+  },
+  {
+    "id": 20006,
+    "crossplayID": 20006,
+    "effectID": 22006,
+    "minimumValue": 30,
+    "maximumValue": 120,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": 620
+  },
+  {
+    "id": 20007,
+    "crossplayID": 20007,
+    "effectID": 22007,
+    "minimumValue": 9,
+    "maximumValue": 36,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": "672,664,686,687,75,76"
+  },
+  {
+    "id": 20008,
+    "crossplayID": 20008,
+    "effectID": 22008,
+    "minimumValue": 9,
+    "maximumValue": 36,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": "9,10,714,715,58,59"
+  },
+  {
+    "id": 20009,
+    "crossplayID": 20009,
+    "effectID": 22009,
+    "minimumValue": 9,
+    "maximumValue": 36,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": "18,19,20,21"
+  },
+  {
+    "id": 20010,
+    "crossplayID": 20010,
+    "effectID": 22010,
+    "minimumValue": 9,
+    "maximumValue": 36,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": "22,23"
+  },
+  {
+    "id": 20011,
+    "crossplayID": 20011,
+    "effectID": 22011,
+    "minimumValue": 9,
+    "maximumValue": 36,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncrease",
+    "effectValueKeys": "148,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,150,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,149,2060,2061,2062,2063,2064,2065,2066,2067,2068,2069,151,2070,2071,2072,2073,2074,2075,2076,2077,2078,2079"
+  },
+  {
+    "id": 20012,
+    "crossplayID": 20012,
+    "effectID": 22001,
+    "minimumValue": 20,
+    "maximumValue": 60,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": "672,664,686,687,75,76"
+  },
+  {
+    "id": 20013,
+    "crossplayID": 20013,
+    "effectID": 22002,
+    "minimumValue": 10,
+    "maximumValue": 40,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": "9,10,714,715,58,59"
+  },
+  {
+    "id": 20014,
+    "crossplayID": 20014,
+    "effectID": 22003,
+    "minimumValue": 20,
+    "maximumValue": 60,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": "18,19,20,21"
+  },
+  {
+    "id": 20015,
+    "crossplayID": 20015,
+    "effectID": 22004,
+    "minimumValue": 20,
+    "maximumValue": 60,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": "22,23"
+  },
+  {
+    "id": 20016,
+    "crossplayID": 20016,
+    "effectID": 22005,
+    "minimumValue": 10,
+    "maximumValue": 40,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": "148,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,150,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,149,2060,2061,2062,2063,2064,2065,2066,2067,2068,2069,151,2070,2071,2072,2073,2074,2075,2076,2077,2078,2079"
+  },
+  {
+    "id": 20017,
+    "crossplayID": 20017,
+    "effectID": 22012,
+    "minimumValue": 5,
+    "maximumValue": 20,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt",
+    "effectValueKeys": "195,196,197,198,199,200,201,202,203,204,215,205,206,207,208,209,210,211,212,213,214,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238"
+  },
+  {
+    "id": 20018,
+    "crossplayID": 20018,
+    "effectID": 22013,
+    "minimumValue": 1,
+    "maximumValue": 1,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 20019,
+    "crossplayID": 20019,
+    "effectID": 22014,
+    "minimumValue": 5,
+    "maximumValue": 15,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 20020,
+    "crossplayID": 20020,
+    "effectID": 22015,
+    "minimumValue": 10,
+    "maximumValue": 25,
+    "relicEffectType": "unitTool",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 30001,
+    "crossplayID": 30001,
+    "effectID": 32001,
+    "minimumValue": 60,
+    "maximumValue": 240,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 30002,
+    "crossplayID": 30002,
+    "effectID": 32002,
+    "minimumValue": 30,
+    "maximumValue": 120,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 30003,
+    "crossplayID": 30003,
+    "effectID": 32003,
+    "minimumValue": 15,
+    "maximumValue": 60,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 30004,
+    "crossplayID": 30004,
+    "effectID": 32004,
+    "minimumValue": 300,
+    "maximumValue": 1200,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 30005,
+    "crossplayID": 30005,
+    "effectID": 32005,
+    "minimumValue": 150,
+    "maximumValue": 600,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 30006,
+    "crossplayID": 30006,
+    "effectID": 32006,
+    "minimumValue": 300,
+    "maximumValue": 1200,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 30007,
+    "crossplayID": 30007,
+    "effectID": 32007,
+    "minimumValue": 15,
+    "maximumValue": 60,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 30008,
+    "crossplayID": 30008,
+    "effectID": 32008,
+    "minimumValue": 22.5,
+    "maximumValue": 90,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 30009,
+    "crossplayID": 30009,
+    "effectID": 32001,
+    "minimumValue": 100,
+    "maximumValue": 300,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 30010,
+    "crossplayID": 30010,
+    "effectID": 32002,
+    "minimumValue": 60,
+    "maximumValue": 200,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 30011,
+    "crossplayID": 30011,
+    "effectID": 32003,
+    "minimumValue": 30,
+    "maximumValue": 75,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 30012,
+    "crossplayID": 30012,
+    "effectID": 32004,
+    "minimumValue": 600,
+    "maximumValue": 2400,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 30013,
+    "crossplayID": 30013,
+    "effectID": 32005,
+    "minimumValue": 300,
+    "maximumValue": 1200,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 30014,
+    "crossplayID": 30014,
+    "effectID": 32006,
+    "minimumValue": 3000,
+    "maximumValue": 10000,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 30015,
+    "crossplayID": 30015,
+    "effectID": 32007,
+    "minimumValue": 30,
+    "maximumValue": 75,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 30016,
+    "crossplayID": 30016,
+    "effectID": 32008,
+    "minimumValue": 50,
+    "maximumValue": 300,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 30017,
+    "crossplayID": 30017,
+    "effectID": 32009,
+    "minimumValue": 5,
+    "maximumValue": 25,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 30018,
+    "crossplayID": 30018,
+    "effectID": 32010,
+    "minimumValue": 5,
+    "maximumValue": 25,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncrease"
+  },
+  {
+    "id": 30019,
+    "crossplayID": 30019,
+    "effectID": 32011,
+    "minimumValue": 50000,
+    "maximumValue": 200000,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  },
+  {
+    "id": 30020,
+    "crossplayID": 30020,
+    "effectID": 32012,
+    "minimumValue": 50000,
+    "maximumValue": 200000,
+    "relicEffectType": "economy",
+    "valueTextType": "relicIncreaseInt"
+  }
+]

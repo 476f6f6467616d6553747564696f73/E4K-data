@@ -1,9 +1,9 @@
-scripts/
-raw/
-images-apk/
-languages_/
 node_modules/
 .idea/
+
+scripts/
+raw/
+
 images/images/
 images/shapes/
 images/sprites/

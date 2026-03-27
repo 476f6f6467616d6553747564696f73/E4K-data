@@ -503,6 +503,7 @@ export interface AllianceQuest {
     "comment3"?: string;
     "comment4": string;
     "duration": number;
+    "eventID"?: number;
     "questID": number;
     "questType": string;
     "rewardPoints": number;
@@ -2261,10 +2262,17 @@ export interface MainQuest {
 
 export interface Map {
     "animation": {
-        "asset": object[];
+        "asset": {
+            "asset": string;
+            "gateReg"?: number;
+            "leftWallReg"?: number;
+            "rightWallReg"?: number;
+            "stages"?: string;
+            "target": string;
+        }[];
         "linkageId": string;
         "name": string;
-    };
+    }[];
     "id": number;
 }
 
@@ -2410,6 +2418,7 @@ export interface Package {
     "add24HourSkip"?: number;
     "add30MinSkip"?: number;
     "add5HourSkip"?: number;
+    "add5MinSkip"?: number;
     "add60MinSkip"?: number;
     "addAshiraToken"?: number;
     "addBalloonsBoosterKey"?: number;
@@ -2501,6 +2510,11 @@ export interface Package {
     "addSamuraiToken"?: number;
     "addSasakiToken"?: number;
     "addSceatToken"?: number;
+    "addShardAlyssa"?: number;
+    "addShardHoratio"?: number;
+    "addShardLeo"?: number;
+    "addShardSasaki"?: number;
+    "addShardToril"?: number;
     "addShogunPointBoosterKey"?: number;
     "addSilverToken"?: number;
     "addSoldierBiscuit"?: number;

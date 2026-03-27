@@ -1,24 +1,22 @@
-{
-  "currencyBooster": [
-    {
-      "currencyID": 1,
-      "crossplayID": 1,
-      "currencyBoosterName": "khanTabletBooster"
-    },
-    {
-      "currencyID": 7,
-      "crossplayID": 7,
-      "currencyBoosterName": "samuraiTokenBooster"
-    },
-    {
-      "currencyID": 10,
-      "crossplayID": 10,
-      "currencyBoosterName": "khanMedalBooster"
-    },
-    {
-      "currencyID": 3,
-      "crossplayID": 3,
-      "currencyBoosterName": "pearlBooster"
-    }
-  ]
-}
+[
+  {
+    "currencyID": 1,
+    "crossplayID": 1,
+    "currencyBoosterName": "khanTabletBooster"
+  },
+  {
+    "currencyID": 7,
+    "crossplayID": 7,
+    "currencyBoosterName": "samuraiTokenBooster"
+  },
+  {
+    "currencyID": 10,
+    "crossplayID": 10,
+    "currencyBoosterName": "khanMedalBooster"
+  },
+  {
+    "currencyID": 3,
+    "crossplayID": 3,
+    "currencyBoosterName": "pearlBooster"
+  }
+]

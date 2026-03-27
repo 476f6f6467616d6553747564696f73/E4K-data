@@ -1,3138 +1,3136 @@
-{
-  "equipment_effectstrength": [
-    {
-      "strengthID": 1,
-      "crossplayID": 1,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 20,
-      "singleBonus": 20
-    },
-    {
-      "strengthID": 2,
-      "crossplayID": 2,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 21,
-      "singleBonus": 21
-    },
-    {
-      "strengthID": 3,
-      "crossplayID": 3,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 22,
-      "singleBonus": 22
-    },
-    {
-      "strengthID": 4,
-      "crossplayID": 4,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 23,
-      "singleBonus": 23
-    },
-    {
-      "strengthID": 5,
-      "crossplayID": 5,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 24,
-      "singleBonus": 24
-    },
-    {
-      "strengthID": 6,
-      "crossplayID": 6,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 25,
-      "singleBonus": 25
-    },
-    {
-      "strengthID": 7,
-      "crossplayID": 7,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 26,
-      "singleBonus": 26
-    },
-    {
-      "strengthID": 8,
-      "crossplayID": 8,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 27,
-      "singleBonus": 27
-    },
-    {
-      "strengthID": 9,
-      "crossplayID": 9,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 28,
-      "singleBonus": 28
-    },
-    {
-      "strengthID": 10,
-      "crossplayID": 10,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 29,
-      "singleBonus": 29
-    },
-    {
-      "strengthID": 11,
-      "crossplayID": 11,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 30,
-      "singleBonus": 30
-    },
-    {
-      "strengthID": 12,
-      "crossplayID": 12,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 31,
-      "singleBonus": 31
-    },
-    {
-      "strengthID": 13,
-      "crossplayID": 13,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 32,
-      "singleBonus": 32
-    },
-    {
-      "strengthID": 14,
-      "crossplayID": 14,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 33,
-      "singleBonus": 33
-    },
-    {
-      "strengthID": 15,
-      "crossplayID": 15,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 34,
-      "singleBonus": 34
-    },
-    {
-      "strengthID": 16,
-      "crossplayID": 16,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 35,
-      "singleBonus": 35
-    },
-    {
-      "strengthID": 17,
-      "crossplayID": 17,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 36,
-      "singleBonus": 36
-    },
-    {
-      "strengthID": 18,
-      "crossplayID": 18,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 37,
-      "singleBonus": 37
-    },
-    {
-      "strengthID": 19,
-      "crossplayID": 19,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 38,
-      "singleBonus": 38
-    },
-    {
-      "strengthID": 20,
-      "crossplayID": 20,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 39,
-      "singleBonus": 39
-    },
-    {
-      "strengthID": 21,
-      "crossplayID": 21,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 40,
-      "singleBonus": 40
-    },
-    {
-      "strengthID": 22,
-      "crossplayID": 22,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 41,
-      "singleBonus": 41
-    },
-    {
-      "strengthID": 23,
-      "crossplayID": 23,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 42,
-      "singleBonus": 42
-    },
-    {
-      "strengthID": 24,
-      "crossplayID": 24,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 43,
-      "singleBonus": 43
-    },
-    {
-      "strengthID": 25,
-      "crossplayID": 25,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 44,
-      "singleBonus": 44
-    },
-    {
-      "strengthID": 26,
-      "crossplayID": 26,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 1,
-      "bonus": 45,
-      "singleBonus": 45
-    },
-    {
-      "strengthID": 3001,
-      "crossplayID": 3001,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 20,
-      "singleBonus": 20
-    },
-    {
-      "strengthID": 3002,
-      "crossplayID": 3002,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 21,
-      "singleBonus": 21
-    },
-    {
-      "strengthID": 3003,
-      "crossplayID": 3003,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 22,
-      "singleBonus": 22
-    },
-    {
-      "strengthID": 3004,
-      "crossplayID": 3004,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 23,
-      "singleBonus": 23
-    },
-    {
-      "strengthID": 3005,
-      "crossplayID": 3005,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 24,
-      "singleBonus": 24
-    },
-    {
-      "strengthID": 3006,
-      "crossplayID": 3006,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 25,
-      "singleBonus": 25
-    },
-    {
-      "strengthID": 3007,
-      "crossplayID": 3007,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 26,
-      "singleBonus": 26
-    },
-    {
-      "strengthID": 3008,
-      "crossplayID": 3008,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 27,
-      "singleBonus": 27
-    },
-    {
-      "strengthID": 3009,
-      "crossplayID": 3009,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 28,
-      "singleBonus": 28
-    },
-    {
-      "strengthID": 3010,
-      "crossplayID": 3010,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 29,
-      "singleBonus": 29
-    },
-    {
-      "strengthID": 3011,
-      "crossplayID": 3011,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 30,
-      "singleBonus": 30
-    },
-    {
-      "strengthID": 3012,
-      "crossplayID": 3012,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 31,
-      "singleBonus": 31
-    },
-    {
-      "strengthID": 3013,
-      "crossplayID": 3013,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 32,
-      "singleBonus": 32
-    },
-    {
-      "strengthID": 3014,
-      "crossplayID": 3014,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 33,
-      "singleBonus": 33
-    },
-    {
-      "strengthID": 3015,
-      "crossplayID": 3015,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 34,
-      "singleBonus": 34
-    },
-    {
-      "strengthID": 3016,
-      "crossplayID": 3016,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 35,
-      "singleBonus": 35
-    },
-    {
-      "strengthID": 3017,
-      "crossplayID": 3017,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 36,
-      "singleBonus": 36
-    },
-    {
-      "strengthID": 3018,
-      "crossplayID": 3018,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 37,
-      "singleBonus": 37
-    },
-    {
-      "strengthID": 3019,
-      "crossplayID": 3019,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 38,
-      "singleBonus": 38
-    },
-    {
-      "strengthID": 3020,
-      "crossplayID": 3020,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 39,
-      "singleBonus": 39
-    },
-    {
-      "strengthID": 3021,
-      "crossplayID": 3021,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 40,
-      "singleBonus": 40
-    },
-    {
-      "strengthID": 3022,
-      "crossplayID": 3022,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 41,
-      "singleBonus": 41
-    },
-    {
-      "strengthID": 3023,
-      "crossplayID": 3023,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 42,
-      "singleBonus": 42
-    },
-    {
-      "strengthID": 3024,
-      "crossplayID": 3024,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 43,
-      "singleBonus": 43
-    },
-    {
-      "strengthID": 3025,
-      "crossplayID": 3025,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 44,
-      "singleBonus": 44
-    },
-    {
-      "strengthID": 3026,
-      "crossplayID": 3026,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 11,
-      "bonus": 45,
-      "singleBonus": 45
-    },
-    {
-      "strengthID": 101,
-      "crossplayID": 101,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 35,
-      "singleBonus": 35
-    },
-    {
-      "strengthID": 102,
-      "crossplayID": 102,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 36,
-      "singleBonus": 36
-    },
-    {
-      "strengthID": 103,
-      "crossplayID": 103,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 37,
-      "singleBonus": 37
-    },
-    {
-      "strengthID": 104,
-      "crossplayID": 104,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 38,
-      "singleBonus": 38
-    },
-    {
-      "strengthID": 105,
-      "crossplayID": 105,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 39,
-      "singleBonus": 39
-    },
-    {
-      "strengthID": 106,
-      "crossplayID": 106,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 40,
-      "singleBonus": 40
-    },
-    {
-      "strengthID": 107,
-      "crossplayID": 107,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 41,
-      "singleBonus": 41
-    },
-    {
-      "strengthID": 108,
-      "crossplayID": 108,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 42,
-      "singleBonus": 42
-    },
-    {
-      "strengthID": 109,
-      "crossplayID": 109,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 43,
-      "singleBonus": 43
-    },
-    {
-      "strengthID": 110,
-      "crossplayID": 110,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 44,
-      "singleBonus": 44
-    },
-    {
-      "strengthID": 111,
-      "crossplayID": 111,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 45,
-      "singleBonus": 45
-    },
-    {
-      "strengthID": 112,
-      "crossplayID": 112,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 46,
-      "singleBonus": 46
-    },
-    {
-      "strengthID": 113,
-      "crossplayID": 113,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 47,
-      "singleBonus": 47
-    },
-    {
-      "strengthID": 114,
-      "crossplayID": 114,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 48,
-      "singleBonus": 48
-    },
-    {
-      "strengthID": 115,
-      "crossplayID": 115,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 49,
-      "singleBonus": 49
-    },
-    {
-      "strengthID": 116,
-      "crossplayID": 116,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 50,
-      "singleBonus": 50
-    },
-    {
-      "strengthID": 117,
-      "crossplayID": 117,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 51,
-      "singleBonus": 51
-    },
-    {
-      "strengthID": 118,
-      "crossplayID": 118,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 52,
-      "singleBonus": 52
-    },
-    {
-      "strengthID": 119,
-      "crossplayID": 119,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 53,
-      "singleBonus": 53
-    },
-    {
-      "strengthID": 120,
-      "crossplayID": 120,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 54,
-      "singleBonus": 54
-    },
-    {
-      "strengthID": 121,
-      "crossplayID": 121,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 2,
-      "bonus": 55,
-      "singleBonus": 55
-    },
-    {
-      "strengthID": 3101,
-      "crossplayID": 3101,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 35,
-      "singleBonus": 35
-    },
-    {
-      "strengthID": 3102,
-      "crossplayID": 3102,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 36,
-      "singleBonus": 36
-    },
-    {
-      "strengthID": 3103,
-      "crossplayID": 3103,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 37,
-      "singleBonus": 37
-    },
-    {
-      "strengthID": 3104,
-      "crossplayID": 3104,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 38,
-      "singleBonus": 38
-    },
-    {
-      "strengthID": 3105,
-      "crossplayID": 3105,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 39,
-      "singleBonus": 39
-    },
-    {
-      "strengthID": 3106,
-      "crossplayID": 3106,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 40,
-      "singleBonus": 40
-    },
-    {
-      "strengthID": 3107,
-      "crossplayID": 3107,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 41,
-      "singleBonus": 41
-    },
-    {
-      "strengthID": 3108,
-      "crossplayID": 3108,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 42,
-      "singleBonus": 42
-    },
-    {
-      "strengthID": 3109,
-      "crossplayID": 3109,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 43,
-      "singleBonus": 43
-    },
-    {
-      "strengthID": 3110,
-      "crossplayID": 3110,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 44,
-      "singleBonus": 44
-    },
-    {
-      "strengthID": 3111,
-      "crossplayID": 3111,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 45,
-      "singleBonus": 45
-    },
-    {
-      "strengthID": 3112,
-      "crossplayID": 3112,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 46,
-      "singleBonus": 46
-    },
-    {
-      "strengthID": 3113,
-      "crossplayID": 3113,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 47,
-      "singleBonus": 47
-    },
-    {
-      "strengthID": 3114,
-      "crossplayID": 3114,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 48,
-      "singleBonus": 48
-    },
-    {
-      "strengthID": 3115,
-      "crossplayID": 3115,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 49,
-      "singleBonus": 49
-    },
-    {
-      "strengthID": 3116,
-      "crossplayID": 3116,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 50,
-      "singleBonus": 50
-    },
-    {
-      "strengthID": 3117,
-      "crossplayID": 3117,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 51,
-      "singleBonus": 51
-    },
-    {
-      "strengthID": 3118,
-      "crossplayID": 3118,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 52,
-      "singleBonus": 52
-    },
-    {
-      "strengthID": 3119,
-      "crossplayID": 3119,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 53,
-      "singleBonus": 53
-    },
-    {
-      "strengthID": 3120,
-      "crossplayID": 3120,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 54,
-      "singleBonus": 54
-    },
-    {
-      "strengthID": 3121,
-      "crossplayID": 3121,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 12,
-      "bonus": 55,
-      "singleBonus": 55
-    },
-    {
-      "strengthID": 201,
-      "crossplayID": 201,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 50,
-      "singleBonus": 50
-    },
-    {
-      "strengthID": 202,
-      "crossplayID": 202,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 51,
-      "singleBonus": 51
-    },
-    {
-      "strengthID": 203,
-      "crossplayID": 203,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 52,
-      "singleBonus": 52
-    },
-    {
-      "strengthID": 204,
-      "crossplayID": 204,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 53,
-      "singleBonus": 53
-    },
-    {
-      "strengthID": 205,
-      "crossplayID": 205,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 54,
-      "singleBonus": 54
-    },
-    {
-      "strengthID": 206,
-      "crossplayID": 206,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 55,
-      "singleBonus": 55
-    },
-    {
-      "strengthID": 207,
-      "crossplayID": 207,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 56,
-      "singleBonus": 56
-    },
-    {
-      "strengthID": 208,
-      "crossplayID": 208,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 57,
-      "singleBonus": 57
-    },
-    {
-      "strengthID": 209,
-      "crossplayID": 209,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 58,
-      "singleBonus": 58
-    },
-    {
-      "strengthID": 210,
-      "crossplayID": 210,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 59,
-      "singleBonus": 59
-    },
-    {
-      "strengthID": 211,
-      "crossplayID": 211,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 60,
-      "singleBonus": 60
-    },
-    {
-      "strengthID": 212,
-      "crossplayID": 212,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 61,
-      "singleBonus": 61
-    },
-    {
-      "strengthID": 213,
-      "crossplayID": 213,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 62,
-      "singleBonus": 62
-    },
-    {
-      "strengthID": 214,
-      "crossplayID": 214,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 63,
-      "singleBonus": 63
-    },
-    {
-      "strengthID": 215,
-      "crossplayID": 215,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 64,
-      "singleBonus": 64
-    },
-    {
-      "strengthID": 216,
-      "crossplayID": 216,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 65,
-      "singleBonus": 65
-    },
-    {
-      "strengthID": 217,
-      "crossplayID": 217,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 66,
-      "singleBonus": 66
-    },
-    {
-      "strengthID": 218,
-      "crossplayID": 218,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 67,
-      "singleBonus": 67
-    },
-    {
-      "strengthID": 219,
-      "crossplayID": 219,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 68,
-      "singleBonus": 68
-    },
-    {
-      "strengthID": 220,
-      "crossplayID": 220,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 69,
-      "singleBonus": 69
-    },
-    {
-      "strengthID": 221,
-      "crossplayID": 221,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 3,
-      "bonus": 70,
-      "singleBonus": 70
-    },
-    {
-      "strengthID": 3201,
-      "crossplayID": 3201,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 50,
-      "singleBonus": 50
-    },
-    {
-      "strengthID": 3202,
-      "crossplayID": 3202,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 51,
-      "singleBonus": 51
-    },
-    {
-      "strengthID": 3203,
-      "crossplayID": 3203,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 52,
-      "singleBonus": 52
-    },
-    {
-      "strengthID": 3204,
-      "crossplayID": 3204,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 53,
-      "singleBonus": 53
-    },
-    {
-      "strengthID": 3205,
-      "crossplayID": 3205,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 54,
-      "singleBonus": 54
-    },
-    {
-      "strengthID": 3206,
-      "crossplayID": 3206,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 55,
-      "singleBonus": 55
-    },
-    {
-      "strengthID": 3207,
-      "crossplayID": 3207,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 56,
-      "singleBonus": 56
-    },
-    {
-      "strengthID": 3208,
-      "crossplayID": 3208,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 57,
-      "singleBonus": 57
-    },
-    {
-      "strengthID": 3209,
-      "crossplayID": 3209,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 58,
-      "singleBonus": 58
-    },
-    {
-      "strengthID": 3210,
-      "crossplayID": 3210,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 59,
-      "singleBonus": 59
-    },
-    {
-      "strengthID": 3211,
-      "crossplayID": 3211,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 60,
-      "singleBonus": 60
-    },
-    {
-      "strengthID": 3212,
-      "crossplayID": 3212,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 61,
-      "singleBonus": 61
-    },
-    {
-      "strengthID": 3213,
-      "crossplayID": 3213,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 62,
-      "singleBonus": 62
-    },
-    {
-      "strengthID": 3214,
-      "crossplayID": 3214,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 63,
-      "singleBonus": 63
-    },
-    {
-      "strengthID": 3215,
-      "crossplayID": 3215,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 64,
-      "singleBonus": 64
-    },
-    {
-      "strengthID": 3216,
-      "crossplayID": 3216,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 65,
-      "singleBonus": 65
-    },
-    {
-      "strengthID": 3217,
-      "crossplayID": 3217,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 66,
-      "singleBonus": 66
-    },
-    {
-      "strengthID": 3218,
-      "crossplayID": 3218,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 67,
-      "singleBonus": 67
-    },
-    {
-      "strengthID": 3219,
-      "crossplayID": 3219,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 68,
-      "singleBonus": 68
-    },
-    {
-      "strengthID": 3220,
-      "crossplayID": 3220,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 69,
-      "singleBonus": 69
-    },
-    {
-      "strengthID": 3221,
-      "crossplayID": 3221,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 13,
-      "bonus": 70,
-      "singleBonus": 70
-    },
-    {
-      "strengthID": 301,
-      "crossplayID": 301,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 85,
-      "singleBonus": 85
-    },
-    {
-      "strengthID": 302,
-      "crossplayID": 302,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 86,
-      "singleBonus": 86
-    },
-    {
-      "strengthID": 303,
-      "crossplayID": 303,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 87,
-      "singleBonus": 87
-    },
-    {
-      "strengthID": 304,
-      "crossplayID": 304,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 88,
-      "singleBonus": 88
-    },
-    {
-      "strengthID": 305,
-      "crossplayID": 305,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 89,
-      "singleBonus": 89
-    },
-    {
-      "strengthID": 306,
-      "crossplayID": 306,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 90,
-      "singleBonus": 90
-    },
-    {
-      "strengthID": 307,
-      "crossplayID": 307,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 91,
-      "singleBonus": 91
-    },
-    {
-      "strengthID": 308,
-      "crossplayID": 308,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 92,
-      "singleBonus": 92
-    },
-    {
-      "strengthID": 309,
-      "crossplayID": 309,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 93,
-      "singleBonus": 93
-    },
-    {
-      "strengthID": 310,
-      "crossplayID": 310,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 94,
-      "singleBonus": 94
-    },
-    {
-      "strengthID": 311,
-      "crossplayID": 311,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 95,
-      "singleBonus": 95
-    },
-    {
-      "strengthID": 312,
-      "crossplayID": 312,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 96,
-      "singleBonus": 96
-    },
-    {
-      "strengthID": 313,
-      "crossplayID": 313,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 97,
-      "singleBonus": 97
-    },
-    {
-      "strengthID": 314,
-      "crossplayID": 314,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 98,
-      "singleBonus": 98
-    },
-    {
-      "strengthID": 315,
-      "crossplayID": 315,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 99,
-      "singleBonus": 99
-    },
-    {
-      "strengthID": 316,
-      "crossplayID": 316,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 4,
-      "bonus": 100,
-      "singleBonus": 100
-    },
-    {
-      "strengthID": 3301,
-      "crossplayID": 3301,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 85,
-      "singleBonus": 85
-    },
-    {
-      "strengthID": 3302,
-      "crossplayID": 3302,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 86,
-      "singleBonus": 86
-    },
-    {
-      "strengthID": 3303,
-      "crossplayID": 3303,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 87,
-      "singleBonus": 87
-    },
-    {
-      "strengthID": 3304,
-      "crossplayID": 3304,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 88,
-      "singleBonus": 88
-    },
-    {
-      "strengthID": 3305,
-      "crossplayID": 3305,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 89,
-      "singleBonus": 89
-    },
-    {
-      "strengthID": 3306,
-      "crossplayID": 3306,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 90,
-      "singleBonus": 90
-    },
-    {
-      "strengthID": 3307,
-      "crossplayID": 3307,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 91,
-      "singleBonus": 91
-    },
-    {
-      "strengthID": 3308,
-      "crossplayID": 3308,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 92,
-      "singleBonus": 92
-    },
-    {
-      "strengthID": 3309,
-      "crossplayID": 3309,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 93,
-      "singleBonus": 93
-    },
-    {
-      "strengthID": 3310,
-      "crossplayID": 3310,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 94,
-      "singleBonus": 94
-    },
-    {
-      "strengthID": 3311,
-      "crossplayID": 3311,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 95,
-      "singleBonus": 95
-    },
-    {
-      "strengthID": 3312,
-      "crossplayID": 3312,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 96,
-      "singleBonus": 96
-    },
-    {
-      "strengthID": 3313,
-      "crossplayID": 3313,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 97,
-      "singleBonus": 97
-    },
-    {
-      "strengthID": 3314,
-      "crossplayID": 3314,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 98,
-      "singleBonus": 98
-    },
-    {
-      "strengthID": 3315,
-      "crossplayID": 3315,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 99,
-      "singleBonus": 99
-    },
-    {
-      "strengthID": 3316,
-      "crossplayID": 3316,
-      "dropRate": 1,
-      "primary": 1,
-      "rarenessID": 14,
-      "bonus": 100,
-      "singleBonus": 100
-    },
-    {
-      "strengthID": 601,
-      "crossplayID": 601,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 15,
-      "singleBonus": 15
-    },
-    {
-      "strengthID": 602,
-      "crossplayID": 602,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 16,
-      "singleBonus": 16
-    },
-    {
-      "strengthID": 603,
-      "crossplayID": 603,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 17,
-      "singleBonus": 17
-    },
-    {
-      "strengthID": 604,
-      "crossplayID": 604,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 18,
-      "singleBonus": 18
-    },
-    {
-      "strengthID": 605,
-      "crossplayID": 605,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 19,
-      "singleBonus": 19
-    },
-    {
-      "strengthID": 606,
-      "crossplayID": 606,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 20,
-      "singleBonus": 20
-    },
-    {
-      "strengthID": 607,
-      "crossplayID": 607,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 21,
-      "singleBonus": 21
-    },
-    {
-      "strengthID": 608,
-      "crossplayID": 608,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 22,
-      "singleBonus": 22
-    },
-    {
-      "strengthID": 609,
-      "crossplayID": 609,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 23,
-      "singleBonus": 23
-    },
-    {
-      "strengthID": 610,
-      "crossplayID": 610,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 24,
-      "singleBonus": 24
-    },
-    {
-      "strengthID": 611,
-      "crossplayID": 611,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 25,
-      "singleBonus": 25
-    },
-    {
-      "strengthID": 612,
-      "crossplayID": 612,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 26,
-      "singleBonus": 26
-    },
-    {
-      "strengthID": 613,
-      "crossplayID": 613,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 27,
-      "singleBonus": 27
-    },
-    {
-      "strengthID": 614,
-      "crossplayID": 614,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 28,
-      "singleBonus": 28
-    },
-    {
-      "strengthID": 615,
-      "crossplayID": 615,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 29,
-      "singleBonus": 29
-    },
-    {
-      "strengthID": 616,
-      "crossplayID": 616,
-      "dropRate": 1,
-      "rarenessID": 2,
-      "bonus": 30,
-      "singleBonus": 30
-    },
-    {
-      "strengthID": 701,
-      "crossplayID": 701,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 20,
-      "singleBonus": 20
-    },
-    {
-      "strengthID": 702,
-      "crossplayID": 702,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 21,
-      "singleBonus": 21
-    },
-    {
-      "strengthID": 703,
-      "crossplayID": 703,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 22,
-      "singleBonus": 22
-    },
-    {
-      "strengthID": 704,
-      "crossplayID": 704,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 23,
-      "singleBonus": 23
-    },
-    {
-      "strengthID": 705,
-      "crossplayID": 705,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 24,
-      "singleBonus": 24
-    },
-    {
-      "strengthID": 706,
-      "crossplayID": 706,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 25,
-      "singleBonus": 25
-    },
-    {
-      "strengthID": 707,
-      "crossplayID": 707,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 26,
-      "singleBonus": 26
-    },
-    {
-      "strengthID": 708,
-      "crossplayID": 708,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 27,
-      "singleBonus": 27
-    },
-    {
-      "strengthID": 709,
-      "crossplayID": 709,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 28,
-      "singleBonus": 28
-    },
-    {
-      "strengthID": 710,
-      "crossplayID": 710,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 29,
-      "singleBonus": 29
-    },
-    {
-      "strengthID": 711,
-      "crossplayID": 711,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 30,
-      "singleBonus": 30
-    },
-    {
-      "strengthID": 712,
-      "crossplayID": 712,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 31,
-      "singleBonus": 31
-    },
-    {
-      "strengthID": 713,
-      "crossplayID": 713,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 32,
-      "singleBonus": 32
-    },
-    {
-      "strengthID": 714,
-      "crossplayID": 714,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 33,
-      "singleBonus": 33
-    },
-    {
-      "strengthID": 715,
-      "crossplayID": 715,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 34,
-      "singleBonus": 34
-    },
-    {
-      "strengthID": 716,
-      "crossplayID": 716,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 35,
-      "singleBonus": 35
-    },
-    {
-      "strengthID": 717,
-      "crossplayID": 717,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 36,
-      "singleBonus": 36
-    },
-    {
-      "strengthID": 718,
-      "crossplayID": 718,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 37,
-      "singleBonus": 37
-    },
-    {
-      "strengthID": 719,
-      "crossplayID": 719,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 38,
-      "singleBonus": 38
-    },
-    {
-      "strengthID": 720,
-      "crossplayID": 720,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 39,
-      "singleBonus": 39
-    },
-    {
-      "strengthID": 721,
-      "crossplayID": 721,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 40,
-      "singleBonus": 40
-    },
-    {
-      "strengthID": 722,
-      "crossplayID": 722,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 41,
-      "singleBonus": 41
-    },
-    {
-      "strengthID": 723,
-      "crossplayID": 723,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 42,
-      "singleBonus": 42
-    },
-    {
-      "strengthID": 724,
-      "crossplayID": 724,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 43,
-      "singleBonus": 43
-    },
-    {
-      "strengthID": 725,
-      "crossplayID": 725,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 44,
-      "singleBonus": 44
-    },
-    {
-      "strengthID": 726,
-      "crossplayID": 726,
-      "dropRate": 1,
-      "rarenessID": 3,
-      "bonus": 45,
-      "singleBonus": 45
-    },
-    {
-      "strengthID": 801,
-      "crossplayID": 801,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 55,
-      "singleBonus": 55
-    },
-    {
-      "strengthID": 802,
-      "crossplayID": 802,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 56,
-      "singleBonus": 56
-    },
-    {
-      "strengthID": 803,
-      "crossplayID": 803,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 57,
-      "singleBonus": 57
-    },
-    {
-      "strengthID": 804,
-      "crossplayID": 804,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 58,
-      "singleBonus": 58
-    },
-    {
-      "strengthID": 805,
-      "crossplayID": 805,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 59,
-      "singleBonus": 59
-    },
-    {
-      "strengthID": 806,
-      "crossplayID": 806,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 60,
-      "singleBonus": 60
-    },
-    {
-      "strengthID": 807,
-      "crossplayID": 807,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 61,
-      "singleBonus": 61
-    },
-    {
-      "strengthID": 808,
-      "crossplayID": 808,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 62,
-      "singleBonus": 62
-    },
-    {
-      "strengthID": 809,
-      "crossplayID": 809,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 63,
-      "singleBonus": 63
-    },
-    {
-      "strengthID": 810,
-      "crossplayID": 810,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 64,
-      "singleBonus": 64
-    },
-    {
-      "strengthID": 811,
-      "crossplayID": 811,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 65,
-      "singleBonus": 65
-    },
-    {
-      "strengthID": 812,
-      "crossplayID": 812,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 66,
-      "singleBonus": 66
-    },
-    {
-      "strengthID": 813,
-      "crossplayID": 813,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 67,
-      "singleBonus": 67
-    },
-    {
-      "strengthID": 814,
-      "crossplayID": 814,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 68,
-      "singleBonus": 68
-    },
-    {
-      "strengthID": 815,
-      "crossplayID": 815,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 69,
-      "singleBonus": 69
-    },
-    {
-      "strengthID": 816,
-      "crossplayID": 816,
-      "dropRate": 1,
-      "rarenessID": 4,
-      "bonus": 70,
-      "singleBonus": 70
-    },
-    {
-      "strengthID": 3801,
-      "crossplayID": 3801,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 20,
-      "singleBonus": 20
-    },
-    {
-      "strengthID": 3802,
-      "crossplayID": 3802,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 21,
-      "singleBonus": 21
-    },
-    {
-      "strengthID": 3803,
-      "crossplayID": 3803,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 22,
-      "singleBonus": 22
-    },
-    {
-      "strengthID": 3804,
-      "crossplayID": 3804,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 23,
-      "singleBonus": 23
-    },
-    {
-      "strengthID": 3805,
-      "crossplayID": 3805,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 24,
-      "singleBonus": 24
-    },
-    {
-      "strengthID": 3806,
-      "crossplayID": 3806,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 25,
-      "singleBonus": 25
-    },
-    {
-      "strengthID": 3807,
-      "crossplayID": 3807,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 26,
-      "singleBonus": 26
-    },
-    {
-      "strengthID": 3808,
-      "crossplayID": 3808,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 27,
-      "singleBonus": 27
-    },
-    {
-      "strengthID": 3809,
-      "crossplayID": 3809,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 28,
-      "singleBonus": 28
-    },
-    {
-      "strengthID": 3810,
-      "crossplayID": 3810,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 29,
-      "singleBonus": 29
-    },
-    {
-      "strengthID": 3811,
-      "crossplayID": 3811,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 30,
-      "singleBonus": 30
-    },
-    {
-      "strengthID": 3812,
-      "crossplayID": 3812,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 31,
-      "singleBonus": 31
-    },
-    {
-      "strengthID": 3813,
-      "crossplayID": 3813,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 32,
-      "singleBonus": 32
-    },
-    {
-      "strengthID": 3814,
-      "crossplayID": 3814,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 33,
-      "singleBonus": 33
-    },
-    {
-      "strengthID": 3815,
-      "crossplayID": 3815,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 34,
-      "singleBonus": 34
-    },
-    {
-      "strengthID": 3816,
-      "crossplayID": 3816,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 35,
-      "singleBonus": 35
-    },
-    {
-      "strengthID": 3817,
-      "crossplayID": 3817,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 36,
-      "singleBonus": 36
-    },
-    {
-      "strengthID": 3818,
-      "crossplayID": 3818,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 37,
-      "singleBonus": 37
-    },
-    {
-      "strengthID": 3819,
-      "crossplayID": 3819,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 38,
-      "singleBonus": 38
-    },
-    {
-      "strengthID": 3820,
-      "crossplayID": 3820,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 39,
-      "singleBonus": 39
-    },
-    {
-      "strengthID": 3821,
-      "crossplayID": 3821,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 40,
-      "singleBonus": 40
-    },
-    {
-      "strengthID": 3822,
-      "crossplayID": 3822,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 41,
-      "singleBonus": 41
-    },
-    {
-      "strengthID": 3823,
-      "crossplayID": 3823,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 42,
-      "singleBonus": 42
-    },
-    {
-      "strengthID": 3824,
-      "crossplayID": 3824,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 43,
-      "singleBonus": 43
-    },
-    {
-      "strengthID": 3825,
-      "crossplayID": 3825,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 44,
-      "singleBonus": 44
-    },
-    {
-      "strengthID": 3826,
-      "crossplayID": 3826,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 45,
-      "singleBonus": 45
-    },
-    {
-      "strengthID": 3827,
-      "crossplayID": 3827,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 46,
-      "singleBonus": 46
-    },
-    {
-      "strengthID": 3828,
-      "crossplayID": 3828,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 47,
-      "singleBonus": 47
-    },
-    {
-      "strengthID": 3829,
-      "crossplayID": 3829,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 48,
-      "singleBonus": 48
-    },
-    {
-      "strengthID": 3830,
-      "crossplayID": 3830,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 49,
-      "singleBonus": 49
-    },
-    {
-      "strengthID": 3831,
-      "crossplayID": 3831,
-      "dropRate": 1,
-      "rarenessID": 14,
-      "bonus": 50,
-      "singleBonus": 50
-    },
-    {
-      "strengthID": 1001,
-      "crossplayID": 1001,
-      "bonus": 1,
-      "singleBonus": 1
-    },
-    {
-      "strengthID": 1002,
-      "crossplayID": 1002,
-      "bonus": 2,
-      "singleBonus": 2
-    },
-    {
-      "strengthID": 1003,
-      "crossplayID": 1003,
-      "bonus": 3,
-      "singleBonus": 3
-    },
-    {
-      "strengthID": 1004,
-      "crossplayID": 1004,
-      "bonus": 4,
-      "singleBonus": 4
-    },
-    {
-      "strengthID": 1005,
-      "crossplayID": 1005,
-      "bonus": 5,
-      "singleBonus": 5
-    },
-    {
-      "strengthID": 1006,
-      "crossplayID": 1006,
-      "bonus": 6,
-      "singleBonus": 6
-    },
-    {
-      "strengthID": 1007,
-      "crossplayID": 1007,
-      "bonus": 7,
-      "singleBonus": 7
-    },
-    {
-      "strengthID": 1008,
-      "crossplayID": 1008,
-      "bonus": 8,
-      "singleBonus": 8
-    },
-    {
-      "strengthID": 1009,
-      "crossplayID": 1009,
-      "bonus": 9,
-      "singleBonus": 9
-    },
-    {
-      "strengthID": 1010,
-      "crossplayID": 1010,
-      "bonus": 10,
-      "singleBonus": 10
-    },
-    {
-      "strengthID": 1011,
-      "crossplayID": 1011,
-      "bonus": 11,
-      "singleBonus": 11
-    },
-    {
-      "strengthID": 1012,
-      "crossplayID": 1012,
-      "bonus": 12,
-      "singleBonus": 12
-    },
-    {
-      "strengthID": 1013,
-      "crossplayID": 1013,
-      "bonus": 13,
-      "singleBonus": 13
-    },
-    {
-      "strengthID": 1014,
-      "crossplayID": 1014,
-      "bonus": 14,
-      "singleBonus": 14
-    },
-    {
-      "strengthID": 1015,
-      "crossplayID": 1015,
-      "bonus": 15,
-      "singleBonus": 15
-    },
-    {
-      "strengthID": 1016,
-      "crossplayID": 1016,
-      "bonus": 16,
-      "singleBonus": 16
-    },
-    {
-      "strengthID": 1017,
-      "crossplayID": 1017,
-      "bonus": 17,
-      "singleBonus": 17
-    },
-    {
-      "strengthID": 1018,
-      "crossplayID": 1018,
-      "bonus": 18,
-      "singleBonus": 18
-    },
-    {
-      "strengthID": 1019,
-      "crossplayID": 1019,
-      "bonus": 19,
-      "singleBonus": 19
-    },
-    {
-      "strengthID": 1020,
-      "crossplayID": 1020,
-      "bonus": 20,
-      "singleBonus": 20
-    },
-    {
-      "strengthID": 1021,
-      "crossplayID": 1021,
-      "bonus": 21,
-      "singleBonus": 21
-    },
-    {
-      "strengthID": 1022,
-      "crossplayID": 1022,
-      "bonus": 22,
-      "singleBonus": 22
-    },
-    {
-      "strengthID": 1023,
-      "crossplayID": 1023,
-      "bonus": 23,
-      "singleBonus": 23
-    },
-    {
-      "strengthID": 1024,
-      "crossplayID": 1024,
-      "bonus": 24,
-      "singleBonus": 24
-    },
-    {
-      "strengthID": 1025,
-      "crossplayID": 1025,
-      "bonus": 25,
-      "singleBonus": 25
-    },
-    {
-      "strengthID": 1026,
-      "crossplayID": 1026,
-      "bonus": 26,
-      "singleBonus": 26
-    },
-    {
-      "strengthID": 1027,
-      "crossplayID": 1027,
-      "bonus": 27,
-      "singleBonus": 27
-    },
-    {
-      "strengthID": 1028,
-      "crossplayID": 1028,
-      "bonus": 28,
-      "singleBonus": 28
-    },
-    {
-      "strengthID": 1029,
-      "crossplayID": 1029,
-      "bonus": 29,
-      "singleBonus": 29
-    },
-    {
-      "strengthID": 1030,
-      "crossplayID": 1030,
-      "bonus": 30,
-      "singleBonus": 30
-    },
-    {
-      "strengthID": 1031,
-      "crossplayID": 1031,
-      "bonus": 31,
-      "singleBonus": 31
-    },
-    {
-      "strengthID": 1032,
-      "crossplayID": 1032,
-      "bonus": 32,
-      "singleBonus": 32
-    },
-    {
-      "strengthID": 1033,
-      "crossplayID": 1033,
-      "bonus": 33,
-      "singleBonus": 33
-    },
-    {
-      "strengthID": 1034,
-      "crossplayID": 1034,
-      "bonus": 34,
-      "singleBonus": 34
-    },
-    {
-      "strengthID": 1035,
-      "crossplayID": 1035,
-      "bonus": 35,
-      "singleBonus": 35
-    },
-    {
-      "strengthID": 1036,
-      "crossplayID": 1036,
-      "bonus": 36,
-      "singleBonus": 36
-    },
-    {
-      "strengthID": 1037,
-      "crossplayID": 1037,
-      "bonus": 37,
-      "singleBonus": 37
-    },
-    {
-      "strengthID": 1038,
-      "crossplayID": 1038,
-      "bonus": 38,
-      "singleBonus": 38
-    },
-    {
-      "strengthID": 1039,
-      "crossplayID": 1039,
-      "bonus": 39,
-      "singleBonus": 39
-    },
-    {
-      "strengthID": 1040,
-      "crossplayID": 1040,
-      "bonus": 40,
-      "singleBonus": 40
-    },
-    {
-      "strengthID": 1041,
-      "crossplayID": 1041,
-      "bonus": 41,
-      "singleBonus": 41
-    },
-    {
-      "strengthID": 1042,
-      "crossplayID": 1042,
-      "bonus": 42,
-      "singleBonus": 42
-    },
-    {
-      "strengthID": 1043,
-      "crossplayID": 1043,
-      "bonus": 43,
-      "singleBonus": 43
-    },
-    {
-      "strengthID": 1044,
-      "crossplayID": 1044,
-      "bonus": 44,
-      "singleBonus": 44
-    },
-    {
-      "strengthID": 1045,
-      "crossplayID": 1045,
-      "bonus": 45,
-      "singleBonus": 45
-    },
-    {
-      "strengthID": 1046,
-      "crossplayID": 1046,
-      "bonus": 46,
-      "singleBonus": 46
-    },
-    {
-      "strengthID": 1047,
-      "crossplayID": 1047,
-      "bonus": 47,
-      "singleBonus": 47
-    },
-    {
-      "strengthID": 1048,
-      "crossplayID": 1048,
-      "bonus": 48,
-      "singleBonus": 48
-    },
-    {
-      "strengthID": 1049,
-      "crossplayID": 1049,
-      "bonus": 49,
-      "singleBonus": 49
-    },
-    {
-      "strengthID": 1050,
-      "crossplayID": 1050,
-      "bonus": 50,
-      "singleBonus": 50
-    },
-    {
-      "strengthID": 1051,
-      "crossplayID": 1051,
-      "bonus": 51,
-      "singleBonus": 51
-    },
-    {
-      "strengthID": 1052,
-      "crossplayID": 1052,
-      "bonus": 52,
-      "singleBonus": 52
-    },
-    {
-      "strengthID": 1053,
-      "crossplayID": 1053,
-      "bonus": 53,
-      "singleBonus": 53
-    },
-    {
-      "strengthID": 1054,
-      "crossplayID": 1054,
-      "bonus": 54,
-      "singleBonus": 54
-    },
-    {
-      "strengthID": 1055,
-      "crossplayID": 1055,
-      "bonus": 55,
-      "singleBonus": 55
-    },
-    {
-      "strengthID": 1056,
-      "crossplayID": 1056,
-      "bonus": 56,
-      "singleBonus": 56
-    },
-    {
-      "strengthID": 1057,
-      "crossplayID": 1057,
-      "bonus": 57,
-      "singleBonus": 57
-    },
-    {
-      "strengthID": 1058,
-      "crossplayID": 1058,
-      "bonus": 58,
-      "singleBonus": 58
-    },
-    {
-      "strengthID": 1059,
-      "crossplayID": 1059,
-      "bonus": 59,
-      "singleBonus": 59
-    },
-    {
-      "strengthID": 1060,
-      "crossplayID": 1060,
-      "bonus": 60,
-      "singleBonus": 60
-    },
-    {
-      "strengthID": 1061,
-      "crossplayID": 1061,
-      "bonus": 61,
-      "singleBonus": 61
-    },
-    {
-      "strengthID": 1062,
-      "crossplayID": 1062,
-      "bonus": 62,
-      "singleBonus": 62
-    },
-    {
-      "strengthID": 1063,
-      "crossplayID": 1063,
-      "bonus": 63,
-      "singleBonus": 63
-    },
-    {
-      "strengthID": 1064,
-      "crossplayID": 1064,
-      "bonus": 64,
-      "singleBonus": 64
-    },
-    {
-      "strengthID": 1065,
-      "crossplayID": 1065,
-      "bonus": 65,
-      "singleBonus": 65
-    },
-    {
-      "strengthID": 1066,
-      "crossplayID": 1066,
-      "bonus": 66,
-      "singleBonus": 66
-    },
-    {
-      "strengthID": 1067,
-      "crossplayID": 1067,
-      "bonus": 67,
-      "singleBonus": 67
-    },
-    {
-      "strengthID": 1068,
-      "crossplayID": 1068,
-      "bonus": 68,
-      "singleBonus": 68
-    },
-    {
-      "strengthID": 1069,
-      "crossplayID": 1069,
-      "bonus": 69,
-      "singleBonus": 69
-    },
-    {
-      "strengthID": 1070,
-      "crossplayID": 1070,
-      "bonus": 70,
-      "singleBonus": 70
-    },
-    {
-      "strengthID": 1071,
-      "crossplayID": 1071,
-      "bonus": 71,
-      "singleBonus": 71
-    },
-    {
-      "strengthID": 1072,
-      "crossplayID": 1072,
-      "bonus": 72,
-      "singleBonus": 72
-    },
-    {
-      "strengthID": 1073,
-      "crossplayID": 1073,
-      "bonus": 73,
-      "singleBonus": 73
-    },
-    {
-      "strengthID": 1074,
-      "crossplayID": 1074,
-      "bonus": 74,
-      "singleBonus": 74
-    },
-    {
-      "strengthID": 1075,
-      "crossplayID": 1075,
-      "bonus": 75,
-      "singleBonus": 75
-    },
-    {
-      "strengthID": 1076,
-      "crossplayID": 1076,
-      "bonus": 76,
-      "singleBonus": 76
-    },
-    {
-      "strengthID": 1077,
-      "crossplayID": 1077,
-      "bonus": 77,
-      "singleBonus": 77
-    },
-    {
-      "strengthID": 1078,
-      "crossplayID": 1078,
-      "bonus": 78,
-      "singleBonus": 78
-    },
-    {
-      "strengthID": 1079,
-      "crossplayID": 1079,
-      "bonus": 79,
-      "singleBonus": 79
-    },
-    {
-      "strengthID": 1080,
-      "crossplayID": 1080,
-      "bonus": 80,
-      "singleBonus": 80
-    },
-    {
-      "strengthID": 1081,
-      "crossplayID": 1081,
-      "bonus": 81,
-      "singleBonus": 81
-    },
-    {
-      "strengthID": 1082,
-      "crossplayID": 1082,
-      "bonus": 82,
-      "singleBonus": 82
-    },
-    {
-      "strengthID": 1083,
-      "crossplayID": 1083,
-      "bonus": 83,
-      "singleBonus": 83
-    },
-    {
-      "strengthID": 1084,
-      "crossplayID": 1084,
-      "bonus": 84,
-      "singleBonus": 84
-    },
-    {
-      "strengthID": 1085,
-      "crossplayID": 1085,
-      "bonus": 85,
-      "singleBonus": 85
-    },
-    {
-      "strengthID": 1086,
-      "crossplayID": 1086,
-      "bonus": 86,
-      "singleBonus": 86
-    },
-    {
-      "strengthID": 1087,
-      "crossplayID": 1087,
-      "bonus": 87,
-      "singleBonus": 87
-    },
-    {
-      "strengthID": 1088,
-      "crossplayID": 1088,
-      "bonus": 88,
-      "singleBonus": 88
-    },
-    {
-      "strengthID": 1089,
-      "crossplayID": 1089,
-      "bonus": 89,
-      "singleBonus": 89
-    },
-    {
-      "strengthID": 1090,
-      "crossplayID": 1090,
-      "bonus": 90,
-      "singleBonus": 90
-    },
-    {
-      "strengthID": 1091,
-      "crossplayID": 1091,
-      "bonus": 91,
-      "singleBonus": 91
-    },
-    {
-      "strengthID": 1092,
-      "crossplayID": 1092,
-      "bonus": 92,
-      "singleBonus": 92
-    },
-    {
-      "strengthID": 1093,
-      "crossplayID": 1093,
-      "bonus": 93,
-      "singleBonus": 93
-    },
-    {
-      "strengthID": 1094,
-      "crossplayID": 1094,
-      "bonus": 94,
-      "singleBonus": 94
-    },
-    {
-      "strengthID": 1095,
-      "crossplayID": 1095,
-      "bonus": 95,
-      "singleBonus": 95
-    },
-    {
-      "strengthID": 1096,
-      "crossplayID": 1096,
-      "bonus": 96,
-      "singleBonus": 96
-    },
-    {
-      "strengthID": 1097,
-      "crossplayID": 1097,
-      "bonus": 97,
-      "singleBonus": 97
-    },
-    {
-      "strengthID": 1098,
-      "crossplayID": 1098,
-      "bonus": 98,
-      "singleBonus": 98
-    },
-    {
-      "strengthID": 1099,
-      "crossplayID": 1099,
-      "bonus": 99,
-      "singleBonus": 99
-    },
-    {
-      "strengthID": 1100,
-      "crossplayID": 1100,
-      "bonus": 100,
-      "singleBonus": 100
-    },
-    {
-      "strengthID": 1101,
-      "crossplayID": 1101,
-      "bonus": 101,
-      "singleBonus": 101
-    },
-    {
-      "strengthID": 1102,
-      "crossplayID": 1102,
-      "bonus": 102,
-      "singleBonus": 102
-    },
-    {
-      "strengthID": 1103,
-      "crossplayID": 1103,
-      "bonus": 103,
-      "singleBonus": 103
-    },
-    {
-      "strengthID": 1104,
-      "crossplayID": 1104,
-      "bonus": 104,
-      "singleBonus": 104
-    },
-    {
-      "strengthID": 1105,
-      "crossplayID": 1105,
-      "bonus": 105,
-      "singleBonus": 105
-    },
-    {
-      "strengthID": 1106,
-      "crossplayID": 1106,
-      "bonus": 106,
-      "singleBonus": 106
-    },
-    {
-      "strengthID": 1107,
-      "crossplayID": 1107,
-      "bonus": 107,
-      "singleBonus": 107
-    },
-    {
-      "strengthID": 1108,
-      "crossplayID": 1108,
-      "bonus": 108,
-      "singleBonus": 108
-    },
-    {
-      "strengthID": 1109,
-      "crossplayID": 1109,
-      "bonus": 109,
-      "singleBonus": 109
-    },
-    {
-      "strengthID": 1110,
-      "crossplayID": 1110,
-      "bonus": 110,
-      "singleBonus": 110
-    },
-    {
-      "strengthID": 1111,
-      "crossplayID": 1111,
-      "bonus": 111,
-      "singleBonus": 111
-    },
-    {
-      "strengthID": 1112,
-      "crossplayID": 1112,
-      "bonus": 112,
-      "singleBonus": 112
-    },
-    {
-      "strengthID": 1113,
-      "crossplayID": 1113,
-      "bonus": 113,
-      "singleBonus": 113
-    },
-    {
-      "strengthID": 1114,
-      "crossplayID": 1114,
-      "bonus": 114,
-      "singleBonus": 114
-    },
-    {
-      "strengthID": 1115,
-      "crossplayID": 1115,
-      "bonus": 115,
-      "singleBonus": 115
-    },
-    {
-      "strengthID": 1116,
-      "crossplayID": 1116,
-      "bonus": 116,
-      "singleBonus": 116
-    },
-    {
-      "strengthID": 1117,
-      "crossplayID": 1117,
-      "bonus": 117,
-      "singleBonus": 117
-    },
-    {
-      "strengthID": 1118,
-      "crossplayID": 1118,
-      "bonus": 118,
-      "singleBonus": 118
-    },
-    {
-      "strengthID": 1119,
-      "crossplayID": 1119,
-      "bonus": 119,
-      "singleBonus": 119
-    },
-    {
-      "strengthID": 1120,
-      "crossplayID": 1120,
-      "bonus": 120,
-      "singleBonus": 120
-    },
-    {
-      "strengthID": 1121,
-      "crossplayID": 1121,
-      "bonus": 121,
-      "singleBonus": 121
-    },
-    {
-      "strengthID": 1122,
-      "crossplayID": 1122,
-      "bonus": 122,
-      "singleBonus": 122
-    },
-    {
-      "strengthID": 1123,
-      "crossplayID": 1123,
-      "bonus": 123,
-      "singleBonus": 123
-    },
-    {
-      "strengthID": 1124,
-      "crossplayID": 1124,
-      "bonus": 124,
-      "singleBonus": 124
-    },
-    {
-      "strengthID": 1125,
-      "crossplayID": 1125,
-      "bonus": 125,
-      "singleBonus": 125
-    },
-    {
-      "strengthID": 1126,
-      "crossplayID": 1126,
-      "bonus": 126,
-      "singleBonus": 126
-    },
-    {
-      "strengthID": 1127,
-      "crossplayID": 1127,
-      "bonus": 127,
-      "singleBonus": 127
-    },
-    {
-      "strengthID": 1128,
-      "crossplayID": 1128,
-      "bonus": 128,
-      "singleBonus": 128
-    },
-    {
-      "strengthID": 1129,
-      "crossplayID": 1129,
-      "bonus": 129,
-      "singleBonus": 129
-    },
-    {
-      "strengthID": 1130,
-      "crossplayID": 1130,
-      "bonus": 130,
-      "singleBonus": 130
-    },
-    {
-      "strengthID": 1131,
-      "crossplayID": 1131,
-      "bonus": 131,
-      "singleBonus": 131
-    },
-    {
-      "strengthID": 1132,
-      "crossplayID": 1132,
-      "bonus": 132,
-      "singleBonus": 132
-    },
-    {
-      "strengthID": 1133,
-      "crossplayID": 1133,
-      "bonus": 133,
-      "singleBonus": 133
-    },
-    {
-      "strengthID": 1134,
-      "crossplayID": 1134,
-      "bonus": 134,
-      "singleBonus": 134
-    },
-    {
-      "strengthID": 1135,
-      "crossplayID": 1135,
-      "bonus": 135,
-      "singleBonus": 135
-    },
-    {
-      "strengthID": 1136,
-      "crossplayID": 1136,
-      "bonus": 136,
-      "singleBonus": 136
-    },
-    {
-      "strengthID": 1137,
-      "crossplayID": 1137,
-      "bonus": 137,
-      "singleBonus": 137
-    },
-    {
-      "strengthID": 1138,
-      "crossplayID": 1138,
-      "bonus": 138,
-      "singleBonus": 138
-    },
-    {
-      "strengthID": 1139,
-      "crossplayID": 1139,
-      "bonus": 139,
-      "singleBonus": 139
-    },
-    {
-      "strengthID": 1140,
-      "crossplayID": 1140,
-      "bonus": 140,
-      "singleBonus": 140
-    },
-    {
-      "strengthID": 1141,
-      "crossplayID": 1141,
-      "bonus": 141,
-      "singleBonus": 141
-    },
-    {
-      "strengthID": 1142,
-      "crossplayID": 1142,
-      "bonus": 142,
-      "singleBonus": 142
-    },
-    {
-      "strengthID": 1143,
-      "crossplayID": 1143,
-      "bonus": 143,
-      "singleBonus": 143
-    },
-    {
-      "strengthID": 1144,
-      "crossplayID": 1144,
-      "bonus": 144,
-      "singleBonus": 144
-    },
-    {
-      "strengthID": 1145,
-      "crossplayID": 1145,
-      "bonus": 145,
-      "singleBonus": 145
-    },
-    {
-      "strengthID": 1146,
-      "crossplayID": 1146,
-      "bonus": 146,
-      "singleBonus": 146
-    },
-    {
-      "strengthID": 1147,
-      "crossplayID": 1147,
-      "bonus": 147,
-      "singleBonus": 147
-    },
-    {
-      "strengthID": 1148,
-      "crossplayID": 1148,
-      "bonus": 148,
-      "singleBonus": 148
-    },
-    {
-      "strengthID": 1149,
-      "crossplayID": 1149,
-      "bonus": 149,
-      "singleBonus": 149
-    },
-    {
-      "strengthID": 1150,
-      "crossplayID": 1150,
-      "bonus": 150,
-      "singleBonus": 150
-    },
-    {
-      "strengthID": 1151,
-      "crossplayID": 1151,
-      "bonus": 151,
-      "singleBonus": 151
-    },
-    {
-      "strengthID": 2001,
-      "crossplayID": 2001
-    }
-  ]
-}
+[
+  {
+    "strengthID": 1,
+    "crossplayID": 1,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 20,
+    "singleBonus": 20
+  },
+  {
+    "strengthID": 2,
+    "crossplayID": 2,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 21,
+    "singleBonus": 21
+  },
+  {
+    "strengthID": 3,
+    "crossplayID": 3,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 22,
+    "singleBonus": 22
+  },
+  {
+    "strengthID": 4,
+    "crossplayID": 4,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 23,
+    "singleBonus": 23
+  },
+  {
+    "strengthID": 5,
+    "crossplayID": 5,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 24,
+    "singleBonus": 24
+  },
+  {
+    "strengthID": 6,
+    "crossplayID": 6,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 25,
+    "singleBonus": 25
+  },
+  {
+    "strengthID": 7,
+    "crossplayID": 7,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 26,
+    "singleBonus": 26
+  },
+  {
+    "strengthID": 8,
+    "crossplayID": 8,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 27,
+    "singleBonus": 27
+  },
+  {
+    "strengthID": 9,
+    "crossplayID": 9,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 28,
+    "singleBonus": 28
+  },
+  {
+    "strengthID": 10,
+    "crossplayID": 10,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 29,
+    "singleBonus": 29
+  },
+  {
+    "strengthID": 11,
+    "crossplayID": 11,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 30,
+    "singleBonus": 30
+  },
+  {
+    "strengthID": 12,
+    "crossplayID": 12,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 31,
+    "singleBonus": 31
+  },
+  {
+    "strengthID": 13,
+    "crossplayID": 13,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 32,
+    "singleBonus": 32
+  },
+  {
+    "strengthID": 14,
+    "crossplayID": 14,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 33,
+    "singleBonus": 33
+  },
+  {
+    "strengthID": 15,
+    "crossplayID": 15,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 34,
+    "singleBonus": 34
+  },
+  {
+    "strengthID": 16,
+    "crossplayID": 16,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 35,
+    "singleBonus": 35
+  },
+  {
+    "strengthID": 17,
+    "crossplayID": 17,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 36,
+    "singleBonus": 36
+  },
+  {
+    "strengthID": 18,
+    "crossplayID": 18,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 37,
+    "singleBonus": 37
+  },
+  {
+    "strengthID": 19,
+    "crossplayID": 19,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 38,
+    "singleBonus": 38
+  },
+  {
+    "strengthID": 20,
+    "crossplayID": 20,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 39,
+    "singleBonus": 39
+  },
+  {
+    "strengthID": 21,
+    "crossplayID": 21,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 40,
+    "singleBonus": 40
+  },
+  {
+    "strengthID": 22,
+    "crossplayID": 22,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 41,
+    "singleBonus": 41
+  },
+  {
+    "strengthID": 23,
+    "crossplayID": 23,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 42,
+    "singleBonus": 42
+  },
+  {
+    "strengthID": 24,
+    "crossplayID": 24,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 43,
+    "singleBonus": 43
+  },
+  {
+    "strengthID": 25,
+    "crossplayID": 25,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 44,
+    "singleBonus": 44
+  },
+  {
+    "strengthID": 26,
+    "crossplayID": 26,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 1,
+    "bonus": 45,
+    "singleBonus": 45
+  },
+  {
+    "strengthID": 3001,
+    "crossplayID": 3001,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 20,
+    "singleBonus": 20
+  },
+  {
+    "strengthID": 3002,
+    "crossplayID": 3002,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 21,
+    "singleBonus": 21
+  },
+  {
+    "strengthID": 3003,
+    "crossplayID": 3003,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 22,
+    "singleBonus": 22
+  },
+  {
+    "strengthID": 3004,
+    "crossplayID": 3004,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 23,
+    "singleBonus": 23
+  },
+  {
+    "strengthID": 3005,
+    "crossplayID": 3005,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 24,
+    "singleBonus": 24
+  },
+  {
+    "strengthID": 3006,
+    "crossplayID": 3006,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 25,
+    "singleBonus": 25
+  },
+  {
+    "strengthID": 3007,
+    "crossplayID": 3007,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 26,
+    "singleBonus": 26
+  },
+  {
+    "strengthID": 3008,
+    "crossplayID": 3008,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 27,
+    "singleBonus": 27
+  },
+  {
+    "strengthID": 3009,
+    "crossplayID": 3009,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 28,
+    "singleBonus": 28
+  },
+  {
+    "strengthID": 3010,
+    "crossplayID": 3010,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 29,
+    "singleBonus": 29
+  },
+  {
+    "strengthID": 3011,
+    "crossplayID": 3011,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 30,
+    "singleBonus": 30
+  },
+  {
+    "strengthID": 3012,
+    "crossplayID": 3012,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 31,
+    "singleBonus": 31
+  },
+  {
+    "strengthID": 3013,
+    "crossplayID": 3013,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 32,
+    "singleBonus": 32
+  },
+  {
+    "strengthID": 3014,
+    "crossplayID": 3014,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 33,
+    "singleBonus": 33
+  },
+  {
+    "strengthID": 3015,
+    "crossplayID": 3015,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 34,
+    "singleBonus": 34
+  },
+  {
+    "strengthID": 3016,
+    "crossplayID": 3016,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 35,
+    "singleBonus": 35
+  },
+  {
+    "strengthID": 3017,
+    "crossplayID": 3017,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 36,
+    "singleBonus": 36
+  },
+  {
+    "strengthID": 3018,
+    "crossplayID": 3018,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 37,
+    "singleBonus": 37
+  },
+  {
+    "strengthID": 3019,
+    "crossplayID": 3019,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 38,
+    "singleBonus": 38
+  },
+  {
+    "strengthID": 3020,
+    "crossplayID": 3020,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 39,
+    "singleBonus": 39
+  },
+  {
+    "strengthID": 3021,
+    "crossplayID": 3021,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 40,
+    "singleBonus": 40
+  },
+  {
+    "strengthID": 3022,
+    "crossplayID": 3022,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 41,
+    "singleBonus": 41
+  },
+  {
+    "strengthID": 3023,
+    "crossplayID": 3023,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 42,
+    "singleBonus": 42
+  },
+  {
+    "strengthID": 3024,
+    "crossplayID": 3024,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 43,
+    "singleBonus": 43
+  },
+  {
+    "strengthID": 3025,
+    "crossplayID": 3025,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 44,
+    "singleBonus": 44
+  },
+  {
+    "strengthID": 3026,
+    "crossplayID": 3026,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 11,
+    "bonus": 45,
+    "singleBonus": 45
+  },
+  {
+    "strengthID": 101,
+    "crossplayID": 101,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 35,
+    "singleBonus": 35
+  },
+  {
+    "strengthID": 102,
+    "crossplayID": 102,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 36,
+    "singleBonus": 36
+  },
+  {
+    "strengthID": 103,
+    "crossplayID": 103,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 37,
+    "singleBonus": 37
+  },
+  {
+    "strengthID": 104,
+    "crossplayID": 104,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 38,
+    "singleBonus": 38
+  },
+  {
+    "strengthID": 105,
+    "crossplayID": 105,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 39,
+    "singleBonus": 39
+  },
+  {
+    "strengthID": 106,
+    "crossplayID": 106,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 40,
+    "singleBonus": 40
+  },
+  {
+    "strengthID": 107,
+    "crossplayID": 107,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 41,
+    "singleBonus": 41
+  },
+  {
+    "strengthID": 108,
+    "crossplayID": 108,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 42,
+    "singleBonus": 42
+  },
+  {
+    "strengthID": 109,
+    "crossplayID": 109,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 43,
+    "singleBonus": 43
+  },
+  {
+    "strengthID": 110,
+    "crossplayID": 110,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 44,
+    "singleBonus": 44
+  },
+  {
+    "strengthID": 111,
+    "crossplayID": 111,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 45,
+    "singleBonus": 45
+  },
+  {
+    "strengthID": 112,
+    "crossplayID": 112,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 46,
+    "singleBonus": 46
+  },
+  {
+    "strengthID": 113,
+    "crossplayID": 113,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 47,
+    "singleBonus": 47
+  },
+  {
+    "strengthID": 114,
+    "crossplayID": 114,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 48,
+    "singleBonus": 48
+  },
+  {
+    "strengthID": 115,
+    "crossplayID": 115,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 49,
+    "singleBonus": 49
+  },
+  {
+    "strengthID": 116,
+    "crossplayID": 116,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 50,
+    "singleBonus": 50
+  },
+  {
+    "strengthID": 117,
+    "crossplayID": 117,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 51,
+    "singleBonus": 51
+  },
+  {
+    "strengthID": 118,
+    "crossplayID": 118,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 52,
+    "singleBonus": 52
+  },
+  {
+    "strengthID": 119,
+    "crossplayID": 119,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 53,
+    "singleBonus": 53
+  },
+  {
+    "strengthID": 120,
+    "crossplayID": 120,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 54,
+    "singleBonus": 54
+  },
+  {
+    "strengthID": 121,
+    "crossplayID": 121,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 2,
+    "bonus": 55,
+    "singleBonus": 55
+  },
+  {
+    "strengthID": 3101,
+    "crossplayID": 3101,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 35,
+    "singleBonus": 35
+  },
+  {
+    "strengthID": 3102,
+    "crossplayID": 3102,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 36,
+    "singleBonus": 36
+  },
+  {
+    "strengthID": 3103,
+    "crossplayID": 3103,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 37,
+    "singleBonus": 37
+  },
+  {
+    "strengthID": 3104,
+    "crossplayID": 3104,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 38,
+    "singleBonus": 38
+  },
+  {
+    "strengthID": 3105,
+    "crossplayID": 3105,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 39,
+    "singleBonus": 39
+  },
+  {
+    "strengthID": 3106,
+    "crossplayID": 3106,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 40,
+    "singleBonus": 40
+  },
+  {
+    "strengthID": 3107,
+    "crossplayID": 3107,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 41,
+    "singleBonus": 41
+  },
+  {
+    "strengthID": 3108,
+    "crossplayID": 3108,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 42,
+    "singleBonus": 42
+  },
+  {
+    "strengthID": 3109,
+    "crossplayID": 3109,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 43,
+    "singleBonus": 43
+  },
+  {
+    "strengthID": 3110,
+    "crossplayID": 3110,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 44,
+    "singleBonus": 44
+  },
+  {
+    "strengthID": 3111,
+    "crossplayID": 3111,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 45,
+    "singleBonus": 45
+  },
+  {
+    "strengthID": 3112,
+    "crossplayID": 3112,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 46,
+    "singleBonus": 46
+  },
+  {
+    "strengthID": 3113,
+    "crossplayID": 3113,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 47,
+    "singleBonus": 47
+  },
+  {
+    "strengthID": 3114,
+    "crossplayID": 3114,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 48,
+    "singleBonus": 48
+  },
+  {
+    "strengthID": 3115,
+    "crossplayID": 3115,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 49,
+    "singleBonus": 49
+  },
+  {
+    "strengthID": 3116,
+    "crossplayID": 3116,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 50,
+    "singleBonus": 50
+  },
+  {
+    "strengthID": 3117,
+    "crossplayID": 3117,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 51,
+    "singleBonus": 51
+  },
+  {
+    "strengthID": 3118,
+    "crossplayID": 3118,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 52,
+    "singleBonus": 52
+  },
+  {
+    "strengthID": 3119,
+    "crossplayID": 3119,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 53,
+    "singleBonus": 53
+  },
+  {
+    "strengthID": 3120,
+    "crossplayID": 3120,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 54,
+    "singleBonus": 54
+  },
+  {
+    "strengthID": 3121,
+    "crossplayID": 3121,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 12,
+    "bonus": 55,
+    "singleBonus": 55
+  },
+  {
+    "strengthID": 201,
+    "crossplayID": 201,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 50,
+    "singleBonus": 50
+  },
+  {
+    "strengthID": 202,
+    "crossplayID": 202,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 51,
+    "singleBonus": 51
+  },
+  {
+    "strengthID": 203,
+    "crossplayID": 203,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 52,
+    "singleBonus": 52
+  },
+  {
+    "strengthID": 204,
+    "crossplayID": 204,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 53,
+    "singleBonus": 53
+  },
+  {
+    "strengthID": 205,
+    "crossplayID": 205,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 54,
+    "singleBonus": 54
+  },
+  {
+    "strengthID": 206,
+    "crossplayID": 206,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 55,
+    "singleBonus": 55
+  },
+  {
+    "strengthID": 207,
+    "crossplayID": 207,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 56,
+    "singleBonus": 56
+  },
+  {
+    "strengthID": 208,
+    "crossplayID": 208,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 57,
+    "singleBonus": 57
+  },
+  {
+    "strengthID": 209,
+    "crossplayID": 209,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 58,
+    "singleBonus": 58
+  },
+  {
+    "strengthID": 210,
+    "crossplayID": 210,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 59,
+    "singleBonus": 59
+  },
+  {
+    "strengthID": 211,
+    "crossplayID": 211,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 60,
+    "singleBonus": 60
+  },
+  {
+    "strengthID": 212,
+    "crossplayID": 212,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 61,
+    "singleBonus": 61
+  },
+  {
+    "strengthID": 213,
+    "crossplayID": 213,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 62,
+    "singleBonus": 62
+  },
+  {
+    "strengthID": 214,
+    "crossplayID": 214,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 63,
+    "singleBonus": 63
+  },
+  {
+    "strengthID": 215,
+    "crossplayID": 215,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 64,
+    "singleBonus": 64
+  },
+  {
+    "strengthID": 216,
+    "crossplayID": 216,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 65,
+    "singleBonus": 65
+  },
+  {
+    "strengthID": 217,
+    "crossplayID": 217,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 66,
+    "singleBonus": 66
+  },
+  {
+    "strengthID": 218,
+    "crossplayID": 218,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 67,
+    "singleBonus": 67
+  },
+  {
+    "strengthID": 219,
+    "crossplayID": 219,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 68,
+    "singleBonus": 68
+  },
+  {
+    "strengthID": 220,
+    "crossplayID": 220,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 69,
+    "singleBonus": 69
+  },
+  {
+    "strengthID": 221,
+    "crossplayID": 221,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 3,
+    "bonus": 70,
+    "singleBonus": 70
+  },
+  {
+    "strengthID": 3201,
+    "crossplayID": 3201,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 50,
+    "singleBonus": 50
+  },
+  {
+    "strengthID": 3202,
+    "crossplayID": 3202,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 51,
+    "singleBonus": 51
+  },
+  {
+    "strengthID": 3203,
+    "crossplayID": 3203,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 52,
+    "singleBonus": 52
+  },
+  {
+    "strengthID": 3204,
+    "crossplayID": 3204,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 53,
+    "singleBonus": 53
+  },
+  {
+    "strengthID": 3205,
+    "crossplayID": 3205,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 54,
+    "singleBonus": 54
+  },
+  {
+    "strengthID": 3206,
+    "crossplayID": 3206,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 55,
+    "singleBonus": 55
+  },
+  {
+    "strengthID": 3207,
+    "crossplayID": 3207,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 56,
+    "singleBonus": 56
+  },
+  {
+    "strengthID": 3208,
+    "crossplayID": 3208,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 57,
+    "singleBonus": 57
+  },
+  {
+    "strengthID": 3209,
+    "crossplayID": 3209,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 58,
+    "singleBonus": 58
+  },
+  {
+    "strengthID": 3210,
+    "crossplayID": 3210,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 59,
+    "singleBonus": 59
+  },
+  {
+    "strengthID": 3211,
+    "crossplayID": 3211,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 60,
+    "singleBonus": 60
+  },
+  {
+    "strengthID": 3212,
+    "crossplayID": 3212,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 61,
+    "singleBonus": 61
+  },
+  {
+    "strengthID": 3213,
+    "crossplayID": 3213,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 62,
+    "singleBonus": 62
+  },
+  {
+    "strengthID": 3214,
+    "crossplayID": 3214,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 63,
+    "singleBonus": 63
+  },
+  {
+    "strengthID": 3215,
+    "crossplayID": 3215,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 64,
+    "singleBonus": 64
+  },
+  {
+    "strengthID": 3216,
+    "crossplayID": 3216,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 65,
+    "singleBonus": 65
+  },
+  {
+    "strengthID": 3217,
+    "crossplayID": 3217,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 66,
+    "singleBonus": 66
+  },
+  {
+    "strengthID": 3218,
+    "crossplayID": 3218,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 67,
+    "singleBonus": 67
+  },
+  {
+    "strengthID": 3219,
+    "crossplayID": 3219,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 68,
+    "singleBonus": 68
+  },
+  {
+    "strengthID": 3220,
+    "crossplayID": 3220,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 69,
+    "singleBonus": 69
+  },
+  {
+    "strengthID": 3221,
+    "crossplayID": 3221,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 13,
+    "bonus": 70,
+    "singleBonus": 70
+  },
+  {
+    "strengthID": 301,
+    "crossplayID": 301,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 85,
+    "singleBonus": 85
+  },
+  {
+    "strengthID": 302,
+    "crossplayID": 302,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 86,
+    "singleBonus": 86
+  },
+  {
+    "strengthID": 303,
+    "crossplayID": 303,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 87,
+    "singleBonus": 87
+  },
+  {
+    "strengthID": 304,
+    "crossplayID": 304,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 88,
+    "singleBonus": 88
+  },
+  {
+    "strengthID": 305,
+    "crossplayID": 305,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 89,
+    "singleBonus": 89
+  },
+  {
+    "strengthID": 306,
+    "crossplayID": 306,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 90,
+    "singleBonus": 90
+  },
+  {
+    "strengthID": 307,
+    "crossplayID": 307,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 91,
+    "singleBonus": 91
+  },
+  {
+    "strengthID": 308,
+    "crossplayID": 308,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 92,
+    "singleBonus": 92
+  },
+  {
+    "strengthID": 309,
+    "crossplayID": 309,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 93,
+    "singleBonus": 93
+  },
+  {
+    "strengthID": 310,
+    "crossplayID": 310,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 94,
+    "singleBonus": 94
+  },
+  {
+    "strengthID": 311,
+    "crossplayID": 311,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 95,
+    "singleBonus": 95
+  },
+  {
+    "strengthID": 312,
+    "crossplayID": 312,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 96,
+    "singleBonus": 96
+  },
+  {
+    "strengthID": 313,
+    "crossplayID": 313,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 97,
+    "singleBonus": 97
+  },
+  {
+    "strengthID": 314,
+    "crossplayID": 314,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 98,
+    "singleBonus": 98
+  },
+  {
+    "strengthID": 315,
+    "crossplayID": 315,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 99,
+    "singleBonus": 99
+  },
+  {
+    "strengthID": 316,
+    "crossplayID": 316,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 4,
+    "bonus": 100,
+    "singleBonus": 100
+  },
+  {
+    "strengthID": 3301,
+    "crossplayID": 3301,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 85,
+    "singleBonus": 85
+  },
+  {
+    "strengthID": 3302,
+    "crossplayID": 3302,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 86,
+    "singleBonus": 86
+  },
+  {
+    "strengthID": 3303,
+    "crossplayID": 3303,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 87,
+    "singleBonus": 87
+  },
+  {
+    "strengthID": 3304,
+    "crossplayID": 3304,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 88,
+    "singleBonus": 88
+  },
+  {
+    "strengthID": 3305,
+    "crossplayID": 3305,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 89,
+    "singleBonus": 89
+  },
+  {
+    "strengthID": 3306,
+    "crossplayID": 3306,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 90,
+    "singleBonus": 90
+  },
+  {
+    "strengthID": 3307,
+    "crossplayID": 3307,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 91,
+    "singleBonus": 91
+  },
+  {
+    "strengthID": 3308,
+    "crossplayID": 3308,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 92,
+    "singleBonus": 92
+  },
+  {
+    "strengthID": 3309,
+    "crossplayID": 3309,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 93,
+    "singleBonus": 93
+  },
+  {
+    "strengthID": 3310,
+    "crossplayID": 3310,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 94,
+    "singleBonus": 94
+  },
+  {
+    "strengthID": 3311,
+    "crossplayID": 3311,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 95,
+    "singleBonus": 95
+  },
+  {
+    "strengthID": 3312,
+    "crossplayID": 3312,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 96,
+    "singleBonus": 96
+  },
+  {
+    "strengthID": 3313,
+    "crossplayID": 3313,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 97,
+    "singleBonus": 97
+  },
+  {
+    "strengthID": 3314,
+    "crossplayID": 3314,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 98,
+    "singleBonus": 98
+  },
+  {
+    "strengthID": 3315,
+    "crossplayID": 3315,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 99,
+    "singleBonus": 99
+  },
+  {
+    "strengthID": 3316,
+    "crossplayID": 3316,
+    "dropRate": 1,
+    "primary": 1,
+    "rarenessID": 14,
+    "bonus": 100,
+    "singleBonus": 100
+  },
+  {
+    "strengthID": 601,
+    "crossplayID": 601,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 15,
+    "singleBonus": 15
+  },
+  {
+    "strengthID": 602,
+    "crossplayID": 602,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 16,
+    "singleBonus": 16
+  },
+  {
+    "strengthID": 603,
+    "crossplayID": 603,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 17,
+    "singleBonus": 17
+  },
+  {
+    "strengthID": 604,
+    "crossplayID": 604,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 18,
+    "singleBonus": 18
+  },
+  {
+    "strengthID": 605,
+    "crossplayID": 605,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 19,
+    "singleBonus": 19
+  },
+  {
+    "strengthID": 606,
+    "crossplayID": 606,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 20,
+    "singleBonus": 20
+  },
+  {
+    "strengthID": 607,
+    "crossplayID": 607,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 21,
+    "singleBonus": 21
+  },
+  {
+    "strengthID": 608,
+    "crossplayID": 608,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 22,
+    "singleBonus": 22
+  },
+  {
+    "strengthID": 609,
+    "crossplayID": 609,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 23,
+    "singleBonus": 23
+  },
+  {
+    "strengthID": 610,
+    "crossplayID": 610,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 24,
+    "singleBonus": 24
+  },
+  {
+    "strengthID": 611,
+    "crossplayID": 611,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 25,
+    "singleBonus": 25
+  },
+  {
+    "strengthID": 612,
+    "crossplayID": 612,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 26,
+    "singleBonus": 26
+  },
+  {
+    "strengthID": 613,
+    "crossplayID": 613,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 27,
+    "singleBonus": 27
+  },
+  {
+    "strengthID": 614,
+    "crossplayID": 614,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 28,
+    "singleBonus": 28
+  },
+  {
+    "strengthID": 615,
+    "crossplayID": 615,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 29,
+    "singleBonus": 29
+  },
+  {
+    "strengthID": 616,
+    "crossplayID": 616,
+    "dropRate": 1,
+    "rarenessID": 2,
+    "bonus": 30,
+    "singleBonus": 30
+  },
+  {
+    "strengthID": 701,
+    "crossplayID": 701,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 20,
+    "singleBonus": 20
+  },
+  {
+    "strengthID": 702,
+    "crossplayID": 702,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 21,
+    "singleBonus": 21
+  },
+  {
+    "strengthID": 703,
+    "crossplayID": 703,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 22,
+    "singleBonus": 22
+  },
+  {
+    "strengthID": 704,
+    "crossplayID": 704,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 23,
+    "singleBonus": 23
+  },
+  {
+    "strengthID": 705,
+    "crossplayID": 705,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 24,
+    "singleBonus": 24
+  },
+  {
+    "strengthID": 706,
+    "crossplayID": 706,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 25,
+    "singleBonus": 25
+  },
+  {
+    "strengthID": 707,
+    "crossplayID": 707,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 26,
+    "singleBonus": 26
+  },
+  {
+    "strengthID": 708,
+    "crossplayID": 708,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 27,
+    "singleBonus": 27
+  },
+  {
+    "strengthID": 709,
+    "crossplayID": 709,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 28,
+    "singleBonus": 28
+  },
+  {
+    "strengthID": 710,
+    "crossplayID": 710,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 29,
+    "singleBonus": 29
+  },
+  {
+    "strengthID": 711,
+    "crossplayID": 711,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 30,
+    "singleBonus": 30
+  },
+  {
+    "strengthID": 712,
+    "crossplayID": 712,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 31,
+    "singleBonus": 31
+  },
+  {
+    "strengthID": 713,
+    "crossplayID": 713,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 32,
+    "singleBonus": 32
+  },
+  {
+    "strengthID": 714,
+    "crossplayID": 714,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 33,
+    "singleBonus": 33
+  },
+  {
+    "strengthID": 715,
+    "crossplayID": 715,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 34,
+    "singleBonus": 34
+  },
+  {
+    "strengthID": 716,
+    "crossplayID": 716,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 35,
+    "singleBonus": 35
+  },
+  {
+    "strengthID": 717,
+    "crossplayID": 717,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 36,
+    "singleBonus": 36
+  },
+  {
+    "strengthID": 718,
+    "crossplayID": 718,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 37,
+    "singleBonus": 37
+  },
+  {
+    "strengthID": 719,
+    "crossplayID": 719,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 38,
+    "singleBonus": 38
+  },
+  {
+    "strengthID": 720,
+    "crossplayID": 720,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 39,
+    "singleBonus": 39
+  },
+  {
+    "strengthID": 721,
+    "crossplayID": 721,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 40,
+    "singleBonus": 40
+  },
+  {
+    "strengthID": 722,
+    "crossplayID": 722,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 41,
+    "singleBonus": 41
+  },
+  {
+    "strengthID": 723,
+    "crossplayID": 723,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 42,
+    "singleBonus": 42
+  },
+  {
+    "strengthID": 724,
+    "crossplayID": 724,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 43,
+    "singleBonus": 43
+  },
+  {
+    "strengthID": 725,
+    "crossplayID": 725,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 44,
+    "singleBonus": 44
+  },
+  {
+    "strengthID": 726,
+    "crossplayID": 726,
+    "dropRate": 1,
+    "rarenessID": 3,
+    "bonus": 45,
+    "singleBonus": 45
+  },
+  {
+    "strengthID": 801,
+    "crossplayID": 801,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 55,
+    "singleBonus": 55
+  },
+  {
+    "strengthID": 802,
+    "crossplayID": 802,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 56,
+    "singleBonus": 56
+  },
+  {
+    "strengthID": 803,
+    "crossplayID": 803,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 57,
+    "singleBonus": 57
+  },
+  {
+    "strengthID": 804,
+    "crossplayID": 804,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 58,
+    "singleBonus": 58
+  },
+  {
+    "strengthID": 805,
+    "crossplayID": 805,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 59,
+    "singleBonus": 59
+  },
+  {
+    "strengthID": 806,
+    "crossplayID": 806,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 60,
+    "singleBonus": 60
+  },
+  {
+    "strengthID": 807,
+    "crossplayID": 807,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 61,
+    "singleBonus": 61
+  },
+  {
+    "strengthID": 808,
+    "crossplayID": 808,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 62,
+    "singleBonus": 62
+  },
+  {
+    "strengthID": 809,
+    "crossplayID": 809,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 63,
+    "singleBonus": 63
+  },
+  {
+    "strengthID": 810,
+    "crossplayID": 810,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 64,
+    "singleBonus": 64
+  },
+  {
+    "strengthID": 811,
+    "crossplayID": 811,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 65,
+    "singleBonus": 65
+  },
+  {
+    "strengthID": 812,
+    "crossplayID": 812,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 66,
+    "singleBonus": 66
+  },
+  {
+    "strengthID": 813,
+    "crossplayID": 813,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 67,
+    "singleBonus": 67
+  },
+  {
+    "strengthID": 814,
+    "crossplayID": 814,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 68,
+    "singleBonus": 68
+  },
+  {
+    "strengthID": 815,
+    "crossplayID": 815,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 69,
+    "singleBonus": 69
+  },
+  {
+    "strengthID": 816,
+    "crossplayID": 816,
+    "dropRate": 1,
+    "rarenessID": 4,
+    "bonus": 70,
+    "singleBonus": 70
+  },
+  {
+    "strengthID": 3801,
+    "crossplayID": 3801,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 20,
+    "singleBonus": 20
+  },
+  {
+    "strengthID": 3802,
+    "crossplayID": 3802,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 21,
+    "singleBonus": 21
+  },
+  {
+    "strengthID": 3803,
+    "crossplayID": 3803,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 22,
+    "singleBonus": 22
+  },
+  {
+    "strengthID": 3804,
+    "crossplayID": 3804,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 23,
+    "singleBonus": 23
+  },
+  {
+    "strengthID": 3805,
+    "crossplayID": 3805,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 24,
+    "singleBonus": 24
+  },
+  {
+    "strengthID": 3806,
+    "crossplayID": 3806,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 25,
+    "singleBonus": 25
+  },
+  {
+    "strengthID": 3807,
+    "crossplayID": 3807,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 26,
+    "singleBonus": 26
+  },
+  {
+    "strengthID": 3808,
+    "crossplayID": 3808,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 27,
+    "singleBonus": 27
+  },
+  {
+    "strengthID": 3809,
+    "crossplayID": 3809,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 28,
+    "singleBonus": 28
+  },
+  {
+    "strengthID": 3810,
+    "crossplayID": 3810,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 29,
+    "singleBonus": 29
+  },
+  {
+    "strengthID": 3811,
+    "crossplayID": 3811,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 30,
+    "singleBonus": 30
+  },
+  {
+    "strengthID": 3812,
+    "crossplayID": 3812,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 31,
+    "singleBonus": 31
+  },
+  {
+    "strengthID": 3813,
+    "crossplayID": 3813,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 32,
+    "singleBonus": 32
+  },
+  {
+    "strengthID": 3814,
+    "crossplayID": 3814,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 33,
+    "singleBonus": 33
+  },
+  {
+    "strengthID": 3815,
+    "crossplayID": 3815,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 34,
+    "singleBonus": 34
+  },
+  {
+    "strengthID": 3816,
+    "crossplayID": 3816,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 35,
+    "singleBonus": 35
+  },
+  {
+    "strengthID": 3817,
+    "crossplayID": 3817,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 36,
+    "singleBonus": 36
+  },
+  {
+    "strengthID": 3818,
+    "crossplayID": 3818,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 37,
+    "singleBonus": 37
+  },
+  {
+    "strengthID": 3819,
+    "crossplayID": 3819,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 38,
+    "singleBonus": 38
+  },
+  {
+    "strengthID": 3820,
+    "crossplayID": 3820,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 39,
+    "singleBonus": 39
+  },
+  {
+    "strengthID": 3821,
+    "crossplayID": 3821,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 40,
+    "singleBonus": 40
+  },
+  {
+    "strengthID": 3822,
+    "crossplayID": 3822,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 41,
+    "singleBonus": 41
+  },
+  {
+    "strengthID": 3823,
+    "crossplayID": 3823,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 42,
+    "singleBonus": 42
+  },
+  {
+    "strengthID": 3824,
+    "crossplayID": 3824,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 43,
+    "singleBonus": 43
+  },
+  {
+    "strengthID": 3825,
+    "crossplayID": 3825,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 44,
+    "singleBonus": 44
+  },
+  {
+    "strengthID": 3826,
+    "crossplayID": 3826,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 45,
+    "singleBonus": 45
+  },
+  {
+    "strengthID": 3827,
+    "crossplayID": 3827,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 46,
+    "singleBonus": 46
+  },
+  {
+    "strengthID": 3828,
+    "crossplayID": 3828,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 47,
+    "singleBonus": 47
+  },
+  {
+    "strengthID": 3829,
+    "crossplayID": 3829,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 48,
+    "singleBonus": 48
+  },
+  {
+    "strengthID": 3830,
+    "crossplayID": 3830,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 49,
+    "singleBonus": 49
+  },
+  {
+    "strengthID": 3831,
+    "crossplayID": 3831,
+    "dropRate": 1,
+    "rarenessID": 14,
+    "bonus": 50,
+    "singleBonus": 50
+  },
+  {
+    "strengthID": 1001,
+    "crossplayID": 1001,
+    "bonus": 1,
+    "singleBonus": 1
+  },
+  {
+    "strengthID": 1002,
+    "crossplayID": 1002,
+    "bonus": 2,
+    "singleBonus": 2
+  },
+  {
+    "strengthID": 1003,
+    "crossplayID": 1003,
+    "bonus": 3,
+    "singleBonus": 3
+  },
+  {
+    "strengthID": 1004,
+    "crossplayID": 1004,
+    "bonus": 4,
+    "singleBonus": 4
+  },
+  {
+    "strengthID": 1005,
+    "crossplayID": 1005,
+    "bonus": 5,
+    "singleBonus": 5
+  },
+  {
+    "strengthID": 1006,
+    "crossplayID": 1006,
+    "bonus": 6,
+    "singleBonus": 6
+  },
+  {
+    "strengthID": 1007,
+    "crossplayID": 1007,
+    "bonus": 7,
+    "singleBonus": 7
+  },
+  {
+    "strengthID": 1008,
+    "crossplayID": 1008,
+    "bonus": 8,
+    "singleBonus": 8
+  },
+  {
+    "strengthID": 1009,
+    "crossplayID": 1009,
+    "bonus": 9,
+    "singleBonus": 9
+  },
+  {
+    "strengthID": 1010,
+    "crossplayID": 1010,
+    "bonus": 10,
+    "singleBonus": 10
+  },
+  {
+    "strengthID": 1011,
+    "crossplayID": 1011,
+    "bonus": 11,
+    "singleBonus": 11
+  },
+  {
+    "strengthID": 1012,
+    "crossplayID": 1012,
+    "bonus": 12,
+    "singleBonus": 12
+  },
+  {
+    "strengthID": 1013,
+    "crossplayID": 1013,
+    "bonus": 13,
+    "singleBonus": 13
+  },
+  {
+    "strengthID": 1014,
+    "crossplayID": 1014,
+    "bonus": 14,
+    "singleBonus": 14
+  },
+  {
+    "strengthID": 1015,
+    "crossplayID": 1015,
+    "bonus": 15,
+    "singleBonus": 15
+  },
+  {
+    "strengthID": 1016,
+    "crossplayID": 1016,
+    "bonus": 16,
+    "singleBonus": 16
+  },
+  {
+    "strengthID": 1017,
+    "crossplayID": 1017,
+    "bonus": 17,
+    "singleBonus": 17
+  },
+  {
+    "strengthID": 1018,
+    "crossplayID": 1018,
+    "bonus": 18,
+    "singleBonus": 18
+  },
+  {
+    "strengthID": 1019,
+    "crossplayID": 1019,
+    "bonus": 19,
+    "singleBonus": 19
+  },
+  {
+    "strengthID": 1020,
+    "crossplayID": 1020,
+    "bonus": 20,
+    "singleBonus": 20
+  },
+  {
+    "strengthID": 1021,
+    "crossplayID": 1021,
+    "bonus": 21,
+    "singleBonus": 21
+  },
+  {
+    "strengthID": 1022,
+    "crossplayID": 1022,
+    "bonus": 22,
+    "singleBonus": 22
+  },
+  {
+    "strengthID": 1023,
+    "crossplayID": 1023,
+    "bonus": 23,
+    "singleBonus": 23
+  },
+  {
+    "strengthID": 1024,
+    "crossplayID": 1024,
+    "bonus": 24,
+    "singleBonus": 24
+  },
+  {
+    "strengthID": 1025,
+    "crossplayID": 1025,
+    "bonus": 25,
+    "singleBonus": 25
+  },
+  {
+    "strengthID": 1026,
+    "crossplayID": 1026,
+    "bonus": 26,
+    "singleBonus": 26
+  },
+  {
+    "strengthID": 1027,
+    "crossplayID": 1027,
+    "bonus": 27,
+    "singleBonus": 27
+  },
+  {
+    "strengthID": 1028,
+    "crossplayID": 1028,
+    "bonus": 28,
+    "singleBonus": 28
+  },
+  {
+    "strengthID": 1029,
+    "crossplayID": 1029,
+    "bonus": 29,
+    "singleBonus": 29
+  },
+  {
+    "strengthID": 1030,
+    "crossplayID": 1030,
+    "bonus": 30,
+    "singleBonus": 30
+  },
+  {
+    "strengthID": 1031,
+    "crossplayID": 1031,
+    "bonus": 31,
+    "singleBonus": 31
+  },
+  {
+    "strengthID": 1032,
+    "crossplayID": 1032,
+    "bonus": 32,
+    "singleBonus": 32
+  },
+  {
+    "strengthID": 1033,
+    "crossplayID": 1033,
+    "bonus": 33,
+    "singleBonus": 33
+  },
+  {
+    "strengthID": 1034,
+    "crossplayID": 1034,
+    "bonus": 34,
+    "singleBonus": 34
+  },
+  {
+    "strengthID": 1035,
+    "crossplayID": 1035,
+    "bonus": 35,
+    "singleBonus": 35
+  },
+  {
+    "strengthID": 1036,
+    "crossplayID": 1036,
+    "bonus": 36,
+    "singleBonus": 36
+  },
+  {
+    "strengthID": 1037,
+    "crossplayID": 1037,
+    "bonus": 37,
+    "singleBonus": 37
+  },
+  {
+    "strengthID": 1038,
+    "crossplayID": 1038,
+    "bonus": 38,
+    "singleBonus": 38
+  },
+  {
+    "strengthID": 1039,
+    "crossplayID": 1039,
+    "bonus": 39,
+    "singleBonus": 39
+  },
+  {
+    "strengthID": 1040,
+    "crossplayID": 1040,
+    "bonus": 40,
+    "singleBonus": 40
+  },
+  {
+    "strengthID": 1041,
+    "crossplayID": 1041,
+    "bonus": 41,
+    "singleBonus": 41
+  },
+  {
+    "strengthID": 1042,
+    "crossplayID": 1042,
+    "bonus": 42,
+    "singleBonus": 42
+  },
+  {
+    "strengthID": 1043,
+    "crossplayID": 1043,
+    "bonus": 43,
+    "singleBonus": 43
+  },
+  {
+    "strengthID": 1044,
+    "crossplayID": 1044,
+    "bonus": 44,
+    "singleBonus": 44
+  },
+  {
+    "strengthID": 1045,
+    "crossplayID": 1045,
+    "bonus": 45,
+    "singleBonus": 45
+  },
+  {
+    "strengthID": 1046,
+    "crossplayID": 1046,
+    "bonus": 46,
+    "singleBonus": 46
+  },
+  {
+    "strengthID": 1047,
+    "crossplayID": 1047,
+    "bonus": 47,
+    "singleBonus": 47
+  },
+  {
+    "strengthID": 1048,
+    "crossplayID": 1048,
+    "bonus": 48,
+    "singleBonus": 48
+  },
+  {
+    "strengthID": 1049,
+    "crossplayID": 1049,
+    "bonus": 49,
+    "singleBonus": 49
+  },
+  {
+    "strengthID": 1050,
+    "crossplayID": 1050,
+    "bonus": 50,
+    "singleBonus": 50
+  },
+  {
+    "strengthID": 1051,
+    "crossplayID": 1051,
+    "bonus": 51,
+    "singleBonus": 51
+  },
+  {
+    "strengthID": 1052,
+    "crossplayID": 1052,
+    "bonus": 52,
+    "singleBonus": 52
+  },
+  {
+    "strengthID": 1053,
+    "crossplayID": 1053,
+    "bonus": 53,
+    "singleBonus": 53
+  },
+  {
+    "strengthID": 1054,
+    "crossplayID": 1054,
+    "bonus": 54,
+    "singleBonus": 54
+  },
+  {
+    "strengthID": 1055,
+    "crossplayID": 1055,
+    "bonus": 55,
+    "singleBonus": 55
+  },
+  {
+    "strengthID": 1056,
+    "crossplayID": 1056,
+    "bonus": 56,
+    "singleBonus": 56
+  },
+  {
+    "strengthID": 1057,
+    "crossplayID": 1057,
+    "bonus": 57,
+    "singleBonus": 57
+  },
+  {
+    "strengthID": 1058,
+    "crossplayID": 1058,
+    "bonus": 58,
+    "singleBonus": 58
+  },
+  {
+    "strengthID": 1059,
+    "crossplayID": 1059,
+    "bonus": 59,
+    "singleBonus": 59
+  },
+  {
+    "strengthID": 1060,
+    "crossplayID": 1060,
+    "bonus": 60,
+    "singleBonus": 60
+  },
+  {
+    "strengthID": 1061,
+    "crossplayID": 1061,
+    "bonus": 61,
+    "singleBonus": 61
+  },
+  {
+    "strengthID": 1062,
+    "crossplayID": 1062,
+    "bonus": 62,
+    "singleBonus": 62
+  },
+  {
+    "strengthID": 1063,
+    "crossplayID": 1063,
+    "bonus": 63,
+    "singleBonus": 63
+  },
+  {
+    "strengthID": 1064,
+    "crossplayID": 1064,
+    "bonus": 64,
+    "singleBonus": 64
+  },
+  {
+    "strengthID": 1065,
+    "crossplayID": 1065,
+    "bonus": 65,
+    "singleBonus": 65
+  },
+  {
+    "strengthID": 1066,
+    "crossplayID": 1066,
+    "bonus": 66,
+    "singleBonus": 66
+  },
+  {
+    "strengthID": 1067,
+    "crossplayID": 1067,
+    "bonus": 67,
+    "singleBonus": 67
+  },
+  {
+    "strengthID": 1068,
+    "crossplayID": 1068,
+    "bonus": 68,
+    "singleBonus": 68
+  },
+  {
+    "strengthID": 1069,
+    "crossplayID": 1069,
+    "bonus": 69,
+    "singleBonus": 69
+  },
+  {
+    "strengthID": 1070,
+    "crossplayID": 1070,
+    "bonus": 70,
+    "singleBonus": 70
+  },
+  {
+    "strengthID": 1071,
+    "crossplayID": 1071,
+    "bonus": 71,
+    "singleBonus": 71
+  },
+  {
+    "strengthID": 1072,
+    "crossplayID": 1072,
+    "bonus": 72,
+    "singleBonus": 72
+  },
+  {
+    "strengthID": 1073,
+    "crossplayID": 1073,
+    "bonus": 73,
+    "singleBonus": 73
+  },
+  {
+    "strengthID": 1074,
+    "crossplayID": 1074,
+    "bonus": 74,
+    "singleBonus": 74
+  },
+  {
+    "strengthID": 1075,
+    "crossplayID": 1075,
+    "bonus": 75,
+    "singleBonus": 75
+  },
+  {
+    "strengthID": 1076,
+    "crossplayID": 1076,
+    "bonus": 76,
+    "singleBonus": 76
+  },
+  {
+    "strengthID": 1077,
+    "crossplayID": 1077,
+    "bonus": 77,
+    "singleBonus": 77
+  },
+  {
+    "strengthID": 1078,
+    "crossplayID": 1078,
+    "bonus": 78,
+    "singleBonus": 78
+  },
+  {
+    "strengthID": 1079,
+    "crossplayID": 1079,
+    "bonus": 79,
+    "singleBonus": 79
+  },
+  {
+    "strengthID": 1080,
+    "crossplayID": 1080,
+    "bonus": 80,
+    "singleBonus": 80
+  },
+  {
+    "strengthID": 1081,
+    "crossplayID": 1081,
+    "bonus": 81,
+    "singleBonus": 81
+  },
+  {
+    "strengthID": 1082,
+    "crossplayID": 1082,
+    "bonus": 82,
+    "singleBonus": 82
+  },
+  {
+    "strengthID": 1083,
+    "crossplayID": 1083,
+    "bonus": 83,
+    "singleBonus": 83
+  },
+  {
+    "strengthID": 1084,
+    "crossplayID": 1084,
+    "bonus": 84,
+    "singleBonus": 84
+  },
+  {
+    "strengthID": 1085,
+    "crossplayID": 1085,
+    "bonus": 85,
+    "singleBonus": 85
+  },
+  {
+    "strengthID": 1086,
+    "crossplayID": 1086,
+    "bonus": 86,
+    "singleBonus": 86
+  },
+  {
+    "strengthID": 1087,
+    "crossplayID": 1087,
+    "bonus": 87,
+    "singleBonus": 87
+  },
+  {
+    "strengthID": 1088,
+    "crossplayID": 1088,
+    "bonus": 88,
+    "singleBonus": 88
+  },
+  {
+    "strengthID": 1089,
+    "crossplayID": 1089,
+    "bonus": 89,
+    "singleBonus": 89
+  },
+  {
+    "strengthID": 1090,
+    "crossplayID": 1090,
+    "bonus": 90,
+    "singleBonus": 90
+  },
+  {
+    "strengthID": 1091,
+    "crossplayID": 1091,
+    "bonus": 91,
+    "singleBonus": 91
+  },
+  {
+    "strengthID": 1092,
+    "crossplayID": 1092,
+    "bonus": 92,
+    "singleBonus": 92
+  },
+  {
+    "strengthID": 1093,
+    "crossplayID": 1093,
+    "bonus": 93,
+    "singleBonus": 93
+  },
+  {
+    "strengthID": 1094,
+    "crossplayID": 1094,
+    "bonus": 94,
+    "singleBonus": 94
+  },
+  {
+    "strengthID": 1095,
+    "crossplayID": 1095,
+    "bonus": 95,
+    "singleBonus": 95
+  },
+  {
+    "strengthID": 1096,
+    "crossplayID": 1096,
+    "bonus": 96,
+    "singleBonus": 96
+  },
+  {
+    "strengthID": 1097,
+    "crossplayID": 1097,
+    "bonus": 97,
+    "singleBonus": 97
+  },
+  {
+    "strengthID": 1098,
+    "crossplayID": 1098,
+    "bonus": 98,
+    "singleBonus": 98
+  },
+  {
+    "strengthID": 1099,
+    "crossplayID": 1099,
+    "bonus": 99,
+    "singleBonus": 99
+  },
+  {
+    "strengthID": 1100,
+    "crossplayID": 1100,
+    "bonus": 100,
+    "singleBonus": 100
+  },
+  {
+    "strengthID": 1101,
+    "crossplayID": 1101,
+    "bonus": 101,
+    "singleBonus": 101
+  },
+  {
+    "strengthID": 1102,
+    "crossplayID": 1102,
+    "bonus": 102,
+    "singleBonus": 102
+  },
+  {
+    "strengthID": 1103,
+    "crossplayID": 1103,
+    "bonus": 103,
+    "singleBonus": 103
+  },
+  {
+    "strengthID": 1104,
+    "crossplayID": 1104,
+    "bonus": 104,
+    "singleBonus": 104
+  },
+  {
+    "strengthID": 1105,
+    "crossplayID": 1105,
+    "bonus": 105,
+    "singleBonus": 105
+  },
+  {
+    "strengthID": 1106,
+    "crossplayID": 1106,
+    "bonus": 106,
+    "singleBonus": 106
+  },
+  {
+    "strengthID": 1107,
+    "crossplayID": 1107,
+    "bonus": 107,
+    "singleBonus": 107
+  },
+  {
+    "strengthID": 1108,
+    "crossplayID": 1108,
+    "bonus": 108,
+    "singleBonus": 108
+  },
+  {
+    "strengthID": 1109,
+    "crossplayID": 1109,
+    "bonus": 109,
+    "singleBonus": 109
+  },
+  {
+    "strengthID": 1110,
+    "crossplayID": 1110,
+    "bonus": 110,
+    "singleBonus": 110
+  },
+  {
+    "strengthID": 1111,
+    "crossplayID": 1111,
+    "bonus": 111,
+    "singleBonus": 111
+  },
+  {
+    "strengthID": 1112,
+    "crossplayID": 1112,
+    "bonus": 112,
+    "singleBonus": 112
+  },
+  {
+    "strengthID": 1113,
+    "crossplayID": 1113,
+    "bonus": 113,
+    "singleBonus": 113
+  },
+  {
+    "strengthID": 1114,
+    "crossplayID": 1114,
+    "bonus": 114,
+    "singleBonus": 114
+  },
+  {
+    "strengthID": 1115,
+    "crossplayID": 1115,
+    "bonus": 115,
+    "singleBonus": 115
+  },
+  {
+    "strengthID": 1116,
+    "crossplayID": 1116,
+    "bonus": 116,
+    "singleBonus": 116
+  },
+  {
+    "strengthID": 1117,
+    "crossplayID": 1117,
+    "bonus": 117,
+    "singleBonus": 117
+  },
+  {
+    "strengthID": 1118,
+    "crossplayID": 1118,
+    "bonus": 118,
+    "singleBonus": 118
+  },
+  {
+    "strengthID": 1119,
+    "crossplayID": 1119,
+    "bonus": 119,
+    "singleBonus": 119
+  },
+  {
+    "strengthID": 1120,
+    "crossplayID": 1120,
+    "bonus": 120,
+    "singleBonus": 120
+  },
+  {
+    "strengthID": 1121,
+    "crossplayID": 1121,
+    "bonus": 121,
+    "singleBonus": 121
+  },
+  {
+    "strengthID": 1122,
+    "crossplayID": 1122,
+    "bonus": 122,
+    "singleBonus": 122
+  },
+  {
+    "strengthID": 1123,
+    "crossplayID": 1123,
+    "bonus": 123,
+    "singleBonus": 123
+  },
+  {
+    "strengthID": 1124,
+    "crossplayID": 1124,
+    "bonus": 124,
+    "singleBonus": 124
+  },
+  {
+    "strengthID": 1125,
+    "crossplayID": 1125,
+    "bonus": 125,
+    "singleBonus": 125
+  },
+  {
+    "strengthID": 1126,
+    "crossplayID": 1126,
+    "bonus": 126,
+    "singleBonus": 126
+  },
+  {
+    "strengthID": 1127,
+    "crossplayID": 1127,
+    "bonus": 127,
+    "singleBonus": 127
+  },
+  {
+    "strengthID": 1128,
+    "crossplayID": 1128,
+    "bonus": 128,
+    "singleBonus": 128
+  },
+  {
+    "strengthID": 1129,
+    "crossplayID": 1129,
+    "bonus": 129,
+    "singleBonus": 129
+  },
+  {
+    "strengthID": 1130,
+    "crossplayID": 1130,
+    "bonus": 130,
+    "singleBonus": 130
+  },
+  {
+    "strengthID": 1131,
+    "crossplayID": 1131,
+    "bonus": 131,
+    "singleBonus": 131
+  },
+  {
+    "strengthID": 1132,
+    "crossplayID": 1132,
+    "bonus": 132,
+    "singleBonus": 132
+  },
+  {
+    "strengthID": 1133,
+    "crossplayID": 1133,
+    "bonus": 133,
+    "singleBonus": 133
+  },
+  {
+    "strengthID": 1134,
+    "crossplayID": 1134,
+    "bonus": 134,
+    "singleBonus": 134
+  },
+  {
+    "strengthID": 1135,
+    "crossplayID": 1135,
+    "bonus": 135,
+    "singleBonus": 135
+  },
+  {
+    "strengthID": 1136,
+    "crossplayID": 1136,
+    "bonus": 136,
+    "singleBonus": 136
+  },
+  {
+    "strengthID": 1137,
+    "crossplayID": 1137,
+    "bonus": 137,
+    "singleBonus": 137
+  },
+  {
+    "strengthID": 1138,
+    "crossplayID": 1138,
+    "bonus": 138,
+    "singleBonus": 138
+  },
+  {
+    "strengthID": 1139,
+    "crossplayID": 1139,
+    "bonus": 139,
+    "singleBonus": 139
+  },
+  {
+    "strengthID": 1140,
+    "crossplayID": 1140,
+    "bonus": 140,
+    "singleBonus": 140
+  },
+  {
+    "strengthID": 1141,
+    "crossplayID": 1141,
+    "bonus": 141,
+    "singleBonus": 141
+  },
+  {
+    "strengthID": 1142,
+    "crossplayID": 1142,
+    "bonus": 142,
+    "singleBonus": 142
+  },
+  {
+    "strengthID": 1143,
+    "crossplayID": 1143,
+    "bonus": 143,
+    "singleBonus": 143
+  },
+  {
+    "strengthID": 1144,
+    "crossplayID": 1144,
+    "bonus": 144,
+    "singleBonus": 144
+  },
+  {
+    "strengthID": 1145,
+    "crossplayID": 1145,
+    "bonus": 145,
+    "singleBonus": 145
+  },
+  {
+    "strengthID": 1146,
+    "crossplayID": 1146,
+    "bonus": 146,
+    "singleBonus": 146
+  },
+  {
+    "strengthID": 1147,
+    "crossplayID": 1147,
+    "bonus": 147,
+    "singleBonus": 147
+  },
+  {
+    "strengthID": 1148,
+    "crossplayID": 1148,
+    "bonus": 148,
+    "singleBonus": 148
+  },
+  {
+    "strengthID": 1149,
+    "crossplayID": 1149,
+    "bonus": 149,
+    "singleBonus": 149
+  },
+  {
+    "strengthID": 1150,
+    "crossplayID": 1150,
+    "bonus": 150,
+    "singleBonus": 150
+  },
+  {
+    "strengthID": 1151,
+    "crossplayID": 1151,
+    "bonus": 151,
+    "singleBonus": 151
+  },
+  {
+    "strengthID": 2001,
+    "crossplayID": 2001
+  }
+]

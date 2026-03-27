@@ -1,25 +1,23 @@
-{
-  "messageRestriction": [
-    {
-      "messageRestrictionID": 1,
-      "messageType": 2,
-      "dailyLimitPerPlayer": 75,
-      "minLevel": 16,
-      "minLevelGlobalServer": 1
-    },
-    {
-      "messageRestrictionID": 2,
-      "messageType": 22,
-      "dailyLimitPerPlayer": 350,
-      "minLevel": 1,
-      "minLevelGlobalServer": 1
-    },
-    {
-      "messageRestrictionID": 3,
-      "messageType": 36,
-      "dailyLimitPerPlayer": 50,
-      "minLevel": 1,
-      "minLevelGlobalServer": 1
-    }
-  ]
-}
+[
+  {
+    "messageRestrictionID": 1,
+    "messageType": 2,
+    "dailyLimitPerPlayer": 75,
+    "minLevel": 16,
+    "minLevelGlobalServer": 1
+  },
+  {
+    "messageRestrictionID": 2,
+    "messageType": 22,
+    "dailyLimitPerPlayer": 350,
+    "minLevel": 1,
+    "minLevelGlobalServer": 1
+  },
+  {
+    "messageRestrictionID": 3,
+    "messageType": 36,
+    "dailyLimitPerPlayer": 50,
+    "minLevel": 1,
+    "minLevelGlobalServer": 1
+  }
+]

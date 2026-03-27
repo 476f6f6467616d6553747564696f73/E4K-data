@@ -1,404 +1,402 @@
-{
-  "alliancefamerank": [
-    {
-      "fameLevel": 1,
-      "threshold": 0,
-      "wood": 0,
-      "stone": 0,
-      "currency1": 0,
-      "currency2": 0
-    },
-    {
-      "fameLevel": 2,
-      "threshold": 8000,
-      "wood": 750,
-      "stone": 0,
-      "currency1": 100,
-      "currency2": 300
-    },
-    {
-      "fameLevel": 3,
-      "threshold": 34000,
-      "wood": 2100,
-      "stone": 0,
-      "currency1": 450,
-      "currency2": 650
-    },
-    {
-      "fameLevel": 4,
-      "threshold": 77000,
-      "wood": 3900,
-      "stone": 1500,
-      "currency1": 0,
-      "currency2": 1050
-    },
-    {
-      "fameLevel": 5,
-      "threshold": 138000,
-      "wood": 6000,
-      "stone": 2750,
-      "currency1": 0,
-      "currency2": 1500
-    },
-    {
-      "fameLevel": 6,
-      "threshold": 216000,
-      "wood": 0,
-      "stone": 4400,
-      "currency1": 3450,
-      "currency2": 1900
-    },
-    {
-      "fameLevel": 7,
-      "threshold": 311000,
-      "wood": 11000,
-      "stone": 0,
-      "currency1": 5150,
-      "currency2": 2350
-    },
-    {
-      "fameLevel": 8,
-      "threshold": 423000,
-      "wood": 13900,
-      "stone": 8950,
-      "currency1": 0,
-      "currency2": 2800
-    },
-    {
-      "fameLevel": 9,
-      "threshold": 553000,
-      "wood": 0,
-      "stone": 11800,
-      "currency1": 9700,
-      "currency2": 3300
-    },
-    {
-      "fameLevel": 10,
-      "threshold": 700000,
-      "wood": 20250,
-      "stone": 15150,
-      "currency1": 0,
-      "currency2": 3750
-    },
-    {
-      "fameLevel": 11,
-      "threshold": 865000,
-      "wood": 23700,
-      "stone": 0,
-      "currency1": 15850,
-      "currency2": 4250
-    },
-    {
-      "fameLevel": 12,
-      "threshold": 1046000,
-      "wood": 0,
-      "stone": 23050,
-      "currency1": 19550,
-      "currency2": 4750
-    },
-    {
-      "fameLevel": 13,
-      "threshold": 1245000,
-      "wood": 0,
-      "stone": 27700,
-      "currency1": 23650,
-      "currency2": 5250
-    },
-    {
-      "fameLevel": 14,
-      "threshold": 1461000,
-      "wood": 35150,
-      "stone": 32750,
-      "currency1": 0,
-      "currency2": 5750
-    },
-    {
-      "fameLevel": 15,
-      "threshold": 1695000,
-      "wood": 39300,
-      "stone": 0,
-      "currency1": 33250,
-      "currency2": 6250
-    },
-    {
-      "fameLevel": 16,
-      "threshold": 1946000,
-      "wood": 43550,
-      "stone": 44250,
-      "currency1": 0,
-      "currency2": 6750
-    },
-    {
-      "fameLevel": 17,
-      "threshold": 2214000,
-      "wood": 0,
-      "stone": 50650,
-      "currency1": 44550,
-      "currency2": 7300
-    },
-    {
-      "fameLevel": 18,
-      "threshold": 2499000,
-      "wood": 52550,
-      "stone": 57550,
-      "currency1": 0,
-      "currency2": 7800
-    },
-    {
-      "fameLevel": 19,
-      "threshold": 2802000,
-      "wood": 57300,
-      "stone": 64900,
-      "currency1": 0,
-      "currency2": 8350
-    },
-    {
-      "fameLevel": 20,
-      "threshold": 3122000,
-      "wood": 62100,
-      "stone": 0,
-      "currency1": 65050,
-      "currency2": 8850
-    },
-    {
-      "fameLevel": 21,
-      "threshold": 3460000,
-      "wood": 67100,
-      "stone": 0,
-      "currency1": 72800,
-      "currency2": 9400
-    },
-    {
-      "fameLevel": 22,
-      "threshold": 3814000,
-      "wood": 0,
-      "stone": 89700,
-      "currency1": 81050,
-      "currency2": 9950
-    },
-    {
-      "fameLevel": 23,
-      "threshold": 4186000,
-      "wood": 77400,
-      "stone": 98900,
-      "currency1": 0,
-      "currency2": 10500
-    },
-    {
-      "fameLevel": 24,
-      "threshold": 4575000,
-      "wood": 0,
-      "stone": 108550,
-      "currency1": 99050,
-      "currency2": 11050
-    },
-    {
-      "fameLevel": 25,
-      "threshold": 4982000,
-      "wood": 88200,
-      "stone": 0,
-      "currency1": 108750,
-      "currency2": 11600
-    },
-    {
-      "fameLevel": 26,
-      "threshold": 5406000,
-      "wood": 93750,
-      "stone": 0,
-      "currency1": 119000,
-      "currency2": 12150
-    },
-    {
-      "fameLevel": 27,
-      "threshold": 5847000,
-      "wood": 99450,
-      "stone": 140450,
-      "currency1": 0,
-      "currency2": 12700
-    },
-    {
-      "fameLevel": 28,
-      "threshold": 6305000,
-      "wood": 0,
-      "stone": 152050,
-      "currency1": 140950,
-      "currency2": 13300
-    },
-    {
-      "fameLevel": 29,
-      "threshold": 6781000,
-      "wood": 111100,
-      "stone": 164100,
-      "currency1": 0,
-      "currency2": 13850
-    },
-    {
-      "fameLevel": 30,
-      "threshold": 7274000,
-      "wood": 117150,
-      "stone": 0,
-      "currency1": 164900,
-      "currency2": 14400
-    },
-    {
-      "fameLevel": 31,
-      "threshold": 7785000,
-      "wood": 0,
-      "stone": 189700,
-      "currency1": 177700,
-      "currency2": 15000
-    },
-    {
-      "fameLevel": 32,
-      "threshold": 8312000,
-      "wood": 0,
-      "stone": 203200,
-      "currency1": 191000,
-      "currency2": 15550
-    },
-    {
-      "fameLevel": 33,
-      "threshold": 8857000,
-      "wood": 135750,
-      "stone": 217200,
-      "currency1": 0,
-      "currency2": 16150
-    },
-    {
-      "fameLevel": 34,
-      "threshold": 9419000,
-      "wood": 142200,
-      "stone": 0,
-      "currency1": 219150,
-      "currency2": 16750
-    },
-    {
-      "fameLevel": 35,
-      "threshold": 9999000,
-      "wood": 148700,
-      "stone": 246700,
-      "currency1": 0,
-      "currency2": 17300
-    },
-    {
-      "fameLevel": 36,
-      "threshold": 10596000,
-      "wood": 0,
-      "stone": 262200,
-      "currency1": 249450,
-      "currency2": 17900
-    },
-    {
-      "fameLevel": 37,
-      "threshold": 11210000,
-      "wood": 162000,
-      "stone": 278200,
-      "currency1": 0,
-      "currency2": 18500
-    },
-    {
-      "fameLevel": 38,
-      "threshold": 11841000,
-      "wood": 168800,
-      "stone": 0,
-      "currency1": 281850,
-      "currency2": 19100
-    },
-    {
-      "fameLevel": 39,
-      "threshold": 12490000,
-      "wood": 175700,
-      "stone": 311650,
-      "currency1": 0,
-      "currency2": 19650
-    },
-    {
-      "fameLevel": 40,
-      "threshold": 13156000,
-      "wood": 182650,
-      "stone": 0,
-      "currency1": 316500,
-      "currency2": 20250
-    },
-    {
-      "fameLevel": 41,
-      "threshold": 13840000,
-      "wood": 189750,
-      "stone": 347050,
-      "currency1": 0,
-      "currency2": 20850
-    },
-    {
-      "fameLevel": 42,
-      "threshold": 14540000,
-      "wood": 0,
-      "stone": 365550,
-      "currency1": 353300,
-      "currency2": 21450
-    },
-    {
-      "fameLevel": 43,
-      "threshold": 15258000,
-      "wood": 204150,
-      "stone": 384500,
-      "currency1": 0,
-      "currency2": 22050
-    },
-    {
-      "fameLevel": 44,
-      "threshold": 15993000,
-      "wood": 0,
-      "stone": 404000,
-      "currency1": 392300,
-      "currency2": 22700
-    },
-    {
-      "fameLevel": 45,
-      "threshold": 16746000,
-      "wood": 218900,
-      "stone": 0,
-      "currency1": 412650,
-      "currency2": 23300
-    },
-    {
-      "fameLevel": 46,
-      "threshold": 17516000,
-      "wood": 226400,
-      "stone": 444450,
-      "currency1": 0,
-      "currency2": 23900
-    },
-    {
-      "fameLevel": 47,
-      "threshold": 18303000,
-      "wood": 0,
-      "stone": 465450,
-      "currency1": 455050,
-      "currency2": 24500
-    },
-    {
-      "fameLevel": 48,
-      "threshold": 19107000,
-      "wood": 241650,
-      "stone": 486950,
-      "currency1": 0,
-      "currency2": 25100
-    },
-    {
-      "fameLevel": 49,
-      "threshold": 19929000,
-      "wood": 249400,
-      "stone": 0,
-      "currency1": 499700,
-      "currency2": 25750
-    },
-    {
-      "fameLevel": 50,
-      "threshold": 20768000,
-      "wood": 0,
-      "stone": 531500,
-      "currency1": 522900,
-      "currency2": 26350
-    }
-  ]
-}
+[
+  {
+    "fameLevel": 1,
+    "threshold": 0,
+    "wood": 0,
+    "stone": 0,
+    "currency1": 0,
+    "currency2": 0
+  },
+  {
+    "fameLevel": 2,
+    "threshold": 8000,
+    "wood": 750,
+    "stone": 0,
+    "currency1": 100,
+    "currency2": 300
+  },
+  {
+    "fameLevel": 3,
+    "threshold": 34000,
+    "wood": 2100,
+    "stone": 0,
+    "currency1": 450,
+    "currency2": 650
+  },
+  {
+    "fameLevel": 4,
+    "threshold": 77000,
+    "wood": 3900,
+    "stone": 1500,
+    "currency1": 0,
+    "currency2": 1050
+  },
+  {
+    "fameLevel": 5,
+    "threshold": 138000,
+    "wood": 6000,
+    "stone": 2750,
+    "currency1": 0,
+    "currency2": 1500
+  },
+  {
+    "fameLevel": 6,
+    "threshold": 216000,
+    "wood": 0,
+    "stone": 4400,
+    "currency1": 3450,
+    "currency2": 1900
+  },
+  {
+    "fameLevel": 7,
+    "threshold": 311000,
+    "wood": 11000,
+    "stone": 0,
+    "currency1": 5150,
+    "currency2": 2350
+  },
+  {
+    "fameLevel": 8,
+    "threshold": 423000,
+    "wood": 13900,
+    "stone": 8950,
+    "currency1": 0,
+    "currency2": 2800
+  },
+  {
+    "fameLevel": 9,
+    "threshold": 553000,
+    "wood": 0,
+    "stone": 11800,
+    "currency1": 9700,
+    "currency2": 3300
+  },
+  {
+    "fameLevel": 10,
+    "threshold": 700000,
+    "wood": 20250,
+    "stone": 15150,
+    "currency1": 0,
+    "currency2": 3750
+  },
+  {
+    "fameLevel": 11,
+    "threshold": 865000,
+    "wood": 23700,
+    "stone": 0,
+    "currency1": 15850,
+    "currency2": 4250
+  },
+  {
+    "fameLevel": 12,
+    "threshold": 1046000,
+    "wood": 0,
+    "stone": 23050,
+    "currency1": 19550,
+    "currency2": 4750
+  },
+  {
+    "fameLevel": 13,
+    "threshold": 1245000,
+    "wood": 0,
+    "stone": 27700,
+    "currency1": 23650,
+    "currency2": 5250
+  },
+  {
+    "fameLevel": 14,
+    "threshold": 1461000,
+    "wood": 35150,
+    "stone": 32750,
+    "currency1": 0,
+    "currency2": 5750
+  },
+  {
+    "fameLevel": 15,
+    "threshold": 1695000,
+    "wood": 39300,
+    "stone": 0,
+    "currency1": 33250,
+    "currency2": 6250
+  },
+  {
+    "fameLevel": 16,
+    "threshold": 1946000,
+    "wood": 43550,
+    "stone": 44250,
+    "currency1": 0,
+    "currency2": 6750
+  },
+  {
+    "fameLevel": 17,
+    "threshold": 2214000,
+    "wood": 0,
+    "stone": 50650,
+    "currency1": 44550,
+    "currency2": 7300
+  },
+  {
+    "fameLevel": 18,
+    "threshold": 2499000,
+    "wood": 52550,
+    "stone": 57550,
+    "currency1": 0,
+    "currency2": 7800
+  },
+  {
+    "fameLevel": 19,
+    "threshold": 2802000,
+    "wood": 57300,
+    "stone": 64900,
+    "currency1": 0,
+    "currency2": 8350
+  },
+  {
+    "fameLevel": 20,
+    "threshold": 3122000,
+    "wood": 62100,
+    "stone": 0,
+    "currency1": 65050,
+    "currency2": 8850
+  },
+  {
+    "fameLevel": 21,
+    "threshold": 3460000,
+    "wood": 67100,
+    "stone": 0,
+    "currency1": 72800,
+    "currency2": 9400
+  },
+  {
+    "fameLevel": 22,
+    "threshold": 3814000,
+    "wood": 0,
+    "stone": 89700,
+    "currency1": 81050,
+    "currency2": 9950
+  },
+  {
+    "fameLevel": 23,
+    "threshold": 4186000,
+    "wood": 77400,
+    "stone": 98900,
+    "currency1": 0,
+    "currency2": 10500
+  },
+  {
+    "fameLevel": 24,
+    "threshold": 4575000,
+    "wood": 0,
+    "stone": 108550,
+    "currency1": 99050,
+    "currency2": 11050
+  },
+  {
+    "fameLevel": 25,
+    "threshold": 4982000,
+    "wood": 88200,
+    "stone": 0,
+    "currency1": 108750,
+    "currency2": 11600
+  },
+  {
+    "fameLevel": 26,
+    "threshold": 5406000,
+    "wood": 93750,
+    "stone": 0,
+    "currency1": 119000,
+    "currency2": 12150
+  },
+  {
+    "fameLevel": 27,
+    "threshold": 5847000,
+    "wood": 99450,
+    "stone": 140450,
+    "currency1": 0,
+    "currency2": 12700
+  },
+  {
+    "fameLevel": 28,
+    "threshold": 6305000,
+    "wood": 0,
+    "stone": 152050,
+    "currency1": 140950,
+    "currency2": 13300
+  },
+  {
+    "fameLevel": 29,
+    "threshold": 6781000,
+    "wood": 111100,
+    "stone": 164100,
+    "currency1": 0,
+    "currency2": 13850
+  },
+  {
+    "fameLevel": 30,
+    "threshold": 7274000,
+    "wood": 117150,
+    "stone": 0,
+    "currency1": 164900,
+    "currency2": 14400
+  },
+  {
+    "fameLevel": 31,
+    "threshold": 7785000,
+    "wood": 0,
+    "stone": 189700,
+    "currency1": 177700,
+    "currency2": 15000
+  },
+  {
+    "fameLevel": 32,
+    "threshold": 8312000,
+    "wood": 0,
+    "stone": 203200,
+    "currency1": 191000,
+    "currency2": 15550
+  },
+  {
+    "fameLevel": 33,
+    "threshold": 8857000,
+    "wood": 135750,
+    "stone": 217200,
+    "currency1": 0,
+    "currency2": 16150
+  },
+  {
+    "fameLevel": 34,
+    "threshold": 9419000,
+    "wood": 142200,
+    "stone": 0,
+    "currency1": 219150,
+    "currency2": 16750
+  },
+  {
+    "fameLevel": 35,
+    "threshold": 9999000,
+    "wood": 148700,
+    "stone": 246700,
+    "currency1": 0,
+    "currency2": 17300
+  },
+  {
+    "fameLevel": 36,
+    "threshold": 10596000,
+    "wood": 0,
+    "stone": 262200,
+    "currency1": 249450,
+    "currency2": 17900
+  },
+  {
+    "fameLevel": 37,
+    "threshold": 11210000,
+    "wood": 162000,
+    "stone": 278200,
+    "currency1": 0,
+    "currency2": 18500
+  },
+  {
+    "fameLevel": 38,
+    "threshold": 11841000,
+    "wood": 168800,
+    "stone": 0,
+    "currency1": 281850,
+    "currency2": 19100
+  },
+  {
+    "fameLevel": 39,
+    "threshold": 12490000,
+    "wood": 175700,
+    "stone": 311650,
+    "currency1": 0,
+    "currency2": 19650
+  },
+  {
+    "fameLevel": 40,
+    "threshold": 13156000,
+    "wood": 182650,
+    "stone": 0,
+    "currency1": 316500,
+    "currency2": 20250
+  },
+  {
+    "fameLevel": 41,
+    "threshold": 13840000,
+    "wood": 189750,
+    "stone": 347050,
+    "currency1": 0,
+    "currency2": 20850
+  },
+  {
+    "fameLevel": 42,
+    "threshold": 14540000,
+    "wood": 0,
+    "stone": 365550,
+    "currency1": 353300,
+    "currency2": 21450
+  },
+  {
+    "fameLevel": 43,
+    "threshold": 15258000,
+    "wood": 204150,
+    "stone": 384500,
+    "currency1": 0,
+    "currency2": 22050
+  },
+  {
+    "fameLevel": 44,
+    "threshold": 15993000,
+    "wood": 0,
+    "stone": 404000,
+    "currency1": 392300,
+    "currency2": 22700
+  },
+  {
+    "fameLevel": 45,
+    "threshold": 16746000,
+    "wood": 218900,
+    "stone": 0,
+    "currency1": 412650,
+    "currency2": 23300
+  },
+  {
+    "fameLevel": 46,
+    "threshold": 17516000,
+    "wood": 226400,
+    "stone": 444450,
+    "currency1": 0,
+    "currency2": 23900
+  },
+  {
+    "fameLevel": 47,
+    "threshold": 18303000,
+    "wood": 0,
+    "stone": 465450,
+    "currency1": 455050,
+    "currency2": 24500
+  },
+  {
+    "fameLevel": 48,
+    "threshold": 19107000,
+    "wood": 241650,
+    "stone": 486950,
+    "currency1": 0,
+    "currency2": 25100
+  },
+  {
+    "fameLevel": 49,
+    "threshold": 19929000,
+    "wood": 249400,
+    "stone": 0,
+    "currency1": 499700,
+    "currency2": 25750
+  },
+  {
+    "fameLevel": 50,
+    "threshold": 20768000,
+    "wood": 0,
+    "stone": 531500,
+    "currency1": 522900,
+    "currency2": 26350
+  }
+]

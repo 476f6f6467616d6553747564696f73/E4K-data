@@ -1,536 +1,534 @@
-{
-  "wod": [
-    {
-      "wodID": 900,
-      "cossplayID": 900,
-      "group": "Mapobject",
-      "name": "Castle",
-      "type": "-",
-      "kIDs": "0,1,2,3,4",
-      "server": 0,
-      "block": 0,
-      "width": 0,
-      "height": 0
-    },
-    {
-      "wodID": 1000,
-      "cossplayID": 1000,
-      "group": "Mapobject",
-      "name": "Dungeon",
-      "type": "Level1",
-      "kIDs": "0,1,2,3,4",
-      "server": 0,
-      "block": 0,
-      "width": 0,
-      "height": 0
-    },
-    {
-      "wodID": 1100,
-      "cossplayID": 1100,
-      "group": "Mapobject",
-      "name": "Outpost",
-      "type": "Stone",
-      "kIDs": "0,1,2,3,4",
-      "server": 0,
-      "block": 0,
-      "width": 0,
-      "height": 0
-    },
-    {
-      "wodID": 1101,
-      "cossplayID": 1101,
-      "group": "Mapobject",
-      "name": "Outpost",
-      "type": "Wood",
-      "kIDs": "0,1,2,3,4",
-      "server": 0,
-      "block": 0,
-      "width": 0,
-      "height": 0
-    },
-    {
-      "wodID": 1102,
-      "cossplayID": 1102,
-      "group": "Mapobject",
-      "name": "Outpost",
-      "type": "Field",
-      "kIDs": "0,1,2,3,4",
-      "server": 0,
-      "block": 0,
-      "width": 0,
-      "height": 0
-    },
-    {
-      "wodID": 1200,
-      "cossplayID": 1200,
-      "group": "Mapobject",
-      "name": "Capital",
-      "type": "Basic",
-      "kIDs": "0,1,2,3,4",
-      "server": 0,
-      "block": 0,
-      "width": 0,
-      "height": 0
-    },
-    {
-      "wodID": 1300,
-      "cossplayID": 1300,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Bush1x1_1",
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1301,
-      "cossplayID": 1301,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Bush1x1_2",
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1302,
-      "cossplayID": 1302,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Bush1x2",
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 2
-    },
-    {
-      "wodID": 1303,
-      "cossplayID": 1303,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Bush2x1",
-      "server": 1,
-      "block": 0,
-      "width": 2,
-      "height": 1
-    },
-    {
-      "wodID": 1304,
-      "cossplayID": 1304,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Bush2x2",
-      "server": 1,
-      "block": 0,
-      "width": 2,
-      "height": 2
-    },
-    {
-      "wodID": 1305,
-      "cossplayID": 1305,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Forest2x2",
-      "server": 1,
-      "block": 0,
-      "width": 2,
-      "height": 2
-    },
-    {
-      "wodID": 1306,
-      "cossplayID": 1306,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Gras1x1",
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1307,
-      "cossplayID": 1307,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Gras2x2",
-      "server": 1,
-      "block": 0,
-      "width": 2,
-      "height": 2
-    },
-    {
-      "wodID": 1308,
-      "cossplayID": 1308,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Gras3x1",
-      "server": 1,
-      "block": 0,
-      "width": 3,
-      "height": 1
-    },
-    {
-      "wodID": 1309,
-      "cossplayID": 1309,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Hill1x1_1",
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1310,
-      "cossplayID": 1310,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Hill1x1_2",
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1311,
-      "cossplayID": 1311,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Hill2x1",
-      "server": 1,
-      "block": 0,
-      "width": 2,
-      "height": 1
-    },
-    {
-      "wodID": 1312,
-      "cossplayID": 1312,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Mountain1x1_1",
-      "server": 1,
-      "block": 1,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1313,
-      "cossplayID": 1313,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Mountain1x1_2",
-      "server": 1,
-      "block": 1,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1314,
-      "cossplayID": 1314,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Mountain2x2",
-      "server": 1,
-      "block": 1,
-      "width": 2,
-      "height": 2
-    },
-    {
-      "wodID": 1315,
-      "cossplayID": 1315,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Wood1x1_1",
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1316,
-      "cossplayID": 1316,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Wood1x1_2",
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1317,
-      "cossplayID": 1317,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Wood1x1_3",
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1318,
-      "cossplayID": 1318,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Wood1x1_4",
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1319,
-      "cossplayID": 1319,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Wood1x1_5",
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1320,
-      "cossplayID": 1320,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Stonehead1x1",
-      "kIDs": 10,
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1321,
-      "cossplayID": 1321,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Ruin1x1",
-      "kIDs": 10,
-      "server": 1,
-      "block": 0,
-      "width": 1,
-      "height": 1
-    },
-    {
-      "wodID": 1322,
-      "cossplayID": 1322,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Ruin2x1_1",
-      "kIDs": 10,
-      "server": 1,
-      "block": 0,
-      "width": 2,
-      "height": 1
-    },
-    {
-      "wodID": 1323,
-      "cossplayID": 1323,
-      "group": "Mapobject",
-      "name": "Empty",
-      "type": "Ruin2x1_2",
-      "kIDs": 10,
-      "server": 1,
-      "block": 0,
-      "width": 2,
-      "height": 1
-    },
-    {
-      "wodID": 905200,
-      "group": "Mapobject",
-      "name": "Kingstower",
-      "type": "-"
-    },
-    {
-      "wodID": 905201,
-      "group": "Mapobject",
-      "name": "Shadowarea",
-      "type": "-"
-    },
-    {
-      "wodID": 905202,
-      "group": "Mapobject",
-      "name": "KingdomCastle",
-      "type": "-"
-    },
-    {
-      "wodID": 905203,
-      "group": "Mapobject",
-      "name": "Village",
-      "type": "-"
-    },
-    {
-      "wodID": 905204,
-      "group": "Mapobject",
-      "name": "Bossdungeon",
-      "type": "-"
-    },
-    {
-      "wodID": 905205,
-      "group": "Mapobject",
-      "name": "Eventdungeon",
-      "type": "-"
-    },
-    {
-      "wodID": 905206,
-      "group": "Mapobject",
-      "name": "Metropol",
-      "type": "-"
-    },
-    {
-      "wodID": 905207,
-      "group": "Mapobject",
-      "name": "AlienInvasion",
-      "type": "-"
-    },
-    {
-      "wodID": 905208,
-      "group": "Mapobject",
-      "name": "SamuraiAlien",
-      "type": "-"
-    },
-    {
-      "wodID": 905209,
-      "group": "Mapobject",
-      "name": "TreasureMap",
-      "type": "-"
-    },
-    {
-      "wodID": 905210,
-      "group": "Mapobject",
-      "name": "Dummy",
-      "type": "-"
-    },
-    {
-      "wodID": 905211,
-      "group": "Mapobject",
-      "name": "FactionCamp",
-      "type": "-"
-    },
-    {
-      "wodID": 905212,
-      "group": "Mapobject",
-      "name": "FactionCapital",
-      "type": "-"
-    },
-    {
-      "wodID": 905213,
-      "group": "Mapobject",
-      "name": "FactionTower",
-      "type": "-"
-    },
-    {
-      "wodID": 905214,
-      "group": "Mapobject",
-      "name": "FactionVillage",
-      "type": "-"
-    },
-    {
-      "wodID": 905215,
-      "group": "Mapobject",
-      "name": "ResourceIsle",
-      "type": "-"
-    },
-    {
-      "wodID": 905216,
-      "group": "Mapobject",
-      "name": "DungeonIsle",
-      "type": "-"
-    },
-    {
-      "wodID": 905217,
-      "group": "Mapobject",
-      "name": "NomadInvasion",
-      "type": "-"
-    },
-    {
-      "wodID": 905218,
-      "group": "Mapobject",
-      "name": "Monument",
-      "type": "-"
-    },
-    {
-      "wodID": 905219,
-      "group": "Mapobject",
-      "name": "LandMarkPlaceholder",
-      "type": "-"
-    },
-    {
-      "wodID": 905220,
-      "group": "Mapobject",
-      "name": "PlaceHolder",
-      "type": "-"
-    },
-    {
-      "wodID": 905221,
-      "group": "Mapobject",
-      "name": "NomadKhan",
-      "type": "-"
-    },
-    {
-      "wodID": 905223,
-      "group": "Mapobject",
-      "name": "SamuraiInvasion",
-      "type": "-"
-    },
-    {
-      "wodID": 905224,
-      "group": "Mapobject",
-      "name": "RedAllianceAlienInvasion",
-      "type": "-"
-    },
-    {
-      "wodID": 905225,
-      "group": "Mapobject",
-      "name": "DaimyoCastle",
-      "type": "-"
-    },
-    {
-      "wodID": 905226,
-      "group": "Mapobject",
-      "name": "DaimyoTownship",
-      "type": "-"
-    },
-    {
-      "wodID": 905227,
-      "group": "Mapobject",
-      "name": "ChargeCamp",
-      "type": "-"
-    },
-    {
-      "wodID": 905228,
-      "group": "Mapobject",
-      "name": "AllianceTower",
-      "type": "-"
-    },
-    {
-      "wodID": 905229,
-      "group": "Mapobject",
-      "name": "ResourceTower",
-      "type": "-"
-    },
-    {
-      "wodID": 905230,
-      "group": "Mapobject",
-      "name": "WolfKing",
-      "type": "-"
-    },
-    {
-      "wodID": 905231,
-      "group": "Mapobject",
-      "name": "AllianceRaidPortal",
-      "type": "-"
-    },
-    {
-      "wodID": 906000,
-      "group": "Mapobject",
-      "name": "AreaConnection",
-      "type": "-"
-    }
-  ]
-}
+[
+  {
+    "wodID": 900,
+    "cossplayID": 900,
+    "group": "Mapobject",
+    "name": "Castle",
+    "type": "-",
+    "kIDs": "0,1,2,3,4",
+    "server": 0,
+    "block": 0,
+    "width": 0,
+    "height": 0
+  },
+  {
+    "wodID": 1000,
+    "cossplayID": 1000,
+    "group": "Mapobject",
+    "name": "Dungeon",
+    "type": "Level1",
+    "kIDs": "0,1,2,3,4",
+    "server": 0,
+    "block": 0,
+    "width": 0,
+    "height": 0
+  },
+  {
+    "wodID": 1100,
+    "cossplayID": 1100,
+    "group": "Mapobject",
+    "name": "Outpost",
+    "type": "Stone",
+    "kIDs": "0,1,2,3,4",
+    "server": 0,
+    "block": 0,
+    "width": 0,
+    "height": 0
+  },
+  {
+    "wodID": 1101,
+    "cossplayID": 1101,
+    "group": "Mapobject",
+    "name": "Outpost",
+    "type": "Wood",
+    "kIDs": "0,1,2,3,4",
+    "server": 0,
+    "block": 0,
+    "width": 0,
+    "height": 0
+  },
+  {
+    "wodID": 1102,
+    "cossplayID": 1102,
+    "group": "Mapobject",
+    "name": "Outpost",
+    "type": "Field",
+    "kIDs": "0,1,2,3,4",
+    "server": 0,
+    "block": 0,
+    "width": 0,
+    "height": 0
+  },
+  {
+    "wodID": 1200,
+    "cossplayID": 1200,
+    "group": "Mapobject",
+    "name": "Capital",
+    "type": "Basic",
+    "kIDs": "0,1,2,3,4",
+    "server": 0,
+    "block": 0,
+    "width": 0,
+    "height": 0
+  },
+  {
+    "wodID": 1300,
+    "cossplayID": 1300,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Bush1x1_1",
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1301,
+    "cossplayID": 1301,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Bush1x1_2",
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1302,
+    "cossplayID": 1302,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Bush1x2",
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 2
+  },
+  {
+    "wodID": 1303,
+    "cossplayID": 1303,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Bush2x1",
+    "server": 1,
+    "block": 0,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "wodID": 1304,
+    "cossplayID": 1304,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Bush2x2",
+    "server": 1,
+    "block": 0,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "wodID": 1305,
+    "cossplayID": 1305,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Forest2x2",
+    "server": 1,
+    "block": 0,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "wodID": 1306,
+    "cossplayID": 1306,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Gras1x1",
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1307,
+    "cossplayID": 1307,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Gras2x2",
+    "server": 1,
+    "block": 0,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "wodID": 1308,
+    "cossplayID": 1308,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Gras3x1",
+    "server": 1,
+    "block": 0,
+    "width": 3,
+    "height": 1
+  },
+  {
+    "wodID": 1309,
+    "cossplayID": 1309,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Hill1x1_1",
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1310,
+    "cossplayID": 1310,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Hill1x1_2",
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1311,
+    "cossplayID": 1311,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Hill2x1",
+    "server": 1,
+    "block": 0,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "wodID": 1312,
+    "cossplayID": 1312,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Mountain1x1_1",
+    "server": 1,
+    "block": 1,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1313,
+    "cossplayID": 1313,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Mountain1x1_2",
+    "server": 1,
+    "block": 1,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1314,
+    "cossplayID": 1314,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Mountain2x2",
+    "server": 1,
+    "block": 1,
+    "width": 2,
+    "height": 2
+  },
+  {
+    "wodID": 1315,
+    "cossplayID": 1315,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Wood1x1_1",
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1316,
+    "cossplayID": 1316,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Wood1x1_2",
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1317,
+    "cossplayID": 1317,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Wood1x1_3",
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1318,
+    "cossplayID": 1318,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Wood1x1_4",
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1319,
+    "cossplayID": 1319,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Wood1x1_5",
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1320,
+    "cossplayID": 1320,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Stonehead1x1",
+    "kIDs": 10,
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1321,
+    "cossplayID": 1321,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Ruin1x1",
+    "kIDs": 10,
+    "server": 1,
+    "block": 0,
+    "width": 1,
+    "height": 1
+  },
+  {
+    "wodID": 1322,
+    "cossplayID": 1322,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Ruin2x1_1",
+    "kIDs": 10,
+    "server": 1,
+    "block": 0,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "wodID": 1323,
+    "cossplayID": 1323,
+    "group": "Mapobject",
+    "name": "Empty",
+    "type": "Ruin2x1_2",
+    "kIDs": 10,
+    "server": 1,
+    "block": 0,
+    "width": 2,
+    "height": 1
+  },
+  {
+    "wodID": 905200,
+    "group": "Mapobject",
+    "name": "Kingstower",
+    "type": "-"
+  },
+  {
+    "wodID": 905201,
+    "group": "Mapobject",
+    "name": "Shadowarea",
+    "type": "-"
+  },
+  {
+    "wodID": 905202,
+    "group": "Mapobject",
+    "name": "KingdomCastle",
+    "type": "-"
+  },
+  {
+    "wodID": 905203,
+    "group": "Mapobject",
+    "name": "Village",
+    "type": "-"
+  },
+  {
+    "wodID": 905204,
+    "group": "Mapobject",
+    "name": "Bossdungeon",
+    "type": "-"
+  },
+  {
+    "wodID": 905205,
+    "group": "Mapobject",
+    "name": "Eventdungeon",
+    "type": "-"
+  },
+  {
+    "wodID": 905206,
+    "group": "Mapobject",
+    "name": "Metropol",
+    "type": "-"
+  },
+  {
+    "wodID": 905207,
+    "group": "Mapobject",
+    "name": "AlienInvasion",
+    "type": "-"
+  },
+  {
+    "wodID": 905208,
+    "group": "Mapobject",
+    "name": "SamuraiAlien",
+    "type": "-"
+  },
+  {
+    "wodID": 905209,
+    "group": "Mapobject",
+    "name": "TreasureMap",
+    "type": "-"
+  },
+  {
+    "wodID": 905210,
+    "group": "Mapobject",
+    "name": "Dummy",
+    "type": "-"
+  },
+  {
+    "wodID": 905211,
+    "group": "Mapobject",
+    "name": "FactionCamp",
+    "type": "-"
+  },
+  {
+    "wodID": 905212,
+    "group": "Mapobject",
+    "name": "FactionCapital",
+    "type": "-"
+  },
+  {
+    "wodID": 905213,
+    "group": "Mapobject",
+    "name": "FactionTower",
+    "type": "-"
+  },
+  {
+    "wodID": 905214,
+    "group": "Mapobject",
+    "name": "FactionVillage",
+    "type": "-"
+  },
+  {
+    "wodID": 905215,
+    "group": "Mapobject",
+    "name": "ResourceIsle",
+    "type": "-"
+  },
+  {
+    "wodID": 905216,
+    "group": "Mapobject",
+    "name": "DungeonIsle",
+    "type": "-"
+  },
+  {
+    "wodID": 905217,
+    "group": "Mapobject",
+    "name": "NomadInvasion",
+    "type": "-"
+  },
+  {
+    "wodID": 905218,
+    "group": "Mapobject",
+    "name": "Monument",
+    "type": "-"
+  },
+  {
+    "wodID": 905219,
+    "group": "Mapobject",
+    "name": "LandMarkPlaceholder",
+    "type": "-"
+  },
+  {
+    "wodID": 905220,
+    "group": "Mapobject",
+    "name": "PlaceHolder",
+    "type": "-"
+  },
+  {
+    "wodID": 905221,
+    "group": "Mapobject",
+    "name": "NomadKhan",
+    "type": "-"
+  },
+  {
+    "wodID": 905223,
+    "group": "Mapobject",
+    "name": "SamuraiInvasion",
+    "type": "-"
+  },
+  {
+    "wodID": 905224,
+    "group": "Mapobject",
+    "name": "RedAllianceAlienInvasion",
+    "type": "-"
+  },
+  {
+    "wodID": 905225,
+    "group": "Mapobject",
+    "name": "DaimyoCastle",
+    "type": "-"
+  },
+  {
+    "wodID": 905226,
+    "group": "Mapobject",
+    "name": "DaimyoTownship",
+    "type": "-"
+  },
+  {
+    "wodID": 905227,
+    "group": "Mapobject",
+    "name": "ChargeCamp",
+    "type": "-"
+  },
+  {
+    "wodID": 905228,
+    "group": "Mapobject",
+    "name": "AllianceTower",
+    "type": "-"
+  },
+  {
+    "wodID": 905229,
+    "group": "Mapobject",
+    "name": "ResourceTower",
+    "type": "-"
+  },
+  {
+    "wodID": 905230,
+    "group": "Mapobject",
+    "name": "WolfKing",
+    "type": "-"
+  },
+  {
+    "wodID": 905231,
+    "group": "Mapobject",
+    "name": "AllianceRaidPortal",
+    "type": "-"
+  },
+  {
+    "wodID": 906000,
+    "group": "Mapobject",
+    "name": "AreaConnection",
+    "type": "-"
+  }
+]

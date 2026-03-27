@@ -1,24 +1,22 @@
-{
-  "legendskillthreshold": [
-    {
-      "tierID": 2,
-      "unlockThreshold": 40
-    },
-    {
-      "tierID": 3,
-      "unlockThreshold": 80
-    },
-    {
-      "tierID": 4,
-      "unlockThreshold": 90
-    },
-    {
-      "tierID": 5,
-      "unlockThreshold": 90
-    },
-    {
-      "tierID": 6,
-      "unlockThreshold": 90
-    }
-  ]
-}
+[
+  {
+    "tierID": 2,
+    "unlockThreshold": 40
+  },
+  {
+    "tierID": 3,
+    "unlockThreshold": 80
+  },
+  {
+    "tierID": 4,
+    "unlockThreshold": 90
+  },
+  {
+    "tierID": 5,
+    "unlockThreshold": 90
+  },
+  {
+    "tierID": 6,
+    "unlockThreshold": 90
+  }
+]

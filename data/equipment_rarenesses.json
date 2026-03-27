@@ -1,130 +1,128 @@
-{
-  "equipment_rareness": [
-    {
-      "rarenessID": 1,
-      "crossplayID": 1,
-      "name": "common",
-      "secondaryAttributes": 0,
-      "saleValue": 25,
-      "mightValue": 20,
-      "slotIDs": "1,2,3,4",
-      "color": "0xCCCCCC",
-      "sortOrder": 6
-    },
-    {
-      "rarenessID": 2,
-      "crossplayID": 2,
-      "name": "rare",
-      "secondaryAttributes": 1,
-      "saleValue": 250,
-      "mightValue": 50,
-      "slotIDs": "1,2,3,4",
-      "color": "0xA0D948",
-      "sortOrder": 5
-    },
-    {
-      "rarenessID": 3,
-      "crossplayID": 3,
-      "name": "epic",
-      "secondaryAttributes": 2,
-      "saleValue": 1000,
-      "mightValue": 100,
-      "slotIDs": "1,2,3,4",
-      "color": "0xC885FF",
-      "sortOrder": 4
-    },
-    {
-      "rarenessID": 4,
-      "crossplayID": 4,
-      "name": "legendary",
-      "secondaryAttributes": 2,
-      "saleValue": 6000,
-      "mightValue": 200,
-      "slotIDs": "1,2,3,4",
-      "color": "0xF9AD1C",
-      "sortOrder": 3
-    },
-    {
-      "rarenessID": 0,
-      "crossplayID": 0,
-      "name": "unique",
-      "secondaryAttributes": 2,
-      "saleValue": 12000,
-      "slotIDs": "1,2,3,4",
-      "color": "0xFF6161",
-      "sortOrder": 2
-    },
-    {
-      "rarenessID": 5,
-      "name": "relic",
-      "color": "0x3FB5FF",
-      "sortOrder": 1
-    },
-    {
-      "rarenessID": 10,
-      "crossplayID": 10,
-      "name": "uniqueHero",
-      "secondaryAttributes": 1,
-      "saleValue": 15000,
-      "slotIDs": 6,
-      "isHero": 1,
-      "color": "0xFF6161",
-      "sortOrder": 2
-    },
-    {
-      "rarenessID": 11,
-      "crossplayID": 11,
-      "name": "commonHero",
-      "secondaryAttributes": 0,
-      "saleValue": 30,
-      "mightValue": 25,
-      "slotIDs": 6,
-      "isHero": 1,
-      "color": "0xCCCCCC",
-      "sortOrder": 6
-    },
-    {
-      "rarenessID": 12,
-      "crossplayID": 12,
-      "name": "rareHero",
-      "secondaryAttributes": 0,
-      "saleValue": 300,
-      "mightValue": 65,
-      "slotIDs": 6,
-      "isHero": 1,
-      "color": "0xA0D948",
-      "sortOrder": 5
-    },
-    {
-      "rarenessID": 13,
-      "crossplayID": 13,
-      "name": "epicHero",
-      "secondaryAttributes": 0,
-      "saleValue": 1250,
-      "mightValue": 125,
-      "slotIDs": 6,
-      "isHero": 1,
-      "color": "0xC885FF",
-      "sortOrder": 4
-    },
-    {
-      "rarenessID": 14,
-      "crossplayID": 14,
-      "name": "legendaryHero",
-      "secondaryAttributes": 1,
-      "saleValue": 7500,
-      "mightValue": 250,
-      "slotIDs": 6,
-      "isHero": 1,
-      "color": "0xF9AD1C",
-      "sortOrder": 3
-    },
-    {
-      "rarenessID": 15,
-      "name": "relicHero",
-      "isHero": 1,
-      "color": "0x3FB5FF",
-      "sortOrder": 1
-    }
-  ]
-}
+[
+  {
+    "rarenessID": 1,
+    "crossplayID": 1,
+    "name": "common",
+    "secondaryAttributes": 0,
+    "saleValue": 25,
+    "mightValue": 20,
+    "slotIDs": "1,2,3,4",
+    "color": "0xCCCCCC",
+    "sortOrder": 6
+  },
+  {
+    "rarenessID": 2,
+    "crossplayID": 2,
+    "name": "rare",
+    "secondaryAttributes": 1,
+    "saleValue": 250,
+    "mightValue": 50,
+    "slotIDs": "1,2,3,4",
+    "color": "0xA0D948",
+    "sortOrder": 5
+  },
+  {
+    "rarenessID": 3,
+    "crossplayID": 3,
+    "name": "epic",
+    "secondaryAttributes": 2,
+    "saleValue": 1000,
+    "mightValue": 100,
+    "slotIDs": "1,2,3,4",
+    "color": "0xC885FF",
+    "sortOrder": 4
+  },
+  {
+    "rarenessID": 4,
+    "crossplayID": 4,
+    "name": "legendary",
+    "secondaryAttributes": 2,
+    "saleValue": 6000,
+    "mightValue": 200,
+    "slotIDs": "1,2,3,4",
+    "color": "0xF9AD1C",
+    "sortOrder": 3
+  },
+  {
+    "rarenessID": 0,
+    "crossplayID": 0,
+    "name": "unique",
+    "secondaryAttributes": 2,
+    "saleValue": 12000,
+    "slotIDs": "1,2,3,4",
+    "color": "0xFF6161",
+    "sortOrder": 2
+  },
+  {
+    "rarenessID": 5,
+    "name": "relic",
+    "color": "0x3FB5FF",
+    "sortOrder": 1
+  },
+  {
+    "rarenessID": 10,
+    "crossplayID": 10,
+    "name": "uniqueHero",
+    "secondaryAttributes": 1,
+    "saleValue": 15000,
+    "slotIDs": 6,
+    "isHero": 1,
+    "color": "0xFF6161",
+    "sortOrder": 2
+  },
+  {
+    "rarenessID": 11,
+    "crossplayID": 11,
+    "name": "commonHero",
+    "secondaryAttributes": 0,
+    "saleValue": 30,
+    "mightValue": 25,
+    "slotIDs": 6,
+    "isHero": 1,
+    "color": "0xCCCCCC",
+    "sortOrder": 6
+  },
+  {
+    "rarenessID": 12,
+    "crossplayID": 12,
+    "name": "rareHero",
+    "secondaryAttributes": 0,
+    "saleValue": 300,
+    "mightValue": 65,
+    "slotIDs": 6,
+    "isHero": 1,
+    "color": "0xA0D948",
+    "sortOrder": 5
+  },
+  {
+    "rarenessID": 13,
+    "crossplayID": 13,
+    "name": "epicHero",
+    "secondaryAttributes": 0,
+    "saleValue": 1250,
+    "mightValue": 125,
+    "slotIDs": 6,
+    "isHero": 1,
+    "color": "0xC885FF",
+    "sortOrder": 4
+  },
+  {
+    "rarenessID": 14,
+    "crossplayID": 14,
+    "name": "legendaryHero",
+    "secondaryAttributes": 1,
+    "saleValue": 7500,
+    "mightValue": 250,
+    "slotIDs": 6,
+    "isHero": 1,
+    "color": "0xF9AD1C",
+    "sortOrder": 3
+  },
+  {
+    "rarenessID": 15,
+    "name": "relicHero",
+    "isHero": 1,
+    "color": "0x3FB5FF",
+    "sortOrder": 1
+  }
+]

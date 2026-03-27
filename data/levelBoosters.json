@@ -1,515 +1,513 @@
-{
-  "levelBooster": [
-    {
-      "boosterID": 0,
-      "boosterType": 19,
-      "level": 0,
-      "costC2": 0,
-      "boostPercentage": 0
-    },
-    {
-      "boosterID": 1,
-      "boosterType": 19,
-      "level": 1,
-      "costC2": 50,
-      "boostPercentage": 20
-    },
-    {
-      "boosterID": 2,
-      "boosterType": 19,
-      "level": 2,
-      "costC2": 100,
-      "boostPercentage": 40
-    },
-    {
-      "boosterID": 3,
-      "boosterType": 19,
-      "level": 3,
-      "costC2": 100,
-      "boostPercentage": 60
-    },
-    {
-      "boosterID": 4,
-      "boosterType": 19,
-      "level": 4,
-      "costC2": 100,
-      "boostPercentage": 80
-    },
-    {
-      "boosterID": 5,
-      "boosterType": 19,
-      "level": 5,
-      "costC2": 100,
-      "boostPercentage": 100
-    },
-    {
-      "boosterID": 6,
-      "boosterType": 19,
-      "level": 6,
-      "costC2": 150,
-      "boostPercentage": 120
-    },
-    {
-      "boosterID": 7,
-      "boosterType": 19,
-      "level": 7,
-      "costC2": 200,
-      "boostPercentage": 140
-    },
-    {
-      "boosterID": 8,
-      "boosterType": 19,
-      "level": 8,
-      "costC2": 200,
-      "boostPercentage": 160
-    },
-    {
-      "boosterID": 9,
-      "boosterType": 19,
-      "level": 9,
-      "costC2": 250,
-      "boostPercentage": 180
-    },
-    {
-      "boosterID": 10,
-      "boosterType": 19,
-      "level": 10,
-      "costC2": 250,
-      "boostPercentage": 200
-    },
-    {
-      "boosterID": 11,
-      "boosterType": 19,
-      "level": 11,
-      "costC2": 550,
-      "boostPercentage": 220
-    },
-    {
-      "boosterID": 12,
-      "boosterType": 19,
-      "level": 12,
-      "costC2": 700,
-      "boostPercentage": 240
-    },
-    {
-      "boosterID": 13,
-      "boosterType": 19,
-      "level": 13,
-      "costC2": 800,
-      "boostPercentage": 260
-    },
-    {
-      "boosterID": 14,
-      "boosterType": 19,
-      "level": 14,
-      "costC2": 900,
-      "boostPercentage": 280
-    },
-    {
-      "boosterID": 15,
-      "boosterType": 19,
-      "level": 15,
-      "costC2": 1050,
-      "boostPercentage": 300
-    },
-    {
-      "boosterID": 16,
-      "boosterType": 19,
-      "level": 16,
-      "costC2": 1150,
-      "boostPercentage": 320
-    },
-    {
-      "boosterID": 17,
-      "boosterType": 19,
-      "level": 17,
-      "costC2": 1300,
-      "boostPercentage": 340
-    },
-    {
-      "boosterID": 18,
-      "boosterType": 19,
-      "level": 18,
-      "costC2": 1450,
-      "boostPercentage": 360
-    },
-    {
-      "boosterID": 19,
-      "boosterType": 19,
-      "level": 19,
-      "costC2": 1600,
-      "boostPercentage": 380
-    },
-    {
-      "boosterID": 20,
-      "boosterType": 19,
-      "level": 20,
-      "costC2": 1750,
-      "boostPercentage": 400
-    },
-    {
-      "boosterID": 21,
-      "boosterType": 19,
-      "level": 21,
-      "costC2": 2200,
-      "boostPercentage": 420
-    },
-    {
-      "boosterID": 22,
-      "boosterType": 19,
-      "level": 22,
-      "costC2": 2350,
-      "boostPercentage": 440
-    },
-    {
-      "boosterID": 23,
-      "boosterType": 19,
-      "level": 23,
-      "costC2": 2600,
-      "boostPercentage": 460
-    },
-    {
-      "boosterID": 24,
-      "boosterType": 19,
-      "level": 24,
-      "costC2": 2850,
-      "boostPercentage": 480
-    },
-    {
-      "boosterID": 25,
-      "boosterType": 19,
-      "level": 25,
-      "costC2": 2950,
-      "boostPercentage": 500
-    },
-    {
-      "boosterID": 26,
-      "boosterType": 19,
-      "level": 26,
-      "costC2": 3075,
-      "boostPercentage": 520
-    },
-    {
-      "boosterID": 27,
-      "boosterType": 19,
-      "level": 27,
-      "costC2": 3175,
-      "boostPercentage": 540
-    },
-    {
-      "boosterID": 28,
-      "boosterType": 19,
-      "level": 28,
-      "costC2": 3275,
-      "boostPercentage": 560
-    },
-    {
-      "boosterID": 29,
-      "boosterType": 19,
-      "level": 29,
-      "costC2": 3375,
-      "boostPercentage": 580
-    },
-    {
-      "boosterID": 30,
-      "boosterType": 19,
-      "level": 30,
-      "costC2": 3475,
-      "boostPercentage": 600
-    },
-    {
-      "boosterID": 31,
-      "boosterType": 19,
-      "level": 31,
-      "costC2": 3575,
-      "boostPercentage": 620
-    },
-    {
-      "boosterID": 32,
-      "boosterType": 19,
-      "level": 32,
-      "costC2": 3675,
-      "boostPercentage": 640
-    },
-    {
-      "boosterID": 33,
-      "boosterType": 19,
-      "level": 33,
-      "costC2": 3775,
-      "boostPercentage": 660
-    },
-    {
-      "boosterID": 34,
-      "boosterType": 19,
-      "level": 34,
-      "costC2": 3895,
-      "boostPercentage": 680
-    },
-    {
-      "boosterID": 35,
-      "boosterType": 19,
-      "level": 35,
-      "costC2": 4050,
-      "boostPercentage": 700
-    },
-    {
-      "boosterID": 36,
-      "boosterType": 19,
-      "level": 36,
-      "costC2": 4275,
-      "boostPercentage": 720
-    },
-    {
-      "boosterID": 37,
-      "boosterType": 19,
-      "level": 37,
-      "costC2": 4550,
-      "boostPercentage": 740
-    },
-    {
-      "boosterID": 38,
-      "boosterType": 19,
-      "level": 38,
-      "costC2": 4775,
-      "boostPercentage": 760
-    },
-    {
-      "boosterID": 39,
-      "boosterType": 19,
-      "level": 39,
-      "costC2": 4995,
-      "boostPercentage": 780
-    },
-    {
-      "boosterID": 40,
-      "boosterType": 19,
-      "level": 40,
-      "costC2": 5050,
-      "boostPercentage": 800
-    },
-    {
-      "boosterID": 41,
-      "boosterType": 19,
-      "level": 41,
-      "costC2": 5275,
-      "boostPercentage": 820
-    },
-    {
-      "boosterID": 42,
-      "boosterType": 19,
-      "level": 42,
-      "costC2": 5550,
-      "boostPercentage": 840
-    },
-    {
-      "boosterID": 43,
-      "boosterType": 19,
-      "level": 43,
-      "costC2": 5775,
-      "boostPercentage": 860
-    },
-    {
-      "boosterID": 44,
-      "boosterType": 19,
-      "level": 44,
-      "costC2": 5995,
-      "boostPercentage": 880
-    },
-    {
-      "boosterID": 45,
-      "boosterType": 19,
-      "level": 45,
-      "costC2": 6050,
-      "boostPercentage": 900
-    },
-    {
-      "boosterID": 46,
-      "boosterType": 19,
-      "level": 46,
-      "costC2": 6925,
-      "boostPercentage": 920
-    },
-    {
-      "boosterID": 47,
-      "boosterType": 19,
-      "level": 47,
-      "costC2": 7075,
-      "boostPercentage": 940
-    },
-    {
-      "boosterID": 48,
-      "boosterType": 19,
-      "level": 48,
-      "costC2": 7950,
-      "boostPercentage": 960
-    },
-    {
-      "boosterID": 49,
-      "boosterType": 19,
-      "level": 49,
-      "costC2": 8025,
-      "boostPercentage": 980
-    },
-    {
-      "boosterID": 50,
-      "boosterType": 19,
-      "level": 50,
-      "costC2": 8975,
-      "boostPercentage": 1000
-    },
-    {
-      "boosterID": 51,
-      "boosterType": 11,
-      "level": 0,
-      "costC2": 0,
-      "boostPercentage": 0
-    },
-    {
-      "boosterID": 52,
-      "boosterType": 11,
-      "level": 1,
-      "costC2": 80,
-      "boostPercentage": 7
-    },
-    {
-      "boosterID": 53,
-      "boosterType": 11,
-      "level": 2,
-      "costC2": 160,
-      "boostPercentage": 14
-    },
-    {
-      "boosterID": 54,
-      "boosterType": 11,
-      "level": 3,
-      "costC2": 350,
-      "boostPercentage": 21
-    },
-    {
-      "boosterID": 55,
-      "boosterType": 11,
-      "level": 4,
-      "costC2": 710,
-      "boostPercentage": 28
-    },
-    {
-      "boosterID": 56,
-      "boosterType": 11,
-      "level": 5,
-      "costC2": 900,
-      "boostPercentage": 35
-    },
-    {
-      "boosterID": 57,
-      "boosterType": 11,
-      "level": 6,
-      "costC2": 1200,
-      "boostPercentage": 42
-    },
-    {
-      "boosterID": 58,
-      "boosterType": 11,
-      "level": 7,
-      "costC2": 1600,
-      "boostPercentage": 49
-    },
-    {
-      "boosterID": 59,
-      "boosterType": 11,
-      "level": 8,
-      "costC2": 1800,
-      "boostPercentage": 56
-    },
-    {
-      "boosterID": 60,
-      "boosterType": 11,
-      "level": 9,
-      "costC2": 2150,
-      "boostPercentage": 63
-    },
-    {
-      "boosterID": 61,
-      "boosterType": 11,
-      "level": 10,
-      "costC2": 2350,
-      "boostPercentage": 70
-    },
-    {
-      "boosterID": 62,
-      "boosterType": 11,
-      "level": 11,
-      "costC2": 2450,
-      "boostPercentage": 77
-    },
-    {
-      "boosterID": 63,
-      "boosterType": 11,
-      "level": 12,
-      "costC2": 2500,
-      "boostPercentage": 84
-    },
-    {
-      "boosterID": 64,
-      "boosterType": 11,
-      "level": 13,
-      "costC2": 2800,
-      "boostPercentage": 91
-    },
-    {
-      "boosterID": 65,
-      "boosterType": 11,
-      "level": 14,
-      "costC2": 2950,
-      "boostPercentage": 98
-    },
-    {
-      "boosterID": 66,
-      "boosterType": 11,
-      "level": 15,
-      "costC2": 2950,
-      "boostPercentage": 105
-    },
-    {
-      "boosterID": 67,
-      "boosterType": 11,
-      "level": 16,
-      "costC2": 3000,
-      "boostPercentage": 112
-    },
-    {
-      "boosterID": 68,
-      "boosterType": 11,
-      "level": 17,
-      "costC2": 3050,
-      "boostPercentage": 119
-    },
-    {
-      "boosterID": 69,
-      "boosterType": 11,
-      "level": 18,
-      "costC2": 3100,
-      "boostPercentage": 126
-    },
-    {
-      "boosterID": 70,
-      "boosterType": 11,
-      "level": 19,
-      "costC2": 3150,
-      "boostPercentage": 133
-    },
-    {
-      "boosterID": 71,
-      "boosterType": 11,
-      "level": 20,
-      "costC2": 3250,
-      "boostPercentage": 140
-    },
-    {
-      "boosterID": 72,
-      "boosterType": 11,
-      "level": 21,
-      "costC2": 3500,
-      "boostPercentage": 147
-    }
-  ]
-}
+[
+  {
+    "boosterID": 0,
+    "boosterType": 19,
+    "level": 0,
+    "costC2": 0,
+    "boostPercentage": 0
+  },
+  {
+    "boosterID": 1,
+    "boosterType": 19,
+    "level": 1,
+    "costC2": 50,
+    "boostPercentage": 20
+  },
+  {
+    "boosterID": 2,
+    "boosterType": 19,
+    "level": 2,
+    "costC2": 100,
+    "boostPercentage": 40
+  },
+  {
+    "boosterID": 3,
+    "boosterType": 19,
+    "level": 3,
+    "costC2": 100,
+    "boostPercentage": 60
+  },
+  {
+    "boosterID": 4,
+    "boosterType": 19,
+    "level": 4,
+    "costC2": 100,
+    "boostPercentage": 80
+  },
+  {
+    "boosterID": 5,
+    "boosterType": 19,
+    "level": 5,
+    "costC2": 100,
+    "boostPercentage": 100
+  },
+  {
+    "boosterID": 6,
+    "boosterType": 19,
+    "level": 6,
+    "costC2": 150,
+    "boostPercentage": 120
+  },
+  {
+    "boosterID": 7,
+    "boosterType": 19,
+    "level": 7,
+    "costC2": 200,
+    "boostPercentage": 140
+  },
+  {
+    "boosterID": 8,
+    "boosterType": 19,
+    "level": 8,
+    "costC2": 200,
+    "boostPercentage": 160
+  },
+  {
+    "boosterID": 9,
+    "boosterType": 19,
+    "level": 9,
+    "costC2": 250,
+    "boostPercentage": 180
+  },
+  {
+    "boosterID": 10,
+    "boosterType": 19,
+    "level": 10,
+    "costC2": 250,
+    "boostPercentage": 200
+  },
+  {
+    "boosterID": 11,
+    "boosterType": 19,
+    "level": 11,
+    "costC2": 550,
+    "boostPercentage": 220
+  },
+  {
+    "boosterID": 12,
+    "boosterType": 19,
+    "level": 12,
+    "costC2": 700,
+    "boostPercentage": 240
+  },
+  {
+    "boosterID": 13,
+    "boosterType": 19,
+    "level": 13,
+    "costC2": 800,
+    "boostPercentage": 260
+  },
+  {
+    "boosterID": 14,
+    "boosterType": 19,
+    "level": 14,
+    "costC2": 900,
+    "boostPercentage": 280
+  },
+  {
+    "boosterID": 15,
+    "boosterType": 19,
+    "level": 15,
+    "costC2": 1050,
+    "boostPercentage": 300
+  },
+  {
+    "boosterID": 16,
+    "boosterType": 19,
+    "level": 16,
+    "costC2": 1150,
+    "boostPercentage": 320
+  },
+  {
+    "boosterID": 17,
+    "boosterType": 19,
+    "level": 17,
+    "costC2": 1300,
+    "boostPercentage": 340
+  },
+  {
+    "boosterID": 18,
+    "boosterType": 19,
+    "level": 18,
+    "costC2": 1450,
+    "boostPercentage": 360
+  },
+  {
+    "boosterID": 19,
+    "boosterType": 19,
+    "level": 19,
+    "costC2": 1600,
+    "boostPercentage": 380
+  },
+  {
+    "boosterID": 20,
+    "boosterType": 19,
+    "level": 20,
+    "costC2": 1750,
+    "boostPercentage": 400
+  },
+  {
+    "boosterID": 21,
+    "boosterType": 19,
+    "level": 21,
+    "costC2": 2200,
+    "boostPercentage": 420
+  },
+  {
+    "boosterID": 22,
+    "boosterType": 19,
+    "level": 22,
+    "costC2": 2350,
+    "boostPercentage": 440
+  },
+  {
+    "boosterID": 23,
+    "boosterType": 19,
+    "level": 23,
+    "costC2": 2600,
+    "boostPercentage": 460
+  },
+  {
+    "boosterID": 24,
+    "boosterType": 19,
+    "level": 24,
+    "costC2": 2850,
+    "boostPercentage": 480
+  },
+  {
+    "boosterID": 25,
+    "boosterType": 19,
+    "level": 25,
+    "costC2": 2950,
+    "boostPercentage": 500
+  },
+  {
+    "boosterID": 26,
+    "boosterType": 19,
+    "level": 26,
+    "costC2": 3075,
+    "boostPercentage": 520
+  },
+  {
+    "boosterID": 27,
+    "boosterType": 19,
+    "level": 27,
+    "costC2": 3175,
+    "boostPercentage": 540
+  },
+  {
+    "boosterID": 28,
+    "boosterType": 19,
+    "level": 28,
+    "costC2": 3275,
+    "boostPercentage": 560
+  },
+  {
+    "boosterID": 29,
+    "boosterType": 19,
+    "level": 29,
+    "costC2": 3375,
+    "boostPercentage": 580
+  },
+  {
+    "boosterID": 30,
+    "boosterType": 19,
+    "level": 30,
+    "costC2": 3475,
+    "boostPercentage": 600
+  },
+  {
+    "boosterID": 31,
+    "boosterType": 19,
+    "level": 31,
+    "costC2": 3575,
+    "boostPercentage": 620
+  },
+  {
+    "boosterID": 32,
+    "boosterType": 19,
+    "level": 32,
+    "costC2": 3675,
+    "boostPercentage": 640
+  },
+  {
+    "boosterID": 33,
+    "boosterType": 19,
+    "level": 33,
+    "costC2": 3775,
+    "boostPercentage": 660
+  },
+  {
+    "boosterID": 34,
+    "boosterType": 19,
+    "level": 34,
+    "costC2": 3895,
+    "boostPercentage": 680
+  },
+  {
+    "boosterID": 35,
+    "boosterType": 19,
+    "level": 35,
+    "costC2": 4050,
+    "boostPercentage": 700
+  },
+  {
+    "boosterID": 36,
+    "boosterType": 19,
+    "level": 36,
+    "costC2": 4275,
+    "boostPercentage": 720
+  },
+  {
+    "boosterID": 37,
+    "boosterType": 19,
+    "level": 37,
+    "costC2": 4550,
+    "boostPercentage": 740
+  },
+  {
+    "boosterID": 38,
+    "boosterType": 19,
+    "level": 38,
+    "costC2": 4775,
+    "boostPercentage": 760
+  },
+  {
+    "boosterID": 39,
+    "boosterType": 19,
+    "level": 39,
+    "costC2": 4995,
+    "boostPercentage": 780
+  },
+  {
+    "boosterID": 40,
+    "boosterType": 19,
+    "level": 40,
+    "costC2": 5050,
+    "boostPercentage": 800
+  },
+  {
+    "boosterID": 41,
+    "boosterType": 19,
+    "level": 41,
+    "costC2": 5275,
+    "boostPercentage": 820
+  },
+  {
+    "boosterID": 42,
+    "boosterType": 19,
+    "level": 42,
+    "costC2": 5550,
+    "boostPercentage": 840
+  },
+  {
+    "boosterID": 43,
+    "boosterType": 19,
+    "level": 43,
+    "costC2": 5775,
+    "boostPercentage": 860
+  },
+  {
+    "boosterID": 44,
+    "boosterType": 19,
+    "level": 44,
+    "costC2": 5995,
+    "boostPercentage": 880
+  },
+  {
+    "boosterID": 45,
+    "boosterType": 19,
+    "level": 45,
+    "costC2": 6050,
+    "boostPercentage": 900
+  },
+  {
+    "boosterID": 46,
+    "boosterType": 19,
+    "level": 46,
+    "costC2": 6925,
+    "boostPercentage": 920
+  },
+  {
+    "boosterID": 47,
+    "boosterType": 19,
+    "level": 47,
+    "costC2": 7075,
+    "boostPercentage": 940
+  },
+  {
+    "boosterID": 48,
+    "boosterType": 19,
+    "level": 48,
+    "costC2": 7950,
+    "boostPercentage": 960
+  },
+  {
+    "boosterID": 49,
+    "boosterType": 19,
+    "level": 49,
+    "costC2": 8025,
+    "boostPercentage": 980
+  },
+  {
+    "boosterID": 50,
+    "boosterType": 19,
+    "level": 50,
+    "costC2": 8975,
+    "boostPercentage": 1000
+  },
+  {
+    "boosterID": 51,
+    "boosterType": 11,
+    "level": 0,
+    "costC2": 0,
+    "boostPercentage": 0
+  },
+  {
+    "boosterID": 52,
+    "boosterType": 11,
+    "level": 1,
+    "costC2": 80,
+    "boostPercentage": 7
+  },
+  {
+    "boosterID": 53,
+    "boosterType": 11,
+    "level": 2,
+    "costC2": 160,
+    "boostPercentage": 14
+  },
+  {
+    "boosterID": 54,
+    "boosterType": 11,
+    "level": 3,
+    "costC2": 350,
+    "boostPercentage": 21
+  },
+  {
+    "boosterID": 55,
+    "boosterType": 11,
+    "level": 4,
+    "costC2": 710,
+    "boostPercentage": 28
+  },
+  {
+    "boosterID": 56,
+    "boosterType": 11,
+    "level": 5,
+    "costC2": 900,
+    "boostPercentage": 35
+  },
+  {
+    "boosterID": 57,
+    "boosterType": 11,
+    "level": 6,
+    "costC2": 1200,
+    "boostPercentage": 42
+  },
+  {
+    "boosterID": 58,
+    "boosterType": 11,
+    "level": 7,
+    "costC2": 1600,
+    "boostPercentage": 49
+  },
+  {
+    "boosterID": 59,
+    "boosterType": 11,
+    "level": 8,
+    "costC2": 1800,
+    "boostPercentage": 56
+  },
+  {
+    "boosterID": 60,
+    "boosterType": 11,
+    "level": 9,
+    "costC2": 2150,
+    "boostPercentage": 63
+  },
+  {
+    "boosterID": 61,
+    "boosterType": 11,
+    "level": 10,
+    "costC2": 2350,
+    "boostPercentage": 70
+  },
+  {
+    "boosterID": 62,
+    "boosterType": 11,
+    "level": 11,
+    "costC2": 2450,
+    "boostPercentage": 77
+  },
+  {
+    "boosterID": 63,
+    "boosterType": 11,
+    "level": 12,
+    "costC2": 2500,
+    "boostPercentage": 84
+  },
+  {
+    "boosterID": 64,
+    "boosterType": 11,
+    "level": 13,
+    "costC2": 2800,
+    "boostPercentage": 91
+  },
+  {
+    "boosterID": 65,
+    "boosterType": 11,
+    "level": 14,
+    "costC2": 2950,
+    "boostPercentage": 98
+  },
+  {
+    "boosterID": 66,
+    "boosterType": 11,
+    "level": 15,
+    "costC2": 2950,
+    "boostPercentage": 105
+  },
+  {
+    "boosterID": 67,
+    "boosterType": 11,
+    "level": 16,
+    "costC2": 3000,
+    "boostPercentage": 112
+  },
+  {
+    "boosterID": 68,
+    "boosterType": 11,
+    "level": 17,
+    "costC2": 3050,
+    "boostPercentage": 119
+  },
+  {
+    "boosterID": 69,
+    "boosterType": 11,
+    "level": 18,
+    "costC2": 3100,
+    "boostPercentage": 126
+  },
+  {
+    "boosterID": 70,
+    "boosterType": 11,
+    "level": 19,
+    "costC2": 3150,
+    "boostPercentage": 133
+  },
+  {
+    "boosterID": 71,
+    "boosterType": 11,
+    "level": 20,
+    "costC2": 3250,
+    "boostPercentage": 140
+  },
+  {
+    "boosterID": 72,
+    "boosterType": 11,
+    "level": 21,
+    "costC2": 3500,
+    "boostPercentage": 147
+  }
+]

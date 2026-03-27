@@ -1,14 +1,12 @@
-{
-  "kingsMarket": [
-    {
-      "id": 1,
-      "content": "VIPPoints",
-      "packageIDs": "167,168,169"
-    },
-    {
-      "id": 2,
-      "content": "VIPTime",
-      "packageIDs": "170,171,172"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "content": "VIPPoints",
+    "packageIDs": "167,168,169"
+  },
+  {
+    "id": 2,
+    "content": "VIPTime",
+    "packageIDs": "170,171,172"
+  }
+]

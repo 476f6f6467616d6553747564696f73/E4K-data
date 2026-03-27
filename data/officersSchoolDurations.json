@@ -1,7 +1,7 @@
-{
-  "officersSchoolDuration": {
+[
+  {
     "id": 1,
     "duration": 7200,
     "unlockBuildingWodID": 1789
   }
-}
+]

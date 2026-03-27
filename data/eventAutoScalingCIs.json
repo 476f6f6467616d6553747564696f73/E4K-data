@@ -1,24 +1,22 @@
-{
-  "eventAutoScalingCI": [
-    {
-      "eventAutoScalingCiID": 1,
-      "eventID": 71,
-      "useableConstructionItemGroupIDs": 6
-    },
-    {
-      "eventAutoScalingCiID": 2,
-      "eventID": 103,
-      "useableConstructionItemGroupIDs": 6
-    },
-    {
-      "eventAutoScalingCiID": 3,
-      "eventID": 80,
-      "useableConstructionItemGroupIDs": 6
-    },
-    {
-      "eventAutoScalingCiID": 4,
-      "eventID": 72,
-      "useableConstructionItemGroupIDs": 6
-    }
-  ]
-}
+[
+  {
+    "eventAutoScalingCiID": 1,
+    "eventID": 71,
+    "useableConstructionItemGroupIDs": 6
+  },
+  {
+    "eventAutoScalingCiID": 2,
+    "eventID": 103,
+    "useableConstructionItemGroupIDs": 6
+  },
+  {
+    "eventAutoScalingCiID": 3,
+    "eventID": 80,
+    "useableConstructionItemGroupIDs": 6
+  },
+  {
+    "eventAutoScalingCiID": 4,
+    "eventID": 72,
+    "useableConstructionItemGroupIDs": 6
+  }
+]

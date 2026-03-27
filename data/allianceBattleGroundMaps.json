@@ -1,20 +1,18 @@
-{
-  "allianceBattleGroundMap": [
-    {
-      "mapID": 1,
-      "name": "LineBreak"
-    },
-    {
-      "mapID": 2,
-      "name": "GroundZero"
-    },
-    {
-      "mapID": 3,
-      "name": "HiddenStar"
-    },
-    {
-      "mapID": 4,
-      "name": "Wastelands"
-    }
-  ]
-}
+[
+  {
+    "mapID": 1,
+    "name": "LineBreak"
+  },
+  {
+    "mapID": 2,
+    "name": "GroundZero"
+  },
+  {
+    "mapID": 3,
+    "name": "HiddenStar"
+  },
+  {
+    "mapID": 4,
+    "name": "Wastelands"
+  }
+]

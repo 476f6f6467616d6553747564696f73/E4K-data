@@ -10,15 +10,12 @@ module.exports = {
 }
 
 readdirSync(__dirname + '/country/').forEach(function (file) {
-    module.exports.country[file.replace('.json', '')] = require('./country/' + file);
+    module.exports.country = require('./country/' + file);
 });
 
 readdirSync(__dirname + '/data/').forEach(function (file) {
-    let _data = require('./data/' + file);
+    const _data = require('./data/' + file);
     const _keys = Object.keys(_data);
-    if (_keys.length === 1 && typeof _data[_keys[0]] === 'object') {
-        _data = Array.isArray(_data[_keys[0]]) ? _data[_keys[0]] : [_data[_keys[0]]];
-    }
     module.exports.data[file.replace('.json', '')] = _data;
 });
 
@@ -28,4 +25,4 @@ readdirSync(__dirname + '/languages/').forEach(function (file) {
     module.exports.languages[file.replace('.json', '')] = require('./languages/' + file);
 });
 
-module.exports.network = require('./network/network.json');
+module.exports.network = require('./network/72.json');

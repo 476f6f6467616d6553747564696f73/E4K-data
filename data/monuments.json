@@ -1,118 +1,116 @@
-{
-  "monument": [
-    {
-      "level": 1,
-      "crossplayID": 1,
-      "fameBoost": 2,
-      "requiredPoints": 0
-    },
-    {
-      "level": 2,
-      "crossplayID": 2,
-      "fameBoost": 3,
-      "requiredPoints": 54892
-    },
-    {
-      "level": 3,
-      "crossplayID": 3,
-      "fameBoost": 4,
-      "requiredPoints": 359148
-    },
-    {
-      "level": 4,
-      "crossplayID": 4,
-      "fameBoost": 5,
-      "requiredPoints": 1010581
-    },
-    {
-      "level": 5,
-      "crossplayID": 5,
-      "fameBoost": 6,
-      "requiredPoints": 2058641
-    },
-    {
-      "level": 6,
-      "crossplayID": 6,
-      "fameBoost": 7,
-      "requiredPoints": 2430313
-    },
-    {
-      "level": 7,
-      "crossplayID": 7,
-      "fameBoost": 8,
-      "requiredPoints": 2821500
-    },
-    {
-      "level": 8,
-      "crossplayID": 8,
-      "fameBoost": 9,
-      "requiredPoints": 3223688
-    },
-    {
-      "level": 9,
-      "crossplayID": 9,
-      "fameBoost": 10,
-      "requiredPoints": 3636875
-    },
-    {
-      "level": 10,
-      "crossplayID": 10,
-      "fameBoost": 11,
-      "requiredPoints": 4061063
-    },
-    {
-      "level": 11,
-      "crossplayID": 11,
-      "fameBoost": 12,
-      "requiredPoints": 4496250
-    },
-    {
-      "level": 12,
-      "crossplayID": 12,
-      "fameBoost": 13,
-      "requiredPoints": 4942438
-    },
-    {
-      "level": 13,
-      "crossplayID": 13,
-      "fameBoost": 14,
-      "requiredPoints": 5399625
-    },
-    {
-      "level": 14,
-      "crossplayID": 14,
-      "fameBoost": 15,
-      "requiredPoints": 5867813
-    },
-    {
-      "level": 15,
-      "crossplayID": 15,
-      "fameBoost": 16,
-      "requiredPoints": 6347000
-    },
-    {
-      "level": 16,
-      "crossplayID": 16,
-      "fameBoost": 17,
-      "requiredPoints": 6837188
-    },
-    {
-      "level": 17,
-      "crossplayID": 17,
-      "fameBoost": 18,
-      "requiredPoints": 7338375
-    },
-    {
-      "level": 18,
-      "crossplayID": 18,
-      "fameBoost": 19,
-      "requiredPoints": 7850563
-    },
-    {
-      "level": 19,
-      "crossplayID": 19,
-      "fameBoost": 20,
-      "requiredPoints": 8373750
-    }
-  ]
-}
+[
+  {
+    "level": 1,
+    "crossplayID": 1,
+    "fameBoost": 2,
+    "requiredPoints": 0
+  },
+  {
+    "level": 2,
+    "crossplayID": 2,
+    "fameBoost": 3,
+    "requiredPoints": 54892
+  },
+  {
+    "level": 3,
+    "crossplayID": 3,
+    "fameBoost": 4,
+    "requiredPoints": 359148
+  },
+  {
+    "level": 4,
+    "crossplayID": 4,
+    "fameBoost": 5,
+    "requiredPoints": 1010581
+  },
+  {
+    "level": 5,
+    "crossplayID": 5,
+    "fameBoost": 6,
+    "requiredPoints": 2058641
+  },
+  {
+    "level": 6,
+    "crossplayID": 6,
+    "fameBoost": 7,
+    "requiredPoints": 2430313
+  },
+  {
+    "level": 7,
+    "crossplayID": 7,
+    "fameBoost": 8,
+    "requiredPoints": 2821500
+  },
+  {
+    "level": 8,
+    "crossplayID": 8,
+    "fameBoost": 9,
+    "requiredPoints": 3223688
+  },
+  {
+    "level": 9,
+    "crossplayID": 9,
+    "fameBoost": 10,
+    "requiredPoints": 3636875
+  },
+  {
+    "level": 10,
+    "crossplayID": 10,
+    "fameBoost": 11,
+    "requiredPoints": 4061063
+  },
+  {
+    "level": 11,
+    "crossplayID": 11,
+    "fameBoost": 12,
+    "requiredPoints": 4496250
+  },
+  {
+    "level": 12,
+    "crossplayID": 12,
+    "fameBoost": 13,
+    "requiredPoints": 4942438
+  },
+  {
+    "level": 13,
+    "crossplayID": 13,
+    "fameBoost": 14,
+    "requiredPoints": 5399625
+  },
+  {
+    "level": 14,
+    "crossplayID": 14,
+    "fameBoost": 15,
+    "requiredPoints": 5867813
+  },
+  {
+    "level": 15,
+    "crossplayID": 15,
+    "fameBoost": 16,
+    "requiredPoints": 6347000
+  },
+  {
+    "level": 16,
+    "crossplayID": 16,
+    "fameBoost": 17,
+    "requiredPoints": 6837188
+  },
+  {
+    "level": 17,
+    "crossplayID": 17,
+    "fameBoost": 18,
+    "requiredPoints": 7338375
+  },
+  {
+    "level": 18,
+    "crossplayID": 18,
+    "fameBoost": 19,
+    "requiredPoints": 7850563
+  },
+  {
+    "level": 19,
+    "crossplayID": 19,
+    "fameBoost": 20,
+    "requiredPoints": 8373750
+  }
+]

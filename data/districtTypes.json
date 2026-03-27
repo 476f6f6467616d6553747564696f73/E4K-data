@@ -1,34 +1,32 @@
-{
-  "districtType": [
-    {
-      "districtTypeID": 1,
-      "crossplayID": 1,
-      "district": "military"
-    },
-    {
-      "districtTypeID": 3,
-      "crossplayID": 3,
-      "district": "inner"
-    },
-    {
-      "districtTypeID": 4,
-      "crossplayID": 4,
-      "district": "trade"
-    },
-    {
-      "districtTypeID": 5,
-      "crossplayID": 5,
-      "district": "mead"
-    },
-    {
-      "districtTypeID": 6,
-      "crossplayID": 6,
-      "district": "food"
-    },
-    {
-      "districtTypeID": 7,
-      "crossplayID": 7,
-      "district": "deco2x2"
-    }
-  ]
-}
+[
+  {
+    "districtTypeID": 1,
+    "crossplayID": 1,
+    "district": "military"
+  },
+  {
+    "districtTypeID": 3,
+    "crossplayID": 3,
+    "district": "inner"
+  },
+  {
+    "districtTypeID": 4,
+    "crossplayID": 4,
+    "district": "trade"
+  },
+  {
+    "districtTypeID": 5,
+    "crossplayID": 5,
+    "district": "mead"
+  },
+  {
+    "districtTypeID": 6,
+    "crossplayID": 6,
+    "district": "food"
+  },
+  {
+    "districtTypeID": 7,
+    "crossplayID": 7,
+    "district": "deco2x2"
+  }
+]

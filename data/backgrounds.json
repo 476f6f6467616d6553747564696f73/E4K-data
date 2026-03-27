@@ -1,40 +1,38 @@
-{
-  "background": [
-    {
-      "wodID": 901100,
-      "group": "Background",
-      "name": "Static",
-      "type": "Classic"
-    },
-    {
-      "wodID": 901101,
-      "group": "Background",
-      "name": "Static",
-      "type": "Volcano"
-    },
-    {
-      "wodID": 901102,
-      "group": "Background",
-      "name": "Static",
-      "type": "Dessert"
-    },
-    {
-      "wodID": 901103,
-      "group": "Background",
-      "name": "Static",
-      "type": "Icecream"
-    },
-    {
-      "wodID": 901104,
-      "group": "Background",
-      "name": "Static",
-      "type": "Faction"
-    },
-    {
-      "wodID": 901105,
-      "group": "Background",
-      "name": "Static",
-      "type": "Seaqueen"
-    }
-  ]
-}
+[
+  {
+    "wodID": 901100,
+    "group": "Background",
+    "name": "Static",
+    "type": "Classic"
+  },
+  {
+    "wodID": 901101,
+    "group": "Background",
+    "name": "Static",
+    "type": "Volcano"
+  },
+  {
+    "wodID": 901102,
+    "group": "Background",
+    "name": "Static",
+    "type": "Dessert"
+  },
+  {
+    "wodID": 901103,
+    "group": "Background",
+    "name": "Static",
+    "type": "Icecream"
+  },
+  {
+    "wodID": 901104,
+    "group": "Background",
+    "name": "Static",
+    "type": "Faction"
+  },
+  {
+    "wodID": 901105,
+    "group": "Background",
+    "name": "Static",
+    "type": "Seaqueen"
+  }
+]

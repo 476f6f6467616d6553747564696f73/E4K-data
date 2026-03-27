@@ -1,108 +1,106 @@
-{
-  "allianceCoatLayout": [
-    {
-      "allianceCoatLayoutID": 1,
-      "comment1": "free",
-      "noofColors": 1,
-      "isDefault": 1
-    },
-    {
-      "allianceCoatLayoutID": 2,
-      "comment1": "free",
-      "noofColors": 2
-    },
-    {
-      "allianceCoatLayoutID": 3,
-      "comment1": "free",
-      "noofColors": 2
-    },
-    {
-      "allianceCoatLayoutID": 4,
-      "comment1": "free",
-      "noofColors": 2
-    },
-    {
-      "allianceCoatLayoutID": 5,
-      "comment1": "free",
-      "noofColors": 2
-    },
-    {
-      "allianceCoatLayoutID": 6,
-      "comment1": "free",
-      "noofColors": 2
-    },
-    {
-      "allianceCoatLayoutID": 7,
-      "comment1": "free",
-      "noofColors": 2
-    },
-    {
-      "allianceCoatLayoutID": 8,
-      "comment1": "free",
-      "noofColors": 2
-    },
-    {
-      "allianceCoatLayoutID": 9,
-      "comment1": "nomad",
-      "maxDuration": 259200,
-      "effects": "413&amp;1000",
-      "eventID": 72,
-      "noofColors": 2,
-      "effectIconID": 2
-    },
-    {
-      "allianceCoatLayoutID": 10,
-      "comment1": "samurai",
-      "maxDuration": 432000,
-      "effects": "405&amp;35000",
-      "eventID": 80,
-      "noofColors": 3,
-      "effectIconID": 3
-    },
-    {
-      "allianceCoatLayoutID": 11,
-      "comment1": "aliens",
-      "maxDuration": 777600,
-      "effects": "368&amp;30",
-      "eventID": 71,
-      "noofColors": 3,
-      "effectIconID": 1
-    },
-    {
-      "allianceCoatLayoutID": 12,
-      "comment1": "aliensRed",
-      "maxDuration": 777600,
-      "effects": "369&amp;30",
-      "eventID": 103,
-      "noofColors": 2,
-      "effectIconID": 1
-    },
-    {
-      "allianceCoatLayoutID": 13,
-      "comment1": "AMERank1",
-      "maxDuration": 1209600,
-      "effects": "410&amp;5",
-      "eventID": 129,
-      "noofColors": 3,
-      "effectIconID": 1
-    },
-    {
-      "allianceCoatLayoutID": 14,
-      "comment1": "AMERank2",
-      "maxDuration": 1209600,
-      "effects": "410&amp;3",
-      "eventID": 129,
-      "noofColors": 3,
-      "effectIconID": 1
-    },
-    {
-      "allianceCoatLayoutID": 15,
-      "comment1": "AMERank3",
-      "maxDuration": 1209600,
-      "effects": "410&amp;2",
-      "eventID": 129,
-      "noofColors": 3,
-      "effectIconID": 1
-    }
-  ]
-}
+[
+  {
+    "allianceCoatLayoutID": 1,
+    "comment1": "free",
+    "noofColors": 1,
+    "isDefault": 1
+  },
+  {
+    "allianceCoatLayoutID": 2,
+    "comment1": "free",
+    "noofColors": 2
+  },
+  {
+    "allianceCoatLayoutID": 3,
+    "comment1": "free",
+    "noofColors": 2
+  },
+  {
+    "allianceCoatLayoutID": 4,
+    "comment1": "free",
+    "noofColors": 2
+  },
+  {
+    "allianceCoatLayoutID": 5,
+    "comment1": "free",
+    "noofColors": 2
+  },
+  {
+    "allianceCoatLayoutID": 6,
+    "comment1": "free",
+    "noofColors": 2
+  },
+  {
+    "allianceCoatLayoutID": 7,
+    "comment1": "free",
+    "noofColors": 2
+  },
+  {
+    "allianceCoatLayoutID": 8,
+    "comment1": "free",
+    "noofColors": 2
+  },
+  {
+    "allianceCoatLayoutID": 9,
+    "comment1": "nomad",
+    "maxDuration": 259200,
+    "effects": "413&amp;1000",
+    "eventID": 72,
+    "noofColors": 2,
+    "effectIconID": 2
+  },
+  {
+    "allianceCoatLayoutID": 10,
+    "comment1": "samurai",
+    "maxDuration": 432000,
+    "effects": "405&amp;35000",
+    "eventID": 80,
+    "noofColors": 3,
+    "effectIconID": 3
+  },
+  {
+    "allianceCoatLayoutID": 11,
+    "comment1": "aliens",
+    "maxDuration": 777600,
+    "effects": "368&amp;30",
+    "eventID": 71,
+    "noofColors": 3,
+    "effectIconID": 1
+  },
+  {
+    "allianceCoatLayoutID": 12,
+    "comment1": "aliensRed",
+    "maxDuration": 777600,
+    "effects": "369&amp;30",
+    "eventID": 103,
+    "noofColors": 2,
+    "effectIconID": 1
+  },
+  {
+    "allianceCoatLayoutID": 13,
+    "comment1": "AMERank1",
+    "maxDuration": 1209600,
+    "effects": "410&amp;5",
+    "eventID": 129,
+    "noofColors": 3,
+    "effectIconID": 1
+  },
+  {
+    "allianceCoatLayoutID": 14,
+    "comment1": "AMERank2",
+    "maxDuration": 1209600,
+    "effects": "410&amp;3",
+    "eventID": 129,
+    "noofColors": 3,
+    "effectIconID": 1
+  },
+  {
+    "allianceCoatLayoutID": 15,
+    "comment1": "AMERank3",
+    "maxDuration": 1209600,
+    "effects": "410&amp;2",
+    "eventID": 129,
+    "noofColors": 3,
+    "effectIconID": 1
+  }
+]
