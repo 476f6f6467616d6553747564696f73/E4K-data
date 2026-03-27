@@ -4,23 +4,21 @@
   "is_approval": false,
   "instances": [
     {
-      "instance": {
-        "value": 3,
-        "server": "e4k-live-preclient-pl1-game.goodgamestudios.com",
-        "port": 443,
-        "zone": "EmpirefourkingdomsExGG2_3",
-        "zoneId": 446,
-        "instanceName": 1,
-        "isFavorite": 0,
-        "instanceLocaId": "generic_country_PL",
-        "isPriority": 0,
-        "isInternational": 0,
-        "countries": [
-          "PL",
-          "XX"
-        ],
-        "defaultcountry": "PL"
-      }
+      "value": 3,
+      "server": "e4k-live-preclient-pl1-game.goodgamestudios.com",
+      "port": 443,
+      "zone": "EmpirefourkingdomsExGG2_3",
+      "zoneId": 446,
+      "instanceName": 1,
+      "isFavorite": 0,
+      "instanceLocaId": "generic_country_PL",
+      "isPriority": 0,
+      "isInternational": 0,
+      "countries": [
+        "PL",
+        "XX"
+      ],
+      "defaultcountry": "PL"
     }
   ],
   "test-instances": [],
