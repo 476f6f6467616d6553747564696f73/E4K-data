@@ -27164,6 +27164,456 @@
       }
     ]
   },
+  "HoL8FoodDistrictDayTier1": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8FoodDistrictDayTier1/HoL8FoodDistrictDayTier1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 351,
+        "rx": 834,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "HoL8FoodDistrictDayTier2": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8FoodDistrictDayTier2/HoL8FoodDistrictDayTier2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 389,
+        "h": 351,
+        "rx": 833,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "HoL8FoodDistrictDayTier3": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8FoodDistrictDayTier3/HoL8FoodDistrictDayTier3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 395,
+        "h": 352,
+        "rx": 827,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "HoL8FoodDistrictNightTier1": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8FoodDistrictNightTier1/HoL8FoodDistrictNightTier1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 453,
+        "rx": 821,
+        "ry": 745
+      }
+    ],
+    "fx": []
+  },
+  "HoL8FoodDistrictNightTier2": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8FoodDistrictNightTier2/HoL8FoodDistrictNightTier2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 401,
+        "h": 453,
+        "rx": 821,
+        "ry": 745
+      }
+    ],
+    "fx": []
+  },
+  "HoL8FoodDistrictNightTier3": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8FoodDistrictNightTier3/HoL8FoodDistrictNightTier3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 401,
+        "h": 453,
+        "rx": 821,
+        "ry": 745
+      }
+    ],
+    "fx": []
+  },
+  "HoL8InnerDistrictDayTier1": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8InnerDistrictDayTier1/HoL8InnerDistrictDayTier1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 391,
+        "h": 354,
+        "rx": 824,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "HoL8InnerDistrictDayTier2": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8InnerDistrictDayTier2/HoL8InnerDistrictDayTier2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 394,
+        "h": 354,
+        "rx": 824,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "HoL8InnerDistrictDayTier3": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8InnerDistrictDayTier3/HoL8InnerDistrictDayTier3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 394,
+        "h": 354,
+        "rx": 824,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "HoL8InnerDistrictNightTier1": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8InnerDistrictNightTier1/HoL8InnerDistrictNightTier1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 396,
+        "h": 354,
+        "rx": 825,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "HoL8InnerDistrictNightTier2": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8InnerDistrictNightTier2/HoL8InnerDistrictNightTier2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 396,
+        "h": 354,
+        "rx": 825,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "HoL8InnerDistrictNightTier3": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8InnerDistrictNightTier3/HoL8InnerDistrictNightTier3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 396,
+        "h": 355,
+        "rx": 825,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MeadDistrictDayTier1": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MeadDistrictDayTier1/HoL8MeadDistrictDayTier1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 382,
+        "h": 354,
+        "rx": 824,
+        "ry": 835
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MeadDistrictDayTier2": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MeadDistrictDayTier2/HoL8MeadDistrictDayTier2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 381,
+        "h": 355,
+        "rx": 824,
+        "ry": 835
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MeadDistrictDayTier3": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MeadDistrictDayTier3/HoL8MeadDistrictDayTier3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 382,
+        "h": 354,
+        "rx": 824,
+        "ry": 835
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MeadDistrictNightTier1": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MeadDistrictNightTier1/HoL8MeadDistrictNightTier1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 355,
+        "rx": 827,
+        "ry": 835
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MeadDistrictNightTier2": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MeadDistrictNightTier2/HoL8MeadDistrictNightTier2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 355,
+        "rx": 826,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MeadDistrictNightTier3": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MeadDistrictNightTier3/HoL8MeadDistrictNightTier3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 389,
+        "h": 354,
+        "rx": 824,
+        "ry": 835
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MilitaryDistrictDayTier1": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MilitaryDistrictDayTier1/HoL8MilitaryDistrictDayTier1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 399,
+        "h": 453,
+        "rx": 819,
+        "ry": 745
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MilitaryDistrictDayTier2": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MilitaryDistrictDayTier2/HoL8MilitaryDistrictDayTier2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 399,
+        "h": 453,
+        "rx": 819,
+        "ry": 745
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MilitaryDistrictDayTier3": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MilitaryDistrictDayTier3/HoL8MilitaryDistrictDayTier3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 403,
+        "h": 453,
+        "rx": 819,
+        "ry": 745
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MilitaryDistrictNightTier1": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MilitaryDistrictNightTier1/HoL8MilitaryDistrictNightTier1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 397,
+        "h": 453,
+        "rx": 819,
+        "ry": 745
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MilitaryDistrictNightTier2": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MilitaryDistrictNightTier2/HoL8MilitaryDistrictNightTier2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 396,
+        "h": 453,
+        "rx": 819,
+        "ry": 745
+      }
+    ],
+    "fx": []
+  },
+  "HoL8MilitaryDistrictNightTier3": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8MilitaryDistrictNightTier3/HoL8MilitaryDistrictNightTier3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 403,
+        "h": 453,
+        "rx": 819,
+        "ry": 745
+      }
+    ],
+    "fx": []
+  },
+  "HoL8TradeDistrictDayTier1": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8TradeDistrictDayTier1/HoL8TradeDistrictDayTier1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 379,
+        "h": 381,
+        "rx": 830,
+        "ry": 808
+      }
+    ],
+    "fx": []
+  },
+  "HoL8TradeDistrictDayTier2": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8TradeDistrictDayTier2/HoL8TradeDistrictDayTier2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 379,
+        "h": 381,
+        "rx": 830,
+        "ry": 808
+      }
+    ],
+    "fx": []
+  },
+  "HoL8TradeDistrictDayTier3": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8TradeDistrictDayTier3/HoL8TradeDistrictDayTier3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 382,
+        "rx": 830,
+        "ry": 807
+      }
+    ],
+    "fx": []
+  },
+  "HoL8TradeDistrictNightTier1": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8TradeDistrictNightTier1/HoL8TradeDistrictNightTier1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 385,
+        "h": 381,
+        "rx": 829,
+        "ry": 808
+      }
+    ],
+    "fx": []
+  },
+  "HoL8TradeDistrictNightTier2": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8TradeDistrictNightTier2/HoL8TradeDistrictNightTier2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 385,
+        "h": 381,
+        "rx": 829,
+        "ry": 808
+      }
+    ],
+    "fx": []
+  },
+  "HoL8TradeDistrictNightTier3": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/HoL8TradeDistrictNightTier3/HoL8TradeDistrictNightTier3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 385,
+        "h": 380,
+        "rx": 829,
+        "ry": 809
+      }
+    ],
+    "fx": []
+  },
   "holGranary": {
     "pid": 0,
     "url": "x768/BuildingSkins/holGranary/holGranary.png",
@@ -98459,6 +98909,66 @@
     ],
     "fx": []
   },
+  "icon_currency_RiftShard_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RiftShard_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 111,
+        "rx": 946,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RiftShard_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RiftShard_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 82,
+        "rx": 960,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RiftShard_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RiftShard_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 33,
+        "rx": 983,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RiftShard": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RiftShard.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 65,
+        "rx": 968,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_SaleDaysLuckyWheelTicket_big": {
     "pid": 0,
     "url": "x768/Icons/CurrencyIcons/icon_currency_SaleDaysLuckyWheelTicket_big.png",
@@ -124709,6 +125219,21 @@
     ],
     "fx": []
   },
+  "icon_effect_meleeDefenseMalus": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_difficultyScalingMeleeBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 83,
+        "rx": 957,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_difficultyScalingMoatBonus": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_difficultyScalingMoatBonus_Shared.png",
@@ -124740,6 +125265,21 @@
     "fx": []
   },
   "icon_effect_rangeBonus": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_difficultyScalingRangeBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 89,
+        "rx": 947,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_rangeDefenseMalus": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_difficultyScalingRangeBonus_Shared.png",
     "frames": [
@@ -125699,6 +126239,21 @@
     ],
     "fx": []
   },
+  "icon_effect_meleeDefenseMalusYard": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_meleeDefenseMalusYard_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 79,
+        "rx": 960,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
   "icon_building_related_effect_moat": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_moat_small_Shared.png",
@@ -126010,6 +126565,21 @@
         "h": 67,
         "rx": 969,
         "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_rangeDefenseMalusYard": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_rangeDefenseMalusYard_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 79,
+        "rx": 960,
+        "ry": 960
       }
     ],
     "fx": []

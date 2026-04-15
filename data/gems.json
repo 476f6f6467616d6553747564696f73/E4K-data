@@ -3832,6 +3832,7 @@
     "setID": 1064,
     "triggerChance": 100,
     "sellPriceOverride": 128,
+    "sellC1": 128,
     "effects": "504&amp;20,57&amp;20,58&amp;15"
   },
   {
@@ -3846,6 +3847,7 @@
     "setID": 1064,
     "triggerChance": 100,
     "sellPriceOverride": 128,
+    "sellC1": 128,
     "effects": "57&amp;25,504&amp;15,59&amp;15"
   },
   {
@@ -3860,6 +3862,7 @@
     "setID": 1064,
     "triggerChance": 100,
     "sellPriceOverride": 128,
+    "sellC1": 128,
     "effects": "59&amp;20,58&amp;15,504&amp;15"
   },
   {
@@ -3874,6 +3877,7 @@
     "setID": 1064,
     "triggerChance": 100,
     "sellPriceOverride": 128,
+    "sellC1": 128,
     "effects": "66&amp;10,59&amp;20,58&amp;15"
   },
   {
@@ -3888,6 +3892,7 @@
     "setID": 1063,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "504&amp;15,57&amp;15,58&amp;10"
   },
   {
@@ -3902,6 +3907,7 @@
     "setID": 1063,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "57&amp;15,504&amp;10,59&amp;10"
   },
   {
@@ -3916,6 +3922,7 @@
     "setID": 1063,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "59&amp;15,58&amp;10,504&amp;15"
   },
   {
@@ -3930,6 +3937,7 @@
     "setID": 1063,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "66&amp;5,59&amp;10,58&amp;10"
   },
   {
@@ -3944,6 +3952,7 @@
     "setID": 1083,
     "triggerChance": 100,
     "sellPriceOverride": 128,
+    "sellC1": 128,
     "effects": "7&amp;10,4&amp;10,185&amp;10"
   },
   {
@@ -3958,6 +3967,7 @@
     "setID": 1083,
     "triggerChance": 100,
     "sellPriceOverride": 128,
+    "sellC1": 128,
     "effects": "8&amp;15,7&amp;10,9&amp;15"
   },
   {
@@ -3972,6 +3982,7 @@
     "setID": 1083,
     "triggerChance": 100,
     "sellPriceOverride": 128,
+    "sellC1": 128,
     "effects": "4&amp;10,7&amp;15,501&amp;10"
   },
   {
@@ -3986,6 +3997,7 @@
     "setID": 1083,
     "triggerChance": 100,
     "sellPriceOverride": 128,
+    "sellC1": 128,
     "effects": "501&amp;10,3&amp;15,8&amp;15"
   },
   {
@@ -4000,6 +4012,7 @@
     "setID": 1040,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "501&amp;10,4&amp;15"
   },
   {
@@ -4014,6 +4027,7 @@
     "setID": 1040,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "13&amp;20,10&amp;17"
   },
   {
@@ -4028,6 +4042,7 @@
     "setID": 1040,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "501&amp;5,13&amp;15"
   },
   {
@@ -4042,6 +4057,7 @@
     "setID": 1040,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "13&amp;10,11&amp;15"
   },
   {
@@ -4538,6 +4554,7 @@
     "setID": 1094,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "467&amp;120,468&amp;120,475&amp;110"
   },
   {
@@ -4550,6 +4567,7 @@
     "setID": 1094,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "467&amp;120,468&amp;120,475&amp;110"
   },
   {
@@ -4562,6 +4580,7 @@
     "setID": 1094,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "474&amp;65,476&amp;65,477&amp;10"
   },
   {
@@ -4574,6 +4593,7 @@
     "setID": 1094,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "474&amp;65,476&amp;65,477&amp;10"
   },
   {
@@ -4586,6 +4606,7 @@
     "setID": 1095,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "467&amp;150,468&amp;150,475&amp;140"
   },
   {
@@ -4598,6 +4619,7 @@
     "setID": 1095,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "467&amp;150,468&amp;150,475&amp;140"
   },
   {
@@ -4610,6 +4632,7 @@
     "setID": 1095,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "474&amp;82,476&amp;82,477&amp;13"
   },
   {
@@ -4622,6 +4645,7 @@
     "setID": 1095,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "474&amp;82,476&amp;82,477&amp;13"
   },
   {
@@ -4634,6 +4658,7 @@
     "setID": 1096,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "467&amp;180,468&amp;180,475&amp;165"
   },
   {
@@ -4646,6 +4671,7 @@
     "setID": 1096,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "467&amp;180,468&amp;180,475&amp;165"
   },
   {
@@ -4658,6 +4684,7 @@
     "setID": 1096,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "474&amp;98,476&amp;98,477&amp;15"
   },
   {
@@ -4670,6 +4697,7 @@
     "setID": 1096,
     "triggerChance": 100,
     "sellPriceOverride": 48,
+    "sellC1": 48,
     "effects": "474&amp;98,476&amp;98,477&amp;15"
   }
 ]

@@ -69442,6 +69442,1302 @@
     "equipmentIDs": 1442
   },
   {
+    "rewardID": 19247,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 80,
+    "addPlaster": 10000,
+    "equipmentIDs": 1477,
+    "addDragonScaleSplinters": 70000
+  },
+  {
+    "rewardID": 19248,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 75,
+    "addPlaster": 9500,
+    "equipmentIDs": 1477,
+    "addDragonScaleSplinters": 65000
+  },
+  {
+    "rewardID": 19249,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 70,
+    "addPlaster": 9000,
+    "equipmentIDs": 1477,
+    "addDragonScaleSplinters": 60000
+  },
+  {
+    "rewardID": 19250,
+    "comment1": "Rank 4-7",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 65,
+    "addPlaster": 8500,
+    "equipmentIDs": 1478,
+    "addDragonScaleSplinters": 55000
+  },
+  {
+    "rewardID": 19251,
+    "comment1": "Rank 8-15",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 60,
+    "addPlaster": 8000,
+    "equipmentIDs": 1479,
+    "addDragonScaleSplinters": 50000
+  },
+  {
+    "rewardID": 19252,
+    "comment1": "Rank 16-30",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 55,
+    "addPlaster": 7500,
+    "equipmentIDs": 1480,
+    "addDragonScaleSplinters": 45000
+  },
+  {
+    "rewardID": 19253,
+    "comment1": "Rank 31-75",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 50,
+    "addPlaster": 7000,
+    "equipmentIDs": 1481,
+    "addDragonScaleSplinters": 42500
+  },
+  {
+    "rewardID": 19254,
+    "comment1": "Rank 76-150",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 50,
+    "addPlaster": 6500,
+    "equipmentIDs": 1482,
+    "addDragonScaleSplinters": 40000
+  },
+  {
+    "rewardID": 19255,
+    "comment1": "Rank 151-225",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 50,
+    "addPlaster": 6000,
+    "equipmentIDs": 1483,
+    "addDragonScaleSplinters": 37500
+  },
+  {
+    "rewardID": 19256,
+    "comment1": "Rank 226-450",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 50,
+    "addPlaster": 5500,
+    "equipmentIDs": 1484,
+    "addDragonScaleSplinters": 35000
+  },
+  {
+    "rewardID": 19257,
+    "comment1": "Rank 451-900",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 50,
+    "addPlaster": 5000,
+    "equipmentIDs": 1485,
+    "addDragonScaleSplinters": 32500
+  },
+  {
+    "rewardID": 19258,
+    "comment1": "Rank 901-1500",
+    "comment2": "Lvl 1020 April",
+    "addGenXP15000": 50,
+    "addPlaster": 4500,
+    "equipmentIDs": 1486,
+    "addDragonScaleSplinters": 30000
+  },
+  {
+    "rewardID": 19259,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 80,
+    "addLegendaryToken": 5000,
+    "addLegendaryMaterial": 10000,
+    "equipmentIDs": 1477
+  },
+  {
+    "rewardID": 19260,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 75,
+    "addLegendaryToken": 3750,
+    "addLegendaryMaterial": 7500,
+    "equipmentIDs": 1477
+  },
+  {
+    "rewardID": 19261,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 70,
+    "addLegendaryToken": 2813,
+    "addLegendaryMaterial": 5626,
+    "equipmentIDs": 1477
+  },
+  {
+    "rewardID": 19262,
+    "comment1": "Rank 4-5",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 65,
+    "addLegendaryToken": 2250,
+    "addLegendaryMaterial": 4500,
+    "equipmentIDs": 1478
+  },
+  {
+    "rewardID": 19263,
+    "comment1": "Rank 6-10",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 60,
+    "addLegendaryToken": 1800,
+    "addLegendaryMaterial": 3600,
+    "equipmentIDs": 1479
+  },
+  {
+    "rewardID": 19264,
+    "comment1": "Rank 11-20",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 55,
+    "addLegendaryToken": 1530,
+    "addLegendaryMaterial": 3060,
+    "equipmentIDs": 1480
+  },
+  {
+    "rewardID": 19265,
+    "comment1": "Rank 21-40",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1301,
+    "addLegendaryMaterial": 2602,
+    "equipmentIDs": 1481
+  },
+  {
+    "rewardID": 19266,
+    "comment1": "Rank 41-70",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1106,
+    "addLegendaryMaterial": 2212,
+    "equipmentIDs": 1482
+  },
+  {
+    "rewardID": 19267,
+    "comment1": "Rank 71-120",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 940,
+    "addLegendaryMaterial": 1880,
+    "equipmentIDs": 1483
+  },
+  {
+    "rewardID": 19268,
+    "comment1": "Rank 121-200",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 846,
+    "addLegendaryMaterial": 1692,
+    "equipmentIDs": 1484
+  },
+  {
+    "rewardID": 19269,
+    "comment1": "Rank 201-300",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 761,
+    "addLegendaryMaterial": 1522,
+    "equipmentIDs": 1485
+  },
+  {
+    "rewardID": 19270,
+    "comment1": "Rank 301-500",
+    "comment2": "Lvl 720-1019 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 741,
+    "addLegendaryMaterial": 1482,
+    "equipmentIDs": 1486
+  },
+  {
+    "rewardID": 19271,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 80,
+    "addLegendaryToken": 5000,
+    "addLegendaryMaterial": 10000,
+    "equipmentIDs": 1477
+  },
+  {
+    "rewardID": 19272,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 75,
+    "addLegendaryToken": 3750,
+    "addLegendaryMaterial": 7500,
+    "equipmentIDs": 1477
+  },
+  {
+    "rewardID": 19273,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 70,
+    "addLegendaryToken": 2813,
+    "addLegendaryMaterial": 5626,
+    "equipmentIDs": 1477
+  },
+  {
+    "rewardID": 19274,
+    "comment1": "Rank 4-5",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 65,
+    "addLegendaryToken": 2250,
+    "addLegendaryMaterial": 4500,
+    "equipmentIDs": 1478
+  },
+  {
+    "rewardID": 19275,
+    "comment1": "Rank 6-10",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 60,
+    "addLegendaryToken": 1800,
+    "addLegendaryMaterial": 3600,
+    "equipmentIDs": 1479
+  },
+  {
+    "rewardID": 19276,
+    "comment1": "Rank 11-20",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 55,
+    "addLegendaryToken": 1530,
+    "addLegendaryMaterial": 3060,
+    "equipmentIDs": 1480
+  },
+  {
+    "rewardID": 19277,
+    "comment1": "Rank 21-50",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1301,
+    "addLegendaryMaterial": 2602,
+    "equipmentIDs": 1481
+  },
+  {
+    "rewardID": 19278,
+    "comment1": "Rank 51-100",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1106,
+    "addLegendaryMaterial": 2212,
+    "equipmentIDs": 1482
+  },
+  {
+    "rewardID": 19279,
+    "comment1": "Rank 101-150",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 940,
+    "addLegendaryMaterial": 1880,
+    "equipmentIDs": 1483
+  },
+  {
+    "rewardID": 19280,
+    "comment1": "Rank 151-300",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 846,
+    "addLegendaryMaterial": 1692,
+    "equipmentIDs": 1484
+  },
+  {
+    "rewardID": 19281,
+    "comment1": "Rank 301-600",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 761,
+    "addLegendaryMaterial": 1522,
+    "equipmentIDs": 1485
+  },
+  {
+    "rewardID": 19282,
+    "comment1": "Rank 601-1000",
+    "comment2": "Lvl 270-719 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 741,
+    "addLegendaryMaterial": 1482,
+    "equipmentIDs": 1486
+  },
+  {
+    "rewardID": 19283,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 80,
+    "addLegendaryToken": 5000,
+    "addLegendaryMaterial": 10000,
+    "equipmentIDs": 1477
+  },
+  {
+    "rewardID": 19284,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 75,
+    "addLegendaryToken": 3750,
+    "addLegendaryMaterial": 7500,
+    "equipmentIDs": 1477
+  },
+  {
+    "rewardID": 19285,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 70,
+    "addLegendaryToken": 2813,
+    "addLegendaryMaterial": 5626,
+    "equipmentIDs": 1477
+  },
+  {
+    "rewardID": 19286,
+    "comment1": "Rank 4-5",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 65,
+    "addLegendaryToken": 2250,
+    "addLegendaryMaterial": 4500,
+    "equipmentIDs": 1478
+  },
+  {
+    "rewardID": 19287,
+    "comment1": "Rank 6-10",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 60,
+    "addLegendaryToken": 1800,
+    "addLegendaryMaterial": 3600,
+    "equipmentIDs": 1479
+  },
+  {
+    "rewardID": 19288,
+    "comment1": "Rank 11-20",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 55,
+    "addLegendaryToken": 1530,
+    "addLegendaryMaterial": 3060,
+    "equipmentIDs": 1480
+  },
+  {
+    "rewardID": 19289,
+    "comment1": "Rank 21-50",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1301,
+    "addLegendaryMaterial": 2602,
+    "equipmentIDs": 1481
+  },
+  {
+    "rewardID": 19290,
+    "comment1": "Rank 51-100",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1106,
+    "addLegendaryMaterial": 2212,
+    "equipmentIDs": 1482
+  },
+  {
+    "rewardID": 19291,
+    "comment1": "Rank 101-150",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 940,
+    "addLegendaryMaterial": 1880,
+    "equipmentIDs": 1483
+  },
+  {
+    "rewardID": 19292,
+    "comment1": "Rank 151-300",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 846,
+    "addLegendaryMaterial": 1692,
+    "equipmentIDs": 1484
+  },
+  {
+    "rewardID": 19293,
+    "comment1": "Rank 301-600",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 761,
+    "addLegendaryMaterial": 1522,
+    "equipmentIDs": 1485
+  },
+  {
+    "rewardID": 19294,
+    "comment1": "Rank 601-1000",
+    "comment2": "Lvl 70-269 April",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 741,
+    "addLegendaryMaterial": 1482,
+    "equipmentIDs": 1486
+  },
+  {
+    "rewardID": 19295,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 80,
+    "addPlaster": 10000,
+    "equipmentIDs": 1487,
+    "addDragonScaleSplinters": 70000
+  },
+  {
+    "rewardID": 19296,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 75,
+    "addPlaster": 9500,
+    "equipmentIDs": 1487,
+    "addDragonScaleSplinters": 65000
+  },
+  {
+    "rewardID": 19297,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 70,
+    "addPlaster": 9000,
+    "equipmentIDs": 1487,
+    "addDragonScaleSplinters": 60000
+  },
+  {
+    "rewardID": 19298,
+    "comment1": "Rank 4-7",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 65,
+    "addPlaster": 8500,
+    "equipmentIDs": 1488,
+    "addDragonScaleSplinters": 55000
+  },
+  {
+    "rewardID": 19299,
+    "comment1": "Rank 8-15",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 60,
+    "addPlaster": 8000,
+    "equipmentIDs": 1489,
+    "addDragonScaleSplinters": 50000
+  },
+  {
+    "rewardID": 19300,
+    "comment1": "Rank 16-30",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 55,
+    "addPlaster": 7500,
+    "equipmentIDs": 1490,
+    "addDragonScaleSplinters": 45000
+  },
+  {
+    "rewardID": 19301,
+    "comment1": "Rank 31-75",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 50,
+    "addPlaster": 7000,
+    "equipmentIDs": 1491,
+    "addDragonScaleSplinters": 42500
+  },
+  {
+    "rewardID": 19302,
+    "comment1": "Rank 76-150",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 50,
+    "addPlaster": 6500,
+    "equipmentIDs": 1492,
+    "addDragonScaleSplinters": 40000
+  },
+  {
+    "rewardID": 19303,
+    "comment1": "Rank 151-225",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 50,
+    "addPlaster": 6000,
+    "equipmentIDs": 1493,
+    "addDragonScaleSplinters": 37500
+  },
+  {
+    "rewardID": 19304,
+    "comment1": "Rank 226-450",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 50,
+    "addPlaster": 5500,
+    "equipmentIDs": 1494,
+    "addDragonScaleSplinters": 35000
+  },
+  {
+    "rewardID": 19305,
+    "comment1": "Rank 451-900",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 50,
+    "addPlaster": 5000,
+    "equipmentIDs": 1495,
+    "addDragonScaleSplinters": 32500
+  },
+  {
+    "rewardID": 19306,
+    "comment1": "Rank 901-1500",
+    "comment2": "Lvl 1020 May",
+    "addGenXP15000": 50,
+    "addPlaster": 4500,
+    "equipmentIDs": 1496,
+    "addDragonScaleSplinters": 30000
+  },
+  {
+    "rewardID": 19307,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 80,
+    "addLegendaryToken": 5000,
+    "addLegendaryMaterial": 10000,
+    "equipmentIDs": 1487
+  },
+  {
+    "rewardID": 19308,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 75,
+    "addLegendaryToken": 3750,
+    "addLegendaryMaterial": 7500,
+    "equipmentIDs": 1487
+  },
+  {
+    "rewardID": 19309,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 70,
+    "addLegendaryToken": 2813,
+    "addLegendaryMaterial": 5626,
+    "equipmentIDs": 1487
+  },
+  {
+    "rewardID": 19310,
+    "comment1": "Rank 4-5",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 65,
+    "addLegendaryToken": 2250,
+    "addLegendaryMaterial": 4500,
+    "equipmentIDs": 1488
+  },
+  {
+    "rewardID": 19311,
+    "comment1": "Rank 6-10",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 60,
+    "addLegendaryToken": 1800,
+    "addLegendaryMaterial": 3600,
+    "equipmentIDs": 1489
+  },
+  {
+    "rewardID": 19312,
+    "comment1": "Rank 11-20",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 55,
+    "addLegendaryToken": 1530,
+    "addLegendaryMaterial": 3060,
+    "equipmentIDs": 1490
+  },
+  {
+    "rewardID": 19313,
+    "comment1": "Rank 21-40",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1301,
+    "addLegendaryMaterial": 2602,
+    "equipmentIDs": 1491
+  },
+  {
+    "rewardID": 19314,
+    "comment1": "Rank 41-70",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1106,
+    "addLegendaryMaterial": 2212,
+    "equipmentIDs": 1492
+  },
+  {
+    "rewardID": 19315,
+    "comment1": "Rank 71-120",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 940,
+    "addLegendaryMaterial": 1880,
+    "equipmentIDs": 1493
+  },
+  {
+    "rewardID": 19316,
+    "comment1": "Rank 121-200",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 846,
+    "addLegendaryMaterial": 1692,
+    "equipmentIDs": 1494
+  },
+  {
+    "rewardID": 19317,
+    "comment1": "Rank 201-300",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 761,
+    "addLegendaryMaterial": 1522,
+    "equipmentIDs": 1495
+  },
+  {
+    "rewardID": 19318,
+    "comment1": "Rank 301-500",
+    "comment2": "Lvl 720-1019 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 741,
+    "addLegendaryMaterial": 1482,
+    "equipmentIDs": 1496
+  },
+  {
+    "rewardID": 19319,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 80,
+    "addLegendaryToken": 5000,
+    "addLegendaryMaterial": 10000,
+    "equipmentIDs": 1487
+  },
+  {
+    "rewardID": 19320,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 75,
+    "addLegendaryToken": 3750,
+    "addLegendaryMaterial": 7500,
+    "equipmentIDs": 1487
+  },
+  {
+    "rewardID": 19321,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 70,
+    "addLegendaryToken": 2813,
+    "addLegendaryMaterial": 5626,
+    "equipmentIDs": 1487
+  },
+  {
+    "rewardID": 19322,
+    "comment1": "Rank 4-5",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 65,
+    "addLegendaryToken": 2250,
+    "addLegendaryMaterial": 4500,
+    "equipmentIDs": 1488
+  },
+  {
+    "rewardID": 19323,
+    "comment1": "Rank 6-10",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 60,
+    "addLegendaryToken": 1800,
+    "addLegendaryMaterial": 3600,
+    "equipmentIDs": 1489
+  },
+  {
+    "rewardID": 19324,
+    "comment1": "Rank 11-20",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 55,
+    "addLegendaryToken": 1530,
+    "addLegendaryMaterial": 3060,
+    "equipmentIDs": 1490
+  },
+  {
+    "rewardID": 19325,
+    "comment1": "Rank 21-50",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1301,
+    "addLegendaryMaterial": 2602,
+    "equipmentIDs": 1491
+  },
+  {
+    "rewardID": 19326,
+    "comment1": "Rank 51-100",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1106,
+    "addLegendaryMaterial": 2212,
+    "equipmentIDs": 1492
+  },
+  {
+    "rewardID": 19327,
+    "comment1": "Rank 101-150",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 940,
+    "addLegendaryMaterial": 1880,
+    "equipmentIDs": 1493
+  },
+  {
+    "rewardID": 19328,
+    "comment1": "Rank 151-300",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 846,
+    "addLegendaryMaterial": 1692,
+    "equipmentIDs": 1494
+  },
+  {
+    "rewardID": 19329,
+    "comment1": "Rank 301-600",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 761,
+    "addLegendaryMaterial": 1522,
+    "equipmentIDs": 1495
+  },
+  {
+    "rewardID": 19330,
+    "comment1": "Rank 601-1000",
+    "comment2": "Lvl 270-719 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 741,
+    "addLegendaryMaterial": 1482,
+    "equipmentIDs": 1496
+  },
+  {
+    "rewardID": 19331,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 80,
+    "addLegendaryToken": 5000,
+    "addLegendaryMaterial": 10000,
+    "equipmentIDs": 1487
+  },
+  {
+    "rewardID": 19332,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 75,
+    "addLegendaryToken": 3750,
+    "addLegendaryMaterial": 7500,
+    "equipmentIDs": 1487
+  },
+  {
+    "rewardID": 19333,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 70,
+    "addLegendaryToken": 2813,
+    "addLegendaryMaterial": 5626,
+    "equipmentIDs": 1487
+  },
+  {
+    "rewardID": 19334,
+    "comment1": "Rank 4-5",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 65,
+    "addLegendaryToken": 2250,
+    "addLegendaryMaterial": 4500,
+    "equipmentIDs": 1488
+  },
+  {
+    "rewardID": 19335,
+    "comment1": "Rank 6-10",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 60,
+    "addLegendaryToken": 1800,
+    "addLegendaryMaterial": 3600,
+    "equipmentIDs": 1489
+  },
+  {
+    "rewardID": 19336,
+    "comment1": "Rank 11-20",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 55,
+    "addLegendaryToken": 1530,
+    "addLegendaryMaterial": 3060,
+    "equipmentIDs": 1490
+  },
+  {
+    "rewardID": 19337,
+    "comment1": "Rank 21-50",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1301,
+    "addLegendaryMaterial": 2602,
+    "equipmentIDs": 1491
+  },
+  {
+    "rewardID": 19338,
+    "comment1": "Rank 51-100",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1106,
+    "addLegendaryMaterial": 2212,
+    "equipmentIDs": 1492
+  },
+  {
+    "rewardID": 19339,
+    "comment1": "Rank 101-150",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 940,
+    "addLegendaryMaterial": 1880,
+    "equipmentIDs": 1493
+  },
+  {
+    "rewardID": 19340,
+    "comment1": "Rank 151-300",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 846,
+    "addLegendaryMaterial": 1692,
+    "equipmentIDs": 1494
+  },
+  {
+    "rewardID": 19341,
+    "comment1": "Rank 301-600",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 761,
+    "addLegendaryMaterial": 1522,
+    "equipmentIDs": 1495
+  },
+  {
+    "rewardID": 19342,
+    "comment1": "Rank 601-1000",
+    "comment2": "Lvl 70-269 May",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 741,
+    "addLegendaryMaterial": 1482,
+    "equipmentIDs": 1496
+  },
+  {
+    "rewardID": 19343,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 80,
+    "addPlaster": 10000,
+    "equipmentIDs": 1497,
+    "addDragonScaleSplinters": 70000
+  },
+  {
+    "rewardID": 19344,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 75,
+    "addPlaster": 9500,
+    "equipmentIDs": 1497,
+    "addDragonScaleSplinters": 65000
+  },
+  {
+    "rewardID": 19345,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 70,
+    "addPlaster": 9000,
+    "equipmentIDs": 1497,
+    "addDragonScaleSplinters": 60000
+  },
+  {
+    "rewardID": 19346,
+    "comment1": "Rank 4-7",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 65,
+    "addPlaster": 8500,
+    "equipmentIDs": 1498,
+    "addDragonScaleSplinters": 55000
+  },
+  {
+    "rewardID": 19347,
+    "comment1": "Rank 8-15",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 60,
+    "addPlaster": 8000,
+    "equipmentIDs": 1499,
+    "addDragonScaleSplinters": 50000
+  },
+  {
+    "rewardID": 19348,
+    "comment1": "Rank 16-30",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 55,
+    "addPlaster": 7500,
+    "equipmentIDs": 1500,
+    "addDragonScaleSplinters": 45000
+  },
+  {
+    "rewardID": 19349,
+    "comment1": "Rank 31-75",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 50,
+    "addPlaster": 7000,
+    "equipmentIDs": 1501,
+    "addDragonScaleSplinters": 42500
+  },
+  {
+    "rewardID": 19350,
+    "comment1": "Rank 76-150",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 50,
+    "addPlaster": 6500,
+    "equipmentIDs": 1502,
+    "addDragonScaleSplinters": 40000
+  },
+  {
+    "rewardID": 19351,
+    "comment1": "Rank 151-225",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 50,
+    "addPlaster": 6000,
+    "equipmentIDs": 1503,
+    "addDragonScaleSplinters": 37500
+  },
+  {
+    "rewardID": 19352,
+    "comment1": "Rank 226-450",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 50,
+    "addPlaster": 5500,
+    "equipmentIDs": 1504,
+    "addDragonScaleSplinters": 35000
+  },
+  {
+    "rewardID": 19353,
+    "comment1": "Rank 451-900",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 50,
+    "addPlaster": 5000,
+    "equipmentIDs": 1505,
+    "addDragonScaleSplinters": 32500
+  },
+  {
+    "rewardID": 19354,
+    "comment1": "Rank 901-1500",
+    "comment2": "Lvl 1020 June",
+    "addGenXP15000": 50,
+    "addPlaster": 4500,
+    "equipmentIDs": 1506,
+    "addDragonScaleSplinters": 30000
+  },
+  {
+    "rewardID": 19355,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 80,
+    "addLegendaryToken": 5000,
+    "addLegendaryMaterial": 10000,
+    "equipmentIDs": 1497
+  },
+  {
+    "rewardID": 19356,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 75,
+    "addLegendaryToken": 3750,
+    "addLegendaryMaterial": 7500,
+    "equipmentIDs": 1497
+  },
+  {
+    "rewardID": 19357,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 70,
+    "addLegendaryToken": 2813,
+    "addLegendaryMaterial": 5626,
+    "equipmentIDs": 1497
+  },
+  {
+    "rewardID": 19358,
+    "comment1": "Rank 4-5",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 65,
+    "addLegendaryToken": 2250,
+    "addLegendaryMaterial": 4500,
+    "equipmentIDs": 1498
+  },
+  {
+    "rewardID": 19359,
+    "comment1": "Rank 6-10",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 60,
+    "addLegendaryToken": 1800,
+    "addLegendaryMaterial": 3600,
+    "equipmentIDs": 1499
+  },
+  {
+    "rewardID": 19360,
+    "comment1": "Rank 11-20",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 55,
+    "addLegendaryToken": 1530,
+    "addLegendaryMaterial": 3060,
+    "equipmentIDs": 1500
+  },
+  {
+    "rewardID": 19361,
+    "comment1": "Rank 21-40",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1301,
+    "addLegendaryMaterial": 2602,
+    "equipmentIDs": 1501
+  },
+  {
+    "rewardID": 19362,
+    "comment1": "Rank 41-70",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1106,
+    "addLegendaryMaterial": 2212,
+    "equipmentIDs": 1502
+  },
+  {
+    "rewardID": 19363,
+    "comment1": "Rank 71-120",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 940,
+    "addLegendaryMaterial": 1880,
+    "equipmentIDs": 1503
+  },
+  {
+    "rewardID": 19364,
+    "comment1": "Rank 121-200",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 846,
+    "addLegendaryMaterial": 1692,
+    "equipmentIDs": 1504
+  },
+  {
+    "rewardID": 19365,
+    "comment1": "Rank 201-300",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 761,
+    "addLegendaryMaterial": 1522,
+    "equipmentIDs": 1505
+  },
+  {
+    "rewardID": 19366,
+    "comment1": "Rank 301-500",
+    "comment2": "Lvl 720-1019 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 741,
+    "addLegendaryMaterial": 1482,
+    "equipmentIDs": 1506
+  },
+  {
+    "rewardID": 19367,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 80,
+    "addLegendaryToken": 5000,
+    "addLegendaryMaterial": 10000,
+    "equipmentIDs": 1497
+  },
+  {
+    "rewardID": 19368,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 75,
+    "addLegendaryToken": 3750,
+    "addLegendaryMaterial": 7500,
+    "equipmentIDs": 1497
+  },
+  {
+    "rewardID": 19369,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 70,
+    "addLegendaryToken": 2813,
+    "addLegendaryMaterial": 5626,
+    "equipmentIDs": 1497
+  },
+  {
+    "rewardID": 19370,
+    "comment1": "Rank 4-5",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 65,
+    "addLegendaryToken": 2250,
+    "addLegendaryMaterial": 4500,
+    "equipmentIDs": 1498
+  },
+  {
+    "rewardID": 19371,
+    "comment1": "Rank 6-10",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 60,
+    "addLegendaryToken": 1800,
+    "addLegendaryMaterial": 3600,
+    "equipmentIDs": 1499
+  },
+  {
+    "rewardID": 19372,
+    "comment1": "Rank 11-20",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 55,
+    "addLegendaryToken": 1530,
+    "addLegendaryMaterial": 3060,
+    "equipmentIDs": 1500
+  },
+  {
+    "rewardID": 19373,
+    "comment1": "Rank 21-50",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1301,
+    "addLegendaryMaterial": 2602,
+    "equipmentIDs": 1501
+  },
+  {
+    "rewardID": 19374,
+    "comment1": "Rank 51-100",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1106,
+    "addLegendaryMaterial": 2212,
+    "equipmentIDs": 1502
+  },
+  {
+    "rewardID": 19375,
+    "comment1": "Rank 101-150",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 940,
+    "addLegendaryMaterial": 1880,
+    "equipmentIDs": 1503
+  },
+  {
+    "rewardID": 19376,
+    "comment1": "Rank 151-300",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 846,
+    "addLegendaryMaterial": 1692,
+    "equipmentIDs": 1504
+  },
+  {
+    "rewardID": 19377,
+    "comment1": "Rank 301-600",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 761,
+    "addLegendaryMaterial": 1522,
+    "equipmentIDs": 1505
+  },
+  {
+    "rewardID": 19378,
+    "comment1": "Rank 601-1000",
+    "comment2": "Lvl 270-719 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 741,
+    "addLegendaryMaterial": 1482,
+    "equipmentIDs": 1506
+  },
+  {
+    "rewardID": 19379,
+    "comment1": "Rank 1",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 80,
+    "addLegendaryToken": 5000,
+    "addLegendaryMaterial": 10000,
+    "equipmentIDs": 1497
+  },
+  {
+    "rewardID": 19380,
+    "comment1": "Rank 2",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 75,
+    "addLegendaryToken": 3750,
+    "addLegendaryMaterial": 7500,
+    "equipmentIDs": 1497
+  },
+  {
+    "rewardID": 19381,
+    "comment1": "Rank 3",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 70,
+    "addLegendaryToken": 2813,
+    "addLegendaryMaterial": 5626,
+    "equipmentIDs": 1497
+  },
+  {
+    "rewardID": 19382,
+    "comment1": "Rank 4-5",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 65,
+    "addLegendaryToken": 2250,
+    "addLegendaryMaterial": 4500,
+    "equipmentIDs": 1498
+  },
+  {
+    "rewardID": 19383,
+    "comment1": "Rank 6-10",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 60,
+    "addLegendaryToken": 1800,
+    "addLegendaryMaterial": 3600,
+    "equipmentIDs": 1499
+  },
+  {
+    "rewardID": 19384,
+    "comment1": "Rank 11-20",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 55,
+    "addLegendaryToken": 1530,
+    "addLegendaryMaterial": 3060,
+    "equipmentIDs": 1500
+  },
+  {
+    "rewardID": 19385,
+    "comment1": "Rank 21-50",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1301,
+    "addLegendaryMaterial": 2602,
+    "equipmentIDs": 1501
+  },
+  {
+    "rewardID": 19386,
+    "comment1": "Rank 51-100",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 1106,
+    "addLegendaryMaterial": 2212,
+    "equipmentIDs": 1502
+  },
+  {
+    "rewardID": 19387,
+    "comment1": "Rank 101-150",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 940,
+    "addLegendaryMaterial": 1880,
+    "equipmentIDs": 1503
+  },
+  {
+    "rewardID": 19388,
+    "comment1": "Rank 151-300",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 846,
+    "addLegendaryMaterial": 1692,
+    "equipmentIDs": 1504
+  },
+  {
+    "rewardID": 19389,
+    "comment1": "Rank 301-600",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 761,
+    "addLegendaryMaterial": 1522,
+    "equipmentIDs": 1505
+  },
+  {
+    "rewardID": 19390,
+    "comment1": "Rank 601-1000",
+    "comment2": "Lvl 70-269 June",
+    "addGenXP15000": 50,
+    "addLegendaryToken": 741,
+    "addLegendaryMaterial": 1482,
+    "equipmentIDs": 1506
+  },
+  {
     "rewardID": 14335,
     "comment1": "Reward 1",
     "comment2": "Activity Reward LTPE March 2025 Lvl 1020",
@@ -95621,6 +96917,6042 @@
     "comment1": "Reward 80",
     "comment2": "Activity Reward LTPE March 2026 Lvl 70-269",
     "addStPatrickLTPEToken": 2000,
+    "units": "204+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 18927,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 18928,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 18929,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 18930,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 18931,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 18932,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 18933,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 18934,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 18935,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 18936,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 18937,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 18938,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 18939,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 18940,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 18941,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 18942,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 18943,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 18944,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18945,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 18946,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 18947,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 18948,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 18949,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 18950,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 18951,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 18952,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 18953,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 300
+  },
+  {
+    "rewardID": 18954,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 18955,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 18956,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 18957,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 18958,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 18959,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 18960,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 18961,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 18962,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 18963,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 18964,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 18965,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 18966,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 18967,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 18968,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 18969,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 18970,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 18971,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 1000
+  },
+  {
+    "rewardID": 18972,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 725
+  },
+  {
+    "rewardID": 18973,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 18974,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 18975,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 18976,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 18977,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 18978,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 18979,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 18980,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 450
+  },
+  {
+    "rewardID": 18981,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18982,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18983,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 18984,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18985,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18986,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18987,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18988,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18989,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 18990,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 1250
+  },
+  {
+    "rewardID": 18991,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18992,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18993,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18994,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18995,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18996,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 18997,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 18998,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 2500,
+    "lootBox": "33+2"
+  },
+  {
+    "rewardID": 18999,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 500,
+    "lootBox": "33+3"
+  },
+  {
+    "rewardID": 19000,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 600
+  },
+  {
+    "rewardID": 19001,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19002,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 800
+  },
+  {
+    "rewardID": 19003,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 800
+  },
+  {
+    "rewardID": 19004,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 800,
+    "addDragonScaleSplinters": 4000
+  },
+  {
+    "rewardID": 19005,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 1250,
+    "addDragonScaleSplinters": 4000
+  },
+  {
+    "rewardID": 19006,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 1020",
+    "addSpringLTPEToken": 2000,
+    "lootBox": "34+1"
+  },
+  {
+    "rewardID": 19007,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19008,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19009,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19010,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19011,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19012,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19013,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19014,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 19015,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19016,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19017,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19018,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 19019,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19020,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19021,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19022,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 19023,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19024,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19025,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19026,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 19027,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19028,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19029,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19030,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 19031,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19032,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19033,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 300
+  },
+  {
+    "rewardID": 19034,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 19035,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19036,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19037,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19038,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19039,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19040,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19041,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19042,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19043,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19044,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19045,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19046,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 19047,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19048,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19049,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19050,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 19051,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 1000
+  },
+  {
+    "rewardID": 19052,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 725
+  },
+  {
+    "rewardID": 19053,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19054,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19055,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19056,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19057,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 19058,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19059,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19060,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 450
+  },
+  {
+    "rewardID": 19061,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19062,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19063,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 19064,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19065,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19066,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19067,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19068,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19069,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 19070,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 1250
+  },
+  {
+    "rewardID": 19071,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19072,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19073,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19074,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19075,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19076,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19077,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19078,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 2500,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19079,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 500,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19080,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 600
+  },
+  {
+    "rewardID": 19081,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19082,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 800
+  },
+  {
+    "rewardID": 19083,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 800
+  },
+  {
+    "rewardID": 19084,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 800,
+    "units": "214+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19085,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 1250,
+    "addSceatToken": 300
+  },
+  {
+    "rewardID": 19086,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 720-1019",
+    "addSpringLTPEToken": 2000,
+    "units": "204+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19087,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19088,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19089,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19090,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19091,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19092,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19093,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19094,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 19095,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19096,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19097,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19098,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 19099,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19100,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19101,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19102,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 19103,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19104,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19105,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19106,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 19107,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19108,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19109,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19110,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 19111,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19112,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19113,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 300
+  },
+  {
+    "rewardID": 19114,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 19115,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19116,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19117,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19118,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19119,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19120,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19121,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19122,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19123,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19124,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19125,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19126,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 19127,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19128,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19129,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19130,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 19131,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 1000
+  },
+  {
+    "rewardID": 19132,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 725
+  },
+  {
+    "rewardID": 19133,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19134,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19135,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19136,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19137,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 19138,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19139,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19140,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 450
+  },
+  {
+    "rewardID": 19141,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19142,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19143,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 19144,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19145,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19146,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19147,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19148,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19149,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 19150,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 1250
+  },
+  {
+    "rewardID": 19151,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19152,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19153,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19154,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19155,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19156,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19157,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19158,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 2500,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19159,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 500,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19160,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 600
+  },
+  {
+    "rewardID": 19161,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19162,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 800
+  },
+  {
+    "rewardID": 19163,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 800
+  },
+  {
+    "rewardID": 19164,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 800,
+    "units": "214+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19165,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 1250,
+    "addSceatToken": 300
+  },
+  {
+    "rewardID": 19166,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 270-719",
+    "addSpringLTPEToken": 2000,
+    "units": "204+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19167,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19168,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19169,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19170,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19171,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19172,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19173,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 100
+  },
+  {
+    "rewardID": 19174,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 19175,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19176,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19177,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19178,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 19179,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19180,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19181,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19182,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 19183,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 125
+  },
+  {
+    "rewardID": 19184,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19185,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19186,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 19187,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19188,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19189,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19190,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 19191,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19192,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 150
+  },
+  {
+    "rewardID": 19193,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 300
+  },
+  {
+    "rewardID": 19194,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 19195,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19196,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19197,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19198,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19199,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19200,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19201,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 175
+  },
+  {
+    "rewardID": 19202,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19203,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19204,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19205,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19206,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 19207,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19208,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19209,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 200
+  },
+  {
+    "rewardID": 19210,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 19211,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 1000
+  },
+  {
+    "rewardID": 19212,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 725
+  },
+  {
+    "rewardID": 19213,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19214,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19215,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19216,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19217,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 19218,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19219,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 225
+  },
+  {
+    "rewardID": 19220,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 450
+  },
+  {
+    "rewardID": 19221,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19222,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19223,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 19224,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19225,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19226,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19227,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19228,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19229,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 19230,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 1250
+  },
+  {
+    "rewardID": 19231,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19232,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19233,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19234,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19235,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19236,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19237,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 250
+  },
+  {
+    "rewardID": 19238,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 2500,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19239,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 500,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19240,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 600
+  },
+  {
+    "rewardID": 19241,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19242,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 800
+  },
+  {
+    "rewardID": 19243,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 800
+  },
+  {
+    "rewardID": 19244,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 800,
+    "units": "214+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19245,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 1250,
+    "addSceatToken": 300
+  },
+  {
+    "rewardID": 19246,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE April 2026 Lvl 70-269",
+    "addSpringLTPEToken": 2000,
+    "units": "204+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19391,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19392,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19393,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19394,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19395,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19396,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19397,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19398,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 19399,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19400,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19401,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19402,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 19403,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19404,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19405,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19406,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 19407,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19408,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19409,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19410,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 19411,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19412,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19413,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19414,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 19415,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19416,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19417,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 300
+  },
+  {
+    "rewardID": 19418,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 19419,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19420,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19421,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19422,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19423,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19424,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19425,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19426,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19427,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19428,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19429,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19430,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 19431,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19432,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19433,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19434,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 19435,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 1000
+  },
+  {
+    "rewardID": 19436,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 725
+  },
+  {
+    "rewardID": 19437,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19438,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19439,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19440,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19441,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 19442,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19443,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19444,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 450
+  },
+  {
+    "rewardID": 19445,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19446,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19447,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 19448,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19449,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19450,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19451,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19452,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19453,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 19454,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 1250
+  },
+  {
+    "rewardID": 19455,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19456,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19457,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19458,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19459,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19460,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19461,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19462,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 2500,
+    "lootBox": "33+2"
+  },
+  {
+    "rewardID": 19463,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 500,
+    "lootBox": "33+3"
+  },
+  {
+    "rewardID": 19464,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 600
+  },
+  {
+    "rewardID": 19465,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19466,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 800
+  },
+  {
+    "rewardID": 19467,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 800
+  },
+  {
+    "rewardID": 19468,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 800,
+    "addDragonScaleSplinters": 4000
+  },
+  {
+    "rewardID": 19469,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 1250,
+    "addDragonScaleSplinters": 4000
+  },
+  {
+    "rewardID": 19470,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 1020",
+    "addLotusFlowerLTPEToken": 2000,
+    "lootBox": "34+1"
+  },
+  {
+    "rewardID": 19471,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19472,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19473,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19474,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19475,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19476,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19477,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19478,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 19479,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19480,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19481,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19482,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 19483,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19484,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19485,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19486,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 19487,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19488,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19489,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19490,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 19491,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19492,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19493,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19494,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 19495,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19496,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19497,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 300
+  },
+  {
+    "rewardID": 19498,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 19499,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19500,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19501,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19502,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19503,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19504,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19505,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19506,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19507,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19508,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19509,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19510,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 19511,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19512,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19513,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19514,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 19515,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 1000
+  },
+  {
+    "rewardID": 19516,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 725
+  },
+  {
+    "rewardID": 19517,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19518,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19519,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19520,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19521,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 19522,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19523,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19524,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 450
+  },
+  {
+    "rewardID": 19525,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19526,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19527,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 19528,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19529,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19530,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19531,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19532,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19533,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 19534,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 1250
+  },
+  {
+    "rewardID": 19535,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19536,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19537,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19538,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19539,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19540,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19541,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19542,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 2500,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19543,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 500,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19544,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 600
+  },
+  {
+    "rewardID": 19545,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19546,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 800
+  },
+  {
+    "rewardID": 19547,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 800
+  },
+  {
+    "rewardID": 19548,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 800,
+    "units": "214+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19549,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 1250,
+    "addSceatToken": 300
+  },
+  {
+    "rewardID": 19550,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 720-1019",
+    "addLotusFlowerLTPEToken": 2000,
+    "units": "204+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19551,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19552,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19553,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19554,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19555,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19556,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19557,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19558,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 19559,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19560,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19561,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19562,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 19563,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19564,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19565,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19566,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 19567,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19568,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19569,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19570,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 19571,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19572,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19573,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19574,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 19575,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19576,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19577,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 300
+  },
+  {
+    "rewardID": 19578,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 19579,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19580,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19581,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19582,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19583,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19584,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19585,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19586,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19587,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19588,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19589,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19590,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 19591,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19592,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19593,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19594,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 19595,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 1000
+  },
+  {
+    "rewardID": 19596,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 725
+  },
+  {
+    "rewardID": 19597,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19598,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19599,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19600,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19601,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 19602,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19603,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19604,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 450
+  },
+  {
+    "rewardID": 19605,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19606,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19607,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 19608,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19609,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19610,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19611,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19612,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19613,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 19614,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 1250
+  },
+  {
+    "rewardID": 19615,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19616,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19617,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19618,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19619,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19620,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19621,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19622,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 2500,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19623,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 500,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19624,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 600
+  },
+  {
+    "rewardID": 19625,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19626,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 800
+  },
+  {
+    "rewardID": 19627,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 800
+  },
+  {
+    "rewardID": 19628,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 800,
+    "units": "214+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19629,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 1250,
+    "addSceatToken": 300
+  },
+  {
+    "rewardID": 19630,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 270-719",
+    "addLotusFlowerLTPEToken": 2000,
+    "units": "204+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19631,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19632,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19633,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19634,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19635,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19636,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19637,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 100
+  },
+  {
+    "rewardID": 19638,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 19639,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19640,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19641,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19642,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 19643,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19644,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19645,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19646,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 19647,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 125
+  },
+  {
+    "rewardID": 19648,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19649,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19650,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 19651,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19652,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19653,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19654,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 19655,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19656,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 150
+  },
+  {
+    "rewardID": 19657,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 300
+  },
+  {
+    "rewardID": 19658,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 19659,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19660,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19661,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19662,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19663,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19664,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19665,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 175
+  },
+  {
+    "rewardID": 19666,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19667,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19668,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19669,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19670,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 19671,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19672,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19673,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 200
+  },
+  {
+    "rewardID": 19674,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 19675,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 1000
+  },
+  {
+    "rewardID": 19676,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 725
+  },
+  {
+    "rewardID": 19677,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19678,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19679,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19680,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19681,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 19682,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19683,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 225
+  },
+  {
+    "rewardID": 19684,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 450
+  },
+  {
+    "rewardID": 19685,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19686,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19687,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 19688,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19689,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19690,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19691,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19692,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19693,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 19694,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 1250
+  },
+  {
+    "rewardID": 19695,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19696,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19697,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19698,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19699,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19700,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19701,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 250
+  },
+  {
+    "rewardID": 19702,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 2500,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19703,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 500,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19704,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 600
+  },
+  {
+    "rewardID": 19705,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19706,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 800
+  },
+  {
+    "rewardID": 19707,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 800
+  },
+  {
+    "rewardID": 19708,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 800,
+    "units": "214+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19709,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 1250,
+    "addSceatToken": 300
+  },
+  {
+    "rewardID": 19710,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE May 2026 Lvl 70-269",
+    "addLotusFlowerLTPEToken": 2000,
+    "units": "204+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19711,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19712,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19713,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19714,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19715,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19716,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19717,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19718,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 19719,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19720,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19721,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19722,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 19723,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19724,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19725,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19726,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 19727,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19728,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19729,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19730,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 19731,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19732,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19733,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19734,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 19735,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19736,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19737,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 300
+  },
+  {
+    "rewardID": 19738,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 19739,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19740,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19741,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19742,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19743,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19744,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19745,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19746,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19747,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19748,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19749,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19750,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 19751,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19752,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19753,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19754,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 19755,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 1000
+  },
+  {
+    "rewardID": 19756,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 725
+  },
+  {
+    "rewardID": 19757,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19758,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19759,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19760,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19761,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 19762,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19763,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19764,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 450
+  },
+  {
+    "rewardID": 19765,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19766,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19767,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 19768,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19769,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19770,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19771,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19772,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19773,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 19774,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 1250
+  },
+  {
+    "rewardID": 19775,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19776,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19777,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19778,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19779,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19780,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19781,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19782,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 2500,
+    "lootBox": "33+2"
+  },
+  {
+    "rewardID": 19783,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 500,
+    "lootBox": "33+3"
+  },
+  {
+    "rewardID": 19784,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 600
+  },
+  {
+    "rewardID": 19785,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19786,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 800
+  },
+  {
+    "rewardID": 19787,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 800
+  },
+  {
+    "rewardID": 19788,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 800,
+    "addDragonScaleSplinters": 4000
+  },
+  {
+    "rewardID": 19789,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 1250,
+    "addDragonScaleSplinters": 4000
+  },
+  {
+    "rewardID": 19790,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 1020",
+    "addMayaLTPEToken": 2000,
+    "lootBox": "34+1"
+  },
+  {
+    "rewardID": 19791,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19792,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19793,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19794,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19795,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19796,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19797,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19798,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 19799,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19800,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19801,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19802,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 19803,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19804,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19805,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19806,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 19807,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19808,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19809,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19810,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 19811,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19812,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19813,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19814,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 19815,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19816,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19817,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 300
+  },
+  {
+    "rewardID": 19818,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 19819,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19820,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19821,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19822,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19823,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19824,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19825,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19826,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19827,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19828,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19829,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19830,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 19831,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19832,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19833,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19834,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 19835,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 1000
+  },
+  {
+    "rewardID": 19836,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 725
+  },
+  {
+    "rewardID": 19837,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19838,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19839,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19840,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19841,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 19842,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19843,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19844,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 450
+  },
+  {
+    "rewardID": 19845,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19846,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19847,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 19848,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19849,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19850,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19851,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19852,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19853,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 19854,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 1250
+  },
+  {
+    "rewardID": 19855,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19856,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19857,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19858,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19859,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19860,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19861,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19862,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 2500,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19863,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 500,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19864,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 600
+  },
+  {
+    "rewardID": 19865,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19866,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 800
+  },
+  {
+    "rewardID": 19867,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 800
+  },
+  {
+    "rewardID": 19868,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 800,
+    "units": "214+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19869,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 1250,
+    "addSceatToken": 300
+  },
+  {
+    "rewardID": 19870,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 720-1019",
+    "addMayaLTPEToken": 2000,
+    "units": "204+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19871,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19872,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19873,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19874,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19875,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19876,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19877,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19878,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 19879,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19880,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19881,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19882,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 19883,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19884,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19885,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19886,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 19887,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19888,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19889,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19890,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 19891,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19892,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19893,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19894,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 19895,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19896,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19897,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 300
+  },
+  {
+    "rewardID": 19898,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 19899,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19900,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19901,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19902,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19903,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19904,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19905,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19906,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19907,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19908,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19909,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19910,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 19911,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19912,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19913,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19914,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 19915,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 1000
+  },
+  {
+    "rewardID": 19916,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 725
+  },
+  {
+    "rewardID": 19917,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19918,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19919,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19920,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19921,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 19922,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19923,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19924,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 450
+  },
+  {
+    "rewardID": 19925,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19926,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19927,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 19928,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19929,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19930,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19931,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19932,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19933,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 19934,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 1250
+  },
+  {
+    "rewardID": 19935,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19936,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19937,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19938,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19939,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19940,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19941,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19942,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 2500,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19943,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 500,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19944,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 600
+  },
+  {
+    "rewardID": 19945,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 19946,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 800
+  },
+  {
+    "rewardID": 19947,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 800
+  },
+  {
+    "rewardID": 19948,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 800,
+    "units": "214+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19949,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 1250,
+    "addSceatToken": 300
+  },
+  {
+    "rewardID": 19950,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 270-719",
+    "addMayaLTPEToken": 2000,
+    "units": "204+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 19951,
+    "comment1": "Reward 1",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19952,
+    "comment1": "Reward 2",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19953,
+    "comment1": "Reward 3",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19954,
+    "comment1": "Reward 4",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19955,
+    "comment1": "Reward 5",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19956,
+    "comment1": "Reward 6",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19957,
+    "comment1": "Reward 7",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 100
+  },
+  {
+    "rewardID": 19958,
+    "comment1": "Reward 8",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 100,
+    "addLegendaryMaterial": 100
+  },
+  {
+    "rewardID": 19959,
+    "comment1": "Reward 9",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19960,
+    "comment1": "Reward 10",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19961,
+    "comment1": "Reward 11",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19962,
+    "comment1": "Reward 12",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 125,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 19963,
+    "comment1": "Reward 13",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19964,
+    "comment1": "Reward 14",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19965,
+    "comment1": "Reward 15",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19966,
+    "comment1": "Reward 16",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 125,
+    "addLegendaryMaterial": 150
+  },
+  {
+    "rewardID": 19967,
+    "comment1": "Reward 17",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 125
+  },
+  {
+    "rewardID": 19968,
+    "comment1": "Reward 18",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 19969,
+    "comment1": "Reward 19",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19970,
+    "comment1": "Reward 20",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 150,
+    "addLegendaryToken": 75
+  },
+  {
+    "rewardID": 19971,
+    "comment1": "Reward 21",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19972,
+    "comment1": "Reward 22",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19973,
+    "comment1": "Reward 23",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19974,
+    "comment1": "Reward 24",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 150,
+    "addLegendaryMaterial": 200
+  },
+  {
+    "rewardID": 19975,
+    "comment1": "Reward 25",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19976,
+    "comment1": "Reward 26",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 150
+  },
+  {
+    "rewardID": 19977,
+    "comment1": "Reward 27",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 300
+  },
+  {
+    "rewardID": 19978,
+    "comment1": "Reward 28",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 175,
+    "addLegendaryToken": 100
+  },
+  {
+    "rewardID": 19979,
+    "comment1": "Reward 29",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19980,
+    "comment1": "Reward 30",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19981,
+    "comment1": "Reward 31",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19982,
+    "comment1": "Reward 32",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 175,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 19983,
+    "comment1": "Reward 33",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19984,
+    "comment1": "Reward 34",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19985,
+    "comment1": "Reward 35",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 175
+  },
+  {
+    "rewardID": 19986,
+    "comment1": "Reward 36",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 350,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 19987,
+    "comment1": "Reward 37",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19988,
+    "comment1": "Reward 38",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19989,
+    "comment1": "Reward 39",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19990,
+    "comment1": "Reward 40",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 200,
+    "addLegendaryMaterial": 300
+  },
+  {
+    "rewardID": 19991,
+    "comment1": "Reward 41",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19992,
+    "comment1": "Reward 42",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19993,
+    "comment1": "Reward 43",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 200
+  },
+  {
+    "rewardID": 19994,
+    "comment1": "Reward 44",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 200,
+    "addLegendaryToken": 150
+  },
+  {
+    "rewardID": 19995,
+    "comment1": "Reward 45",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 1000
+  },
+  {
+    "rewardID": 19996,
+    "comment1": "Reward 46",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 725
+  },
+  {
+    "rewardID": 19997,
+    "comment1": "Reward 47",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19998,
+    "comment1": "Reward 48",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 19999,
+    "comment1": "Reward 49",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 20000,
+    "comment1": "Reward 50",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 20325,
+    "comment1": "Reward 51",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 225,
+    "addFatKingToken": 20
+  },
+  {
+    "rewardID": 20326,
+    "comment1": "Reward 52",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 20327,
+    "comment1": "Reward 53",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 225
+  },
+  {
+    "rewardID": 20328,
+    "comment1": "Reward 54",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 450
+  },
+  {
+    "rewardID": 20329,
+    "comment1": "Reward 55",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20330,
+    "comment1": "Reward 56",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20331,
+    "comment1": "Reward 57",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250,
+    "addKnightToken": 7
+  },
+  {
+    "rewardID": 20332,
+    "comment1": "Reward 58",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20333,
+    "comment1": "Reward 59",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20334,
+    "comment1": "Reward 60",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20335,
+    "comment1": "Reward 61",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20336,
+    "comment1": "Reward 62",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20337,
+    "comment1": "Reward 63",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 500,
+    "addPrincessToken": 3
+  },
+  {
+    "rewardID": 20338,
+    "comment1": "Reward 64",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 1250
+  },
+  {
+    "rewardID": 20339,
+    "comment1": "Reward 65",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20340,
+    "comment1": "Reward 66",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20341,
+    "comment1": "Reward 67",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20342,
+    "comment1": "Reward 68",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20343,
+    "comment1": "Reward 69",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20344,
+    "comment1": "Reward 70",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 20345,
+    "comment1": "Reward 71",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 250
+  },
+  {
+    "rewardID": 20346,
+    "comment1": "Reward 72",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 2500,
+    "addLegendaryMaterial": 250
+  },
+  {
+    "rewardID": 20347,
+    "comment1": "Reward 73",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 500,
+    "addLegendaryToken": 125
+  },
+  {
+    "rewardID": 20348,
+    "comment1": "Reward 74",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 600
+  },
+  {
+    "rewardID": 20349,
+    "comment1": "Reward 75",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 750,
+    "addLegendaryBoosterConsumable": 5
+  },
+  {
+    "rewardID": 20350,
+    "comment1": "Reward 76",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 800
+  },
+  {
+    "rewardID": 20351,
+    "comment1": "Reward 77",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 800
+  },
+  {
+    "rewardID": 20352,
+    "comment1": "Reward 78",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 800,
+    "units": "214+7500",
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20353,
+    "comment1": "Reward 79",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 1250,
+    "addSceatToken": 300
+  },
+  {
+    "rewardID": 20354,
+    "comment1": "Reward 80",
+    "comment2": "Activity Reward LTPE June 2026 Lvl 70-269",
+    "addMayaLTPEToken": 2000,
     "units": "204+7500",
     "hiddenMead": 180000,
     "ignoreResourceStorageCapacity": 1

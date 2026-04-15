@@ -3620,14 +3620,6 @@
     "sortOrder": "1.6.1"
   },
   {
-    "effectID": 387,
-    "crossplayID": 387,
-    "name": "defenseUnitAmountWallCapped",
-    "effectTypeID": 12,
-    "capID": 87,
-    "sortOrder": "4.1.1"
-  },
-  {
     "effectID": 388,
     "crossplayID": 388,
     "name": "woodProductionBoostMainCapped",
@@ -4316,8 +4308,8 @@
     "effectID": 483,
     "crossplayID": 483,
     "name": "newPVPattackUnitAmountReinforcementBonus",
-    "effectTypeID": 179,
-    "capID": 2008,
+    "effectTypeID": 51,
+    "capID": 99,
     "isPvPFight": 1
   },
   {
@@ -4325,7 +4317,7 @@
     "crossplayID": 484,
     "name": "newPVPAdditionalWaves",
     "effectTypeID": 156,
-    "capID": 2011,
+    "capID": 99,
     "isPvPFight": 1
   },
   {
@@ -4343,6 +4335,14 @@
     "effectTypeID": 148,
     "capID": 99,
     "isPvPFight": 1
+  },
+  {
+    "effectID": 387,
+    "crossplayID": 387,
+    "name": "defenseUnitAmountWallCapped",
+    "effectTypeID": 12,
+    "capID": 87,
+    "sortOrder": "4.1.1"
   },
   {
     "effectID": 2101,

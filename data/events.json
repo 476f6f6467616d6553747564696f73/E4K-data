@@ -1113,5 +1113,13 @@
     "eventDuration": "Long",
     "minLevel": 10,
     "maxLevel": 1020
+  },
+  {
+    "eventID": 136,
+    "comment1": "ConversionPrivatePrimeTimeEvent",
+    "kIDs": 0,
+    "eventType": "ConversionPrivatePrimeTimeEvent",
+    "minLevel": 6,
+    "maxLevel": 99
   }
 ]

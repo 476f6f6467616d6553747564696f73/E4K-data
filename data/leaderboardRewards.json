@@ -6551,5 +6551,1445 @@
     "maxRank": 1000,
     "rewardIDs": 18926,
     "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 683,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 1,
+    "rewardIDs": 19247,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 684,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 2,
+    "rewardIDs": 19248,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 685,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 3,
+    "rewardIDs": 19249,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 686,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 4-7",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 7,
+    "rewardIDs": 19250,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 687,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 8-15",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 15,
+    "rewardIDs": 19251,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 688,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 16-30",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 30,
+    "rewardIDs": 19252,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 689,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 31-75",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 75,
+    "rewardIDs": 19253,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 690,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 76-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 150,
+    "rewardIDs": 19254,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 691,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 151-225",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 225,
+    "rewardIDs": 19255,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 692,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 226-450",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 450,
+    "rewardIDs": 19256,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 693,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 451-900",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 900,
+    "rewardIDs": 19257,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 694,
+    "comment1": "LTPE April Lvl 1020",
+    "comment2": "Rank 901-1500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 1500,
+    "rewardIDs": 19258,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 695,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 1,
+    "rewardIDs": 19259,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 696,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 2,
+    "rewardIDs": 19260,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 697,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 3,
+    "rewardIDs": 19261,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 698,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 5,
+    "rewardIDs": 19262,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 699,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 10,
+    "rewardIDs": 19263,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 700,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 20,
+    "rewardIDs": 19264,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 701,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 21-40",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 40,
+    "rewardIDs": 19265,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 702,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 41-70",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 70,
+    "rewardIDs": 19266,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 703,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 71-120",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 120,
+    "rewardIDs": 19267,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 704,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 121-200",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 200,
+    "rewardIDs": 19268,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 705,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 201-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 300,
+    "rewardIDs": 19269,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 706,
+    "comment1": "LTPE April Lvl 720-1019",
+    "comment2": "Rank 301-500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 500,
+    "rewardIDs": 19270,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 707,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 1,
+    "rewardIDs": 19271,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 708,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 2,
+    "rewardIDs": 19272,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 709,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 3,
+    "rewardIDs": 19273,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 710,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 5,
+    "rewardIDs": 19274,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 711,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 10,
+    "rewardIDs": 19275,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 712,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 20,
+    "rewardIDs": 19276,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 713,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 50,
+    "rewardIDs": 19277,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 714,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 100,
+    "rewardIDs": 19278,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 715,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 150,
+    "rewardIDs": 19279,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 716,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 300,
+    "rewardIDs": 19280,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 717,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 600,
+    "rewardIDs": 19281,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 718,
+    "comment1": "LTPE April Lvl 270-719",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 1000,
+    "rewardIDs": 19282,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 719,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 1,
+    "rewardIDs": 19283,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 720,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 2,
+    "rewardIDs": 19284,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 721,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 3,
+    "rewardIDs": 19285,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 722,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 5,
+    "rewardIDs": 19286,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 723,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 10,
+    "rewardIDs": 19287,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 724,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 20,
+    "rewardIDs": 19288,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 725,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 50,
+    "rewardIDs": 19289,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 726,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 100,
+    "rewardIDs": 19290,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 727,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 150,
+    "rewardIDs": 19291,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 728,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 300,
+    "rewardIDs": 19292,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 729,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 600,
+    "rewardIDs": 19293,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 730,
+    "comment1": "LTPE April Lvl 70-269",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 14,
+    "maxRank": 1000,
+    "rewardIDs": 19294,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 731,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 1,
+    "rewardIDs": 19295,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 732,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 2,
+    "rewardIDs": 19296,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 733,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 3,
+    "rewardIDs": 19297,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 734,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 4-7",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 7,
+    "rewardIDs": 19298,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 735,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 8-15",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 15,
+    "rewardIDs": 19299,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 736,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 16-30",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 30,
+    "rewardIDs": 19300,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 737,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 31-75",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 75,
+    "rewardIDs": 19301,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 738,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 76-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 150,
+    "rewardIDs": 19302,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 739,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 151-225",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 225,
+    "rewardIDs": 19303,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 740,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 226-450",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 450,
+    "rewardIDs": 19304,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 741,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 451-900",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 900,
+    "rewardIDs": 19305,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 742,
+    "comment1": "LTPE May Lvl 1020",
+    "comment2": "Rank 901-1500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 1500,
+    "rewardIDs": 19306,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 743,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 1,
+    "rewardIDs": 19307,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 744,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 2,
+    "rewardIDs": 19308,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 745,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 3,
+    "rewardIDs": 19309,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 746,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 5,
+    "rewardIDs": 19310,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 747,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 10,
+    "rewardIDs": 19311,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 748,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 20,
+    "rewardIDs": 19312,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 749,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 21-40",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 40,
+    "rewardIDs": 19313,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 750,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 41-70",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 70,
+    "rewardIDs": 19314,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 751,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 71-120",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 120,
+    "rewardIDs": 19315,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 752,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 121-200",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 200,
+    "rewardIDs": 19316,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 753,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 201-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 300,
+    "rewardIDs": 19317,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 754,
+    "comment1": "LTPE May Lvl 720-1019",
+    "comment2": "Rank 301-500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 500,
+    "rewardIDs": 19318,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 755,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 1,
+    "rewardIDs": 19319,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 756,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 2,
+    "rewardIDs": 19320,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 757,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 3,
+    "rewardIDs": 19321,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 758,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 5,
+    "rewardIDs": 19322,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 759,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 10,
+    "rewardIDs": 19323,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 760,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 20,
+    "rewardIDs": 19324,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 761,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 50,
+    "rewardIDs": 19325,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 762,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 100,
+    "rewardIDs": 19326,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 763,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 150,
+    "rewardIDs": 19327,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 764,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 300,
+    "rewardIDs": 19328,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 765,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 600,
+    "rewardIDs": 19329,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 766,
+    "comment1": "LTPE May Lvl 270-719",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 1000,
+    "rewardIDs": 19330,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 767,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 1,
+    "rewardIDs": 19331,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 768,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 2,
+    "rewardIDs": 19332,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 769,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 3,
+    "rewardIDs": 19333,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 770,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 5,
+    "rewardIDs": 19334,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 771,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 10,
+    "rewardIDs": 19335,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 772,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 20,
+    "rewardIDs": 19336,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 773,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 50,
+    "rewardIDs": 19337,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 774,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 100,
+    "rewardIDs": 19338,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 775,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 150,
+    "rewardIDs": 19339,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 776,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 300,
+    "rewardIDs": 19340,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 777,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 600,
+    "rewardIDs": 19341,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 778,
+    "comment1": "LTPE May Lvl 70-269",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 15,
+    "maxRank": 1000,
+    "rewardIDs": 19342,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 779,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 1,
+    "rewardIDs": 19343,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 780,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 2,
+    "rewardIDs": 19344,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 781,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 3,
+    "rewardIDs": 19345,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 782,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 4-7",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 7,
+    "rewardIDs": 19346,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 783,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 8-15",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 15,
+    "rewardIDs": 19347,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 784,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 16-30",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 30,
+    "rewardIDs": 19348,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 785,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 31-75",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 75,
+    "rewardIDs": 19349,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 786,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 76-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 150,
+    "rewardIDs": 19350,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 787,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 151-225",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 225,
+    "rewardIDs": 19351,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 788,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 226-450",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 450,
+    "rewardIDs": 19352,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 789,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 451-900",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 900,
+    "rewardIDs": 19353,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 790,
+    "comment1": "LTPE June Lvl 1020",
+    "comment2": "Rank 901-1500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 1500,
+    "rewardIDs": 19354,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 791,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 1,
+    "rewardIDs": 19355,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 792,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 2,
+    "rewardIDs": 19356,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 793,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 3,
+    "rewardIDs": 19357,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 794,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 5,
+    "rewardIDs": 19358,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 795,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 10,
+    "rewardIDs": 19359,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 796,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 20,
+    "rewardIDs": 19360,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 797,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 21-40",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 40,
+    "rewardIDs": 19361,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 798,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 41-70",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 70,
+    "rewardIDs": 19362,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 799,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 71-120",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 120,
+    "rewardIDs": 19363,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 800,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 121-200",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 200,
+    "rewardIDs": 19364,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 801,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 201-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 300,
+    "rewardIDs": 19365,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 802,
+    "comment1": "LTPE June Lvl 720-1019",
+    "comment2": "Rank 301-500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 500,
+    "rewardIDs": 19366,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 803,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 1,
+    "rewardIDs": 19367,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 804,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 2,
+    "rewardIDs": 19368,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 805,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 3,
+    "rewardIDs": 19369,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 806,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 5,
+    "rewardIDs": 19370,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 807,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 10,
+    "rewardIDs": 19371,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 808,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 20,
+    "rewardIDs": 19372,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 809,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 50,
+    "rewardIDs": 19373,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 810,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 100,
+    "rewardIDs": 19374,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 811,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 150,
+    "rewardIDs": 19375,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 812,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 300,
+    "rewardIDs": 19376,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 813,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 600,
+    "rewardIDs": 19377,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 814,
+    "comment1": "LTPE June Lvl 270-719",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 1000,
+    "rewardIDs": 19378,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 815,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 1,
+    "rewardIDs": 19379,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 816,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 2,
+    "rewardIDs": 19380,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 817,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 3,
+    "rewardIDs": 19381,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 818,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 5,
+    "rewardIDs": 19382,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 819,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 10,
+    "rewardIDs": 19383,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 820,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 20,
+    "rewardIDs": 19384,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 821,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 50,
+    "rewardIDs": 19385,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 822,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 100,
+    "rewardIDs": 19386,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 823,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 150,
+    "rewardIDs": 19387,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 824,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 300,
+    "rewardIDs": 19388,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 825,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 600,
+    "rewardIDs": 19389,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 826,
+    "comment1": "LTPE June Lvl 70-269",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 16,
+    "maxRank": 1000,
+    "rewardIDs": 19390,
+    "leagueID": 1
   }
 ]

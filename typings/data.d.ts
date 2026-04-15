@@ -1347,6 +1347,7 @@ export interface Equipment {
     "picID"?: number;
     "rarenessID"?: number;
     "reuseAssetOfEquipmentID"?: number;
+    "sellC1"?: number;
     "sellPriceOverride"?: number;
     "setID"?: number;
     "skinID"?: number;
@@ -1784,6 +1785,7 @@ export interface Gem {
     "gemID": number;
     "gemLevelID": number;
     "reuseAssetOfGemID"?: number;
+    "sellC1"?: number;
     "sellPriceOverride"?: number;
     "setID"?: number;
     "starLevel"?: number;

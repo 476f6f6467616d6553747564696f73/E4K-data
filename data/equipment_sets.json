@@ -4555,21 +4555,21 @@
     "comment1": "9 piece PvP 2026 Sales Bronze",
     "setID": 1094,
     "neededItems": 6,
-    "effects": "189&amp;330"
+    "effects": "189&amp;214+330"
   },
   {
     "ID": 617,
     "comment1": "9 piece PvP 2026 Sales Bronze",
     "setID": 1094,
     "neededItems": 7,
-    "effects": "189&amp;330"
+    "effects": "189&amp;214+330"
   },
   {
     "ID": 618,
     "comment1": "9 piece PvP 2026 Sales Bronze",
     "setID": 1094,
     "neededItems": 8,
-    "effects": "189&amp;340"
+    "effects": "189&amp;214+340"
   },
   {
     "ID": 619,
@@ -4611,21 +4611,21 @@
     "comment1": "9 piece PvP 2026 Sales Silver",
     "setID": 1095,
     "neededItems": 6,
-    "effects": "189&amp;415"
+    "effects": "189&amp;214+415"
   },
   {
     "ID": 625,
     "comment1": "9 piece PvP 2026 Sales Silver",
     "setID": 1095,
     "neededItems": 7,
-    "effects": "189&amp;415"
+    "effects": "189&amp;214+415"
   },
   {
     "ID": 626,
     "comment1": "9 piece PvP 2026 Sales Silver",
     "setID": 1095,
     "neededItems": 8,
-    "effects": "189&amp;420"
+    "effects": "189&amp;214+420"
   },
   {
     "ID": 627,
@@ -4667,21 +4667,21 @@
     "comment1": "9 piece PvP 2026 Sales Gold",
     "setID": 1096,
     "neededItems": 6,
-    "effects": "189&amp;500"
+    "effects": "189&amp;214+500"
   },
   {
     "ID": 633,
     "comment1": "9 piece PvP 2026 Sales Gold",
     "setID": 1096,
     "neededItems": 7,
-    "effects": "189&amp;500"
+    "effects": "189&amp;214+500"
   },
   {
     "ID": 634,
     "comment1": "9 piece PvP 2026 Sales Gold",
     "setID": 1096,
     "neededItems": 8,
-    "effects": "189&amp;500"
+    "effects": "189&amp;214+500"
   },
   {
     "ID": 635,
