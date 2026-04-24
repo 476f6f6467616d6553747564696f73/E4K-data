@@ -40,5 +40,35 @@
     "crossplayID": 7,
     "donationItemSetID": 7,
     "rewardSetID": 7
+  },
+  {
+    "donationSettingID": 8,
+    "crossplayID": 8,
+    "donationItemSetID": 8,
+    "rewardSetID": 8
+  },
+  {
+    "donationSettingID": 9,
+    "crossplayID": 9,
+    "donationItemSetID": 9,
+    "rewardSetID": 9
+  },
+  {
+    "donationSettingID": 10,
+    "crossplayID": 10,
+    "donationItemSetID": 10,
+    "rewardSetID": 10
+  },
+  {
+    "donationSettingID": 11,
+    "crossplayID": 11,
+    "donationItemSetID": 11,
+    "rewardSetID": 11
+  },
+  {
+    "donationSettingID": 12,
+    "crossplayID": 12,
+    "donationItemSetID": 12,
+    "rewardSetID": 12
   }
 ]

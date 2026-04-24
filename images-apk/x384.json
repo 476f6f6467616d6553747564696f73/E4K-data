@@ -29862,6 +29862,21 @@
     ],
     "fx": []
   },
+  "Castle_Landscape_AllianceRaidPortal_LegendaryDragon": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/DetailView_Background/Castle_Landscape_AllianceRaidPortal_LegendaryDragon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 502,
+        "h": 878,
+        "rx": 949,
+        "ry": 561
+      }
+    ],
+    "fx": []
+  },
   "Castle_Landscape_AllianceRaidPortal_Necromancer": {
     "pid": 2,
     "url": "x384/CastleDetailView/DetailView_Background/Castle_Landscape_AllianceRaidPortal_Necromancer.png",
@@ -40561,6 +40576,111 @@
     ],
     "fx": []
   },
+  "AllianceRaidPortal_LegendaryDragon_Keep_2": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_LegendaryDragon_Keep_134_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 150,
+        "rx": 1097,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Keep_1": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_LegendaryDragon_Keep_134_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 150,
+        "rx": 1097,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Keep_4": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_LegendaryDragon_Keep_135_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 130,
+        "rx": 1096,
+        "ry": 996
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Keep_3": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_LegendaryDragon_Keep_135_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 130,
+        "rx": 1096,
+        "ry": 996
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Keep_7": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_LegendaryDragon_Keep_136_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 114,
+        "rx": 1096,
+        "ry": 1012
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Keep_6": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_LegendaryDragon_Keep_136_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 114,
+        "rx": 1096,
+        "ry": 1012
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Keep_5": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_LegendaryDragon_Keep_136_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 114,
+        "rx": 1096,
+        "ry": 1012
+      }
+    ],
+    "fx": []
+  },
   "AllianceRaidPortal_Necromancer_Keep_2": {
     "pid": 2,
     "url": "x384/CastleDetailView/RaidBosses/RaidBoss_DetailView_Castle_Shared/AllianceRaidPortal_Necromancer_Keep_128_Shared.png",
@@ -40653,7 +40773,7 @@
   },
   "AllianceRaidPortal_FungalSwarm_Gate_Damaged": {
     "pid": 2,
-    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Gate_Damaged.png",
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Gate_Damaged.png",
     "frames": [
       {
         "x": 0,
@@ -40668,7 +40788,7 @@
   },
   "AllianceRaidPortal_FungalSwarm_Gate": {
     "pid": 2,
-    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Gate.png",
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Gate.png",
     "frames": [
       {
         "x": 0,
@@ -40683,7 +40803,7 @@
   },
   "AllianceRaidPortal_FungalSwarm_Wall_Left_Damaged": {
     "pid": 2,
-    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Left_Damaged.png",
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Left_Damaged.png",
     "frames": [
       {
         "x": 0,
@@ -40698,7 +40818,7 @@
   },
   "AllianceRaidPortal_FungalSwarm_Wall_Left": {
     "pid": 2,
-    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Left.png",
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Left.png",
     "frames": [
       {
         "x": 0,
@@ -40713,7 +40833,7 @@
   },
   "AllianceRaidPortal_FungalSwarm_Wall_Right_Damaged": {
     "pid": 2,
-    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Right_Damaged.png",
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Right_Damaged.png",
     "frames": [
       {
         "x": 0,
@@ -40728,7 +40848,7 @@
   },
   "AllianceRaidPortal_FungalSwarm_Wall_Right": {
     "pid": 2,
-    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_FungalSwarm_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Right.png",
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_FungalSwarm_Wall_Right.png",
     "frames": [
       {
         "x": 0,
@@ -40737,6 +40857,96 @@
         "h": 76,
         "rx": 1215,
         "ry": 1070
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Gate_Damaged": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_LegendaryDragon_Gate_Damaged.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 72,
+        "rx": 1145,
+        "ry": 1070
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Gate": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_LegendaryDragon_Gate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 84,
+        "rx": 1145,
+        "ry": 1058
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Wall_Left_Damaged": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_LegendaryDragon_Wall_Left_Damaged.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 68,
+        "rx": 1087,
+        "ry": 1075
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Wall_Left": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_LegendaryDragon_Wall_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 87,
+        "rx": 1087,
+        "ry": 1056
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Wall_Right_Damaged": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_LegendaryDragon_Wall_Right_Damaged.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 70,
+        "rx": 1229,
+        "ry": 1074
+      }
+    ],
+    "fx": []
+  },
+  "AllianceRaidPortal_LegendaryDragon_Wall_Right": {
+    "pid": 2,
+    "url": "x384/CastleDetailView/RaidBosses/RaidBoss_LegendaryDragon_DetailView_Castle/AllianceRaidPortal_LegendaryDragon_Wall_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 89,
+        "rx": 1229,
+        "ry": 1055
       }
     ],
     "fx": []
@@ -60658,6 +60868,171 @@
         "y": 0,
         "w": 1073,
         "h": 1090,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Overview_LegendaryDragon": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon/Background_Overview_LegendaryDragon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1218,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "LegendaryDragon_Boss_Units": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon/LegendaryDragon_Boss_Units.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1218,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "LegendaryDragon_Gate_Regenerate": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon_Shared/LegendaryDragon_Gate_Regenerated_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 823,
+        "h": 1101,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "LegendaryDragon_Gate": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon_Shared/LegendaryDragon_Gate_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 816,
+        "h": 1101,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "LegendaryDragon_Keep_1": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon_Shared/LegendaryDragon_Keep_1_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1150,
+        "h": 1041,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "LegendaryDragon_Keep_2": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon_Shared/LegendaryDragon_Keep_2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1150,
+        "h": 1052,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "LegendaryDragon_Keep_3": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon_Shared/LegendaryDragon_Keep_3_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1150,
+        "h": 1059,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "LegendaryDragon_LeftWall_Regenerate": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon_Shared/LegendaryDragon_Left_Wall_Regenerated_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 439,
+        "h": 1087,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "LegendaryDragon_LeftWall": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon_Shared/LegendaryDragon_Left_Wall_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 439,
+        "h": 1087,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "LegendaryDragon_RightWall_Regenerate": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon_Shared/LegendaryDragon_Right_Wall_Regenerated_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1065,
+        "h": 1087,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "LegendaryDragon_RightWall": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon_Shared/LegendaryDragon_Right_Wall_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1065,
+        "h": 1087,
         "rx": 999,
         "ry": 999
       }
@@ -137624,6 +137999,36 @@
     ],
     "fx": []
   },
+  "teaser_are_boss_LegendaryDragon_defeated": {
+    "pid": 2,
+    "url": "x384/Misc/AllianceRaidTeasers/teaser_are_boss_LegendaryDragon_defeated.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 207,
+        "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_boss_LegendaryDragon_fully_defeated": {
+    "pid": 2,
+    "url": "x384/Misc/AllianceRaidTeasers/teaser_are_boss_LegendaryDragon_fully_defeated.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 207,
+        "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
   "teaser_are_boss_Necromancer_defeated": {
     "pid": 2,
     "url": "x384/Misc/AllianceRaidTeasers/teaser_are_boss_Necromancer_defeated.png",
@@ -137664,6 +138069,21 @@
         "w": 769,
         "h": 1208,
         "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_final_boss_level_defeated_LegendaryDragon": {
+    "pid": 2,
+    "url": "x384/Misc/AllianceRaidTeasers/teaser_are_final_boss_level_defeated_LegendaryDragon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 1208,
+        "rx": 994,
         "ry": 999
       }
     ],
@@ -157536,6 +157956,96 @@
         "h": 92,
         "rx": 961,
         "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_ARELegendaryDragonAdult": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventunit_Unit_ARELegendaryDragonAdult.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 101,
+        "rx": 959,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_ARELegendaryDragonEgg": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventunit_Unit_ARELegendaryDragonEgg.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 99,
+        "rx": 957,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_ARELegendaryDragonHatchling": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventunit_Unit_ARELegendaryDragonHatchling.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 100,
+        "rx": 959,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_ARELegendaryDragonMeleeDefender": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventunit_Unit_ARELegendaryDragonMeleeDefender.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 101,
+        "rx": 957,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_ARELegendaryDragonRangedDefender": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventunit_Unit_ARELegendaryDragonRangedDefender.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 97,
+        "rx": 963,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_ARELegendaryDragonYoungling": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventunit_Unit_ARELegendaryDragonYoungling.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 101,
+        "rx": 963,
+        "ry": 949
       }
     ],
     "fx": []

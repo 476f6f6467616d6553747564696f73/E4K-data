@@ -7974,6 +7974,606 @@
     "toDecoGlobalStorage": 1
   },
   {
+    "rewardID": 9817,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Builder Level 1",
+    "constructionItemIDs": 1138
+  },
+  {
+    "rewardID": 9818,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Builder Level 2",
+    "constructionItemIDs": 1139
+  },
+  {
+    "rewardID": 9819,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Builder Level 3",
+    "constructionItemIDs": 1140
+  },
+  {
+    "rewardID": 9820,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Builder Level 4",
+    "constructionItemIDs": 1141
+  },
+  {
+    "rewardID": 9821,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Builder Level 5",
+    "constructionItemIDs": 1142
+  },
+  {
+    "rewardID": 9822,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Builder Level 6",
+    "constructionItemIDs": 1143
+  },
+  {
+    "rewardID": 9823,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Builder Level 7",
+    "constructionItemIDs": 1144
+  },
+  {
+    "rewardID": 9824,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Builder Level 8",
+    "constructionItemIDs": 1145
+  },
+  {
+    "rewardID": 9825,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Builder Level 9",
+    "constructionItemIDs": 1146
+  },
+  {
+    "rewardID": 9826,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Builder Level 10",
+    "constructionItemIDs": 1147
+  },
+  {
+    "rewardID": 9827,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Architect Level 1",
+    "constructionItemIDs": 1148
+  },
+  {
+    "rewardID": 9828,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Architect Level 2",
+    "constructionItemIDs": 1149
+  },
+  {
+    "rewardID": 9829,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Architect Level 3",
+    "constructionItemIDs": 1150
+  },
+  {
+    "rewardID": 9830,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Architect Level 4",
+    "constructionItemIDs": 1151
+  },
+  {
+    "rewardID": 9831,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Architect Level 5",
+    "constructionItemIDs": 1152
+  },
+  {
+    "rewardID": 9832,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Architect Level 6",
+    "constructionItemIDs": 1153
+  },
+  {
+    "rewardID": 9833,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Architect Level 7",
+    "constructionItemIDs": 1154
+  },
+  {
+    "rewardID": 9834,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Architect Level 8",
+    "constructionItemIDs": 1155
+  },
+  {
+    "rewardID": 9835,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Architect Level 9",
+    "constructionItemIDs": 1156
+  },
+  {
+    "rewardID": 9836,
+    "comment1": "Donation Event Apr 26 &gt; Military District",
+    "comment2": "Architect Level 10",
+    "constructionItemIDs": 1157
+  },
+  {
+    "rewardID": 9837,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Builder Level 1",
+    "constructionItemIDs": 1158
+  },
+  {
+    "rewardID": 9838,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Builder Level 2",
+    "constructionItemIDs": 1159
+  },
+  {
+    "rewardID": 9839,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Builder Level 3",
+    "constructionItemIDs": 1160
+  },
+  {
+    "rewardID": 9840,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Builder Level 4",
+    "constructionItemIDs": 1161
+  },
+  {
+    "rewardID": 9841,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Builder Level 5",
+    "constructionItemIDs": 1162
+  },
+  {
+    "rewardID": 9842,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Builder Level 6",
+    "constructionItemIDs": 1163
+  },
+  {
+    "rewardID": 9843,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Builder Level 7",
+    "constructionItemIDs": 1164
+  },
+  {
+    "rewardID": 9844,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Builder Level 8",
+    "constructionItemIDs": 1165
+  },
+  {
+    "rewardID": 9845,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Builder Level 9",
+    "constructionItemIDs": 1166
+  },
+  {
+    "rewardID": 9846,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Builder Level 10",
+    "constructionItemIDs": 1167
+  },
+  {
+    "rewardID": 9847,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Architect Level 1",
+    "constructionItemIDs": 1168
+  },
+  {
+    "rewardID": 9848,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Architect Level 2",
+    "constructionItemIDs": 1169
+  },
+  {
+    "rewardID": 9849,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Architect Level 3",
+    "constructionItemIDs": 1170
+  },
+  {
+    "rewardID": 9850,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Architect Level 4",
+    "constructionItemIDs": 1171
+  },
+  {
+    "rewardID": 9851,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Architect Level 5",
+    "constructionItemIDs": 1172
+  },
+  {
+    "rewardID": 9852,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Architect Level 6",
+    "constructionItemIDs": 1173
+  },
+  {
+    "rewardID": 9853,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Architect Level 7",
+    "constructionItemIDs": 1174
+  },
+  {
+    "rewardID": 9854,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Architect Level 8",
+    "constructionItemIDs": 1175
+  },
+  {
+    "rewardID": 9855,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Architect Level 9",
+    "constructionItemIDs": 1176
+  },
+  {
+    "rewardID": 9856,
+    "comment1": "Donation Event Apr 26 &gt; Trade District",
+    "comment2": "Architect Level 10",
+    "constructionItemIDs": 1177
+  },
+  {
+    "rewardID": 9857,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Builder Level 1",
+    "constructionItemIDs": 1178
+  },
+  {
+    "rewardID": 9858,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Builder Level 2",
+    "constructionItemIDs": 1179
+  },
+  {
+    "rewardID": 9859,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Builder Level 3",
+    "constructionItemIDs": 1180
+  },
+  {
+    "rewardID": 9860,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Builder Level 4",
+    "constructionItemIDs": 1181
+  },
+  {
+    "rewardID": 9861,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Builder Level 5",
+    "constructionItemIDs": 1182
+  },
+  {
+    "rewardID": 9862,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Builder Level 6",
+    "constructionItemIDs": 1183
+  },
+  {
+    "rewardID": 9863,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Builder Level 7",
+    "constructionItemIDs": 1184
+  },
+  {
+    "rewardID": 9864,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Builder Level 8",
+    "constructionItemIDs": 1185
+  },
+  {
+    "rewardID": 9865,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Builder Level 9",
+    "constructionItemIDs": 1186
+  },
+  {
+    "rewardID": 9866,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Builder Level 10",
+    "constructionItemIDs": 1187
+  },
+  {
+    "rewardID": 9867,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Architect Level 1",
+    "constructionItemIDs": 1188
+  },
+  {
+    "rewardID": 9868,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Architect Level 2",
+    "constructionItemIDs": 1189
+  },
+  {
+    "rewardID": 9869,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Architect Level 3",
+    "constructionItemIDs": 1190
+  },
+  {
+    "rewardID": 9870,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Architect Level 4",
+    "constructionItemIDs": 1191
+  },
+  {
+    "rewardID": 9871,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Architect Level 5",
+    "constructionItemIDs": 1192
+  },
+  {
+    "rewardID": 9872,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Architect Level 6",
+    "constructionItemIDs": 1193
+  },
+  {
+    "rewardID": 9873,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Architect Level 7",
+    "constructionItemIDs": 1194
+  },
+  {
+    "rewardID": 9874,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Architect Level 8",
+    "constructionItemIDs": 1195
+  },
+  {
+    "rewardID": 9875,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Architect Level 9",
+    "constructionItemIDs": 1196
+  },
+  {
+    "rewardID": 9876,
+    "comment1": "Donation Event Apr 26 &gt; Inner District",
+    "comment2": "Architect Level 10",
+    "constructionItemIDs": 1197
+  },
+  {
+    "rewardID": 9877,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Builder Level 1",
+    "constructionItemIDs": 1198
+  },
+  {
+    "rewardID": 9878,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Builder Level 2",
+    "constructionItemIDs": 1199
+  },
+  {
+    "rewardID": 9879,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Builder Level 3",
+    "constructionItemIDs": 1200
+  },
+  {
+    "rewardID": 9880,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Builder Level 4",
+    "constructionItemIDs": 1201
+  },
+  {
+    "rewardID": 9881,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Builder Level 5",
+    "constructionItemIDs": 1202
+  },
+  {
+    "rewardID": 9882,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Builder Level 6",
+    "constructionItemIDs": 1203
+  },
+  {
+    "rewardID": 9883,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Builder Level 7",
+    "constructionItemIDs": 1204
+  },
+  {
+    "rewardID": 9884,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Builder Level 8",
+    "constructionItemIDs": 1205
+  },
+  {
+    "rewardID": 9885,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Builder Level 9",
+    "constructionItemIDs": 1206
+  },
+  {
+    "rewardID": 9886,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Builder Level 10",
+    "constructionItemIDs": 1207
+  },
+  {
+    "rewardID": 9887,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Architect Level 1",
+    "constructionItemIDs": 1208
+  },
+  {
+    "rewardID": 9888,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Architect Level 2",
+    "constructionItemIDs": 1209
+  },
+  {
+    "rewardID": 9889,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Architect Level 3",
+    "constructionItemIDs": 1210
+  },
+  {
+    "rewardID": 9890,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Architect Level 4",
+    "constructionItemIDs": 1211
+  },
+  {
+    "rewardID": 9891,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Architect Level 5",
+    "constructionItemIDs": 1212
+  },
+  {
+    "rewardID": 9892,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Architect Level 6",
+    "constructionItemIDs": 1213
+  },
+  {
+    "rewardID": 9893,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Architect Level 7",
+    "constructionItemIDs": 1214
+  },
+  {
+    "rewardID": 9894,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Architect Level 8",
+    "constructionItemIDs": 1215
+  },
+  {
+    "rewardID": 9895,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Architect Level 9",
+    "constructionItemIDs": 1216
+  },
+  {
+    "rewardID": 9896,
+    "comment1": "Donation Event Apr 26 &gt; Mead District",
+    "comment2": "Architect Level 10",
+    "constructionItemIDs": 1217
+  },
+  {
+    "rewardID": 9897,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Builder Level 1",
+    "constructionItemIDs": 1218
+  },
+  {
+    "rewardID": 9898,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Builder Level 2",
+    "constructionItemIDs": 1219
+  },
+  {
+    "rewardID": 9899,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Builder Level 3",
+    "constructionItemIDs": 1220
+  },
+  {
+    "rewardID": 9900,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Builder Level 4",
+    "constructionItemIDs": 1221
+  },
+  {
+    "rewardID": 9901,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Builder Level 5",
+    "constructionItemIDs": 1222
+  },
+  {
+    "rewardID": 9902,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Builder Level 6",
+    "constructionItemIDs": 1223
+  },
+  {
+    "rewardID": 9903,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Builder Level 7",
+    "constructionItemIDs": 1224
+  },
+  {
+    "rewardID": 9904,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Builder Level 8",
+    "constructionItemIDs": 1225
+  },
+  {
+    "rewardID": 9905,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Builder Level 9",
+    "constructionItemIDs": 1226
+  },
+  {
+    "rewardID": 9906,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Builder Level 10",
+    "constructionItemIDs": 1227
+  },
+  {
+    "rewardID": 9907,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Architect Level 1",
+    "constructionItemIDs": 1228
+  },
+  {
+    "rewardID": 9908,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Architect Level 2",
+    "constructionItemIDs": 1229
+  },
+  {
+    "rewardID": 9909,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Architect Level 3",
+    "constructionItemIDs": 1230
+  },
+  {
+    "rewardID": 9910,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Architect Level 4",
+    "constructionItemIDs": 1231
+  },
+  {
+    "rewardID": 9911,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Architect Level 5",
+    "constructionItemIDs": 1232
+  },
+  {
+    "rewardID": 9912,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Architect Level 6",
+    "constructionItemIDs": 1233
+  },
+  {
+    "rewardID": 9913,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Architect Level 7",
+    "constructionItemIDs": 1234
+  },
+  {
+    "rewardID": 9914,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Architect Level 8",
+    "constructionItemIDs": 1235
+  },
+  {
+    "rewardID": 9915,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Architect Level 9",
+    "constructionItemIDs": 1236
+  },
+  {
+    "rewardID": 9916,
+    "comment1": "Donation Event Apr 26 &gt; Food District",
+    "comment2": "Architect Level 10",
+    "constructionItemIDs": 1237
+  },
+  {
     "rewardID": 60000,
     "comment1": "War of the Realms",
     "comment2": "Bracket LL950 Reward 1",

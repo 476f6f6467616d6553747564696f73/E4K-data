@@ -1,7 +1,7 @@
 {
-  "version": "768.RC.02",
-  "date": "09/04/2026 17:20:33",
+  "version": "769.RC.01",
+  "date": "16/04/2026 13:57:02",
   "included": {
-    "features": "Live,CRMCampaignAprilContent,AprilLTPE,May/JuneLTPE,CleanupMarch,FutureDecoDistrict2x2,UncapPvPWaveEffect,AddMeadUnitFix,LTPEFusionForgeFix,AddEvent136"
+    "features": "Live,Anubis,DonationEventUpdate26,GloryAMEQuests,PPTnonPUsReactivation,TypeID16EffectCap"
   }
 }

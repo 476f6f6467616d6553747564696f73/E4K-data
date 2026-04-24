@@ -911,5 +911,640 @@
     "donationTypeID": 2,
     "currencyID": 1,
     "ratio": 3150
+  },
+  {
+    "donationItemID": 106,
+    "crossplayID": 106,
+    "donationItemSetID": 8,
+    "donationTypeID": 1,
+    "currencyID": 28,
+    "ratio": 11,
+    "maxPointLimit": 560
+  },
+  {
+    "donationItemID": 107,
+    "crossplayID": 107,
+    "donationItemSetID": 8,
+    "donationTypeID": 1,
+    "currencyID": 15,
+    "ratio": 9,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 108,
+    "crossplayID": 108,
+    "donationItemSetID": 8,
+    "donationTypeID": 1,
+    "currencyID": 29,
+    "ratio": 70,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 109,
+    "crossplayID": 109,
+    "donationItemSetID": 8,
+    "donationTypeID": 1,
+    "currencyID": 13,
+    "ratio": 180,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 110,
+    "crossplayID": 110,
+    "donationItemSetID": 8,
+    "donationTypeID": 1,
+    "currencyID": 7,
+    "ratio": 330,
+    "maxPointLimit": 580
+  },
+  {
+    "donationItemID": 111,
+    "crossplayID": 111,
+    "donationItemSetID": 8,
+    "donationTypeID": 1,
+    "currencyID": 10,
+    "ratio": 560,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 112,
+    "crossplayID": 112,
+    "donationItemSetID": 8,
+    "donationTypeID": 1,
+    "currencyID": 1,
+    "ratio": 600,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 113,
+    "crossplayID": 113,
+    "donationItemSetID": 8,
+    "donationTypeID": 2,
+    "currencyID": 8000,
+    "ratio": 1
+  },
+  {
+    "donationItemID": 114,
+    "crossplayID": 114,
+    "donationItemSetID": 8,
+    "donationTypeID": 2,
+    "currencyID": 28,
+    "ratio": 4
+  },
+  {
+    "donationItemID": 115,
+    "crossplayID": 115,
+    "donationItemSetID": 8,
+    "donationTypeID": 2,
+    "currencyID": 15,
+    "ratio": 6
+  },
+  {
+    "donationItemID": 116,
+    "crossplayID": 116,
+    "donationItemSetID": 8,
+    "donationTypeID": 2,
+    "currencyID": 29,
+    "ratio": 12
+  },
+  {
+    "donationItemID": 117,
+    "crossplayID": 117,
+    "donationItemSetID": 8,
+    "donationTypeID": 2,
+    "currencyID": 13,
+    "ratio": 50
+  },
+  {
+    "donationItemID": 118,
+    "crossplayID": 118,
+    "donationItemSetID": 8,
+    "donationTypeID": 2,
+    "currencyID": 7,
+    "ratio": 1700
+  },
+  {
+    "donationItemID": 119,
+    "crossplayID": 119,
+    "donationItemSetID": 8,
+    "donationTypeID": 2,
+    "currencyID": 10,
+    "ratio": 2000
+  },
+  {
+    "donationItemID": 120,
+    "crossplayID": 120,
+    "donationItemSetID": 8,
+    "donationTypeID": 2,
+    "currencyID": 1,
+    "ratio": 2000
+  },
+  {
+    "donationItemID": 121,
+    "crossplayID": 121,
+    "donationItemSetID": 9,
+    "donationTypeID": 1,
+    "currencyID": 28,
+    "ratio": 12,
+    "maxPointLimit": 575
+  },
+  {
+    "donationItemID": 122,
+    "crossplayID": 122,
+    "donationItemSetID": 9,
+    "donationTypeID": 1,
+    "currencyID": 15,
+    "ratio": 8,
+    "maxPointLimit": 605
+  },
+  {
+    "donationItemID": 123,
+    "crossplayID": 123,
+    "donationItemSetID": 9,
+    "donationTypeID": 1,
+    "currencyID": 29,
+    "ratio": 60,
+    "maxPointLimit": 555
+  },
+  {
+    "donationItemID": 124,
+    "crossplayID": 124,
+    "donationItemSetID": 9,
+    "donationTypeID": 1,
+    "currencyID": 13,
+    "ratio": 150,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 125,
+    "crossplayID": 125,
+    "donationItemSetID": 9,
+    "donationTypeID": 1,
+    "currencyID": 7,
+    "ratio": 550,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 126,
+    "crossplayID": 126,
+    "donationItemSetID": 9,
+    "donationTypeID": 1,
+    "currencyID": 10,
+    "ratio": 510,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 127,
+    "crossplayID": 127,
+    "donationItemSetID": 9,
+    "donationTypeID": 1,
+    "currencyID": 1,
+    "ratio": 770,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 128,
+    "crossplayID": 128,
+    "donationItemSetID": 9,
+    "donationTypeID": 2,
+    "currencyID": 8000,
+    "ratio": 1
+  },
+  {
+    "donationItemID": 129,
+    "crossplayID": 129,
+    "donationItemSetID": 9,
+    "donationTypeID": 2,
+    "currencyID": 28,
+    "ratio": 4
+  },
+  {
+    "donationItemID": 130,
+    "crossplayID": 130,
+    "donationItemSetID": 9,
+    "donationTypeID": 2,
+    "currencyID": 15,
+    "ratio": 6
+  },
+  {
+    "donationItemID": 131,
+    "crossplayID": 131,
+    "donationItemSetID": 9,
+    "donationTypeID": 2,
+    "currencyID": 29,
+    "ratio": 10
+  },
+  {
+    "donationItemID": 132,
+    "crossplayID": 132,
+    "donationItemSetID": 9,
+    "donationTypeID": 2,
+    "currencyID": 13,
+    "ratio": 80
+  },
+  {
+    "donationItemID": 133,
+    "crossplayID": 133,
+    "donationItemSetID": 9,
+    "donationTypeID": 2,
+    "currencyID": 7,
+    "ratio": 3500
+  },
+  {
+    "donationItemID": 134,
+    "crossplayID": 134,
+    "donationItemSetID": 9,
+    "donationTypeID": 2,
+    "currencyID": 10,
+    "ratio": 6900
+  },
+  {
+    "donationItemID": 135,
+    "crossplayID": 135,
+    "donationItemSetID": 9,
+    "donationTypeID": 2,
+    "currencyID": 1,
+    "ratio": 3750
+  },
+  {
+    "donationItemID": 136,
+    "crossplayID": 136,
+    "donationItemSetID": 10,
+    "donationTypeID": 1,
+    "currencyID": 28,
+    "ratio": 12,
+    "maxPointLimit": 575
+  },
+  {
+    "donationItemID": 137,
+    "crossplayID": 137,
+    "donationItemSetID": 10,
+    "donationTypeID": 1,
+    "currencyID": 15,
+    "ratio": 8,
+    "maxPointLimit": 605
+  },
+  {
+    "donationItemID": 138,
+    "crossplayID": 138,
+    "donationItemSetID": 10,
+    "donationTypeID": 1,
+    "currencyID": 29,
+    "ratio": 60,
+    "maxPointLimit": 555
+  },
+  {
+    "donationItemID": 139,
+    "crossplayID": 139,
+    "donationItemSetID": 10,
+    "donationTypeID": 1,
+    "currencyID": 13,
+    "ratio": 150,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 140,
+    "crossplayID": 140,
+    "donationItemSetID": 10,
+    "donationTypeID": 1,
+    "currencyID": 7,
+    "ratio": 550,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 141,
+    "crossplayID": 141,
+    "donationItemSetID": 10,
+    "donationTypeID": 1,
+    "currencyID": 10,
+    "ratio": 510,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 142,
+    "crossplayID": 142,
+    "donationItemSetID": 10,
+    "donationTypeID": 1,
+    "currencyID": 1,
+    "ratio": 770,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 143,
+    "crossplayID": 143,
+    "donationItemSetID": 10,
+    "donationTypeID": 2,
+    "currencyID": 8000,
+    "ratio": 1
+  },
+  {
+    "donationItemID": 144,
+    "crossplayID": 144,
+    "donationItemSetID": 10,
+    "donationTypeID": 2,
+    "currencyID": 28,
+    "ratio": 4
+  },
+  {
+    "donationItemID": 145,
+    "crossplayID": 145,
+    "donationItemSetID": 10,
+    "donationTypeID": 2,
+    "currencyID": 15,
+    "ratio": 6
+  },
+  {
+    "donationItemID": 146,
+    "crossplayID": 146,
+    "donationItemSetID": 10,
+    "donationTypeID": 2,
+    "currencyID": 29,
+    "ratio": 10
+  },
+  {
+    "donationItemID": 147,
+    "crossplayID": 147,
+    "donationItemSetID": 10,
+    "donationTypeID": 2,
+    "currencyID": 13,
+    "ratio": 80
+  },
+  {
+    "donationItemID": 148,
+    "crossplayID": 148,
+    "donationItemSetID": 10,
+    "donationTypeID": 2,
+    "currencyID": 7,
+    "ratio": 3500
+  },
+  {
+    "donationItemID": 149,
+    "crossplayID": 149,
+    "donationItemSetID": 10,
+    "donationTypeID": 2,
+    "currencyID": 10,
+    "ratio": 6900
+  },
+  {
+    "donationItemID": 150,
+    "crossplayID": 150,
+    "donationItemSetID": 10,
+    "donationTypeID": 2,
+    "currencyID": 1,
+    "ratio": 3750
+  },
+  {
+    "donationItemID": 151,
+    "crossplayID": 151,
+    "donationItemSetID": 11,
+    "donationTypeID": 1,
+    "currencyID": 28,
+    "ratio": 12,
+    "maxPointLimit": 575
+  },
+  {
+    "donationItemID": 152,
+    "crossplayID": 152,
+    "donationItemSetID": 11,
+    "donationTypeID": 1,
+    "currencyID": 15,
+    "ratio": 8,
+    "maxPointLimit": 605
+  },
+  {
+    "donationItemID": 153,
+    "crossplayID": 153,
+    "donationItemSetID": 11,
+    "donationTypeID": 1,
+    "currencyID": 29,
+    "ratio": 60,
+    "maxPointLimit": 555
+  },
+  {
+    "donationItemID": 154,
+    "crossplayID": 154,
+    "donationItemSetID": 11,
+    "donationTypeID": 1,
+    "currencyID": 13,
+    "ratio": 150,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 155,
+    "crossplayID": 155,
+    "donationItemSetID": 11,
+    "donationTypeID": 1,
+    "currencyID": 7,
+    "ratio": 550,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 156,
+    "crossplayID": 156,
+    "donationItemSetID": 11,
+    "donationTypeID": 1,
+    "currencyID": 10,
+    "ratio": 510,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 157,
+    "crossplayID": 157,
+    "donationItemSetID": 11,
+    "donationTypeID": 1,
+    "currencyID": 1,
+    "ratio": 770,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 158,
+    "crossplayID": 158,
+    "donationItemSetID": 11,
+    "donationTypeID": 2,
+    "currencyID": 8000,
+    "ratio": 1
+  },
+  {
+    "donationItemID": 159,
+    "crossplayID": 159,
+    "donationItemSetID": 11,
+    "donationTypeID": 2,
+    "currencyID": 28,
+    "ratio": 4
+  },
+  {
+    "donationItemID": 160,
+    "crossplayID": 160,
+    "donationItemSetID": 11,
+    "donationTypeID": 2,
+    "currencyID": 15,
+    "ratio": 6
+  },
+  {
+    "donationItemID": 161,
+    "crossplayID": 161,
+    "donationItemSetID": 11,
+    "donationTypeID": 2,
+    "currencyID": 29,
+    "ratio": 10
+  },
+  {
+    "donationItemID": 162,
+    "crossplayID": 162,
+    "donationItemSetID": 11,
+    "donationTypeID": 2,
+    "currencyID": 13,
+    "ratio": 80
+  },
+  {
+    "donationItemID": 163,
+    "crossplayID": 163,
+    "donationItemSetID": 11,
+    "donationTypeID": 2,
+    "currencyID": 7,
+    "ratio": 3500
+  },
+  {
+    "donationItemID": 164,
+    "crossplayID": 164,
+    "donationItemSetID": 11,
+    "donationTypeID": 2,
+    "currencyID": 10,
+    "ratio": 6900
+  },
+  {
+    "donationItemID": 165,
+    "crossplayID": 165,
+    "donationItemSetID": 11,
+    "donationTypeID": 2,
+    "currencyID": 1,
+    "ratio": 3750
+  },
+  {
+    "donationItemID": 166,
+    "crossplayID": 166,
+    "donationItemSetID": 12,
+    "donationTypeID": 1,
+    "currencyID": 28,
+    "ratio": 12,
+    "maxPointLimit": 575
+  },
+  {
+    "donationItemID": 167,
+    "crossplayID": 167,
+    "donationItemSetID": 12,
+    "donationTypeID": 1,
+    "currencyID": 15,
+    "ratio": 8,
+    "maxPointLimit": 605
+  },
+  {
+    "donationItemID": 168,
+    "crossplayID": 168,
+    "donationItemSetID": 12,
+    "donationTypeID": 1,
+    "currencyID": 29,
+    "ratio": 60,
+    "maxPointLimit": 555
+  },
+  {
+    "donationItemID": 169,
+    "crossplayID": 169,
+    "donationItemSetID": 12,
+    "donationTypeID": 1,
+    "currencyID": 13,
+    "ratio": 150,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 170,
+    "crossplayID": 170,
+    "donationItemSetID": 12,
+    "donationTypeID": 1,
+    "currencyID": 7,
+    "ratio": 550,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 171,
+    "crossplayID": 171,
+    "donationItemSetID": 12,
+    "donationTypeID": 1,
+    "currencyID": 10,
+    "ratio": 510,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 172,
+    "crossplayID": 172,
+    "donationItemSetID": 12,
+    "donationTypeID": 1,
+    "currencyID": 1,
+    "ratio": 770,
+    "maxPointLimit": 570
+  },
+  {
+    "donationItemID": 173,
+    "crossplayID": 173,
+    "donationItemSetID": 12,
+    "donationTypeID": 2,
+    "currencyID": 8000,
+    "ratio": 1
+  },
+  {
+    "donationItemID": 174,
+    "crossplayID": 174,
+    "donationItemSetID": 12,
+    "donationTypeID": 2,
+    "currencyID": 28,
+    "ratio": 4
+  },
+  {
+    "donationItemID": 175,
+    "crossplayID": 175,
+    "donationItemSetID": 12,
+    "donationTypeID": 2,
+    "currencyID": 15,
+    "ratio": 6
+  },
+  {
+    "donationItemID": 176,
+    "crossplayID": 176,
+    "donationItemSetID": 12,
+    "donationTypeID": 2,
+    "currencyID": 29,
+    "ratio": 10
+  },
+  {
+    "donationItemID": 177,
+    "crossplayID": 177,
+    "donationItemSetID": 12,
+    "donationTypeID": 2,
+    "currencyID": 13,
+    "ratio": 80
+  },
+  {
+    "donationItemID": 178,
+    "crossplayID": 178,
+    "donationItemSetID": 12,
+    "donationTypeID": 2,
+    "currencyID": 7,
+    "ratio": 3500
+  },
+  {
+    "donationItemID": 179,
+    "crossplayID": 179,
+    "donationItemSetID": 12,
+    "donationTypeID": 2,
+    "currencyID": 10,
+    "ratio": 6900
+  },
+  {
+    "donationItemID": 180,
+    "crossplayID": 180,
+    "donationItemSetID": 12,
+    "donationTypeID": 2,
+    "currencyID": 1,
+    "ratio": 3750
   }
 ]
