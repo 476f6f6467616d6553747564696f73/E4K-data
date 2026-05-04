@@ -34858,6 +34858,195 @@
     "addGenXP15000": 20
   },
   {
+    "rewardID": 9937,
+    "crossplayID": 9937,
+    "comment1": "LowTier Lootbox - Legendary Dragon",
+    "comment2": "Armor",
+    "equipmentIDs": 1511
+  },
+  {
+    "rewardID": 9938,
+    "crossplayID": 9938,
+    "comment1": "LowTier Lootbox - Legendary Dragon",
+    "comment2": "Weapon",
+    "equipmentIDs": 1512
+  },
+  {
+    "rewardID": 9939,
+    "crossplayID": 9939,
+    "comment1": "LowTier Lootbox - Legendary Dragon",
+    "comment2": "Helmet",
+    "equipmentIDs": 1513
+  },
+  {
+    "rewardID": 9940,
+    "crossplayID": 9940,
+    "comment1": "LowTier Lootbox - Legendary Dragon",
+    "comment2": "Artifact",
+    "equipmentIDs": 1514
+  },
+  {
+    "rewardID": 9941,
+    "crossplayID": 9941,
+    "comment1": "LowTier Lootbox - Legendary Dragon",
+    "comment2": "Commander",
+    "equipmentIDs": 1515
+  },
+  {
+    "rewardID": 9942,
+    "crossplayID": 9942,
+    "comment1": "LowTier Lootbox - Legendary Dragon",
+    "comment2": "Gem1",
+    "gemIDs": 502
+  },
+  {
+    "rewardID": 9943,
+    "crossplayID": 9943,
+    "comment1": "LowTier Lootbox - Legendary Dragon",
+    "comment2": "Gem2",
+    "gemIDs": 503
+  },
+  {
+    "rewardID": 9944,
+    "crossplayID": 9944,
+    "comment1": "LowTier Lootbox - Legendary Dragon",
+    "comment2": "Gem3",
+    "gemIDs": 504
+  },
+  {
+    "rewardID": 9945,
+    "crossplayID": 9945,
+    "comment1": "LowTier Lootbox - Legendary Dragon",
+    "comment2": "Gem4",
+    "gemIDs": 505
+  },
+  {
+    "rewardID": 9946,
+    "crossplayID": 9946,
+    "comment1": "MidTier Lootbox - Legendary Dragon",
+    "comment2": "Armor",
+    "equipmentIDs": 1516
+  },
+  {
+    "rewardID": 9947,
+    "crossplayID": 9947,
+    "comment1": "MidTier Lootbox - Legendary Dragon",
+    "comment2": "Weapon",
+    "equipmentIDs": 1517
+  },
+  {
+    "rewardID": 9948,
+    "crossplayID": 9948,
+    "comment1": "MidTier Lootbox - Legendary Dragon",
+    "comment2": "Helmet",
+    "equipmentIDs": 1518
+  },
+  {
+    "rewardID": 9949,
+    "crossplayID": 9949,
+    "comment1": "MidTier Lootbox - Legendary Dragon",
+    "comment2": "Artifact",
+    "equipmentIDs": 1519
+  },
+  {
+    "rewardID": 9950,
+    "crossplayID": 9950,
+    "comment1": "MidTier Lootbox - Legendary Dragon",
+    "comment2": "Commander",
+    "equipmentIDs": 1520
+  },
+  {
+    "rewardID": 9951,
+    "crossplayID": 9951,
+    "comment1": "MidTier Lootbox - Legendary Dragon",
+    "comment2": "Gem1",
+    "gemIDs": 506
+  },
+  {
+    "rewardID": 9952,
+    "crossplayID": 9952,
+    "comment1": "MidTier Lootbox - Legendary Dragon",
+    "comment2": "Gem2",
+    "gemIDs": 507
+  },
+  {
+    "rewardID": 9953,
+    "crossplayID": 9953,
+    "comment1": "MidTier Lootbox - Legendary Dragon",
+    "comment2": "Gem3",
+    "gemIDs": 508
+  },
+  {
+    "rewardID": 9954,
+    "crossplayID": 9954,
+    "comment1": "MidTier Lootbox - Legendary Dragon",
+    "comment2": "Gem4",
+    "gemIDs": 509
+  },
+  {
+    "rewardID": 9955,
+    "crossplayID": 9955,
+    "comment1": "HighTier Lootbox - Legendary Dragon",
+    "comment2": "Armor",
+    "equipmentIDs": 1521
+  },
+  {
+    "rewardID": 9956,
+    "crossplayID": 9956,
+    "comment1": "HighTier Lootbox - Legendary Dragon",
+    "comment2": "Weapon",
+    "equipmentIDs": 1522
+  },
+  {
+    "rewardID": 9957,
+    "crossplayID": 9957,
+    "comment1": "HighTier Lootbox - Legendary Dragon",
+    "comment2": "Helmet",
+    "equipmentIDs": 1523
+  },
+  {
+    "rewardID": 9958,
+    "crossplayID": 9958,
+    "comment1": "HighTier Lootbox - Legendary Dragon",
+    "comment2": "Artifact",
+    "equipmentIDs": 1524
+  },
+  {
+    "rewardID": 9959,
+    "crossplayID": 9959,
+    "comment1": "HighTier Lootbox - Legendary Dragon",
+    "comment2": "Commander",
+    "equipmentIDs": 1525
+  },
+  {
+    "rewardID": 9960,
+    "crossplayID": 9960,
+    "comment1": "HighTier Lootbox - Legendary Dragon",
+    "comment2": "Gem1",
+    "gemIDs": 510
+  },
+  {
+    "rewardID": 9961,
+    "crossplayID": 9961,
+    "comment1": "HighTier Lootbox - Legendary Dragon",
+    "comment2": "Gem2",
+    "gemIDs": 511
+  },
+  {
+    "rewardID": 9962,
+    "crossplayID": 9962,
+    "comment1": "HighTier Lootbox - Legendary Dragon",
+    "comment2": "Gem3",
+    "gemIDs": 512
+  },
+  {
+    "rewardID": 9963,
+    "crossplayID": 9963,
+    "comment1": "HighTier Lootbox - Legendary Dragon",
+    "comment2": "Gem4",
+    "gemIDs": 513
+  },
+  {
     "rewardID": 1290,
     "comment2": "Drop Chance Normal",
     "currency1": 3750
@@ -150356,6 +150545,764 @@
   {
     "rewardID": 9816,
     "comment1": "RewardSet 2 - Activity Reward 71",
+    "comment2": "Rift Coin + Plaster",
+    "addRiftCoin": 100,
+    "addPlaster": 250,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9917,
+    "comment1": "Legendary Dragon Defeat Reward 1",
+    "comment2": "Lootbox T1",
+    "lootBox": "44+1",
+    "units": "214+9000#204+9000",
+    "hiddenMead": 90000,
+    "ignoreResourceStorageCapacity": 1,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9918,
+    "comment1": "Legendary Dragon Defeat Reward 2",
+    "comment2": "Lootbox T1",
+    "lootBox": "44+1",
+    "units": "214+40000#204+40000",
+    "hiddenMead": 400000,
+    "ignoreResourceStorageCapacity": 1,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9919,
+    "comment1": "Legendary Dragon Defeat Reward 3",
+    "comment2": "Lootbox T1",
+    "lootBox": "45+1",
+    "addRiftCoin": 100,
+    "units": "214+45000#204+45000",
+    "hiddenMead": 450000,
+    "ignoreResourceStorageCapacity": 1,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9920,
+    "comment1": "Legendary Dragon Defeat Reward 4",
+    "comment2": "Lootbox T2 + Rift Coin",
+    "lootBox": "45+1",
+    "addRiftCoin": 630,
+    "units": "214+50000#204+50000",
+    "hiddenMead": 500000,
+    "ignoreResourceStorageCapacity": 1,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9921,
+    "comment1": "Legendary Dragon Defeat Reward 5",
+    "comment2": "Lootbox T2 + Ashira Offering",
+    "lootBox": "45+1",
+    "addRiftCoin": 1750,
+    "units": "214+100000#204+100000",
+    "addAshiraToken": 50,
+    "hiddenMead": 1000000,
+    "ignoreResourceStorageCapacity": 1,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9922,
+    "comment1": "Legendary Dragon Defeat Reward 6",
+    "comment2": "Lootbox T2 + General Exp",
+    "lootBox": "45+1",
+    "addRiftCoin": 2500,
+    "units": "214+125000#204+125000",
+    "addGenXP15000": 65,
+    "hiddenMead": 1250000,
+    "ignoreResourceStorageCapacity": 1,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9923,
+    "comment1": "Legendary Dragon Defeat Reward 7",
+    "comment2": "Lootbox T2 + Plaster",
+    "lootBox": "46+1",
+    "addRiftCoin": 3610,
+    "units": "214+150000#204+150000",
+    "addPlaster": 80,
+    "hiddenMead": 1500000,
+    "ignoreResourceStorageCapacity": 1,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9924,
+    "comment1": "Legendary Dragon Defeat Reward 8",
+    "comment2": "Lootbox T3 + Ashira Offering",
+    "lootBox": "46+1",
+    "addRiftCoin": 6200,
+    "addAshiraToken": 55,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9925,
+    "comment1": "Legendary Dragon Defeat Reward 9",
+    "comment2": "Lootbox T3 + General Exp",
+    "lootBox": "46+1",
+    "addRiftCoin": 9000,
+    "addGenXP15000": 80,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9926,
+    "comment1": "Legendary Dragon Defeat Reward 10",
+    "comment2": "Lootbox T3 + General Exp",
+    "lootBox": "46+1",
+    "addRiftCoin": 12000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9927,
+    "comment1": "Legendary Dragon Defeat Reward 11",
+    "comment2": "Lootbox T3 + General Exp",
+    "lootBox": "46+1",
+    "addRiftCoin": 12000,
+    "addGenXP15000": 120,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9928,
+    "comment1": "Legendary Dragon Defeat Reward 12",
+    "comment2": "T3 Lootbox + Gen Exp",
+    "lootBox": "46+1",
+    "addRiftCoin": 12000,
+    "addGenXP15000": 120,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9929,
+    "comment1": "Legendary Dragon Defeat Reward 13",
+    "comment2": "Dragon Scales + Tiles",
+    "addDragonScaleSplinters": 1000,
+    "addRiftCoin": 12000,
+    "addDragonScaleTile": 400,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9930,
+    "comment1": "Legendary Dragon Defeat Reward 14",
+    "comment2": "Dragon Scales + Tiles",
+    "addDragonScaleSplinters": 2000,
+    "addRiftCoin": 12000,
+    "addDragonScaleTile": 400,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9931,
+    "comment1": "Legendary Dragon Defeat Reward 15",
+    "comment2": "Lootbox + Gen Exp",
+    "lootBox": "46+1",
+    "addRiftCoin": 12000,
+    "addGenXP15000": 120,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9932,
+    "comment1": "Legendary Dragon Defeat Reward 16",
+    "comment2": "Dragon Scales + Tiles",
+    "addDragonScaleSplinters": 2000,
+    "addRiftCoin": 12000,
+    "addDragonScaleTile": 400,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9933,
+    "comment1": "Legendary Dragon Defeat Reward 17",
+    "comment2": "Dragon Scales + Tiles",
+    "addDragonScaleSplinters": 3000,
+    "addRiftCoin": 12000,
+    "addDragonScaleTile": 400,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9934,
+    "comment1": "Legendary Dragon Defeat Reward 18",
+    "comment2": "Lootbox + Gen Exp",
+    "lootBox": "46+1",
+    "addRiftCoin": 12000,
+    "addGenXP15000": 120,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9935,
+    "comment1": "Legendary Dragon Defeat Reward 19",
+    "comment2": "Ducat + Plaster",
+    "addImperialDucat": 100,
+    "addRiftCoin": 12000,
+    "addPlaster": 4000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 9936,
+    "comment1": "Legendary Dragon Defeat Reward 20",
+    "comment2": "Lootbox + Gen Exp",
+    "lootBox": "46+1",
+    "addRiftCoin": 12000,
+    "addGenXP15000": 120,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10469,
+    "comment1": "RewardSet 3 - Activity Reward 1",
+    "comment2": "Basic Wall + Gate Tool T1",
+    "units": "568+170#570+60",
+    "grantType": 2
+  },
+  {
+    "rewardID": 10470,
+    "comment1": "RewardSet 3 - Activity Reward 2",
+    "comment2": "Lvl 10 Mead Units (Melee/Ranged)",
+    "units": "204+3000#214+3000",
+    "hiddenMead": 30000,
+    "ignoreResourceStorageCapacity": 1,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10471,
+    "comment1": "RewardSet 3 - Activity Reward 3",
+    "comment2": "WaveItem + Wall Delay All FS Weak",
+    "equipmentIDs": 1063,
+    "units": "967+5",
+    "grantType": 2
+  },
+  {
+    "rewardID": 10472,
+    "comment1": "RewardSet 3 - Activity Reward 4",
+    "comment2": "Basic Wall + Gate Tool T2",
+    "units": "583+900#588+300",
+    "grantType": 2
+  },
+  {
+    "rewardID": 10473,
+    "comment1": "RewardSet 3 - Activity Reward 5",
+    "comment2": "Melee Strength CI + Infection Rate Tool T1",
+    "constructionItemIDs": "30403+2",
+    "units": "579+4",
+    "grantType": 2
+  },
+  {
+    "rewardID": 10474,
+    "comment1": "RewardSet 3 - Activity Reward 6",
+    "comment2": "Lvl 10 Mead Units (Melee/Ranged)",
+    "units": "204+6000#214+6000",
+    "hiddenMead": 60000,
+    "ignoreResourceStorageCapacity": 1,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10475,
+    "comment1": "RewardSet 3 - Activity Reward 7",
+    "comment2": "Ranged Strength + Wall Delay All FS Mid",
+    "constructionItemIDs": "30493+2",
+    "units": "971+5",
+    "grantType": 2
+  },
+  {
+    "rewardID": 10476,
+    "comment1": "RewardSet 3 - Activity Reward 8",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10477,
+    "comment1": "RewardSet 3 - Activity Reward 9",
+    "comment2": "Courtyard Strength CI",
+    "constructionItemIDs": "30422+2",
+    "grantType": 2
+  },
+  {
+    "rewardID": 10478,
+    "comment1": "RewardSet 3 - Activity Reward 10",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10479,
+    "comment1": "RewardSet 3 - Activity Reward 11",
+    "comment2": "HoL Small Box + Infection Tool T2",
+    "lootBox": "33+3",
+    "units": "580+35",
+    "grantType": 2
+  },
+  {
+    "rewardID": 10480,
+    "comment1": "RewardSet 3 - Activity Reward 12",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10481,
+    "comment1": "RewardSet 3 - Activity Reward 13",
+    "comment2": "Legendary Dragon Tools T1",
+    "units": "807+120#810+120",
+    "grantType": 2
+  },
+  {
+    "rewardID": 10482,
+    "comment1": "RewardSet 3 - Activity Reward 14",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10483,
+    "comment1": "RewardSet 3 - Activity Reward 15",
+    "comment2": "Legendary Dragon Tools T2",
+    "units": "808+60#811+60",
+    "grantType": 2
+  },
+  {
+    "rewardID": 10484,
+    "comment1": "RewardSet 3 - Activity Reward 16",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 150,
+    "addLegendaryMaterial": 75,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10485,
+    "comment1": "RewardSet 3 - Activity Reward 17",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 150,
+    "addLegendaryToken": 37,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10486,
+    "comment1": "RewardSet 3 - Activity Reward 18",
+    "comment2": "Flank Amount C + Plaster",
+    "constructionItemIDs": 30560,
+    "addPlaster": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10487,
+    "comment1": "RewardSet 3 - Activity Reward 19",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 150,
+    "addLegendaryMaterial": 75,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10488,
+    "comment1": "RewardSet 3 - Activity Reward 20",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 150,
+    "addLegendaryToken": 37,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10489,
+    "comment1": "RewardSet 3 - Activity Reward 21",
+    "comment2": "Front Amount C + Plaster",
+    "constructionItemIDs": 30453,
+    "addPlaster": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10490,
+    "comment1": "RewardSet 3 - Activity Reward 22",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 150,
+    "addLegendaryMaterial": 75,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10491,
+    "comment1": "RewardSet 3 - Activity Reward 23",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 150,
+    "addLegendaryToken": 37,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10492,
+    "comment1": "RewardSet 3 - Activity Reward 24",
+    "comment2": "Ashira Offering + EXP Token",
+    "addAshiraToken": 20,
+    "addGenXP15000": 30,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10493,
+    "comment1": "RewardSet 3 - Activity Reward 25",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 235,
+    "addLegendaryMaterial": 120,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10494,
+    "comment1": "RewardSet 3 - Activity Reward 26",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 235,
+    "addLegendaryToken": 60,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10495,
+    "comment1": "RewardSet 3 - Activity Reward 27",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 235,
+    "addLegendaryMaterial": 120,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10496,
+    "comment1": "RewardSet 3 - Activity Reward 28",
+    "comment2": "Ashira Offering + Exp Rewards",
+    "addAshiraToken": 30,
+    "addGenXP15000": 35,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10497,
+    "comment1": "RewardSet 3 - Activity Reward 29",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 235,
+    "addLegendaryToken": 60,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10498,
+    "comment1": "RewardSet 3 - Activity Reward 30",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 235,
+    "addLegendaryMaterial": 120,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10499,
+    "comment1": "RewardSet 3 - Activity Reward 31",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 235,
+    "addLegendaryToken": 60,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10500,
+    "comment1": "RewardSet 3 - Activity Reward 32",
+    "comment2": "HoL Small Box + Sceat",
+    "lootBox": "33+4",
+    "addSceatToken": 1000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10501,
+    "comment1": "RewardSet 3 - Activity Reward 33",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 235,
+    "addLegendaryMaterial": 120,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10502,
+    "comment1": "RewardSet 3 - Activity Reward 34",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 235,
+    "addLegendaryToken": 60,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10503,
+    "comment1": "RewardSet 3 - Activity Reward 35",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 235,
+    "addLegendaryMaterial": 120,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10504,
+    "comment1": "RewardSet 3 - Activity Reward 36",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 235,
+    "addLegendaryToken": 60,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10505,
+    "comment1": "RewardSet 3 - Activity Reward 37",
+    "comment2": "HoL Large",
+    "lootBox": "34+1",
+    "grantType": 2
+  },
+  {
+    "rewardID": 10506,
+    "comment1": "RewardSet 3 - Activity Reward 38",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10507,
+    "comment1": "RewardSet 3 - Activity Reward 39",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10508,
+    "comment1": "RewardSet 3 - Activity Reward 40",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10509,
+    "comment1": "RewardSet 3 - Activity Reward 41",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10510,
+    "comment1": "RewardSet 3 - Activity Reward 42",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10511,
+    "comment1": "RewardSet 3 - Activity Reward 43",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10512,
+    "comment1": "RewardSet 3 - Activity Reward 44",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10513,
+    "comment1": "RewardSet 3 - Activity Reward 45",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10514,
+    "comment1": "RewardSet 3 - Activity Reward 46",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10515,
+    "comment1": "RewardSet 3 - Activity Reward 47",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10516,
+    "comment1": "RewardSet 3 - Activity Reward 48",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10517,
+    "comment1": "RewardSet 3 - Activity Reward 49",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10518,
+    "comment1": "RewardSet 3 - Activity Reward 50",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10519,
+    "comment1": "RewardSet 3 - Activity Reward 51",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10520,
+    "comment1": "RewardSet 3 - Activity Reward 52",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10521,
+    "comment1": "RewardSet 3 - Activity Reward 53",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10522,
+    "comment1": "RewardSet 3 - Activity Reward 54",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10523,
+    "comment1": "RewardSet 3 - Activity Reward 55",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10524,
+    "comment1": "RewardSet 3 - Activity Reward 56",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10525,
+    "comment1": "RewardSet 3 - Activity Reward 57",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10526,
+    "comment1": "RewardSet 3 - Activity Reward 58",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 100,
+    "addImperialDucat": 10,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10527,
+    "comment1": "RewardSet 3 - Activity Reward 59",
+    "comment2": "Rift Coin + Plaster",
+    "addRiftCoin": 100,
+    "addPlaster": 250,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10528,
+    "comment1": "RewardSet 3 - Activity Reward 60",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10529,
+    "comment1": "RewardSet 3 - Activity Reward 61",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10530,
+    "comment1": "RewardSet 3 - Activity Reward 62",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 100,
+    "addImperialDucat": 10,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10531,
+    "comment1": "RewardSet 3 - Activity Reward 63",
+    "comment2": "Rift Coin + Plaster",
+    "addRiftCoin": 100,
+    "addPlaster": 250,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10532,
+    "comment1": "RewardSet 3 - Activity Reward 64",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10533,
+    "comment1": "RewardSet 3 - Activity Reward 65",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10534,
+    "comment1": "RewardSet 3 - Activity Reward 66",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 100,
+    "addImperialDucat": 10,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10535,
+    "comment1": "RewardSet 3 - Activity Reward 67",
+    "comment2": "Rift Coin + Plaster",
+    "addRiftCoin": 100,
+    "addPlaster": 250,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10536,
+    "comment1": "RewardSet 3 - Activity Reward 68",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10537,
+    "comment1": "RewardSet 3 - Activity Reward 69",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 25,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10538,
+    "comment1": "RewardSet 3 - Activity Reward 70",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 100,
+    "addImperialDucat": 10,
+    "grantType": 2
+  },
+  {
+    "rewardID": 10539,
+    "comment1": "RewardSet 3 - Activity Reward 71",
     "comment2": "Rift Coin + Plaster",
     "addRiftCoin": 100,
     "addPlaster": 250,

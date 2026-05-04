@@ -130,5 +130,11 @@
     "crossplayID": 22,
     "categoryID": 122,
     "resourceID": 1
+  },
+  {
+    "id": 23,
+    "crossplayID": 23,
+    "categoryID": 123,
+    "currencyID": 88
   }
 ]

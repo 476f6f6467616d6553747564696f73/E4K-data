@@ -1074,5 +1074,9 @@
     "relationID": 999,
     "categoryID": 99,
     "filterID": 99
+  },
+  {
+    "relationID": 422,
+    "categoryID": 123
   }
 ]

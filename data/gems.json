@@ -4070,6 +4070,7 @@
     "droppable": 1,
     "setID": 1084,
     "triggerChance": 100,
+    "sellRiftShard": 3,
     "effects": "442&amp;1,454&amp;25,456&amp;25"
   },
   {
@@ -4082,6 +4083,7 @@
     "droppable": 1,
     "setID": 1084,
     "triggerChance": 100,
+    "sellRiftShard": 3,
     "effects": "440&amp;1,455&amp;25"
   },
   {
@@ -4094,6 +4096,7 @@
     "droppable": 1,
     "setID": 1084,
     "triggerChance": 100,
+    "sellRiftShard": 3,
     "effects": "441&amp;1,457&amp;25"
   },
   {
@@ -4106,6 +4109,7 @@
     "droppable": 1,
     "setID": 1084,
     "triggerChance": 100,
+    "sellRiftShard": 3,
     "effects": "443&amp;1,450&amp;25"
   },
   {
@@ -4118,6 +4122,7 @@
     "droppable": 1,
     "setID": 1085,
     "triggerChance": 100,
+    "sellRiftShard": 30,
     "effects": "442&amp;3,454&amp;50,456&amp;50"
   },
   {
@@ -4130,6 +4135,7 @@
     "droppable": 1,
     "setID": 1085,
     "triggerChance": 100,
+    "sellRiftShard": 30,
     "effects": "440&amp;3,455&amp;50"
   },
   {
@@ -4142,6 +4148,7 @@
     "droppable": 1,
     "setID": 1085,
     "triggerChance": 100,
+    "sellRiftShard": 30,
     "effects": "441&amp;3,457&amp;50"
   },
   {
@@ -4154,6 +4161,7 @@
     "droppable": 1,
     "setID": 1085,
     "triggerChance": 100,
+    "sellRiftShard": 30,
     "effects": "443&amp;3,450&amp;50"
   },
   {
@@ -4166,6 +4174,7 @@
     "droppable": 1,
     "setID": 1086,
     "triggerChance": 100,
+    "sellRiftShard": 297,
     "effects": "442&amp;5,454&amp;75,456&amp;75"
   },
   {
@@ -4178,6 +4187,7 @@
     "droppable": 1,
     "setID": 1086,
     "triggerChance": 100,
+    "sellRiftShard": 297,
     "effects": "440&amp;5,455&amp;75"
   },
   {
@@ -4190,6 +4200,7 @@
     "droppable": 1,
     "setID": 1086,
     "triggerChance": 100,
+    "sellRiftShard": 297,
     "effects": "441&amp;5,457&amp;75"
   },
   {
@@ -4202,6 +4213,7 @@
     "droppable": 1,
     "setID": 1086,
     "triggerChance": 100,
+    "sellRiftShard": 297,
     "effects": "443&amp;5,450&amp;75"
   },
   {
@@ -4421,6 +4433,7 @@
     "droppable": 1,
     "setID": 1091,
     "triggerChance": 100,
+    "sellRiftShard": 1,
     "effects": "460&amp;5,455&amp;10"
   },
   {
@@ -4432,6 +4445,7 @@
     "droppable": 1,
     "setID": 1091,
     "triggerChance": 100,
+    "sellRiftShard": 1,
     "effects": "461&amp;5,457&amp;10"
   },
   {
@@ -4443,6 +4457,7 @@
     "droppable": 1,
     "setID": 1091,
     "triggerChance": 100,
+    "sellRiftShard": 1,
     "effects": "462&amp;5,455&amp;10"
   },
   {
@@ -4454,6 +4469,7 @@
     "droppable": 1,
     "setID": 1091,
     "triggerChance": 100,
+    "sellRiftShard": 1,
     "effects": "463&amp;2,457&amp;10"
   },
   {
@@ -4465,6 +4481,7 @@
     "droppable": 1,
     "setID": 1092,
     "triggerChance": 100,
+    "sellRiftShard": 10,
     "effects": "460&amp;10,455&amp;20"
   },
   {
@@ -4476,6 +4493,7 @@
     "droppable": 1,
     "setID": 1092,
     "triggerChance": 100,
+    "sellRiftShard": 10,
     "effects": "461&amp;10,457&amp;20"
   },
   {
@@ -4487,6 +4505,7 @@
     "droppable": 1,
     "setID": 1092,
     "triggerChance": 100,
+    "sellRiftShard": 10,
     "effects": "462&amp;10,455&amp;20"
   },
   {
@@ -4498,6 +4517,7 @@
     "droppable": 1,
     "setID": 1092,
     "triggerChance": 100,
+    "sellRiftShard": 10,
     "effects": "463&amp;4,457&amp;20"
   },
   {
@@ -4509,6 +4529,7 @@
     "droppable": 1,
     "setID": 1093,
     "triggerChance": 100,
+    "sellRiftShard": 99,
     "effects": "460&amp;15,455&amp;30"
   },
   {
@@ -4520,6 +4541,7 @@
     "droppable": 1,
     "setID": 1093,
     "triggerChance": 100,
+    "sellRiftShard": 99,
     "effects": "461&amp;15,457&amp;30"
   },
   {
@@ -4531,6 +4553,7 @@
     "droppable": 1,
     "setID": 1093,
     "triggerChance": 100,
+    "sellRiftShard": 99,
     "effects": "462&amp;15,455&amp;30"
   },
   {
@@ -4542,6 +4565,7 @@
     "droppable": 1,
     "setID": 1093,
     "triggerChance": 100,
+    "sellRiftShard": 99,
     "effects": "463&amp;6,457&amp;30"
   },
   {
@@ -4699,5 +4723,149 @@
     "sellPriceOverride": 48,
     "sellC1": 48,
     "effects": "474&amp;98,476&amp;98,477&amp;15"
+  },
+  {
+    "gemID": 502,
+    "crossplayID": 502,
+    "comment1": "Legendary Dragon Set 1",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1097,
+    "triggerChance": 100,
+    "sellRiftShard": 15,
+    "effects": "494&amp;3,455&amp;55"
+  },
+  {
+    "gemID": 503,
+    "crossplayID": 503,
+    "comment1": "Legendary Dragon Set 1",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1097,
+    "triggerChance": 100,
+    "sellRiftShard": 15,
+    "effects": "495&amp;3,457&amp;55"
+  },
+  {
+    "gemID": 504,
+    "crossplayID": 504,
+    "comment1": "Legendary Dragon Set 1",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1097,
+    "triggerChance": 100,
+    "sellRiftShard": 15,
+    "effects": "496&amp;3,455&amp;55"
+  },
+  {
+    "gemID": 505,
+    "crossplayID": 505,
+    "comment1": "Legendary Dragon Set 1",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1097,
+    "triggerChance": 100,
+    "sellRiftShard": 15,
+    "effects": "497&amp;1,457&amp;55"
+  },
+  {
+    "gemID": 506,
+    "crossplayID": 506,
+    "comment1": "Legendary Dragon Set 2",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1098,
+    "triggerChance": 100,
+    "sellRiftShard": 149,
+    "effects": "494&amp;6,455&amp;90"
+  },
+  {
+    "gemID": 507,
+    "crossplayID": 507,
+    "comment1": "Legendary Dragon Set 2",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1098,
+    "triggerChance": 100,
+    "sellRiftShard": 149,
+    "effects": "495&amp;6,457&amp;90"
+  },
+  {
+    "gemID": 508,
+    "crossplayID": 508,
+    "comment1": "Legendary Dragon Set 2",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1098,
+    "triggerChance": 100,
+    "sellRiftShard": 149,
+    "effects": "496&amp;6,455&amp;90"
+  },
+  {
+    "gemID": 509,
+    "crossplayID": 509,
+    "comment1": "Legendary Dragon Set 2",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1098,
+    "triggerChance": 100,
+    "sellRiftShard": 149,
+    "effects": "497&amp;2,457&amp;90"
+  },
+  {
+    "gemID": 510,
+    "crossplayID": 510,
+    "comment1": "Legendary Dragon Set 3",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1099,
+    "triggerChance": 100,
+    "sellRiftShard": 1487,
+    "effects": "494&amp;9,455&amp;125"
+  },
+  {
+    "gemID": 511,
+    "crossplayID": 511,
+    "comment1": "Legendary Dragon Set 3",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1099,
+    "triggerChance": 100,
+    "sellRiftShard": 1487,
+    "effects": "495&amp;9,457&amp;125"
+  },
+  {
+    "gemID": 512,
+    "crossplayID": 512,
+    "comment1": "Legendary Dragon Set 3",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1099,
+    "triggerChance": 100,
+    "sellRiftShard": 1487,
+    "effects": "496&amp;9,455&amp;125"
+  },
+  {
+    "gemID": 513,
+    "crossplayID": 513,
+    "comment1": "Legendary Dragon Set 3",
+    "gemLevelID": 0,
+    "wearerID": 2,
+    "droppable": 1,
+    "setID": 1099,
+    "triggerChance": 100,
+    "sellRiftShard": 1487,
+    "effects": "497&amp;3,457&amp;125"
   }
 ]

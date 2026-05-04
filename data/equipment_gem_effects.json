@@ -1087,5 +1087,33 @@
     "crossplayID": 286,
     "name": "newPVPAttackBonus",
     "effectTypeID": 36
+  },
+  {
+    "effectID": 287,
+    "crossplayID": 287,
+    "name": "raidBossWallRegenerationDelayLeftFungalSwarm",
+    "effectTypeID": 209,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 288,
+    "crossplayID": 288,
+    "name": "raidBossWallRegenerationDelayFrontFungalSwarm",
+    "effectTypeID": 210,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 289,
+    "crossplayID": 289,
+    "name": "raidBossWallRegenerationDelayRightFungalSwarm",
+    "effectTypeID": 211,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 290,
+    "crossplayID": 290,
+    "name": "raidBossWallRegenerationDelayAllFungalSwarm",
+    "effectTypeID": 212,
+    "areaTypeID": 43
   }
 ]

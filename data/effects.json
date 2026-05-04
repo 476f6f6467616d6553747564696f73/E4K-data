@@ -4166,7 +4166,8 @@
     "name": "spawnReserveUnit",
     "effectTypeID": 213,
     "capID": 99,
-    "areaTypeID": 43
+    "areaTypeID": 43,
+    "raidBossID": 2
   },
   {
     "effectID": 466,
@@ -4174,7 +4175,8 @@
     "name": "mutateReserveUnit",
     "effectTypeID": 214,
     "capID": 99,
-    "areaTypeID": 43
+    "areaTypeID": 43,
+    "raidBossID": 2
   },
   {
     "effectID": 467,
@@ -4343,6 +4345,105 @@
     "effectTypeID": 12,
     "capID": 87,
     "sortOrder": "4.1.1"
+  },
+  {
+    "effectID": 487,
+    "crossplayID": 487,
+    "name": "spawnReserveUnitLegendaryDragon",
+    "effectTypeID": 213,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
+  },
+  {
+    "effectID": 488,
+    "crossplayID": 488,
+    "name": "mutateReserveUnitLegendaryDragon",
+    "effectTypeID": 214,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
+  },
+  {
+    "effectID": 489,
+    "crossplayID": 489,
+    "name": "meleeDefenseMalus",
+    "effectTypeID": 215,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
+  },
+  {
+    "effectID": 490,
+    "crossplayID": 490,
+    "name": "meleeDefenseMalusYard",
+    "effectTypeID": 216,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
+  },
+  {
+    "effectID": 491,
+    "crossplayID": 491,
+    "name": "rangeDefenseMalus",
+    "effectTypeID": 217,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
+  },
+  {
+    "effectID": 492,
+    "crossplayID": 492,
+    "name": "rangeDefenseMalusYard",
+    "effectTypeID": 218,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
+  },
+  {
+    "effectID": 493,
+    "crossplayID": 493,
+    "name": "reserveUnitKillLegendaryDragon",
+    "effectTypeID": 208,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
+  },
+  {
+    "effectID": 494,
+    "crossplayID": 494,
+    "name": "raidBossWallRegenerationDelayLeftLegendaryDragon",
+    "effectTypeID": 209,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
+  },
+  {
+    "effectID": 495,
+    "crossplayID": 495,
+    "name": "raidBossWallRegenerationDelayFrontLegendaryDragon",
+    "effectTypeID": 210,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
+  },
+  {
+    "effectID": 496,
+    "crossplayID": 496,
+    "name": "raidBossWallRegenerationDelayRightLegendaryDragon",
+    "effectTypeID": 211,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
+  },
+  {
+    "effectID": 497,
+    "crossplayID": 497,
+    "name": "raidBossWallRegenerationDelayAllLegendaryDragon",
+    "effectTypeID": 212,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
   },
   {
     "effectID": 2101,

@@ -3,7 +3,7 @@
     "id": 1,
     "animation": [
       {
-        "linkageId": "Component_ARE_Overview_BossSlots_B",
+        "linkageId": "Component_ARE_Overview_BossSlots",
         "name": "idle",
         "asset": [
           {
@@ -11,19 +11,9 @@
             "asset": "Necromancer_B_Boss_Units"
           },
           {
-            "target": "keep_1",
-            "asset": "Necromancer_B_Keep_1",
-            "stages": "1,2"
-          },
-          {
-            "target": "keep_2",
-            "asset": "Necromancer_B_Keep_2",
-            "stages": "3,4"
-          },
-          {
-            "target": "keep_3",
-            "asset": "Necromancer_B_Keep_3",
-            "stages": "5,6"
+            "target": "keep",
+            "assetAffix": "Keep",
+            "isKeep": 1
           },
           {
             "target": "left_wall",
@@ -63,7 +53,7 @@
     "id": 2,
     "animation": [
       {
-        "linkageId": "Component_ARE_Overview_BossSlots_B",
+        "linkageId": "Component_ARE_Overview_BossSlots",
         "name": "idle",
         "asset": [
           {
@@ -71,19 +61,9 @@
             "asset": "FungalSwarm_Boss_Units"
           },
           {
-            "target": "keep_1",
-            "asset": "FungalSwarm_Keep_1",
-            "stages": "1,2"
-          },
-          {
-            "target": "keep_2",
-            "asset": "FungalSwarm_Keep_2",
-            "stages": "3,4"
-          },
-          {
-            "target": "keep_3",
-            "asset": "FungalSwarm_Keep_3",
-            "stages": "5,6"
+            "target": "keep",
+            "assetAffix": "Keep",
+            "isKeep": 1
           },
           {
             "target": "left_wall",
@@ -113,6 +93,56 @@
           {
             "target": "gate_reg",
             "asset": "FungalSwarm_Gate_Regenerate",
+            "gateReg": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "animation": [
+      {
+        "linkageId": "Component_ARE_Overview_BossSlots",
+        "name": "idle",
+        "asset": [
+          {
+            "target": "units",
+            "asset": "LegendaryDragon_Boss_Units"
+          },
+          {
+            "target": "keep",
+            "assetAffix": "Keep",
+            "isKeep": 1
+          },
+          {
+            "target": "left_wall",
+            "asset": "LegendaryDragon_LeftWall",
+            "leftWallReg": 0
+          },
+          {
+            "target": "left_wall_reg",
+            "asset": "LegendaryDragon_LeftWall_Regenerate",
+            "leftWallReg": 1
+          },
+          {
+            "target": "right_wall",
+            "asset": "LegendaryDragon_RightWall",
+            "rightWallReg": 0
+          },
+          {
+            "target": "right_wall_reg",
+            "asset": "LegendaryDragon_RightWall_Regenerate",
+            "rightWallReg": 1
+          },
+          {
+            "target": "gate",
+            "asset": "LegendaryDragon_Gate",
+            "gateReg": 0
+          },
+          {
+            "target": "gate_reg",
+            "asset": "LegendaryDragon_Gate_Regenerate",
             "gateReg": 1
           }
         ]

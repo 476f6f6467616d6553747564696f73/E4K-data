@@ -471,5 +471,38 @@
     "draws": 1,
     "lootBoxKeyTombolaID": 1,
     "sortOrder": 43
+  },
+  {
+    "lootBoxID": 44,
+    "crossplayID": 44,
+    "lootBoxTypeID": 1,
+    "name": "AREBoxBronze",
+    "rarity": 1,
+    "lootBoxTombolaID": 101,
+    "draws": 1,
+    "lootBoxKeyTombolaID": 1,
+    "sortOrder": 44
+  },
+  {
+    "lootBoxID": 45,
+    "crossplayID": 45,
+    "lootBoxTypeID": 1,
+    "name": "AREBoxSilver",
+    "rarity": 1,
+    "lootBoxTombolaID": 102,
+    "draws": 1,
+    "lootBoxKeyTombolaID": 1,
+    "sortOrder": 45
+  },
+  {
+    "lootBoxID": 46,
+    "crossplayID": 46,
+    "lootBoxTypeID": 1,
+    "name": "AREBoxGold",
+    "rarity": 1,
+    "lootBoxTombolaID": 103,
+    "draws": 1,
+    "lootBoxKeyTombolaID": 1,
+    "sortOrder": 46
   }
 ]

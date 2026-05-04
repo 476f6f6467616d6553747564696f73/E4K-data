@@ -4,7 +4,7 @@
     "crossplayID": 0,
     "saleValue": 11000,
     "insertCostC1": 80000,
-    "removalCostC2": 20000
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 1,
@@ -24,7 +24,7 @@
     "craftSuccessChance": 80,
     "craftCostC1": 1000,
     "craftCostC2": 250,
-    "removalCostC2": 300
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 3,
@@ -34,7 +34,7 @@
     "craftSuccessChance": 60,
     "craftCostC1": 2500,
     "craftCostC2": 550,
-    "removalCostC2": 400
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 4,
@@ -44,7 +44,7 @@
     "craftSuccessChance": 40,
     "craftCostC1": 5000,
     "craftCostC2": 950,
-    "removalCostC2": 500
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 5,
@@ -54,7 +54,7 @@
     "craftSuccessChance": 20,
     "craftCostC1": 7500,
     "craftCostC2": 1250,
-    "removalCostC2": 1000
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 6,
@@ -64,7 +64,7 @@
     "craftSuccessChance": 10,
     "craftCostC1": 10000,
     "craftCostC2": 2500,
-    "removalCostC2": 2000
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 7,
@@ -74,7 +74,7 @@
     "craftSuccessChance": 8,
     "craftCostC1": 15000,
     "craftCostC2": 12500,
-    "removalCostC2": 3000
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 8,
@@ -84,7 +84,7 @@
     "craftSuccessChance": 4,
     "craftCostC1": 25000,
     "craftCostC2": 25000,
-    "removalCostC2": 5000
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 9,
@@ -94,7 +94,7 @@
     "craftSuccessChance": 2,
     "craftCostC1": 35000,
     "craftCostC2": 50000,
-    "removalCostC2": 7500
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 10,
@@ -104,7 +104,7 @@
     "craftSuccessChance": 2,
     "craftCostC1": 45000,
     "craftCostC2": 75000,
-    "removalCostC2": 10000
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 11,
@@ -114,7 +114,7 @@
     "craftSuccessChance": 2,
     "craftCostC1": 70000,
     "craftCostC2": 150000,
-    "removalCostC2": 15000
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 12,
@@ -124,13 +124,13 @@
     "craftSuccessChance": 2,
     "craftCostC1": 105000,
     "craftCostC2": 225000,
-    "removalCostC2": 17500
+    "removalCostC2": 200
   },
   {
     "gemLevelID": 13,
     "crossplayID": 13,
     "saleValue": 11000,
     "insertCostC1": 80000,
-    "removalCostC2": 20000
+    "removalCostC2": 200
   }
 ]

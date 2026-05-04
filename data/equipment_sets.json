@@ -4689,5 +4689,173 @@
     "setID": 1096,
     "neededItems": 9,
     "effects": "190&amp;3"
+  },
+  {
+    "ID": 636,
+    "comment1": "9 piece ARE Legendary Dragon set 1",
+    "setID": 1097,
+    "neededItems": 2,
+    "effects": "197&amp;785+250"
+  },
+  {
+    "ID": 637,
+    "comment1": "9 piece ARE Legendary Dragon set 1",
+    "setID": 1097,
+    "neededItems": 3,
+    "effects": "158&amp;380"
+  },
+  {
+    "ID": 638,
+    "comment1": "9 piece ARE Legendary Dragon set 1",
+    "setID": 1097,
+    "neededItems": 4,
+    "effects": "197&amp;785+250"
+  },
+  {
+    "ID": 639,
+    "comment1": "9 piece ARE Legendary Dragon set 1",
+    "setID": 1097,
+    "neededItems": 5,
+    "effects": "164&amp;500"
+  },
+  {
+    "ID": 640,
+    "comment1": "9 piece ARE Legendary Dragon set 1",
+    "setID": 1097,
+    "neededItems": 6,
+    "effects": "196&amp;5"
+  },
+  {
+    "ID": 641,
+    "comment1": "9 piece ARE Legendary Dragon set 1",
+    "setID": 1097,
+    "neededItems": 7,
+    "effects": "162&amp;380"
+  },
+  {
+    "ID": 642,
+    "comment1": "9 piece ARE Legendary Dragon set 1",
+    "setID": 1097,
+    "neededItems": 8,
+    "effects": "196&amp;5"
+  },
+  {
+    "ID": 643,
+    "comment1": "9 piece ARE Legendary Dragon set 1",
+    "setID": 1097,
+    "neededItems": 9,
+    "effects": "159&amp;350"
+  },
+  {
+    "ID": 644,
+    "comment1": "9 piece ARE Legendary Dragon set 2",
+    "setID": 1098,
+    "neededItems": 2,
+    "effects": "197&amp;785+500"
+  },
+  {
+    "ID": 645,
+    "comment1": "9 piece ARE Legendary Dragon set 2",
+    "setID": 1098,
+    "neededItems": 3,
+    "effects": "158&amp;600"
+  },
+  {
+    "ID": 646,
+    "comment1": "9 piece ARE Legendary Dragon set 2",
+    "setID": 1098,
+    "neededItems": 4,
+    "effects": "197&amp;785+500"
+  },
+  {
+    "ID": 647,
+    "comment1": "9 piece ARE Legendary Dragon set 2",
+    "setID": 1098,
+    "neededItems": 5,
+    "effects": "164&amp;790"
+  },
+  {
+    "ID": 648,
+    "comment1": "9 piece ARE Legendary Dragon set 2",
+    "setID": 1098,
+    "neededItems": 6,
+    "effects": "196&amp;10"
+  },
+  {
+    "ID": 649,
+    "comment1": "9 piece ARE Legendary Dragon set 2",
+    "setID": 1098,
+    "neededItems": 7,
+    "effects": "162&amp;600"
+  },
+  {
+    "ID": 650,
+    "comment1": "9 piece ARE Legendary Dragon set 2",
+    "setID": 1098,
+    "neededItems": 8,
+    "effects": "196&amp;10"
+  },
+  {
+    "ID": 651,
+    "comment1": "9 piece ARE Legendary Dragon set 2",
+    "setID": 1098,
+    "neededItems": 9,
+    "effects": "159&amp;555"
+  },
+  {
+    "ID": 652,
+    "comment1": "9 piece ARE Legendary Dragon set 3",
+    "setID": 1099,
+    "neededItems": 2,
+    "effects": "197&amp;785+750"
+  },
+  {
+    "ID": 653,
+    "comment1": "9 piece ARE Legendary Dragon set 3",
+    "setID": 1099,
+    "neededItems": 3,
+    "effects": "158&amp;825"
+  },
+  {
+    "ID": 654,
+    "comment1": "9 piece ARE Legendary Dragon set 3",
+    "setID": 1099,
+    "neededItems": 4,
+    "effects": "197&amp;785+750"
+  },
+  {
+    "ID": 655,
+    "comment1": "9 piece ARE Legendary Dragon set 3",
+    "setID": 1099,
+    "neededItems": 5,
+    "effects": "164&amp;1080"
+  },
+  {
+    "ID": 656,
+    "comment1": "9 piece ARE Legendary Dragon set 3",
+    "setID": 1099,
+    "neededItems": 6,
+    "effects": "196&amp;15"
+  },
+  {
+    "ID": 657,
+    "comment1": "9 piece ARE Legendary Dragon set 3",
+    "setID": 1099,
+    "neededItems": 7,
+    "effects": "162&amp;825"
+  },
+  {
+    "ID": 658,
+    "comment1": "9 piece ARE Legendary Dragon set 3",
+    "setID": 1099,
+    "neededItems": 8,
+    "effects": "196&amp;15"
+  },
+  {
+    "ID": 659,
+    "comment1": "9 piece ARE Legendary Dragon set 3",
+    "setID": 1099,
+    "neededItems": 9,
+    "effects": "159&amp;760"
   }
 ]

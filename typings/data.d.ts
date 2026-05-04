@@ -1349,6 +1349,7 @@ export interface Equipment {
     "reuseAssetOfEquipmentID"?: number;
     "sellC1"?: number;
     "sellPriceOverride"?: number;
+    "sellRiftShard"?: number;
     "setID"?: number;
     "skinID"?: number;
     "slotID": number;
@@ -1787,6 +1788,7 @@ export interface Gem {
     "reuseAssetOfGemID"?: number;
     "sellC1"?: number;
     "sellPriceOverride"?: number;
+    "sellRiftShard"?: number;
     "setID"?: number;
     "starLevel"?: number;
     "starRarity"?: number;
@@ -2265,11 +2267,12 @@ export interface MainQuest {
 export interface Map {
     "animation": {
         "asset": {
-            "asset": string;
+            "asset"?: string;
+            "assetAffix"?: string;
             "gateReg"?: number;
+            "isKeep"?: number;
             "leftWallReg"?: number;
             "rightWallReg"?: number;
-            "stages"?: string;
             "target": string;
         }[];
         "linkageId": string;
@@ -2567,6 +2570,7 @@ export interface Package {
     "costPearlRelic"?: number;
     "costPiratesLTPEToken"?: number;
     "costRiftCoin"?: number;
+    "costRiftShard"?: number;
     "costSamuraiMedal"?: number;
     "costSamuraiToken"?: number;
     "costSceatToken"?: number;
@@ -2859,6 +2863,7 @@ export interface RaidBossStage {
     "attackerPostBattleEffects"?: string;
     "courtyardPointFactor": number;
     "defenderBattleEffects": string;
+    "defenderPostBattleEffects"?: string;
     "defenderStageEffects"?: string;
     "defenderWallRegenerationEffects"?: string;
     "frontWallUnits": string;

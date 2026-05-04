@@ -1288,6 +1288,13 @@
     "assetName": "CarnivalMask"
   },
   {
+    "currencyID": 88,
+    "crossplayID": 88,
+    "Name": "RiftShard",
+    "JSONKey": "RSH",
+    "assetName": "RiftShard"
+  },
+  {
     "currencyID": 100000,
     "crossplayID": 100000,
     "Name": "DecoDust",

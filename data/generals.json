@@ -475,5 +475,44 @@
     "isPreview": 0,
     "isNPCGeneral": 1,
     "isHiddenInOverview": 1
+  },
+  {
+    "generalID": 134,
+    "crossplayID": 134,
+    "generalName": "RaidBoss3Full",
+    "generalRarityID": 4,
+    "maxLevel": 100,
+    "maxStarLevel": 10,
+    "unlockCurrencyID": 10000,
+    "upgradeCurrencyIDs": "10000,10000",
+    "isPreview": 0,
+    "isNPCGeneral": 1,
+    "isHiddenInOverview": 1
+  },
+  {
+    "generalID": 135,
+    "crossplayID": 135,
+    "generalName": "RaidBoss3Mid",
+    "generalRarityID": 4,
+    "maxLevel": 100,
+    "maxStarLevel": 10,
+    "unlockCurrencyID": 10000,
+    "upgradeCurrencyIDs": "10000,10000",
+    "isPreview": 0,
+    "isNPCGeneral": 1,
+    "isHiddenInOverview": 1
+  },
+  {
+    "generalID": 136,
+    "crossplayID": 136,
+    "generalName": "RaidBoss3Low",
+    "generalRarityID": 4,
+    "maxLevel": 100,
+    "maxStarLevel": 10,
+    "unlockCurrencyID": 10000,
+    "upgradeCurrencyIDs": "10000,10000",
+    "isPreview": 0,
+    "isNPCGeneral": 1,
+    "isHiddenInOverview": 1
   }
 ]

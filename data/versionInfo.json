@@ -1,7 +1,7 @@
 {
-  "version": "769.RC.01",
-  "date": "16/04/2026 13:57:02",
+  "version": "770.RC.05",
+  "date": "29/04/2026 15:00:36",
   "included": {
-    "features": "Live,Anubis,DonationEventUpdate26,GloryAMEQuests,PPTnonPUsReactivation,TypeID16EffectCap"
+    "features": "Live,Basilisk,ARE3Effects,ARE3Units,ARE3Tools,ARE3Level,ARE3Items,RiftShardCurrency,RiftShardSelling"
   }
 }

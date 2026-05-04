@@ -121,6 +121,10 @@
     "name": "Coins"
   },
   {
+    "categoryID": 123,
+    "name": "RiftShard"
+  },
+  {
     "categoryID": 999,
     "name": "Overall",
     "sortOrder": 1

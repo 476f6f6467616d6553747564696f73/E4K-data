@@ -2443,5 +2443,40 @@
     "effectID": 486,
     "wearerID": 2,
     "name": "newPVPAttackBonusUnitBeef"
+  },
+  {
+    "equipmentEffectID": 193,
+    "crossplayID": 193,
+    "effectID": 494,
+    "wearerID": 2,
+    "name": "raidBossWallRegenerationDelayLeftLegendaryDragon"
+  },
+  {
+    "equipmentEffectID": 194,
+    "crossplayID": 194,
+    "effectID": 495,
+    "wearerID": 2,
+    "name": "raidBossWallRegenerationDelayFrontLegendaryDragon"
+  },
+  {
+    "equipmentEffectID": 195,
+    "crossplayID": 195,
+    "effectID": 496,
+    "wearerID": 2,
+    "name": "raidBossWallRegenerationDelayRightLegendaryDragon"
+  },
+  {
+    "equipmentEffectID": 196,
+    "crossplayID": 196,
+    "effectID": 497,
+    "wearerID": 2,
+    "name": "raidBossWallRegenerationDelayAllLegendaryDragon"
+  },
+  {
+    "equipmentEffectID": 197,
+    "crossplayID": 197,
+    "effectID": 493,
+    "wearerID": 2,
+    "name": "AREreserveUnitKillLegendaryDragon"
   }
 ]
