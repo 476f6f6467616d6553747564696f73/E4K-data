@@ -1,6 +1,6 @@
 {
-  "version": "770.RC.05",
-  "date": "29/04/2026 15:00:36",
+  "version": "770.RC.06",
+  "date": "04/05/2026 15:44:14",
   "included": {
     "features": "Live,Basilisk,ARE3Effects,ARE3Units,ARE3Tools,ARE3Level,ARE3Items,RiftShardCurrency,RiftShardSelling"
   }
