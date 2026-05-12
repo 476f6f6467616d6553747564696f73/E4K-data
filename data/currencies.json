@@ -1295,6 +1295,13 @@
     "assetName": "RiftShard"
   },
   {
+    "currencyID": 89,
+    "crossplayID": 89,
+    "Name": "OfferingShard",
+    "JSONKey": "OFS",
+    "assetName": "OfferingShard"
+  },
+  {
     "currencyID": 100000,
     "crossplayID": 100000,
     "Name": "DecoDust",

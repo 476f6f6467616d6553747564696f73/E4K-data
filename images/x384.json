@@ -90404,6 +90404,81 @@
     ],
     "fx": []
   },
+  "icon_advisor_berimond_big_ds": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_berimond_big_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 119,
+        "rx": 947,
+        "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_berimond_ds": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_berimond_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 61,
+        "rx": 972,
+        "ry": 968
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_berimond_tower_blue": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_berimond_tower_blue.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 85,
+        "rx": 952,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_berimond_tower_red": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_berimond_tower_red.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 84,
+        "rx": 952,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_berimond_xs_ds": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_berimond_xs_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 36,
+        "rx": 984,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
   "icon_advisor_nomad_big_ds": {
     "pid": 1,
     "url": "x384/Icons/AdvisorIcons/icon_advisor_nomad_big_ds.png",
@@ -93190,6 +93265,81 @@
         "h": 29,
         "rx": 982,
         "ry": 985
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BerimondAdvisorToken_big": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BerimondAdvisorToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 57,
+        "rx": 971,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BerimondAdvisorToken_ds": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BerimondAdvisorToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BerimondAdvisorToken_medium_ds": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BerimondAdvisorToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 43,
+        "rx": 978,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BerimondAdvisorToken_small": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BerimondAdvisorToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 18,
+        "rx": 991,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BerimondAdvisorToken": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BerimondAdvisorToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 33,
+        "rx": 983,
+        "ry": 983
       }
     ],
     "fx": []
@@ -98905,6 +99055,66 @@
         "h": 35,
         "rx": 983,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_OfferingShard_big": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_OfferingShard_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 57,
+        "rx": 971,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_OfferingShard_ds": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_OfferingShard_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 34,
+        "rx": 983,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_OfferingShard_small": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_OfferingShard_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 18,
+        "rx": 991,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_OfferingShard": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_OfferingShard.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 31,
+        "rx": 984,
+        "ry": 984
       }
     ],
     "fx": []
@@ -113264,6 +113474,21 @@
     ],
     "fx": []
   },
+  "icon_failure_0_berimond": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_failure_0_berimond.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 121,
+        "rx": 939,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
   "icon_failure_0_nomad": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_failure_0_nomad.png",
@@ -115225,6 +115450,21 @@
         "h": 74,
         "rx": 958,
         "ry": 963
+      }
+    ],
+    "fx": []
+  },
+  "icon_hud_advisor_berimond": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_hud_advisor_berimond.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 62,
+        "rx": 969,
+        "ry": 969
       }
     ],
     "fx": []
@@ -123629,6 +123869,21 @@
     ],
     "fx": []
   },
+  "icon_berimond_small": {
+    "pid": 1,
+    "url": "x384/Icons/IconsShared/icon_berimond_small_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 31,
+        "rx": 984,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
   "icon_builder_tab": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_builder_medium_ds_Shared.png",
@@ -124930,6 +125185,36 @@
         "h": 45,
         "rx": 978,
         "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_OfferingShard_medium_ds": {
+    "pid": 2,
+    "url": "x384/Icons/IconsShared/icon_currency_OfferingShard_medium_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 44,
+        "rx": 978,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "icon_package_category_124": {
+    "pid": 2,
+    "url": "x384/Icons/IconsShared/icon_currency_OfferingShard_medium_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 44,
+        "rx": 978,
+        "ry": 978
       }
     ],
     "fx": []
@@ -133169,21 +133454,6 @@
     ],
     "fx": []
   },
-  "icon_berimond_small": {
-    "pid": 1,
-    "url": "x384/Kingdoms/Kingdoms/icon_berimond_small.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 31,
-        "h": 31,
-        "rx": 984,
-        "ry": 984
-      }
-    ],
-    "fx": []
-  },
   "icon_burningsands_paper_dark": {
     "pid": 1,
     "url": "x384/Kingdoms/Kingdoms/icon_burningsands_paper_dark.png",
@@ -134320,6 +134590,21 @@
         "h": 39,
         "rx": 984,
         "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "icon_message_advisor_berimond": {
+    "pid": 1,
+    "url": "x384/Kingdoms/KingdomsShared/icon_message_advisor_berimond_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
       }
     ],
     "fx": []
@@ -138764,6 +139049,36 @@
     ],
     "fx": []
   },
+  "teaser_advisor_berimond_activation": {
+    "pid": 1,
+    "url": "x384/Misc/AdvisorTeasers/teaser_advisor_berimond_activation.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 344,
+        "rx": 694,
+        "ry": 828
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_berimond_attack_success": {
+    "pid": 1,
+    "url": "x384/Misc/AdvisorTeasers/teaser_advisor_berimond_attack_success.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 207,
+        "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
   "teaser_advisor_nomad_activation": {
     "pid": 1,
     "url": "x384/Misc/AdvisorTeasers/teaser_advisor_nomad_activation.png",
@@ -138842,6 +139157,36 @@
   "teaser_advisor_samurai_attack_success": {
     "pid": 1,
     "url": "x384/Misc/AdvisorTeasers/teaser_advisor_samurai_attack_success.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 207,
+        "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_berimond_attack_fail": {
+    "pid": 1,
+    "url": "x384/Misc/AdvisorTeasersShared/teaser_advisor_berimond_attack_cancel_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 207,
+        "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_berimond_attack_cancel": {
+    "pid": 1,
+    "url": "x384/Misc/AdvisorTeasersShared/teaser_advisor_berimond_attack_cancel_Shared.png",
     "frames": [
       {
         "x": 0,

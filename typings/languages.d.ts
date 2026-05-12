@@ -2513,8 +2513,11 @@ export interface Language {
         "advisor_AttackSummary_pending": string;
         "advisor_AttackSummary_stopped": string;
         "advisor_AttackSummary_victory": string;
+        "advisor_Berimond_Gallantry_Points_Collected": string;
+        "advisor_Berimond_JoinFirst": string;
         "advisor_attack": string;
         "advisor_attackInfo": string;
+        "advisor_speechBubble_berimond": string;
         "advisor_speechBubble_samurai": string;
         "alert_OverwriteOldAccount_details_copy": string;
         "alert_account_deleted_goLoginScreen": string;
@@ -2614,6 +2617,7 @@ export interface Language {
         "bundlePackage_short_info": string;
         "bundlePackage_type_equipmentBundle": string;
         "burningBuildings": string;
+        "button_SelectCamp_berimond": string;
         "button_SelectCamp_nomad": string;
         "button_SelectCamp_samurai": string;
         "button_activateAdvisor": string;
@@ -2926,6 +2930,7 @@ export interface Language {
         "currency_description_BeadBowlBoosterKey": string;
         "currency_description_Beads": string;
         "currency_description_Bees": string;
+        "currency_description_BerimondAdvisorToken": string;
         "currency_description_BusyBeesBoosterKey": string;
         "currency_description_CastlePassageToken": string;
         "currency_description_CommonBricks": string;
@@ -2961,6 +2966,7 @@ export interface Language {
         "currency_description_LegendaryToken": string;
         "currency_description_LuckySlice": string;
         "currency_description_MerchantsKey": string;
+        "currency_description_OfferingShard": string;
         "currency_description_PearlRelic": string;
         "currency_description_QuestTicket": string;
         "currency_description_RareFlint": string;
@@ -3032,6 +3038,7 @@ export interface Language {
         "currency_name_BeadBowlBoosterKey": string;
         "currency_name_Beads": string;
         "currency_name_Bees": string;
+        "currency_name_BerimondAdvisorToken": string;
         "currency_name_BusyBeesBoosterKey": string;
         "currency_name_CastlePassageToken": string;
         "currency_name_DailyDutyPoints": string;
@@ -3148,6 +3155,7 @@ export interface Language {
         "deco_slayingOfTheWolves_name": string;
         "deco_tamingOfTheWolves_name": string;
         "decorationType": string;
+        "description_advisorInformation_berimond": string;
         "description_advisorInformation_samurai": string;
         "dialog_AllianceLevel_landmarksCapitals": string;
         "dialog_AllianceLevel_landmarksLaboratories": string;
@@ -3967,6 +3975,7 @@ export interface Language {
         "dialog_are_highlightedeffect_description_raidBossWallRegeneration": string;
         "dialog_are_highlightedeffect_name_AREspawnReserveUnit": string;
         "dialog_are_highlightedeffect_name_infectionRateBaseBonus": string;
+        "dialog_are_highlightedeffect_name_mutateReserveUnitLegendaryDragon": string;
         "dialog_are_highlightedeffect_name_raidBossWallRegeneration": string;
         "dialog_are_infoBoss_healthBar_tooltip_e4k_FungalSwarm": string;
         "dialog_are_infoBoss_healthBar_tooltip_e4k_LegendaryDragon": string;
@@ -11020,6 +11029,8 @@ export interface Language {
         "ingame_server_outage_mail_upgradeMode": string;
         "ingame_server_outage_title": string;
         "instantBuild_skipBuilding_text_v2": string;
+        "intro_advisor_berimond": string;
+        "intro_advisor_berimond_short": string;
         "intro_advisor_nomad_short": string;
         "intro_advisor_samurai": string;
         "intro_advisor_samurai_short": string;
@@ -12563,6 +12574,7 @@ export interface Language {
         "title_advisor_AttackOverview": string;
         "title_advisor_AttackSummary": string;
         "title_advisor_activate": string;
+        "title_advisor_berimond": string;
         "title_advisor_buyToken": string;
         "title_advisor_freeToken": string;
         "title_advisor_nomad": string;
@@ -12789,6 +12801,9 @@ export interface Language {
         "webShop_tokenExpired_desc": string;
         "webShop_unexpectedError_desc": string;
         "webshop_ARE_GateDebuffPremium_desc": string;
+        "webshop_ARE_ObsidianFlanksRegenCDTools_desc": string;
+        "webshop_ARE_ObsidianMeleeDefenseSTRTools_desc": string;
+        "webshop_ARE_ObsidianRangedDefenseSTRTools_desc": string;
         "webshop_ARE_SporeAllFlanksRegenerationTools_desc": string;
         "webshop_ARE_SporeGateRegenerationTools_desc": string;
         "webshop_ARE_SporeLeftWallRegenerationTools_desc": string;
@@ -13851,7 +13866,6 @@ export interface Language {
         "dialog_are_highlightedeffect_description_spawnReserveUnit": string;
         "dialog_are_highlightedeffect_description_spawnReserveUnitLegendaryDragon": string;
         "dialog_are_highlightedeffect_name_mutateReserveUnit": string;
-        "dialog_are_highlightedeffect_name_mutateReserveUnitLegendaryDragon": string;
         "dialog_are_highlightedeffect_name_spawnReserveUnit": string;
         "dialog_are_highlightedeffect_name_spawnReserveUnitLegendaryDragon": string;
         "dialog_battleLogDetail_gemEffekt_gemAttackFameBoost": string;
@@ -15121,6 +15135,8 @@ export interface Language {
         "AREFungalSwarmWallDelayIncreaseRightNormal_short_info": string;
         "AREFungalSwarmWallDelayIncreaseRightStrong_short_info": string;
         "AREFungalSwarmWallDelayIncreaseRightWeak_short_info": string;
+        "ARELegendaryDragonEggKillingToolStrong_short_info": string;
+        "ARELegendaryDragonEggKillingToolWeak_short_info": string;
         "ChristmasArcher_name": string;
         "ChristmasGuardian_name": string;
         "ChristmasHuntress_name": string;
@@ -20200,6 +20216,7 @@ export interface Language {
         "currency_name_LuckyWheelTicket": string;
         "currency_name_NomadAdvisorToken": string;
         "currency_name_OctoberfestLTPEToken": string;
+        "currency_name_OfferingShard": string;
         "currency_name_PearlRelic": string;
         "currency_name_PegasusTicket": string;
         "currency_name_PlayerStatuette": string;
@@ -20277,6 +20294,7 @@ export interface Language {
         "dialog_CoA_tooltip_autoEquip": string;
         "dialog_alliance_temporaryBoost_BGCollectorBoost": string;
         "dialog_alliance_temporaryBoost_BGCollectorBoost_desc": string;
+        "dialog_apprenticeSmith_OfferingShard_desc": string;
         "dialog_apprenticeSmith_RiftCoin_desc": string;
         "dialog_apprenticeSmith_XmasLTPEToken_desc": string;
         "dialog_apprenticeSmith_sceatToken_desc": string;
@@ -26411,9 +26429,7 @@ export interface Language {
         "ARELegendaryDragonEggKillingToolMedium_name": string;
         "ARELegendaryDragonEggKillingToolMedium_short_info": string;
         "ARELegendaryDragonEggKillingToolStrong_name": string;
-        "ARELegendaryDragonEggKillingToolStrong_short_info": string;
         "ARELegendaryDragonEggKillingToolWeak_name": string;
-        "ARELegendaryDragonEggKillingToolWeak_short_info": string;
         "ARELegendaryDragonEgg_name": string;
         "ARELegendaryDragonEgg_short_info": string;
         "ARELegendaryDragonHatchlingKillingToolMedium_name": string;

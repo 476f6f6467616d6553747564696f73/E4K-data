@@ -17070,6 +17070,7 @@
     "setID": 1094,
     "wearerID": 2,
     "slotID": 3,
+    "sellOfferingShard": 1095,
     "effects": "175&amp;140,176&amp;140,177&amp;90",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17081,6 +17082,7 @@
     "setID": 1094,
     "wearerID": 2,
     "slotID": 1,
+    "sellOfferingShard": 1095,
     "effects": "175&amp;140,176&amp;140,177&amp;90",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17092,6 +17094,7 @@
     "setID": 1094,
     "wearerID": 2,
     "slotID": 2,
+    "sellOfferingShard": 1095,
     "effects": "184&amp;10,185&amp;10,179&amp;50",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17103,6 +17106,7 @@
     "setID": 1094,
     "wearerID": 2,
     "slotID": 4,
+    "sellOfferingShard": 1095,
     "effects": "184&amp;10,185&amp;10,179&amp;50",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17114,6 +17118,7 @@
     "setID": 1094,
     "wearerID": 2,
     "slotID": 6,
+    "sellOfferingShard": 1310,
     "effects": "187&amp;120,188&amp;12,178&amp;50",
     "rarenessID": 10,
     "picID": 1465,
@@ -17127,6 +17132,7 @@
     "setID": 1095,
     "wearerID": 2,
     "slotID": 3,
+    "sellOfferingShard": 1685,
     "effects": "175&amp;175,176&amp;175,177&amp;115",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17138,6 +17144,7 @@
     "setID": 1095,
     "wearerID": 2,
     "slotID": 1,
+    "sellOfferingShard": 1685,
     "effects": "175&amp;175,176&amp;175,177&amp;115",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17149,6 +17156,7 @@
     "setID": 1095,
     "wearerID": 2,
     "slotID": 2,
+    "sellOfferingShard": 1685,
     "effects": "184&amp;13,185&amp;13,179&amp;60",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17160,6 +17168,7 @@
     "setID": 1095,
     "wearerID": 2,
     "slotID": 4,
+    "sellOfferingShard": 1685,
     "effects": "184&amp;13,185&amp;13,179&amp;60",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17171,6 +17180,7 @@
     "setID": 1095,
     "wearerID": 2,
     "slotID": 6,
+    "sellOfferingShard": 337880,
     "effects": "187&amp;150,188&amp;25,178&amp;75",
     "rarenessID": 10,
     "picID": 1470,
@@ -17184,6 +17194,7 @@
     "setID": 1096,
     "wearerID": 2,
     "slotID": 3,
+    "sellOfferingShard": 100860,
     "effects": "175&amp;210,176&amp;210,177&amp;135",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17195,6 +17206,7 @@
     "setID": 1096,
     "wearerID": 2,
     "slotID": 1,
+    "sellOfferingShard": 100860,
     "effects": "175&amp;210,176&amp;210,177&amp;135",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17206,6 +17218,7 @@
     "setID": 1096,
     "wearerID": 2,
     "slotID": 2,
+    "sellOfferingShard": 100860,
     "effects": "184&amp;15,185&amp;15,179&amp;75",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17217,6 +17230,7 @@
     "setID": 1096,
     "wearerID": 2,
     "slotID": 4,
+    "sellOfferingShard": 100860,
     "effects": "184&amp;15,185&amp;15,179&amp;75",
     "mightValue": 1000,
     "canSlotGem": 1
@@ -17228,6 +17242,7 @@
     "setID": 1096,
     "wearerID": 2,
     "slotID": 6,
+    "sellOfferingShard": 675770,
     "effects": "187&amp;180,188&amp;38,178&amp;100",
     "rarenessID": 10,
     "picID": 1475,

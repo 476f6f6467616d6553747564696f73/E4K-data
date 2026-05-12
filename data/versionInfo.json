@@ -1,7 +1,7 @@
 {
-  "version": "770.RC.06",
-  "date": "04/05/2026 15:44:14",
+  "version": "772.RC.01",
+  "date": "07/05/2026 12:20:29",
   "included": {
-    "features": "Live,Basilisk,ARE3Effects,ARE3Units,ARE3Tools,ARE3Level,ARE3Items,RiftShardCurrency,RiftShardSelling"
+    "features": "Live,Centaur,GachaRecyclingCurrency"
   }
 }

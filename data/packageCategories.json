@@ -125,6 +125,10 @@
     "name": "RiftShard"
   },
   {
+    "categoryID": 124,
+    "name": "OfferingShard"
+  },
+  {
     "categoryID": 999,
     "name": "Overall",
     "sortOrder": 1

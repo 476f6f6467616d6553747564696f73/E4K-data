@@ -1348,6 +1348,7 @@ export interface Equipment {
     "rarenessID"?: number;
     "reuseAssetOfEquipmentID"?: number;
     "sellC1"?: number;
+    "sellOfferingShard"?: number;
     "sellPriceOverride"?: number;
     "sellRiftShard"?: number;
     "setID"?: number;
@@ -1787,6 +1788,7 @@ export interface Gem {
     "gemLevelID": number;
     "reuseAssetOfGemID"?: number;
     "sellC1"?: number;
+    "sellOfferingShard"?: number;
     "sellPriceOverride"?: number;
     "sellRiftShard"?: number;
     "setID"?: number;
@@ -2567,6 +2569,7 @@ export interface Package {
     "costMayaLTPEToken"?: number;
     "costNewKingLTPEToken"?: number;
     "costOctoberfestLTPEToken"?: number;
+    "costOfferingShard"?: number;
     "costPearlRelic"?: number;
     "costPiratesLTPEToken"?: number;
     "costRiftCoin"?: number;

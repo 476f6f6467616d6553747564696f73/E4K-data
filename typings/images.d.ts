@@ -5610,6 +5610,11 @@ export interface Images {
     "icon_add_rubies": ImageData;
     "icon_add_xl": ImageData;
     "icon_addpenny": ImageData;
+    "icon_advisor_berimond_big_ds": ImageData;
+    "icon_advisor_berimond_ds": ImageData;
+    "icon_advisor_berimond_tower_blue": ImageData;
+    "icon_advisor_berimond_tower_red": ImageData;
+    "icon_advisor_berimond_xs_ds": ImageData;
     "icon_advisor_nomad_big_ds": ImageData;
     "icon_advisor_nomad_camp": ImageData;
     "icon_advisor_nomad_ds": ImageData;
@@ -6133,6 +6138,11 @@ export interface Images {
     "icon_currency_Bees_medium": ImageData;
     "icon_currency_Bees_small": ImageData;
     "icon_currency_Bees_xl": ImageData;
+    "icon_currency_BerimondAdvisorToken": ImageData;
+    "icon_currency_BerimondAdvisorToken_big": ImageData;
+    "icon_currency_BerimondAdvisorToken_ds": ImageData;
+    "icon_currency_BerimondAdvisorToken_medium_ds": ImageData;
+    "icon_currency_BerimondAdvisorToken_small": ImageData;
     "icon_currency_BronzeToken": ImageData;
     "icon_currency_BronzeToken_ds": ImageData;
     "icon_currency_BronzeToken_ds_medium": ImageData;
@@ -6511,6 +6521,11 @@ export interface Images {
     "icon_currency_OctoberfestLTPEToken_medium": ImageData;
     "icon_currency_OctoberfestLTPEToken_small": ImageData;
     "icon_currency_OctoberfestLTPEToken_xl": ImageData;
+    "icon_currency_OfferingShard": ImageData;
+    "icon_currency_OfferingShard_big": ImageData;
+    "icon_currency_OfferingShard_ds": ImageData;
+    "icon_currency_OfferingShard_medium_ds": ImageData;
+    "icon_currency_OfferingShard_small": ImageData;
     "icon_currency_Orange": ImageData;
     "icon_currency_Orange_medium": ImageData;
     "icon_currency_Orange_small": ImageData;
@@ -7302,6 +7317,7 @@ export interface Images {
     "icon_everwinter_paper_dark": ImageData;
     "icon_exchange_flat": ImageData;
     "icon_failure_0": ImageData;
+    "icon_failure_0_berimond": ImageData;
     "icon_failure_0_nomad": ImageData;
     "icon_failure_0_samurai": ImageData;
     "icon_failure_1": ImageData;
@@ -7908,6 +7924,7 @@ export interface Images {
     "icon_horse_c": ImageData;
     "icon_horse_d": ImageData;
     "icon_houseoffire": ImageData;
+    "icon_hud_advisor_berimond": ImageData;
     "icon_hud_advisor_nomad": ImageData;
     "icon_hud_advisor_samurai": ImageData;
     "icon_hud_attack": ImageData;
@@ -8105,6 +8122,7 @@ export interface Images {
     "icon_members_treasurer_small": ImageData;
     "icon_members_war_marshal_small": ImageData;
     "icon_memberslist_small": ImageData;
+    "icon_message_advisor_berimond": ImageData;
     "icon_message_advisor_nomad": ImageData;
     "icon_message_advisor_samurai": ImageData;
     "icon_message_division_change": ImageData;
@@ -8226,6 +8244,7 @@ export interface Images {
     "icon_package_category_121": ImageData;
     "icon_package_category_122": ImageData;
     "icon_package_category_123": ImageData;
+    "icon_package_category_124": ImageData;
     "icon_package_category_20": ImageData;
     "icon_package_category_30": ImageData;
     "icon_package_category_40": ImageData;
@@ -9653,6 +9672,10 @@ export interface Images {
     "teaser_advisor_attack_cancel": ImageData;
     "teaser_advisor_attack_fail": ImageData;
     "teaser_advisor_attack_success": ImageData;
+    "teaser_advisor_berimond_activation": ImageData;
+    "teaser_advisor_berimond_attack_cancel": ImageData;
+    "teaser_advisor_berimond_attack_fail": ImageData;
+    "teaser_advisor_berimond_attack_success": ImageData;
     "teaser_advisor_nomad_activation": ImageData;
     "teaser_advisor_nomad_attack_cancel": ImageData;
     "teaser_advisor_nomad_attack_fail": ImageData;
