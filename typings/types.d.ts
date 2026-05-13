@@ -8,10 +8,13 @@ export * from './languages';
 
 export declare const country: Countries;
 export declare const data: Data;
+export declare const imageDataX384: Images;
 export declare const imageData: Images;
 export declare const imageBaseUrl: string;
+export declare const imageBaseUrlDev: string;
 export declare const languages: Languages;
 export declare const network: Network;
+export declare const networkPreClient: Network;
 
 ///region Country
 export interface Countries {
@@ -52,6 +55,7 @@ export interface Countries {
 }
 
 export interface Country {
+    default?: 0 | 1,
     country: string,
     lang: string,
     flashCode: string,
