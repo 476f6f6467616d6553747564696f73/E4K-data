@@ -5,6 +5,9 @@ name: Node.js Package
 
 on:
   push:
+    branches:
+      - main
+      - develop
 
 permissions:
   id-token: write  # Required for OIDC
@@ -13,6 +16,8 @@ permissions:
 jobs:
   publish-npm:
     runs-on: ubuntu-latest
+    env:
+      DIST_TAG: ${{ github.ref_name == 'main' && 'latest' || 'development' }}
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-node@v6
@@ -20,4 +25,4 @@ jobs:
           node-version: 24
           registry-url: 'https://registry.npmjs.org/'
       - run: npm ci
-      - run: npm publish --tag latest
+      - run: npm publish --tag $DIST_TAG
