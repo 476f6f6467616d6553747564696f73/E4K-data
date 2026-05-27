@@ -1,7 +1,7 @@
 {
-  "version": "772.RC.01",
-  "date": "07/05/2026 12:20:29",
+  "version": "774.RC.01",
+  "date": "21/05/2026 10:04:32",
   "included": {
-    "features": "Live,Centaur,GachaRecyclingCurrency"
+    "features": "Live,Dragon,BerimondAdvisor"
   }
 }

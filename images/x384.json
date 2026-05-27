@@ -8697,6 +8697,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenKiwiRollercoaster": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenKiwiRollercoaster/Deco_Building_ExaltedGreenKiwiRollercoaster.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 227,
+        "rx": 813,
+        "ry": 914
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenLavaMountainOfWrath": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenLavaMountainOfWrath/Deco_Building_ExaltedGreenLavaMountainOfWrath.png",
@@ -8783,6 +8798,36 @@
         "h": 259,
         "rx": 810,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenOrangeTeaPartyRide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenOrangeTeaPartyRide/Deco_Building_ExaltedGreenOrangeTeaPartyRide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 308,
+        "h": 216,
+        "rx": 794,
+        "ry": 925
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenPineappleRide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenPineappleRide/Deco_Building_ExaltedGreenPineappleRide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 157,
+        "h": 137,
+        "rx": 905,
+        "ry": 932
       }
     ],
     "fx": []
@@ -8877,6 +8922,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenStarfruitRotatingSwing": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenStarfruitRotatingSwing/Deco_Building_ExaltedGreenStarfruitRotatingSwing.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 332,
+        "h": 246,
+        "rx": 807,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenSweetSurpriseCake": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenSweetSurpriseCake/Deco_Building_ExaltedGreenSweetSurpriseCake.png",
@@ -8903,6 +8963,21 @@
         "h": 177,
         "rx": 906,
         "ry": 889
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenWatermelonRollercoaster": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenWatermelonRollercoaster/Deco_Building_ExaltedGreenWatermelonRollercoaster.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 201,
+        "rx": 813,
+        "ry": 940
       }
     ],
     "fx": []
@@ -9357,6 +9432,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleKiwiRollercoaster": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleKiwiRollercoaster/Deco_Building_ExaltedPurpleKiwiRollercoaster.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 227,
+        "rx": 813,
+        "ry": 914
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleLavaMountainOfWrath": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleLavaMountainOfWrath/Deco_Building_ExaltedPurpleLavaMountainOfWrath.png",
@@ -9428,6 +9518,36 @@
         "h": 259,
         "rx": 810,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleOrangeTeaPartyRide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleOrangeTeaPartyRide/Deco_Building_ExaltedPurpleOrangeTeaPartyRide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 308,
+        "h": 216,
+        "rx": 794,
+        "ry": 925
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurplePinneapleRide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurplePinneapleRide/Deco_Building_ExaltedPurplePinneapleRide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 157,
+        "h": 137,
+        "rx": 905,
+        "ry": 932
       }
     ],
     "fx": []
@@ -9507,6 +9627,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleStarfruitRotatingSwing": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleStarfruitRotatingSwing/Deco_Building_ExaltedPurpleStarfruitRotatingSwing.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 332,
+        "h": 246,
+        "rx": 807,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleSweetSurpriseCake": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleSweetSurpriseCake/Deco_Building_ExaltedPurpleSweetSurpriseCake.png",
@@ -9533,6 +9668,21 @@
         "h": 177,
         "rx": 906,
         "ry": 889
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleWatermelonRollercoaster": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleWatermelonRollercoaster/Deco_Building_ExaltedPurpleWatermelonRollercoaster.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 201,
+        "rx": 813,
+        "ry": 940
       }
     ],
     "fx": []
@@ -9897,6 +10047,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedKiwiRollercoaster": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedKiwiRollercoaster/Deco_Building_ExaltedRedKiwiRollercoaster.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 227,
+        "rx": 813,
+        "ry": 914
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedLavaMountainOfWrath": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedLavaMountainOfWrath/Deco_Building_ExaltedRedLavaMountainOfWrath.png",
@@ -9968,6 +10133,36 @@
         "h": 259,
         "rx": 810,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedOrangeTeaPartyRide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedOrangeTeaPartyRide/Deco_Building_ExaltedRedOrangeTeaPartyRide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 308,
+        "h": 216,
+        "rx": 794,
+        "ry": 925
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedPinneapleRide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedPinneapleRide/Deco_Building_ExaltedRedPinneapleRide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 157,
+        "h": 137,
+        "rx": 905,
+        "ry": 932
       }
     ],
     "fx": []
@@ -10047,6 +10242,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedStarfruitRotatingSwing": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedStarfruitRotatingSwing/Deco_Building_ExaltedRedStarfruitRotatingSwing.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 332,
+        "h": 246,
+        "rx": 807,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedSweetSurpriseCake": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedSweetSurpriseCake/Deco_Building_ExaltedRedSweetSurpriseCake.png",
@@ -10073,6 +10283,21 @@
         "h": 177,
         "rx": 906,
         "ry": 889
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedWatermelonRollercoaster": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedWatermelonRollercoaster/Deco_Building_ExaltedRedWatermelonRollercoaster.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 201,
+        "rx": 813,
+        "ry": 940
       }
     ],
     "fx": []
@@ -73746,6 +73971,36 @@
     ],
     "fx": []
   },
+  "items_unique_1526": {
+    "pid": 0,
+    "url": "x384/Equipment/Equipment/items_unique_1526.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1527": {
+    "pid": 0,
+    "url": "x384/Equipment/Equipment/items_unique_1527.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "items_unique_treasurechest_sword": {
     "pid": 1,
     "url": "x384/Equipment/Equipment/items_unique_treasurechest_sword.png",
@@ -79041,6 +79296,186 @@
     ],
     "fx": []
   },
+  "items_unique_1528": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1528_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1529": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1529_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1530": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1530_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1531": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1531_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1533": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1533_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1534": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1534_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1535": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1535_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1536": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1536_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1538": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1538_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1539": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1539_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1540": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1540_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1541": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1541_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "items_unique_2005": {
     "pid": 0,
     "url": "x384/Equipment/EquipmentShared/items_unique_2004_Shared.png",
@@ -82022,6 +82457,186 @@
         "h": 50,
         "rx": 977,
         "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_514": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_514.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 49,
+        "rx": 977,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_515": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_515.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 48,
+        "rx": 980,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_516": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_516.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 46,
+        "rx": 977,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_517": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_517.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 47,
+        "rx": 981,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_518": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_518.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 49,
+        "rx": 977,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_519": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_519.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 48,
+        "rx": 980,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_520": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_520.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 46,
+        "rx": 977,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_521": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_521.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 47,
+        "rx": 981,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_522": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_522.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 49,
+        "rx": 977,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_523": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_523.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 48,
+        "rx": 980,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_524": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_524.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 46,
+        "rx": 977,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_525": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_525.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 47,
+        "rx": 981,
+        "ry": 977
       }
     ],
     "fx": []
@@ -86654,6 +87269,51 @@
     ],
     "fx": []
   },
+  "Hero_1532": {
+    "pid": 1,
+    "url": "x384/Heroes/Heroes/Hero_1532.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 56,
+        "rx": 972,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "Hero_1537": {
+    "pid": 1,
+    "url": "x384/Heroes/Heroes/Hero_1537.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 56,
+        "rx": 972,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "Hero_1542": {
+    "pid": 1,
+    "url": "x384/Heroes/Heroes/Hero_1542.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 56,
+        "rx": 972,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
   "relic_equipment_1_6_1": {
     "pid": 1,
     "url": "x384/Heroes/Heroes/relic_equipment_1_6_1.png",
@@ -90404,6 +91064,21 @@
     ],
     "fx": []
   },
+  "icon_advisor_banner_morale": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_banner_morale.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 57,
+        "rx": 974,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
   "icon_advisor_berimond_big_ds": {
     "pid": 1,
     "url": "x384/Icons/AdvisorIcons/icon_advisor_berimond_big_ds.png",
@@ -90441,10 +91116,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 95,
-        "h": 85,
-        "rx": 952,
-        "ry": 957
+        "w": 115,
+        "h": 101,
+        "rx": 942,
+        "ry": 949
       }
     ],
     "fx": []
@@ -90456,10 +91131,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 95,
-        "h": 84,
-        "rx": 952,
-        "ry": 958
+        "w": 115,
+        "h": 101,
+        "rx": 942,
+        "ry": 949
       }
     ],
     "fx": []
@@ -117674,6 +118349,21 @@
     ],
     "fx": []
   },
+  "icon_newshub": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_newshub.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 59,
+        "rx": 967,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
   "icon_nomad_camp": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_nomad_camp.png",
@@ -123865,6 +124555,21 @@
         "h": 51,
         "rx": 974,
         "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisorGainedPoints_berimond": {
+    "pid": 1,
+    "url": "x384/Icons/IconsShared/icon_berimond_small_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 31,
+        "rx": 984,
+        "ry": 984
       }
     ],
     "fx": []
@@ -154867,6 +155572,21 @@
       }
     ]
   },
+  "NewsHubBulletinBoard_Surroundings": {
+    "pid": 0,
+    "url": "x384/Surroundings/NewsHubBulletinBoard_Surroundings/NewsHubBulletinBoard_Surroundings.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 114,
+        "h": 128,
+        "rx": 955,
+        "ry": 937
+      }
+    ],
+    "fx": []
+  },
   "Outpost_Surroundings": {
     "pid": 0,
     "url": "x384/Surroundings/Outpost_Surroundings/Outpost_Surroundings.png",
@@ -157405,6 +158125,51 @@
     ],
     "fx": []
   },
+  "Eventtool_Unit_AREEventCurrencyBoostMedium": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_AREEventCurrencyBoostMedium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 74,
+        "rx": 967,
+        "ry": 963
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREEventCurrencyBoostStrong": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_AREEventCurrencyBoostStrong.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 74,
+        "rx": 967,
+        "ry": 963
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREEventCurrencyBoostWeak": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_AREEventCurrencyBoostWeak.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 74,
+        "rx": 967,
+        "ry": 963
+      }
+    ],
+    "fx": []
+  },
   "Eventtool_Unit_AREFungalSwarmSporeKillingToolMeleeMedium": {
     "pid": 2,
     "url": "x384/Units/UnitAssets/Eventtool_Unit_AREFungalSwarmSporeKillingToolMeleeMedium.png",
@@ -157671,6 +158436,36 @@
         "h": 74,
         "rx": 961,
         "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREGateDebuffCurrencyBoostNormal": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_AREGateDebuffCurrencyBoostNormal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 77,
+        "rx": 966,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREGateDebuffCurrencyBoostPremium": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_AREGateDebuffCurrencyBoostPremium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 73,
+        "rx": 966,
+        "ry": 963
       }
     ],
     "fx": []
@@ -158106,6 +158901,36 @@
         "h": 99,
         "rx": 958,
         "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREWallDebuffCurrencyBoostNormal": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_AREWallDebuffCurrencyBoostNormal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 72,
+        "rx": 976,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_AREWallDebuffCurrencyBoostPremium": {
+    "pid": 2,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_AREWallDebuffCurrencyBoostPremium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 72,
+        "rx": 974,
+        "ry": 964
       }
     ],
     "fx": []
@@ -165542,6 +166367,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_KiwiKeepCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_KiwiKeepCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 45,
+        "rx": 1001,
+        "ry": 997
+      }
+    ],
+    "fx": [
+      {
+        "x": 14,
+        "y": -1,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_LostAnchor": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_LostAnchor.png",
@@ -169769,6 +170617,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_KiwiKeepCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_KiwiKeepCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 92,
+        "rx": 979,
+        "ry": 967
+      }
+    ],
+    "fx": [
+      {
+        "x": 41,
+        "y": -8,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_LostAnchor": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_LostAnchor.png",
@@ -171943,6 +172814,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_KiwiKeepCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_KiwiKeepCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 67,
+        "rx": 991,
+        "ry": 996
+      }
+    ],
+    "fx": [
+      {
+        "x": 1,
+        "y": 5,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_LostAnchor": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_LostAnchor.png",
@@ -174003,6 +174897,29 @@
       {
         "x": 23,
         "y": -3,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_KiwiKeepCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_KiwiKeepCastellan/Outpost_Mapobject_Level_Special_KiwiKeepCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 36,
+        "rx": 1008,
+        "ry": 998
+      }
+    ],
+    "fx": [
+      {
+        "x": 25,
+        "y": 0,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -176477,6 +177394,21 @@
         "h": 74,
         "rx": 986,
         "ry": 985
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_KiwiKeepCastellan": {
+    "pid": 1,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_KiwiKeepCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 93,
+        "rx": 979,
+        "ry": 971
       }
     ],
     "fx": []

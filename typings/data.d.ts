@@ -74,7 +74,6 @@ export interface Data {
     effects: Effect[];
     effecttypes: EffectType[];
     emptyAreas: EmptyArea[];
-    equipments: Equipment[];
     equipment_drops: EquipmentDrop[];
     equipment_effects: EquipmentEffect[];
     equipment_effectstrengths: EquipmentEffectStrength[];
@@ -84,6 +83,7 @@ export interface Data {
     equipment_sets: EquipmentSet[];
     equipment_slots: EquipmentSlot[];
     equipment_wearers: EquipmentWearer[];
+    equipments: Equipment[];
     eventAutoScalingCamps: EventAutoScalingCamp[];
     eventAutoScalingCIs: EventAutoScalingCI[];
     eventAutoScalingDifficulties: EventAutoScalingDifficulty[];
@@ -1335,30 +1335,6 @@ export interface EmptyArea {
     "wallWodId"?: number;
 }
 
-export interface Equipment {
-    "canSlotGem"?: number;
-    "comment1"?: string;
-    "comment2"?: string;
-    "crossplayID"?: number;
-    "duration"?: number;
-    "effects"?: string;
-    "equipmentID": number;
-    "mightValue"?: number;
-    "picID"?: number;
-    "rarenessID"?: number;
-    "reuseAssetOfEquipmentID"?: number;
-    "sellC1"?: number;
-    "sellOfferingShard"?: number;
-    "sellPriceOverride"?: number;
-    "sellRiftShard"?: number;
-    "setID"?: number;
-    "skinID"?: number;
-    "slotID": number;
-    "starLevel"?: number;
-    "starRarity"?: number;
-    "wearerID": number;
-}
-
 export interface EquipmentDrop {
     "areaTypeID": number | string;
     "dropChance": number;
@@ -1452,6 +1428,30 @@ export interface EquipmentWearer {
     "crossplayID": number;
     "dropRate": number;
     "name": string;
+    "wearerID": number;
+}
+
+export interface Equipment {
+    "canSlotGem"?: number;
+    "comment1"?: string;
+    "comment2"?: string;
+    "crossplayID"?: number;
+    "duration"?: number;
+    "effects"?: string;
+    "equipmentID": number;
+    "mightValue"?: number;
+    "picID"?: number;
+    "rarenessID"?: number;
+    "reuseAssetOfEquipmentID"?: number;
+    "sellC1"?: number;
+    "sellOfferingShard"?: number;
+    "sellPriceOverride"?: number;
+    "sellRiftShard"?: number;
+    "setID"?: number;
+    "skinID"?: number;
+    "slotID": number;
+    "starLevel"?: number;
+    "starRarity"?: number;
     "wearerID": number;
 }
 

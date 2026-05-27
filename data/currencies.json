@@ -1302,6 +1302,13 @@
     "assetName": "OfferingShard"
   },
   {
+    "currencyID": 90,
+    "crossplayID": 90,
+    "Name": "BerimondAdvisorToken",
+    "JSONKey": "BERAT",
+    "assetName": "BerimondAdvisorToken"
+  },
+  {
     "currencyID": 100000,
     "crossplayID": 100000,
     "Name": "DecoDust",

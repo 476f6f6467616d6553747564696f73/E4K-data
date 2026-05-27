@@ -429,5 +429,20 @@
     "height": 8,
     "kIDs": 0,
     "maxLevel": 99
+  },
+  {
+    "wodID": 900332,
+    "group": "Surroundings",
+    "name": "NewsHubBulletinBoard",
+    "type": "-",
+    "level": 1,
+    "layerType": "isoObject",
+    "gridOrigin": "BOTTOM_RIGHT",
+    "gridOffsetX": -15,
+    "gridOffsetY": 27,
+    "width": 2,
+    "height": 2,
+    "maxLevel": 99,
+    "requiredLevel": 1
   }
 ]
