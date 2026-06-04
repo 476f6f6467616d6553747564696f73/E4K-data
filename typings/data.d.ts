@@ -1746,8 +1746,8 @@ export interface GachaEvent {
     "costSoldierBiscuit"?: number;
     "costSweetTreat"?: number;
     "eventID": number;
-    "freeChestResetTime": number;
-    "freeChestRewardID": number;
+    "freeChestResetTime"?: number;
+    "freeChestRewardID"?: number;
     "gachaID": number;
     "gachaLevel": number;
     "leagueTypeIDs": number;

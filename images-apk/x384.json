@@ -93224,6 +93224,96 @@
     ],
     "fx": []
   },
+  "icon_currency_ARMEQuestTicket_big": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_ARMEQuestTicket_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 57,
+        "rx": 978,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ARMEQuestTicket_ds": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_ARMEQuestTicket_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 35,
+        "rx": 986,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ARMEQuestTicket_medium": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_ARMEQuestTicket_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 43,
+        "rx": 983,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ARMEQuestTicket_small": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_ARMEQuestTicket_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 17,
+        "rx": 993,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ARMEQuestTicket_xl": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_ARMEQuestTicket_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 84,
+        "rx": 968,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ARMEQuestTicket": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_ARMEQuestTicket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 35,
+        "rx": 986,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_AshiraToken_big": {
     "pid": 0,
     "url": "x384/Icons/CurrencyIcons/icon_currency_AshiraToken_big.png",
@@ -100930,6 +101020,66 @@
         "h": 32,
         "rx": 984,
         "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RiftPoint_big": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_RiftPoint_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 57,
+        "rx": 974,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RiftPoint_medium": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_RiftPoint_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 43,
+        "rx": 980,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RiftPoint_small": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_RiftPoint_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 18,
+        "rx": 991,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RiftPoint": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_RiftPoint.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 33,
+        "rx": 984,
+        "ry": 983
       }
     ],
     "fx": []
@@ -109425,7 +109575,7 @@
     "fx": []
   },
   "icon_ame_event_tab": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Icons/Icons/icon_ame_event_tab.png",
     "frames": [
       {
@@ -109529,8 +109679,98 @@
     ],
     "fx": []
   },
+  "icon_ame_quest_buyCurrency_completed": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_ame_quest_buyCurrency_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 53,
+        "rx": 971,
+        "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_buyCurrency": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_ame_quest_buyCurrency.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 53,
+        "rx": 971,
+        "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_completeAttack_completed": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_ame_quest_completeAttack_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 57,
+        "rx": 974,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_completeAttack": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_ame_quest_completeAttack.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 57,
+        "rx": 974,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_consumeTool_completed": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_ame_quest_consumeTool_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 57,
+        "rx": 972,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_consumeTool": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_ame_quest_consumeTool.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 57,
+        "rx": 972,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
   "icon_ame_quest_defeatTarget_completed": {
-    "pid": 1,
+    "pid": 2,
     "url": "x384/Icons/Icons/icon_ame_quest_defeatTarget_completed.png",
     "frames": [
       {
@@ -109545,7 +109785,7 @@
     "fx": []
   },
   "icon_ame_quest_defeatTarget": {
-    "pid": 1,
+    "pid": 2,
     "url": "x384/Icons/Icons/icon_ame_quest_defeatTarget.png",
     "frames": [
       {
@@ -109555,6 +109795,36 @@
         "h": 47,
         "rx": 976,
         "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_killUnits_completed": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_ame_quest_killUnits_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 54,
+        "rx": 971,
+        "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_killUnits": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_ame_quest_killUnits.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 54,
+        "rx": 971,
+        "ry": 973
       }
     ],
     "fx": []
@@ -109619,6 +109889,36 @@
     ],
     "fx": []
   },
+  "icon_ame_quest_obtainRiftPoint_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_obtainRiftPoint_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 57,
+        "rx": 972,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_obtainRiftPoint": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_obtainRiftPoint.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 57,
+        "rx": 972,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
   "icon_ame_quest_obtainUnits_completed": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_ame_quest_obtainUnits_completed.png",
@@ -109645,6 +109945,36 @@
         "h": 47,
         "rx": 971,
         "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_openLootBox_completed": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_ame_quest_openLootBox_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 46,
+        "rx": 971,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_openLootBox": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_ame_quest_openLootBox.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 46,
+        "rx": 971,
+        "ry": 977
       }
     ],
     "fx": []
@@ -109770,7 +110100,7 @@
     "fx": []
   },
   "icon_ame_rules_tab": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Icons/Icons/icon_ame_rules_tab.png",
     "frames": [
       {
@@ -109825,6 +110155,36 @@
         "h": 35,
         "rx": 983,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_are_event_tab": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_are_event_tab.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 50,
+        "rx": 975,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_are_rules_tab": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_are_rules_tab.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 48,
+        "rx": 975,
+        "ry": 976
       }
     ],
     "fx": []
@@ -127199,6 +127559,36 @@
     ],
     "fx": []
   },
+  "icon_effect_currencyLootBoost_ds": {
+    "pid": 1,
+    "url": "x384/Icons/IconsShared/icon_effect_currencyLootBoost_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 37,
+        "rx": 978,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_currencyLootBoost": {
+    "pid": 1,
+    "url": "x384/Icons/IconsShared/icon_effect_currencyLootBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 33,
+        "rx": 979,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_bonusDefencePower": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_effect_defenseBonus_Shared.png",
@@ -140815,6 +141205,201 @@
         "h": 207,
         "rx": 615,
         "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_buyCurrency": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_buyCurrency.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_completeAttack_Necromancer": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_completeAttack_Necromancer.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_completeAttack": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_completeAttack.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_consumeTool_Necromancer": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_consumeTool_Necromancer.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_consumeTool": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_consumeTool.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_killUnits_Necromancer": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_killUnits_Necromancer.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_killUnits": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_killUnits.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_obtainCurrenciesOrResources": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_obtainCurrenciesOrResources.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_obtainRiftPoint_Necromancer": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_obtainRiftPoint_Necromancer.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_obtainRiftPoint": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_obtainRiftPoint.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_obtainUnits": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_obtainUnits.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_openLootBox": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_openLootBox.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_spendCurrenciesOrResources": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_spendCurrenciesOrResources.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
       }
     ],
     "fx": []

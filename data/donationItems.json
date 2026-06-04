@@ -1173,7 +1173,7 @@
     "donationTypeID": 1,
     "currencyID": 28,
     "ratio": 12,
-    "maxPointLimit": 575
+    "maxPointLimit": 550
   },
   {
     "donationItemID": 137,
@@ -1181,8 +1181,8 @@
     "donationItemSetID": 10,
     "donationTypeID": 1,
     "currencyID": 15,
-    "ratio": 8,
-    "maxPointLimit": 605
+    "ratio": 9,
+    "maxPointLimit": 550
   },
   {
     "donationItemID": 138,
@@ -1190,8 +1190,8 @@
     "donationItemSetID": 10,
     "donationTypeID": 1,
     "currencyID": 29,
-    "ratio": 60,
-    "maxPointLimit": 555
+    "ratio": 70,
+    "maxPointLimit": 590
   },
   {
     "donationItemID": 139,
@@ -1199,8 +1199,8 @@
     "donationItemSetID": 10,
     "donationTypeID": 1,
     "currencyID": 13,
-    "ratio": 150,
-    "maxPointLimit": 570
+    "ratio": 160,
+    "maxPointLimit": 590
   },
   {
     "donationItemID": 140,
@@ -1208,7 +1208,7 @@
     "donationItemSetID": 10,
     "donationTypeID": 1,
     "currencyID": 7,
-    "ratio": 550,
+    "ratio": 350,
     "maxPointLimit": 570
   },
   {
@@ -1217,7 +1217,7 @@
     "donationItemSetID": 10,
     "donationTypeID": 1,
     "currencyID": 10,
-    "ratio": 510,
+    "ratio": 580,
     "maxPointLimit": 570
   },
   {
@@ -1226,7 +1226,7 @@
     "donationItemSetID": 10,
     "donationTypeID": 1,
     "currencyID": 1,
-    "ratio": 770,
+    "ratio": 600,
     "maxPointLimit": 570
   },
   {
@@ -1243,7 +1243,7 @@
     "donationItemSetID": 10,
     "donationTypeID": 2,
     "currencyID": 28,
-    "ratio": 4
+    "ratio": 5
   },
   {
     "donationItemID": 145,
@@ -1259,7 +1259,7 @@
     "donationItemSetID": 10,
     "donationTypeID": 2,
     "currencyID": 29,
-    "ratio": 10
+    "ratio": 13
   },
   {
     "donationItemID": 147,
@@ -1267,7 +1267,7 @@
     "donationItemSetID": 10,
     "donationTypeID": 2,
     "currencyID": 13,
-    "ratio": 80
+    "ratio": 45
   },
   {
     "donationItemID": 148,
@@ -1275,7 +1275,7 @@
     "donationItemSetID": 10,
     "donationTypeID": 2,
     "currencyID": 7,
-    "ratio": 3500
+    "ratio": 2000
   },
   {
     "donationItemID": 149,
@@ -1283,7 +1283,7 @@
     "donationItemSetID": 10,
     "donationTypeID": 2,
     "currencyID": 10,
-    "ratio": 6900
+    "ratio": 2300
   },
   {
     "donationItemID": 150,
@@ -1291,7 +1291,7 @@
     "donationItemSetID": 10,
     "donationTypeID": 2,
     "currencyID": 1,
-    "ratio": 3750
+    "ratio": 3000
   },
   {
     "donationItemID": 151,

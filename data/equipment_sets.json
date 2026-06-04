@@ -4857,5 +4857,197 @@
     "setID": 1099,
     "neededItems": 9,
     "effects": "159&amp;760"
+  },
+  {
+    "ID": 660,
+    "comment1": "June 2026 Summer Sales Bronze set",
+    "comment2": "PvP Commander (June 2026) Bronze set",
+    "setID": 1100,
+    "neededItems": 2,
+    "effects": "286&amp;5"
+  },
+  {
+    "ID": 661,
+    "comment1": "June 2026 Summer Sales Bronze set",
+    "comment2": "PvP Commander (June 2026) Bronze set",
+    "setID": 1100,
+    "neededItems": 3,
+    "effects": "274&amp;493+2500"
+  },
+  {
+    "ID": 662,
+    "comment1": "June 2026 Summer Sales Bronze set",
+    "comment2": "PvP Commander (June 2026) Bronze set",
+    "setID": 1100,
+    "neededItems": 4,
+    "effects": "275&amp;5"
+  },
+  {
+    "ID": 663,
+    "comment1": "June 2026 Summer Sales Bronze set",
+    "comment2": "PvP Commander (June 2026) Bronze set",
+    "setID": 1100,
+    "neededItems": 5,
+    "effects": "276&amp;25000"
+  },
+  {
+    "ID": 664,
+    "comment1": "June 2026 Summer Sales Bronze set",
+    "comment2": "PvP Commander (June 2026) Bronze set",
+    "setID": 1100,
+    "neededItems": 6,
+    "effects": "286&amp;10"
+  },
+  {
+    "ID": 665,
+    "comment1": "June 2026 Summer Sales Bronze set",
+    "comment2": "PvP Commander (June 2026) Bronze set",
+    "setID": 1100,
+    "neededItems": 7,
+    "effects": "274&amp;493+7500"
+  },
+  {
+    "ID": 666,
+    "comment1": "June 2026 Summer Sales Bronze set",
+    "comment2": "PvP Commander (June 2026) Bronze set",
+    "setID": 1100,
+    "neededItems": 8,
+    "effects": "275&amp;20"
+  },
+  {
+    "ID": 667,
+    "comment1": "June 2026 Summer Sales Bronze set",
+    "comment2": "PvP Commander (June 2026) Bronze set",
+    "setID": 1100,
+    "neededItems": 9,
+    "effects": "276&amp;75000"
+  },
+  {
+    "ID": 668,
+    "comment1": "June 2026 Summer Sales Silver set",
+    "comment2": "PvP Commander (June 2026) Silver set",
+    "setID": 1101,
+    "neededItems": 2,
+    "effects": "286&amp;7"
+  },
+  {
+    "ID": 669,
+    "comment1": "June 2026 Summer Sales Silver set",
+    "comment2": "PvP Commander (June 2026) Silver set",
+    "setID": 1101,
+    "neededItems": 3,
+    "effects": "274&amp;493+5000"
+  },
+  {
+    "ID": 670,
+    "comment1": "June 2026 Summer Sales Silver set",
+    "comment2": "PvP Commander (June 2026) Silver set",
+    "setID": 1101,
+    "neededItems": 4,
+    "effects": "275&amp;10"
+  },
+  {
+    "ID": 671,
+    "comment1": "June 2026 Summer Sales Silver set",
+    "comment2": "PvP Commander (June 2026) Silver set",
+    "setID": 1101,
+    "neededItems": 5,
+    "effects": "276&amp;50000"
+  },
+  {
+    "ID": 672,
+    "comment1": "June 2026 Summer Sales Silver set",
+    "comment2": "PvP Commander (June 2026) Silver set",
+    "setID": 1101,
+    "neededItems": 6,
+    "effects": "286&amp;12"
+  },
+  {
+    "ID": 673,
+    "comment1": "June 2026 Summer Sales Silver set",
+    "comment2": "PvP Commander (June 2026) Silver set",
+    "setID": 1101,
+    "neededItems": 7,
+    "effects": "274&amp;493+7500"
+  },
+  {
+    "ID": 674,
+    "comment1": "June 2026 Summer Sales Silver set",
+    "comment2": "PvP Commander (June 2026) Silver set",
+    "setID": 1101,
+    "neededItems": 8,
+    "effects": "275&amp;20"
+  },
+  {
+    "ID": 675,
+    "comment1": "June 2026 Summer Sales Silver set",
+    "comment2": "PvP Commander (June 2026) Silver set",
+    "setID": 1101,
+    "neededItems": 9,
+    "effects": "276&amp;75000"
+  },
+  {
+    "ID": 676,
+    "comment1": "June 2026 Summer Sales Gold set",
+    "comment2": "PvP Commander (June 2026) Gold set",
+    "setID": 1102,
+    "neededItems": 2,
+    "effects": "286&amp;10"
+  },
+  {
+    "ID": 677,
+    "comment1": "June 2026 Summer Sales Gold set",
+    "comment2": "PvP Commander (June 2026) Gold set",
+    "setID": 1102,
+    "neededItems": 3,
+    "effects": "274&amp;493+6000"
+  },
+  {
+    "ID": 678,
+    "comment1": "June 2026 Summer Sales Gold set",
+    "comment2": "PvP Commander (June 2026) Gold set",
+    "setID": 1102,
+    "neededItems": 4,
+    "effects": "275&amp;15"
+  },
+  {
+    "ID": 679,
+    "comment1": "June 2026 Summer Sales Gold set",
+    "comment2": "PvP Commander (June 2026) Gold set",
+    "setID": 1102,
+    "neededItems": 5,
+    "effects": "276&amp;60000"
+  },
+  {
+    "ID": 680,
+    "comment1": "June 2026 Summer Sales Gold set",
+    "comment2": "PvP Commander (June 2026) Gold set",
+    "setID": 1102,
+    "neededItems": 6,
+    "effects": "286&amp;18"
+  },
+  {
+    "ID": 681,
+    "comment1": "June 2026 Summer Sales Gold set",
+    "comment2": "PvP Commander (June 2026) Gold set",
+    "setID": 1102,
+    "neededItems": 7,
+    "effects": "274&amp;493+9000"
+  },
+  {
+    "ID": 682,
+    "comment1": "June 2026 Summer Sales Gold set",
+    "comment2": "PvP Commander (June 2026) Gold set",
+    "setID": 1102,
+    "neededItems": 8,
+    "effects": "275&amp;20"
+  },
+  {
+    "ID": 683,
+    "comment1": "June 2026 Summer Sales Gold set",
+    "comment2": "PvP Commander (June 2026) Gold set",
+    "setID": 1102,
+    "neededItems": 9,
+    "effects": "276&amp;90000"
   }
 ]

@@ -4446,6 +4446,150 @@
     "raidBossID": 3
   },
   {
+    "effectID": 515,
+    "crossplayID": 515,
+    "name": "newDefenseWallBonusPVP",
+    "effectTypeID": 6,
+    "capID": 2100,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 516,
+    "crossplayID": 516,
+    "name": "newDefenseBoostFrontPVP",
+    "effectTypeID": 49,
+    "capID": 2101,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 517,
+    "crossplayID": 517,
+    "name": "newPerceptionBonusPVP",
+    "effectTypeID": 3,
+    "capID": 2102,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 518,
+    "crossplayID": 518,
+    "name": "newDefenseMeleeBonusPVP",
+    "effectTypeID": 9,
+    "capID": 2103,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 519,
+    "crossplayID": 519,
+    "name": "newDefenseBonusMainCastlePVP",
+    "effectTypeID": 31,
+    "capID": 2104,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 521,
+    "crossplayID": 521,
+    "name": "newDefenseSupportUnitsPVP",
+    "effectTypeID": 47,
+    "capID": 99,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 522,
+    "crossplayID": 522,
+    "name": "newMeadProductionBoostPVP",
+    "effectTypeID": 164,
+    "capID": 99,
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 523,
+    "crossplayID": 523,
+    "name": "newDefenseUnitAmountYardBonusPVP",
+    "effectTypeID": 181,
+    "capID": 99,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 524,
+    "crossplayID": 524,
+    "name": "newDefenseGateBonusPVP",
+    "effectTypeID": 7,
+    "capID": 2105,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 525,
+    "crossplayID": 525,
+    "name": "newDefenseBoostFlankPVP",
+    "effectTypeID": 50,
+    "capID": 2106,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 526,
+    "crossplayID": 526,
+    "name": "newLootReductionPVP",
+    "effectTypeID": 2,
+    "capID": 2107,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 527,
+    "crossplayID": 527,
+    "name": "newDefenseRangeBonusPVP",
+    "effectTypeID": 10,
+    "capID": 2108,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 528,
+    "crossplayID": 528,
+    "name": "newDefenseBonusNotMainCastlePVP",
+    "effectTypeID": 31,
+    "capID": 2109,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 529,
+    "crossplayID": 529,
+    "name": "newDefenseMoatBonusPVP",
+    "effectTypeID": 8,
+    "capID": 2110,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 530,
+    "crossplayID": 530,
+    "name": "newDefenseUnitAmountWallPVP",
+    "effectTypeID": 12,
+    "capID": 2111,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 531,
+    "crossplayID": 531,
+    "name": "newPublicOrderBonusPVP",
+    "effectTypeID": 123,
+    "capID": 99,
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 532,
+    "crossplayID": 532,
+    "name": "newDefenseBoostYardPVP",
+    "effectTypeID": 32,
+    "capID": 2112,
+    "isPvPFight": 1
+  },
+  {
+    "effectID": 533,
+    "crossplayID": 533,
+    "name": "newDefenseBonusPVP",
+    "effectTypeID": 31,
+    "capID": 2113,
+    "isPvPFight": 1
+  },
+  {
     "effectID": 2101,
     "name": "relicOffensiveMeleeBonus",
     "effectTypeID": 23,

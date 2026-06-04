@@ -1,7 +1,7 @@
 {
-  "version": "774.RC.01",
-  "date": "21/05/2026 10:04:32",
+  "version": "775.RC.02",
+  "date": "03/06/2026 12:43:01",
   "included": {
-    "features": "Live,Dragon,BerimondAdvisor"
+    "features": "Live,Elf,SummerSales,DonationEventJune,SummerSalesFix,SummerGacha,JulyLTPE,AugustLTPE,SeptemberLTPE"
   }
 }
