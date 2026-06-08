@@ -7991,5 +7991,1445 @@
     "maxRank": 1000,
     "rewardIDs": 19390,
     "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 852,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 1,
+    "rewardIDs": 23269,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 853,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 2,
+    "rewardIDs": 23270,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 854,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 3,
+    "rewardIDs": 23271,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 855,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 4-7",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 7,
+    "rewardIDs": 23272,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 856,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 8-15",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 15,
+    "rewardIDs": 23273,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 857,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 16-30",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 30,
+    "rewardIDs": 23274,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 858,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 31-75",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 75,
+    "rewardIDs": 23275,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 859,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 76-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 150,
+    "rewardIDs": 23276,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 860,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 151-225",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 225,
+    "rewardIDs": 23277,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 861,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 226-450",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 450,
+    "rewardIDs": 23278,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 862,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 451-900",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 900,
+    "rewardIDs": 23279,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 863,
+    "comment1": "LTPE July 2026 Lvl 1020",
+    "comment2": "Rank 901-1500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 1500,
+    "rewardIDs": 23280,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 864,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 1,
+    "rewardIDs": 23281,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 865,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 2,
+    "rewardIDs": 23282,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 866,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 3,
+    "rewardIDs": 23283,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 867,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 5,
+    "rewardIDs": 23284,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 868,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 10,
+    "rewardIDs": 23285,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 869,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 20,
+    "rewardIDs": 23286,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 870,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 21-40",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 40,
+    "rewardIDs": 23287,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 871,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 41-70",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 70,
+    "rewardIDs": 23288,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 872,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 71-120",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 120,
+    "rewardIDs": 23289,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 873,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 121-200",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 200,
+    "rewardIDs": 23290,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 874,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 201-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 300,
+    "rewardIDs": 23291,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 875,
+    "comment1": "LTPE July 2026 Lvl 720-1019",
+    "comment2": "Rank 301-500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 500,
+    "rewardIDs": 23292,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 876,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 1,
+    "rewardIDs": 23293,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 877,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 2,
+    "rewardIDs": 23294,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 878,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 3,
+    "rewardIDs": 23295,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 879,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 5,
+    "rewardIDs": 23296,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 880,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 10,
+    "rewardIDs": 23297,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 881,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 20,
+    "rewardIDs": 23298,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 882,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 50,
+    "rewardIDs": 23299,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 883,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 100,
+    "rewardIDs": 23300,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 884,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 150,
+    "rewardIDs": 23301,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 885,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 300,
+    "rewardIDs": 23302,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 886,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 600,
+    "rewardIDs": 23303,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 887,
+    "comment1": "LTPE July 2026 Lvl 270-719",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 1000,
+    "rewardIDs": 23304,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 888,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 1,
+    "rewardIDs": 23305,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 889,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 2,
+    "rewardIDs": 23306,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 890,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 3,
+    "rewardIDs": 23307,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 891,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 5,
+    "rewardIDs": 23308,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 892,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 10,
+    "rewardIDs": 23309,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 893,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 20,
+    "rewardIDs": 23310,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 894,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 50,
+    "rewardIDs": 23311,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 895,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 100,
+    "rewardIDs": 23312,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 896,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 150,
+    "rewardIDs": 23313,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 897,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 300,
+    "rewardIDs": 23314,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 898,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 600,
+    "rewardIDs": 23315,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 899,
+    "comment1": "LTPE July 2026 Lvl 70-269",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 17,
+    "maxRank": 1000,
+    "rewardIDs": 23316,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 900,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 1,
+    "rewardIDs": 23317,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 901,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 2,
+    "rewardIDs": 23318,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 902,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 3,
+    "rewardIDs": 23319,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 903,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 4-7",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 7,
+    "rewardIDs": 23320,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 904,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 8-15",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 15,
+    "rewardIDs": 23321,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 905,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 16-30",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 30,
+    "rewardIDs": 23322,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 906,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 31-75",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 75,
+    "rewardIDs": 23323,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 907,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 76-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 150,
+    "rewardIDs": 23324,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 908,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 151-225",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 225,
+    "rewardIDs": 23325,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 909,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 226-450",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 450,
+    "rewardIDs": 23326,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 910,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 451-900",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 900,
+    "rewardIDs": 23327,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 911,
+    "comment1": "LTPE August 2026 Lvl 1020",
+    "comment2": "Rank 901-1500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 1500,
+    "rewardIDs": 23328,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 912,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 1,
+    "rewardIDs": 23329,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 913,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 2,
+    "rewardIDs": 23330,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 914,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 3,
+    "rewardIDs": 23331,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 915,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 5,
+    "rewardIDs": 23332,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 916,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 10,
+    "rewardIDs": 23333,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 917,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 20,
+    "rewardIDs": 23334,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 918,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 21-40",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 40,
+    "rewardIDs": 23335,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 919,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 41-70",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 70,
+    "rewardIDs": 23336,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 920,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 71-120",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 120,
+    "rewardIDs": 23337,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 921,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 121-200",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 200,
+    "rewardIDs": 23338,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 922,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 201-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 300,
+    "rewardIDs": 23339,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 923,
+    "comment1": "LTPE August 2026 Lvl 720-1019",
+    "comment2": "Rank 301-500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 500,
+    "rewardIDs": 23340,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 924,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 1,
+    "rewardIDs": 23341,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 925,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 2,
+    "rewardIDs": 23342,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 926,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 3,
+    "rewardIDs": 23343,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 927,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 5,
+    "rewardIDs": 23344,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 928,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 10,
+    "rewardIDs": 23345,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 929,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 20,
+    "rewardIDs": 23346,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 930,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 50,
+    "rewardIDs": 23347,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 931,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 100,
+    "rewardIDs": 23348,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 932,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 150,
+    "rewardIDs": 23349,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 933,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 300,
+    "rewardIDs": 23350,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 934,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 600,
+    "rewardIDs": 23351,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 935,
+    "comment1": "LTPE August 2026 Lvl 270-719",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 1000,
+    "rewardIDs": 23352,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 936,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 1,
+    "rewardIDs": 23353,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 937,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 2,
+    "rewardIDs": 23354,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 938,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 3,
+    "rewardIDs": 23355,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 939,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 5,
+    "rewardIDs": 23356,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 940,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 10,
+    "rewardIDs": 23357,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 941,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 20,
+    "rewardIDs": 23358,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 942,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 50,
+    "rewardIDs": 23359,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 943,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 100,
+    "rewardIDs": 23360,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 944,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 150,
+    "rewardIDs": 23361,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 945,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 300,
+    "rewardIDs": 23362,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 946,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 600,
+    "rewardIDs": 23363,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 947,
+    "comment1": "LTPE August 2026 Lvl 70-269",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 18,
+    "maxRank": 1000,
+    "rewardIDs": 23364,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 948,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 1,
+    "rewardIDs": 23365,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 949,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 2,
+    "rewardIDs": 23366,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 950,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 3,
+    "rewardIDs": 23367,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 951,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 4-7",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 7,
+    "rewardIDs": 23368,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 952,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 8-15",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 15,
+    "rewardIDs": 23369,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 953,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 16-30",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 30,
+    "rewardIDs": 23370,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 954,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 31-75",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 75,
+    "rewardIDs": 23371,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 955,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 76-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 150,
+    "rewardIDs": 23372,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 956,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 151-225",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 225,
+    "rewardIDs": 23373,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 957,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 226-450",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 450,
+    "rewardIDs": 23374,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 958,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 451-900",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 900,
+    "rewardIDs": 23375,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 959,
+    "comment1": "LTPE September 2026 Lvl 1020",
+    "comment2": "Rank 901-1500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 1500,
+    "rewardIDs": 23376,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 960,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 1,
+    "rewardIDs": 23377,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 961,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 2,
+    "rewardIDs": 23378,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 962,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 3,
+    "rewardIDs": 23379,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 963,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 5,
+    "rewardIDs": 23380,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 964,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 10,
+    "rewardIDs": 23381,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 965,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 20,
+    "rewardIDs": 23382,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 966,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 21-40",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 40,
+    "rewardIDs": 23383,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 967,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 41-70",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 70,
+    "rewardIDs": 23384,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 968,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 71-120",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 120,
+    "rewardIDs": 23385,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 969,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 121-200",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 200,
+    "rewardIDs": 23386,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 970,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 201-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 300,
+    "rewardIDs": 23387,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 971,
+    "comment1": "LTPE September 2026 Lvl 720-1019",
+    "comment2": "Rank 301-500",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 500,
+    "rewardIDs": 23388,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 972,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 1,
+    "rewardIDs": 23389,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 973,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 2,
+    "rewardIDs": 23390,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 974,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 3,
+    "rewardIDs": 23391,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 975,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 5,
+    "rewardIDs": 23392,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 976,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 10,
+    "rewardIDs": 23393,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 977,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 20,
+    "rewardIDs": 23394,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 978,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 50,
+    "rewardIDs": 23395,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 979,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 100,
+    "rewardIDs": 23396,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 980,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 150,
+    "rewardIDs": 23397,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 981,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 300,
+    "rewardIDs": 23398,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 982,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 600,
+    "rewardIDs": 23399,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 983,
+    "comment1": "LTPE September 2026 Lvl 270-719",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 1000,
+    "rewardIDs": 23400,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 984,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 1",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 1,
+    "rewardIDs": 23401,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 985,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 2",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 2,
+    "rewardIDs": 23402,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 986,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 3",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 3,
+    "rewardIDs": 23403,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 987,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 4-5",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 5,
+    "rewardIDs": 23404,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 988,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 6-10",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 10,
+    "rewardIDs": 23405,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 989,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 11-20",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 20,
+    "rewardIDs": 23406,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 990,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 21-50",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 50,
+    "rewardIDs": 23407,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 991,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 51-100",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 100,
+    "rewardIDs": 23408,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 992,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 101-150",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 150,
+    "rewardIDs": 23409,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 993,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 151-300",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 300,
+    "rewardIDs": 23410,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 994,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 301-600",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 600,
+    "rewardIDs": 23411,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 995,
+    "comment1": "LTPE September 2026 Lvl 70-269",
+    "comment2": "Rank 601-1000",
+    "eventTypeID": 83,
+    "leaderboardRewardSetID": 19,
+    "maxRank": 1000,
+    "rewardIDs": 23412,
+    "leagueID": 1
   }
 ]

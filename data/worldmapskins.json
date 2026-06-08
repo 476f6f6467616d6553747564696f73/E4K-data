@@ -711,5 +711,15 @@
     "skinID": 140,
     "crossplayID": 140,
     "name": "ChocolateEggSprout"
+  },
+  {
+    "skinID": 141,
+    "crossplayID": 141,
+    "name": "StarfruitCommander"
+  },
+  {
+    "skinID": 142,
+    "crossplayID": 142,
+    "name": "KiwiKeepCastellan"
   }
 ]

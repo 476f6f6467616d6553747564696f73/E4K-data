@@ -1,7 +1,4 @@
 export interface Data {
-    LuckyWheelDropChanceHardJackpots: LuckyWheelDropChanceHardJackpot[];
-    LuckyWheelDropChanceJackpots: LuckyWheelDropChanceJackpot[];
-    LuckyWheelDropChances: LuckyWheelDropChance[];
     achievements: Achievement[];
     activityrewards: ActivityReward[];
     alienRerollChances: AlienReRollChance[];
@@ -11,20 +8,20 @@ export interface Data {
     allianceBattleGroundRankRewards: AllianceBattleGroundRankReward[];
     allianceBattleGroundScorings: AllianceBattleGroundScoring[];
     allianceBattleGroundSettings: AllianceBattleGroundSetting[];
+    alliancebuffs: AllianceBuff[];
     allianceCoatColors: AllianceCoatColor[];
     allianceCoatLayouts: AllianceCoatLayout[];
+    alliancefameranks: AllianceFameRank[];
+    allianceforges: AllianceForge[];
     allianceFundsDonatables: AllianceFundsDonatable[];
+    alliancehelprequests: AllianceHelpRequest[];
     allianceInvasionCamps: AllianceInvasionCamp[];
     allianceQuests: AllianceQuest[];
+    alliancerankrights: AllianceRankRight[];
+    allianceranks: AllianceRank[];
     allianceTowerEffects: AllianceTowerEffect[];
     allianceTowerEffectsActivations: AllianceTowerEffectsActivation[];
     allianceTowers: AllianceTower[];
-    alliancebuffs: AllianceBuff[];
-    alliancefameranks: AllianceFameRank[];
-    allianceforges: AllianceForge[];
-    alliancehelprequests: AllianceHelpRequest[];
-    alliancerankrights: AllianceRankRight[];
-    allianceranks: AllianceRank[];
     artifacts: Artifact[];
     artifactsLeagues: ArtifactLeague[];
     attackSetupSlots: AttackSetupSlot[];
@@ -87,17 +84,17 @@ export interface Data {
     equipment_slots: EquipmentSlot[];
     equipment_wearers: EquipmentWearer[];
     equipments: Equipment[];
-    eventAutoScalingCIs: EventAutoScalingCI[];
     eventAutoScalingCamps: EventAutoScalingCamp[];
+    eventAutoScalingCIs: EventAutoScalingCI[];
     eventAutoScalingDifficulties: EventAutoScalingDifficulty[];
     eventAutoScalingDifficultyTypes: EventAutoScalingDifficultyType[];
     eventAutoScalingHoLSkills: EventAutoScalingHoLSkill[];
     eventAutoScalingLordEffects: EventAutoScalingLordEffect[];
+    eventAutoScalings: EventAutoScaling[];
     eventAutoScalingToolPairings: EventAutoScalingPairing[];
     eventAutoScalingUnitPairings: EventAutoScalingPairing[];
-    eventAutoScalings: EventAutoScaling[];
-    eventSkins: EventSkin[];
     events: Event[];
+    eventSkins: EventSkin[];
     expansions: Expansion[];
     externalServerSkins: ExternalServerSkin[];
     feasts: Feast[];
@@ -115,13 +112,13 @@ export interface Data {
     generalAbilityEffects: GeneralAbilityEffect[];
     generalAbilityTriggers: GeneralAbilityTrigger[];
     generalRarities: GeneralRarity[];
-    generalSkillTiers: GeneralSkillTier[];
+    generals: General[];
     generalSkills: GeneralSkill[];
+    generalSkillTiers: GeneralSkillTier[];
     generalSkipFinishQuests: GeneralSkipFinishQuest[];
     generalSlots: GeneralSlot[];
-    generalXpItems: GeneralXPItem[];
-    generals: General[];
     generalsRespecPackages: GeneralsReSpecPackage[];
+    generalXpItems: GeneralXPItem[];
     globalEffects: GlobalEffect[];
     highscoreboni: HighscoreBonus[];
     horses: Horse[];
@@ -140,16 +137,19 @@ export interface Data {
     legendskills: LegendSkill[];
     legendskillthresholds: LegendSkillThreshold[];
     levelBoosters: LevelBooster[];
-    levelUpPrices: LevelUpPrice[];
     levelbrackets: LevelBracket[];
+    levelUpPrices: LevelUpPrice[];
     levelups: LevelUp[];
     longtermpointeventquests: LongTermPointEventQuest[];
+    lootBoxes: LootBox[];
     lootBoxKeyTombolas: LootBoxKeyTombola[];
     lootBoxTombolas: LootBoxTombola[];
     lootBoxTypes: LootBoxType[];
-    lootBoxes: LootBox[];
     lords: Lord[];
     luckywheelclasses: LuckyWheelClass[];
+    LuckyWheelDropChanceHardJackpots: LuckyWheelDropChanceHardJackpot[];
+    LuckyWheelDropChanceJackpots: LuckyWheelDropChanceJackpot[];
+    LuckyWheelDropChances: LuckyWheelDropChance[];
     luckywheelrewardsets: LuckyWheelRewardSet[];
     mainquests: MainQuest[];
     maps: Map[];
@@ -170,8 +170,8 @@ export interface Data {
     packageCategoryCostRelations: PackageCategoryCostRelation[];
     packageCategoryFilterRelations: PackageCategoryFilterRelation[];
     packageFilters: PackageFilter[];
-    packageSubFilters: PackageSubFilter[];
     packages: Package[];
+    packageSubFilters: PackageSubFilter[];
     partpayprices: PartPayPrice[];
     paymentrewards: PaymentReward[];
     playerNameChanges: PlayerNameChange[];
@@ -183,9 +183,9 @@ export interface Data {
     privateVillages: PrivateVillage[];
     properties: Property[];
     quests: Quest[];
+    raidBosses: raidBoss[];
     raidBossLevels: RaidBossLevel[];
     raidBossStages: RaidBossStage[];
-    raidBosses: raidBoss[];
     randomgroups: RandomGroup[];
     relicBluePrints: RelicBluePrint[];
     relicCategories: RelicCategory[];
@@ -207,9 +207,9 @@ export interface Data {
     saleDaysLuckyWheelInitialCategorySelections: SaleDaysLuckyWheelInitialCategorySelection[];
     saleDaysLuckyWheelRewardSets: SaleDaysLuckyWheelRewardSet[];
     samuraiCamps: SamuraiCamp[];
+    sceatSkills: SceatSkill[];
     sceatSkillTiers: SceatSkillTier[];
     sceatSkillTrees: SceatSkillTree[];
-    sceatSkills: SceatSkill[];
     seasonEndRewards: SeasonEndReward[];
     seasonEventRewards: SeasonEventReward[];
     seasonMedals: SeasonMedal[];
@@ -244,42 +244,6 @@ export interface Data {
     wishingwells: WishingWell[];
     wodIds: Wod[];
     worldmapskins: WorldmapSkin[];
-}
-
-export interface LuckyWheelDropChanceHardJackpot {
-    "Class1Chance": number;
-    "Class2Chance": number;
-    "Class3Chance": number;
-    "Class4Chance": number;
-    "Class5Chance": number;
-    "Class6Chance": number;
-    "Class7Chance": number;
-    "Class8Chance": number;
-    "Class9Chance": number;
-    "luckyWheelJackpotDropID": number;
-    "rewardIDs": number;
-}
-
-export interface LuckyWheelDropChanceJackpot {
-    "Class1Chance": number;
-    "Class2Chance": number;
-    "Class3Chance": number;
-    "Class4Chance": number;
-    "Class5Chance": number;
-    "Class6Chance": number;
-    "Class7Chance": number;
-    "Class8Chance": number;
-    "Class9Chance": number;
-    "luckyWheelJackpotDropID": number;
-    "rewardIDs": number;
-}
-
-export interface LuckyWheelDropChance {
-    "HardDrop": number;
-    "NormalDrop": number;
-    "isJackpot"?: number;
-    "luckyWheelDropID": number;
-    "rewardIDs"?: number;
 }
 
 export interface Achievement {
@@ -409,6 +373,33 @@ export interface AllianceBattleGroundSetting {
     "startCurrencyAmount": number;
 }
 
+export interface AllianceBuff {
+    "allianceBuffID": number;
+    "allianceBuffSeriesID": number;
+    "availableInAllianceFunds"?: number;
+    "costBastionDoubloon"?: number;
+    "costC1"?: number;
+    "costC2"?: number;
+    "costFuryDoubloon"?: number;
+    "costRampartDoubloon"?: number;
+    "costSpiritDoubloon"?: number;
+    "costStone"?: number;
+    "costTimeDoubloon"?: number;
+    "costVigorDoubloon"?: number;
+    "costWood"?: number;
+    "crossplayID"?: number;
+    "duration"?: number;
+    "effects"?: string;
+    "forgingCostC1"?: number;
+    "hiddenBattleGround"?: number;
+    "isBattleground"?: number;
+    "isDefaultLevel"?: number;
+    "isTemporary"?: number;
+    "level": number;
+    "maxLevel": number;
+    "requiredBuffID"?: number;
+}
+
 export interface AllianceCoatColor {
     "allianceCoatColorID": number;
     "color": string;
@@ -425,12 +416,37 @@ export interface AllianceCoatLayout {
     "noofColors": number;
 }
 
+export interface AllianceFameRank {
+    "currency1": number;
+    "currency2": number;
+    "fameLevel": number;
+    "stone": number;
+    "threshold": number;
+    "wood": number;
+}
+
+export interface AllianceForge {
+    "allianceForgeID": number;
+    "forgingCostC1": number;
+    "level": number;
+}
+
 export interface AllianceFundsDonatable {
     "allianceFundsDonatableID": number;
     "currencyID"?: number;
     "directlyByPlayer": number;
     "resourceID"?: number;
     "sortOrder": number;
+}
+
+export interface AllianceHelpRequest {
+    "allianceHelpRequestID": number;
+    "allianceRepairBuilding"?: number;
+    "crossplayID": number;
+    "decreaseBuildingTimeAbsolute"?: number;
+    "maxHelpersCount": number;
+    "unitCountBonus"?: number;
+    "unitHealTimeReduction"?: number;
 }
 
 export interface AllianceInvasionCamp {
@@ -493,6 +509,18 @@ export interface AllianceQuest {
     "rewardPoints": number;
 }
 
+export interface AllianceRankRight {
+    "neededMemberRank": number;
+    "rankRightID": number;
+    "rankRightName": string;
+}
+
+export interface AllianceRank {
+    "rankID": number;
+    "rankRightName": string;
+    "rerankRight": number;
+}
+
 export interface AllianceTowerEffect {
     "allianceTowerEffectID": number;
     "effectBasePrice": number;
@@ -525,70 +553,6 @@ export interface AllianceTower {
     "unitCapacity": number;
     "unitWallCount": number;
     "wallWodId": number;
-}
-
-export interface AllianceBuff {
-    "allianceBuffID": number;
-    "allianceBuffSeriesID": number;
-    "availableInAllianceFunds"?: number;
-    "costBastionDoubloon"?: number;
-    "costC1"?: number;
-    "costC2"?: number;
-    "costFuryDoubloon"?: number;
-    "costRampartDoubloon"?: number;
-    "costSpiritDoubloon"?: number;
-    "costStone"?: number;
-    "costTimeDoubloon"?: number;
-    "costVigorDoubloon"?: number;
-    "costWood"?: number;
-    "crossplayID"?: number;
-    "duration"?: number;
-    "effects"?: string;
-    "forgingCostC1"?: number;
-    "hiddenBattleGround"?: number;
-    "isBattleground"?: number;
-    "isDefaultLevel"?: number;
-    "isTemporary"?: number;
-    "level": number;
-    "maxLevel": number;
-    "requiredBuffID"?: number;
-}
-
-export interface AllianceFameRank {
-    "currency1": number;
-    "currency2": number;
-    "fameLevel": number;
-    "stone": number;
-    "threshold": number;
-    "wood": number;
-}
-
-export interface AllianceForge {
-    "allianceForgeID": number;
-    "forgingCostC1": number;
-    "level": number;
-}
-
-export interface AllianceHelpRequest {
-    "allianceHelpRequestID": number;
-    "allianceRepairBuilding"?: number;
-    "crossplayID": number;
-    "decreaseBuildingTimeAbsolute"?: number;
-    "maxHelpersCount": number;
-    "unitCountBonus"?: number;
-    "unitHealTimeReduction"?: number;
-}
-
-export interface AllianceRankRight {
-    "neededMemberRank": number;
-    "rankRightID": number;
-    "rankRightName": string;
-}
-
-export interface AllianceRank {
-    "rankID": number;
-    "rankRightName": string;
-    "rerankRight": number;
 }
 
 export interface Artifact {
@@ -1491,12 +1455,6 @@ export interface Equipment {
     "wearerID": number;
 }
 
-export interface EventAutoScalingCI {
-    "eventAutoScalingCiID": number;
-    "eventID": number;
-    "useableConstructionItemGroupIDs": number;
-}
-
 export interface EventAutoScalingCamp {
     "addKhanTablet"?: number;
     "addSamuraiMedal"?: number;
@@ -1561,6 +1519,12 @@ export interface EventAutoScalingCamp {
     "unitCapacity"?: number;
 }
 
+export interface EventAutoScalingCI {
+    "eventAutoScalingCiID": number;
+    "eventID": number;
+    "useableConstructionItemGroupIDs": number;
+}
+
 export interface EventAutoScalingDifficulty {
     "difficultyID": number;
     "difficultyTypeID": number;
@@ -1594,24 +1558,6 @@ export interface EventAutoScalingLordEffect {
     "wearerID": number;
 }
 
-export interface EventAutoScalingPairing {
-    "eventID": number;
-    "mappingWodID": number;
-    "maxDifficultyID": number;
-    "minDifficultyID": number;
-    "playerWodID": number;
-    "toolPairID": number;
-}
-
-export interface EventAutoScalingPairing {
-    "eventID": number;
-    "mappingWodID": number;
-    "maxDifficultyID": number;
-    "minDifficultyID": number;
-    "playerWodID": number;
-    "unitPairID": number;
-}
-
 export interface EventAutoScaling {
     "defaultAttackUnits"?: string;
     "defaultDefenseUnits": string;
@@ -1638,13 +1584,22 @@ export interface EventAutoScaling {
     "wavesPerTool": number;
 }
 
-export interface EventSkin {
-    "eventSkinID": number;
-    "eventType": string;
-    "hasIsoSkin": number;
-    "hasWorldMapSkin": number;
-    "kIDs": number;
-    "minLevel": number;
+export interface EventAutoScalingPairing {
+    "eventID": number;
+    "mappingWodID": number;
+    "maxDifficultyID": number;
+    "minDifficultyID": number;
+    "playerWodID": number;
+    "toolPairID": number;
+}
+
+export interface EventAutoScalingPairing {
+    "eventID": number;
+    "mappingWodID": number;
+    "maxDifficultyID": number;
+    "minDifficultyID": number;
+    "playerWodID": number;
+    "unitPairID": number;
 }
 
 export interface Event {
@@ -1685,6 +1640,15 @@ export interface Event {
     "unitTravelTaxRate"?: number;
     "useMinLevelOfEvents"?: number;
     "winnerRewardIDs"?: string;
+}
+
+export interface EventSkin {
+    "eventSkinID": number;
+    "eventType": string;
+    "hasIsoSkin": number;
+    "hasWorldMapSkin": number;
+    "kIDs": number;
+    "minLevel": number;
 }
 
 export interface Expansion {
@@ -1782,8 +1746,8 @@ export interface GachaEvent {
     "costSoldierBiscuit"?: number;
     "costSweetTreat"?: number;
     "eventID": number;
-    "freeChestResetTime": number;
-    "freeChestRewardID": number;
+    "freeChestResetTime"?: number;
+    "freeChestRewardID"?: number;
     "gachaID": number;
     "gachaLevel": number;
     "leagueTypeIDs": number;
@@ -1871,49 +1835,6 @@ export interface GeneralRarity {
     "xpRequirements": string;
 }
 
-export interface GeneralSkillTier {
-    "crossplayID": number;
-    "generalID": number;
-    "minGeneralStarTier"?: number;
-    "previousTierRequiredSkillPoints": number;
-    "tier": number;
-    "tierID": number;
-}
-
-export interface GeneralSkill {
-    "costSkillPoints": number;
-    "crossplayID": number;
-    "effects": string;
-    "followingSkillID"?: number;
-    "generalID": number;
-    "level": number;
-    "name": string;
-    "skillGroupID": number;
-    "skillID": number;
-    "tier": number;
-    "totalCostSkillPoints": number;
-}
-
-export interface GeneralSkipFinishQuest {
-    "crossplayID": number;
-    "generalSkipFinishQuestID": number;
-    "maxLevel"?: number;
-    "minLevel": number;
-    "questsToFinish": string;
-}
-
-export interface GeneralSlot {
-    "abilityGroupIDs": number | string;
-    "crossplayID": number;
-    "slotID": number;
-}
-
-export interface GeneralXPItem {
-    "crossplayID": number;
-    "currencyID": number;
-    "xpAmount": number;
-}
-
 export interface General {
     "attackSlots"?: number | string;
     "bgColor"?: string;
@@ -1932,9 +1853,52 @@ export interface General {
     "upgradeCurrencyIDs": string;
 }
 
+export interface GeneralSkill {
+    "costSkillPoints": number;
+    "crossplayID": number;
+    "effects": string;
+    "followingSkillID"?: number;
+    "generalID": number;
+    "level": number;
+    "name": string;
+    "skillGroupID": number;
+    "skillID": number;
+    "tier": number;
+    "totalCostSkillPoints": number;
+}
+
+export interface GeneralSkillTier {
+    "crossplayID": number;
+    "generalID": number;
+    "minGeneralStarTier"?: number;
+    "previousTierRequiredSkillPoints": number;
+    "tier": number;
+    "tierID": number;
+}
+
+export interface GeneralSkipFinishQuest {
+    "crossplayID": number;
+    "generalSkipFinishQuestID": number;
+    "maxLevel"?: number;
+    "minLevel": number;
+    "questsToFinish": string;
+}
+
+export interface GeneralSlot {
+    "abilityGroupIDs": number | string;
+    "crossplayID": number;
+    "slotID": number;
+}
+
 export interface GeneralsReSpecPackage {
     "crossplayID": number;
     "packageIDs": number;
+}
+
+export interface GeneralXPItem {
+    "crossplayID": number;
+    "currencyID": number;
+    "xpAmount": number;
 }
 
 export interface GlobalEffect {
@@ -2163,18 +2127,18 @@ export interface LevelBooster {
     "level": number;
 }
 
+export interface LevelBracket {
+    "bracketID": number;
+    "maxLevel"?: number;
+    "minLevel"?: number;
+}
+
 export interface LevelUpPrice {
     "c2Cost": number;
     "crossplayID": number;
     "fromLevel": number;
     "levelUpPriceID": number;
     "toLevel": number;
-}
-
-export interface LevelBracket {
-    "bracketID": number;
-    "maxLevel"?: number;
-    "minLevel"?: number;
 }
 
 export interface LevelUp {
@@ -2190,6 +2154,18 @@ export interface LongTermPointEventQuest {
     "pointEventQuestID": number;
     "pointsPerTier": string;
     "subEventID": number;
+}
+
+export interface LootBox {
+    "crossplayID": number;
+    "draws": number;
+    "lootBoxID": number;
+    "lootBoxKeyTombolaID": number;
+    "lootBoxTombolaID": number;
+    "lootBoxTypeID": number;
+    "name": string;
+    "rarity": number;
+    "sortOrder": number;
 }
 
 export interface LootBoxKeyTombola {
@@ -2218,18 +2194,6 @@ export interface LootBoxType {
     "lootBoxTypeID": number;
 }
 
-export interface LootBox {
-    "crossplayID": number;
-    "draws": number;
-    "lootBoxID": number;
-    "lootBoxKeyTombolaID": number;
-    "lootBoxTombolaID": number;
-    "lootBoxTypeID": number;
-    "name": string;
-    "rarity": number;
-    "sortOrder": number;
-}
-
 export interface Lord {
     "crossplayID"?: number;
     "effects"?: string;
@@ -2251,6 +2215,42 @@ export interface LuckyWheelClass {
     "activityRewardThreshold"?: number;
     "luckyWheelClassID": number;
     "neededSpinsForNextClass"?: number;
+}
+
+export interface LuckyWheelDropChanceHardJackpot {
+    "Class1Chance": number;
+    "Class2Chance": number;
+    "Class3Chance": number;
+    "Class4Chance": number;
+    "Class5Chance": number;
+    "Class6Chance": number;
+    "Class7Chance": number;
+    "Class8Chance": number;
+    "Class9Chance": number;
+    "luckyWheelJackpotDropID": number;
+    "rewardIDs": number;
+}
+
+export interface LuckyWheelDropChanceJackpot {
+    "Class1Chance": number;
+    "Class2Chance": number;
+    "Class3Chance": number;
+    "Class4Chance": number;
+    "Class5Chance": number;
+    "Class6Chance": number;
+    "Class7Chance": number;
+    "Class8Chance": number;
+    "Class9Chance": number;
+    "luckyWheelJackpotDropID": number;
+    "rewardIDs": number;
+}
+
+export interface LuckyWheelDropChance {
+    "HardDrop": number;
+    "NormalDrop": number;
+    "isJackpot"?: number;
+    "luckyWheelDropID": number;
+    "rewardIDs"?: number;
 }
 
 export interface LuckyWheelRewardSet {
@@ -2419,11 +2419,6 @@ export interface PackageFilter {
     "crossplayID": number;
     "filterID": number;
     "name": string;
-}
-
-export interface PackageSubFilter {
-    "name": string;
-    "subFilterID": number;
 }
 
 export interface Package {
@@ -2642,6 +2637,11 @@ export interface Package {
     "vipTime"?: number;
 }
 
+export interface PackageSubFilter {
+    "name": string;
+    "subFilterID": number;
+}
+
 export interface PartPayPrice {
     "comment1": string;
     "comment2"?: string;
@@ -2839,6 +2839,14 @@ export interface Quest {
     "xp"?: number;
 }
 
+export interface raidBoss {
+    "leaguetypeID": number;
+    "lifebarColor": string;
+    "name": string;
+    "raidBossID": number;
+    "rarity": number;
+}
+
 export interface RaidBossLevel {
     "courtyardMeleePercent": number;
     "courtyardReserveUnits": string;
@@ -2869,14 +2877,6 @@ export interface RaidBossStage {
     "raidBossStageID": number;
     "rightWallUnits": string;
     "wallPointFactor": number;
-}
-
-export interface raidBoss {
-    "leaguetypeID": number;
-    "lifebarColor": string;
-    "name": string;
-    "raidBossID": number;
-    "rarity": number;
 }
 
 export interface RandomGroup {
@@ -3294,22 +3294,6 @@ export interface SamuraiCamp {
     "wallBonus": number;
 }
 
-export interface SceatSkillTier {
-    "crossplayID": number;
-    "requirePreviousTierUnlocked"?: number;
-    "requiredBuildings"?: number | string;
-    "skillTreeID": number;
-    "tier": number;
-    "tierID": number;
-}
-
-export interface SceatSkillTree {
-    "crossplayID": number;
-    "keepDisplayLevel": number;
-    "skillTreeID": number;
-    "tabID": number;
-}
-
 export interface SceatSkill {
     "activationTime": number;
     "costImperialDucat"?: number;
@@ -3328,6 +3312,22 @@ export interface SceatSkill {
     "skillTreeID": number;
     "sortOrder": number;
     "tier": number;
+}
+
+export interface SceatSkillTier {
+    "crossplayID": number;
+    "requirePreviousTierUnlocked"?: number;
+    "requiredBuildings"?: number | string;
+    "skillTreeID": number;
+    "tier": number;
+    "tierID": number;
+}
+
+export interface SceatSkillTree {
+    "crossplayID": number;
+    "keepDisplayLevel": number;
+    "skillTreeID": number;
+    "tabID": number;
 }
 
 export interface SeasonEndReward {

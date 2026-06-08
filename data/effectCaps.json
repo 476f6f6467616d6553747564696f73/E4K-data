@@ -1260,5 +1260,75 @@
     "capID": 2013,
     "crossplayID": 2013,
     "maxTotalBonus": 15
+  },
+  {
+    "capID": 2100,
+    "crossplayID": 2100,
+    "maxTotalBonus": 420
+  },
+  {
+    "capID": 2101,
+    "crossplayID": 2101,
+    "maxTotalBonus": 28
+  },
+  {
+    "capID": 2102,
+    "crossplayID": 2102,
+    "maxTotalBonus": 180
+  },
+  {
+    "capID": 2103,
+    "crossplayID": 2103,
+    "maxTotalBonus": 324
+  },
+  {
+    "capID": 2104,
+    "crossplayID": 2104,
+    "maxTotalBonus": 34
+  },
+  {
+    "capID": 2105,
+    "crossplayID": 2105,
+    "maxTotalBonus": 420
+  },
+  {
+    "capID": 2106,
+    "crossplayID": 2106,
+    "maxTotalBonus": 28
+  },
+  {
+    "capID": 2107,
+    "crossplayID": 2107,
+    "maxTotalBonus": 68
+  },
+  {
+    "capID": 2108,
+    "crossplayID": 2108,
+    "maxTotalBonus": 324
+  },
+  {
+    "capID": 2109,
+    "crossplayID": 2109,
+    "maxTotalBonus": 34
+  },
+  {
+    "capID": 2110,
+    "crossplayID": 2110,
+    "maxTotalBonus": 270
+  },
+  {
+    "capID": 2111,
+    "crossplayID": 2111,
+    "maxTotalBonus": 176
+  },
+  {
+    "capID": 2112,
+    "crossplayID": 2112,
+    "maxTotalBonus": 298
+  },
+  {
+    "capID": 2113,
+    "crossplayID": 2113,
+    "maxTotalBonus": 38
   }
 ]

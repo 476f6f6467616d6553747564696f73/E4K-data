@@ -2478,5 +2478,131 @@
     "effectID": 493,
     "wearerID": 2,
     "name": "AREreserveUnitKillLegendaryDragon"
+  },
+  {
+    "equipmentEffectID": 268,
+    "crossplayID": 268,
+    "effectID": 515,
+    "wearerID": 1,
+    "name": "newDefenseWallBonusPVP"
+  },
+  {
+    "equipmentEffectID": 269,
+    "crossplayID": 269,
+    "effectID": 516,
+    "wearerID": 1,
+    "name": "newDefenseBoostFrontPVP"
+  },
+  {
+    "equipmentEffectID": 270,
+    "crossplayID": 270,
+    "effectID": 517,
+    "wearerID": 1,
+    "name": "newPerceptionBonusPVP"
+  },
+  {
+    "equipmentEffectID": 271,
+    "crossplayID": 271,
+    "effectID": 518,
+    "wearerID": 1,
+    "name": "newDefenseMeleeBonusPVP"
+  },
+  {
+    "equipmentEffectID": 272,
+    "crossplayID": 272,
+    "effectID": 519,
+    "wearerID": 1,
+    "name": "newDefenseBonusMainCastlePVP"
+  },
+  {
+    "equipmentEffectID": 274,
+    "crossplayID": 274,
+    "effectID": 521,
+    "wearerID": 1,
+    "name": "newDefenseSupportUnitsPVP"
+  },
+  {
+    "equipmentEffectID": 275,
+    "crossplayID": 275,
+    "effectID": 522,
+    "wearerID": 1,
+    "name": "newMeadProductionBoostPVP"
+  },
+  {
+    "equipmentEffectID": 276,
+    "crossplayID": 276,
+    "effectID": 523,
+    "wearerID": 1,
+    "name": "newDefenseUnitAmountYardBonusPVP"
+  },
+  {
+    "equipmentEffectID": 277,
+    "crossplayID": 277,
+    "effectID": 524,
+    "wearerID": 1,
+    "name": "newDefenseGateBonusPVP"
+  },
+  {
+    "equipmentEffectID": 278,
+    "crossplayID": 278,
+    "effectID": 525,
+    "wearerID": 1,
+    "name": "newDefenseBoostFlankPVP"
+  },
+  {
+    "equipmentEffectID": 279,
+    "crossplayID": 279,
+    "effectID": 526,
+    "wearerID": 1,
+    "name": "newLootReductionPVP"
+  },
+  {
+    "equipmentEffectID": 280,
+    "crossplayID": 280,
+    "effectID": 527,
+    "wearerID": 1,
+    "name": "newDefenseRangeBonusPVP"
+  },
+  {
+    "equipmentEffectID": 281,
+    "crossplayID": 281,
+    "effectID": 528,
+    "wearerID": 1,
+    "name": "newDefenseBonusNotMainCastlePVP"
+  },
+  {
+    "equipmentEffectID": 282,
+    "crossplayID": 282,
+    "effectID": 529,
+    "wearerID": 1,
+    "name": "newDefenseMoatBonusPVP"
+  },
+  {
+    "equipmentEffectID": 283,
+    "crossplayID": 283,
+    "effectID": 530,
+    "wearerID": 1,
+    "name": "newDefenseUnitAmountWallPVP"
+  },
+  {
+    "equipmentEffectID": 284,
+    "crossplayID": 284,
+    "effectID": 531,
+    "wearerID": 1,
+    "name": "newPublicOrderBonusPVP"
+  },
+  {
+    "equipmentEffectID": 285,
+    "crossplayID": 285,
+    "effectID": 532,
+    "wearerID": 1,
+    "name": "newDefenseBoostYardPVP"
+  },
+  {
+    "equipmentEffectID": 286,
+    "crossplayID": 286,
+    "effectID": 533,
+    "wearerID": 1,
+    "name": "newDefenseBonusPVP"
   }
 ]
