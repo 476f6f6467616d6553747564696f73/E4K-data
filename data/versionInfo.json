@@ -1,6 +1,6 @@
 {
-  "version": "775.RC.02",
-  "date": "03/06/2026 12:43:01",
+  "version": "775.RC.03",
+  "date": "11/06/2026 09:30:45",
   "included": {
     "features": "Live,Elf,SummerSales,DonationEventJune,SummerSalesFix,SummerGacha,JulyLTPE,AugustLTPE,SeptemberLTPE"
   }
