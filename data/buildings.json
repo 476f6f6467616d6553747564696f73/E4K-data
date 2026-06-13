@@ -116856,7 +116856,7 @@
     "isFusionSource": 0,
     "isFusionTarget": 0,
     "sellC1": 1600000,
-    "areaSpecificEffects": "371&amp;43750,13&amp;40,370&amp;33",
+    "areaSpecificEffects": "371&amp;43750,387&amp;40,370&amp;33",
     "tempServerDestructable": 1
   },
   {
@@ -116881,7 +116881,7 @@
     "isFusionSource": 0,
     "isFusionTarget": 0,
     "sellC1": 1600000,
-    "areaSpecificEffects": "371&amp;43750,13&amp;40,370&amp;33",
+    "areaSpecificEffects": "371&amp;43750,387&amp;40,370&amp;33",
     "tempServerDestructable": 1
   },
   {
@@ -117006,7 +117006,7 @@
     "isFusionSource": 0,
     "isFusionTarget": 0,
     "sellC1": 1200000,
-    "areaSpecificEffects": "371&amp;21875,13&amp;20,370&amp;16",
+    "areaSpecificEffects": "371&amp;21875,387&amp;20,370&amp;16",
     "tempServerDestructable": 1
   },
   {
@@ -117031,7 +117031,7 @@
     "isFusionSource": 0,
     "isFusionTarget": 0,
     "sellC1": 1200000,
-    "areaSpecificEffects": "371&amp;21875,13&amp;20,370&amp;16",
+    "areaSpecificEffects": "371&amp;21875,387&amp;20,370&amp;16",
     "tempServerDestructable": 1
   },
   {
