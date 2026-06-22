@@ -1121,5 +1121,18 @@
     "eventType": "ConversionPrivatePrimeTimeEvent",
     "minLevel": 6,
     "maxLevel": 99
+  },
+  {
+    "eventID": 137,
+    "comment1": "ARE Alliance Mobilization Event",
+    "comment2": "AME/ARE",
+    "kIDs": 0,
+    "areaTypes": 1,
+    "eventType": "AREAllianceMobilizationEvent",
+    "hubType": "Adventure",
+    "eventDuration": "Long",
+    "packageIDs": 5534,
+    "minLevel": 70,
+    "maxLevel": 1020
   }
 ]

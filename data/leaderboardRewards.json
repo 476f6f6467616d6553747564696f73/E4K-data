@@ -7993,6 +7993,506 @@
     "leagueID": 1
   },
   {
+    "leaderboardRewardID": 827,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Diamond 1",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 1,
+    "rewardIDs": "11027,11107",
+    "leagueID": 6
+  },
+  {
+    "leaderboardRewardID": 828,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Diamond 2",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 2,
+    "rewardIDs": 11028,
+    "leagueID": 6
+  },
+  {
+    "leaderboardRewardID": 829,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Diamond 3",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 3,
+    "rewardIDs": 11029,
+    "leagueID": 6
+  },
+  {
+    "leaderboardRewardID": 830,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Diamond 4",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 4,
+    "rewardIDs": 11030,
+    "leagueID": 6
+  },
+  {
+    "leaderboardRewardID": 831,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Diamond 5",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 5,
+    "rewardIDs": 11031,
+    "leagueID": 6
+  },
+  {
+    "leaderboardRewardID": 832,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Gold 1",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 1,
+    "rewardIDs": "11032,11108",
+    "leagueID": 5
+  },
+  {
+    "leaderboardRewardID": 833,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Gold 2",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 2,
+    "rewardIDs": 11033,
+    "leagueID": 5
+  },
+  {
+    "leaderboardRewardID": 834,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Gold 3",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 3,
+    "rewardIDs": 11034,
+    "leagueID": 5
+  },
+  {
+    "leaderboardRewardID": 835,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Gold 4",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 4,
+    "rewardIDs": 11035,
+    "leagueID": 5
+  },
+  {
+    "leaderboardRewardID": 836,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Gold 5",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 5,
+    "rewardIDs": 11036,
+    "leagueID": 5
+  },
+  {
+    "leaderboardRewardID": 837,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Silver 1",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 1,
+    "rewardIDs": "11037,11109",
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 838,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Silver 2",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 2,
+    "rewardIDs": 11038,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 839,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Silver 3",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 3,
+    "rewardIDs": 11039,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 840,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Silver 4",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 4,
+    "rewardIDs": 11040,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 841,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Silver 5",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 5,
+    "rewardIDs": 11041,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 842,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Silver 6",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 6,
+    "rewardIDs": 11042,
+    "leagueID": 4
+  },
+  {
+    "leaderboardRewardID": 843,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Bronze 1",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 1,
+    "rewardIDs": "11043,11110",
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 844,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Bronze 2",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 2,
+    "rewardIDs": 11044,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 845,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Bronze 3",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 3,
+    "rewardIDs": 11045,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 846,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Bronze 4",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 4,
+    "rewardIDs": 11046,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 847,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Bronze 5",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 5,
+    "rewardIDs": 11047,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 848,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Bronze 6",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 6,
+    "rewardIDs": 11048,
+    "leagueID": 3
+  },
+  {
+    "leaderboardRewardID": 849,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Glass 1",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 1,
+    "rewardIDs": 11049,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 850,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Glass 2",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 2,
+    "rewardIDs": 11050,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 851,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Glass 3",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 3,
+    "rewardIDs": 11051,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 996,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Glass 4",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 4,
+    "rewardIDs": 11052,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 997,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Glass 5",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 5,
+    "rewardIDs": 11053,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 998,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Glass 6",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 6,
+    "rewardIDs": 11054,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 999,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Glass 7",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 7,
+    "rewardIDs": 11055,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 1000,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Glass 8",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 8,
+    "rewardIDs": 11056,
+    "leagueID": 2
+  },
+  {
+    "leaderboardRewardID": 1001,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Copper 1",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 1,
+    "rewardIDs": 11057,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1002,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Copper 2",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 2,
+    "rewardIDs": 11058,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1003,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Copper 3",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 3,
+    "rewardIDs": 11059,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1004,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Copper 4",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 4,
+    "rewardIDs": 11060,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1005,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Copper 5",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 5,
+    "rewardIDs": 11061,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1006,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Copper 6",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 6,
+    "rewardIDs": 11062,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1007,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Copper 7",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 7,
+    "rewardIDs": 11063,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1008,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Copper 8",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 8,
+    "rewardIDs": 11064,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1009,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Copper 9",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 9,
+    "rewardIDs": 11065,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1010,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Copper 10",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 1,
+    "maxRank": 10,
+    "rewardIDs": 11066,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1011,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Qualification - Copper 1",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 2,
+    "maxRank": 1,
+    "rewardIDs": 11097,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1012,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Qualification - Copper 2",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 2,
+    "maxRank": 2,
+    "rewardIDs": 11098,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1013,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Qualification - Copper 3",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 2,
+    "maxRank": 3,
+    "rewardIDs": 11099,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1014,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Qualification - Copper 4",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 2,
+    "maxRank": 4,
+    "rewardIDs": 11100,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1015,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Qualification - Copper 5",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 2,
+    "maxRank": 5,
+    "rewardIDs": 11101,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1016,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Qualification - Copper 6",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 2,
+    "maxRank": 6,
+    "rewardIDs": 11102,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1017,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Qualification - Copper 7",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 2,
+    "maxRank": 7,
+    "rewardIDs": 11103,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1018,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Qualification - Copper 8",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 2,
+    "maxRank": 8,
+    "rewardIDs": 11104,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1019,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Qualification - Copper 9",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 2,
+    "maxRank": 9,
+    "rewardIDs": 11105,
+    "leagueID": 1
+  },
+  {
+    "leaderboardRewardID": 1020,
+    "comment1": "ARME Ranking Rewards",
+    "comment2": "Qualification - Copper 10",
+    "eventTypeID": 137,
+    "leaderboardRewardSetID": 2,
+    "maxRank": 10,
+    "rewardIDs": 11106,
+    "leagueID": 1
+  },
+  {
     "leaderboardRewardID": 852,
     "comment1": "LTPE July 2026 Lvl 1020",
     "comment2": "Rank 1",

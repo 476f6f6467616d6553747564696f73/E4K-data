@@ -721,5 +721,45 @@
     "skinID": 142,
     "crossplayID": 142,
     "name": "KiwiKeepCastellan"
+  },
+  {
+    "skinID": 158,
+    "crossplayID": 158,
+    "name": "ARMEBronzeCommander"
+  },
+  {
+    "skinID": 159,
+    "crossplayID": 159,
+    "name": "ARMESilverCommander"
+  },
+  {
+    "skinID": 160,
+    "crossplayID": 160,
+    "name": "ARMEGoldCommander"
+  },
+  {
+    "skinID": 161,
+    "crossplayID": 161,
+    "name": "ARMEDiamondCommander"
+  },
+  {
+    "skinID": 162,
+    "crossplayID": 162,
+    "name": "ARMEBronzeCastellan"
+  },
+  {
+    "skinID": 163,
+    "crossplayID": 163,
+    "name": "ARMESilverCastellan"
+  },
+  {
+    "skinID": 164,
+    "crossplayID": 164,
+    "name": "ARMEGoldCastellan"
+  },
+  {
+    "skinID": 165,
+    "crossplayID": 165,
+    "name": "ARMEDiamondCastellan"
   }
 ]

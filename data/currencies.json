@@ -1309,6 +1309,20 @@
     "assetName": "BerimondAdvisorToken"
   },
   {
+    "currencyID": 91,
+    "crossplayID": 91,
+    "Name": "RiftPoint",
+    "JSONKey": "RP",
+    "assetName": "RiftPoint"
+  },
+  {
+    "currencyID": 92,
+    "crossplayID": 92,
+    "Name": "RiftQuestTicket",
+    "JSONKey": "RQT",
+    "assetName": "RiftQuestTicket"
+  },
+  {
     "currencyID": 100000,
     "crossplayID": 100000,
     "Name": "DecoDust",

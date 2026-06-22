@@ -157111,6 +157111,7 @@
     "comment2": "Lootbox T1",
     "lootBox": "35+1",
     "units": "214+6000#204+6000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 60000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -157121,6 +157122,7 @@
     "comment2": "Lootbox T1",
     "lootBox": "35+1",
     "units": "214+30000#204+30000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 300000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -157132,6 +157134,7 @@
     "lootBox": "35+1",
     "addRiftCoin": 100,
     "units": "214+34000#204+34000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 340000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -157143,6 +157146,7 @@
     "lootBox": "36+1",
     "addRiftCoin": 630,
     "units": "214+50000#204+50000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 500000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -157154,10 +157158,11 @@
     "lootBox": "36+1",
     "addRiftCoin": 1750,
     "units": "214+100000#204+100000",
-    "addAshiraToken": 50,
+    "addAshiraToken": 35,
     "hiddenMead": 1000000,
-    "ignoreResourceStorageCapacity": 1,
-    "grantType": 2
+    "addRiftQuestTicket": 2,
+    "grantType": 2,
+    "ignoreResourceStorageCapacity": 1
   },
   {
     "rewardID": 9407,
@@ -157168,8 +157173,9 @@
     "units": "214+125000#204+125000",
     "addGenXP15000": 65,
     "hiddenMead": 1250000,
-    "ignoreResourceStorageCapacity": 1,
-    "grantType": 2
+    "addRiftQuestTicket": 2,
+    "grantType": 2,
+    "ignoreResourceStorageCapacity": 1
   },
   {
     "rewardID": 9408,
@@ -157178,10 +157184,11 @@
     "lootBox": "36+1",
     "addRiftCoin": 3610,
     "units": "214+150000#204+150000",
-    "addPlaster": 80,
+    "addPlaster": 55,
     "hiddenMead": 1500000,
-    "ignoreResourceStorageCapacity": 1,
-    "grantType": 2
+    "addRiftQuestTicket": 2,
+    "grantType": 2,
+    "ignoreResourceStorageCapacity": 1
   },
   {
     "rewardID": 9409,
@@ -157189,7 +157196,8 @@
     "comment2": "Lootbox T3 + Ashira Offering",
     "lootBox": "37+1",
     "addRiftCoin": 6200,
-    "addAshiraToken": 55,
+    "addAshiraToken": 40,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -157199,6 +157207,7 @@
     "lootBox": "37+1",
     "addRiftCoin": 9000,
     "addGenXP15000": 80,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -157207,6 +157216,7 @@
     "comment2": "Lootbox T3 + Plaster",
     "lootBox": "37+1",
     "addRiftCoin": 12000,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -157216,6 +157226,7 @@
     "lootBox": "37+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -157231,24 +157242,24 @@
     "comment1": "Necromancer Defeat Reward 13",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
-    "addImperialDucat": 15,
-    "addPlaster": 500
+    "addImperialDucat": 10,
+    "addPlaster": 350
   },
   {
     "rewardID": 9740,
     "comment1": "Necromancer Defeat Reward 14",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
-    "addImperialDucat": 15,
-    "addPlaster": 500
+    "addImperialDucat": 10,
+    "addPlaster": 350
   },
   {
     "rewardID": 9741,
     "comment1": "Necromancer Defeat Reward 15",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
-    "addImperialDucat": 15,
-    "addPlaster": 500
+    "addImperialDucat": 10,
+    "addPlaster": 350
   },
   {
     "rewardID": 9742,
@@ -157263,24 +157274,24 @@
     "comment1": "Necromancer Defeat Reward 17",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
-    "addImperialDucat": 15,
-    "addPlaster": 500
+    "addImperialDucat": 10,
+    "addPlaster": 350
   },
   {
     "rewardID": 9744,
     "comment1": "Necromancer Defeat Reward 18",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
-    "addImperialDucat": 15,
-    "addPlaster": 500
+    "addImperialDucat": 10,
+    "addPlaster": 350
   },
   {
     "rewardID": 9745,
     "comment1": "Necromancer Defeat Reward 19",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
-    "addImperialDucat": 15,
-    "addPlaster": 500
+    "addImperialDucat": 10,
+    "addPlaster": 350
   },
   {
     "rewardID": 9746,
@@ -157730,6 +157741,7 @@
     "comment2": "Lootbox T1",
     "lootBox": "41+1",
     "units": "214+3000#204+3000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 30000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -157740,6 +157752,7 @@
     "comment2": "Lootbox T1",
     "lootBox": "41+1",
     "units": "214+15000#204+15000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 150000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -157751,6 +157764,7 @@
     "lootBox": "41+1",
     "addRiftCoin": 100,
     "units": "214+17000#204+17000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 170000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -157762,6 +157776,7 @@
     "lootBox": "41+1",
     "addRiftCoin": 630,
     "units": "214+25000#204+25000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 250000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -157773,10 +157788,11 @@
     "lootBox": "41+1",
     "addRiftCoin": 1750,
     "units": "214+50000#204+50000",
-    "addAshiraToken": 50,
+    "addAshiraToken": 35,
     "hiddenMead": 500000,
-    "ignoreResourceStorageCapacity": 1,
-    "grantType": 2
+    "addRiftQuestTicket": 2,
+    "grantType": 2,
+    "ignoreResourceStorageCapacity": 1
   },
   {
     "rewardID": 9562,
@@ -157787,8 +157803,9 @@
     "units": "214+62500#204+62500",
     "addGenXP15000": 65,
     "hiddenMead": 625000,
-    "ignoreResourceStorageCapacity": 1,
-    "grantType": 2
+    "addRiftQuestTicket": 2,
+    "grantType": 2,
+    "ignoreResourceStorageCapacity": 1
   },
   {
     "rewardID": 9563,
@@ -157797,10 +157814,11 @@
     "lootBox": "42+1",
     "addRiftCoin": 3610,
     "units": "214+75000#204+75000",
-    "addPlaster": 80,
+    "addPlaster": 55,
     "hiddenMead": 750000,
-    "ignoreResourceStorageCapacity": 1,
-    "grantType": 2
+    "addRiftQuestTicket": 2,
+    "grantType": 2,
+    "ignoreResourceStorageCapacity": 1
   },
   {
     "rewardID": 9564,
@@ -157808,7 +157826,8 @@
     "comment2": "Lootbox T3 + Ashira Offering",
     "lootBox": "42+1",
     "addRiftCoin": 6200,
-    "addAshiraToken": 55,
+    "addAshiraToken": 40,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -157818,6 +157837,7 @@
     "lootBox": "43+1",
     "addRiftCoin": 9000,
     "addGenXP15000": 80,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -157826,6 +157846,7 @@
     "comment2": "Lootbox T3 + General Exp",
     "lootBox": "43+1",
     "addRiftCoin": 12000,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -157835,6 +157856,7 @@
     "lootBox": "43+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -157844,24 +157866,27 @@
     "lootBox": "43+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
     "rewardID": 9750,
     "comment1": "Fungal Swarm Defeat Reward 13",
     "comment2": "Ducat + Plaster",
-    "addImperialDucat": 15,
+    "addImperialDucat": 10,
     "addRiftCoin": 12000,
-    "addPlaster": 500,
+    "addPlaster": 350,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
     "rewardID": 9751,
     "comment1": "Fungal Swarm Defeat Reward 14",
     "comment2": "Ducat + Plaster",
-    "addImperialDucat": 15,
+    "addImperialDucat": 10,
     "addRiftCoin": 12000,
-    "addPlaster": 500,
+    "addPlaster": 350,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -157871,24 +157896,27 @@
     "lootBox": "43+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
     "rewardID": 9753,
     "comment1": "Fungal Swarm Defeat Reward 16",
     "comment2": "Ducat + Plaster",
-    "addImperialDucat": 15,
+    "addImperialDucat": 10,
     "addRiftCoin": 12000,
-    "addPlaster": 500,
+    "addPlaster": 350,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
     "rewardID": 9754,
     "comment1": "Fungal Swarm Defeat Reward 17",
     "comment2": "Ducat + Plaster",
-    "addImperialDucat": 15,
+    "addImperialDucat": 10,
     "addRiftCoin": 12000,
-    "addPlaster": 500,
+    "addPlaster": 350,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -157898,15 +157926,17 @@
     "lootBox": "43+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
     "rewardID": 9756,
     "comment1": "Fungal Swarm Defeat Reward 19",
     "comment2": "Ducat + Plaster",
-    "addImperialDucat": 15,
+    "addImperialDucat": 10,
     "addRiftCoin": 12000,
-    "addPlaster": 500,
+    "addPlaster": 350,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -157916,6 +157946,7 @@
     "lootBox": "43+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -158486,6 +158517,7 @@
     "comment2": "Lootbox T1",
     "lootBox": "44+1",
     "units": "214+9000#204+9000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 90000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -158496,6 +158528,7 @@
     "comment2": "Lootbox T1",
     "lootBox": "44+1",
     "units": "214+40000#204+40000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 400000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -158507,6 +158540,7 @@
     "lootBox": "45+1",
     "addRiftCoin": 100,
     "units": "214+45000#204+45000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 450000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -158518,6 +158552,7 @@
     "lootBox": "45+1",
     "addRiftCoin": 630,
     "units": "214+50000#204+50000",
+    "addRiftQuestTicket": 2,
     "hiddenMead": 500000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -158529,10 +158564,11 @@
     "lootBox": "45+1",
     "addRiftCoin": 1750,
     "units": "214+100000#204+100000",
-    "addAshiraToken": 50,
+    "addAshiraToken": 35,
     "hiddenMead": 1000000,
-    "ignoreResourceStorageCapacity": 1,
-    "grantType": 2
+    "addRiftQuestTicket": 2,
+    "grantType": 2,
+    "ignoreResourceStorageCapacity": 1
   },
   {
     "rewardID": 9922,
@@ -158543,8 +158579,9 @@
     "units": "214+125000#204+125000",
     "addGenXP15000": 65,
     "hiddenMead": 1250000,
-    "ignoreResourceStorageCapacity": 1,
-    "grantType": 2
+    "addRiftQuestTicket": 2,
+    "grantType": 2,
+    "ignoreResourceStorageCapacity": 1
   },
   {
     "rewardID": 9923,
@@ -158553,10 +158590,11 @@
     "lootBox": "46+1",
     "addRiftCoin": 3610,
     "units": "214+150000#204+150000",
-    "addPlaster": 80,
+    "addPlaster": 55,
     "hiddenMead": 1500000,
-    "ignoreResourceStorageCapacity": 1,
-    "grantType": 2
+    "addRiftQuestTicket": 2,
+    "grantType": 2,
+    "ignoreResourceStorageCapacity": 1
   },
   {
     "rewardID": 9924,
@@ -158564,7 +158602,8 @@
     "comment2": "Lootbox T3 + Ashira Offering",
     "lootBox": "46+1",
     "addRiftCoin": 6200,
-    "addAshiraToken": 55,
+    "addAshiraToken": 40,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -158574,6 +158613,7 @@
     "lootBox": "46+1",
     "addRiftCoin": 9000,
     "addGenXP15000": 80,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -158582,6 +158622,7 @@
     "comment2": "Lootbox T3 + General Exp",
     "lootBox": "46+1",
     "addRiftCoin": 12000,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -158591,6 +158632,7 @@
     "lootBox": "46+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 120,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -158600,24 +158642,27 @@
     "lootBox": "46+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 120,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
     "rewardID": 9929,
     "comment1": "Legendary Dragon Defeat Reward 13",
     "comment2": "Dragon Scales + Tiles",
-    "addDragonScaleSplinters": 1000,
+    "addDragonScaleSplinters": 700,
     "addRiftCoin": 12000,
-    "addDragonScaleTile": 400,
+    "addDragonScaleTile": 250,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
     "rewardID": 9930,
     "comment1": "Legendary Dragon Defeat Reward 14",
     "comment2": "Dragon Scales + Tiles",
-    "addDragonScaleSplinters": 2000,
+    "addDragonScaleSplinters": 1400,
     "addRiftCoin": 12000,
-    "addDragonScaleTile": 400,
+    "addDragonScaleTile": 250,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -158627,24 +158672,27 @@
     "lootBox": "46+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 120,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
     "rewardID": 9932,
     "comment1": "Legendary Dragon Defeat Reward 16",
     "comment2": "Dragon Scales + Tiles",
-    "addDragonScaleSplinters": 2000,
+    "addDragonScaleSplinters": 1400,
     "addRiftCoin": 12000,
-    "addDragonScaleTile": 400,
+    "addDragonScaleTile": 250,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
     "rewardID": 9933,
     "comment1": "Legendary Dragon Defeat Reward 17",
     "comment2": "Dragon Scales + Tiles",
-    "addDragonScaleSplinters": 3000,
+    "addDragonScaleSplinters": 2100,
     "addRiftCoin": 12000,
-    "addDragonScaleTile": 400,
+    "addDragonScaleTile": 250,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -158654,15 +158702,17 @@
     "lootBox": "46+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 120,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
     "rewardID": 9935,
     "comment1": "Legendary Dragon Defeat Reward 19",
     "comment2": "Ducat + Plaster",
-    "addImperialDucat": 100,
+    "addImperialDucat": 70,
     "addRiftCoin": 12000,
-    "addPlaster": 4000,
+    "addPlaster": 2500,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -158672,6 +158722,7 @@
     "lootBox": "46+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 120,
+    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -159237,6 +159288,726 @@
     "addRiftCoin": 100,
     "addPlaster": 250,
     "grantType": 2
+  },
+  {
+    "rewardID": 11027,
+    "comment1": "Leaderboard Rewards - Diamond Rank 1",
+    "currency2": 1000000,
+    "addDragonScaleSplinters": 7500,
+    "addDragonScaleTile": 1000,
+    "buildingWodID": "4447#4443",
+    "equipmentIDs": 1585,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11028,
+    "comment1": "Leaderboard Rewards - Diamond Rank 2",
+    "currency2": 750000,
+    "addDragonScaleSplinters": 7000,
+    "addDragonScaleTile": 900,
+    "buildingWodID": "4447#4443",
+    "equipmentIDs": 1586,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11029,
+    "comment1": "Leaderboard Rewards - Diamond Rank 3",
+    "currency2": 500000,
+    "addDragonScaleSplinters": 6500,
+    "addDragonScaleTile": 800,
+    "buildingWodID": 4447,
+    "equipmentIDs": 1586,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11030,
+    "comment1": "Leaderboard Rewards - Diamond Rank 4",
+    "currency2": 350000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11031,
+    "comment1": "Leaderboard Rewards - Diamond Rank 5",
+    "currency2": 200000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11032,
+    "comment1": "Leaderboard Rewards - Gold Rank 1",
+    "addDragonScaleSplinters": 5000,
+    "addDragonScaleTile": 500,
+    "buildingWodID": "4446#4442",
+    "equipmentIDs": 1584,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11033,
+    "comment1": "Leaderboard Rewards - Gold Rank 2",
+    "addDragonScaleSplinters": 4500,
+    "addDragonScaleTile": 400,
+    "buildingWodID": "4446#4442",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11034,
+    "comment1": "Leaderboard Rewards - Gold Rank 3",
+    "addDragonScaleSplinters": 4000,
+    "addDragonScaleTile": 300,
+    "buildingWodID": 4446,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11035,
+    "comment1": "Leaderboard Rewards - Gold Rank 4",
+    "addDragonScaleSplinters": 4000,
+    "addDragonScaleTile": 300,
+    "buildingWodID": 4446,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11036,
+    "comment1": "Leaderboard Rewards - Gold Rank 5",
+    "addDragonScaleSplinters": 4000,
+    "addDragonScaleTile": 300,
+    "buildingWodID": 4446,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11037,
+    "comment1": "Leaderboard Rewards - Silver Rank 1",
+    "addPlaster": 4000,
+    "addImperialDucat": 100,
+    "addSceatToken": 100,
+    "buildingWodID": "4445#4441",
+    "equipmentIDs": 1583,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11038,
+    "comment1": "Leaderboard Rewards - Silver Rank 2",
+    "addPlaster": 4000,
+    "addImperialDucat": 100,
+    "addSceatToken": 100,
+    "buildingWodID": "4445#4441",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11039,
+    "comment1": "Leaderboard Rewards - Silver Rank 3",
+    "addPlaster": 4000,
+    "addImperialDucat": 100,
+    "addSceatToken": 100,
+    "buildingWodID": 4445,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11040,
+    "comment1": "Leaderboard Rewards - Silver Rank 4",
+    "addPlaster": 4000,
+    "addImperialDucat": 100,
+    "addSceatToken": 100,
+    "buildingWodID": 4445,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11041,
+    "comment1": "Leaderboard Rewards - Silver Rank 5",
+    "addPlaster": 4000,
+    "addImperialDucat": 100,
+    "addSceatToken": 100,
+    "buildingWodID": 4445,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11042,
+    "comment1": "Leaderboard Rewards - Silver Rank 6",
+    "addPlaster": 4000,
+    "addImperialDucat": 100,
+    "addSceatToken": 100,
+    "buildingWodID": 4445,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11043,
+    "comment1": "Leaderboard Rewards - Bronze Rank 1",
+    "addPlaster": 3500,
+    "addImperialDucat": 85,
+    "addSceatToken": 85,
+    "buildingWodID": "4444#4440",
+    "equipmentIDs": 1582,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11044,
+    "comment1": "Leaderboard Rewards - Bronze Rank 2",
+    "addPlaster": 3500,
+    "addImperialDucat": 85,
+    "addSceatToken": 85,
+    "buildingWodID": "4444#4440",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11045,
+    "comment1": "Leaderboard Rewards - Bronze Rank 3",
+    "addPlaster": 3500,
+    "addImperialDucat": 85,
+    "addSceatToken": 85,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11046,
+    "comment1": "Leaderboard Rewards - Bronze Rank 4",
+    "addPlaster": 3500,
+    "addImperialDucat": 85,
+    "addSceatToken": 85,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11047,
+    "comment1": "Leaderboard Rewards - Bronze Rank 5",
+    "addPlaster": 3500,
+    "addImperialDucat": 85,
+    "addSceatToken": 85,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11048,
+    "comment1": "Leaderboard Rewards - Bronze Rank 6",
+    "addPlaster": 3500,
+    "addImperialDucat": 85,
+    "addSceatToken": 85,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11049,
+    "comment1": "Leaderboard Rewards - Glass Rank 1",
+    "addLegendaryMaterial": 3000,
+    "addLegendaryToken": 1500,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11050,
+    "comment1": "Leaderboard Rewards - Glass Rank 2",
+    "addLegendaryMaterial": 3000,
+    "addLegendaryToken": 1500,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11051,
+    "comment1": "Leaderboard Rewards - Glass Rank 3",
+    "addLegendaryMaterial": 3000,
+    "addLegendaryToken": 1500,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11052,
+    "comment1": "Leaderboard Rewards - Glass Rank 4",
+    "addLegendaryMaterial": 3000,
+    "addLegendaryToken": 1500,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11053,
+    "comment1": "Leaderboard Rewards - Glass Rank 5",
+    "addLegendaryMaterial": 3000,
+    "addLegendaryToken": 1500,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11054,
+    "comment1": "Leaderboard Rewards - Glass Rank 6",
+    "addLegendaryMaterial": 3000,
+    "addLegendaryToken": 1500,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11055,
+    "comment1": "Leaderboard Rewards - Glass Rank 7",
+    "addLegendaryMaterial": 3000,
+    "addLegendaryToken": 1500,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11056,
+    "comment1": "Leaderboard Rewards - Glass Rank 8",
+    "addLegendaryMaterial": 3000,
+    "addLegendaryToken": 1500,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11057,
+    "comment1": "Leaderboard Rewards - Copper Rank 1",
+    "addLegendaryMaterial": 2500,
+    "addLegendaryToken": 1250,
+    "addImperialDucat": 50,
+    "addSceatToken": 50,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11058,
+    "comment1": "Leaderboard Rewards - Copper Rank 2",
+    "addLegendaryMaterial": 2500,
+    "addLegendaryToken": 1250,
+    "addImperialDucat": 50,
+    "addSceatToken": 50,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11059,
+    "comment1": "Leaderboard Rewards - Copper Rank 3",
+    "addLegendaryMaterial": 2500,
+    "addLegendaryToken": 1250,
+    "addImperialDucat": 50,
+    "addSceatToken": 50,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11060,
+    "comment1": "Leaderboard Rewards - Copper Rank 4",
+    "addLegendaryMaterial": 2500,
+    "addLegendaryToken": 1250,
+    "addImperialDucat": 50,
+    "addSceatToken": 50,
+    "buildingWodID": 4444,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11061,
+    "comment1": "Leaderboard Rewards - Copper Rank 5",
+    "addLegendaryMaterial": 2500,
+    "addLegendaryToken": 1250,
+    "addImperialDucat": 50,
+    "addSceatToken": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11062,
+    "comment1": "Leaderboard Rewards - Copper Rank 6",
+    "addLegendaryMaterial": 2500,
+    "addLegendaryToken": 1250,
+    "addImperialDucat": 50,
+    "addSceatToken": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11063,
+    "comment1": "Leaderboard Rewards - Copper Rank 7",
+    "addLegendaryMaterial": 2500,
+    "addLegendaryToken": 1250,
+    "addImperialDucat": 50,
+    "addSceatToken": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11064,
+    "comment1": "Leaderboard Rewards - Copper Rank 8",
+    "addLegendaryMaterial": 2500,
+    "addLegendaryToken": 1250,
+    "addImperialDucat": 50,
+    "addSceatToken": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11065,
+    "comment1": "Leaderboard Rewards - Copper Rank 9",
+    "addLegendaryMaterial": 2500,
+    "addLegendaryToken": 1250,
+    "addImperialDucat": 50,
+    "addSceatToken": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11066,
+    "comment1": "Leaderboard Rewards - Copper Rank 10",
+    "addLegendaryMaterial": 2500,
+    "addLegendaryToken": 1250,
+    "addImperialDucat": 50,
+    "addSceatToken": 50,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11067,
+    "comment1": "Activity Rewards - Diamond Rank 1",
+    "comment2": "Diamond PO Deco",
+    "buildingWodID": 4439,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11068,
+    "comment1": "Activity Rewards - Diamond Rank 2",
+    "comment2": "RC + Dragon Scale Splinter",
+    "addRiftCoin": 1100,
+    "addDragonScaleSplinters": 3000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11069,
+    "comment1": "Activity Rewards - Diamond Rank 3",
+    "comment2": "Lootbox ID 34 + Dragon Tile",
+    "lootBox": "34+1",
+    "addDragonScaleTile": 4000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11070,
+    "comment1": "Activity Rewards - Diamond Rank 4",
+    "comment2": "Ducat + RC",
+    "addRiftCoin": 1100,
+    "addImperialDucat": 75,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11071,
+    "comment1": "Activity Rewards - Diamond Rank 5",
+    "comment2": "Plaster + GenXP",
+    "addGenXP15000": 55,
+    "addPlaster": 1500,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11072,
+    "comment1": "Activity Rewards - Gold Rank 1",
+    "comment2": "Gold PO Deco + RC",
+    "buildingWodID": 4438,
+    "addRiftCoin": 1000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11073,
+    "comment1": "Activity Rewards - Gold Rank 2",
+    "comment2": "Plaster + GenXP",
+    "addGenXP15000": 40,
+    "addPlaster": 1000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11074,
+    "comment1": "Activity Rewards - Gold Rank 3",
+    "comment2": "LootboxID33 + FrontAmountCI",
+    "constructionItemIDs": "30453+1",
+    "lootBox": "33+15",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11075,
+    "comment1": "Activity Rewards - Gold Rank 4",
+    "comment2": "Ducat + RC",
+    "addImperialDucat": 50,
+    "addRiftCoin": 1000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11076,
+    "comment1": "Activity Rewards - Gold Rank 5",
+    "comment2": "GenXP + Sceat",
+    "addGenXP15000": 25,
+    "addSceatToken": 1000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11077,
+    "comment1": "Activity Rewards - SIlver Rank 1",
+    "comment2": "Silver PO Deco + FlankAmountCI",
+    "buildingWodID": 4437,
+    "constructionItemIDs": "30560+1",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11078,
+    "comment1": "Activity Rewards - SIlver Rank 2",
+    "comment2": "CYStrCI + Ashira Token",
+    "constructionItemIDs": "30422+2",
+    "addAshiraToken": 30,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11079,
+    "comment1": "Activity Rewards - SIlver Rank 3",
+    "comment2": "DragonMeleeDebuffT2 + DragonRangedDebuffT2",
+    "units": "808+60#811+60",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11080,
+    "comment1": "Activity Rewards - SIlver Rank 4",
+    "comment2": "Ashira Token + RC",
+    "addRiftCoin": 1600,
+    "addAshiraToken": 20,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11081,
+    "comment1": "Activity Rewards - SIlver Rank 5",
+    "comment2": "LootboxID33 + InfectionRate T2",
+    "lootBox": "33+12",
+    "units": "580+35",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11082,
+    "comment1": "Activity Rewards - Bronze Rank 1",
+    "comment2": "Bronze PO Deco + Samurai Booster",
+    "buildingWodID": 4436,
+    "units": "511+10000",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11083,
+    "comment1": "Activity Rewards - Bronze Rank 2",
+    "comment2": "DragonMeleeDebuffT1 + DragonRangedDebuffT1",
+    "units": "807+120#810+120",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11084,
+    "comment1": "Activity Rewards - Bronze Rank 3",
+    "comment2": "RangedStrCI + FSWallDelayAll T2",
+    "constructionItemIDs": "30493+2",
+    "units": "971+5",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11085,
+    "comment1": "Activity Rewards - Bronze Rank 4",
+    "comment2": "Nomad Booster + RC",
+    "addRiftCoin": 700,
+    "units": "405+10000",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11086,
+    "comment1": "Activity Rewards - Bronze Rank 5",
+    "comment2": "LootboxID33 + InfectionRate T2",
+    "lootBox": "33+8",
+    "units": "580+35",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11087,
+    "comment1": "Activity Rewards - Glass Rank 1",
+    "comment2": "MeleeSTRCi + InfectionRate T1",
+    "constructionItemIDs": "30403+2",
+    "units": "579+4",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11088,
+    "comment1": "Activity Rewards - Glass Rank 2",
+    "comment2": "LT + RC",
+    "addRiftCoin": 600,
+    "addLegendaryToken": 250,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11089,
+    "comment1": "Activity Rewards - Glass Rank 3",
+    "comment2": "Mead Lvl10 Melee + Ranged",
+    "units": "204+6000#214+6000",
+    "hiddenMead": 60000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11090,
+    "comment1": "Activity Rewards - Glass Rank 4",
+    "comment2": "LM + RC",
+    "addRiftCoin": 600,
+    "addLegendaryMaterial": 500,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11091,
+    "comment1": "Activity Rewards - Glass Rank 5",
+    "comment2": "Wall T2 + Gate T2",
+    "units": "583+900#588+300",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11092,
+    "comment1": "Activity Rewards - Copper Rank 1",
+    "comment2": "WaveNumber EQ + FS WallDelayAll T1",
+    "equipmentIDs": 1063,
+    "units": "967+5",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11093,
+    "comment1": "Activity Rewards - Copper Rank 2",
+    "comment2": "LT + RC",
+    "addRiftCoin": 500,
+    "addLegendaryToken": 150,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11094,
+    "comment1": "Activity Rewards - Copper Rank 3",
+    "comment2": "Mead Lvl10 Melee + Ranged",
+    "units": "204+3000#214+3000",
+    "hiddenMead": 30000,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11095,
+    "comment1": "Activity Rewards - Copper Rank 4",
+    "comment2": "LM + RC",
+    "addRiftCoin": 500,
+    "addLegendaryMaterial": 300,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11096,
+    "comment1": "Activity Rewards - Copper Rank 5",
+    "comment2": "Wall T1 + Gate T1",
+    "units": "568+170#570+60",
+    "grantType": 2
+  },
+  {
+    "rewardID": 11097,
+    "comment1": "Leaderboard Rewards - Qualification Copper Rank 1",
+    "addLegendaryMaterial": 4000,
+    "addLegendaryToken": 2000,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "buildingWodID": 4438,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11098,
+    "comment1": "Leaderboard Rewards - Qualification Copper Rank 2",
+    "addLegendaryMaterial": 4000,
+    "addLegendaryToken": 2000,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "buildingWodID": 4438,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11099,
+    "comment1": "Leaderboard Rewards - Qualification Copper Rank 3",
+    "addLegendaryMaterial": 4000,
+    "addLegendaryToken": 2000,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "buildingWodID": 4438,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11100,
+    "comment1": "Leaderboard Rewards - Qualification Copper Rank 4",
+    "addLegendaryMaterial": 4000,
+    "addLegendaryToken": 2000,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "buildingWodID": 4438,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11101,
+    "comment1": "Leaderboard Rewards - Qualification Copper Rank 5",
+    "addLegendaryMaterial": 4000,
+    "addLegendaryToken": 2000,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11102,
+    "comment1": "Leaderboard Rewards - Qualification Copper Rank 6",
+    "addLegendaryMaterial": 4000,
+    "addLegendaryToken": 2000,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11103,
+    "comment1": "Leaderboard Rewards - Qualification Copper Rank 7",
+    "addLegendaryMaterial": 4000,
+    "addLegendaryToken": 2000,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11104,
+    "comment1": "Leaderboard Rewards - Qualification Copper Rank 8",
+    "addLegendaryMaterial": 4000,
+    "addLegendaryToken": 2000,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11105,
+    "comment1": "Leaderboard Rewards - Qualification Copper Rank 9",
+    "addLegendaryMaterial": 4000,
+    "addLegendaryToken": 2000,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11106,
+    "comment1": "Leaderboard Rewards - Qualification Copper Rank 10",
+    "addLegendaryMaterial": 4000,
+    "addLegendaryToken": 2000,
+    "addImperialDucat": 70,
+    "addSceatToken": 70,
+    "grantType": 2
+  },
+  {
+    "rewardID": 11107,
+    "comment1": "Subdivision Leaderboard Rewards - 1 - Alliance Funds",
+    "comment2": "Diamond1",
+    "allianceCoatLayout": "19+604800",
+    "grantType": 1
+  },
+  {
+    "rewardID": 11108,
+    "comment1": "Subdivision Leaderboard Rewards - 2 - Alliance Funds",
+    "comment2": "Gold1",
+    "allianceCoatLayout": "18+604800",
+    "grantType": 1
+  },
+  {
+    "rewardID": 11109,
+    "comment1": "Subdivision Leaderboard Rewards - 3 - Alliance Funds",
+    "comment2": "Silver1",
+    "allianceCoatLayout": "17+604800",
+    "grantType": 1
+  },
+  {
+    "rewardID": 11110,
+    "comment1": "Subdivision Leaderboard Rewards - 3 - Alliance Funds",
+    "comment2": "Bronze1",
+    "allianceCoatLayout": "16+604800",
+    "grantType": 1
   },
   {
     "rewardID": 20001,

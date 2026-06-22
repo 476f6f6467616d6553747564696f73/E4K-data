@@ -102,5 +102,41 @@
     "eventID": 129,
     "noofColors": 3,
     "effectIconID": 1
+  },
+  {
+    "allianceCoatLayoutID": 16,
+    "comment1": "ARMEBronzeRank",
+    "maxDuration": 604800,
+    "effects": "413&amp;1200",
+    "eventID": 137,
+    "noofColors": 3,
+    "effectIconID": 1
+  },
+  {
+    "allianceCoatLayoutID": 17,
+    "comment1": "ARMESilverRank",
+    "maxDuration": 604800,
+    "effects": "413&amp;1300",
+    "eventID": 137,
+    "noofColors": 3,
+    "effectIconID": 1
+  },
+  {
+    "allianceCoatLayoutID": 18,
+    "comment1": "ARMEGoldRank",
+    "maxDuration": 604800,
+    "effects": "413&amp;1400",
+    "eventID": 137,
+    "noofColors": 3,
+    "effectIconID": 1
+  },
+  {
+    "allianceCoatLayoutID": 19,
+    "comment1": "ARMEDiamondRank",
+    "maxDuration": 604800,
+    "effects": "413&amp;1500",
+    "eventID": 137,
+    "noofColors": 3,
+    "effectIconID": 1
   }
 ]

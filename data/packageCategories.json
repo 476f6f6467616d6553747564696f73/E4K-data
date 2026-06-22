@@ -129,6 +129,10 @@
     "name": "OfferingShard"
   },
   {
+    "categoryID": 125,
+    "name": "ImperialDucat"
+  },
+  {
     "categoryID": 999,
     "name": "Overall",
     "sortOrder": 1

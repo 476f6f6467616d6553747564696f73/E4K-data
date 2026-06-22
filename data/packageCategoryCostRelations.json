@@ -142,5 +142,11 @@
     "crossplayID": 24,
     "categoryID": 124,
     "currencyID": 89
+  },
+  {
+    "id": 25,
+    "crossplayID": 25,
+    "categoryID": 125,
+    "currencyID": 64
   }
 ]
