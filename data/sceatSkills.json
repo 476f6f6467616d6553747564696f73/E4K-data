@@ -4064,7 +4064,7 @@
     "requiredLegendLevel": 950,
     "costImperialDucat": 225,
     "activationTime": 2073600,
-    "effects": "180&amp;3070"
+    "effects": "180&amp;3070,180&amp;3068"
   },
   {
     "skillID": 366,
@@ -4079,7 +4079,7 @@
     "requiredLegendLevel": 950,
     "costImperialDucat": 225,
     "activationTime": 2073600,
-    "effects": "180&amp;3072"
+    "effects": "180&amp;3072,180&amp;3070,180&amp;3068"
   },
   {
     "skillID": 367,
@@ -4278,7 +4278,7 @@
     "requiredLegendLevel": 950,
     "costImperialDucat": 250,
     "activationTime": 2073600,
-    "effects": "180&amp;3089"
+    "effects": "180&amp;3089,180&amp;3083"
   },
   {
     "skillID": 380,
@@ -4293,7 +4293,7 @@
     "requiredLegendLevel": 950,
     "costImperialDucat": 250,
     "activationTime": 2073600,
-    "effects": "180&amp;3092"
+    "effects": "180&amp;3092,180&amp;3089,180&amp;3083"
   },
   {
     "skillID": 381,
@@ -4355,7 +4355,7 @@
     "requiredLegendLevel": 950,
     "costImperialDucat": 225,
     "activationTime": 2073600,
-    "effects": "180&amp;3095"
+    "effects": "180&amp;3095,180&amp;3093"
   },
   {
     "skillID": 385,
@@ -4370,7 +4370,7 @@
     "requiredLegendLevel": 950,
     "costImperialDucat": 225,
     "activationTime": 2073600,
-    "effects": "180&amp;3097"
+    "effects": "180&amp;3097,180&amp;3095,180&amp;3093"
   },
   {
     "skillID": 386,

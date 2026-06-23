@@ -4446,6 +4446,14 @@
     "raidBossID": 3
   },
   {
+    "effectID": 498,
+    "crossplayID": 498,
+    "name": "toolRiftPointBoost",
+    "effectTypeID": 168,
+    "capID": 99,
+    "areaTypeID": 43
+  },
+  {
     "effectID": 515,
     "crossplayID": 515,
     "name": "newDefenseWallBonusPVP",
@@ -4588,6 +4596,48 @@
     "effectTypeID": 31,
     "capID": 2113,
     "isPvPFight": 1
+  },
+  {
+    "effectID": 534,
+    "crossplayID": 534,
+    "name": "AREunboostedMeadProductionCapped",
+    "effectTypeID": 161,
+    "capID": 2114,
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 535,
+    "crossplayID": 535,
+    "name": "AREunboostedFoodProductionCapped",
+    "effectTypeID": 69,
+    "capID": 2114,
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 536,
+    "crossplayID": 536,
+    "name": "AREunboostedBeefProductionCapped",
+    "effectTypeID": 190,
+    "capID": 2114,
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 537,
+    "crossplayID": 537,
+    "name": "equipmentAREWallProtectionDebuff",
+    "effectTypeID": 6,
+    "capID": 99,
+    "areaTypeID": 43,
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 538,
+    "crossplayID": 538,
+    "name": "equipmentAREGateProtectionDebuff",
+    "effectTypeID": 7,
+    "capID": 99,
+    "areaTypeID": 43,
+    "isPvPFight": 0
   },
   {
     "effectID": 2101,

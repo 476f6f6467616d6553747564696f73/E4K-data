@@ -1330,5 +1330,10 @@
     "capID": 2113,
     "crossplayID": 2113,
     "maxTotalBonus": 38
+  },
+  {
+    "capID": 2114,
+    "crossplayID": 2114,
+    "maxTotalBonus": 225000
   }
 ]
