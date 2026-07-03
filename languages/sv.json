@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Upphöjd grön oxoasis",
     "deco_ExaltedGreenWatermelonSwing_name": "Upphöjd grön vattenmelon gunga",
     "deco_ExaltedPurpleWatermelonSwing_name": "Upphöjd lila vattenmelon gunga",
-    "deco_ExaltedRedWatermelonSwing_name": "Upphöjd röd vattenmelon gunga"
+    "deco_ExaltedRedWatermelonSwing_name": "Upphöjd röd vattenmelon gunga",
+    "ci_primary_premiumPirateFarm": "Piratfarm",
+    "ci_primary_premiumPirateFarm_flavour": "Även sjörövare behöver förråd. Denna gård odlar kraftig mat mellan förankringsstolpar och fat med väl bevattnad jord.",
+    "ci_primary_premiumPirateHoneyGardens": "Pirat honungsträdgårdar",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Gyllene honung droppar från bikupor bevakade av besättningens vildaste, för ingenting sötar grog som smugglad nektar.",
+    "ci_primary_premiumPirateKeep": "Pirat kärntornet",
+    "ci_primary_premiumPirateKeep_flavour": "Kärntornet med svart flagg, dess salar staplade med plundrade kistor och dess befästningar bemannade av erfarna sjörövarе.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Pirat offensivt verkstad",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Kanoner, krumma svärd och krutfattor: allt som en rövarskara behöver, smidda i glansen från en smugglares lykta.",
+    "ci_primary_premiumPirateTavern": "Pirat värdshus",
+    "ci_primary_premiumPirateTavern_flavour": "Det vildaste Värdshuset på denna sida av de sju haven, där besättningar utbyter skatthistorier över överflödande ölkrus.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Pirat försvarsverkstad",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Skeppsbyggnare som blivit belägringssmedar hamrar försvar från räddade skrov, kanonkulor och god gammal piratingenöritet."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "En token från Berimond-akademien, förseglade för dem som kämpar för både Lejon och Björnar. Använd den för att aktivera Berimond-rådgivaren och utför på varandra följande attacker på fiendens vakttorn. Denna rådgivare ger extra Moral. Mer Moral betyder starkare Trupper och mer skada.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Regenerationsfördröjning för höger vägg efter genombrott {0}",
     "effect_description_noValue_rangeDefenseMalus": "Försvarsstyrka för ranged Försvarsenheter i den tilldelade Vågen vid angrepp på {0}",
     "effect_description_noValue_reserveUnitKill": "Dödar omedelbar enheter från fiendens reserv",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Dödar omedelbar enheter från fiendens reserv"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Dödar omedelbar enheter från fiendens reserv",
+    "effect_name_beefCapacityBonus": "Bonus till nötköttslagringskapacitet på borgen"
   },
   "equipment_": {
     "equipment_unique_1528": "Brons Stalwart hjälm",

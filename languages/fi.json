@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Ylevä vihreä härän keidas",
     "deco_ExaltedGreenWatermelonSwing_name": "Ylevä vihreä vesimelonin keinu",
     "deco_ExaltedPurpleWatermelonSwing_name": "Ylevä violetti vesimelonikiikku",
-    "deco_ExaltedRedWatermelonSwing_name": "Ylevä punainen vesimelonin keinu"
+    "deco_ExaltedRedWatermelonSwing_name": "Ylevä punainen vesimelonin keinu",
+    "ci_primary_premiumPirateFarm": "Piraattitila",
+    "ci_primary_premiumPirateFarm_flavour": "Jopa piraatit tarvitsevat tarvikkeita. Tämä maatila kasvattaa runsasta ruokaa ankkuripaalu jen ja hyvin kastellun maaperän tynnyrien välissä.",
+    "ci_primary_premiumPirateHoneyGardens": "Piraatti hunajatarha",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Kultainen hunaja tihkuu hunajakennoista, joita vartioi miehistön fiksuin, sillä mikään ei makeuta groggia kuten salakuljetettu nektari.",
+    "ci_primary_premiumPirateKeep": "Piraattipäätorni",
+    "ci_primary_premiumPirateKeep_flavour": "Päätorni, joka heiluttaa mustaa lippua, sen saleja täynnä ryöstettyä aarteita ja sen linnoituksia vartioi suolaisia merirosvoita.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Piraattien hyökkäävä työpaja",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Tykit, kaarevat miekat ja ruutibarrelit: kaikki mitä ryöstöjoukko tarvitsee, taottu salakuljettajan lyhdyn hohteessa.",
+    "ci_primary_premiumPirateTavern": "Piraattitaverna",
+    "ci_primary_premiumPirateTavern_flavour": "Pahanpillisin Taverna tämän puolen seitsemässä meressä, jossa miehistöt vaihtavat aarteista kertovia tarinoita ylivuotavien oluttuopeista.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Piraattien puolustusverstas",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Laivantekijät, jotka muuttuivat piirityssepiksiksi, vasaroivat puolustuksia pelastetusta rungosta, tykinkuulista ja vanhasta piraattien kekseliäisyydestä."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Berimondin akatemian merkki, sinetöity niille, jotka taistelevat Leijonien ja Karhujen puolesta. Käytä sitä Berimondin neuvonantajan aktivoimiseen ja peräkkäisten hyökkäysten suorittamiseen vihollisen vartiointorneille. Tämä neuvonantaja antaa lisää Moraalia. Enemmän Moraalia tarkoittaa vahvempia Joukkoja ja enemmän vahinkoa.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Oikean seinän uusiutumisen viive murtautumisen jälkeen {0}",
     "effect_description_noValue_rangeDefenseMalus": "Puolustusvoima etäisyyden Puolustusyksiköille määritetyssä Aallossa hyökättäessä {0}",
     "effect_description_noValue_reserveUnitKill": "Tappaa välittömästi yksiköitä vihollisen varauksesta",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Tappaa välittömästi yksiköitä vihollisen varauksesta"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Tappaa välittömästi yksiköitä vihollisen varauksesta",
+    "effect_name_beefCapacityBonus": "Naudanlihan varastotilan bonus linnassa"
   },
   "equipment_": {
     "equipment_unique_1528": "Pronssinen Stalwart kypärä",

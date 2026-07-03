@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Erhabene grüne Ochsen-Oase",
     "deco_ExaltedGreenWatermelonSwing_name": "Erhabene grüne Wassermelonen-Schaukel",
     "deco_ExaltedPurpleWatermelonSwing_name": "Erhabene lila Wassermelonen-Schaukel",
-    "deco_ExaltedRedWatermelonSwing_name": "Erhabene rote Wassermelonen-Schaukel"
+    "deco_ExaltedRedWatermelonSwing_name": "Erhabene rote Wassermelonen-Schaukel",
+    "ci_primary_premiumPirateFarm": "Piratenfarm",
+    "ci_primary_premiumPirateFarm_flavour": "Auch Freibeuter brauchen Proviant. Dieser Hof baut kräftige Kost zwischen Ankerpfählen und Fässern mit gut bewässertem Boden an.",
+    "ci_primary_premiumPirateHoneyGardens": "Piraten-Honiggärten",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Goldener Honig tropft aus Bienenstöcken, bewacht von den wildesten Mitgliedern der Crew, denn nichts versüßt Grog wie geschmuggelter Nektar.",
+    "ci_primary_premiumPirateKeep": "Piraten-Bergfried",
+    "ci_primary_premiumPirateKeep_flavour": "Ein Bergfried mit schwarzer Flagge, dessen Säle mit geraubten Truhen gefüllt sind und dessen Wehrgänge von erfahrenen Seebären besetzt sind.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Piraten-Offensiv-Werkstatt",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Kanonen, Krummsäbel und Pulverfässer: alles, was eine Raubmannschaft braucht, geschmiedet im Glanz einer Schmuggler-Laterne.",
+    "ci_primary_premiumPirateTavern": "Piraten-Wirtshaus",
+    "ci_primary_premiumPirateTavern_flavour": "Das wildeste Wirtshaus auf dieser Seite der sieben Meere, wo Mannschaften Schatzgeschichten über überquellende Bierkrüge austauschen.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Piraten-Verteidigungswerkstatt",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Schiffsbauer, die zu Belagerungsschmieden wurden, hämmern Verteidigungsanlagen aus geretteten Schiffsrümpfen, Kanonenkugeln und altbewährter Piraten-Erfindungsreichtum."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Ein Token der Berimond-Akademie, versiegelt für diejenigen, die für Löwen und Bären kämpfen. Nutze ihn, um den Berimond-Berater zu aktivieren und führe aufeinanderfolgende Angriffe auf feindliche Wachtürme durch. Dieser Berater gewährt zusätzliche Kampfmoral. Mehr Kampfmoral bedeutet stärkere Truppen und mehr Schaden.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Regenerationsverzögerung der rechten Mauer nach Durchbruch {0}",
     "effect_description_noValue_rangeDefenseMalus": "Verteidigungsstärke für ranged Verteidigungseinheiten in der zugewiesenen Welle beim Angriff auf {0}",
     "effect_description_noValue_reserveUnitKill": "Tötet sofort Einheiten aus der feindlichen Reserve",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Tötet sofort Einheiten aus der feindlichen Reserve"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Tötet sofort Einheiten aus der feindlichen Reserve",
+    "effect_name_beefCapacityBonus": "Bonus zur Fleischlagerkapazität in der Burg"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronzener Stalwart Helm",

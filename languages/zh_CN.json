@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "崇高的绿色牛绿洲",
     "deco_ExaltedGreenWatermelonSwing_name": "高贵绿色西瓜秋千",
     "deco_ExaltedPurpleWatermelonSwing_name": "高贵紫色西瓜秋千",
-    "deco_ExaltedRedWatermelonSwing_name": "高贵红西瓜秋千"
+    "deco_ExaltedRedWatermelonSwing_name": "高贵红西瓜秋千",
+    "ci_primary_premiumPirateFarm": "海盗农场",
+    "ci_primary_premiumPirateFarm_flavour": "即使是海盗也需要补给。这个农场在锚柱和浇灌充分的土壤桶之间种植营养丰富的食物。",
+    "ci_primary_premiumPirateHoneyGardens": "海盗蜂蜜园",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "金色的蜂蜜从由船员中最凶悍的人守卫的蜂巢中滴落，因为没有什么比走私的花蜜更能甜化朗姆酒。",
+    "ci_primary_premiumPirateKeep": "海盗主堡",
+    "ci_primary_premiumPirateKeep_flavour": "一座飘扬黑旗的主堡，其大厅堆满了掠夺的宝箱，城墙由经验丰富的海盗把守。",
+    "ci_primary_premiumPirateOffensiveWorkshop": "海盗进攻工坊",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "大炮、弯刀和火药桶：掠夺船队所需的一切，在走私者灯笼的光芒中锻造而成。",
+    "ci_primary_premiumPirateTavern": "海盗酒馆",
+    "ci_primary_premiumPirateTavern_flavour": "七海这一侧最喧闹的酒馆，船员们在溢满的酒杯上交换宝藏故事。",
+    "ci_primary_premiumPirateDefensiveWorkshop": "海盗防御武器工厂",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "转变为围城铁匠的造船工人用打捞的船体、炮弹和古老的海盗智慧锻造防御工事。"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "来自贝里蒙德学院的令牌，为同时为狮子和熊而战的人们而封印。使用它来激活贝里蒙德顾问，对敌方瞭望塔进行连续攻击。该顾问可增加额外的士气。更多的士气意味着更强的部队和更多的伤害。",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "右墙破口后的再生延迟 {0}",
     "effect_description_noValue_rangeDefenseMalus": "在攻击{0}时，分配的每波进攻中远程防守兵种的防御力",
     "effect_description_noValue_reserveUnitKill": "立即击杀敌方预备队的单位",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "立即击杀敌方预备队的单位"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "立即击杀敌方预备队的单位",
+    "effect_name_beefCapacityBonus": "城堡牛肉存储容量奖励"
   },
   "equipment_": {
     "equipment_unique_1528": "青铜坚定头盔",

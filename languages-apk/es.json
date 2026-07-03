@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Oasis del Buey Verde Exaltado",
     "deco_ExaltedGreenWatermelonSwing_name": "Columpio de sandía verde exaltado",
     "deco_ExaltedPurpleWatermelonSwing_name": "Columpio de Sandía Púrpura Exaltado",
-    "deco_ExaltedRedWatermelonSwing_name": "Columpio de sandía roja exaltado"
+    "deco_ExaltedRedWatermelonSwing_name": "Columpio de sandía roja exaltado",
+    "ci_primary_premiumPirateFarm": "Granja pirata",
+    "ci_primary_premiumPirateFarm_flavour": "Incluso los bucaneros necesitan provisiones. Esta granja cultiva comida sustanciosa entre postes de anclaje y barriles de tierra bien regada.",
+    "ci_primary_premiumPirateHoneyGardens": "jardines de miel piratas",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "La miel dorada gotea de colmenas custodiadas por los más fieros de la tripulación, pues nada endulza el grog como el néctar de contrabando.",
+    "ci_primary_premiumPirateKeep": "Torreón pirata",
+    "ci_primary_premiumPirateKeep_flavour": "Un Torreón con bandera negra, sus salones apilados con cofres saqueados y sus almenas defendidas por curtidos perros de mar.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Taller pirata de ataque",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Cañones, sables curvos y barriles de pólvora: todo lo que necesita una tripulación de asaltantes, forjado en el brillo de una linterna de contrabandista.",
+    "ci_primary_premiumPirateTavern": "Taberna pirata",
+    "ci_primary_premiumPirateTavern_flavour": "La Taberna más ruidosa de este lado de los siete mares, donde las tripulaciones intercambian historias de tesoros sobre jarras rebosantes.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Taller de defensa pirata",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Los constructores de barcos convertidos en herreros de asedio forjan defensas con cascos salvados, balas de cañón e ingenio pirata de toda la vida."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Un token de la Academia Berimond, sellado para quienes luchan por Leones y Osos. Úsalo para activar el Asesor Berimond y ejecutar ataques consecutivos en torres de vigilancia enemigas. Este asesor otorga Moral adicional. Más Moral significa Tropas más fuertes y más daño.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Retraso de regeneración del muro derecho después de la brecha {0}",
     "effect_description_noValue_rangeDefenseMalus": "Fuerza de defensa para Unidades de defensa a distancia en la Oleada asignada al atacar {0}",
     "effect_description_noValue_reserveUnitKill": "Mata instantáneamente unidades de la reserva enemiga",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Mata instantáneamente unidades de la reserva enemiga"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Mata instantáneamente unidades de la reserva enemiga",
+    "effect_name_beefCapacityBonus": "Bonificación de capacidad de almacenamiento de carne en castillo"
   },
   "equipment_": {
     "equipment_unique_1528": "Yelmo Stalwart de Bronce",

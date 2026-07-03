@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Wyniosła zielona oaza wołu",
     "deco_ExaltedGreenWatermelonSwing_name": "Wyniosła zielona huśtawka arbuza",
     "deco_ExaltedPurpleWatermelonSwing_name": "Wyniosła fioletowa huśtawka arbuza",
-    "deco_ExaltedRedWatermelonSwing_name": "Wyniosła czerwona huśtawka arbuza"
+    "deco_ExaltedRedWatermelonSwing_name": "Wyniosła czerwona huśtawka arbuza",
+    "ci_primary_premiumPirateFarm": "Farma piratów",
+    "ci_primary_premiumPirateFarm_flavour": "Nawet bukanierzy potrzebują zaopatrzenia. Ta farma uprawia pożywną żywność między słupami kotwicy a beczkami dobrze nawodnionej gleby.",
+    "ci_primary_premiumPirateHoneyGardens": "Miodowe ogrody piratów",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Złoty miód kapie z uli strzeżonych przez najzagorzałszych członków załogi, bo nic nie słodzi groga jak przemycany nektar.",
+    "ci_primary_premiumPirateKeep": "Warownia piratów",
+    "ci_primary_premiumPirateKeep_flavour": "Warownia z czarną flagą, jej sale zastawione łupem w postaci skrzyń i jej mury bronione przez doświadczonych piratów.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Warsztat piracki ataku",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Armaty, krzywe miecze i beczki prochu: wszystko, czego potrzebuje banda rabusiów, wykute w blasku latarni przemytnika.",
+    "ci_primary_premiumPirateTavern": "Tawerna piratów",
+    "ci_primary_premiumPirateTavern_flavour": "Najgłośniejsza Tawerna po tej stronie siedmiu mórz, gdzie załogi wymieniają się opowieściami o skarbach nad przepełnionymi kuflami.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Warsztat obronny piratów",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Budowniczowie statków zamieniający się w oblężniczych kowali kują obronę z uratowanych kadłubów, kul armatnich i starej piratskiej pomysłowości."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Token z Akademii Berimond, zapieczętowany dla tych, którzy walczą dla Lwów i Niedźwiedzi. Użyj go, aby aktywować Doradcę Berimond i wykonać kolejne ataki na wrogich wieżach obserwacyjnych. Ten doradca udziela dodatkowego Morale. Więcej Morale oznacza silniejsze Wojska i więcej obrażeń.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Opóźnienie regeneracji prawego muru po wybiciu {0}",
     "effect_description_noValue_rangeDefenseMalus": "Siła obrony dla Jednostek broniących na dystans w przydzielonej Fali podczas ataku na {0}",
     "effect_description_noValue_reserveUnitKill": "Natychmiast zabija jednostki z rezerwy wroga",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Natychmiast zabija jednostki z rezerwy wroga"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Natychmiast zabija jednostki z rezerwy wroga",
+    "effect_name_beefCapacityBonus": "Bonus do pojemności magazynu wołowiny w zamku"
   },
   "equipment_": {
     "equipment_unique_1528": "Brązowy hełm Stalwart",

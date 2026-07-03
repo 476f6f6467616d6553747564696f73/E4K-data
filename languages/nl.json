@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Verheven groene os-oase",
     "deco_ExaltedGreenWatermelonSwing_name": "Verheven groene watermeloen schommel",
     "deco_ExaltedPurpleWatermelonSwing_name": "Verheven paarse watermeloen schommel",
-    "deco_ExaltedRedWatermelonSwing_name": "Verheven rode watermeloen schommel"
+    "deco_ExaltedRedWatermelonSwing_name": "Verheven rode watermeloen schommel",
+    "ci_primary_premiumPirateFarm": "Piratenfarm",
+    "ci_primary_premiumPirateFarm_flavour": "Zelfs zeerovershebben voorraden nodig. Deze boerderij teelt voedzaam voedsel tussen ankerpalen en vaten met goed bevloeid land.",
+    "ci_primary_premiumPirateHoneyGardens": "Piraten honingtuinen",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Gouden honing druppelt uit bijenkorven bewaakt door de felste leden van de bemanning, want niets zoet grog als smokkelwaar nectar.",
+    "ci_primary_premiumPirateKeep": "Piraten slottoren",
+    "ci_primary_premiumPirateKeep_flavour": "De slottoren met zwarte vlag, zijn zalen gestapeld met geplunderde kisten en zijn vestingwerken bemand door doorgewinterde zeeroovers.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Piraten aanvallend atelier",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Kanonnen, kromme zwaarden en kruitvaten: alles wat een roversbende nodig heeft, gesmeed in het schijnsel van een smokkelaarslantaarn.",
+    "ci_primary_premiumPirateTavern": "Piraten herberg",
+    "ci_primary_premiumPirateTavern_flavour": "De wildste Herberg aan deze kant van de zeven zeeën, waar bemanningen verhalen over schatten uitwisselen boven overlopende bierkroes.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Piraten verdedigingswerkplaats",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Scheepsbouwers die zich tot belegeringssmeden hebben ontwikkeld, smeden verdedigingen uit gered scheepsmateriaal, kanonskogels en goeie oude piraten-vindingrijkheid."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Een token van de Berimond-academie, verzegeld voor degenen die voor Leeuwen en Beren strijden. Gebruik het om de Berimond-adviseur te activeren en voer opeenvolgende aanvallen uit op vijandelijke wachttorens. Deze adviseur verleent extra Moreel. Meer Moreel betekent sterkere Troepen en meer schade.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Regeneratievertraging van rechtermuur na doorbraak {0}",
     "effect_description_noValue_rangeDefenseMalus": "Verdedigingskracht voor ranged Verdedigingseenheden in de toegewezen Aanvalsgolf bij aanval op {0}",
     "effect_description_noValue_reserveUnitKill": "Doodt onmiddellijk eenheden uit de vijandelijke reserve",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Doodt onmiddellijk eenheden uit de vijandelijke reserve"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Doodt onmiddellijk eenheden uit de vijandelijke reserve",
+    "effect_name_beefCapacityBonus": "Bonus rundvleesopslagcapaciteit in kasteel"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronzen Stalwart helm",
