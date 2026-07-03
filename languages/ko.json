@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "고귀한 녹색 소 오아시스",
     "deco_ExaltedGreenWatermelonSwing_name": "고귀한 초록 수박 그네",
     "deco_ExaltedPurpleWatermelonSwing_name": "고귀한 보라색 수박 그네",
-    "deco_ExaltedRedWatermelonSwing_name": "고귀한 빨간 수박 그네"
+    "deco_ExaltedRedWatermelonSwing_name": "고귀한 빨간 수박 그네",
+    "ci_primary_premiumPirateFarm": "해적 농장",
+    "ci_primary_premiumPirateFarm_flavour": "심지어 해적들도 식량이 필요하다. 이 농장은 닻 기둥과 충분히 물을 준 흙 통 사이에서 영양가 있는 음식을 재배한다.",
+    "ci_primary_premiumPirateHoneyGardens": "해적 벌꿀 정원",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "황금빛 벌꿀이 선원들 중 가장 흉악한 자들이 지키는 벌집에서 떨어진다. 밀수품 꿀처럼 럼주를 달콤하게 만드는 것은 없다.",
+    "ci_primary_premiumPirateKeep": "해적 아성",
+    "ci_primary_premiumPirateKeep_flavour": "검은 깃발을 휘날리는 아성. 약탈당한 상자들로 가득 찬 홀과 노련한 해적들이 지키는 성벽.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "해적 공격 작업장",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "대포, 곡선 칼, 화약통: 약탈 선단이 필요로 하는 모든 것. 밀수꾼의 등불 빛 속에서 단련되었다.",
+    "ci_primary_premiumPirateTavern": "해적 선술집",
+    "ci_primary_premiumPirateTavern_flavour": "일곱 바다의 이쪽에서 가장 시끄러운 선술집. 여기서 선원들은 넘쳐나는 잔 위에서 보물 이야기를 나눈다.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "해적 수성병기 제작소",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "배 건조공에서 포위 대장장이로 변신한 자들이 구조된 선체, 포탄, 그리고 오랜 해적의 독창성으로 방어를 만들어낸다."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "베리몬드 학원의 토큰으로, 사자와 곰을 위해 싸우는 자들을 위해 봉인되어 있습니다. 베리몬드 고문을 활성화하고 적의 감시탑에 연속 공격을 실행하는 데 사용하세요. 이 고문은 추가 사기를 부여합니다. 사기가 높을수록 군대가 강해지고 피해가 증가합니다.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "우측 벽 파괴 후 재생 지연 {0}",
     "effect_description_noValue_rangeDefenseMalus": "{0} 공격 시 할당된 공격대의 원거리 방어 유닛에 대한 방어력",
     "effect_description_noValue_reserveUnitKill": "적의 예비 부대 유닛을 즉시 처치합니다",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "적의 예비 부대 유닛을 즉시 처치합니다"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "적의 예비 부대 유닛을 즉시 처치합니다",
+    "effect_name_beefCapacityBonus": "성의 소고기 저장 용량 보너스"
   },
   "equipment_": {
     "equipment_unique_1528": "청동 스탈워트 투구",

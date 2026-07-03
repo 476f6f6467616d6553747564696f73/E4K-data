@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Oaza Taurului Verde Exaltat",
     "deco_ExaltedGreenWatermelonSwing_name": "Leagănul dovleac verde exaltat",
     "deco_ExaltedPurpleWatermelonSwing_name": "Leagăn Dovleac Violet Exaltat",
-    "deco_ExaltedRedWatermelonSwing_name": "Leagănul dovleac roșu exaltat"
+    "deco_ExaltedRedWatermelonSwing_name": "Leagănul dovleac roșu exaltat",
+    "ci_primary_premiumPirateFarm": "Fermă de piraţi",
+    "ci_primary_premiumPirateFarm_flavour": "Chiar și pirații au nevoie de provizii. Această fermă cultivă mâncare hrănitoare între stâlpii de ancoră și butoaie cu pământ bine udat.",
+    "ci_primary_premiumPirateHoneyGardens": "Grădină cu miere pirat",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Mierea de aur se scurge din stupii păziți de cei mai fieroși membri ai echipajului, căci nimic nu îndulcește grogul ca nectarul de contrabandă.",
+    "ci_primary_premiumPirateKeep": "Donjonul pirat",
+    "ci_primary_premiumPirateKeep_flavour": "Un Donjonul cu steag negru, salile sale pline cu cufere jefuite și zidurile sale păzite de cărturari de mare.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Atelier pirat ofensivă",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Tunuri, săbii curbate și butoaie cu praf: tot ceea ce are nevoie un echipaj de jafuri, forjat în strălucirea unei lanterne de contrabandist.",
+    "ci_primary_premiumPirateTavern": "Tavernă de pirați",
+    "ci_primary_premiumPirateTavern_flavour": "Cea mai gălăgioasă Tavernă de pe această parte a celor șapte mări, unde echipajele schimbă povești despre comori peste cupe pline.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Atelier defensivă pirat",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Constructorii de nave transformați în fierari de asediu forjează apărări din corpuri de nave salvate, ghiulele de tun și veche ingeniozitate piratică."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Un jeton din Academia Berimond, sigilat pentru cei care luptă pentru Leoni și Urși. Folosește-l pentru a activa Consilierul Berimond și execută atacuri consecutive pe turnurile de veghe inamice. Acest consilier acordă Moral suplimentar. Mai mult Moral înseamnă Trupe mai puternice și mai mult rău.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Întârziere regenerare perete drept după breșă {0}",
     "effect_description_noValue_rangeDefenseMalus": "Putere defensivă pentru Unităţi defensive la distanță în Valul asignat la atacul asupra {0}",
     "effect_description_noValue_reserveUnitKill": "Ucide instantaneu unitățile din rezerva inamică",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Ucide instantaneu unitățile din rezerva inamică"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Ucide instantaneu unitățile din rezerva inamică",
+    "effect_name_beefCapacityBonus": "Bonus capacitate stocare carne de vită în castel"
   },
   "equipment_": {
     "equipment_unique_1528": "Coif Stalwart din Bronz",

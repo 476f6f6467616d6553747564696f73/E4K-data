@@ -29,5 +29,5 @@ readdirSync(__dirname + '/languages/').forEach(function (file) {
     module.exports.languages[file.replace('.json', '')] = require('./languages/' + file);
 });
 
-module.exports.network = require('./network/72.json');
+module.exports.network = require('./network/network.json');
 module.exports.networkPreClient = require('./network/77.json');

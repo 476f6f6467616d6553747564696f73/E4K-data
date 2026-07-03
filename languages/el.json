@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Ύψωση Πράσινη Όαση Βόδι",
     "deco_ExaltedGreenWatermelonSwing_name": "Εξαιρετική πράσινη κούνια καρπουζιού",
     "deco_ExaltedPurpleWatermelonSwing_name": "Εξαιρετική Μωβ Κούνια Καρπουζιού",
-    "deco_ExaltedRedWatermelonSwing_name": "Εξαιρετική κόκκινη κούνια καρπουζιού"
+    "deco_ExaltedRedWatermelonSwing_name": "Εξαιρετική κόκκινη κούνια καρπουζιού",
+    "ci_primary_premiumPirateFarm": "Πειρατική φάρμα",
+    "ci_primary_premiumPirateFarm_flavour": "Ακόμα και οι πειρατές χρειάζονται προμήθειες. Αυτή η φάρμα καλλιεργεί θρεπτικά τρόφιμα ανάμεσα σε στύλους αγκύρας και βαρέλια με καλά ποτισμένο χώμα.",
+    "ci_primary_premiumPirateHoneyGardens": "Πειρατικοί μελόκηποι",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Χρυσό μέλι στάζει από κυψέλες που φυλάσσονται από τους άγριους του πληρώματος, γιατί τίποτα δεν γλυκαίνει το grog όπως το παράνομο νέκταρ.",
+    "ci_primary_premiumPirateKeep": "Πειρατικός κεντρικός πύργος",
+    "ci_primary_premiumPirateKeep_flavour": "Ένας Κεντρικός πύργος με μαύρη σημαία, οι αίθουσές του γεμάτες με λεηλατημένα κιβώτια και τα οχυρώματά του φρουρούμενα από άλμυρους θαλασσοπόρους.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Πειρατικό επιθετικό εργαστήριο",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Κανόνια, κρυμμένα σπαθιά και βαρέλια με σκόνη: όλα όσα χρειάζεται ένα πληρώματα λεηλασίας, σφυρηλατημένα στη λάμψη του φαναριού ενός λαθρέμπορου.",
+    "ci_primary_premiumPirateTavern": "Ταβέρνα πειρατών",
+    "ci_primary_premiumPirateTavern_flavour": "Η θορυβώδης Ταβέρνα σε αυτή την πλευρά των επτά θαλασσών, όπου τα πληρώματα ανταλλάσσουν ιστορίες θησαυρών πάνω από υπερχειλίζοντα κούπες.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Εργαστήριο άμυνας πειρατών",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Οι ναυπηγοί που έγιναν πολιορκητικοί σιδεράδες σφυρηλατούν άμυνες από διασωθέντες κύτη, βολίδες και παλιά πειρατική εφευρετικότητα."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Ένα token από την Ακαδημία Berimond, σφραγισμένο για όσους πολεμούν για Λιοντάρια και Αρκούδες. Χρησιμοποιήστε το για να ενεργοποιήσετε τον Σύμβουλο Berimond και να εκτελέσετε διαδοχικές επιθέσεις στους εχθρικούς πύργους παρατήρησης. Αυτός ο σύμβουλος παρέχει επιπλέον Ηθικό. Περισσότερο Ηθικό σημαίνει ισχυρότερα Στρατεύματα και περισσότερη ζημιά.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Καθυστέρηση αναγέννησης δεξιού τείχους μετά τη διάσπαση {0}",
     "effect_description_noValue_rangeDefenseMalus": "Ισχύς Άμυνας για Μονάδες άμυνας εξ αποστάσεως στην ανατεθειμένη Κύμα κατά την επίθεση στο {0}",
     "effect_description_noValue_reserveUnitKill": "Σκοτώνει αμέσως μονάδες από την εχθρική ανταπόδοση",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Σκοτώνει αμέσως μονάδες από την εχθρική ανταπόδοση"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Σκοτώνει αμέσως μονάδες από την εχθρική ανταπόδοση",
+    "effect_name_beefCapacityBonus": "Μπόνους χωρητικότητας αποθήκευσης μοσχαριού στο κάστρο"
   },
   "equipment_": {
     "equipment_unique_1528": "Χάλκινος Σταθερός κράνος",

@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Yükseltilmiş Yeşil Öküz Vahasında",
     "deco_ExaltedGreenWatermelonSwing_name": "Yükseltilmiş yeşil karpuz salıncağı",
     "deco_ExaltedPurpleWatermelonSwing_name": "Yüksek Mor Karpuz Salıncağı",
-    "deco_ExaltedRedWatermelonSwing_name": "Yüksek kırmızı karpuz salıncağı"
+    "deco_ExaltedRedWatermelonSwing_name": "Yüksek kırmızı karpuz salıncağı",
+    "ci_primary_premiumPirateFarm": "Korsan çiftliği",
+    "ci_primary_premiumPirateFarm_flavour": "Hatta korsanlar da ihtiyaç duyar. Bu çiftlik, çapa direkleri ve iyi sulanmış toprak fıçıları arasında besleyici yiyecek yetiştiriyor.",
+    "ci_primary_premiumPirateHoneyGardens": "Korsan bal bahçeleri",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Altın bal, mürettebatın en vahşi üyeleri tarafından korunan arı kovanlarından damlıyor, çünkü hiçbir şey grogü kaçak nektar kadar tatlandırmaz.",
+    "ci_primary_premiumPirateKeep": "Korsan İçkale",
+    "ci_primary_premiumPirateKeep_flavour": "Siyah bayrak taşıyan İçkale, salonları yağmalanmış sandıklarla dolu ve savunma duvarları tuzlu deniz köpekleri tarafından korunuyor.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Korsan saldırgan atölyesi",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Toplar, kavisli kılıçlar ve barut fıçıları: bir akın ekibinin ihtiyaç duyduğu her şey, bir kaçakçının fenerinin ışığında dövülmüş.",
+    "ci_primary_premiumPirateTavern": "Korsan Hanı",
+    "ci_primary_premiumPirateTavern_flavour": "Yedi denizin bu tarafındaki en gürültülü Han, mürettebatların taşan bardaklar üzerinde hazine hikayeleri paylaştığı yer.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Korsan savunma atölyesi",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Gemi inşaatçılarından kuşatma demircilerine dönüşenler, kurtarılan gemi gövdelerinden, top mermilerinden ve eski korsan yaratıcılığından savunma çıkarırlar."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Berimond Akademisinden bir jeton, Aslanlar ve Ayılar için savaşanlar için mühürlenmiş. Berimond Danışmanını etkinleştirmek ve düşman gözetleme kulelerine ardışık saldırılar gerçekleştirmek için kullanın. Bu danışman ekstra Savaş azmi verir. Daha fazla Savaş azmi, daha güçlü Askerler ve daha fazla hasar anlamına gelir.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Sağ duvar ihlal sonrası yenileme gecikmesi {0}",
     "effect_description_noValue_rangeDefenseMalus": "Savunma gücü {0} saldırısında atanan Dalgadaki uzak menzilli Savunma birimleri için",
     "effect_description_noValue_reserveUnitKill": "Düşman yedek birlikleri anında öldürür",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Düşman yedek birlikleri anında öldürür"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Düşman yedek birlikleri anında öldürür",
+    "effect_name_beefCapacityBonus": "Kaledeki sığır eti depo kapasitesi bonusu"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronz Stalwart Miğfer",

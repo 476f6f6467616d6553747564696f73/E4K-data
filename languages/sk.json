@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Povznešená zelená oáza voľa",
     "deco_ExaltedGreenWatermelonSwing_name": "Povýšená zelená hojdačka melóna",
     "deco_ExaltedPurpleWatermelonSwing_name": "Povznešené fialové melónové hojdačky",
-    "deco_ExaltedRedWatermelonSwing_name": "Povýšená červená melónová hojdačka"
+    "deco_ExaltedRedWatermelonSwing_name": "Povýšená červená melónová hojdačka",
+    "ci_primary_premiumPirateFarm": "Pirátska farma",
+    "ci_primary_premiumPirateFarm_flavour": "Aj piráti potrebujú zásoby. Táto farma pestuje výživnú stravu medzi kotviacimi stĺpmi a sudmi s dobre zavlažovanou pôdou.",
+    "ci_primary_premiumPirateHoneyGardens": "Pirátske medové záhrady",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Zlatý med kvapká z úľov strážených najzurivejšími členmi posádky, pretože nič neosladí grog ako pašovaný nektar.",
+    "ci_primary_premiumPirateKeep": "Pirátska hradná veža",
+    "ci_primary_premiumPirateKeep_flavour": "Hradná veža s čiernou vlajkou, jej sály naskládané s vykradenými truhlami a jej opevnenia strážené skúsenými morskými psami.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Pirátska útočná dielňa",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Delá, zakrivené meče a sudy s prachom: všetko, čo potrebuje lúpežná posádka, vykované v záre pašeráckej lucerny.",
+    "ci_primary_premiumPirateTavern": "Pirátsky hostinec",
+    "ci_primary_premiumPirateTavern_flavour": "Najhlučnejší Hostinec na tejto strane siedmich morí, kde posádky si vymieňajú príbehy o pokladoch nad pretekajúcimi pohármi.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Pirátska dielňa obranných nástrojov",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Lodní tesári sa zmenili na obliehacích kováčov, ktorí vyrábajú obranu z vrakov lodí, delostreleckých gúľ a starej pirátskej vynaliezavosti."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Token z Akademie Berimond, zapečatený pre tých, ktorí bojujú za Levy a Medvede. Použite ho na aktiváciu Poradcu Berimond a vykonajte po sebe idúce útoky na nepriateľské strážne veže. Tento poradca poskytuje dodatočnú Morálku. Viac Morálky znamená silnejšie Vojsko a viac poškodenia.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Oneskorenie regenerácie pravej steny po prerazení {0}",
     "effect_description_noValue_rangeDefenseMalus": "Sila obrany pre diaľkové Obranné jednotky v priradenej Vlne pri útoku na {0}",
     "effect_description_noValue_reserveUnitKill": "Okamžite zabíja jednotky z nepriateľskej rezervy",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Okamžite zabíja jednotky z nepriateľskej rezervy"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Okamžite zabíja jednotky z nepriateľskej rezervy",
+    "effect_name_beefCapacityBonus": "Bonus skladovacej kapacity hovädziny na hrade"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronzová helma Stalwart",

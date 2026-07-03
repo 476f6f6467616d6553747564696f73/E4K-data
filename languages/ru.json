@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Возвышенный зелёный оазис быка",
     "deco_ExaltedGreenWatermelonSwing_name": "Возвышенные зеленые качели арбуза",
     "deco_ExaltedPurpleWatermelonSwing_name": "Возвышенные фиолетовые качели арбуза",
-    "deco_ExaltedRedWatermelonSwing_name": "Возвышенные красные качели арбуза"
+    "deco_ExaltedRedWatermelonSwing_name": "Возвышенные красные качели арбуза",
+    "ci_primary_premiumPirateFarm": "Пиратская ферма",
+    "ci_primary_premiumPirateFarm_flavour": "Даже пиратам нужны припасы. Эта ферма выращивает питательную пищу между якорными столбами и бочками хорошо политой почвы.",
+    "ci_primary_premiumPirateHoneyGardens": "Пиратский медовый сад",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Золотой мёд капает из ульев, охраняемых самыми свирепыми членами команды, ибо ничто не подслащает грог, как контрабандный нектар.",
+    "ci_primary_premiumPirateKeep": "Пиратская цитадель",
+    "ci_primary_premiumPirateKeep_flavour": "Цитадель с чёрным флагом, её залы заполнены разграбленными сундуками, а её стены охраняют опытные морские волки.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Пиратская нападение мастерская",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Пушки, кривые мечи и бочки с порохом: всё, что нужно команде налётчиков, выкованное в свете фонаря контрабандиста.",
+    "ci_primary_premiumPirateTavern": "Пиратская таверна",
+    "ci_primary_premiumPirateTavern_flavour": "Самая шумная Таверна по эту сторону семи морей, где экипажи обмениваются историями о сокровищах над переполненными кружками.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Пиратская оборонная мастерская",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Кораблестроители, превратившиеся в осадных кузнецов, куют оборону из спасённых корпусов, ядер и старой пиратской находчивости."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Жетон Академии Беримонда, запечатанный для тех, кто сражается за Львов и Медведей. Используйте его для активации Советника Беримонда и выполнения последовательных атак на вражеские сторожевые башни. Этот советник дает дополнительную Мораль. Больше Морали означает более сильные Войска и больше урона.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Задержка регенерации правой стены после пролома {0}",
     "effect_description_noValue_rangeDefenseMalus": "Сила оборона для дальнобойных Оборонительные юниты в назначенной Волне при атаке на {0}",
     "effect_description_noValue_reserveUnitKill": "Мгновенно убивает единицы из резерва врага",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Мгновенно убивает единицы из резерва врага"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Мгновенно убивает единицы из резерва врага",
+    "effect_name_beefCapacityBonus": "Бонус к вместительности хранилища говядины в замке"
   },
   "equipment_": {
     "equipment_unique_1528": "Бронзовый Шлем Сталварта",

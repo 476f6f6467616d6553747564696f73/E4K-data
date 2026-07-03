@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Opphøyet grønn okse-oase",
     "deco_ExaltedGreenWatermelonSwing_name": "Opphøyet grønn vannmelon huske",
     "deco_ExaltedPurpleWatermelonSwing_name": "Opphøyd lilla vannmelon huske",
-    "deco_ExaltedRedWatermelonSwing_name": "Opphøyet rød vannmelon huske"
+    "deco_ExaltedRedWatermelonSwing_name": "Opphøyet rød vannmelon huske",
+    "ci_primary_premiumPirateFarm": "Piratfarm",
+    "ci_primary_premiumPirateFarm_flavour": "Selv sjørøvere trenger forsyninger. Denne gården dyrker kraftig mat mellom ankerpeler og fat med godt vannet jord.",
+    "ci_primary_premiumPirateHoneyGardens": "Pirat honninghager",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Gyllen honning drypper fra bikuber bevoktet av besetningens villeste, for ingenting søter grog som smuglet nektar.",
+    "ci_primary_premiumPirateKeep": "Pirat festningen",
+    "ci_primary_premiumPirateKeep_flavour": "Festningen med sort flagg, dens stuer stablet med plyndret skatter og dens fæstningsværker bemandet av erfarne sjørøvere.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Pirat angrepsverk",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Kanoner, krumsabler og kruttpøler: alt som en røverbande trenger, smidd i glansen av en smuglers lykt.",
+    "ci_primary_premiumPirateTavern": "Pirat-kro",
+    "ci_primary_premiumPirateTavern_flavour": "Den villeste Kroen på denne siden av de syv havene, hvor mannskaper utveksler skatthistorier over overflødige ølkrus.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Pirat forsvarsfabrikk",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Skipsbyggjere som ble beleiringssmedene hamrer forsvar fra reddet skrogmateriale, kanonkuler og god gammel piratingenøritet."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Et token fra Berimond-akademiet, forseglet for dem som kjemper for både Løver og Bjørner. Bruk det til å aktivere Berimond-rådgiver og utfør påfølgende angrep på fiendens vakttårn. Denne rådgiveren gir ekstra Moral. Mer Moral betyr sterkere Tropper og mer skade.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Regenerasjonsforsinkelse for høyre vegg etter gjennombrudd {0}",
     "effect_description_noValue_rangeDefenseMalus": "Forsvarsstyrke for ranged Forsvarsenheter i den tildelte Bølgen ved angrep på {0}",
     "effect_description_noValue_reserveUnitKill": "Dreper øyeblikkelig enheter fra fiendens reserve",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Dreper øyeblikkelig enheter fra fiendens reserve"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Dreper øyeblikkelig enheter fra fiendens reserve",
+    "effect_name_beefCapacityBonus": "Bonus til oksekjøttlagringskapasitet på slottet"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronse Stalwart hjelm",

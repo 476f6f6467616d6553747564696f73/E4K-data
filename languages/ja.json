@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "高貴な緑のオックスオアシス",
     "deco_ExaltedGreenWatermelonSwing_name": "高貴な緑のスイカブランコ",
     "deco_ExaltedPurpleWatermelonSwing_name": "高貴な紫スイカブランコ",
-    "deco_ExaltedRedWatermelonSwing_name": "高貴な赤スイカブランコ"
+    "deco_ExaltedRedWatermelonSwing_name": "高貴な赤スイカブランコ",
+    "ci_primary_premiumPirateFarm": "海賊ファーム",
+    "ci_primary_premiumPirateFarm_flavour": "海賊たちも食糧が必要だ。この農場は、錨柱と十分に潤った土の樽の間で、栄養のある食料を育てている。",
+    "ci_primary_premiumPirateHoneyGardens": "海賊蜂蜜園",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "黄金の蜂蜜は乗組員の最も獰猛な者たちに守られた巣箱から滴り落ちる。密輸された蜜ほどグロッグを甘くするものはない。",
+    "ci_primary_premiumPirateKeep": "海賊天守閣",
+    "ci_primary_premiumPirateKeep_flavour": "黒旗を掲げた天守閣。その広間は略奪された宝箱で積み重ねられ、城壁は塩辛い海の犬たちに守られている。",
+    "ci_primary_premiumPirateOffensiveWorkshop": "海賊攻撃工房",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "大砲、湾曲した剣、火薬樽：略奪船団が必要とするすべてのもの。密輸業者のランタンの光で鍛えられた。",
+    "ci_primary_premiumPirateTavern": "海賊居酒屋",
+    "ci_primary_premiumPirateTavern_flavour": "七つの海のこちら側で最も騒々しい居酒屋。ここでは船乗りたちが、あふれんばかりのジョッキの上で宝物の物語を交わす。",
+    "ci_primary_premiumPirateDefensiveWorkshop": "海賊防御兵器製作所",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "船大工から包囲鍛冶屋に転身した者たちが、救出された船体、砲弾、そして古き良き海賊の工夫から防御を打ち出す。"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "ベリモンド学院のトークン。ライオンとクマの両方のために戦う者たちのために封印されています。ベリモンド顧問を起動し、敵の見張り塔への連続攻撃を実行するために使用してください。この顧問は追加のモラルを付与します。モラルが多いほど、部隊が強くなり、ダメージが増加します。",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "右壁の破壊後の再生遅延 {0}",
     "effect_description_noValue_rangeDefenseMalus": "ボス{0}への攻撃時に割り当てられた波状攻撃における遠距離防御部隊の防御力",
     "effect_description_noValue_reserveUnitKill": "敵の予備部隊のユニットを即座に撃殺する",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "敵の予備部隊のユニットを即座に撃殺する"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "敵の予備部隊のユニットを即座に撃殺する",
+    "effect_name_beefCapacityBonus": "城の牛肉貯蔵庫収納量ボーナス"
   },
   "equipment_": {
     "equipment_unique_1528": "ブロンズスタルワート兜",

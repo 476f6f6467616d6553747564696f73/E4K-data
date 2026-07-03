@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "崇高的綠色牛綠洲",
     "deco_ExaltedGreenWatermelonSwing_name": "高貴綠色西瓜鞦韆",
     "deco_ExaltedPurpleWatermelonSwing_name": "高貴紫色西瓜鞦韆",
-    "deco_ExaltedRedWatermelonSwing_name": "高貴紅西瓜鞦韆"
+    "deco_ExaltedRedWatermelonSwing_name": "高貴紅西瓜鞦韆",
+    "ci_primary_premiumPirateFarm": "海盜農場",
+    "ci_primary_premiumPirateFarm_flavour": "即使是海盜也需要補給。這個農場在錨柱和澆灌充分的土壤桶之間種植營養豐富的食物。",
+    "ci_primary_premiumPirateHoneyGardens": "海盜蜂蜜花園",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "金色的蜂蜜從由船員中最兇悍的人守衛的蜂巢中滴落，因為沒有什麼比走私的花蜜更能甜化朗姆酒。",
+    "ci_primary_premiumPirateKeep": "海盜主堡壘",
+    "ci_primary_premiumPirateKeep_flavour": "一座飄揚黑旗的主堡壘，其大廳堆滿了掠奪的寶箱，城牆由經驗豐富的海盜把守。",
+    "ci_primary_premiumPirateOffensiveWorkshop": "海盜攻擊性工坊",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "大砲、彎刀和火藥桶：掠奪船隊所需的一切，在走私者燈籠的光芒中鍛造而成。",
+    "ci_primary_premiumPirateTavern": "海盜小酒館",
+    "ci_primary_premiumPirateTavern_flavour": "七海這一側最喧鬧的小酒館，船員們在溢滿的酒杯上交換寶藏故事。",
+    "ci_primary_premiumPirateDefensiveWorkshop": "海盜防禦武器工坊",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "轉變為圍城鐵匠的造船工人用打撈的船體、砲彈和古老的海盜智慧鍛造防禦工事。"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "來自貝里蒙德學院的令牌，為同時為獅子和熊而戰的人們而封印。使用它來激活貝里蒙德顧問，對敵方瞭望塔進行連續攻擊。該顧問可增加額外的士氣。更多的士氣意味著更強的部隊和更多的傷害。",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "右牆破口後的再生延遲 {0}",
     "effect_description_noValue_rangeDefenseMalus": "在攻擊{0}時，分配的每波進攻中遠程防守部隊的防禦力",
     "effect_description_noValue_reserveUnitKill": "立即擊殺敵方預備隊的單位",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "立即擊殺敵方預備隊的單位"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "立即擊殺敵方預備隊的單位",
+    "effect_name_beefCapacityBonus": "城堡牛肉庫存容納空間獎勵"
   },
   "equipment_": {
     "equipment_unique_1528": "青銅堅定頭盔",

@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Oásis do Boi Verde Exaltado",
     "deco_ExaltedGreenWatermelonSwing_name": "Balanço de melancia verde exaltado",
     "deco_ExaltedPurpleWatermelonSwing_name": "Balanço de Melancia Roxa Exaltado",
-    "deco_ExaltedRedWatermelonSwing_name": "Balanço de melancia vermelha exaltado"
+    "deco_ExaltedRedWatermelonSwing_name": "Balanço de melancia vermelha exaltado",
+    "ci_primary_premiumPirateFarm": "Fazenda pirata",
+    "ci_primary_premiumPirateFarm_flavour": "Até mesmo bucaneiros precisam de provisões. Esta fazenda cultiva comida substancial entre postes de ancoragem e barris de solo bem irrigado.",
+    "ci_primary_premiumPirateHoneyGardens": "Jardins de mel pirata",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Mel dourado pinga das colmeias guardadas pelos mais ferozes da tripulação, pois nada adoça o grog como o néctar contrabandeado.",
+    "ci_primary_premiumPirateKeep": "O Forte Pirata",
+    "ci_primary_premiumPirateKeep_flavour": "O Forte com bandeira negra, seus salões empilhados com baús saqueados e suas muralhas defendidas por velhos lobos do mar.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Oficina pirata ofensiva",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Canhões, cimitarras e barris de pólvora: tudo que uma tripulação de saqueadores precisa, forjado no brilho de uma lanterna de contrabandista.",
+    "ci_primary_premiumPirateTavern": "Taberna pirata",
+    "ci_primary_premiumPirateTavern_flavour": "A Taberna mais barulhenta deste lado dos sete mares, onde as tripulações trocam histórias de tesouro sobre canecas transbordantes.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Oficina de defesa pirata",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Construtores de navios transformados em ferreiros de cerco forjam defesas a partir de cascos salvos, balas de canhão e boa e velha engenhosidade pirata."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Um token da Academia Berimond, selado para aqueles que lutam por Leões e Ursos. Use-o para ativar o Conselheiro Berimond e executar ataques consecutivos nas torres de vigia inimigas. Este conselheiro concede Moral adicional. Mais Moral significa Tropas mais fortes e mais dano.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Atraso de regeneração da parede direita após brecha {0}",
     "effect_description_noValue_rangeDefenseMalus": "Força de Defesa para Unidades de defesa à distância na Onda atribuída ao atacar {0}",
     "effect_description_noValue_reserveUnitKill": "Mata instantaneamente unidades da reserva inimiga",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Mata instantaneamente unidades da reserva inimiga"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Mata instantaneamente unidades da reserva inimiga",
+    "effect_name_beefCapacityBonus": "Bônus de capacidade de armazenamento de carne no castelo"
   },
   "equipment_": {
     "equipment_unique_1528": "Elmo Stalwart de Bronze",

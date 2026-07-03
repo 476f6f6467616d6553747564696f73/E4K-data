@@ -1416,6 +1416,18 @@ export interface Language {
         "ci_primary_keepUnitWallCount": string;
         "ci_primary_marketCarriages": string;
         "ci_primary_meadProduction_premium": string;
+        "ci_primary_premiumPirateDefensiveWorkshop": string;
+        "ci_primary_premiumPirateDefensiveWorkshop_flavour": string;
+        "ci_primary_premiumPirateFarm": string;
+        "ci_primary_premiumPirateFarm_flavour": string;
+        "ci_primary_premiumPirateHoneyGardens": string;
+        "ci_primary_premiumPirateHoneyGardens_flavour": string;
+        "ci_primary_premiumPirateKeep": string;
+        "ci_primary_premiumPirateKeep_flavour": string;
+        "ci_primary_premiumPirateOffensiveWorkshop": string;
+        "ci_primary_premiumPirateOffensiveWorkshop_flavour": string;
+        "ci_primary_premiumPirateTavern": string;
+        "ci_primary_premiumPirateTavern_flavour": string;
         "ci_primary_reduceResearchResourceCosts": string;
         "ci_primary_stoneProduction": string;
         "ci_primary_unboostedBeefProduction": string;
@@ -14245,6 +14257,7 @@ export interface Language {
         "effect_name_attackUnitAmountFrontCapped": string;
         "effect_name_battleXPBoost": string;
         "effect_name_battleXPBoostCapped": string;
+        "effect_name_beefCapacityBonus": string;
         "effect_name_buildingXPBoost": string;
         "effect_name_buildingXPBoostCapped": string;
         "effect_name_coalProductionBoost": string;

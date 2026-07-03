@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Oasi del Bue Verde Esaltato",
     "deco_ExaltedGreenWatermelonSwing_name": "Altalena anguria verde esaltata",
     "deco_ExaltedPurpleWatermelonSwing_name": "Altalena Anguria Viola Esaltata",
-    "deco_ExaltedRedWatermelonSwing_name": "Altalena anguria rossa esaltata"
+    "deco_ExaltedRedWatermelonSwing_name": "Altalena anguria rossa esaltata",
+    "ci_primary_premiumPirateFarm": "Fattoria pirata",
+    "ci_primary_premiumPirateFarm_flavour": "Anche i bucanieri hanno bisogno di provviste. Questa fattoria coltiva cibo sostanzioso tra i pali di ancoraggio e i barili di terreno ben irrigato.",
+    "ci_primary_premiumPirateHoneyGardens": "giardini del miele pirata",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Il miele dorato goccia dagli alveari custoditi dai più feroci dellequipaggio, poiché nulla dolcifica il grog come il nettare di contrabbando.",
+    "ci_primary_premiumPirateKeep": "Fortezza pirata",
+    "ci_primary_premiumPirateKeep_flavour": "Una Fortezza con bandiera nera, le sue sale piene di forzieri saccheggiati e i suoi bastioni presidiati da vecchi lupi di mare.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Officina pirata offensiva",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Cannoni, sciabole curve e barili di polvere: tutto ciò di cui ha bisogno un equipaggio di razziatori, forgiato al bagliore di una lanterna da contrabbandiere.",
+    "ci_primary_premiumPirateTavern": "Taverna dei pirati",
+    "ci_primary_premiumPirateTavern_flavour": "La Taverna più rumorosa da questo lato dei sette mari, dove gli equipaggi scambiano storie di tesori su boccali traboccanti.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Laboratorio di difesa pirata",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "I costruttori di navi diventati fabbri dassedio forgiano difese da scafi salvati, palle di cannone e vecchia ingegnosità pirata."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Un gettone dellAccademia Berimond, sigillato per coloro che combattono per Leoni e Orsi. Usalo per attivare il Consigliere Berimond ed eseguire attacchi consecutivi sulle torri di guardia nemiche. Questo consigliere concede Morale aggiuntivo. Più Morale significa Truppe più forti e più danno.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Ritardo di rigenerazione del muro destro dopo la breccia {0}",
     "effect_description_noValue_rangeDefenseMalus": "Forza di difesa per Unità di difesa a distanza nellOndata assegnata quando attacchi {0}",
     "effect_description_noValue_reserveUnitKill": "Uccide istantaneamente le unità dalla riserva nemica",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Uccide istantaneamente le unità dalla riserva nemica"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Uccide istantaneamente le unità dalla riserva nemica",
+    "effect_name_beefCapacityBonus": "Bonus capacità deposito manzo nel castello"
   },
   "equipment_": {
     "equipment_unique_1528": "Elmo Stalwart in Bronzo",

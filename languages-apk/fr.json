@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Oasis du Bœuf Vert Exalté",
     "deco_ExaltedGreenWatermelonSwing_name": "Balançoire pastèque verte exaltée",
     "deco_ExaltedPurpleWatermelonSwing_name": "Balançoire Pastèque Violette Exaltée",
-    "deco_ExaltedRedWatermelonSwing_name": "Balançoire pastèque rouge exaltée"
+    "deco_ExaltedRedWatermelonSwing_name": "Balançoire pastèque rouge exaltée",
+    "ci_primary_premiumPirateFarm": "Ferme pirate",
+    "ci_primary_premiumPirateFarm_flavour": "Même les boucaniers ont besoin de provisions. Cette ferme cultive une nourriture copieuse entre les poteaux dancrage et les tonneaux de terre bien arrosée.",
+    "ci_primary_premiumPirateHoneyGardens": "Jardins de miel pirates",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Le miel doré sécoule des ruches gardées par les plus féroces de léquipage, car rien ne sucre le grog comme le nectar de contrebande.",
+    "ci_primary_premiumPirateKeep": "Donjon pirate",
+    "ci_primary_premiumPirateKeep_flavour": "Un Donjon arborant le drapeau noir, ses salles empilées de coffres pillés et ses créneaux gardés par de vieux loups de mer.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Atelier pirate offensif",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Canons, cimeterre et tonneaux de poudre : tout ce dont a besoin un équipage de pillards, forgé à la lueur dune lanterne de contrebandier.",
+    "ci_primary_premiumPirateTavern": "Taverne pirate",
+    "ci_primary_premiumPirateTavern_flavour": "La Taverne la plus bruyante de ce côté des sept mers, où les équipages échangent des histoires de trésors sur des chopes débordantes.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Atelier de défense pirate",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Les charpentiers de navires devenus forgerons de siège forgent des défenses à partir de coques sauvées, de boulets de canon et de lingéniosité pirate de bon aloi."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Un jeton de lAcadémie Berimond, scellé pour ceux qui combattent pour les Lions et les Ours. Utilisez-le pour activer le Conseiller Berimond et effectuer des attaques consécutives sur les tours de guet ennemies. Ce conseiller accorde un Moral supplémentaire. Plus de Moral signifie des Troupes plus fortes et plus de dégâts.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Délai de régénération du mur droit après la brèche {0}",
     "effect_description_noValue_rangeDefenseMalus": "Force de Défense pour les Unités en défense à distance dans la Vague assignée lors de lattaque de {0}",
     "effect_description_noValue_reserveUnitKill": "Élimine instantanément les unités de la réserve ennemie",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Élimine instantanément les unités de la réserve ennemie"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Élimine instantanément les unités de la réserve ennemie",
+    "effect_name_beefCapacityBonus": "Bonus de capacité de stockage de bœuf au château"
   },
   "equipment_": {
     "equipment_unique_1528": "Casque Stalwart en Bronze",

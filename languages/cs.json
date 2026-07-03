@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Vznešená zelená oáza volů",
     "deco_ExaltedGreenWatermelonSwing_name": "Vyvýšené zelené houpačky melounu",
     "deco_ExaltedPurpleWatermelonSwing_name": "Vznešené fialové meloounové houpačky",
-    "deco_ExaltedRedWatermelonSwing_name": "Vznešené červené melounu houpačka"
+    "deco_ExaltedRedWatermelonSwing_name": "Vznešené červené melounu houpačka",
+    "ci_primary_premiumPirateFarm": "Pirátská farma",
+    "ci_primary_premiumPirateFarm_flavour": "Ani piráti nepotřebují jen poklady. Tato farma pěstuje výživnou stravu mezi kotvicími sloupky a sudy s dobře zavlažovanou půdou.",
+    "ci_primary_premiumPirateHoneyGardens": "Pirátské medové zahrady",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Zlatý med kapá z úlů střežených nejzuřivějšími členy posádky, protože nic neoslazuje grog jako pašovaný nektar.",
+    "ci_primary_premiumPirateKeep": "Pirátský hrad",
+    "ci_primary_premiumPirateKeep_flavour": "Hrad s černou vlajkou, jeho sály naskládané s vykradenými truhly a jeho opevnění střežené solnými mořskými psy.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Pirátská ofenzivní dílna",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Děla, krátké meče a sudy se střelným prachem: vše, co potřebuje loupežná posádka, vykovano v záři pašeráckovy lucerny.",
+    "ci_primary_premiumPirateTavern": "Pirátská krčma",
+    "ci_primary_premiumPirateTavern_flavour": "Nejhlučnější Krčma na této straně sedmi moří, kde posádky vyměňují příběhy o pokladech nad přetékajícími půllitry.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Pirátská obranná dílna",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Lodní tesaři se proměnili v obléhací kováře, kteří vyrábějí obranu z vraku lodí, dělových koulí a staré pirátské vynalézavosti."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Žeton z Akademie Berimond, zapečetěný pro ty, kteří bojují za Lvy i Medvědy. Použijte jej k aktivaci Poradce Berimond a proveďte po sobě jdoucí útoky na nepřátelské hlásné věže. Tento poradce poskytuje dodatečnou Morálku. Více Morálky znamená silnější Jednotky a větší poškození.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Zpoždění regenerace pravé zdi po proražení {0}",
     "effect_description_noValue_rangeDefenseMalus": "Obranná síla Obranných jednotek na dálku v přiřazené Vlně při útoku na {0}",
     "effect_description_noValue_reserveUnitKill": "Okamžitě zabíjí jednotky z nepřátelské rezervy",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Okamžitě zabíjí jednotky z nepřátelské rezervy"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Okamžitě zabíjí jednotky z nepřátelské rezervy",
+    "effect_name_beefCapacityBonus": "Bonus na kapacitu skladu hovězího v hradě"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronzová helma Stalwart",

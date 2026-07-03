@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Felmagasztalt zöld ökör oázis",
     "deco_ExaltedGreenWatermelonSwing_name": "Felmagasztalt zöld görögdinnye hinta",
     "deco_ExaltedPurpleWatermelonSwing_name": "Felmagasztalt lila görögdinnye hinta",
-    "deco_ExaltedRedWatermelonSwing_name": "Felmagasztalt piros görögdinnye hinta"
+    "deco_ExaltedRedWatermelonSwing_name": "Felmagasztalt piros görögdinnye hinta",
+    "ci_primary_premiumPirateFarm": "Kalóz farm",
+    "ci_primary_premiumPirateFarm_flavour": "Még a kalózok is szükségletei vannak. Ez a gazdaság tápláló élelmet termeszt a horgonyzási oszlopok és a jól öntözött talaj hordói között.",
+    "ci_primary_premiumPirateHoneyGardens": "Kalóz mézkertek",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Arany méz csöpög a legvadabb legénységtagok által őrzött kaptárakból, mert semmi sem édesíti meg a grogot, mint a csempészett nektár.",
+    "ci_primary_premiumPirateKeep": "Kalóz vártorony",
+    "ci_primary_premiumPirateKeep_flavour": "A Vártorony fekete zászlóval, termei feldöntve fosztott ládákkal és falai sós tengeri kutyák által őrizve.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Kalóz támadó műhely",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Ágyúk, görbe kardok és lőporös hordók: minden, amire egy rablócsapatnak szüksége van, egy csempész lámpájának fényében kovácsolva.",
+    "ci_primary_premiumPirateTavern": "Kalóz fogadó",
+    "ci_primary_premiumPirateTavern_flavour": "A legzajosabb Fogadó a hét tenger ezen oldalán, ahol a legénységek kincsekről szóló történeteket cserélnek a túlcsorduló sörös kancsók felett.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Kalóz védelmi műhely",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "A hajóépítők, akik ostrom-kovácsokká váltak, védelmet kalapálnak a megmentett hajótestekből, ágyúgolyókból és jó öreg kalóz leleményességből."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "A Berimond Akadémia jelzése, lezárva azok számára, akik az Oroszlánok és Medvék mellett harcolnak. Használd az aktiváláshoz a Berimond tanácsadót és végezz egymást követő támadásokat az ellenség őrtornyaira. Ez a tanácsadó extra Morálisan rugalmas biztosít. Több Morálisan rugalmas erősebb Csapatokat és több sebzést jelent.",
@@ -15254,7 +15266,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Jobb fal regenerációs késleltetése a megtörés után {0}",
     "effect_description_noValue_rangeDefenseMalus": "Védelem erő a távolsági Védő egységeknek a hozzárendelt Hullámban {0} támadásakor",
     "effect_description_noValue_reserveUnitKill": "Azonnal megöl egységeket az ellenség tartalékából",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Azonnal megöl egységeket az ellenség tartalékából"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Azonnal megöl egységeket az ellenség tartalékából",
+    "effect_name_beefCapacityBonus": "Marhahús tárolókapacitás bónusz a kastélyban"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronz Stalwart sisak",

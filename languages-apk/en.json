@@ -2360,7 +2360,19 @@
     "deco_ExaltedGreenOxOasis_name": "Exalted Green Ox Oasis",
     "deco_ExaltedGreenWatermelonSwing_name": "Exalted Green Watermelon Swing",
     "deco_ExaltedPurpleWatermelonSwing_name": "Exalted Purple Watermelon Swing",
-    "deco_ExaltedRedWatermelonSwing_name": "Exalted Red Watermelon Swing"
+    "deco_ExaltedRedWatermelonSwing_name": "Exalted Red Watermelon Swing",
+    "ci_primary_premiumPirateFarm": "Pirate farm",
+    "ci_primary_premiumPirateFarm_flavour": "Even buccaneers need provisions. This farm grows hearty fare between anchor posts and barrels of well-watered soil.",
+    "ci_primary_premiumPirateHoneyGardens": "Pirate honey gardens",
+    "ci_primary_premiumPirateHoneyGardens_flavour": "Golden honey drips from hives guarded by the crews fiercest, for nothing sweetens grog like contraband nectar.",
+    "ci_primary_premiumPirateKeep": "Pirate keep",
+    "ci_primary_premiumPirateKeep_flavour": "A keep flying the black flag, its halls stacked with plundered chests and its battlements manned by salty sea dogs.",
+    "ci_primary_premiumPirateOffensiveWorkshop": "Pirate offensive workshop",
+    "ci_primary_premiumPirateOffensiveWorkshop_flavour": "Cannons, cutlasses and powder kegs: everything a raiding crew needs, forged in the glow of a smugglers lantern.",
+    "ci_primary_premiumPirateTavern": "Pirate tavern",
+    "ci_primary_premiumPirateTavern_flavour": "The rowdiest tavern this side of the seven seas, where crews trade tales of treasure over overflowing tankards.",
+    "ci_primary_premiumPirateDefensiveWorkshop": "Pirate defense workshop",
+    "ci_primary_premiumPirateDefensiveWorkshop_flavour": "Shipwrights turned siege-smiths hammer out defenses from salvaged hulls, cannonballs, and good old pirate ingenuity."
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "A token from the Berimond Academy, sealed for those who fight for both Lions and Bears. Use it to activate the Berimond Advisor and chain consecutive attacks on enemy watchtowers. This advisor grants extra morale. More morale means stronger troops and more damage.",
@@ -15255,7 +15267,8 @@
     "effect_description_noValue_raidBossWallRegenerationDelayRightLegendaryDragon": "Right wall regeneration delay after breaching {0}",
     "effect_description_noValue_rangeDefenseMalus": "Defense strength for ranged defense units in the assigned wave when attacking {0}",
     "effect_description_noValue_reserveUnitKill": "Instantly kills units from the enemy reserve",
-    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Instantly kills units from the enemy reserve"
+    "effect_description_noValue_reserveUnitKillLegendaryDragon": "Instantly kills units from the enemy reserve",
+    "effect_name_beefCapacityBonus": "Bonus to beef storage capacity in castle"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronze Stalwart Helmet",
