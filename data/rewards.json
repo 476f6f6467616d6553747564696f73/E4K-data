@@ -35645,6 +35645,686 @@
     "toDecoGlobalStorage": 1
   },
   {
+    "rewardID": 11147,
+    "crossplayID": 11027,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Gold PvP Hero Cast, TopX Gacha Commander",
+    "equipmentIDs": "1542#1526"
+  },
+  {
+    "rewardID": 11148,
+    "crossplayID": 11028,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Silver PvP Hero Cast, TopX Gacha Commander",
+    "equipmentIDs": "1537#1526"
+  },
+  {
+    "rewardID": 11149,
+    "crossplayID": 11029,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "TopX Gacha Castellan",
+    "equipmentIDs": 1527
+  },
+  {
+    "rewardID": 11150,
+    "crossplayID": 11030,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Gacha Currency",
+    "addOrange": 100
+  },
+  {
+    "rewardID": 11151,
+    "crossplayID": 11031,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Pirates Mill (Economy)",
+    "constructionItemIDs": 965
+  },
+  {
+    "rewardID": 11152,
+    "crossplayID": 11032,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 10
+  },
+  {
+    "rewardID": 11153,
+    "crossplayID": 11033,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Summer Deco 2x2",
+    "decoWodID": 3142,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11154,
+    "crossplayID": 11034,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Relic Shards",
+    "addRelicFragment": 2000
+  },
+  {
+    "rewardID": 11155,
+    "crossplayID": 11035,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 15
+  },
+  {
+    "rewardID": 11156,
+    "crossplayID": 11036,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Summer Troop Melee Off",
+    "units": "15+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11157,
+    "crossplayID": 11037,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Summer Troop Melee Def",
+    "units": "369+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11158,
+    "crossplayID": 11038,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Summer Troop Ranged Off",
+    "units": "358+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11159,
+    "crossplayID": 11039,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Summer Troop Ranged Def",
+    "units": "461+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11160,
+    "crossplayID": 11040,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 1 (Bronze)",
+    "gemIDs": 514
+  },
+  {
+    "rewardID": 11161,
+    "crossplayID": 11041,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 2 (Bronze)",
+    "gemIDs": 515
+  },
+  {
+    "rewardID": 11162,
+    "crossplayID": 11042,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 3 (Bronze)",
+    "gemIDs": 516
+  },
+  {
+    "rewardID": 11163,
+    "crossplayID": 11043,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 4 (Bronze)",
+    "gemIDs": 517
+  },
+  {
+    "rewardID": 11164,
+    "crossplayID": 11044,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Helmet (Bronze)",
+    "equipmentIDs": 1528
+  },
+  {
+    "rewardID": 11165,
+    "crossplayID": 11045,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Armor (Bronze)",
+    "equipmentIDs": 1529
+  },
+  {
+    "rewardID": 11166,
+    "crossplayID": 11046,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Weapon (Bronze)",
+    "equipmentIDs": 1530
+  },
+  {
+    "rewardID": 11167,
+    "crossplayID": 11047,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Artifact (Bronze)",
+    "equipmentIDs": 1531
+  },
+  {
+    "rewardID": 11168,
+    "crossplayID": 11048,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Hero (Bronze)",
+    "equipmentIDs": 1532
+  },
+  {
+    "rewardID": 11169,
+    "crossplayID": 11049,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Offering to Valenta",
+    "addValentaToken": 5
+  },
+  {
+    "rewardID": 11170,
+    "crossplayID": 11050,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 5
+  },
+  {
+    "rewardID": 11171,
+    "crossplayID": 11051,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Gen XP1000",
+    "addGenXP1000": 10
+  },
+  {
+    "rewardID": 11172,
+    "crossplayID": 11052,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 10
+  },
+  {
+    "rewardID": 11173,
+    "crossplayID": 11053,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 5
+  },
+  {
+    "rewardID": 11174,
+    "crossplayID": 11054,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted Pirate ship 2024 (Hybrid)",
+    "decoWodID": 2976,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11175,
+    "crossplayID": 11055,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted purple watermelon swing",
+    "decoWodID": 4454,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11176,
+    "crossplayID": 11056,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Jungle estate",
+    "constructionItemIDs": 1255
+  },
+  {
+    "rewardID": 11177,
+    "crossplayID": 11057,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Jungle defense workshop",
+    "constructionItemIDs": 1256
+  },
+  {
+    "rewardID": 11178,
+    "crossplayID": 11058,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Jungle encampment",
+    "constructionItemIDs": 1257
+  },
+  {
+    "rewardID": 11179,
+    "crossplayID": 11059,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Jungle hall of legends",
+    "constructionItemIDs": 1258
+  },
+  {
+    "rewardID": 11180,
+    "crossplayID": 11060,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Kiwi king barracks",
+    "constructionItemIDs": 1259
+  },
+  {
+    "rewardID": 11181,
+    "crossplayID": 11061,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Jungle keep",
+    "constructionItemIDs": 1260
+  },
+  {
+    "rewardID": 11182,
+    "crossplayID": 11062,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Seashell",
+    "equipmentIDs": 837
+  },
+  {
+    "rewardID": 11183,
+    "crossplayID": 11063,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Bucket of endless sands",
+    "equipmentIDs": 693
+  },
+  {
+    "rewardID": 11184,
+    "crossplayID": 11064,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Warband of the citrus monster",
+    "equipmentIDs": 1543
+  },
+  {
+    "rewardID": 11185,
+    "crossplayID": 11065,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Citrus Fortress",
+    "equipmentIDs": 1544
+  },
+  {
+    "rewardID": 11186,
+    "crossplayID": 11066,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Pirates stable (Hybrid)",
+    "constructionItemIDs": 964
+  },
+  {
+    "rewardID": 11187,
+    "crossplayID": 11067,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Premium Pirate tavern",
+    "constructionItemIDs": 1254
+  },
+  {
+    "rewardID": 11188,
+    "crossplayID": 11068,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Relic Shards",
+    "addRelicFragment": 4000
+  },
+  {
+    "rewardID": 11189,
+    "crossplayID": 11069,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Relic Shards",
+    "addRelicFragment": 6000
+  },
+  {
+    "rewardID": 11190,
+    "crossplayID": 11070,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted green watermelon swing (1)",
+    "decoWodID": 4455,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11191,
+    "crossplayID": 11071,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 1 (Silver)",
+    "gemIDs": 518
+  },
+  {
+    "rewardID": 11192,
+    "crossplayID": 11072,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 2 (Silver)",
+    "gemIDs": 519
+  },
+  {
+    "rewardID": 11193,
+    "crossplayID": 11073,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 3 (Silver)",
+    "gemIDs": 520
+  },
+  {
+    "rewardID": 11194,
+    "crossplayID": 11074,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 4 (Silver)",
+    "gemIDs": 521
+  },
+  {
+    "rewardID": 11195,
+    "crossplayID": 11075,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Helmet (Silver)",
+    "equipmentIDs": 1533
+  },
+  {
+    "rewardID": 11196,
+    "crossplayID": 11076,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Armor (Silver)",
+    "equipmentIDs": 1534
+  },
+  {
+    "rewardID": 11197,
+    "crossplayID": 11077,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Weapon (Silver)",
+    "equipmentIDs": 1535
+  },
+  {
+    "rewardID": 11198,
+    "crossplayID": 11078,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Artifact (Silver)",
+    "equipmentIDs": 1536
+  },
+  {
+    "rewardID": 11199,
+    "crossplayID": 11079,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Premium Pirate honey gardens",
+    "constructionItemIDs": 1252
+  },
+  {
+    "rewardID": 11200,
+    "crossplayID": 11080,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 2
+  },
+  {
+    "rewardID": 11201,
+    "crossplayID": 11081,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 2
+  },
+  {
+    "rewardID": 11202,
+    "crossplayID": 11082,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 2
+  },
+  {
+    "rewardID": 11203,
+    "crossplayID": 11083,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Gen XP10000",
+    "addGenXP10000": 10
+  },
+  {
+    "rewardID": 11204,
+    "crossplayID": 11084,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted Red Pineapple Ride",
+    "decoWodID": 4453,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11205,
+    "crossplayID": 11085,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Pirates sawmill (Economy)",
+    "constructionItemIDs": 967
+  },
+  {
+    "rewardID": 11206,
+    "crossplayID": 11086,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Pirates woodcutter (Economy)",
+    "constructionItemIDs": 966
+  },
+  {
+    "rewardID": 11207,
+    "crossplayID": 11087,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Premium Pirate defense workshop",
+    "constructionItemIDs": 1249
+  },
+  {
+    "rewardID": 11208,
+    "crossplayID": 11088,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted Purple Starfruit Rotating Swing",
+    "decoWodID": 4418,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11209,
+    "crossplayID": 11089,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 5
+  },
+  {
+    "rewardID": 11210,
+    "crossplayID": 11090,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 5
+  },
+  {
+    "rewardID": 11211,
+    "crossplayID": 11091,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 5
+  },
+  {
+    "rewardID": 11212,
+    "crossplayID": 11092,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted green watermelon swing (2)",
+    "decoWodID": 4456,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11213,
+    "crossplayID": 11093,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted green watermelon swing (3)",
+    "decoWodID": 4457,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11214,
+    "crossplayID": 11094,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Gen XP12500",
+    "addGenXP12500": 10
+  },
+  {
+    "rewardID": 11215,
+    "crossplayID": 11095,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted Lizards cove (Economy)",
+    "decoWodID": 4294,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11216,
+    "crossplayID": 11096,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted Green Starfruit Rotating Swing",
+    "decoWodID": 4414,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11217,
+    "crossplayID": 11097,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Premium Pirate Offensive Workshop",
+    "constructionItemIDs": 1253
+  },
+  {
+    "rewardID": 11218,
+    "crossplayID": 11098,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Premium Pirate Farm",
+    "constructionItemIDs": 1250
+  },
+  {
+    "rewardID": 11219,
+    "crossplayID": 11099,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Pirates storehouse (Combat)",
+    "constructionItemIDs": 968
+  },
+  {
+    "rewardID": 11220,
+    "crossplayID": 11100,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Pirates tavern (Combat 1)",
+    "constructionItemIDs": 970
+  },
+  {
+    "rewardID": 11221,
+    "crossplayID": 11101,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Pirates tavern (Combat 2)",
+    "constructionItemIDs": 971
+  },
+  {
+    "rewardID": 11222,
+    "crossplayID": 11102,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 5
+  },
+  {
+    "rewardID": 11223,
+    "crossplayID": 11103,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 2
+  },
+  {
+    "rewardID": 11224,
+    "crossplayID": 11104,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 10
+  },
+  {
+    "rewardID": 11225,
+    "crossplayID": 11105,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Pirates storehouse (Combat 2)",
+    "constructionItemIDs": 969
+  },
+  {
+    "rewardID": 11226,
+    "crossplayID": 11106,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Armor (Gold)",
+    "equipmentIDs": 1539
+  },
+  {
+    "rewardID": 11227,
+    "crossplayID": 11107,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Artifact (Gold)",
+    "equipmentIDs": 1541
+  },
+  {
+    "rewardID": 11228,
+    "crossplayID": 11108,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 1 (Gold)",
+    "gemIDs": 522
+  },
+  {
+    "rewardID": 11229,
+    "crossplayID": 11109,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 2 (Gold)",
+    "gemIDs": 523
+  },
+  {
+    "rewardID": 11230,
+    "crossplayID": 11110,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 3 (Gold)",
+    "gemIDs": 524
+  },
+  {
+    "rewardID": 11231,
+    "crossplayID": 11111,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Gem 4 (Gold)",
+    "gemIDs": 525
+  },
+  {
+    "rewardID": 11232,
+    "crossplayID": 11112,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Helmet (Gold)",
+    "equipmentIDs": 1538
+  },
+  {
+    "rewardID": 11233,
+    "crossplayID": 11113,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Weapon (Gold)",
+    "equipmentIDs": 1540
+  },
+  {
+    "rewardID": 11234,
+    "crossplayID": 11114,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Premium Pirate keep",
+    "constructionItemIDs": 1251
+  },
+  {
+    "rewardID": 11235,
+    "crossplayID": 11115,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Cast Hero (Silver)",
+    "equipmentIDs": 1537
+  },
+  {
+    "rewardID": 11236,
+    "crossplayID": 11116,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted Green Ox Oasis",
+    "decoWodID": 4452,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11237,
+    "crossplayID": 11117,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted Red Orange Tea Party Ride",
+    "decoWodID": 4415,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11238,
+    "crossplayID": 11118,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted Red Starfruit Rotating Swing",
+    "decoWodID": 4416,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11239,
+    "crossplayID": 11119,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Gen XP5000",
+    "addGenXP5000": 10
+  },
+  {
+    "rewardID": 11240,
+    "crossplayID": 11120,
+    "comment1": "Summer Gacha 26 (July)",
+    "comment2": "Exalted red watermelon swing",
+    "decoWodID": 4453,
+    "toDecoGlobalStorage": 1
+  },
+  {
     "rewardID": 1290,
     "comment2": "Drop Chance Normal",
     "currency1": 3750

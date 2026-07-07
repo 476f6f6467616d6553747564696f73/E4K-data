@@ -407,39 +407,6 @@
     "sortOrder": 37
   },
   {
-    "lootBoxID": 38,
-    "crossplayID": 38,
-    "lootBoxTypeID": 1,
-    "name": "AREBoxBronzePremium",
-    "rarity": 1,
-    "lootBoxTombolaID": 74,
-    "draws": 1,
-    "lootBoxKeyTombolaID": 1,
-    "sortOrder": 38
-  },
-  {
-    "lootBoxID": 39,
-    "crossplayID": 39,
-    "lootBoxTypeID": 1,
-    "name": "AREBoxSilverPremium",
-    "rarity": 1,
-    "lootBoxTombolaID": 75,
-    "draws": 1,
-    "lootBoxKeyTombolaID": 1,
-    "sortOrder": 39
-  },
-  {
-    "lootBoxID": 40,
-    "crossplayID": 40,
-    "lootBoxTypeID": 1,
-    "name": "AREBoxGoldPremium",
-    "rarity": 1,
-    "lootBoxTombolaID": 76,
-    "draws": 1,
-    "lootBoxKeyTombolaID": 1,
-    "sortOrder": 40
-  },
-  {
     "lootBoxID": 41,
     "crossplayID": 41,
     "lootBoxTypeID": 1,
@@ -504,5 +471,38 @@
     "draws": 1,
     "lootBoxKeyTombolaID": 1,
     "sortOrder": 46
+  },
+  {
+    "lootBoxID": 38,
+    "crossplayID": 38,
+    "lootBoxTypeID": 1,
+    "name": "AREBoxBronzePremium",
+    "rarity": 1,
+    "lootBoxTombolaID": 74,
+    "draws": 1,
+    "lootBoxKeyTombolaID": 1,
+    "sortOrder": 38
+  },
+  {
+    "lootBoxID": 39,
+    "crossplayID": 39,
+    "lootBoxTypeID": 1,
+    "name": "AREBoxSilverPremium",
+    "rarity": 1,
+    "lootBoxTombolaID": 75,
+    "draws": 1,
+    "lootBoxKeyTombolaID": 1,
+    "sortOrder": 39
+  },
+  {
+    "lootBoxID": 40,
+    "crossplayID": 40,
+    "lootBoxTypeID": 1,
+    "name": "AREBoxGoldPremium",
+    "rarity": 1,
+    "lootBoxTombolaID": 76,
+    "draws": 1,
+    "lootBoxKeyTombolaID": 1,
+    "sortOrder": 40
   }
 ]
