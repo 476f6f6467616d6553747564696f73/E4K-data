@@ -141999,6 +141999,36 @@
     ],
     "fx": []
   },
+  "teaser_ARME_quest_completeAttack_FungalSwarm": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_completeAttack_FungalSwarm.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_completeAttack_LegendaryDragon": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_completeAttack_LegendaryDragon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
   "teaser_ARME_quest_completeAttack_Necromancer": {
     "pid": 2,
     "url": "x384/Misc/EventTeasers/teaser_ARME_quest_completeAttack_Necromancer.png",
@@ -142029,6 +142059,36 @@
     ],
     "fx": []
   },
+  "teaser_ARME_quest_consumeTool_FungalSwarm": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_consumeTool_FungalSwarm.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_consumeTool_LegendaryDragon": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_consumeTool_LegendaryDragon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
   "teaser_ARME_quest_consumeTool_Necromancer": {
     "pid": 2,
     "url": "x384/Misc/EventTeasers/teaser_ARME_quest_consumeTool_Necromancer.png",
@@ -142047,6 +142107,36 @@
   "teaser_ARME_quest_consumeTool": {
     "pid": 2,
     "url": "x384/Misc/EventTeasers/teaser_ARME_quest_consumeTool.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_killUnits_FungalSwarm": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_killUnits_FungalSwarm.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_killUnits_LegendaryDragon": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_killUnits_LegendaryDragon.png",
     "frames": [
       {
         "x": 0,
@@ -142092,6 +142182,36 @@
   "teaser_ARME_quest_obtainCurrenciesOrResources": {
     "pid": 2,
     "url": "x384/Misc/EventTeasers/teaser_ARME_quest_obtainCurrenciesOrResources.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_obtainRiftPoint_FungalSwarm": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_obtainRiftPoint_FungalSwarm.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ARME_quest_obtainRiftPoint_LegendaryDragon": {
+    "pid": 2,
+    "url": "x384/Misc/EventTeasers/teaser_ARME_quest_obtainRiftPoint_LegendaryDragon.png",
     "frames": [
       {
         "x": 0,

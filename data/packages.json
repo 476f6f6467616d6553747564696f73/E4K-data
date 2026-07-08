@@ -77640,5 +77640,45 @@
     "relationIDs": "999,424",
     "minLevel": 70,
     "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "packageID": 5550,
+    "packageType": "tool",
+    "comment1": "ARE Blacksmith Booster Tools",
+    "comment2": "Weak wall Combo Tool",
+    "costRiftCoin": 36,
+    "unitID": 572,
+    "unitAmount": 10,
+    "relationIDs": "999,419"
+  },
+  {
+    "packageID": 5551,
+    "packageType": "tool",
+    "comment1": "ARE Blacksmith Booster Tools",
+    "comment2": "Weak Gate Combo Tool",
+    "costRiftCoin": 36,
+    "unitID": 574,
+    "unitAmount": 10,
+    "relationIDs": "999,419"
+  },
+  {
+    "packageID": 5552,
+    "packageType": "tool",
+    "comment1": "ARE Blacksmith Booster Tools",
+    "comment2": "Weak Booster Tool",
+    "costRiftCoin": 60,
+    "unitID": 576,
+    "unitAmount": 10,
+    "relationIDs": "999,419"
+  },
+  {
+    "packageID": 5553,
+    "packageType": "tool",
+    "comment1": "ARE Blacksmith Booster Tools",
+    "comment2": "Medium Booster Tool",
+    "packagePriceC2": 1000,
+    "unitID": 577,
+    "unitAmount": 10,
+    "relationIDs": "999,418"
   }
 ]

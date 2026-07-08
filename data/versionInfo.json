@@ -1,7 +1,7 @@
 {
-  "version": "776.RC.05",
-  "date": "23/06/2026 14:10:49",
+  "version": "778.RC.01",
+  "date": "30/06/2026 14:32:17",
   "included": {
-    "features": "Live,Fairy,ARE4Event,ARE4Divisions,AREToolConsumption,ARME,ARE4Effects,ARE4RiftPoint,SceatCheat,ARMEContent,CastellanEffectFix"
+    "features": "Live,Goblin,SummerSalesDecoFix,AREBoosterTools,SummerSales2,SummerGacha2,ARMEToolConsumption,BerimondBalanceFix"
   }
 }
