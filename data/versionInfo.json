@@ -1,7 +1,7 @@
 {
-  "version": "778.RC.01",
-  "date": "30/06/2026 14:32:17",
+  "version": "780.RC.01",
+  "date": "08/07/2026 11:32:27",
   "included": {
-    "features": "Live,Goblin,SummerSalesDecoFix,AREBoosterTools,SummerSales2,SummerGacha2,ARMEToolConsumption,BerimondBalanceFix"
+    "features": "Live,Goblin/Griffin,SummerSalesDecoFix,AREBoosterTools,DonationEventJuly,SummerSales2,SummerGacha2,ARMEToolConsumption,BerimondBalanceFix"
   }
 }
