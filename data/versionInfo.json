@@ -1,7 +1,7 @@
 {
-  "version": "780.RC.01",
-  "date": "08/07/2026 11:32:27",
+  "version": "783.RC.01",
+  "date": "18/08/2026 10:00:35",
   "included": {
-    "features": "Live,Goblin/Griffin,SummerSalesDecoFix,AREBoosterTools,DonationEventJuly,SummerSales2,SummerGacha2,ARMEToolConsumption,BerimondBalanceFix"
+    "features": "Live,Jinn,EffectFightTypeCleanup,DonationEvent,RBAdvisor,HeritageEffectFix,AREToolConsumptionFix,DowngradeToolFix"
   }
 }

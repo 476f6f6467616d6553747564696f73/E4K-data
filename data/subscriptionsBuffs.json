@@ -678,5 +678,33 @@
     "tier": 20,
     "effects": "708&amp;1",
     "displayOrder": 3
+  },
+  {
+    "subscriptionBuffID": 91,
+    "subscriptionTypeID": 4,
+    "tier": 1,
+    "effects": "186&amp;1",
+    "displayOrder": 1
+  },
+  {
+    "subscriptionBuffID": 92,
+    "subscriptionTypeID": 4,
+    "tier": 1,
+    "effects": "779&amp;20",
+    "displayOrder": 1
+  },
+  {
+    "subscriptionBuffID": 93,
+    "subscriptionTypeID": 4,
+    "tier": 1,
+    "effects": "780&amp;20",
+    "displayOrder": 1
+  },
+  {
+    "subscriptionBuffID": 94,
+    "subscriptionTypeID": 4,
+    "tier": 1,
+    "effects": "781&amp;30",
+    "displayOrder": 1
   }
 ]

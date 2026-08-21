@@ -64,5 +64,17 @@
     "currencyID": 83,
     "directlyByPlayer": 1,
     "sortOrder": 15
+  },
+  {
+    "allianceFundsDonatableID": 16,
+    "currencyID": 85,
+    "directlyByPlayer": 1,
+    "sortOrder": 16
+  },
+  {
+    "allianceFundsDonatableID": 17,
+    "currencyID": 86,
+    "directlyByPlayer": 1,
+    "sortOrder": 17
   }
 ]

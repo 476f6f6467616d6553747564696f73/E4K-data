@@ -4833,7 +4833,8 @@
     "packagePriceC2": 99000,
     "minLevel": 45,
     "maxLevel": 99,
-    "constructionItemID": 20005
+    "constructionItemID": 20005,
+    "constructionItemAmount": 1
   },
   {
     "packageID": 1162,
@@ -74188,6 +74189,15 @@
     "comment1": "Gacha Recycling",
     "comment2": "Offering Shard -&gt; Anniversary Gacha",
     "costOfferingShard": 5000,
+    "addLuckySlice": 100,
+    "relationIDs": "999,423"
+  },
+  {
+    "packageID": 5554,
+    "packageType": "currency",
+    "comment1": "Gacha Recycling",
+    "comment2": "Offering Shard -&gt; Anniversary Gacha",
+    "costOfferingShard": 150000,
     "addLuckySlice": 100,
     "relationIDs": "999,423"
   },

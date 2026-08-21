@@ -377,11 +377,14 @@ export interface AllianceBuff {
     "allianceBuffID": number;
     "allianceBuffSeriesID": number;
     "availableInAllianceFunds"?: number;
+    "costAllianceCoin"?: number;
     "costBastionDoubloon"?: number;
     "costC1"?: number;
     "costC2"?: number;
     "costFuryDoubloon"?: number;
+    "costLegendaryRiftCoin"?: number;
     "costRampartDoubloon"?: number;
+    "costRiftCoin"?: number;
     "costSpiritDoubloon"?: number;
     "costStone"?: number;
     "costTimeDoubloon"?: number;
@@ -1783,7 +1786,7 @@ export interface GemLevel {
 export interface Gem {
     "comment1": string;
     "comment2"?: string;
-    "crossplayID": number;
+    "crossplayID"?: number;
     "droppable": number;
     "effects": string;
     "followingGemID"?: number;
@@ -2851,6 +2854,7 @@ export interface raidBoss {
     "name": string;
     "raidBossID": number;
     "rarity": number;
+    "selectionCardText"?: string;
 }
 
 export interface RaidBossLevel {
@@ -3118,9 +3122,11 @@ export interface Reward {
     "addGenXP10000"?: number;
     "addGenXP12500"?: number;
     "addGenXP15000"?: number;
+    "addGenXP250"?: number;
     "addGenXP2500"?: number;
     "addGenXP500"?: number;
     "addGenXP5000"?: number;
+    "addGenXP7500"?: number;
     "addGeneralsSkillsResetToken"?: number;
     "addGoldToken"?: number;
     "addHalloweenLTPEToken"?: number;

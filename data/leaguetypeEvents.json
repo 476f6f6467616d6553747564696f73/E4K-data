@@ -3716,5 +3716,23 @@
     "neededPointsForRewards": "5,10,15,30",
     "rewardIDs": "11150,11151,11152,11150,11149,11148,11147",
     "topXValue": "10,3"
+  },
+  {
+    "leaguetypeEventsID": 623,
+    "leaguetypeID": 1,
+    "eventID": 131,
+    "rewardSetID": 3,
+    "neededPointsForRewards": "5,10,15,30",
+    "rewardIDs": "11244,11245,11246,11247,11243,11242,11241",
+    "topXValue": "10,3"
+  },
+  {
+    "leaguetypeEventsID": 624,
+    "leaguetypeID": 1,
+    "eventID": 131,
+    "rewardSetID": 2,
+    "neededPointsForRewards": "5,10,15,30",
+    "rewardIDs": "11390,11391,11392,11393,11389,11388,11387",
+    "topXValue": "10,3"
   }
 ]

@@ -9,7 +9,7 @@
     "courtyardSize": 50000,
     "rewardIDs": 20355,
     "minPointsForBossRewards": 300,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 2,
@@ -21,7 +21,7 @@
     "courtyardSize": 75000,
     "rewardIDs": 20356,
     "minPointsForBossRewards": 700,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 3,
@@ -33,7 +33,7 @@
     "courtyardSize": 150000,
     "rewardIDs": 20357,
     "minPointsForBossRewards": 1100,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 4,
@@ -45,7 +45,7 @@
     "courtyardSize": 300000,
     "rewardIDs": 20358,
     "minPointsForBossRewards": 1500,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 5,
@@ -57,7 +57,7 @@
     "courtyardSize": 400000,
     "rewardIDs": 20359,
     "minPointsForBossRewards": 1900,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 6,
@@ -69,7 +69,7 @@
     "courtyardSize": 500000,
     "rewardIDs": 20360,
     "minPointsForBossRewards": 2300,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 7,
@@ -81,7 +81,7 @@
     "courtyardSize": 600000,
     "rewardIDs": 20361,
     "minPointsForBossRewards": 2700,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 8,
@@ -93,7 +93,7 @@
     "courtyardSize": 800000,
     "rewardIDs": 20362,
     "minPointsForBossRewards": 3100,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 9,
@@ -105,7 +105,7 @@
     "courtyardSize": 900000,
     "rewardIDs": 20363,
     "minPointsForBossRewards": 3500,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 10,
@@ -117,7 +117,7 @@
     "courtyardSize": 1000000,
     "rewardIDs": 20364,
     "minPointsForBossRewards": 3900,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 21,
@@ -129,7 +129,7 @@
     "courtyardSize": 1200000,
     "rewardIDs": 20365,
     "minPointsForBossRewards": 4300,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 32,
@@ -141,7 +141,7 @@
     "courtyardSize": 1350000,
     "rewardIDs": 20366,
     "minPointsForBossRewards": 4700,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 33,
@@ -153,7 +153,7 @@
     "courtyardSize": 1450000,
     "rewardIDs": 20367,
     "minPointsForBossRewards": 5100,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 34,
@@ -165,7 +165,7 @@
     "courtyardSize": 1600000,
     "rewardIDs": 20368,
     "minPointsForBossRewards": 5500,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 35,
@@ -177,7 +177,7 @@
     "courtyardSize": 1650000,
     "rewardIDs": 20369,
     "minPointsForBossRewards": 5900,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 36,
@@ -189,7 +189,7 @@
     "courtyardSize": 1700000,
     "rewardIDs": 20370,
     "minPointsForBossRewards": 6300,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 37,
@@ -201,7 +201,7 @@
     "courtyardSize": 1750000,
     "rewardIDs": 20371,
     "minPointsForBossRewards": 6700,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 38,
@@ -213,7 +213,7 @@
     "courtyardSize": 1800000,
     "rewardIDs": 20372,
     "minPointsForBossRewards": 7100,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 39,
@@ -225,7 +225,7 @@
     "courtyardSize": 2000000,
     "rewardIDs": 20373,
     "minPointsForBossRewards": 7500,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 40,
@@ -237,7 +237,7 @@
     "courtyardSize": 2200000,
     "rewardIDs": 20374,
     "minPointsForBossRewards": 7900,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 11,
@@ -249,7 +249,7 @@
     "courtyardSize": 100000,
     "rewardIDs": 20375,
     "minPointsForBossRewards": 300,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 12,
@@ -260,8 +260,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 150000,
     "rewardIDs": 20376,
-    "minPointsForBossRewards": 1500,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 600,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 13,
@@ -272,8 +272,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 200000,
     "rewardIDs": 20377,
-    "minPointsForBossRewards": 3200,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 900,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 14,
@@ -284,8 +284,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 300000,
     "rewardIDs": 20378,
-    "minPointsForBossRewards": 6000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 1200,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 15,
@@ -296,8 +296,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 350000,
     "rewardIDs": 20379,
-    "minPointsForBossRewards": 8500,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 1500,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 16,
@@ -308,8 +308,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 400000,
     "rewardIDs": 20380,
-    "minPointsForBossRewards": 10000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 1800,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 17,
@@ -320,8 +320,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 550000,
     "rewardIDs": 20381,
-    "minPointsForBossRewards": 10000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 2100,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 18,
@@ -332,8 +332,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 600000,
     "rewardIDs": 20382,
-    "minPointsForBossRewards": 10000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 2400,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 19,
@@ -344,8 +344,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 650000,
     "rewardIDs": 20383,
-    "minPointsForBossRewards": 11000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 2700,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 20,
@@ -356,8 +356,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 700000,
     "rewardIDs": 20384,
-    "minPointsForBossRewards": 13000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 3000,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 22,
@@ -368,8 +368,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 800000,
     "rewardIDs": 20385,
-    "minPointsForBossRewards": 13000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 3300,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 23,
@@ -380,8 +380,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 1000000,
     "rewardIDs": 20386,
-    "minPointsForBossRewards": 13000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 3600,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 24,
@@ -392,8 +392,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 1250000,
     "rewardIDs": 20387,
-    "minPointsForBossRewards": 13000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 3900,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 25,
@@ -404,8 +404,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 1500000,
     "rewardIDs": 20388,
-    "minPointsForBossRewards": 13000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 4200,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 26,
@@ -416,8 +416,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 1550000,
     "rewardIDs": 20389,
-    "minPointsForBossRewards": 13000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 4500,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 27,
@@ -428,8 +428,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 1650000,
     "rewardIDs": 20390,
-    "minPointsForBossRewards": 13000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 4800,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 28,
@@ -440,8 +440,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 1750000,
     "rewardIDs": 20391,
-    "minPointsForBossRewards": 13000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 5100,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 29,
@@ -452,8 +452,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 2100000,
     "rewardIDs": 20392,
-    "minPointsForBossRewards": 13000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 5400,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 30,
@@ -464,8 +464,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 2500000,
     "rewardIDs": 20393,
-    "minPointsForBossRewards": 13000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 5700,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 31,
@@ -476,8 +476,8 @@
     "courtyardMeleePercent": 50,
     "courtyardSize": 3000000,
     "rewardIDs": 20394,
-    "minPointsForBossRewards": 13000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 6000,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 41,
@@ -488,8 +488,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 10000,
     "rewardIDs": 20395,
-    "minPointsForBossRewards": 450,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 300,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 42,
@@ -501,7 +501,7 @@
     "courtyardSize": 11000,
     "rewardIDs": 20396,
     "minPointsForBossRewards": 800,
-    "lootBoxTombolaID": 82
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 43,
@@ -512,8 +512,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 12000,
     "rewardIDs": 20397,
-    "minPointsForBossRewards": 2500,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 1300,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 44,
@@ -524,8 +524,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 15000,
     "rewardIDs": 20398,
-    "minPointsForBossRewards": 5000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 1800,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 45,
@@ -536,8 +536,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 15750,
     "rewardIDs": 20399,
-    "minPointsForBossRewards": 10000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 2300,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 46,
@@ -548,8 +548,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 16500,
     "rewardIDs": 20400,
-    "minPointsForBossRewards": 15000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 2800,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 47,
@@ -560,8 +560,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 18500,
     "rewardIDs": 20401,
-    "minPointsForBossRewards": 25000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 3300,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 48,
@@ -572,8 +572,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 20000,
     "rewardIDs": 20402,
-    "minPointsForBossRewards": 35000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 3800,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 49,
@@ -584,8 +584,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 22500,
     "rewardIDs": 20403,
-    "minPointsForBossRewards": 45000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 4300,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 50,
@@ -596,8 +596,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 25000,
     "rewardIDs": 20404,
-    "minPointsForBossRewards": 55000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 4800,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 51,
@@ -608,8 +608,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 30000,
     "rewardIDs": 20405,
-    "minPointsForBossRewards": 65000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 5300,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 52,
@@ -620,8 +620,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 35000,
     "rewardIDs": 20406,
-    "minPointsForBossRewards": 75000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 5800,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 53,
@@ -632,8 +632,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 40000,
     "rewardIDs": 20407,
-    "minPointsForBossRewards": 85000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 6300,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 54,
@@ -644,8 +644,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 45000,
     "rewardIDs": 20408,
-    "minPointsForBossRewards": 95000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 6800,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 55,
@@ -656,8 +656,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 50000,
     "rewardIDs": 20409,
-    "minPointsForBossRewards": 105000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 7300,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 56,
@@ -668,8 +668,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 57500,
     "rewardIDs": 20410,
-    "minPointsForBossRewards": 115000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 7800,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 57,
@@ -680,8 +680,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 60000,
     "rewardIDs": 20411,
-    "minPointsForBossRewards": 125000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 8300,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 58,
@@ -692,8 +692,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 65000,
     "rewardIDs": 20412,
-    "minPointsForBossRewards": 135000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 8800,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 59,
@@ -704,8 +704,8 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 70000,
     "rewardIDs": 20413,
-    "minPointsForBossRewards": 145000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 9300,
+    "lootBoxTombolaID": 109
   },
   {
     "raidBossLevelID": 60,
@@ -716,7 +716,7 @@
     "courtyardMeleePercent": 30,
     "courtyardSize": 75000,
     "rewardIDs": 20414,
-    "minPointsForBossRewards": 155000,
-    "lootBoxTombolaID": 82
+    "minPointsForBossRewards": 9800,
+    "lootBoxTombolaID": 109
   }
 ]

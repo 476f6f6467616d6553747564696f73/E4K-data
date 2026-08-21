@@ -22820,7 +22820,6 @@
     "cleavageOfCellsCost": 138,
     "amountPerWave": 1,
     "upgradeWodID": 382,
-    "downgradeWodID": 566,
     "typ": "Attack",
     "slotTypes": "9,10",
     "researchLocked": 1,
@@ -25797,7 +25796,7 @@
     "typ": "Attack",
     "slotTypes": "1,2,9",
     "allowedToAttack": "0+43",
-    "deleteToolAfterBattle": 1,
+    "deleteToolAfterBattle": 2,
     "fightType": 0,
     "sortOrder": 219.398,
     "effects": "489&amp;50"
@@ -25819,7 +25818,7 @@
     "typ": "Attack",
     "slotTypes": "1,2,9",
     "allowedToAttack": "0+43",
-    "deleteToolAfterBattle": 1,
+    "deleteToolAfterBattle": 2,
     "fightType": 0,
     "sortOrder": 219.399,
     "effects": "489&amp;250"
@@ -25841,7 +25840,7 @@
     "typ": "Attack",
     "slotTypes": "1,2,9",
     "allowedToAttack": "0+43",
-    "deleteToolAfterBattle": 1,
+    "deleteToolAfterBattle": 2,
     "fightType": 0,
     "sortOrder": 219.4,
     "effects": "489&amp;500"
@@ -25863,7 +25862,7 @@
     "typ": "Attack",
     "slotTypes": "1,2,9",
     "allowedToAttack": "0+43",
-    "deleteToolAfterBattle": 1,
+    "deleteToolAfterBattle": 2,
     "fightType": 0,
     "sortOrder": 219.401,
     "effects": "491&amp;50"
@@ -25885,7 +25884,7 @@
     "typ": "Attack",
     "slotTypes": "1,2,9",
     "allowedToAttack": "0+43",
-    "deleteToolAfterBattle": 1,
+    "deleteToolAfterBattle": 2,
     "fightType": 0,
     "sortOrder": 219.402,
     "effects": "491&amp;250"
@@ -25907,7 +25906,7 @@
     "typ": "Attack",
     "slotTypes": "1,2,9",
     "allowedToAttack": "0+43",
-    "deleteToolAfterBattle": 1,
+    "deleteToolAfterBattle": 2,
     "fightType": 0,
     "sortOrder": 219.403,
     "effects": "491&amp;500"
