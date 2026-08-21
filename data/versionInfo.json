@@ -1,7 +1,7 @@
 {
-  "version": "780.RC.01",
-  "date": "08/07/2026 11:32:27",
+  "version": "782.RC.08",
+  "date": "12/08/2026 10:31:24",
   "included": {
-    "features": "Live,Goblin/Griffin,SummerSalesDecoFix,AREBoosterTools,DonationEventJuly,SummerSales2,SummerGacha2,ARMEToolConsumption,BerimondBalanceFix"
+    "features": "Live,Imp,AniversaryCampaignSpecialOffers,CommanderLootFix,BlacksmithPackageAdjustment,AnniversarySales,AnniversaryGacha"
   }
 }

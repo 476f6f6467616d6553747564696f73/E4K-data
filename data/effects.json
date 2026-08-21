@@ -265,7 +265,7 @@
     "name": "lootBonus",
     "effectTypeID": 16,
     "capID": 16,
-    "areaTypeID": "2,11,13,17,14,27,29,30,35,37,43",
+    "areaTypeID": "2,11,13,17,14,27,29,30,35,37,43,24,25",
     "sortOrder": "6.5.1",
     "isPvPFight": 0
   },
@@ -316,7 +316,8 @@
     "effectTypeID": 22,
     "capID": 22,
     "sortOrder": "6.9.1",
-    "isPvPFight": 0
+    "isPvPFight": 0,
+    "isPvEFight": 1
   },
   {
     "effectID": 61,
@@ -4639,6 +4640,541 @@
     "capID": 99,
     "areaTypeID": 43,
     "isPvPFight": 0
+  },
+  {
+    "effectID": 709,
+    "name": "ARELootNomadWallReduction",
+    "effectTypeID": 19,
+    "capID": 2115,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 710,
+    "name": "ARELootNomadGateReduction",
+    "effectTypeID": 20,
+    "capID": 2115,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 711,
+    "name": "ARELootNomadMoatReduction",
+    "effectTypeID": 21,
+    "capID": 2116,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 712,
+    "name": "ARELootNomadAttackBoostFront",
+    "effectTypeID": 53,
+    "capID": 2117,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 713,
+    "name": "ARELootNomadAttackBoostFlank",
+    "effectTypeID": 54,
+    "capID": 2117,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 714,
+    "name": "ARELootNomadLootBonus",
+    "effectTypeID": 16,
+    "capID": 2118,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 715,
+    "name": "ARELootReturnTravelBoost",
+    "effectTypeID": 38,
+    "capID": 2119
+  },
+  {
+    "effectID": 716,
+    "name": "ARELootSpeedBonus",
+    "effectTypeID": 15,
+    "capID": 2120
+  },
+  {
+    "effectID": 717,
+    "name": "ARELootNomadOffensiveMeleeBonus",
+    "effectTypeID": 23,
+    "capID": 2121,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 718,
+    "name": "ARELootNomadOffensiveRangeBonus",
+    "effectTypeID": 24,
+    "capID": 2121,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 719,
+    "name": "ARELootNomadAttackBoostYard",
+    "effectTypeID": 33,
+    "capID": 2122,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 720,
+    "name": "ARELootNomadAttackUnitAmountFlank",
+    "effectTypeID": 28,
+    "capID": 2123,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 721,
+    "name": "ARELootNomadAttackUnitAmountFront",
+    "effectTypeID": 34,
+    "capID": 2123,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 722,
+    "name": "ARELootNomadAttackBonus",
+    "effectTypeID": 36,
+    "capID": 2117,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 723,
+    "name": "ARELootSamuraiWallReduction",
+    "effectTypeID": 19,
+    "capID": 2115,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 724,
+    "name": "ARELootSamuraiGateReduction",
+    "effectTypeID": 20,
+    "capID": 2115,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 725,
+    "name": "ARELootSamuraiMoatReduction",
+    "effectTypeID": 21,
+    "capID": 2116,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 726,
+    "name": "ARELootSamuraiAttackBoostFront",
+    "effectTypeID": 53,
+    "capID": 2117,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 727,
+    "name": "ARELootSamuraiAttackBoostFlank",
+    "effectTypeID": 54,
+    "capID": 2117,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 728,
+    "name": "ARELootSamuraiLootBonus",
+    "effectTypeID": 16,
+    "capID": 2118,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 729,
+    "name": "ARELootSamuraiOffensiveMeleeBonus",
+    "effectTypeID": 23,
+    "capID": 2121,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 730,
+    "name": "ARELootSamuraiOffensiveRangeBonus",
+    "effectTypeID": 24,
+    "capID": 2121,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 731,
+    "name": "ARELootSamuraiAttackBoostYard",
+    "effectTypeID": 33,
+    "capID": 2122,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 732,
+    "name": "ARELootSamuraiAttackUnitAmountFlank",
+    "effectTypeID": 28,
+    "capID": 2123,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 733,
+    "name": "ARELootSamuraiAttackUnitAmountFront",
+    "effectTypeID": 34,
+    "capID": 2123,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 734,
+    "name": "ARELootSamuraiAttackBonus",
+    "effectTypeID": 36,
+    "capID": 2117,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 735,
+    "name": "ARELootBerimondWallReduction",
+    "effectTypeID": 19,
+    "capID": 2115,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 736,
+    "name": "ARELootBerimondGateReduction",
+    "effectTypeID": 20,
+    "capID": 2115,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 737,
+    "name": "ARELootBerimondMoatReduction",
+    "effectTypeID": 21,
+    "capID": 2116,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 738,
+    "name": "ARELootBerimondAttackBoostFront",
+    "effectTypeID": 53,
+    "capID": 2117,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 739,
+    "name": "ARELootBerimondAttackBoostFlank",
+    "effectTypeID": 54,
+    "capID": 2117,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 740,
+    "name": "ARELootBerimondLootBonus",
+    "effectTypeID": 16,
+    "capID": 2118,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 741,
+    "name": "ARELootBerimondOffensiveMeleeBonus",
+    "effectTypeID": 23,
+    "capID": 2121,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 742,
+    "name": "ARELootBerimondOffensiveRangeBonus",
+    "effectTypeID": 24,
+    "capID": 2121,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 743,
+    "name": "ARELootBerimondAttackBoostYard",
+    "effectTypeID": 33,
+    "capID": 2122,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 744,
+    "name": "ARELootBerimondAttackUnitAmountFlank",
+    "effectTypeID": 28,
+    "capID": 2123,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 745,
+    "name": "ARELootBerimondAttackUnitAmountFront",
+    "effectTypeID": 34,
+    "capID": 2123,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 746,
+    "name": "ARELootBerimondAttackBonus",
+    "effectTypeID": 36,
+    "capID": 2117,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 747,
+    "name": "ARELootGloryWallReduction",
+    "effectTypeID": 19,
+    "capID": 2115,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 748,
+    "name": "ARELootGloryGateReduction",
+    "effectTypeID": 20,
+    "capID": 2115,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 749,
+    "name": "ARELootGloryMoatReduction",
+    "effectTypeID": 21,
+    "capID": 2116,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 750,
+    "name": "ARELootGloryAttackBoostFront",
+    "effectTypeID": 53,
+    "capID": 2117,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 751,
+    "name": "ARELootGloryAttackBoostFlank",
+    "effectTypeID": 54,
+    "capID": 2117,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 752,
+    "name": "ARELootGloryLootBonus",
+    "effectTypeID": 16,
+    "capID": 2118,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 753,
+    "name": "ARELootGloryOffensiveMeleeBonus",
+    "effectTypeID": 23,
+    "capID": 2121,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 754,
+    "name": "ARELootGloryOffensiveRangeBonus",
+    "effectTypeID": 24,
+    "capID": 2121,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 755,
+    "name": "ARELootGloryAttackBoostYard",
+    "effectTypeID": 33,
+    "capID": 2122,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 756,
+    "name": "ARELootGloryAttackUnitAmountFlank",
+    "effectTypeID": 28,
+    "capID": 2123,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 757,
+    "name": "ARELootGloryAttackUnitAmountFront",
+    "effectTypeID": 34,
+    "capID": 2123,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 758,
+    "name": "ARELootGloryAttackBonus",
+    "effectTypeID": 36,
+    "capID": 2117,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 759,
+    "name": "ARELootNomadAttackBonusUnitBeef",
+    "effectTypeID": 148,
+    "capID": 99,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 760,
+    "name": "ARELootNomadAttackBonusUnitMead",
+    "effectTypeID": 148,
+    "capID": 99,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 761,
+    "name": "ARELootNomadAttackUnitAmountReinforcementBonus",
+    "effectTypeID": 51,
+    "capID": 99,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 762,
+    "name": "ARELootNomadAdditionalWaves",
+    "effectTypeID": 156,
+    "capID": 99,
+    "areaTypeID": "27,35",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 763,
+    "name": "ARELootSamuraiAttackBonusUnitBeef",
+    "effectTypeID": 148,
+    "capID": 99,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 764,
+    "name": "ARELootSamuraiAttackBonusUnitMead",
+    "effectTypeID": 148,
+    "capID": 99,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 765,
+    "name": "ARELootSamuraiAttackUnitAmountReinforcementBonus",
+    "effectTypeID": 51,
+    "capID": 99,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 766,
+    "name": "ARELootSamuraiAdditionalWaves",
+    "effectTypeID": 156,
+    "capID": 99,
+    "areaTypeID": "29,37",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 767,
+    "name": "ARELootBerimondAttackBonusUnitBeef",
+    "effectTypeID": 148,
+    "capID": 99,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 768,
+    "name": "ARELootBerimondAttackBonusUnitMead",
+    "effectTypeID": 148,
+    "capID": 99,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 769,
+    "name": "ARELootBerimondAttackUnitAmountReinforcementBonus",
+    "effectTypeID": 51,
+    "capID": 99,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 770,
+    "name": "ARELootBerimondAdditionalWaves",
+    "effectTypeID": 156,
+    "capID": 99,
+    "areaTypeID": "15,16,17,18,30",
+    "isPvPFight": 0
+  },
+  {
+    "effectID": 771,
+    "name": "ARELootGloryAttackBonusUnitBeef",
+    "effectTypeID": 148,
+    "capID": 99,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 772,
+    "name": "ARELootGloryAttackBonusUnitMead",
+    "effectTypeID": 148,
+    "capID": 99,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 773,
+    "name": "ARELootGloryAttackUnitAmountReinforcementBonus",
+    "effectTypeID": 51,
+    "capID": 99,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 774,
+    "name": "ARELootGloryAdditionalWaves",
+    "effectTypeID": 156,
+    "capID": 99,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 775,
+    "crossplayID": 775,
+    "name": "TemporaryCommonAttackBonus",
+    "effectTypeID": 36,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 2
+  },
+  {
+    "effectID": 776,
+    "crossplayID": 776,
+    "name": "TemporaryRareAttackBonus",
+    "effectTypeID": 36,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 1
+  },
+  {
+    "effectID": 778,
+    "crossplayID": 778,
+    "name": "TemporaryLegendaryAttackBonus",
+    "effectTypeID": 36,
+    "capID": 99,
+    "areaTypeID": 43,
+    "raidBossID": 3
   },
   {
     "effectID": 2101,

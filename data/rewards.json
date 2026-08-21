@@ -3726,6 +3726,42 @@
     "constructionItemIDs": 1237
   },
   {
+    "rewardID": 9965,
+    "comment1": "RiftPoint Clear Compensation",
+    "comment2": "RiftPoint Clear Compensation",
+    "currency1": 1
+  },
+  {
+    "rewardID": 9966,
+    "comment1": "RiftTicket Clear Compensation",
+    "comment2": "RiftTicket Clear Compensation",
+    "currency2": 1400
+  },
+  {
+    "rewardID": 9967,
+    "comment1": "RiftTicket Clear Compensation",
+    "comment2": "RiftTicket Clear Compensation",
+    "currency2": 2800
+  },
+  {
+    "rewardID": 9968,
+    "comment1": "RiftTicket Clear Compensation",
+    "comment2": "RiftTicket Clear Compensation",
+    "currency2": 4200
+  },
+  {
+    "rewardID": 9969,
+    "comment1": "RiftTicket Clear Compensation",
+    "comment2": "RiftTicket Clear Compensation",
+    "currency2": 5600
+  },
+  {
+    "rewardID": 9970,
+    "comment1": "RiftTicket Clear Compensation",
+    "comment2": "RiftTicket Clear Compensation",
+    "currency2": 7000
+  },
+  {
     "rewardID": 70001,
     "crossplayID": 70001,
     "comment1": "fatKingRewards",
@@ -35645,6 +35681,258 @@
     "toDecoGlobalStorage": 1
   },
   {
+    "rewardID": 11111,
+    "crossplayID": 11111,
+    "comment1": "ARE Loot",
+    "comment2": "Nomad Armour",
+    "equipmentIDs": 1390
+  },
+  {
+    "rewardID": 11112,
+    "crossplayID": 11112,
+    "comment1": "ARE Loot",
+    "comment2": "Nomad Weapon",
+    "equipmentIDs": 1391
+  },
+  {
+    "rewardID": 11113,
+    "crossplayID": 11113,
+    "comment1": "ARE Loot",
+    "comment2": "Nomad Helmet",
+    "equipmentIDs": 1392
+  },
+  {
+    "rewardID": 11114,
+    "crossplayID": 11114,
+    "comment1": "ARE Loot",
+    "comment2": "Nomad Artifact",
+    "equipmentIDs": 1393
+  },
+  {
+    "rewardID": 11115,
+    "crossplayID": 11115,
+    "comment1": "ARE Loot",
+    "comment2": "Nomad Commander",
+    "equipmentIDs": 1394
+  },
+  {
+    "rewardID": 11116,
+    "crossplayID": 11116,
+    "comment1": "ARE Loot",
+    "comment2": "Nomad Gem 1",
+    "gemIDs": 462
+  },
+  {
+    "rewardID": 11117,
+    "crossplayID": 11117,
+    "comment1": "ARE Loot",
+    "comment2": "Nomad Gem 2",
+    "gemIDs": 463
+  },
+  {
+    "rewardID": 11118,
+    "crossplayID": 11118,
+    "comment1": "ARE Loot",
+    "comment2": "Nomad Gem 3",
+    "gemIDs": 464
+  },
+  {
+    "rewardID": 11119,
+    "crossplayID": 11119,
+    "comment1": "ARE Loot",
+    "comment2": "Nomad Gem 4",
+    "gemIDs": 465
+  },
+  {
+    "rewardID": 11120,
+    "crossplayID": 11120,
+    "comment1": "ARE Loot",
+    "comment2": "Samurai Armour",
+    "equipmentIDs": 1395
+  },
+  {
+    "rewardID": 11121,
+    "crossplayID": 11121,
+    "comment1": "ARE Loot",
+    "comment2": "Samurai Weapon",
+    "equipmentIDs": 1396
+  },
+  {
+    "rewardID": 11122,
+    "crossplayID": 11122,
+    "comment1": "ARE Loot",
+    "comment2": "Samurai Helmet",
+    "equipmentIDs": 1397
+  },
+  {
+    "rewardID": 11123,
+    "crossplayID": 11123,
+    "comment1": "ARE Loot",
+    "comment2": "Samurai Artifact",
+    "equipmentIDs": 1398
+  },
+  {
+    "rewardID": 11124,
+    "crossplayID": 11124,
+    "comment1": "ARE Loot",
+    "comment2": "Samurai Commander",
+    "equipmentIDs": 1399
+  },
+  {
+    "rewardID": 11125,
+    "crossplayID": 11125,
+    "comment1": "ARE Loot",
+    "comment2": "Samurai Gem 1",
+    "gemIDs": 466
+  },
+  {
+    "rewardID": 11126,
+    "crossplayID": 11126,
+    "comment1": "ARE Loot",
+    "comment2": "Samurai Gem 2",
+    "gemIDs": 467
+  },
+  {
+    "rewardID": 11127,
+    "crossplayID": 11127,
+    "comment1": "ARE Loot",
+    "comment2": "Samurai Gem 3",
+    "gemIDs": 468
+  },
+  {
+    "rewardID": 11128,
+    "crossplayID": 11128,
+    "comment1": "ARE Loot",
+    "comment2": "Samurai Gem 4",
+    "gemIDs": 469
+  },
+  {
+    "rewardID": 11129,
+    "crossplayID": 11129,
+    "comment1": "ARE Loot",
+    "comment2": "Berimond Armour",
+    "equipmentIDs": 1400
+  },
+  {
+    "rewardID": 11130,
+    "crossplayID": 11130,
+    "comment1": "ARE Loot",
+    "comment2": "Berimond Weapon",
+    "equipmentIDs": 1401
+  },
+  {
+    "rewardID": 11131,
+    "crossplayID": 11131,
+    "comment1": "ARE Loot",
+    "comment2": "Berimond Helmet",
+    "equipmentIDs": 1402
+  },
+  {
+    "rewardID": 11132,
+    "crossplayID": 11132,
+    "comment1": "ARE Loot",
+    "comment2": "Berimond Artifact",
+    "equipmentIDs": 1403
+  },
+  {
+    "rewardID": 11133,
+    "crossplayID": 11133,
+    "comment1": "ARE Loot",
+    "comment2": "Berimond Commander",
+    "equipmentIDs": 1404
+  },
+  {
+    "rewardID": 11134,
+    "crossplayID": 11134,
+    "comment1": "ARE Loot",
+    "comment2": "Berimond Gem 1",
+    "gemIDs": 470
+  },
+  {
+    "rewardID": 11135,
+    "crossplayID": 11135,
+    "comment1": "ARE Loot",
+    "comment2": "Berimond Gem 2",
+    "gemIDs": 471
+  },
+  {
+    "rewardID": 11136,
+    "crossplayID": 11136,
+    "comment1": "ARE Loot",
+    "comment2": "Berimond Gem 3",
+    "gemIDs": 472
+  },
+  {
+    "rewardID": 11137,
+    "crossplayID": 11137,
+    "comment1": "ARE Loot",
+    "comment2": "Berimond Gem 4",
+    "gemIDs": 473
+  },
+  {
+    "rewardID": 11138,
+    "crossplayID": 11138,
+    "comment1": "ARE Loot",
+    "comment2": "Glory Armour",
+    "equipmentIDs": 1405
+  },
+  {
+    "rewardID": 11139,
+    "crossplayID": 11139,
+    "comment1": "ARE Loot",
+    "comment2": "Glory Weapon",
+    "equipmentIDs": 1406
+  },
+  {
+    "rewardID": 11140,
+    "crossplayID": 11140,
+    "comment1": "ARE Loot",
+    "comment2": "Glory Helmet",
+    "equipmentIDs": 1407
+  },
+  {
+    "rewardID": 11141,
+    "crossplayID": 11141,
+    "comment1": "ARE Loot",
+    "comment2": "Glory Artifact",
+    "equipmentIDs": 1408
+  },
+  {
+    "rewardID": 11142,
+    "crossplayID": 11142,
+    "comment1": "ARE Loot",
+    "comment2": "Glory Commander",
+    "equipmentIDs": 1409
+  },
+  {
+    "rewardID": 11143,
+    "crossplayID": 11143,
+    "comment1": "ARE Loot",
+    "comment2": "Glory Gem 1",
+    "gemIDs": 474
+  },
+  {
+    "rewardID": 11144,
+    "crossplayID": 11144,
+    "comment1": "ARE Loot",
+    "comment2": "Glory Gem 2",
+    "gemIDs": 475
+  },
+  {
+    "rewardID": 11145,
+    "crossplayID": 11145,
+    "comment1": "ARE Loot",
+    "comment2": "Glory Gem 3",
+    "gemIDs": 476
+  },
+  {
+    "rewardID": 11146,
+    "crossplayID": 11146,
+    "comment1": "ARE Loot",
+    "comment2": "Glory Gem 4",
+    "gemIDs": 477
+  },
+  {
     "rewardID": 11147,
     "crossplayID": 11027,
     "comment1": "Summer Gacha 26 (July)",
@@ -36323,6 +36611,2120 @@
     "comment2": "Exalted red watermelon swing",
     "decoWodID": 4453,
     "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11241,
+    "crossplayID": 11241,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Gold PvP Hero, TopX Gacha Commander",
+    "equipmentIDs": "1475#1587"
+  },
+  {
+    "rewardID": 11242,
+    "crossplayID": 11242,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Silver PvP Hero, TopX Gacha Commander",
+    "equipmentIDs": "1470#1587"
+  },
+  {
+    "rewardID": 11243,
+    "crossplayID": 11243,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "TopX Gacha Castellan",
+    "equipmentIDs": 1588
+  },
+  {
+    "rewardID": 11244,
+    "crossplayID": 11244,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Barracks (Hybrid)",
+    "constructionItemIDs": 1267
+  },
+  {
+    "rewardID": 11245,
+    "crossplayID": 11245,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Cake Slice",
+    "addLuckySlice": 300
+  },
+  {
+    "rewardID": 11246,
+    "crossplayID": 11246,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 10
+  },
+  {
+    "rewardID": 11247,
+    "crossplayID": 11247,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Beef Deco",
+    "decoWodID": 4464,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11248,
+    "crossplayID": 11248,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "The Once and Future Kings",
+    "decoWodID": 4471,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11249,
+    "crossplayID": 11249,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Troop Melee Off",
+    "units": "498+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11250,
+    "crossplayID": 11250,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Troop Melee Def",
+    "units": "499+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11251,
+    "crossplayID": 11251,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Troop Ranged Off",
+    "units": "500+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11252,
+    "crossplayID": 11252,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Troop Ranged Def",
+    "units": "501+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11253,
+    "crossplayID": 11253,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 1 (Bronze)",
+    "gemIDs": 490
+  },
+  {
+    "rewardID": 11254,
+    "crossplayID": 11254,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 2 (Bronze)",
+    "gemIDs": 491
+  },
+  {
+    "rewardID": 11255,
+    "crossplayID": 11255,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 3 (Bronze)",
+    "gemIDs": 492
+  },
+  {
+    "rewardID": 11256,
+    "crossplayID": 11256,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 4 (Bronze)",
+    "gemIDs": 493
+  },
+  {
+    "rewardID": 11257,
+    "crossplayID": 11257,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Helmet (Bronze)",
+    "equipmentIDs": 1461
+  },
+  {
+    "rewardID": 11258,
+    "crossplayID": 11258,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Armor (Bronze)",
+    "equipmentIDs": 1462
+  },
+  {
+    "rewardID": 11259,
+    "crossplayID": 11259,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Weapon (Bronze)",
+    "equipmentIDs": 1463
+  },
+  {
+    "rewardID": 11260,
+    "crossplayID": 11260,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Artifact (Bronze)",
+    "equipmentIDs": 1464
+  },
+  {
+    "rewardID": 11261,
+    "crossplayID": 11261,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Hero (Bronze)",
+    "equipmentIDs": 1465
+  },
+  {
+    "rewardID": 11262,
+    "crossplayID": 11262,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 15
+  },
+  {
+    "rewardID": 11263,
+    "crossplayID": 11263,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 5
+  },
+  {
+    "rewardID": 11264,
+    "crossplayID": 11264,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 10
+  },
+  {
+    "rewardID": 11265,
+    "crossplayID": 11265,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 5
+  },
+  {
+    "rewardID": 11266,
+    "crossplayID": 11266,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Gen XP1000",
+    "addGenXP1000": 10
+  },
+  {
+    "rewardID": 11267,
+    "crossplayID": 11267,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary 2024 Sales Deco (2969)",
+    "decoWodID": 2969,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11268,
+    "crossplayID": 11268,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Exalted Purple Vintage Pavilion",
+    "decoWodID": 4466,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11269,
+    "crossplayID": 11269,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Military District",
+    "constructionItemIDs": 1261
+  },
+  {
+    "rewardID": 11270,
+    "crossplayID": 11270,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Cattle Farm",
+    "constructionItemIDs": 1262
+  },
+  {
+    "rewardID": 11271,
+    "crossplayID": 11271,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Granary",
+    "constructionItemIDs": 1263
+  },
+  {
+    "rewardID": 11272,
+    "crossplayID": 11272,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Tavern",
+    "constructionItemIDs": 1264
+  },
+  {
+    "rewardID": 11273,
+    "crossplayID": 11273,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Stables",
+    "constructionItemIDs": 1265
+  },
+  {
+    "rewardID": 11274,
+    "crossplayID": 11274,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Barracks",
+    "constructionItemIDs": 1266
+  },
+  {
+    "rewardID": 11275,
+    "crossplayID": 11275,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Baron - Festive Cake",
+    "equipmentIDs": 1590
+  },
+  {
+    "rewardID": 11276,
+    "crossplayID": 11276,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Baron - Anniversary Badge",
+    "equipmentIDs": 925
+  },
+  {
+    "rewardID": 11277,
+    "crossplayID": 11277,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Commander - Festive Chest",
+    "equipmentIDs": 1589
+  },
+  {
+    "rewardID": 11278,
+    "crossplayID": 11278,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Commander - Confetti Canon",
+    "equipmentIDs": 1195
+  },
+  {
+    "rewardID": 11279,
+    "crossplayID": 11279,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Purple Anniversary Deco 20x20 Low",
+    "decoWodID": 4463,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11280,
+    "crossplayID": 11280,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Gen XP5000",
+    "addGenXP5000": 10
+  },
+  {
+    "rewardID": 11281,
+    "crossplayID": 11281,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Exalted Green Vintage Pavilion (1)",
+    "decoWodID": 4467,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11282,
+    "crossplayID": 11282,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Granary (Economy 1)",
+    "constructionItemIDs": 1268
+  },
+  {
+    "rewardID": 11283,
+    "crossplayID": 11283,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 1 (Silver)",
+    "gemIDs": 494
+  },
+  {
+    "rewardID": 11284,
+    "crossplayID": 11284,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 2 (Silver)",
+    "gemIDs": 495
+  },
+  {
+    "rewardID": 11285,
+    "crossplayID": 11285,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 3 (Silver)",
+    "gemIDs": 496
+  },
+  {
+    "rewardID": 11286,
+    "crossplayID": 11286,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 4 (Silver)",
+    "gemIDs": 497
+  },
+  {
+    "rewardID": 11287,
+    "crossplayID": 11287,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Helmet (Silver)",
+    "equipmentIDs": 1466
+  },
+  {
+    "rewardID": 11288,
+    "crossplayID": 11288,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Armor (Silver)",
+    "equipmentIDs": 1467
+  },
+  {
+    "rewardID": 11289,
+    "crossplayID": 11289,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Weapon (Silver)",
+    "equipmentIDs": 1468
+  },
+  {
+    "rewardID": 11290,
+    "crossplayID": 11290,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Artifact (Silver)",
+    "equipmentIDs": 1469
+  },
+  {
+    "rewardID": 11291,
+    "crossplayID": 11291,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Green Anniversary Deco 20x20 Low",
+    "decoWodID": 4461,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11292,
+    "crossplayID": 11292,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 2
+  },
+  {
+    "rewardID": 11293,
+    "crossplayID": 11293,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 2
+  },
+  {
+    "rewardID": 11294,
+    "crossplayID": 11294,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 2
+  },
+  {
+    "rewardID": 11295,
+    "crossplayID": 11295,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Gen XP10000",
+    "addGenXP10000": 10
+  },
+  {
+    "rewardID": 11296,
+    "crossplayID": 11296,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Exalted Red Vintage Pavilion",
+    "decoWodID": 4465,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11297,
+    "crossplayID": 11297,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Granary (Economy 2)",
+    "constructionItemIDs": 1269
+  },
+  {
+    "rewardID": 11298,
+    "crossplayID": 11298,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Granary (Economy 3)",
+    "constructionItemIDs": 1270
+  },
+  {
+    "rewardID": 11299,
+    "crossplayID": 11299,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Red Anniversary Deco 20x20 Low",
+    "decoWodID": 4462,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11300,
+    "crossplayID": 11300,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Purple Anniversary Deco 20x20 High",
+    "decoWodID": 4460,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11301,
+    "crossplayID": 11301,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Gen XP12500",
+    "addGenXP12500": 10
+  },
+  {
+    "rewardID": 11302,
+    "crossplayID": 11302,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Exalted Green Vintage Pavilion (2)",
+    "decoWodID": 4468,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11303,
+    "crossplayID": 11303,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Exalted Green Vintage Pavilion (3)",
+    "decoWodID": 4469,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11304,
+    "crossplayID": 11304,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Exalted Green Sweet surprise cake",
+    "decoWodID": 4470,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11305,
+    "crossplayID": 11305,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Green Anniversary Deco 20x20 High",
+    "decoWodID": 4458,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11306,
+    "crossplayID": 11306,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Tavern (Combat 1)",
+    "constructionItemIDs": 1271
+  },
+  {
+    "rewardID": 11307,
+    "crossplayID": 11307,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Tavern (Combat 2)",
+    "constructionItemIDs": 1272
+  },
+  {
+    "rewardID": 11308,
+    "crossplayID": 11308,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Tavern (Combat 3)",
+    "constructionItemIDs": 1273
+  },
+  {
+    "rewardID": 11309,
+    "crossplayID": 11309,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Tavern (Combat 4)",
+    "constructionItemIDs": 1274
+  },
+  {
+    "rewardID": 11310,
+    "crossplayID": 11310,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 2
+  },
+  {
+    "rewardID": 11311,
+    "crossplayID": 11311,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 1
+  },
+  {
+    "rewardID": 11312,
+    "crossplayID": 11312,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 20
+  },
+  {
+    "rewardID": 11313,
+    "crossplayID": 11313,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 1 (Gold)",
+    "gemIDs": 498
+  },
+  {
+    "rewardID": 11314,
+    "crossplayID": 11314,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 2 (Gold)",
+    "gemIDs": 499
+  },
+  {
+    "rewardID": 11315,
+    "crossplayID": 11315,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 3 (Gold)",
+    "gemIDs": 500
+  },
+  {
+    "rewardID": 11316,
+    "crossplayID": 11316,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Gem 4 (Gold)",
+    "gemIDs": 501
+  },
+  {
+    "rewardID": 11317,
+    "crossplayID": 11317,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Armor (Gold)",
+    "equipmentIDs": 1471
+  },
+  {
+    "rewardID": 11318,
+    "crossplayID": 11318,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Artifact (Gold)",
+    "equipmentIDs": 1472
+  },
+  {
+    "rewardID": 11319,
+    "crossplayID": 11319,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Helmet (Gold)",
+    "equipmentIDs": 1473
+  },
+  {
+    "rewardID": 11320,
+    "crossplayID": 11320,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Weapon (Gold)",
+    "equipmentIDs": 1474
+  },
+  {
+    "rewardID": 11321,
+    "crossplayID": 11321,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "PvP Hero (Silver)",
+    "equipmentIDs": 1470
+  },
+  {
+    "rewardID": 11322,
+    "crossplayID": 11322,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Red Anniversary Deco 20x20 High",
+    "decoWodID": 4459,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11323,
+    "crossplayID": 11323,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 10
+  },
+  {
+    "rewardID": 11324,
+    "crossplayID": 11324,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 4
+  },
+  {
+    "rewardID": 11325,
+    "crossplayID": 11325,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 4
+  },
+  {
+    "rewardID": 11326,
+    "crossplayID": 11326,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Pavilion (2456)",
+    "decoWodID": 2456,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11327,
+    "crossplayID": 11327,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "The Founding Father (2766)",
+    "decoWodID": 2766,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11328,
+    "crossplayID": 11328,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Artefacts from Beyond the Horizon (2767)",
+    "decoWodID": 2767,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11329,
+    "crossplayID": 11329,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "The Enduring Emperor (2768)",
+    "decoWodID": 2768,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11330,
+    "crossplayID": 11330,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Badge",
+    "equipmentIDs": 925
+  },
+  {
+    "rewardID": 11331,
+    "crossplayID": 11331,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Cake",
+    "equipmentIDs": 1318
+  },
+  {
+    "rewardID": 11332,
+    "crossplayID": 11332,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Cloudmaker",
+    "equipmentIDs": 2015
+  },
+  {
+    "rewardID": 11333,
+    "crossplayID": 11333,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Party Canon",
+    "equipmentIDs": 926
+  },
+  {
+    "rewardID": 11334,
+    "crossplayID": 11334,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Confetti Canon",
+    "equipmentIDs": 1195
+  },
+  {
+    "rewardID": 11335,
+    "crossplayID": 11335,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Demon Scepter",
+    "equipmentIDs": 2016
+  },
+  {
+    "rewardID": 11336,
+    "crossplayID": 11336,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Dwelling",
+    "constructionItemIDs": 977
+  },
+  {
+    "rewardID": 11337,
+    "crossplayID": 11337,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Storehouse",
+    "constructionItemIDs": 978
+  },
+  {
+    "rewardID": 11338,
+    "crossplayID": 11338,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Quarry",
+    "constructionItemIDs": 979
+  },
+  {
+    "rewardID": 11339,
+    "crossplayID": 11339,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Bakery",
+    "constructionItemIDs": 980
+  },
+  {
+    "rewardID": 11340,
+    "crossplayID": 11340,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Defensive Workshop",
+    "constructionItemIDs": 981
+  },
+  {
+    "rewardID": 11341,
+    "crossplayID": 11341,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Offensive Workshop",
+    "constructionItemIDs": 982
+  },
+  {
+    "rewardID": 11342,
+    "crossplayID": 11342,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Keep",
+    "constructionItemIDs": 983
+  },
+  {
+    "rewardID": 11343,
+    "crossplayID": 11343,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Barrel Workshop",
+    "constructionItemIDs": 984
+  },
+  {
+    "rewardID": 11344,
+    "crossplayID": 11344,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Hall of Legends",
+    "constructionItemIDs": 985
+  },
+  {
+    "rewardID": 11345,
+    "crossplayID": 11345,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 150
+  },
+  {
+    "rewardID": 11346,
+    "crossplayID": 11346,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 150
+  },
+  {
+    "rewardID": 11347,
+    "crossplayID": 11347,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 150
+  },
+  {
+    "rewardID": 11348,
+    "crossplayID": 11348,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 25
+  },
+  {
+    "rewardID": 11349,
+    "crossplayID": 11349,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 50
+  },
+  {
+    "rewardID": 11350,
+    "crossplayID": 11350,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 50
+  },
+  {
+    "rewardID": 11351,
+    "crossplayID": 11351,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 50
+  },
+  {
+    "rewardID": 11352,
+    "crossplayID": 11352,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Hasan Offerings",
+    "addHasanToken": 100
+  },
+  {
+    "rewardID": 11353,
+    "crossplayID": 11353,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 15
+  },
+  {
+    "rewardID": 11354,
+    "crossplayID": 11354,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Dwelling (Hybrid)",
+    "constructionItemIDs": 986
+  },
+  {
+    "rewardID": 11355,
+    "crossplayID": 11355,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Dwelling (Economy 1)",
+    "constructionItemIDs": 987
+  },
+  {
+    "rewardID": 11356,
+    "crossplayID": 11356,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Dwelling (Economy 2)",
+    "constructionItemIDs": 988
+  },
+  {
+    "rewardID": 11357,
+    "crossplayID": 11357,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Dwelling (Economy 3)",
+    "constructionItemIDs": 989
+  },
+  {
+    "rewardID": 11358,
+    "crossplayID": 11358,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Storehouse (Combat 1)",
+    "constructionItemIDs": 990
+  },
+  {
+    "rewardID": 11359,
+    "crossplayID": 11359,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Storehouse (Combat 2)",
+    "constructionItemIDs": 991
+  },
+  {
+    "rewardID": 11360,
+    "crossplayID": 11360,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Storehouse (Combat 3)",
+    "constructionItemIDs": 992
+  },
+  {
+    "rewardID": 11361,
+    "crossplayID": 11361,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Storehouse (Combat 4)",
+    "constructionItemIDs": 993
+  },
+  {
+    "rewardID": 11362,
+    "crossplayID": 11362,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Premium Anniversary Keep",
+    "constructionItemIDs": 1275
+  },
+  {
+    "rewardID": 11363,
+    "crossplayID": 11363,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Troop Melee Off",
+    "units": "498+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11364,
+    "crossplayID": 11364,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Troop Melee Def",
+    "units": "499+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11365,
+    "crossplayID": 11365,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Troop Ranged Off",
+    "units": "500+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11366,
+    "crossplayID": 11366,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Anniversary Troop Ranged Def",
+    "units": "501+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11367,
+    "crossplayID": 11367,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 30
+  },
+  {
+    "rewardID": 11368,
+    "crossplayID": 11368,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 15
+  },
+  {
+    "rewardID": 11369,
+    "crossplayID": 11369,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 10
+  },
+  {
+    "rewardID": 11370,
+    "crossplayID": 11370,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 10
+  },
+  {
+    "rewardID": 11371,
+    "crossplayID": 11371,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 10
+  },
+  {
+    "rewardID": 11372,
+    "crossplayID": 11372,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 5
+  },
+  {
+    "rewardID": 11373,
+    "crossplayID": 11373,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 5
+  },
+  {
+    "rewardID": 11374,
+    "crossplayID": 11374,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "GenXP250",
+    "addGenXP250": 100
+  },
+  {
+    "rewardID": 11375,
+    "crossplayID": 11375,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "GenXP500",
+    "addGenXP500": 75
+  },
+  {
+    "rewardID": 11376,
+    "crossplayID": 11376,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "GenXP1000",
+    "addGenXP1000": 75
+  },
+  {
+    "rewardID": 11377,
+    "crossplayID": 11377,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "GenXP2500",
+    "addGenXP2500": 50
+  },
+  {
+    "rewardID": 11378,
+    "crossplayID": 11378,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "GenXP5000",
+    "addGenXP5000": 50
+  },
+  {
+    "rewardID": 11379,
+    "crossplayID": 11379,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "GenXP7500",
+    "addGenXP7500": 50
+  },
+  {
+    "rewardID": 11380,
+    "crossplayID": 11380,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "GenXP10000",
+    "addGenXP10000": 25
+  },
+  {
+    "rewardID": 11381,
+    "crossplayID": 11381,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "GenXP12500",
+    "addGenXP12500": 25
+  },
+  {
+    "rewardID": 11382,
+    "crossplayID": 11382,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "GenXP15000",
+    "addGenXP15000": 15
+  },
+  {
+    "rewardID": 11383,
+    "crossplayID": 11383,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "GenXP15000",
+    "addGenXP15000": 20
+  },
+  {
+    "rewardID": 11384,
+    "crossplayID": 11384,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "GenXP15000",
+    "addGenXP15000": 30
+  },
+  {
+    "rewardID": 11385,
+    "crossplayID": 11385,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Gold PvP Hero",
+    "equipmentIDs": 1475
+  },
+  {
+    "rewardID": 11386,
+    "crossplayID": 11386,
+    "comment1": "Anniversary Gacha 26 - Commander",
+    "comment2": "Silver PvP Hero",
+    "equipmentIDs": 1470
+  },
+  {
+    "rewardID": 11387,
+    "crossplayID": 11387,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Gold PvP Hero, TopX Gacha Commander",
+    "equipmentIDs": "1542#1587"
+  },
+  {
+    "rewardID": 11388,
+    "crossplayID": 11388,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Silver PvP Hero, TopX Gacha Commander",
+    "equipmentIDs": "1537#1587"
+  },
+  {
+    "rewardID": 11389,
+    "crossplayID": 11389,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "TopX Gacha Castellan",
+    "equipmentIDs": 1588
+  },
+  {
+    "rewardID": 11390,
+    "crossplayID": 11390,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Barracks (Hybrid)",
+    "constructionItemIDs": 1267
+  },
+  {
+    "rewardID": 11391,
+    "crossplayID": 11391,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Cake Slice",
+    "addLuckySlice": 300
+  },
+  {
+    "rewardID": 11392,
+    "crossplayID": 11392,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 10
+  },
+  {
+    "rewardID": 11393,
+    "crossplayID": 11393,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Beef Deco",
+    "decoWodID": 4464,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11394,
+    "crossplayID": 11394,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "The Once and Future Kings",
+    "decoWodID": 4471,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11395,
+    "crossplayID": 11395,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Troop Melee Off",
+    "units": "498+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11396,
+    "crossplayID": 11396,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Troop Melee Def",
+    "units": "499+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11397,
+    "crossplayID": 11397,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Troop Ranged Off",
+    "units": "500+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11398,
+    "crossplayID": 11398,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Troop Ranged Def",
+    "units": "501+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11399,
+    "crossplayID": 11399,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 1 (Bronze)",
+    "gemIDs": 514
+  },
+  {
+    "rewardID": 11400,
+    "crossplayID": 11400,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 2 (Bronze)",
+    "gemIDs": 515
+  },
+  {
+    "rewardID": 11401,
+    "crossplayID": 11401,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 3 (Bronze)",
+    "gemIDs": 516
+  },
+  {
+    "rewardID": 11402,
+    "crossplayID": 11402,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 4 (Bronze)",
+    "gemIDs": 517
+  },
+  {
+    "rewardID": 11403,
+    "crossplayID": 11403,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Helmet (Bronze)",
+    "equipmentIDs": 1528
+  },
+  {
+    "rewardID": 11404,
+    "crossplayID": 11404,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Armor (Bronze)",
+    "equipmentIDs": 1529
+  },
+  {
+    "rewardID": 11405,
+    "crossplayID": 11405,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Weapon (Bronze)",
+    "equipmentIDs": 1530
+  },
+  {
+    "rewardID": 11406,
+    "crossplayID": 11406,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Artifact (Bronze)",
+    "equipmentIDs": 1531
+  },
+  {
+    "rewardID": 11407,
+    "crossplayID": 11407,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Hero (Bronze)",
+    "equipmentIDs": 1532
+  },
+  {
+    "rewardID": 11408,
+    "crossplayID": 11408,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 15
+  },
+  {
+    "rewardID": 11409,
+    "crossplayID": 11409,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 5
+  },
+  {
+    "rewardID": 11410,
+    "crossplayID": 11410,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 10
+  },
+  {
+    "rewardID": 11411,
+    "crossplayID": 11411,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 5
+  },
+  {
+    "rewardID": 11412,
+    "crossplayID": 11412,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Gen XP1000",
+    "addGenXP1000": 10
+  },
+  {
+    "rewardID": 11413,
+    "crossplayID": 11413,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary 2024 Sales Deco (2969)",
+    "decoWodID": 2969,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11414,
+    "crossplayID": 11414,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Exalted Purple Vintage Pavilion",
+    "decoWodID": 4466,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11415,
+    "crossplayID": 11415,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Military District",
+    "constructionItemIDs": 1261
+  },
+  {
+    "rewardID": 11416,
+    "crossplayID": 11416,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Cattle Farm",
+    "constructionItemIDs": 1262
+  },
+  {
+    "rewardID": 11417,
+    "crossplayID": 11417,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Granary",
+    "constructionItemIDs": 1263
+  },
+  {
+    "rewardID": 11418,
+    "crossplayID": 11418,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Tavern",
+    "constructionItemIDs": 1264
+  },
+  {
+    "rewardID": 11419,
+    "crossplayID": 11419,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Stables",
+    "constructionItemIDs": 1265
+  },
+  {
+    "rewardID": 11420,
+    "crossplayID": 11420,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Barracks",
+    "constructionItemIDs": 1266
+  },
+  {
+    "rewardID": 11421,
+    "crossplayID": 11421,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Baron - Festive Cake",
+    "equipmentIDs": 1590
+  },
+  {
+    "rewardID": 11422,
+    "crossplayID": 11422,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Baron - Anniversary Badge",
+    "equipmentIDs": 925
+  },
+  {
+    "rewardID": 11423,
+    "crossplayID": 11423,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Commander - Festive Chest",
+    "equipmentIDs": 1589
+  },
+  {
+    "rewardID": 11424,
+    "crossplayID": 11424,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Commander - Confetti Canon",
+    "equipmentIDs": 1195
+  },
+  {
+    "rewardID": 11425,
+    "crossplayID": 11425,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Purple Anniversary Deco 20x20 Low",
+    "decoWodID": 4463,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11426,
+    "crossplayID": 11426,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Gen XP5000",
+    "addGenXP5000": 10
+  },
+  {
+    "rewardID": 11427,
+    "crossplayID": 11427,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Exalted Green Vintage Pavilion (1)",
+    "decoWodID": 4467,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11428,
+    "crossplayID": 11428,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Granary (Economy 1)",
+    "constructionItemIDs": 1268
+  },
+  {
+    "rewardID": 11429,
+    "crossplayID": 11429,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 1 (Silver)",
+    "gemIDs": 518
+  },
+  {
+    "rewardID": 11430,
+    "crossplayID": 11430,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 2 (Silver)",
+    "gemIDs": 519
+  },
+  {
+    "rewardID": 11431,
+    "crossplayID": 11431,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 3 (Silver)",
+    "gemIDs": 520
+  },
+  {
+    "rewardID": 11432,
+    "crossplayID": 11432,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 4 (Silver)",
+    "gemIDs": 521
+  },
+  {
+    "rewardID": 11433,
+    "crossplayID": 11433,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Helmet (Silver)",
+    "equipmentIDs": 1533
+  },
+  {
+    "rewardID": 11434,
+    "crossplayID": 11434,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Armor (Silver)",
+    "equipmentIDs": 1534
+  },
+  {
+    "rewardID": 11435,
+    "crossplayID": 11435,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Weapon (Silver)",
+    "equipmentIDs": 1535
+  },
+  {
+    "rewardID": 11436,
+    "crossplayID": 11436,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Artifact (Silver)",
+    "equipmentIDs": 1536
+  },
+  {
+    "rewardID": 11437,
+    "crossplayID": 11437,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Green Anniversary Deco 20x20 Low",
+    "decoWodID": 4461,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11438,
+    "crossplayID": 11438,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 2
+  },
+  {
+    "rewardID": 11439,
+    "crossplayID": 11439,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 2
+  },
+  {
+    "rewardID": 11440,
+    "crossplayID": 11440,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 2
+  },
+  {
+    "rewardID": 11441,
+    "crossplayID": 11441,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Gen XP10000",
+    "addGenXP10000": 10
+  },
+  {
+    "rewardID": 11442,
+    "crossplayID": 11442,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Exalted Red Vintage Pavilion",
+    "decoWodID": 4465,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11443,
+    "crossplayID": 11443,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Granary (Economy 2)",
+    "constructionItemIDs": 1269
+  },
+  {
+    "rewardID": 11444,
+    "crossplayID": 11444,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Granary (Economy 3)",
+    "constructionItemIDs": 1270
+  },
+  {
+    "rewardID": 11445,
+    "crossplayID": 11445,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Red Anniversary Deco 20x20 Low",
+    "decoWodID": 4462,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11446,
+    "crossplayID": 11446,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Purple Anniversary Deco 20x20 High",
+    "decoWodID": 4460,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11447,
+    "crossplayID": 11447,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Gen XP12500",
+    "addGenXP12500": 10
+  },
+  {
+    "rewardID": 11448,
+    "crossplayID": 11448,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Exalted Green Vintage Pavilion (2)",
+    "decoWodID": 4468,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11449,
+    "crossplayID": 11449,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Exalted Green Vintage Pavilion (3)",
+    "decoWodID": 4469,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11450,
+    "crossplayID": 11450,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Exalted Green Sweet surprise cake",
+    "decoWodID": 4470,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11451,
+    "crossplayID": 11451,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Green Anniversary Deco 20x20 High",
+    "decoWodID": 4458,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11452,
+    "crossplayID": 11452,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Tavern (Combat 1)",
+    "constructionItemIDs": 1271
+  },
+  {
+    "rewardID": 11453,
+    "crossplayID": 11453,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Tavern (Combat 2)",
+    "constructionItemIDs": 1272
+  },
+  {
+    "rewardID": 11454,
+    "crossplayID": 11454,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Tavern (Combat 3)",
+    "constructionItemIDs": 1273
+  },
+  {
+    "rewardID": 11455,
+    "crossplayID": 11455,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Tavern (Combat 4)",
+    "constructionItemIDs": 1274
+  },
+  {
+    "rewardID": 11456,
+    "crossplayID": 11456,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 2
+  },
+  {
+    "rewardID": 11457,
+    "crossplayID": 11457,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 1
+  },
+  {
+    "rewardID": 11458,
+    "crossplayID": 11458,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 20
+  },
+  {
+    "rewardID": 11459,
+    "crossplayID": 11459,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 1 (Gold)",
+    "gemIDs": 522
+  },
+  {
+    "rewardID": 11460,
+    "crossplayID": 11460,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 2 (Gold)",
+    "gemIDs": 523
+  },
+  {
+    "rewardID": 11461,
+    "crossplayID": 11461,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 3 (Gold)",
+    "gemIDs": 524
+  },
+  {
+    "rewardID": 11462,
+    "crossplayID": 11462,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Gem 4 (Gold)",
+    "gemIDs": 525
+  },
+  {
+    "rewardID": 11463,
+    "crossplayID": 11463,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Armor (Gold)",
+    "equipmentIDs": 1538
+  },
+  {
+    "rewardID": 11464,
+    "crossplayID": 11464,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Artifact (Gold)",
+    "equipmentIDs": 1539
+  },
+  {
+    "rewardID": 11465,
+    "crossplayID": 11465,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Helmet (Gold)",
+    "equipmentIDs": 1540
+  },
+  {
+    "rewardID": 11466,
+    "crossplayID": 11466,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Weapon (Gold)",
+    "equipmentIDs": 1541
+  },
+  {
+    "rewardID": 11467,
+    "crossplayID": 11467,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "PvP Hero (Silver)",
+    "equipmentIDs": 1537
+  },
+  {
+    "rewardID": 11468,
+    "crossplayID": 11468,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Red Anniversary Deco 20x20 High",
+    "decoWodID": 4459,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11469,
+    "crossplayID": 11469,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 10
+  },
+  {
+    "rewardID": 11470,
+    "crossplayID": 11470,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 4
+  },
+  {
+    "rewardID": 11471,
+    "crossplayID": 11471,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 4
+  },
+  {
+    "rewardID": 11472,
+    "crossplayID": 11472,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Pavilion (2456)",
+    "decoWodID": 2456,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11473,
+    "crossplayID": 11473,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "The Founding Father (2766)",
+    "decoWodID": 2766,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11474,
+    "crossplayID": 11474,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Artefacts from Beyond the Horizon (2767)",
+    "decoWodID": 2767,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11475,
+    "crossplayID": 11475,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "The Enduring Emperor (2768)",
+    "decoWodID": 2768,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 11476,
+    "crossplayID": 11476,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Badge",
+    "equipmentIDs": 925
+  },
+  {
+    "rewardID": 11477,
+    "crossplayID": 11477,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Cake",
+    "equipmentIDs": 1318
+  },
+  {
+    "rewardID": 11478,
+    "crossplayID": 11478,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Cloudmaker",
+    "equipmentIDs": 2015
+  },
+  {
+    "rewardID": 11479,
+    "crossplayID": 11479,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Party Canon",
+    "equipmentIDs": 926
+  },
+  {
+    "rewardID": 11480,
+    "crossplayID": 11480,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Confetti Canon",
+    "equipmentIDs": 1195
+  },
+  {
+    "rewardID": 11481,
+    "crossplayID": 11481,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Demon Scepter",
+    "equipmentIDs": 2016
+  },
+  {
+    "rewardID": 11482,
+    "crossplayID": 11482,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Dwelling",
+    "constructionItemIDs": 977
+  },
+  {
+    "rewardID": 11483,
+    "crossplayID": 11483,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Storehouse",
+    "constructionItemIDs": 978
+  },
+  {
+    "rewardID": 11484,
+    "crossplayID": 11484,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Quarry",
+    "constructionItemIDs": 979
+  },
+  {
+    "rewardID": 11485,
+    "crossplayID": 11485,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Bakery",
+    "constructionItemIDs": 980
+  },
+  {
+    "rewardID": 11486,
+    "crossplayID": 11486,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Defensive Workshop",
+    "constructionItemIDs": 981
+  },
+  {
+    "rewardID": 11487,
+    "crossplayID": 11487,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Offensive Workshop",
+    "constructionItemIDs": 982
+  },
+  {
+    "rewardID": 11488,
+    "crossplayID": 11488,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Keep",
+    "constructionItemIDs": 983
+  },
+  {
+    "rewardID": 11489,
+    "crossplayID": 11489,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Barrel Workshop",
+    "constructionItemIDs": 984
+  },
+  {
+    "rewardID": 11490,
+    "crossplayID": 11490,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Hall of Legends",
+    "constructionItemIDs": 985
+  },
+  {
+    "rewardID": 11491,
+    "crossplayID": 11491,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 150
+  },
+  {
+    "rewardID": 11492,
+    "crossplayID": 11492,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 150
+  },
+  {
+    "rewardID": 11493,
+    "crossplayID": 11493,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 150
+  },
+  {
+    "rewardID": 11494,
+    "crossplayID": 11494,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 25
+  },
+  {
+    "rewardID": 11495,
+    "crossplayID": 11495,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 50
+  },
+  {
+    "rewardID": 11496,
+    "crossplayID": 11496,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 50
+  },
+  {
+    "rewardID": 11497,
+    "crossplayID": 11497,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 50
+  },
+  {
+    "rewardID": 11498,
+    "crossplayID": 11498,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Hasan Offerings",
+    "addHasanToken": 100
+  },
+  {
+    "rewardID": 11499,
+    "crossplayID": 11499,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 15
+  },
+  {
+    "rewardID": 11500,
+    "crossplayID": 11500,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Dwelling (Hybrid)",
+    "constructionItemIDs": 986
+  },
+  {
+    "rewardID": 11501,
+    "crossplayID": 11501,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Dwelling (Economy 1)",
+    "constructionItemIDs": 987
+  },
+  {
+    "rewardID": 11502,
+    "crossplayID": 11502,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Dwelling (Economy 2)",
+    "constructionItemIDs": 988
+  },
+  {
+    "rewardID": 11503,
+    "crossplayID": 11503,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Dwelling (Economy 3)",
+    "constructionItemIDs": 989
+  },
+  {
+    "rewardID": 11504,
+    "crossplayID": 11504,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Storehouse (Combat 1)",
+    "constructionItemIDs": 990
+  },
+  {
+    "rewardID": 11505,
+    "crossplayID": 11505,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Storehouse (Combat 2)",
+    "constructionItemIDs": 991
+  },
+  {
+    "rewardID": 11506,
+    "crossplayID": 11506,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Storehouse (Combat 3)",
+    "constructionItemIDs": 992
+  },
+  {
+    "rewardID": 11507,
+    "crossplayID": 11507,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Storehouse (Combat 4)",
+    "constructionItemIDs": 993
+  },
+  {
+    "rewardID": 11508,
+    "crossplayID": 11508,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Premium Anniversary Keep",
+    "constructionItemIDs": 1275
+  },
+  {
+    "rewardID": 11509,
+    "crossplayID": 11509,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Troop Melee Off",
+    "units": "498+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11510,
+    "crossplayID": 11510,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Troop Melee Def",
+    "units": "499+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11511,
+    "crossplayID": 11511,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Troop Ranged Off",
+    "units": "500+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11512,
+    "crossplayID": 11512,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Anniversary Troop Ranged Def",
+    "units": "501+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 11513,
+    "crossplayID": 11513,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 30
+  },
+  {
+    "rewardID": 11514,
+    "crossplayID": 11514,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 15
+  },
+  {
+    "rewardID": 11515,
+    "crossplayID": 11515,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 10
+  },
+  {
+    "rewardID": 11516,
+    "crossplayID": 11516,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 10
+  },
+  {
+    "rewardID": 11517,
+    "crossplayID": 11517,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 10
+  },
+  {
+    "rewardID": 11518,
+    "crossplayID": 11518,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 5
+  },
+  {
+    "rewardID": 11519,
+    "crossplayID": 11519,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 5
+  },
+  {
+    "rewardID": 11520,
+    "crossplayID": 11520,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "GenXP250",
+    "addGenXP250": 100
+  },
+  {
+    "rewardID": 11521,
+    "crossplayID": 11521,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "GenXP500",
+    "addGenXP500": 75
+  },
+  {
+    "rewardID": 11522,
+    "crossplayID": 11522,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "GenXP1000",
+    "addGenXP1000": 75
+  },
+  {
+    "rewardID": 11523,
+    "crossplayID": 11523,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "GenXP2500",
+    "addGenXP2500": 50
+  },
+  {
+    "rewardID": 11524,
+    "crossplayID": 11524,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "GenXP5000",
+    "addGenXP5000": 50
+  },
+  {
+    "rewardID": 11525,
+    "crossplayID": 11525,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "GenXP7500",
+    "addGenXP7500": 50
+  },
+  {
+    "rewardID": 11526,
+    "crossplayID": 11526,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "GenXP10000",
+    "addGenXP10000": 25
+  },
+  {
+    "rewardID": 11527,
+    "crossplayID": 11527,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "GenXP12500",
+    "addGenXP12500": 25
+  },
+  {
+    "rewardID": 11528,
+    "crossplayID": 11528,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "GenXP15000",
+    "addGenXP15000": 15
+  },
+  {
+    "rewardID": 11529,
+    "crossplayID": 11529,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "GenXP15000",
+    "addGenXP15000": 20
+  },
+  {
+    "rewardID": 11530,
+    "crossplayID": 11530,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "GenXP15000",
+    "addGenXP15000": 30
+  },
+  {
+    "rewardID": 11531,
+    "crossplayID": 11531,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Gold PvP Hero",
+    "equipmentIDs": 1542
+  },
+  {
+    "rewardID": 11532,
+    "crossplayID": 11532,
+    "comment1": "Anniversary Gacha 26 - Castellan",
+    "comment2": "Silver PvP Hero",
+    "equipmentIDs": 1537
   },
   {
     "rewardID": 1290,

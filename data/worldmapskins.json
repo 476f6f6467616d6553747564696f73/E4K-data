@@ -761,5 +761,15 @@
     "skinID": 165,
     "crossplayID": 165,
     "name": "ARMEDiamondCastellan"
+  },
+  {
+    "skinID": 166,
+    "crossplayID": 166,
+    "name": "AnniversaryWarAegis"
+  },
+  {
+    "skinID": 167,
+    "crossplayID": 167,
+    "name": "AnniversaryWardenBulwark"
   }
 ]

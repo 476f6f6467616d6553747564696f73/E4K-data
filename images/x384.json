@@ -6776,6 +6776,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_AnniversaryGateway": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_AnniversaryGateway/Deco_Building_AnniversaryGateway.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 164,
+        "rx": 914,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_AnniversaryMonument1": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_AnniversaryMonument1/Deco_Building_AnniversaryMonument1.png",
@@ -8412,6 +8427,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenAnniversaryGateway": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenAnniversaryGateway/Deco_Building_ExaltedGreenAnniversaryGateway.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164,
+        "rx": 913,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenBeerBarrelWell": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenBeerBarrelWell/Deco_Building_ExaltedGreenBeerBarrelWell.png",
@@ -8592,6 +8622,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenFireworksSpire": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenFireworksSpire/Deco_Building_ExaltedGreenFireworksSpire.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 273,
+        "rx": 821,
+        "ry": 917
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenFrostFountain": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenFrostFountain/Deco_Building_ExaltedGreenFrostFountain.png",
@@ -8633,6 +8678,21 @@
         "h": 131,
         "rx": 896,
         "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenGardenSpire": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenGardenSpire/Deco_Building_ExaltedGreenGardenSpire.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 392,
+        "h": 263,
+        "rx": 816,
+        "ry": 925
       }
     ],
     "fx": []
@@ -9012,6 +9072,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenTriumphalArch": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenTriumphalArch/Deco_Building_ExaltedGreenTriumphalArch.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 293,
+        "h": 259,
+        "rx": 820,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenVintagePavilion": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenVintagePavilion/Deco_Building_ExaltedGreenVintagePavilion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 149,
+        "rx": 904,
+        "ry": 917
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenWatermelonRollercoaster": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenWatermelonRollercoaster/Deco_Building_ExaltedGreenWatermelonRollercoaster.png",
@@ -9222,6 +9312,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleAnniversaryGateway": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleAnniversaryGateway/Deco_Building_ExaltedPurpleAnniversaryGateway.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164,
+        "rx": 913,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleBeerPavilon": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleBeerPavilon/Deco_Building_ExaltedPurpleBeerPavilon.png",
@@ -9387,6 +9492,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleFireworksSpire": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleFireworksSpire/Deco_Building_ExaltedPurpleFireworksSpire.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 273,
+        "rx": 821,
+        "ry": 917
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleFrostFountain": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleFrostFountain/Deco_Building_ExaltedPurpleFrostFountain.png",
@@ -9428,6 +9548,21 @@
         "h": 131,
         "rx": 896,
         "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleGardenSpire": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleGardenSpire/Deco_Building_ExaltedPurpleGardenSpire.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 392,
+        "h": 263,
+        "rx": 816,
+        "ry": 925
       }
     ],
     "fx": []
@@ -9732,6 +9867,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleTriumphalArch": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleTriumphalArch/Deco_Building_ExaltedPurpleTriumphalArch.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 293,
+        "h": 258,
+        "rx": 820,
+        "ry": 887
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleVintagePavilion": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleVintagePavilion/Deco_Building_ExaltedPurpleVintagePavilion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 149,
+        "rx": 904,
+        "ry": 917
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleWatermelonRollercoaster": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleWatermelonRollercoaster/Deco_Building_ExaltedPurpleWatermelonRollercoaster.png",
@@ -9833,6 +9998,21 @@
         "h": 236,
         "rx": 822,
         "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedAnniversaryGateway": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedAnniversaryGateway/Deco_Building_ExaltedRedAnniversaryGateway.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 164,
+        "rx": 913,
+        "ry": 900
       }
     ],
     "fx": []
@@ -10002,6 +10182,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedFireworksSpire": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedFireworksSpire/Deco_Building_ExaltedRedFireworksSpire.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 273,
+        "rx": 821,
+        "ry": 917
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedFrostFountain": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedFrostFountain/Deco_Building_ExaltedRedFrostFountain.png",
@@ -10043,6 +10238,21 @@
         "h": 131,
         "rx": 896,
         "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedGardenSpire": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedGardenSpire/Deco_Building_ExaltedRedGardenSpire.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 392,
+        "h": 263,
+        "rx": 816,
+        "ry": 925
       }
     ],
     "fx": []
@@ -10358,6 +10568,36 @@
         "h": 177,
         "rx": 906,
         "ry": 889
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedTriumphalArch": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedTriumphalArch/Deco_Building_ExaltedRedTriumphalArch.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 293,
+        "h": 259,
+        "rx": 820,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedVintagePavilion": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedVintagePavilion/Deco_Building_ExaltedRedVintagePavilion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 149,
+        "rx": 904,
+        "ry": 917
       }
     ],
     "fx": []
@@ -26295,6 +26535,36 @@
       }
     ]
   },
+  "AnniversaryBarracks": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/AnniversaryBarracks/AnniversaryBarracks.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 190,
+        "rx": 939,
+        "ry": 862
+      }
+    ],
+    "fx": [
+      {
+        "x": 10,
+        "y": -132,
+        "scale": 0.38,
+        "name": "flagHolder",
+        "rotation": 0
+      },
+      {
+        "x": -7,
+        "y": -53,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "AnniversaryBWorkshop": {
     "pid": 0,
     "url": "x384/BuildingSkins/AnniversaryBWorkshop/AnniversaryBWorkshop.png",
@@ -26309,6 +26579,29 @@
       }
     ],
     "fx": []
+  },
+  "AnniversaryCattleFarm": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/AnniversaryCattleFarm/AnniversaryCattleFarm.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 175,
+        "rx": 917,
+        "ry": 895
+      }
+    ],
+    "fx": [
+      {
+        "x": 15,
+        "y": -20,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
   },
   "AnniversaryDefensiveWorkshop": {
     "pid": 0,
@@ -26393,6 +26686,29 @@
       }
     ]
   },
+  "AnniversaryGranary": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/AnniversaryGranary/AnniversaryGranary.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 151,
+        "rx": 962,
+        "ry": 891
+      }
+    ],
+    "fx": [
+      {
+        "x": 18,
+        "y": -63,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "AnniversaryHoL2": {
     "pid": 0,
     "url": "x384/BuildingSkins/AnniversaryHoL2/AnniversaryHoL2.png",
@@ -26438,6 +26754,44 @@
         "rotation": 0
       }
     ]
+  },
+  "AnniversaryKeep15": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/AnniversaryKeep15/AnniversaryKeep15.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 225,
+        "h": 261,
+        "rx": 895,
+        "ry": 848
+      }
+    ],
+    "fx": [
+      {
+        "x": 2,
+        "y": -41,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "AnniversaryMilitaryDistrict": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/AnniversaryMilitaryDistrict/AnniversaryMilitaryDistrict.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 178,
+        "rx": 916,
+        "ry": 917
+      }
+    ],
+    "fx": []
   },
   "AnniversaryOffWorkshop": {
     "pid": 0,
@@ -26485,6 +26839,29 @@
       }
     ]
   },
+  "AnniversaryStables": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/AnniversaryStables/AnniversaryStables.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 134,
+        "rx": 945,
+        "ry": 912
+      }
+    ],
+    "fx": [
+      {
+        "x": 6,
+        "y": -51,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "AnniversaryStorehouse": {
     "pid": 0,
     "url": "x384/BuildingSkins/AnniversaryStorehouse/AnniversaryStorehouse.png",
@@ -26499,6 +26876,29 @@
       }
     ],
     "fx": []
+  },
+  "AnniversaryTavern": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/AnniversaryTavern/AnniversaryTavern.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 145,
+        "rx": 953,
+        "ry": 907
+      }
+    ],
+    "fx": [
+      {
+        "x": 3,
+        "y": -40,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
   },
   "autumnBarracks": {
     "pid": 0,
@@ -61634,6 +62034,21 @@
     ],
     "fx": []
   },
+  "Background_BossSelection_Generic": {
+    "pid": 2,
+    "url": "x384/Characters/RaidBosses/RaidBoss_Generics/RaidBoss_Generics/Background_BossSelection_Generic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1218,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Overview_LegendaryDragon": {
     "pid": 2,
     "url": "x384/Characters/RaidBosses/RaidBoss_LegendaryDragon/RaidBoss_LegendaryDragon/Background_Overview_LegendaryDragon.png",
@@ -73021,6 +73436,66 @@
     ],
     "fx": []
   },
+  "items_unique_553": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/items_unique_553.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_554": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/items_unique_554.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_555": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/items_unique_555.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_556": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/items_unique_556.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "items_unique_563": {
     "pid": 1,
     "url": "x384/Equipment/Equipment/items_unique_563.png",
@@ -80056,6 +80531,36 @@
     ],
     "fx": []
   },
+  "items_unique_1587": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1587_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1588": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1588_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "items_unique_2005": {
     "pid": 0,
     "url": "x384/Equipment/EquipmentShared/items_unique_2004_Shared.png",
@@ -81777,6 +82282,66 @@
         "h": 51,
         "rx": 974,
         "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_346": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_346.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 45,
+        "rx": 974,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_347": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_347.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 47,
+        "rx": 978,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_348": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_348.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 47,
+        "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_349": {
+    "pid": 1,
+    "url": "x384/Equipment/UniqueGems/Item_Gem_Unique_349.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 47,
+        "rx": 986,
+        "ry": 976
       }
     ],
     "fx": []
@@ -87459,6 +88024,21 @@
     ],
     "fx": []
   },
+  "Hero_557": {
+    "pid": 1,
+    "url": "x384/Heroes/Heroes/Hero_557.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 56,
+        "rx": 971,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
   "Hero_567": {
     "pid": 1,
     "url": "x384/Heroes/Heroes/Hero_567.png",
@@ -91644,6 +92224,21 @@
     ],
     "fx": []
   },
+  "icon_advisor_banner_morale_baron": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_banner_morale_baron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 47,
+        "rx": 970,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
   "icon_advisor_banner_morale": {
     "pid": 1,
     "url": "x384/Icons/AdvisorIcons/icon_advisor_banner_morale.png",
@@ -91655,6 +92250,111 @@
         "h": 57,
         "rx": 974,
         "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_baron_big_ds": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_baron_big_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 108,
+        "rx": 947,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_baron_ds": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_baron_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 56,
+        "rx": 972,
+        "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_baron_wmo_0": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_baron_wmo_0.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 97,
+        "rx": 960,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_baron_wmo_1": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_baron_wmo_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 87,
+        "rx": 961,
+        "ry": 956
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_baron_wmo_2": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_baron_wmo_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 84,
+        "rx": 961,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_baron_wmo_3": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_baron_wmo_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 82,
+        "rx": 961,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_baron_xs_ds": {
+    "pid": 1,
+    "url": "x384/Icons/AdvisorIcons/icon_advisor_baron_xs_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32,
+        "rx": 984,
+        "ry": 985
       }
     ],
     "fx": []
@@ -94220,6 +94920,111 @@
         "h": 35,
         "rx": 982,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BaronAdvisorToken_big": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BaronAdvisorToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 55,
+        "rx": 971,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BaronAdvisorToken_ds": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BaronAdvisorToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BaronAdvisorToken_medium_ds": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BaronAdvisorToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 42,
+        "rx": 978,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BaronAdvisorToken_medium": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BaronAdvisorToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 41,
+        "rx": 979,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BaronAdvisorToken_small": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BaronAdvisorToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 17,
+        "rx": 991,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BaronAdvisorToken_xl": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BaronAdvisorToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 74,
+        "rx": 962,
+        "ry": 963
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BaronAdvisorToken": {
+    "pid": 1,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_BaronAdvisorToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 33,
+        "rx": 983,
+        "ry": 983
       }
     ],
     "fx": []
@@ -110079,6 +110884,21 @@
     ],
     "fx": []
   },
+  "icon_alliance_improvements_booster_ds": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_improvements_booster_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 37,
+        "rx": 981,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
   "icon_alliance_members_small": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_alliance_members_small.png",
@@ -110859,6 +111679,21 @@
     ],
     "fx": []
   },
+  "icon_are_defeat_rewards": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_are_defeat_rewards.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 49,
+        "rx": 979,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
   "icon_are_event_tab": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_are_event_tab.png",
@@ -110900,6 +111735,21 @@
         "h": 57,
         "rx": 973,
         "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_are_tab_boss_selection": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_are_tab_boss_selection.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 55,
+        "rx": 970,
+        "ry": 972
       }
     ],
     "fx": []
@@ -114369,6 +115219,36 @@
     ],
     "fx": []
   },
+  "icon_effect_advisor_xxs": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_effect_advisor_xxs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 17,
+        "rx": 990,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_advisor": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_effect_advisor.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_are_event_source_xxs": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_effect_are_event_source_xxs.png",
@@ -115250,6 +116130,21 @@
         "h": 37,
         "rx": 981,
         "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_failure_0_baron": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_failure_0_baron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 121,
+        "rx": 939,
+        "ry": 939
       }
     ],
     "fx": []
@@ -117230,6 +118125,21 @@
         "h": 74,
         "rx": 958,
         "ry": 963
+      }
+    ],
+    "fx": []
+  },
+  "icon_hud_advisor_baron": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_hud_advisor_baron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 61,
+        "rx": 969,
+        "ry": 969
       }
     ],
     "fx": []
@@ -119450,6 +120360,21 @@
         "h": 53,
         "rx": 969,
         "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "icon_newshub_maintenance": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_newshub_maintenance.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 182,
+        "h": 93,
+        "rx": 908,
+        "ry": 953
       }
     ],
     "fx": []
@@ -135819,6 +136744,66 @@
     ],
     "fx": []
   },
+  "icon_kingdom_squared_0": {
+    "pid": 1,
+    "url": "x384/Kingdoms/Kingdoms/icon_kingdom_squared_0.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 71,
+        "rx": 974,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "icon_kingdom_squared_1": {
+    "pid": 1,
+    "url": "x384/Kingdoms/Kingdoms/icon_kingdom_squared_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 71,
+        "rx": 974,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "icon_kingdom_squared_2": {
+    "pid": 1,
+    "url": "x384/Kingdoms/Kingdoms/icon_kingdom_squared_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 71,
+        "rx": 974,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "icon_kingdom_squared_3": {
+    "pid": 1,
+    "url": "x384/Kingdoms/Kingdoms/icon_kingdom_squared_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 71,
+        "rx": 974,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
   "icon_kingdom_volcano_enter": {
     "pid": 1,
     "url": "x384/Kingdoms/Kingdoms/icon_kingdom_volcano_enter.png",
@@ -136460,6 +137445,21 @@
         "h": 39,
         "rx": 984,
         "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "icon_message_advisor_baron": {
+    "pid": 1,
+    "url": "x384/Kingdoms/KingdomsShared/icon_message_advisor_baron_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
       }
     ],
     "fx": []
@@ -140919,6 +141919,36 @@
     ],
     "fx": []
   },
+  "teaser_advisor_baron_activation": {
+    "pid": 1,
+    "url": "x384/Misc/AdvisorTeasers/teaser_advisor_baron_activation.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 344,
+        "rx": 694,
+        "ry": 828
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_baron_attack_success": {
+    "pid": 1,
+    "url": "x384/Misc/AdvisorTeasers/teaser_advisor_baron_attack_success.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 207,
+        "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
   "teaser_advisor_berimond_activation": {
     "pid": 1,
     "url": "x384/Misc/AdvisorTeasers/teaser_advisor_berimond_activation.png",
@@ -141027,6 +142057,36 @@
   "teaser_advisor_samurai_attack_success": {
     "pid": 1,
     "url": "x384/Misc/AdvisorTeasers/teaser_advisor_samurai_attack_success.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 207,
+        "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_baron_attack_fail": {
+    "pid": 1,
+    "url": "x384/Misc/AdvisorTeasersShared/teaser_advisor_baron_attack_cancel_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 207,
+        "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_baron_attack_cancel": {
+    "pid": 1,
+    "url": "x384/Misc/AdvisorTeasersShared/teaser_advisor_baron_attack_cancel_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -141215,6 +142275,96 @@
         "h": 207,
         "rx": 694,
         "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_bossselection_FungalSwarm_victory": {
+    "pid": 2,
+    "url": "x384/Misc/AllianceRaidTeasers/teaser_are_bossselection_FungalSwarm_victory.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 739,
+        "h": 339,
+        "rx": 630,
+        "ry": 830
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_bossselection_FungalSwarm": {
+    "pid": 2,
+    "url": "x384/Misc/AllianceRaidTeasers/teaser_are_bossselection_FungalSwarm.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 739,
+        "h": 339,
+        "rx": 630,
+        "ry": 830
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_bossselection_LegendaryDragon_victory": {
+    "pid": 2,
+    "url": "x384/Misc/AllianceRaidTeasers/teaser_are_bossselection_LegendaryDragon_victory.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 739,
+        "h": 339,
+        "rx": 630,
+        "ry": 830
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_bossselection_LegendaryDragon": {
+    "pid": 2,
+    "url": "x384/Misc/AllianceRaidTeasers/teaser_are_bossselection_LegendaryDragon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 739,
+        "h": 339,
+        "rx": 630,
+        "ry": 830
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_bossselection_Necromancer_victory": {
+    "pid": 2,
+    "url": "x384/Misc/AllianceRaidTeasers/teaser_are_bossselection_Necromancer_victory.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 739,
+        "h": 339,
+        "rx": 630,
+        "ry": 830
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_bossselection_Necromancer": {
+    "pid": 2,
+    "url": "x384/Misc/AllianceRaidTeasers/teaser_are_bossselection_Necromancer.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 739,
+        "h": 339,
+        "rx": 630,
+        "ry": 830
       }
     ],
     "fx": []
@@ -145494,6 +146644,21 @@
     ],
     "fx": []
   },
+  "global_primetime_background_Anniversary2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Anniversary2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 867,
+        "rx": 615,
+        "ry": 566
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_background_generic1": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_generic1.png",
@@ -145539,21 +146704,6 @@
     ],
     "fx": []
   },
-  "global_primetime_background_IndependenceDay2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_IndependenceDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 641,
-        "h": 801,
-        "rx": 679,
-        "ry": 599
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_background_Spring2024": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Spring2024.png",
@@ -145565,21 +146715,6 @@
         "h": 801,
         "rx": 679,
         "ry": 599
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_SummerJun2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_SummerJun2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 867,
-        "rx": 615,
-        "ry": 566
       }
     ],
     "fx": []
@@ -145614,6 +146749,21 @@
     ],
     "fx": []
   },
+  "global_primetime_hub_teaser_Anniversary2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Anniversary2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 666,
+        "rx": 615,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_hub_teaser_generic2": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_generic2.png",
@@ -145644,21 +146794,6 @@
     ],
     "fx": []
   },
-  "global_primetime_hub_teaser_IndependenceDay2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_IndependenceDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_hub_teaser_Spring2024": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Spring2024.png",
@@ -145677,21 +146812,6 @@
   "global_primetime_hub_teaser_SummerJuly2024": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_SummerJuly2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_SummerJun2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_SummerJun2024.png",
     "frames": [
       {
         "x": 0,
@@ -145794,21 +146914,6 @@
     ],
     "fx": []
   },
-  "global_primetime_teaser_IndependenceDay2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_IndependenceDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 625,
-        "h": 493,
-        "rx": 687,
-        "ry": 753
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_teaser_Spring2024": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Spring2024.png",
@@ -145850,21 +146955,6 @@
         "h": 142,
         "rx": 618,
         "ry": 908
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_SummerJun2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SummerJun2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 651,
-        "h": 586,
-        "rx": 674,
-        "ry": 707
       }
     ],
     "fx": []
@@ -146694,9 +147784,9 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_13": {
+  "Teaser_OffersHub_Big_WhaleChest_14": {
     "pid": 1,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_13.png",
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_14.png",
     "frames": [
       {
         "x": 0,
@@ -146709,9 +147799,9 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_14": {
+  "Teaser_OffersHub_Big_WhaleChest_15": {
     "pid": 1,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_14.png",
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_15.png",
     "frames": [
       {
         "x": 0,
@@ -146757,6 +147847,21 @@
   "Teaser_OffersHub_Big_WhaleChest_23": {
     "pid": 1,
     "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_23.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 333,
+        "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_24": {
+    "pid": 1,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_24.png",
     "frames": [
       {
         "x": 0,
@@ -147984,6 +149089,21 @@
     ],
     "fx": []
   },
+  "Teaser_OffersHub_Big_WhaleChest_13": {
+    "pid": 1,
+    "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_38_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 333,
+        "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
   "Teaser_OffersHub_Big_38": {
     "pid": 1,
     "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_38_Shared.png",
@@ -148015,21 +149135,6 @@
     "fx": []
   },
   "Teaser_OffersHub_Big_40": {
-    "pid": 1,
-    "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_40_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 333,
-        "rx": 615,
-        "ry": 833
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_15": {
     "pid": 1,
     "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_40_Shared.png",
     "frames": [
@@ -167132,6 +168237,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_AnniversaryWardenBulwark": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_AnniversaryWardenBulwark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 45,
+        "rx": 998,
+        "ry": 996
+      }
+    ],
+    "fx": [
+      {
+        "x": 15,
+        "y": -1,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_Anubis": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_Anubis.png",
@@ -171474,6 +172602,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_AnniversaryWardenBulwark": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_AnniversaryWardenBulwark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 98,
+        "rx": 981,
+        "ry": 962
+      }
+    ],
+    "fx": [
+      {
+        "x": 4,
+        "y": -16,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_Anubis": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_Anubis.png",
@@ -173763,6 +174914,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_AnniversaryWardenBulwark": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_AnniversaryWardenBulwark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 58,
+        "rx": 993,
+        "ry": 1003
+      }
+    ],
+    "fx": [
+      {
+        "x": 9,
+        "y": 5,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_Anubis": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_Anubis.png",
@@ -175992,6 +177166,29 @@
       {
         "x": 24,
         "y": -1,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_AnniversaryWardenBulwark": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_AnniversaryWardenBulwark/Outpost_Mapobject_Level_Special_AnniversaryWardenBulwark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 32,
+        "rx": 1009,
+        "ry": 1000
+      }
+    ],
+    "fx": [
+      {
+        "x": 23,
+        "y": 3,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -178927,6 +180124,21 @@
         "h": 95,
         "rx": 976,
         "ry": 968
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_AnniversaryWardenBulwark": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_AnniversaryWardenBulwark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 88,
+        "rx": 974,
+        "ry": 977
       }
     ],
     "fx": []

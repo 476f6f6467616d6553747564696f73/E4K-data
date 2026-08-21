@@ -93,5 +93,10 @@
   {
     "id": 23,
     "name": "EquipmentMerchant"
+  },
+  {
+    "id": 24,
+    "packageCategories": "10,119,120,121,123",
+    "name": "ARMEMerchant"
   }
 ]

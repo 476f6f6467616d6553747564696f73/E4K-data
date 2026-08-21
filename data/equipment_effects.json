@@ -2604,5 +2604,531 @@
     "effectID": 533,
     "wearerID": 1,
     "name": "newDefenseBonusPVP"
+  },
+  {
+    "equipmentEffectID": 372,
+    "crossplayID": 372,
+    "effectID": 709,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadWallReduction"
+  },
+  {
+    "equipmentEffectID": 373,
+    "crossplayID": 373,
+    "effectID": 710,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadGateReduction"
+  },
+  {
+    "equipmentEffectID": 374,
+    "crossplayID": 374,
+    "effectID": 711,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadMoatReduction"
+  },
+  {
+    "equipmentEffectID": 375,
+    "crossplayID": 375,
+    "effectID": 712,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadAttackBoostFront"
+  },
+  {
+    "equipmentEffectID": 376,
+    "crossplayID": 376,
+    "effectID": 713,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadAttackBoostFlank"
+  },
+  {
+    "equipmentEffectID": 377,
+    "crossplayID": 377,
+    "effectID": 714,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadLootBonus"
+  },
+  {
+    "equipmentEffectID": 378,
+    "crossplayID": 378,
+    "effectID": 715,
+    "wearerID": 2,
+    "name": "ARELootReturnTravelBoost"
+  },
+  {
+    "equipmentEffectID": 379,
+    "crossplayID": 379,
+    "effectID": 716,
+    "wearerID": 2,
+    "name": "ARELootSpeedBonus"
+  },
+  {
+    "equipmentEffectID": 380,
+    "crossplayID": 380,
+    "effectID": 717,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadOffensiveMeleeBonus"
+  },
+  {
+    "equipmentEffectID": 381,
+    "crossplayID": 381,
+    "effectID": 718,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadOffensiveRangeBonus"
+  },
+  {
+    "equipmentEffectID": 382,
+    "crossplayID": 382,
+    "effectID": 719,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadAttackBoostYard"
+  },
+  {
+    "equipmentEffectID": 383,
+    "crossplayID": 383,
+    "effectID": 720,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadAttackUnitAmountFlank"
+  },
+  {
+    "equipmentEffectID": 384,
+    "crossplayID": 384,
+    "effectID": 721,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadAttackUnitAmountFront"
+  },
+  {
+    "equipmentEffectID": 385,
+    "crossplayID": 385,
+    "effectID": 722,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadAttackBonus"
+  },
+  {
+    "equipmentEffectID": 386,
+    "crossplayID": 386,
+    "effectID": 723,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiWallReduction"
+  },
+  {
+    "equipmentEffectID": 387,
+    "crossplayID": 387,
+    "effectID": 724,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiGateReduction"
+  },
+  {
+    "equipmentEffectID": 388,
+    "crossplayID": 388,
+    "effectID": 725,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiMoatReduction"
+  },
+  {
+    "equipmentEffectID": 389,
+    "crossplayID": 389,
+    "effectID": 726,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiAttackBoostFront"
+  },
+  {
+    "equipmentEffectID": 390,
+    "crossplayID": 390,
+    "effectID": 727,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiAttackBoostFlank"
+  },
+  {
+    "equipmentEffectID": 391,
+    "crossplayID": 391,
+    "effectID": 728,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiLootBonus"
+  },
+  {
+    "equipmentEffectID": 392,
+    "crossplayID": 392,
+    "effectID": 729,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiOffensiveMeleeBonus"
+  },
+  {
+    "equipmentEffectID": 393,
+    "crossplayID": 393,
+    "effectID": 730,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiOffensiveRangeBonus"
+  },
+  {
+    "equipmentEffectID": 394,
+    "crossplayID": 394,
+    "effectID": 731,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiAttackBoostYard"
+  },
+  {
+    "equipmentEffectID": 395,
+    "crossplayID": 395,
+    "effectID": 732,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiAttackUnitAmountFlank"
+  },
+  {
+    "equipmentEffectID": 396,
+    "crossplayID": 396,
+    "effectID": 733,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiAttackUnitAmountFront"
+  },
+  {
+    "equipmentEffectID": 397,
+    "crossplayID": 397,
+    "effectID": 734,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiAttackBonus"
+  },
+  {
+    "equipmentEffectID": 398,
+    "crossplayID": 398,
+    "effectID": 735,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondWallReduction"
+  },
+  {
+    "equipmentEffectID": 399,
+    "crossplayID": 399,
+    "effectID": 736,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondGateReduction"
+  },
+  {
+    "equipmentEffectID": 400,
+    "crossplayID": 400,
+    "effectID": 737,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondMoatReduction"
+  },
+  {
+    "equipmentEffectID": 401,
+    "crossplayID": 401,
+    "effectID": 738,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondAttackBoostFront"
+  },
+  {
+    "equipmentEffectID": 402,
+    "crossplayID": 402,
+    "effectID": 739,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondAttackBoostFlank"
+  },
+  {
+    "equipmentEffectID": 403,
+    "crossplayID": 403,
+    "effectID": 740,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondLootBonus"
+  },
+  {
+    "equipmentEffectID": 404,
+    "crossplayID": 404,
+    "effectID": 741,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondOffensiveMeleeBonus"
+  },
+  {
+    "equipmentEffectID": 405,
+    "crossplayID": 405,
+    "effectID": 742,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondOffensiveRangeBonus"
+  },
+  {
+    "equipmentEffectID": 406,
+    "crossplayID": 406,
+    "effectID": 743,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondAttackBoostYard"
+  },
+  {
+    "equipmentEffectID": 407,
+    "crossplayID": 407,
+    "effectID": 744,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondAttackUnitAmountFlank"
+  },
+  {
+    "equipmentEffectID": 408,
+    "crossplayID": 408,
+    "effectID": 745,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondAttackUnitAmountFront"
+  },
+  {
+    "equipmentEffectID": 409,
+    "crossplayID": 409,
+    "effectID": 746,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondAttackBonus"
+  },
+  {
+    "equipmentEffectID": 410,
+    "crossplayID": 410,
+    "effectID": 747,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryWallReduction"
+  },
+  {
+    "equipmentEffectID": 411,
+    "crossplayID": 411,
+    "effectID": 748,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryGateReduction"
+  },
+  {
+    "equipmentEffectID": 412,
+    "crossplayID": 412,
+    "effectID": 749,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryMoatReduction"
+  },
+  {
+    "equipmentEffectID": 413,
+    "crossplayID": 413,
+    "effectID": 750,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryAttackBoostFront"
+  },
+  {
+    "equipmentEffectID": 414,
+    "crossplayID": 414,
+    "effectID": 751,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryAttackBoostFlank"
+  },
+  {
+    "equipmentEffectID": 415,
+    "crossplayID": 415,
+    "effectID": 752,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryLootBonus"
+  },
+  {
+    "equipmentEffectID": 416,
+    "crossplayID": 416,
+    "effectID": 753,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryOffensiveMeleeBonus"
+  },
+  {
+    "equipmentEffectID": 417,
+    "crossplayID": 417,
+    "effectID": 754,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryOffensiveRangeBonus"
+  },
+  {
+    "equipmentEffectID": 418,
+    "crossplayID": 418,
+    "effectID": 755,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryAttackBoostYard"
+  },
+  {
+    "equipmentEffectID": 419,
+    "crossplayID": 419,
+    "effectID": 756,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryAttackUnitAmountFlank"
+  },
+  {
+    "equipmentEffectID": 420,
+    "crossplayID": 420,
+    "effectID": 757,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryAttackUnitAmountFront"
+  },
+  {
+    "equipmentEffectID": 421,
+    "crossplayID": 421,
+    "effectID": 758,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryAttackBonus"
+  },
+  {
+    "equipmentEffectID": 422,
+    "crossplayID": 422,
+    "effectID": 759,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadAttackBonusUnitBeef"
+  },
+  {
+    "equipmentEffectID": 423,
+    "crossplayID": 423,
+    "effectID": 760,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadAttackBonusUnitMead"
+  },
+  {
+    "equipmentEffectID": 424,
+    "crossplayID": 424,
+    "effectID": 761,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadAttackUnitAmountReinforcementBonus"
+  },
+  {
+    "equipmentEffectID": 425,
+    "crossplayID": 425,
+    "effectID": 762,
+    "wearerID": 2,
+    "areaTypeID": "27,35",
+    "name": "ARELootNomadAdditionalWaves"
+  },
+  {
+    "equipmentEffectID": 426,
+    "crossplayID": 426,
+    "effectID": 763,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiAttackBonusUnitBeef"
+  },
+  {
+    "equipmentEffectID": 427,
+    "crossplayID": 427,
+    "effectID": 764,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiAttackBonusUnitMead"
+  },
+  {
+    "equipmentEffectID": 428,
+    "crossplayID": 428,
+    "effectID": 765,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiAttackUnitAmountReinforcementBonus"
+  },
+  {
+    "equipmentEffectID": 429,
+    "crossplayID": 429,
+    "effectID": 766,
+    "wearerID": 2,
+    "areaTypeID": "29,37",
+    "name": "ARELootSamuraiAdditionalWaves"
+  },
+  {
+    "equipmentEffectID": 430,
+    "crossplayID": 430,
+    "effectID": 767,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondAttackBonusUnitBeef"
+  },
+  {
+    "equipmentEffectID": 431,
+    "crossplayID": 431,
+    "effectID": 768,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondAttackBonusUnitMead"
+  },
+  {
+    "equipmentEffectID": 432,
+    "crossplayID": 432,
+    "effectID": 769,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondAttackUnitAmountReinforcementBonus"
+  },
+  {
+    "equipmentEffectID": 433,
+    "crossplayID": 433,
+    "effectID": 770,
+    "wearerID": 2,
+    "areaTypeID": "15,16,17,18,30",
+    "name": "ARELootBerimondAdditionalWaves"
+  },
+  {
+    "equipmentEffectID": 434,
+    "crossplayID": 434,
+    "effectID": 771,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryAttackBonusUnitBeef"
+  },
+  {
+    "equipmentEffectID": 435,
+    "crossplayID": 435,
+    "effectID": 772,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryAttackBonusUnitMead"
+  },
+  {
+    "equipmentEffectID": 436,
+    "crossplayID": 436,
+    "effectID": 773,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryAttackUnitAmountReinforcementBonus"
+  },
+  {
+    "equipmentEffectID": 437,
+    "crossplayID": 437,
+    "effectID": 774,
+    "wearerID": 2,
+    "areaTypeID": "21,34",
+    "name": "ARELootGloryAdditionalWaves"
   }
 ]

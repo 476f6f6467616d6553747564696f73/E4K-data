@@ -18,6 +18,7 @@
     "rarity": 4,
     "name": "LegendaryDragon",
     "leaguetypeID": 1,
-    "lifebarColor": "F97F00"
+    "lifebarColor": "F97F00",
+    "selectionCardText": "dialog_selectionCardText_20percent"
   }
 ]

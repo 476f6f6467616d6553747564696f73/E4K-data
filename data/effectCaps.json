@@ -1335,5 +1335,50 @@
     "capID": 2114,
     "crossplayID": 2114,
     "maxTotalBonus": 225000
+  },
+  {
+    "capID": 2115,
+    "crossplayID": 2115,
+    "maxTotalBonus": 420
+  },
+  {
+    "capID": 2116,
+    "crossplayID": 2116,
+    "maxTotalBonus": 270
+  },
+  {
+    "capID": 2117,
+    "crossplayID": 2117,
+    "maxTotalBonus": 30
+  },
+  {
+    "capID": 2118,
+    "crossplayID": 2118,
+    "maxTotalBonus": 150
+  },
+  {
+    "capID": 2119,
+    "crossplayID": 2119,
+    "maxTotalBonus": 38
+  },
+  {
+    "capID": 2120,
+    "crossplayID": 2120,
+    "maxTotalBonus": 150
+  },
+  {
+    "capID": 2121,
+    "crossplayID": 2121,
+    "maxTotalBonus": 360
+  },
+  {
+    "capID": 2122,
+    "crossplayID": 2122,
+    "maxTotalBonus": 330
+  },
+  {
+    "capID": 2123,
+    "crossplayID": 2123,
+    "maxTotalBonus": 195
   }
 ]
