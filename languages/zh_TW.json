@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "銀色元帥",
     "advisor_baron_characterTitle": "銀旗元帥",
     "advisor_baron_countdown_label": "顧問剩餘時間:",
-    "advisor_baron_bonus_banner": "該顧問在攻擊時提供額外的戰鬥力、XP和錢幣，並自動出售掠奪的裝備。",
+    "advisor_baron_bonus_banner": "該顧問在攻擊時提供額外的戰鬥力、經驗值和錢幣，並解鎖裝備自動售卖選項。",
     "advisor_baron_expiry_cta": "開始新戰役",
     "advisor_baron_expiry_text": "銀色元帥已經離去。重新參加以召集旗幟開啟新的戰役。",
     "advisor_baron_expiry_title": "活動已結束",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "麵包房的永久建築物品。提供+80,000食物庫存容納空間、+250,000蜜酒庫存容納空間和+3,000公共秩序。",
     "advisor_speechBubble_baron": "我在四個王國中為他們每一個人都攜帶了通緝令。名字、道路、薄弱的城牆，一切。與我同行，他們的塔樓將在你睡眠時倒塌，我最終將關閉我的合約。",
     "button_SelectCamp_baron": "選擇塔樓",
-    "intro_advisor_baron_short": "在每個王國中自動進攻匪爵塔樓7天。"
+    "intro_advisor_baron_short": "在每個王國中自動進攻匪爵塔樓7天。",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "商貿特區的永久基礎建築物品，+{0} 公共秩序，+{1} 食物產量/小時。每座城堡最多可擁有15個具有此效果的遺物或非遺物建築物品。",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "一個永久遺物建築物品，用於商貿特區，+{0} 公共秩序，+{1} 蜜酒產量/小時。每個城堡最多可擁有10個具有此效果的遺物或非遺物建築物品。"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 單位攻擊時的戰鬥力",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% 對傳奇稀有度突襲首領的戰鬥力加成",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}%戰鬥力加成（對稀有品質突襲首領）",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} 食物產量/小時",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% 招募速度"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% 招募速度",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "城堡內食物產量+{0}%",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "城堡內食物產量+{0}%"
   },
   "equipment_": {
     "equipment_unique_1528": "青銅堅定頭盔",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "王族血脈中最後且最兇悍的存在。僅可在「白理蒙」之戰中使用。",
     "hero_unique_1409_desc": "一個在腐肉烏鴉聚集處舉辦盛宴的暴君。只能在血鴉入侵中使用。",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% 從顧問攻擊中掠奪的錢幣",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% 戰鬥力和士氣（顧問攻擊時）",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% 顧問攻擊時的戰鬥力",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% 顧問攻擊獲得的XP",
     "equipment_unique_1587": "週年戰爭盾",
     "equipment_unique_1587_desc": "將你的軍隊轉變為勝利的週年紀念行列：騎士護送一輛鍍金的馬車，以巨大的盾牌和交叉的劍為冠，集結每波進攻的浪潮，磨利每一次內城衝鋒。",

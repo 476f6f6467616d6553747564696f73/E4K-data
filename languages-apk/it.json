@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Il Maresciallo dArgento",
     "advisor_baron_characterTitle": "Maresciallo del Vessillo dArgento",
     "advisor_baron_countdown_label": "Tempo rimanente consulente:",
-    "advisor_baron_bonus_banner": "Questo consigliere concede forza in combattimento aggiuntiva, XP e monete nei suoi attacchi e vende automaticamente lequipaggiamento saccheggiato.",
+    "advisor_baron_bonus_banner": "Questo consigliere concede forza in combattimento, esperienza e monete aggiuntive nei suoi attacchi e sblocca lopzione di vendita automatica dellequipaggiamento.",
     "advisor_baron_expiry_cta": "Avvia nuova campagna",
     "advisor_baron_expiry_text": "Il Maresciallo dArgento se nè andato. Arruolati di nuovo per convocare gli stendardi per una nuova campagna.",
     "advisor_baron_expiry_title": "La campagna è terminata",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Un elemento di costruzione permanente per il Fornaio. Concede +80.000 capacità di deposito cibo, +250.000 capacità di deposito idromele e +3.000 ordine pubblico.",
     "advisor_speechBubble_baron": "Porto un manifesto ricercato per ognuno di loro in tutti e quattro i regni. Nomi, strade, muri deboli, tutto. Cavalca con me e le loro torri crolleranno mentre dormi, e finalmente Chiudi i miei contratti.",
     "button_SelectCamp_baron": "Seleziona Torre",
-    "intro_advisor_baron_short": "Attacca automaticamente le torri del Masnadiero in ogni Regno per 7 giorni."
+    "intro_advisor_baron_short": "Attacca automaticamente le torri del Masnadiero in ogni Regno per 7 giorni.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Un oggetto di costruzione di base permanente per distretto commerciale, +{0} ordine pubblico, +{1} produzione di cibo allora. Puoi avere un massimo di 15 oggetti di costruzione reliquia o non reliquia con questo effetto per castello.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Un oggetto di costruzione reliquia permanente per distretto commerciale, +{0} ordine pubblico, +{1} produzione di idromele allora. Puoi avere un massimo di 10 oggetti di costruzione reliquia o non-reliquia con questo effetto per castello."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% di forza di combattimento dellunità in attacco",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% bonus forza in combattimento contro Boss Leggendari rarità Raid",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% bonus Forza in combattimento contro Raid Boss Raro",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} cibo produzione allora",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Velocità di reclutamento"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Velocità di reclutamento",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% produzione di cibo nel Castello",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% produzione di cibo nel Castello"
   },
   "equipment_": {
     "equipment_unique_1528": "Elmo Stalwart in Bronzo",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Lultimo e il più feroce di un lignaggio reale. Può essere utilizzato solo in La Battaglia di Berimond.",
     "hero_unique_1409_desc": "Un tiranno che banchetta dove si radunano i corvi necrofagi. Può essere utilizzato solo nellInvasione dei Corvi di Sangue.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Monete saccheggiate dagli attacchi dellAdvisore",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Forza in combattimento e Morale durante gli attacchi dellAdvisor",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Forza in combattimento durante gli attacchi dellAdvisore",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP guadagnata dagli attacchi del Consigliere",
     "equipment_unique_1587": "Egida di Guerra dellAnniversario",
     "equipment_unique_1587_desc": "Trasforma il tuo esercito in una cavalcata anniversaria trionfale: cavalieri scortano un carro dorato coronato con uno scudo grande e spade incrociate, radunando Ondata dopo Ondata di attaccanti e affilando ogni attacco di Cortile.",

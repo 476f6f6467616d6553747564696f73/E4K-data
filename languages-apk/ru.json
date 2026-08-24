@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Серебряный маршал",
     "advisor_baron_characterTitle": "Маршал Серебряного Знамени",
     "advisor_baron_countdown_label": "Оставшееся время советника:",
-    "advisor_baron_bonus_banner": "Этот советник дает дополнительную боевую мощь, XP и монеты при своих атаках и автоматически продает разграбленное снаряжение.",
+    "advisor_baron_bonus_banner": "Этот советник дает дополнительную боевую мощь, опыт и монеты при атаках и разблокирует опцию автоматической продажи снаряжения.",
     "advisor_baron_expiry_cta": "Начать новую кампанию",
     "advisor_baron_expiry_text": "Серебряный маршал уехал. Присоединитесь снова, чтобы созвать знамена для новой кампании.",
     "advisor_baron_expiry_title": "Кампания завершена",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Постоянный строительный предмет для Пекарни. Дает +80.000 вместительности хранилища еды, +250.000 вместительности хранилища медовухи и +3.000 общественного порядка.",
     "advisor_speechBubble_baron": "Я ношу объявление о розыске на каждого из них во всех четырех королевствах. Имена, дороги, слабые стены, всё. Езжайте со мной, и их башни упадут, пока вы спите, и я наконец Закрыть мои контракты.",
     "button_SelectCamp_baron": "Выбрать Башню",
-    "intro_advisor_baron_short": "Атакуйте башни Барона-разбойника автоматически в каждом Королевстве в течение 7 дней."
+    "intro_advisor_baron_short": "Атакуйте башни Барона-разбойника автоматически в каждом Королевстве в течение 7 дней.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Постоянный элемент строительства базы для торгового укрепленного района, +{0} общественный порядок, +{1} производство еды в час. Вы можете иметь максимум 15 реликвий или нереликвий элементов постройки с этим эффектом на замок.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Постоянный элемент постройки реликвии для торгового укрепленного района, +{0} общественный порядок, +{1} производство медовухи в час. Вы можете иметь максимум 10 элементов постройки реликвии или нереликвии с этим эффектом на замок."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% боевой мощи юнита при атаке",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% бонус боевой мощи против Легендарных редкостей Raid Bosses",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% бонус Боевой мощи против Редкостного Raid Boss",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} еда производство в час",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Скорость найма"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Скорость найма",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% производство еды в Замке",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% производство еды в Замке"
   },
   "equipment_": {
     "equipment_unique_1528": "Бронзовый Шлем Сталварта",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Последний и самый свирепый из королевского рода. Может использоваться только в Битве за Беримонд.",
     "hero_unique_1409_desc": "Тиран, который пирует там, где собираются вороны-падальщики. Может использоваться только в Вторжении Кровавого Ворона.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Монет награблено из атак Советника",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Боевая мощь и Мораль при атаках Советника",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Боевая мощь при атаках Советника",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% опыта от атак Советника",
     "equipment_unique_1587": "Щит войны годовщины",
     "equipment_unique_1587_desc": "Превратите вашу армию в триумфальный юбилейный кортеж: рыцари сопровождают позолоченную повозку, увенчанную большим щитом и скрещенными мечами, собирая Волну за Волной атакующих и обостряя каждую атаку Внутреннего двора.",

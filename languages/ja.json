@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "銀色の元帥",
     "advisor_baron_characterTitle": "銀の旗の元帥",
     "advisor_baron_countdown_label": "顧問の残り時間:",
-    "advisor_baron_bonus_banner": "このアドバイザーは攻撃時に追加の戦闘力、XP、コインを付与し、略奪した装備を自動的に売却します。",
+    "advisor_baron_bonus_banner": "このアドバイザーは攻撃時に追加の戦闘力、経験値、コインを付与し、装備の自動売却オプションをアンロックします。",
     "advisor_baron_expiry_cta": "新しいキャンペーンを開始",
     "advisor_baron_expiry_text": "銀色の元帥は去りました。新しいキャンペーンのために旗を集めるために再び参加してください。",
     "advisor_baron_expiry_title": "キャンペーンが終了しました",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "パン屋の永続的な建設アイテム。食料貯蔵庫の収納量+80,000、蜂蜜酒貯蔵庫の収納量+250,000、社会秩序+3,000を付与します。",
     "advisor_speechBubble_baron": "私は四つの王国すべてで、彼ら一人ひとりの手配書を持っています。名前、道、弱い壁、すべてです。私と一緒に乗ってください。彼らの塔はあなたが眠っている間に落ち、私は最終的に契約を閉じるでしょう。",
     "button_SelectCamp_baron": "塔を選択",
-    "intro_advisor_baron_short": "すべての王国で泥棒男爵の塔に7日間自動攻撃します。"
+    "intro_advisor_baron_short": "すべての王国で泥棒男爵の塔に7日間自動攻撃します。",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "交易区域用の永続的な基本建設アイテム、+{0} 社会秩序、+{1} 食料生産/時間。城ごとに、この効果を持つ遺物または非遺物の建設アイテムを最大15個まで所有できます。",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "交易区域用の永続的な遺物建設アイテム、+{0} 社会秩序、+{1} 蜂蜜酒生産/時間。城ごとにこの効果を持つ遺物または非遺物建設アイテムは最大10個まで所有できます。"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% ユニットの攻撃時の戦闘力",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% 伝説レアリティレイドボスへの戦闘力ボーナス",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}%の戦闘力ボーナス（稀有レアリティレイドボス対象）",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} 食料生産/時間",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% 雇用スピード"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% 雇用スピード",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "城での食料生産+{0}%",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "城での食料生産+{0}%"
   },
   "equipment_": {
     "equipment_unique_1528": "ブロンズスタルワート兜",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "王族の血統の最後にして最も獰猛なもの。ベリモントの戦いでのみ使用できます。",
     "hero_unique_1409_desc": "腐肉を食べるカラスが集まるところで宴を開く暴君。ブラッドクロウ・インベージョンでのみ使用できます。",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% アドバイザー攻撃から略奪されたコイン",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% 戦闘力とモラル（アドバイザー攻撃時）",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% アドバイザー攻撃時の戦闘力",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% アドバイザー攻撃から獲得するXP",
     "equipment_unique_1587": "記念戦争の盾",
     "equipment_unique_1587_desc": "あなたの軍隊を勝利の記念日行列に変える：騎士たちが金色の馬車を護衛し、大きな盾と交差した剣で冠をかぶり、波状攻撃を次々と集め、すべての中庭での攻撃を研ぎ澄ます。",

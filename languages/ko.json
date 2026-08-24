@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "은색 원수",
     "advisor_baron_characterTitle": "은색 기치의 원수",
     "advisor_baron_countdown_label": "고문 남은 시간:",
-    "advisor_baron_bonus_banner": "이 고문은 공격 시 추가 전투력, XP, 금화를 제공하며 약탈한 장비를 자동으로 판매합니다.",
+    "advisor_baron_bonus_banner": "이 고문은 공격 시 추가 전투력, 경험치, 금화를 제공하며 장비 자동 판매 옵션을 해제합니다.",
     "advisor_baron_expiry_cta": "새 캠페인 시작",
     "advisor_baron_expiry_text": "은색 원수가 떠났습니다. 새로운 캠페인을 위해 깃발을 소집하려면 다시 입대하세요.",
     "advisor_baron_expiry_title": "캠페인이 종료되었습니다",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "제빵소의 영구 건설 아이템입니다. 식량 저장 용량 +80,000, 벌꿀 술 저장 용량 +250,000, 치안 +3,000을 제공합니다.",
     "advisor_speechBubble_baron": "나는 네 왕국 모두에서 그들 각각에 대한 수배 포스터를 가지고 있습니다. 이름, 도로, 약한 벽, 모든 것입니다. 나와 함께 타세요. 그들의 탑은 당신이 자는 동안 무너질 것이고, 나는 마침내 내 계약을 닫기할 것입니다.",
     "button_SelectCamp_baron": "탑 선택",
-    "intro_advisor_baron_short": "모든 왕국에서 악덕 영주의 탑을 7일간 자동 공격합니다."
+    "intro_advisor_baron_short": "모든 왕국에서 악덕 영주의 탑을 7일간 자동 공격합니다.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "교역 구역용 영구 기본 건설 아이템, +{0} 치안, +{1} 식량 생산/시간. 성당 이 효과를 가진 유물 또는 비유물 건설 아이템을 최대 15개까지 보유할 수 있습니다.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "교역 구역용 영구 유물 건설 아이템, +{0} 치안, +{1} 벌꿀 술 생산/시간. 성당 이 효과를 가진 유물 또는 비유물 건설 아이템은 최대 10개까지 보유할 수 있습니다."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 유닛 전투력 공격 시",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% 전설 희귀도 레이드 보스에 대한 전투력 보너스",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% 전투력 보너스 (레어 희귀도 레이드 보스 대상)",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} 식량 생산/시간",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% 모집 속도"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% 모집 속도",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "성에서의 식량 생산 +{0}%",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "성에서의 식량 생산 +{0}%"
   },
   "equipment_": {
     "equipment_unique_1528": "청동 스탈워트 투구",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "왕족 혈통의 마지막이자 가장 흉악한 존재. 베리몬드 전투에서만 사용할 수 있습니다.",
     "hero_unique_1409_desc": "시체를 먹는 까마귀들이 모이는 곳에서 잔치를 벌이는 폭군. 블러드크로우 인베이전에서만 사용할 수 있습니다.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% 고문관 공격에서 약탈한 금화",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% 전투력 및 사기 (고문관 공격 시)",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% 고문관 공격 시 전투력",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% 고문 공격으로 획득한 XP",
     "equipment_unique_1587": "기념 전쟁 방패",
     "equipment_unique_1587_desc": "당신의 군대를 승리의 기념일 행렬로 변신시키세요: 기사들이 큰 방패와 교차한 검으로 왕관을 쓴 금도금된 마차를 호위하며, 공격대를 계속 모으고 모든 안뜰 공격을 날카롭게 합니다.",

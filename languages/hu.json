@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Az Ezüst Marsall",
     "advisor_baron_characterTitle": "Az Ezüst Lobogó Marsallja",
     "advisor_baron_countdown_label": "Tanácsadó hátralévő ideje:",
-    "advisor_baron_bonus_banner": "Ez a tanácsadó extra harcerőt, XP-t és pénzt ad támadásainál, és automatikusan eladja a kirabolt felszerelést.",
+    "advisor_baron_bonus_banner": "Ez a tanácsadó extra harcerőt, tapasztalatot és pénzt ad támadásainál, és feloldja a felszerelés automatikus eladásának lehetőségét.",
     "advisor_baron_expiry_cta": "Új kampány indítása",
     "advisor_baron_expiry_text": "Az Ezüst Marsall elment. Jelentkezz be újra, hogy összehívd a zászlókat egy új hadjáratra.",
     "advisor_baron_expiry_title": "A kampány véget ért",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Egy állandó építési tárgy a Pékséghez. +80.000 élelem tárolókapacitást, +250.000 mézsör tárolókapacitást és +3.000 közrendet biztosít.",
     "advisor_speechBubble_baron": "Minden egyes közülük után keresett plakátot hordok mind a négy királyságban. Nevek, utak, gyenge falak, minden. Lovagolj velem és a tornyaik ledőlnek, miközben alszol, és végre bezárás a szerződéseimet.",
     "button_SelectCamp_baron": "Torony kiválasztása",
-    "intro_advisor_baron_short": "Támadj automatikusan a Rablóbáró tornyaira minden Királyságban 7 napig."
+    "intro_advisor_baron_short": "Támadj automatikusan a Rablóbáró tornyaira minden Királyságban 7 napig.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Egy állandó alapépület-elem a kereskedelmi körzet számára, +{0} közrend, +{1} élelem termelés óránként. Kastélyonként maximum 15 reliquiás vagy nem reliquiás épületelemmel rendelkezhetsz ezzel a hatással.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Egy állandó ereklye építési elem a kereskedelmi körzet számára, +{0} közrend, +{1} mézsör termelés óránként. Kastélyonként maximum 10 ereklye vagy nem-ereklye építési elem lehet ezzel a hatással."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% egység harciereje támadáskor",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% harcerő bónusz a Legendás ritkaság Raid Bosses ellen",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% Harcerő bónusz Ritka Raid Boss ellen",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} élelem termelés óránként",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Toborzás sebessége"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Toborzás sebessége",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% élelem termelés a Kastélyban",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% élelem termelés a Kastélyban"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronz Stalwart sisak",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Egy királyi vérből származó utolsó és legvadabb. Csak A berimondi csata során használható.",
     "hero_unique_1409_desc": "Egy zsarnok, aki ott lakmározik, ahol a dögevő hollók gyülekeznek. Csak a Véres Varjú Invázióban használható.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Pénz fosztogatva a Tanácsadó támadásaiból",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Harcerő és Morálisan rugalmas az Tanácsadó támadások során",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Harcerő az Tanácsadó támadásai során",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP a Tanácsadó támadásaiból",
     "equipment_unique_1587": "Évfordulós háborús pajzs",
     "equipment_unique_1587_desc": "Alakítsd át a hadseregét egy győzedelmes évfordulós lovasmenetre: lovagok kísérnek egy aranyozott szekeret, amelyet nagy pajzs és keresztezett kardok koronáznak, Hullám után Hullám támadókat gyűjtve és minden Udvar támadást élesítve.",

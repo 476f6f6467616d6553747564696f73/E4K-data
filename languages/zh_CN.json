@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "银色元帅",
     "advisor_baron_characterTitle": "银旗元帅",
     "advisor_baron_countdown_label": "顾问剩余时间:",
-    "advisor_baron_bonus_banner": "该顾问在攻击时提供额外的战斗力、XP和金币，并自动出售掠夺的装备。",
+    "advisor_baron_bonus_banner": "该顾问在攻击时提供额外的战斗力、经验值和金币，并解锁装备自动售卖选项。",
     "advisor_baron_expiry_cta": "开始新战役",
     "advisor_baron_expiry_text": "银色元帅已经离去。重新参加以召集旗帜开启新的战役。",
     "advisor_baron_expiry_title": "活动已结束",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "面包房的永久建筑物品。提供+80,000食物存储容量、+250,000蜂蜜酒存储容量和+3,000公共秩序。",
     "advisor_speechBubble_baron": "我在四个王国中为他们每一个人都携带了通缉令。名字、道路、薄弱的城墙，一切。与我同行，他们的塔楼将在你睡眠时倒塌，我最终将关闭我的合约。",
     "button_SelectCamp_baron": "选择塔楼",
-    "intro_advisor_baron_short": "在每个王国中自动进攻匪爵塔楼7天。"
+    "intro_advisor_baron_short": "在每个王国中自动进攻匪爵塔楼7天。",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "交易地块的永久基础建造物品，+{0} 公共秩序，+{1} 食物生产/小时。每座城堡最多可拥有15个具有此效果的遗物或非遗物建造物品。",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "一个永久遗物建造物品，用于交易地块，+{0} 公共秩序，+{1} 蜂蜜酒生产/小时。每个城堡最多可拥有10个具有此效果的遗物或非遗物建造物品。"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 单位在攻击时的战斗力",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% 对闻名遐迩稀有度突袭首领的战斗力加成",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}%战斗力加成（对稀有品质突袭首领）",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} 食物生产/小时",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% 招募速度"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% 招募速度",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "城堡内食物生产+{0}%",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "城堡内食物生产+{0}%"
   },
   "equipment_": {
     "equipment_unique_1528": "青铜坚定头盔",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "王族血脉中最后且最凶悍的存在。仅可在Berimond之战中使用。",
     "hero_unique_1409_desc": "一个在腐肉乌鸦聚集处举办盛宴的暴君。只能在血鸦入侵中使用。",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% 从顾问攻击中掠夺的金币",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% 战斗力和士气（顾问攻击时）",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% 顾问攻击时的战斗力",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% 顾问攻击获得的XP",
     "equipment_unique_1587": "周年战争盾",
     "equipment_unique_1587_desc": "将你的军队转变为胜利的周年纪念行列：骑士护送一辆镀金的马车，以巨大的盾牌和交叉的剑为冠，集结每波进攻的浪潮，磨利每一次内城冲锋。",

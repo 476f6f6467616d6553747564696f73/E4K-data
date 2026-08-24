@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Sølvmarskalken",
     "advisor_baron_characterTitle": "Marskal av Sølvbanneret",
     "advisor_baron_countdown_label": "Gjenstående rådgivertid:",
-    "advisor_baron_bonus_banner": "Denne rådgiveren gir ekstra kampstyrke, XP og mynter på sine angrep, og selger plyndret utstyr automatisk.",
+    "advisor_baron_bonus_banner": "Denne rådgiveren gir ekstra kampstyrke, erfaring og mynter ved angrep og låser opp muligheten for automatisk salg av utstyr.",
     "advisor_baron_expiry_cta": "Start ny kampanje",
     "advisor_baron_expiry_text": "Sølvmarskalken har dratt videre. Meld deg på nytt for å kalle bannerne til en ny kampanje.",
     "advisor_baron_expiry_title": "Kampanjen er avsluttet",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "En permanent konstruksjonsgjenstand for Bakeri. Gir +80.000 matlagringskapasitet, +250.000 mjødlagringskapasitet og +3.000 ro og orden.",
     "advisor_speechBubble_baron": "Jeg bærer en etterlyst plakat for hver eneste av dem i alle fire kongeriker. Navn, veier, svake murer, alt. Rid med meg og deres tårn vil falle mens du sover, og jeg vil endelig lukk mine kontrakter.",
     "button_SelectCamp_baron": "Velg Tårn",
-    "intro_advisor_baron_short": "Angrip Røverbaron-tårn automatisk i hvert Kongerike i 7 dager."
+    "intro_advisor_baron_short": "Angrip Røverbaron-tårn automatisk i hvert Kongerike i 7 dager.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Et permanent grunnbyggeelement for handelsdistrikt, +{0} ro og orden, +{1} matproduksjon per time. Du kan ha maksimalt 15 relikvie- eller ikke-relikviebyggeelementer med denne effekten per slott.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "En permanent relikvie-byggegjenstande for handelsdistrikt, +{0} ro og orden, +{1} mjødproduksjon per time. Du kan ha maksimalt 10 relikvie- eller ikke-relikvie-byggegjenstander med denne effekten per slott."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens kampstyrke ved angrep",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% kampstyrke bonus mot Legendarisk sjeldenhet Raid Bosses",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% Kampstyrke bonus mot Sjelden Raid Boss",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} mat produksjon per time",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Rekrutteringshastighet"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Rekrutteringshastighet",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% matproduksjon på Slottet",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% matproduksjon på Slottet"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronse Stalwart hjelm",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Den siste og villeste av en kongelig blodlinje. Kan bare brukes i Slaget om Berimond.",
     "hero_unique_1409_desc": "En tyrann som fester der hvor kadaverfuglene samles. Kan bare brukes i Bloodcrow-invasjonen.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Mynter plyndret fra Rådgivers angrep",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Kampstyrke og Moral under Rådgivers angrep",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Kampstyrke under Rådgiver-angrep",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP fra Rådgivers angrep",
     "equipment_unique_1587": "Jubileumskrigsskjold",
     "equipment_unique_1587_desc": "Forvandl armeen din til en triumferende jubileumskavalkade: riddere eskorter en forgylt vogn kronet med et stort skjold og krysstede sverd, som samler Bølge etter Bølge angripere og skjerper hver Gårdsplass angrep.",

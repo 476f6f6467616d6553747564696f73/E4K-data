@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "El Mariscal de Plata",
     "advisor_baron_characterTitle": "Mariscal del Estandarte Plateado",
     "advisor_baron_countdown_label": "Tiempo restante del asesor:",
-    "advisor_baron_bonus_banner": "Este asesor otorga fuerza de combate adicional, XP y monedas en sus ataques, y vende equipamiento saqueado automáticamente.",
+    "advisor_baron_bonus_banner": "Este asesor otorga fuerza de combate, experiencia y monedas adicionales en sus ataques y desbloquea la opción de vender equipamiento automáticamente.",
     "advisor_baron_expiry_cta": "Iniciar nueva campaña",
     "advisor_baron_expiry_text": "El Mariscal de Plata se ha ido. Únete de nuevo para convocar los estandartes para una nueva campaña.",
     "advisor_baron_expiry_title": "La campaña ha terminado",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Un artículo de construcción permanente para la Panadería. Otorga +80.000 capacidad de almacenamiento de comida, +250.000 capacidad de almacenamiento de hidromiel y +3.000 orden público.",
     "advisor_speechBubble_baron": "Llevo un cartel de búsqueda para cada uno de ellos en los cuatro reinos. Nombres, caminos, muros débiles, todo. Cabalga conmigo y sus torres caerán mientras duermes, y finalmente cerraré mis contratos.",
     "button_SelectCamp_baron": "Seleccionar Torre",
-    "intro_advisor_baron_short": "Ataca torres de Barón ladrón automáticamente en cada Reino durante 7 días."
+    "intro_advisor_baron_short": "Ataca torres de Barón ladrón automáticamente en cada Reino durante 7 días.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Un objeto de construcción de base permanente para distrito comercial, +{0} orden público, +{1} producción de comida por hora. Puedes tener un máximo de 15 objetos de construcción de reliquia o no reliquia con este efecto por castillo.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Un objeto de construcción de reliquia permanente para distrito comercial, +{0} orden público, +{1} producción de hidromiel por hora. Puedes tener un máximo de 10 objetos de construcción de reliquia o no reliquia con este efecto por castillo."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de fuerza de combate de la unidad al atacar",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% bonificación de fuerza de combate contra Jefes de Incursión Legendarios",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% bonificación de Fuerza de combate contra Raid Boss Raro",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} comida producción por hora",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Velocidad de reclutamiento"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Velocidad de reclutamiento",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% producción de comida en el Castillo",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% producción de comida en el Castillo"
   },
   "equipment_": {
     "equipment_unique_1528": "Yelmo Stalwart de Bronce",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "El último y más feroz de un linaje real. Solo se puede usar en La batalla por Berimond.",
     "hero_unique_1409_desc": "Un tirano que festeja donde se reúnen los cuervos carroñeros. Solo se puede usar en la Invasión Cuervo Sangriento.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Monedas saqueadas de ataques del Asesor",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Fuerza de combate y Moral durante ataques del Asesor",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Fuerza de combate durante ataques del Asesor",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP ganada de ataques del Asesor",
     "equipment_unique_1587": "Égida de Guerra del Aniversario",
     "equipment_unique_1587_desc": "Transforma tu ejército en una cavalcada aniversaria triunfante: caballeros escoltan un carro dorado coronado con un gran escudo y espadas cruzadas, reuniendo Oleada tras Oleada de atacantes y afilando cada ataque de Patio.",

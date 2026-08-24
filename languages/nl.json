@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "De Zilveren Maarschalk",
     "advisor_baron_characterTitle": "Maarschalk van de Zilveren Banier",
     "advisor_baron_countdown_label": "Resterende adviseurstijd:",
-    "advisor_baron_bonus_banner": "Deze raadgever verleent extra vechtkracht, XP en munten bij zijn aanvallen en verkoopt geplunderde uitrusting automatisch.",
+    "advisor_baron_bonus_banner": "Deze adviseur verleent extra vechtkracht, ervaring en munten bij aanvallen en ontgrendelt de optie voor automatische verkoop van uitrusting.",
     "advisor_baron_expiry_cta": "Nieuwe campagne starten",
     "advisor_baron_expiry_text": "De Zilveren Maarschalk is vertrokken. Schrijf je opnieuw in om de banieren voor een nieuwe campagne op te roepen.",
     "advisor_baron_expiry_title": "De campagne is beëindigd",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Een permanent bouwonderdeel voor de Bakkerij. Verleent +80.000 voedselopslagcapaciteit, +250.000 honingwijnopslagcapaciteit en +3.000 openbare orde.",
     "advisor_speechBubble_baron": "Ik draag een gezocht affiche voor elk van hen in alle vier koninkrijken. Namen, wegen, zwakke muren, alles. Rijd met mij en hun torens zullen vallen terwijl je slaapt, en ik zal eindelijk mijn contracten sluiten.",
     "button_SelectCamp_baron": "Toren selecteren",
-    "intro_advisor_baron_short": "Val automatisch Roofridder-torens aan in elk Koninkrijk gedurende 7 dagen."
+    "intro_advisor_baron_short": "Val automatisch Roofridder-torens aan in elk Koninkrijk gedurende 7 dagen.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Een permanent basisconstructie-item voor handelsdistrict, +{0} openbare orde, +{1} voedselproductie per uur. Je kunt maximaal 15 reliek- of niet-reliek-bouwitems met dit effect per kasteel hebben.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Een permanent reliëkbouwitem voor handelsdistrict, +{0} openbare orde, +{1} honingwijnproductie per uur. Je kunt maximaal 10 reliëk- of niet-reliëkbouwitems met dit effect per kasteel hebben."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% eenheid vechtkracht bij aanvallen",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% vechtkracht bonus tegen Legendarische zeldzaamheid Raid Bosses",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% Vechtkracht bonus tegen Zeldzaam Raid Boss",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} voedsel productie per uur",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Rekruteringssnelheid"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Rekruteringssnelheid",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% voedselproductie in het Kasteel",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% voedselproductie in het Kasteel"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronzen Stalwart helm",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "De laatste en felste van een koninklijk geslacht. Kan alleen gebruikt worden in De Slag om Berimond.",
     "hero_unique_1409_desc": "Een tiran die feest viert waar de aasraven zich verzamelen. Kan alleen gebruikt worden in de Bloodcrow-invasie.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Munten geplunderd uit Adviseur-aanvallen",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Vechtkracht en Moreel tijdens Adviseur-aanvallen",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Vechtkracht tijdens Adviseur-aanvallen",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP van Adviseur-aanvallen",
     "equipment_unique_1587": "Verjaardags Oorlogsschild",
     "equipment_unique_1587_desc": "Transformeer je leger in een triomfantelijke jubileumkavalcade: ridders escorteren een vergulde wagen gekroond met een groot schild en gekruiste zwaarden, verzamelend Aanvalsgolf na Aanvalsgolf aanvallers en scherp stellend elke Binnenplaats aanval.",

@@ -1,7 +1,7 @@
 {
-  "version": "782.RC.08",
-  "date": "12/08/2026 10:31:24",
+  "version": "783.RC.01",
+  "date": "18/08/2026 10:00:35",
   "included": {
-    "features": "Live,Imp,AniversaryCampaignSpecialOffers,CommanderLootFix,BlacksmithPackageAdjustment,AnniversarySales,AnniversaryGacha"
+    "features": "Live,Jinn,EffectFightTypeCleanup,DonationEvent,RBAdvisor,HeritageEffectFix,AREToolConsumptionFix,DowngradeToolFix"
   }
 }

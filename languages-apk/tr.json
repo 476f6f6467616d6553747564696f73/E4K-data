@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Gümüş Mareşal",
     "advisor_baron_characterTitle": "Gümüş Bayrak Mareşali",
     "advisor_baron_countdown_label": "Danışman Kalan Süresi:",
-    "advisor_baron_bonus_banner": "Bu danışman saldırılarında ekstra savaş gücü, XP ve para verir ve yağmalanan ekipmanı otomatik olarak satar.",
+    "advisor_baron_bonus_banner": "Bu danışman saldırılarda ekstra savaş gücü, deneyim ve para sağlar ve ekipman otomatik satış seçeneğini açar.",
     "advisor_baron_expiry_cta": "Yeni kampanya başlat",
     "advisor_baron_expiry_text": "Gümüş Mareşal ayrılmıştır. Yeni bir kampanya için bayrakları çağırmak için yeniden katılın.",
     "advisor_baron_expiry_title": "Kampanya sona erdi",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Fırın için kalıcı bir inşaat öğesi. +80.000 yiyecek depo kapasitesi, +250.000 bal şarabı depo kapasitesi ve +3.000 kamu düzeni sağlar.",
     "advisor_speechBubble_baron": "Dört krallığın tümünde her birinin için aranıyor afişi taşıyorum. İsimler, yollar, zayıf duvarlar, her şey. Benimle birlikte at sürün ve kuleleri uyurken düşecek, ve sonunda kapat sözleşmelerim.",
     "button_SelectCamp_baron": "Kule Seç",
-    "intro_advisor_baron_short": "Her Krallıkta Harami Baron kuleleri otomatik olarak 7 gün boyunca saldırın."
+    "intro_advisor_baron_short": "Her Krallıkta Harami Baron kuleleri otomatik olarak 7 gün boyunca saldırın.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Ticaret bölgesi için kalıcı bir temel inşa öğesi, +{0} kamu düzeni, +{1} saat başına yiyecek üretimi. Kale başına bu etkiye sahip maksimum 15 relikt veya relikt olmayan inşa öğesine sahip olabilirsiniz.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Ticaret bölgesi için kalıcı bir emanet inşa öğesi, +{0} kamu düzeni, +{1} bal şarabı üretimi saatte. Kale başına bu etkiye sahip maksimum 10 emanet veya emanet olmayan inşa öğesine sahip olabilirsiniz."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% Efsanevi nadirlik Raid Bosslarına karşı savaş gücü bonusu",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% Savaş gücü bonusu Ender Raid Bossa karşı",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} yiyecek üretim saat başına",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Silah altına alma hızı"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Silah altına alma hızı",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% Kalede yiyecek üretimi",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% Kalede yiyecek üretimi"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronz Stalwart Miğfer",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Kraliyet soyunun son ve en vahşi olanı. Yalnızca Berimond Savaşında kullanılabilir.",
     "hero_unique_1409_desc": "Cesetçil kargaların toplandığı yerde şölen yapan bir tiran. Yalnızca Bloodcrow İstilasında kullanılabilir.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Danışman saldırılarından yağmalanan Para",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Savaş gücü ve Savaş azmi Danışman saldırıları sırasında",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Danışman saldırıları sırasında Savaş gücü",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% Danışman saldırılarından kazanılan XP",
     "equipment_unique_1587": "Yıldönümü Savaş Kalkanı",
     "equipment_unique_1587_desc": "Ordunuzu zafer dolu bir yıldönümü alayına dönüştürün: şövalyeler, büyük bir kalkan ve çapraz kılıçlarla taçlandırılmış altın kaplı bir arabayı eskort ederek, Dalga ardı Dalga saldırganları toplayıp her Avlu saldırısını keskinleştirirler.",

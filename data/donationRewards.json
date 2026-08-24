@@ -1764,7 +1764,7 @@
     "crossplayID": 221,
     "rewardSetID": 12,
     "donationTypeID": 1,
-    "minPoints": 25,
+    "minPoints": 20,
     "rewardID": 9897
   },
   {
@@ -1772,7 +1772,7 @@
     "crossplayID": 222,
     "rewardSetID": 12,
     "donationTypeID": 1,
-    "minPoints": 70,
+    "minPoints": 60,
     "rewardID": 9898
   },
   {
@@ -1780,7 +1780,7 @@
     "crossplayID": 223,
     "rewardSetID": 12,
     "donationTypeID": 1,
-    "minPoints": 125,
+    "minPoints": 120,
     "rewardID": 9899
   },
   {
@@ -1788,7 +1788,7 @@
     "crossplayID": 224,
     "rewardSetID": 12,
     "donationTypeID": 1,
-    "minPoints": 215,
+    "minPoints": 210,
     "rewardID": 9900
   },
   {
@@ -1796,7 +1796,7 @@
     "crossplayID": 225,
     "rewardSetID": 12,
     "donationTypeID": 1,
-    "minPoints": 365,
+    "minPoints": 360,
     "rewardID": 9901
   },
   {
@@ -1820,7 +1820,7 @@
     "crossplayID": 228,
     "rewardSetID": 12,
     "donationTypeID": 1,
-    "minPoints": 1160,
+    "minPoints": 1170,
     "rewardID": 9904
   },
   {
@@ -1828,7 +1828,7 @@
     "crossplayID": 229,
     "rewardSetID": 12,
     "donationTypeID": 1,
-    "minPoints": 2175,
+    "minPoints": 2170,
     "rewardID": 9905
   },
   {
@@ -1836,7 +1836,7 @@
     "crossplayID": 230,
     "rewardSetID": 12,
     "donationTypeID": 1,
-    "minPoints": 3995,
+    "minPoints": 3970,
     "rewardID": 9906
   },
   {
@@ -1844,7 +1844,7 @@
     "crossplayID": 231,
     "rewardSetID": 12,
     "donationTypeID": 2,
-    "minPoints": 315,
+    "minPoints": 300,
     "rewardID": 9907
   },
   {
@@ -1852,7 +1852,7 @@
     "crossplayID": 232,
     "rewardSetID": 12,
     "donationTypeID": 2,
-    "minPoints": 1235,
+    "minPoints": 1200,
     "rewardID": 9908
   },
   {
@@ -1860,7 +1860,7 @@
     "crossplayID": 233,
     "rewardSetID": 12,
     "donationTypeID": 2,
-    "minPoints": 3290,
+    "minPoints": 3200,
     "rewardID": 9909
   },
   {
@@ -1868,7 +1868,7 @@
     "crossplayID": 234,
     "rewardSetID": 12,
     "donationTypeID": 2,
-    "minPoints": 6940,
+    "minPoints": 6700,
     "rewardID": 9910
   },
   {
@@ -1876,7 +1876,7 @@
     "crossplayID": 235,
     "rewardSetID": 12,
     "donationTypeID": 2,
-    "minPoints": 12285,
+    "minPoints": 11700,
     "rewardID": 9911
   },
   {
@@ -1884,7 +1884,7 @@
     "crossplayID": 236,
     "rewardSetID": 12,
     "donationTypeID": 2,
-    "minPoints": 19030,
+    "minPoints": 18200,
     "rewardID": 9912
   },
   {
@@ -1892,7 +1892,7 @@
     "crossplayID": 237,
     "rewardSetID": 12,
     "donationTypeID": 2,
-    "minPoints": 28435,
+    "minPoints": 27200,
     "rewardID": 9913
   },
   {
@@ -1900,7 +1900,7 @@
     "crossplayID": 238,
     "rewardSetID": 12,
     "donationTypeID": 2,
-    "minPoints": 41955,
+    "minPoints": 40200,
     "rewardID": 9914
   },
   {
@@ -1908,7 +1908,7 @@
     "crossplayID": 239,
     "rewardSetID": 12,
     "donationTypeID": 2,
-    "minPoints": 56760,
+    "minPoints": 54200,
     "rewardID": 9915
   },
   {
@@ -1916,7 +1916,7 @@
     "crossplayID": 240,
     "rewardSetID": 12,
     "donationTypeID": 2,
-    "minPoints": 82250,
+    "minPoints": 79200,
     "rewardID": 9916
   }
 ]

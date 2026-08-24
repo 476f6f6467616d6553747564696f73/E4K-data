@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Der Silbermarschall",
     "advisor_baron_characterTitle": "Marschall der Silbernen Fahne",
     "advisor_baron_countdown_label": "Verbleibende Beraterzeit:",
-    "advisor_baron_bonus_banner": "Dieser Berater gewährt zusätzliche Kampfkraft, XP und Münzen bei seinen Angriffen und verkauft geplünderte Ausrüstung automatisch.",
+    "advisor_baron_bonus_banner": "Dieser Berater gewährt zusätzliche Kampfkraft, Erfahrung und Münzen bei Angriffen und schaltet die Option zum automatischen Verkauf von Ausrüstung frei.",
     "advisor_baron_expiry_cta": "Neue Kampagne starten",
     "advisor_baron_expiry_text": "Der Silbermarschall ist weitergezogen. Melden Sie sich erneut an, um die Banner für einen neuen Feldzug zu rufen.",
     "advisor_baron_expiry_title": "Die Kampagne ist beendet",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Ein permanentes Bauwerk für die Bäckerei. Gewährt +80.000 Nahrungslagerkapazität, +250.000 Met-Lagerkapazität und +3.000 Öffentliche Ordnung.",
     "advisor_speechBubble_baron": "Ich trage einen Steckbrief für jeden von ihnen in allen vier Königreichen. Namen, Straßen, schwache Mauern, alles. Reite mit mir und ihre Türme werden fallen, während du schläfst, und ich werde endlich meine Verträge schließen.",
     "button_SelectCamp_baron": "Turm wählen",
-    "intro_advisor_baron_short": "Greife Raubritter-Türme automatisch in jedem Königreich 7 Tage lang an."
+    "intro_advisor_baron_short": "Greife Raubritter-Türme automatisch in jedem Königreich 7 Tage lang an.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Ein permanentes Basis-Konstrukt für Handelsbezirk, +{0} Öffentliche Ordnung, +{1} Nahrungsproduktion pro Stunde. Du kannst maximal 15 Reliquien- oder Nicht-Reliquien-Konstrukte mit diesem Effekt pro Burg haben.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Ein permanentes Reliquien-Konstrukt für Handelsbezirk, +{0} Öffentliche Ordnung, +{1} Met-Produktion pro Stunde. Du kannst maximal 10 Reliquien- oder Nicht-Reliquien-Konstrukte mit diesem Effekt pro Burg haben."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Einheit Kampfkraft beim Angreifen",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% Kampfkraft-Bonus gegen Legendäre Seltenheit Raid-Bosse",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% Kampfkraft-Bonus gegen Seltene Raid-Bosse",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} Nahrungsproduktion pro Stunde",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Rekrutierungsgeschwindigkeit"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Rekrutierungsgeschwindigkeit",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% Nahrungsproduktion in der Burg",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% Nahrungsproduktion in der Burg"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronzener Stalwart Helm",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Der letzte und wildeste einer königlichen Blutlinie. Kann nur in Die Schlacht um Berimond verwendet werden.",
     "hero_unique_1409_desc": "Ein Tyrann, der dort schmaust, wo sich die Aasraben versammeln. Kann nur in der Blutrabenkrise verwendet werden.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Münzen aus Beraterattacken geplündert",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Kampfkraft und Kampfmoral bei Beraterattacken",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Kampfkraft bei Beraterattacken",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP aus Berater-Angriffen",
     "equipment_unique_1587": "Jahrestags-Kriegsägis",
     "equipment_unique_1587_desc": "Verwandle deine Armee in einen triumphalen Jubiläumszug: Ritter eskortieren einen vergoldeten Wagen, gekrönt mit einem großen Schild und gekreuzten Schwertern, die Welle um Welle von Angreifern sammeln und jeden Innenhof-Angriff schärfen.",

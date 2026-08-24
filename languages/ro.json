@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Mareșalul Argintiu",
     "advisor_baron_characterTitle": "Mareșalul Drapelului Argintiu",
     "advisor_baron_countdown_label": "Timp rămas al consilierului:",
-    "advisor_baron_bonus_banner": "Acest consilier acordă putere de luptă suplimentară, XP și monede în atacurile sale și vinde automat echipamentul jefuit.",
+    "advisor_baron_bonus_banner": "Acest consilier acordă putere de luptă, experiență și monede suplimentare în atacurile sale și deblochează opțiunea de vânzare automată a echipamentului.",
     "advisor_baron_expiry_cta": "Pornire campanie nouă",
     "advisor_baron_expiry_text": "Mareșalul Argintiu a plecat. Vă reînrolaţi pentru a chema steagurile pentru o nouă campanie.",
     "advisor_baron_expiry_title": "Campania s-a încheiat",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Un element de construcție permanent pentru Brutărie. Acordă +80.000 capacitate stocare alimente, +250.000 capacitate stocare mied și +3.000 ordine publică.",
     "advisor_speechBubble_baron": "Port un afiș de căutat pentru fiecare dintre ei în toate patru regatul. Nume, drumuri, ziduri slabe, totul. Călărește cu mine și turnurile lor vor cădea în timp ce dormi, și voi închide în sfârșit contractele mele.",
     "button_SelectCamp_baron": "Selectează Turn",
-    "intro_advisor_baron_short": "Atacă turnurile Baronului tâlhar automat în fiecare Regat timp de 7 zile."
+    "intro_advisor_baron_short": "Atacă turnurile Baronului tâlhar automat în fiecare Regat timp de 7 zile.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Un articol de construcție de bază permanent pentru district comercial, +{0} ordine publică, +{1} producție de alimente pe oră. Poți avea un maxim de 15 articole de construcții relicvă sau non-relicvă cu acest efect per castel.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Un articol de construcție relicvă permanent pentru district comercial, +{0} ordine publică, +{1} producție de mied pe oră. Poți avea maxim 10 articole de construcție relicvă sau non-relicvă cu acest efect per castel."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% puterea de luptă a unității în atac",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% bonus putere de luptă împotriva Raid Bosses Legendar(ă) raritate",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% bonus Putere de luptă împotriva Raid Boss Rar(ă)",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} alimente producție pe oră",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Viteză de recrutare"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Viteză de recrutare",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% producție de alimente în Castel",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% producție de alimente în Castel"
   },
   "equipment_": {
     "equipment_unique_1528": "Coif Stalwart din Bronz",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Ultimul și cel mai fieros dintr-o linie regală. Poate fi folosit doar în Bătălia pentru Berimond.",
     "hero_unique_1409_desc": "Un tiran care petrece acolo unde se adună corbii necrofagi. Poate fi folosit doar în Invazia Corbului de Sânge.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Monede jefuite din atacurile Consilierului",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Putere de luptă și Moral în atacurile Consilierului",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Putere de luptă în atacurile Consilierului",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP câștigat din atacurile Consilierului",
     "equipment_unique_1587": "Egida Războiului Aniversar",
     "equipment_unique_1587_desc": "Transformă-ți armata într-o cavalcadă aniversară triumfală: cavaleri escortează un cărucior aurit încununat cu un scut mare și săbii încrucișate, adunând Val după Val de atacatori și ascuțind fiecare atac de Curte.",

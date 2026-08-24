@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "O Marechal de Prata",
     "advisor_baron_characterTitle": "Marechal da Bandeira Prateada",
     "advisor_baron_countdown_label": "Tempo restante do consultor:",
-    "advisor_baron_bonus_banner": "Este conselheiro concede força de combate adicional, XP e moedas em seus ataques e vende equipamento saqueado automaticamente.",
+    "advisor_baron_bonus_banner": "Este conselheiro concede força de combate, experiência e moedas adicionais em seus ataques e desbloqueia a opção de venda automática de equipamento.",
     "advisor_baron_expiry_cta": "Iniciar nova campanha",
     "advisor_baron_expiry_text": "O Marechal de Prata partiu. Alistese novamente para convocar os estandartes para uma nova campanha.",
     "advisor_baron_expiry_title": "A campanha terminou",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Um item de construção permanente para a Padaria. Concede +80.000 capacidade de armazenamento de comida, +250.000 capacidade de armazenamento de hidromel e +3.000 ordem pública.",
     "advisor_speechBubble_baron": "Carrego um cartaz de procurado para cada um deles em todos os quatro reinos. Nomes, estradas, muros fracos, tudo. Cavalga comigo e suas torres cairão enquanto você dorme, e finalmente fecharei meus contratos.",
     "button_SelectCamp_baron": "Selecionar Torre",
-    "intro_advisor_baron_short": "Ataque torres do Barão usurpador automaticamente em cada Reino por 7 dias."
+    "intro_advisor_baron_short": "Ataque torres do Barão usurpador automaticamente em cada Reino por 7 dias.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Um item de construção de base permanente para distrito comercial, +{0} ordem pública, +{1} produção de comida por hora. Você pode ter um máximo de 15 itens de construção de relíquia ou não-relíquia com este efeito por castelo.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Um item de construção de relíquia permanente para distrito comercial, +{0} ordem pública, +{1} produção de hidromel por hora. Você pode ter um máximo de 10 itens de construção de relíquia ou não-relíquia com este efeito por castelo."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de força de combate da unidade ao atacar",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% bônus de força de combate contra Chefes de Incursão Lendários",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% bônus de Força de combate contra Raid Boss Raro",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} comida produção por hora",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Velocidade de recrutamento"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Velocidade de recrutamento",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% produção de comida no Castelo",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% produção de comida no Castelo"
   },
   "equipment_": {
     "equipment_unique_1528": "Elmo Stalwart de Bronze",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "O último e mais feroz de uma linhagem real. Só pode ser usado em A Batalha de Berimond.",
     "hero_unique_1409_desc": "Um tirano que festeja onde os corvos necrófagos se reúnem. Só pode ser usado na Invasão do Corvo Sangrento.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Moedas saqueadas de ataques do Conselheiro",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Força de combate e Moral durante ataques do Conselheiro",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Força de combate durante ataques do Conselheiro",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP ganho de ataques do Conselheiro",
     "equipment_unique_1587": "Égide de Guerra do Aniversário",
     "equipment_unique_1587_desc": "Transforme seu exército em uma cavalcata de aniversário triunfante: cavaleiros escoltam uma carruagem dourada coroada com um grande escudo e espadas cruzadas, reunindo Onda após Onda de atacantes e afiando cada ataque de Pátio.",

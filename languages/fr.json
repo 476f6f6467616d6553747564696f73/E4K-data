@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Le Maréchal dArgent",
     "advisor_baron_characterTitle": "Maréchal de la Bannière Argentée",
     "advisor_baron_countdown_label": "Temps restant du conseiller:",
-    "advisor_baron_bonus_banner": "Ce conseiller accorde une force de combat supplémentaire, de lXP et des pièces lors de ses attaques, et vend automatiquement léquipement pillé.",
+    "advisor_baron_bonus_banner": "Ce conseiller accorde une force de combat supplémentaire, de lexpérience et des pièces lors de ses attaques et déverrouille loption de vente automatique déquipement.",
     "advisor_baron_expiry_cta": "Démarrer nouvelle campagne",
     "advisor_baron_expiry_text": "Le Maréchal dArgent est parti. Réenrôlez-vous pour convoquer les bannières pour une nouvelle campagne.",
     "advisor_baron_expiry_title": "La campagne est terminée",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Un élément de construction permanent pour la Boulangerie. Accorde +80 000 capacité de stockage de nourriture, +250 000 capacité de stockage dhydromel et +3 000 ordre public.",
     "advisor_speechBubble_baron": "Je porte un avis de recherche pour chacun deux dans les quatre royaumes. Noms, routes, murs faibles, tout. Chevauchez avec moi et leurs tours tomberont pendant que vous dormez, et je fermerai enfin mes contrats.",
     "button_SelectCamp_baron": "Sélectionner Tour",
-    "intro_advisor_baron_short": "Attaquez automatiquement les tours du Fieffé coquin dans chaque Royaume pendant 7 jours."
+    "intro_advisor_baron_short": "Attaquez automatiquement les tours du Fieffé coquin dans chaque Royaume pendant 7 jours.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Un objet de construction de base permanent pour quartier commerçant, +{0} ordre public, +{1} production de nourriture par heure. Vous pouvez avoir un maximum de 15 objets de construction relique ou non-relique avec cet effet par château.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Un objet de construction relique permanent pour quartier commerçant, +{0} ordre public, +{1} production dhydromel par heure. Vous pouvez avoir un maximum de 10 objets de construction relique ou non-relique avec cet effet par château."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% bonus de force de combat contre les Boss de Raid Légendaires",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% bonus de Force de combat contre Boss Raid Rare",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} nourriture production par heure",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Vitesse de recrutement"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Vitesse de recrutement",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% production de nourriture au Château",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% production de nourriture au Château"
   },
   "equipment_": {
     "equipment_unique_1528": "Casque Stalwart en Bronze",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Le dernier et le plus féroce dune lignée royale. Ne peut être utilisé que dans La bataille de Berimond.",
     "hero_unique_1409_desc": "Un tyran qui festoie là où se rassemblent les corbeaux charognards. Ne peut être utilisé que lors de lInvasion des Corbeaux de Sang.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Pièces pillées des attaques du Conseiller",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Force de combat et Moral lors des attaques du Conseiller",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Force de combat lors des attaques du Conseiller",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP gagnée des attaques du Conseiller",
     "equipment_unique_1587": "Égide de Guerre dAnniversaire",
     "equipment_unique_1587_desc": "Transformez votre armée en une cavalcade anniversaire triomphale : des chevaliers escortent un chariot doré couronné dun grand bouclier et dépées croisées, rassemblant Vague après Vague dattaquants et affûtant chaque attaque de Cour.",

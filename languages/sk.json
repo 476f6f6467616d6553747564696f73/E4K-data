@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Strieborný maršál",
     "advisor_baron_characterTitle": "Maršal Strieborného Transparentu",
     "advisor_baron_countdown_label": "Zostávajúci čas poradcu:",
-    "advisor_baron_bonus_banner": "Tento poradca poskytuje dodatočnú bojovú silu, XP a mince pri svojich útokoch a automaticky predáva vykradnuté vybavenie.",
+    "advisor_baron_bonus_banner": "Tento poradca poskytuje dodatočnú bojovú silu, skúsenosti a mince pri útokoch a odomyká možnosť automatického predaja vybavenia.",
     "advisor_baron_expiry_cta": "Spustiť novú kampaň",
     "advisor_baron_expiry_text": "Strieborný maršál odišiel. Znovu sa zapíšte, aby ste zvolali prapory na novú kampaň.",
     "advisor_baron_expiry_title": "Kampaň skončila",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Trvalá stavebná položka pre Pekáreň. Poskytuje +80.000 skladovacej kapacity potravín, +250.000 skladovacej kapacity medoviny a +3.000 verejného poriadku.",
     "advisor_speechBubble_baron": "Nosím hľadaný plagát pre každého z nich vo všetkých štyroch kráľovstvách. Mená, cesty, slabé steny, všetko. Jazdi so mnou a ich veže padnú, zatiaľ čo spíš, a ja nakoniec zatvoriť svoje zmluvy.",
     "button_SelectCamp_baron": "Vybrať Vežu",
-    "intro_advisor_baron_short": "Útočte na veže Lúpežného barona automaticky v každom Kráľovstve počas 7 dní."
+    "intro_advisor_baron_short": "Útočte na veže Lúpežného barona automaticky v každom Kráľovstve počas 7 dní.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Trvalý prvok stavby základne pre obchodný dištrikt, +{0} verejný poriadok, +{1} produkcia jedla za hodinu. Na jeden hrad môžete mať maximálne 15 relikvií alebo nereliktných stavebných predmetov s týmto efektom.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Trvalý predmet stavby relikvie pre obchodný dištrikt, +{0} verejný poriadok, +{1} produkcia medoviny za hodinu. Na jeden hrad môžete mať maximálne 10 predmetov stavby relikvie alebo nereliktov s týmto efektom."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% bojovej sily jednotky pri útoku",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% bonus bojovej sily proti Legendárnym vzácnostiam Raid Bosses",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% bonus Bojovej sily proti Vzácnemu Raid Boss",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} jedla produkcia za hodinu",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Rýchlosť verbovania"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Rýchlosť verbovania",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% produkcia jedla na Hrade",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% produkcia jedla na Hrade"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronzová helma Stalwart",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Posledný a najzarputilší z kráľovskej krvi. Môže sa používať len v Boji o Berimond.",
     "hero_unique_1409_desc": "Tyran, ktorý hostuje tam, kde sa zhromažďujú vrany mršťáci. Možno použiť len v Invázii Krvavej vrany.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Mince vykradnuté z útokov Poradcu",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Bojová sila a Morálka počas útokov Poradcu",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Bojová sila počas útokov Poradcu",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP z útokov poradcu",
     "equipment_unique_1587": "Štít vojny výročia",
     "equipment_unique_1587_desc": "Premení svoju armádu na triumfálny výročný kavalcád: rytieri sprevádzajú pozlatenú kočiť korunovanú veľkým štítom a skríženými mečmi, zhromažďujúc Vlnu za Vlnou útočníkov a ostriac každý útok Nádvoria.",

@@ -13704,8 +13704,10 @@ export interface Language {
         "webshop_paymentShop_primeTime_title": string;
         "webshop_permCIbase_fooddistrict_POFoodProd_desc": string;
         "webshop_permCIbase_militarydistrict_POFoodProd_desc": string;
+        "webshop_permCIbase_tradedistrict_POFoodProd_desc": string;
         "webshop_permCIrelic_fooddistrict_POMeadProd_desc": string;
         "webshop_permCIrelic_militarydistrict_POMeadProd_desc": string;
+        "webshop_permCIrelic_tradedistrict_POMeadProd_desc": string;
         "webshop_permCIspring_stronghold_POUnitLimitWall_desc": string;
         "webshop_permacastellan_desc": string;
         "webshop_permacommander_desc": string;
@@ -13999,6 +14001,7 @@ export interface Language {
         "ci_effect_foodProduction": string;
         "ci_effect_foodProductionBonusBaronEconomy": string;
         "ci_effect_foodProductionBoost": string;
+        "ci_effect_foodProductionBoostBaronEconomyCapped": string;
         "ci_effect_foodProduction_blueprint": string;
         "ci_effect_foodProduction_tt": string;
         "ci_effect_foodStorage": string;
@@ -14686,6 +14689,7 @@ export interface Language {
         "equip_effect_description_foodCapacityBonusBaronEconomy": string;
         "equip_effect_description_foodProductionBonusBaronEconomy": string;
         "equip_effect_description_foodProductionBoostBaronEconomy": string;
+        "equip_effect_description_foodProductionBoostBaronEconomyCapped": string;
         "equip_effect_description_foodStorageTCI": string;
         "equip_effect_description_frontTroops": string;
         "equip_effect_description_gateBonus": string;

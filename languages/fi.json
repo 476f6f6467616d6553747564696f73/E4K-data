@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Hopeanmarsalkka",
     "advisor_baron_characterTitle": "Hopean Sotalipun Marsalkka",
     "advisor_baron_countdown_label": "Neuvonantajan jäljellä oleva aika:",
-    "advisor_baron_bonus_banner": "Tämä neuvonantaja antaa lisää taisteluvahvuutta, XP:tä ja kolikoita hyökkäyksissään ja myy ryöstetyt varusteet automaattisesti.",
+    "advisor_baron_bonus_banner": "Tämä neuvonantaja antaa lisää taisteluvahvuutta, kokemusta ja kolikoita hyökkäyksissään ja avaa automaattisen varusteiden myynnin vaihtoehdon.",
     "advisor_baron_expiry_cta": "Aloita uusi kampanja",
     "advisor_baron_expiry_text": "Hopeanmarsalkki on lähtenyt. Liity uudelleen kutsumaan lippuja uudelle kampanjalle.",
     "advisor_baron_expiry_title": "Kampanja on päättynyt",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Pysyvä rakennusesine Leipomolle. Antaa +80.000 ruoan varastotilaa, +250.000 siman varastotilaa ja +3.000 yleistä järjestystä.",
     "advisor_speechBubble_baron": "Kantaa halutuksi julistettua julistetta jokaiselle heistä kaikissa neljässä kuningaskunnassa. Nimet, tiet, heikot seinät, kaikki. Ratsasta kanssani ja heidän tornit putoavat kun nukut, ja sulje lopulta sopimukseni.",
     "button_SelectCamp_baron": "Valitse Torni",
-    "intro_advisor_baron_short": "Hyökkää Ryöväriparonin torneille automaattisesti jokaisessa Kuningaskunnassa 7 päivän ajan."
+    "intro_advisor_baron_short": "Hyökkää Ryöväriparonin torneille automaattisesti jokaisessa Kuningaskunnassa 7 päivän ajan.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Pysyvä perusrakennusosa kauppakorttelia varten, +{0} yleinen järjestys, +{1} ruoantuotanto tunnissa. Voit omistaa enintään 15 reliikin tai ei-reliikin rakennusosaa tällä vaikutuksella per linna.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Pysyvä reliikkiosa kauppakorttelia varten, +{0} yleinen järjestys, +{1} siman tuotanto tunnissa. Voit omistaa enintään 10 reliikki- tai ei-reliikkiosaa tällä vaikutuksella per linna."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% yksikön taisteluvoima hyökkäyksessä",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% taisteluvahvuus bonus Legendaarisen harvinaisuuden Raid-pomoja vastaan",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% Taisteluvahvuus bonus Harvinaista Raid Boss vastaan",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} ruoan tuotanto tunnissa",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Värväysnopeus"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Värväysnopeus",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% ruoan tuotanto Linnassa",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% ruoan tuotanto Linnassa"
   },
   "equipment_": {
     "equipment_unique_1528": "Pronssinen Stalwart kypärä",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Kuninkaalisen suvun viimeinen ja fiercest. Voidaan käyttää vain Taistelu Berimondista.",
     "hero_unique_1409_desc": "Tyranni, joka juhlii, missä ruumiinoravintokäet kokoontuvat. Voidaan käyttää vain Verisen varis -hyökkäyksessä.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Kolikoita ryöstetty Neuvonantajan hyökkäyksistä",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Taisteluvahvuus ja Moraali Neuvonantajan hyökkäysten aikana",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Taisteluvahvuus neuvonantajan hyökkäysten aikana",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP Neuvonantajan hyökkäyksistä",
     "equipment_unique_1587": "Vuosipäivän sodan kilpi",
     "equipment_unique_1587_desc": "Muuta armeijasi voittoisaksi vuosipäivä-ratsastukseksi: ritarit saattavat kullattua vaunua, joka on kruunattu suurella kilpellä ja ristiin asetetuilla miekoilla, keräten Aalto aallon jälkeen hyökkääjiä ja terävöittäen jokaista Sisäpiha-hyökkäystä.",

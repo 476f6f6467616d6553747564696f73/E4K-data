@@ -13827,7 +13827,7 @@
     "advisor_baron_characterName": "The Silver Marshal",
     "advisor_baron_characterTitle": "Marshal of the Silver Banner",
     "advisor_baron_countdown_label": "Remaining Advisor Time:",
-    "advisor_baron_bonus_banner": "This advisor grants extra combat strength, XP and Coins on its attacks, and sells looted equipment automatically.",
+    "advisor_baron_bonus_banner": "This advisor grants extra combat strength, XP and Coins on its attacks, and unlocks the option to automatically sell looted equipment.",
     "advisor_baron_expiry_cta": "Start new campaign",
     "advisor_baron_expiry_text": "The Silver Marshal has ridden on. Enlist again to call the banners for a new campaign.",
     "advisor_baron_expiry_title": "The campaign has ended",
@@ -13850,7 +13850,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "A Permanent Construction Item for the Bakery. Grants +80,000 food storage capacity, +250,000 mead storage capacity and +3,000 public order.",
     "advisor_speechBubble_baron": "I carry a wanted poster for every one of them, in all four kingdoms. Names, roads, weak walls, all of it. Ride with me and their towers will fall while you sleep, and I will finally close my contracts.",
     "button_SelectCamp_baron": "Select Tower",
-    "intro_advisor_baron_short": "Attack Robber Baron towers automatically in every kingdom for 7 days."
+    "intro_advisor_baron_short": "Attack Robber Baron towers automatically in every kingdom for 7 days.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "A permanent Base Construction Item for Trade district, +{0} Public Order, +{1} food production per hour. You can have a maximum of 15 relic or non-relic build items of this effect per castle.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "A permanent Relic Construction Item for Trade district, +{0} Public Order, +{1} mead production per hour. You can have a maximum of 10 relic or non-relic build items of this effect per castle."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",
@@ -15443,7 +15445,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% combat strength bonus against Legendary rarity Raid Bosses",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% combat strength bonus against Rare rarity Raid Bosses",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} food production per hour",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% recruitment speed"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% recruitment speed",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% food production in castle",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% food production in castle"
   },
   "equipment_": {
     "equipment_unique_1528": "Bronze Stalwart Helmet",
@@ -20388,7 +20392,7 @@
     "hero_unique_1404_desc": "The last and fiercest of a royal bloodline. Can only be used in the Battle for Berimond.",
     "hero_unique_1409_desc": "A tyrant who feasts where the carrion crows gather. Can only be used in the Bloodcrow Invasion.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Coins looted from Advisor attacks",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% combat strength and morale during Advisor attacks",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% combat strength during Advisor attacks",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP earned from Advisor attacks",
     "equipment_unique_1587": "Anniversary War Aegis",
     "equipment_unique_1587_desc": "Transform your army into a triumphant anniversary cavalcade: knights escort a gilded wagon crowned with a great shield and crossed swords, rallying wave upon wave of attackers and sharpening every courtyard charge.",

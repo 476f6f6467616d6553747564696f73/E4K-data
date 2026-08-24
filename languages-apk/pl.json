@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Srebrny Marszałek",
     "advisor_baron_characterTitle": "Marszałek Srebrnej Chorągwi",
     "advisor_baron_countdown_label": "Pozostały czas doradcy:",
-    "advisor_baron_bonus_banner": "Ten doradca udziela dodatkowej siły bojowej, XP i monet w swoich atakach i automatycznie sprzedaje zrabowane wyposażenie.",
+    "advisor_baron_bonus_banner": "Ten doradca daje dodatkową siłę bojową, doświadczenie i monety w atakach oraz odblokowuje opcję automatycznej sprzedaży wyposażenia.",
     "advisor_baron_expiry_cta": "Rozpocznij nową kampanię",
     "advisor_baron_expiry_text": "Srebrny Marszałek odjechał. Zaciągnij się ponownie, aby zwołać sztandary na nową kampanię.",
     "advisor_baron_expiry_title": "Kampania się skończyła",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "Stały element budowy do Piekarni. Udziela +80.000 pojemności magazynu żywności, +250.000 pojemności magazynu miodu pitnego i +3.000 porządku publicznego.",
     "advisor_speechBubble_baron": "Noszę poszukiwany plakat dla każdego z nich we wszystkich czterech królestwach. Imiona, drogi, słabe mury, wszystko. Jedź ze mną i ich wieże upadną, gdy będziesz spać, a ja wreszcie zamknij moje umowy.",
     "button_SelectCamp_baron": "Wybierz Wieżę",
-    "intro_advisor_baron_short": "Atakuj wieże Barona rozbójnika automatycznie w każdym Królestwie przez 7 dni."
+    "intro_advisor_baron_short": "Atakuj wieże Barona rozbójnika automatycznie w każdym Królestwie przez 7 dni.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "Stały element budowy bazowej dla dzielnicy handlowej, +{0} porządek publiczny, +{1} produkcja żywności na godzinę. Możesz posiadać maksymalnie 15 elementów budowy relikwii lub nie-relikwii z tym efektem na zamek.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "Trwały element budynku relikwii dla dzielnicy handlowej, +{0} porządek publiczny, +{1} produkcja miodu pitnego na godzinę. Możesz mieć maksymalnie 10 elementów budynków relikwii lub nie-relikwii z tym efektem na zamek."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły bojowej jednostki podczas ataku",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% bonus siły bojowej przeciwko Legendarnym rzadkim Raid Bosses",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% bonus Siły bojowej przeciwko Niezwykłemu Raid Boss",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} żywności produkcja na godzinę",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Szybkość werbunku"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Szybkość werbunku",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% produkcji żywności w Zamku",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% produkcji żywności w Zamku"
   },
   "equipment_": {
     "equipment_unique_1528": "Brązowy hełm Stalwart",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Ostatni i najzarliwszy z królewskiego rodu. Można używać tylko w Wojnie o Berimond.",
     "hero_unique_1409_desc": "Tyran, który uczta tam, gdzie zbierają się kruki padlinożerne. Można używać tylko w Inwazji Krwawego Kruka.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Monet zrabowanych z ataków Doradcy",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Siła bojowa i Morale podczas ataków Doradcy",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Siła bojowa podczas ataków Doradcy",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP z ataków Doradcy",
     "equipment_unique_1587": "Tarcza Wojny Rocznicy",
     "equipment_unique_1587_desc": "Przekształć swoją armię w triumfalną paradę rocznicową: rycerze eskortują pozłacaną karetę uwieńczoną wielkim tarczą i skrzyżowanymi mieczami, gromadząc Falę za Falą atakujących i ostrząc każdy atak Dziedzińca.",

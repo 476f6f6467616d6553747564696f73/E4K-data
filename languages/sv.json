@@ -13826,7 +13826,7 @@
     "advisor_baron_characterName": "Silvermarskalk",
     "advisor_baron_characterTitle": "Marskalk av Silverfanan",
     "advisor_baron_countdown_label": "Återstående rådgivartid:",
-    "advisor_baron_bonus_banner": "Denna rådgivare ger extra stridskraft, XP och mynt på sina attacker och säljer plundrat utrustning automatiskt.",
+    "advisor_baron_bonus_banner": "Denna rådgivare ger extra stridskraft, erfarenhet och mynt vid attacker och låser upp möjligheten för automatisk försäljning av utrustning.",
     "advisor_baron_expiry_cta": "Starta ny kampanj",
     "advisor_baron_expiry_text": "Silvermarskalkens har ridit vidare. Värvad dig igen för att kalla banderollerna till en ny kampanj.",
     "advisor_baron_expiry_title": "Kampanjen är avslutad",
@@ -13849,7 +13849,9 @@
     "webshop_AnniversaryStorage15_1284_desc": "En permanent byggnadsgrej för Bageri. Ger +80.000 matlagringskapacitet, +250.000 mjödlagringskapacitet och +3.000 offentlig ordning.",
     "advisor_speechBubble_baron": "Jag bär en efterlyst affisch för var och en av dem i alla fyra kungarikena. Namn, vägar, svaga murar, allt. Rida med mig och deras torn kommer att falla medan du sover, och jag kommer slutligen stäng mina kontrakt.",
     "button_SelectCamp_baron": "Välj Torn",
-    "intro_advisor_baron_short": "Anfalla Rovriddare-torn automatiskt i varje Kungadöme i 7 dagar."
+    "intro_advisor_baron_short": "Anfalla Rovriddare-torn automatiskt i varje Kungadöme i 7 dagar.",
+    "webshop_permCIbase_tradedistrict_POFoodProd_desc": "En permanent basbyggnadsdel för handelsdistrikt, +{0} offentlig ordning, +{1} matproduktion per timme. Du kan ha maximalt 15 relikvie- eller icke-relikviebyggnadsdelar med denna effekt per borg.",
+    "webshop_permCIrelic_tradedistrict_POMeadProd_desc": "En permanent relikvie-byggföremål för handelsdistrikt, +{0} offentlig ordning, +{1} mjödproduktion per timme. Du kan ha maximalt 10 relikvie- eller icke-relikvie-byggföremål med denna effekt per borg."
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens stridskraft vid angrepp",
@@ -15442,7 +15444,9 @@
     "equip_effect_description_TemporaryLegendaryAttackBonus": "+{0}% stridskraft bonus mot Legendarisk sällsynthet Raid Bosses",
     "equip_effect_description_TemporaryRareAttackBonus": "+{0}% Stridskraft bonus mot Sällsynt Raid Boss",
     "ci_effect_decosUnboostedFoodProductionBonusBaronEconomyCapped": "+{0} mat produktion per timme",
-    "ci_effect_recruitmentSpeedBoost": "+{0}% Rekryteringshastighet"
+    "ci_effect_recruitmentSpeedBoost": "+{0}% Rekryteringshastighet",
+    "ci_effect_foodProductionBoostBaronEconomyCapped": "+{0}% matproduktion på Borgen",
+    "equip_effect_description_foodProductionBoostBaronEconomyCapped": "+{0}% matproduktion på Borgen"
   },
   "equipment_": {
     "equipment_unique_1528": "Brons Stalwart hjälm",
@@ -20387,7 +20391,7 @@
     "hero_unique_1404_desc": "Den siste och vildaste av en kunglig blodslinje. Kan endast användas i Slaget om Berimond.",
     "hero_unique_1409_desc": "En tyrann som festerar där de kadaverätande kråkorna samlas. Kan endast användas i Bloodcrow-invasionen.",
     "equip_effect_description_RobberBaronAdvisorCoinBoost": "+{0}% Mynt plundrade från Rådgivarens attacker",
-    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Stridskraft och Moral under Rådgivarens attacker",
+    "equip_effect_description_RobberBaronAdvisorAttackBonus": "+{0}% Stridskraft under Rådgivarens attacker",
     "equip_effect_description_RobberBaronAdvisorXPBoost": "+{0}% XP från Rådgivarens attacker",
     "equipment_unique_1587": "Jubileumskriegsskölden",
     "equipment_unique_1587_desc": "Förvandla din armé till en triumfal jubileumskavalkad: riddare eskortera en förgylld vagn krönta med ett stort sköld och korsade svärd, samla Våg efter Våg angripare och vässa varje Gårdsplan attack.",
