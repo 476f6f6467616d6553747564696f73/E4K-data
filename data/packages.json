@@ -77469,16 +77469,6 @@
     "relationIDs": "999,408"
   },
   {
-    "packageID": 5534,
-    "packageType": "currency",
-    "comment1": "ARME Questboard QuestTry Purchase",
-    "comment2": "QuestTry Purchase",
-    "addRiftQuestTicket": 1,
-    "stock": 3,
-    "packagePriceC2": 7500,
-    "relationIDs": 999
-  },
-  {
     "packageID": 5535,
     "packageType": "soldier",
     "comment1": "ARME Ducat Shop",

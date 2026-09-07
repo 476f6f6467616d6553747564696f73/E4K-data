@@ -507,11 +507,8 @@ export interface AllianceQuest {
     "comment4": string;
     "duration": number;
     "eventID"?: number;
-    "maxRaidBossLevel"?: number;
-    "minRaidBossLevel"?: number;
     "questID": number;
     "questType": string;
-    "raidBossID"?: number;
     "rewardPoints": number;
 }
 
@@ -2519,7 +2516,6 @@ export interface Package {
     "addRarePaint"?: number;
     "addRareRope"?: number;
     "addResourceVillageToken"?: number;
-    "addRiftQuestTicket"?: number;
     "addSaleDaysLuckyWheelTicket"?: number;
     "addSamuraiMedalBoosterKey"?: number;
     "addSamuraiToken"?: number;
@@ -3162,7 +3158,6 @@ export interface Reward {
     "addRefinedStone"?: number;
     "addRelicFragment"?: number;
     "addRiftCoin"?: number;
-    "addRiftQuestTicket"?: number;
     "addSaleDaysLuckyWheelTicket"?: number;
     "addSasakiToken"?: number;
     "addSceatToken"?: number;

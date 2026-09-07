@@ -108,7 +108,7 @@
     "comment1": "ARMEBronzeRank",
     "maxDuration": 604800,
     "effects": "413&amp;1200",
-    "eventID": 137,
+    "eventID": 133,
     "noofColors": 3,
     "effectIconID": 1
   },
@@ -117,7 +117,7 @@
     "comment1": "ARMESilverRank",
     "maxDuration": 604800,
     "effects": "413&amp;1300",
-    "eventID": 137,
+    "eventID": 133,
     "noofColors": 3,
     "effectIconID": 1
   },
@@ -126,7 +126,7 @@
     "comment1": "ARMEGoldRank",
     "maxDuration": 604800,
     "effects": "413&amp;1400",
-    "eventID": 137,
+    "eventID": 133,
     "noofColors": 3,
     "effectIconID": 1
   },
@@ -135,7 +135,7 @@
     "comment1": "ARMEDiamondRank",
     "maxDuration": 604800,
     "effects": "413&amp;1500",
-    "eventID": 137,
+    "eventID": 133,
     "noofColors": 3,
     "effectIconID": 1
   }

@@ -1145,6 +1145,18 @@ export interface Language {
         "ci_appearance_PremiumPirateOffensiveWorkshop_flavour": string;
         "ci_appearance_PremiumPirateTavern": string;
         "ci_appearance_PremiumPirateTavern_flavour": string;
+        "ci_appearance_RiftBarrelWorkshop": string;
+        "ci_appearance_RiftBarrelWorkshop_flavour": string;
+        "ci_appearance_RiftGreenhouse": string;
+        "ci_appearance_RiftGreenhouse_flavour": string;
+        "ci_appearance_RiftHoneyGardens": string;
+        "ci_appearance_RiftHoneyGardens_flavour": string;
+        "ci_appearance_RiftHuntingLodge": string;
+        "ci_appearance_RiftHuntingLodge_flavour": string;
+        "ci_appearance_RiftStables": string;
+        "ci_appearance_RiftStables_flavour": string;
+        "ci_appearance_RiftStronghold": string;
+        "ci_appearance_RiftStronghold_flavour": string;
         "ci_appearance_SpookyGuardhouse": string;
         "ci_appearance_SpookyGuardhouse_flavour": string;
         "ci_appearance_SpringGranary": string;
@@ -1610,7 +1622,9 @@ export interface Language {
         "deco_ExaltedGreenLightMemorialFountain_name": string;
         "deco_ExaltedGreenLizardsCove_name": string;
         "deco_ExaltedGreenMarchHaresHideout_name": string;
+        "deco_ExaltedGreenOktoberfestBeerMill_name": string;
         "deco_ExaltedGreenOktoberfestGarden_name": string;
+        "deco_ExaltedGreenOktoberfestSwingRide_name": string;
         "deco_ExaltedGreenOrangeTeaPartyRide_name": string;
         "deco_ExaltedGreenOxOasis_name": string;
         "deco_ExaltedGreenPineappleRide_name": string;
@@ -1662,7 +1676,9 @@ export interface Language {
         "deco_ExaltedPurpleLavaShrineofDuality_name": string;
         "deco_ExaltedPurpleLightMemorialFountain_name": string;
         "deco_ExaltedPurpleMarchHaresHideout_name": string;
+        "deco_ExaltedPurpleOktoberfestBeerMill_name": string;
         "deco_ExaltedPurpleOktoberfestGarden_name": string;
+        "deco_ExaltedPurpleOktoberfestSwingRide_name": string;
         "deco_ExaltedPurpleOrangeTeaPartyRide_name": string;
         "deco_ExaltedPurplePineappleRide_name": string;
         "deco_ExaltedPurplePirateWaterSlide_name": string;
@@ -1706,7 +1722,9 @@ export interface Language {
         "deco_ExaltedRedLavaShrineofDuality_name": string;
         "deco_ExaltedRedLightMemorialFountain_name": string;
         "deco_ExaltedRedMarchHaresHideout_name": string;
+        "deco_ExaltedRedOktoberfestBeerMill_name": string;
         "deco_ExaltedRedOktoberfestGarden_name": string;
+        "deco_ExaltedRedOktoberfestSwingRide_name": string;
         "deco_ExaltedRedOrangeTeaPartyRide_name": string;
         "deco_ExaltedRedPineappleRide_name": string;
         "deco_ExaltedRedPirateWaterSlide_name": string;
@@ -4129,6 +4147,7 @@ export interface Language {
         "dialog_are_infoBoss_healthBar_tooltip_e4k_FungalSwarm": string;
         "dialog_are_infoBoss_healthBar_tooltip_e4k_LegendaryDragon": string;
         "dialog_are_infoBoss_healthBar_tooltip_e4k_Necromancer": string;
+        "dialog_are_leaderboard_title": string;
         "dialog_are_legendarydragon_effect_info": string;
         "dialog_are_necromancer_effect_info": string;
         "dialog_are_no_alliance_permission_desc": string;
@@ -4147,6 +4166,7 @@ export interface Language {
         "dialog_are_regulareffect_title4": string;
         "dialog_are_regulareffect_title5": string;
         "dialog_are_regulareffect_title6": string;
+        "dialog_are_riftrewards_title": string;
         "dialog_are_selectButton": string;
         "dialog_are_shop_title": string;
         "dialog_are_start_desc1_desc": string;
@@ -12025,6 +12045,7 @@ export interface Language {
         "ranking_TopX_alliance": string;
         "ranking_best_alliance": string;
         "ranking_calculating": string;
+        "ranking_description_AllianceRaidEvent": string;
         "ranking_description_AnniversaryGacha": string;
         "ranking_description_BlackFridayGacha": string;
         "ranking_description_ChristmasGacha": string;
@@ -12191,6 +12212,7 @@ export interface Language {
         "ringmenu_building_generals_inn": string;
         "ringmenu_building_generals_overview": string;
         "ringmenu_building_kingdomToolsmith": string;
+        "ringmenu_citadel": string;
         "ringmenu_constructionHelp": string;
         "ringmenu_military_menu_enemyRankLow": string;
         "ringmenu_military_menu_notEnoughCharge": string;
@@ -13039,6 +13061,11 @@ export interface Language {
         "webshop_AnniversaryFood_1283_desc": string;
         "webshop_AnniversaryKeepStrength_1282_desc": string;
         "webshop_AnniversaryStorage15_1284_desc": string;
+        "webshop_BaronAdvisorTokenStash_big_name": string;
+        "webshop_BaronAdvisorTokenStash_huge_name": string;
+        "webshop_BaronAdvisorTokenStash_mega_name": string;
+        "webshop_BaronAdvisorTokenStash_name": string;
+        "webshop_BaronAdvisorToken_name": string;
         "webshop_BeefProduction_VIP_name": string;
         "webshop_BeefProduction_extraLarge_name": string;
         "webshop_BeefProduction_giant_name": string;
@@ -23251,6 +23278,9 @@ export interface Language {
         "help_allianceOverview_landmarks": string;
         "help_allianceOverview_openAlliance": string;
         "help_allianceOverview_quit": string;
+        "help_allianceRaidbossEventAdjustment_help": string;
+        "help_allianceRaidbossEventNormal_help": string;
+        "help_allianceRaidbossEventQualification_help": string;
         "help_allianceReRank": string;
         "help_allianceRewards": string;
         "help_allianceSearchMember": string;

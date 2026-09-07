@@ -96,7 +96,7 @@
   {
     "divisionRoundID": 10,
     "comment1": "Initial event run setup to seed/qualify alliances into all divisions after a single event run",
-    "eventID": 137,
+    "eventID": 133,
     "type": "qualification",
     "divisions": 1,
     "subdivisions": 16,
@@ -106,7 +106,7 @@
   {
     "divisionRoundID": 11,
     "comment1": "The desired normal division based event run to run continuously every month as the goal state to be achieved",
-    "eventID": 137,
+    "eventID": 133,
     "type": "normal",
     "divisions": 6,
     "subdivisions": "16,8,5,3,2,1",
@@ -117,7 +117,7 @@
   {
     "divisionRoundID": -10,
     "comment1": "QA Testing Values",
-    "eventID": 137,
+    "eventID": 133,
     "type": "qualification",
     "divisions": 1,
     "subdivisions": 4,
@@ -128,7 +128,7 @@
   {
     "divisionRoundID": -11,
     "comment1": "QA Testing Values",
-    "eventID": 137,
+    "eventID": 133,
     "type": "normal",
     "divisions": 6,
     "subdivisions": "4,4,4,2,2,1",
