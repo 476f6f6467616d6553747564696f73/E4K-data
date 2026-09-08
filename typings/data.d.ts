@@ -3158,6 +3158,7 @@ export interface Reward {
     "addRefinedStone"?: number;
     "addRelicFragment"?: number;
     "addRiftCoin"?: number;
+    "addRiftQuestTicket"?: number;
     "addSaleDaysLuckyWheelTicket"?: number;
     "addSasakiToken"?: number;
     "addSceatToken"?: number;
