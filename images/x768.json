@@ -2099,6 +2099,231 @@
     ],
     "fx": []
   },
+  "Jade_Classic_Buildgrid_10x20": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_Buildgrid_10x20.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 582,
+        "h": 302,
+        "rx": 619,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_Buildgrid_20x10": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_Buildgrid_20x10.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 582,
+        "h": 302,
+        "rx": 819,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_Buildgrid_20x20": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_Buildgrid_20x20.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 782,
+        "h": 402,
+        "rx": 619,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_InnerBackground_10x20_1": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_InnerBackground_10x20_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 602,
+        "h": 302,
+        "rx": 799,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_InnerBackground_10x20_2": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_InnerBackground_10x20_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 602,
+        "h": 302,
+        "rx": 799,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_InnerBackground_10x20_3": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_InnerBackground_10x20_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 602,
+        "h": 302,
+        "rx": 799,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_InnerBackground_10x20_4": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_InnerBackground_10x20_4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 602,
+        "h": 302,
+        "rx": 799,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_InnerBackground_20x10_1": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_InnerBackground_20x10_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 601,
+        "h": 301,
+        "rx": 599,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_InnerBackground_20x10_2": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_InnerBackground_20x10_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 601,
+        "h": 301,
+        "rx": 599,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_InnerBackground_20x10_3": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_InnerBackground_20x10_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 601,
+        "h": 302,
+        "rx": 599,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_InnerBackground_20x10_4": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_InnerBackground_20x10_4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 601,
+        "h": 302,
+        "rx": 599,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_InnerBackground_20x20": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_InnerBackground_20x20.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 801,
+        "h": 401,
+        "rx": 599,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_OuterBackground_T0": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_OuterBackground_T0.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 402,
+        "h": 202,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_OuterBackground_T1": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_OuterBackground_T1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 402,
+        "h": 202,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Classic_OuterBackground_T2": {
+    "pid": 2,
+    "url": "x768/Background/BackgroundsClassic_Jade/Jade_Classic_OuterBackground_T2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 402,
+        "h": 202,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Maya_Classic_Buildgrid_10x20": {
     "pid": 2,
     "url": "x768/Background/BackgroundsClassic_Maya/Maya_Classic_Buildgrid_10x20.png",
@@ -5048,6 +5273,269 @@
     ],
     "fx": []
   },
+  "FactionPUnittent_Building_Level2": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionPUnittent_Building_Level2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 125,
+        "rx": 941,
+        "ry": 965
+      }
+    ],
+    "fx": [
+      {
+        "x": 14,
+        "y": 60,
+        "scale": 0.4,
+        "name": "fx_campfire",
+        "rotation": 0
+      },
+      {
+        "x": 55,
+        "y": 37,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      },
+      {
+        "x": 31,
+        "y": 23,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionPUnittent_Building_Level3": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionPUnittent_Building_Level2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 125,
+        "rx": 941,
+        "ry": 965
+      }
+    ],
+    "fx": [
+      {
+        "x": 14,
+        "y": 60,
+        "scale": 0.4,
+        "name": "fx_campfire",
+        "rotation": 0
+      },
+      {
+        "x": 55,
+        "y": 37,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      },
+      {
+        "x": 31,
+        "y": 23,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionPUnittent_Building_Level4": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionPUnittent_Building_Level2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 125,
+        "rx": 941,
+        "ry": 965
+      }
+    ],
+    "fx": [
+      {
+        "x": 14,
+        "y": 60,
+        "scale": 0.4,
+        "name": "fx_campfire",
+        "rotation": 0
+      },
+      {
+        "x": 55,
+        "y": 37,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      },
+      {
+        "x": 31,
+        "y": 23,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionPUnittent_Building_Level5": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionPUnittent_Building_Level2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 125,
+        "rx": 941,
+        "ry": 965
+      }
+    ],
+    "fx": [
+      {
+        "x": 14,
+        "y": 60,
+        "scale": 0.4,
+        "name": "fx_campfire",
+        "rotation": 0
+      },
+      {
+        "x": 55,
+        "y": 37,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      },
+      {
+        "x": 31,
+        "y": 23,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionPUnittent_Building_Level6": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionPUnittent_Building_Level6_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 138,
+        "rx": 942,
+        "ry": 957
+      }
+    ],
+    "fx": [
+      {
+        "x": 21,
+        "y": 23,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionPUnittent_Building_Level7": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionPUnittent_Building_Level6_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 138,
+        "rx": 942,
+        "ry": 957
+      }
+    ],
+    "fx": [
+      {
+        "x": 21,
+        "y": 23,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionPUnittent_Building_Level8": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionPUnittent_Building_Level6_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 138,
+        "rx": 942,
+        "ry": 957
+      }
+    ],
+    "fx": [
+      {
+        "x": 21,
+        "y": 23,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionPUnittent_Building_Level9": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionPUnittent_Building_Level6_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 138,
+        "rx": 942,
+        "ry": 957
+      }
+    ],
+    "fx": [
+      {
+        "x": 21,
+        "y": 23,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionPUnittent_Building_Level10": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionPUnittent_Building_Level6_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 138,
+        "rx": 942,
+        "ry": 957
+      }
+    ],
+    "fx": [
+      {
+        "x": 21,
+        "y": 23,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
   "FactionUnitCamp_Building_Level1": {
     "pid": 0,
     "url": "x768/Buildings/BuildingsShared/FactionUnitCamp_Building_Level1_Shared.png",
@@ -5122,6 +5610,213 @@
       }
     ],
     "fx": []
+  },
+  "FactionUnittent_Building_Level2": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionUnittent_Building_Level2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 104,
+        "rx": 939,
+        "ry": 972
+      }
+    ],
+    "fx": [
+      {
+        "x": 22,
+        "y": 15,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionUnittent_Building_Level3": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionUnittent_Building_Level2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 104,
+        "rx": 939,
+        "ry": 972
+      }
+    ],
+    "fx": [
+      {
+        "x": 22,
+        "y": 15,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionUnittent_Building_Level4": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionUnittent_Building_Level2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 104,
+        "rx": 939,
+        "ry": 972
+      }
+    ],
+    "fx": [
+      {
+        "x": 22,
+        "y": 15,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionUnittent_Building_Level5": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionUnittent_Building_Level2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 104,
+        "rx": 939,
+        "ry": 972
+      }
+    ],
+    "fx": [
+      {
+        "x": 22,
+        "y": 15,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionUnittent_Building_Level6": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionUnittent_Building_Level6_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 161,
+        "h": 104,
+        "rx": 940,
+        "ry": 968
+      }
+    ],
+    "fx": [
+      {
+        "x": 19,
+        "y": 8,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionUnittent_Building_Level7": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionUnittent_Building_Level6_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 161,
+        "h": 104,
+        "rx": 940,
+        "ry": 968
+      }
+    ],
+    "fx": [
+      {
+        "x": 19,
+        "y": 8,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionUnittent_Building_Level8": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionUnittent_Building_Level6_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 161,
+        "h": 104,
+        "rx": 940,
+        "ry": 968
+      }
+    ],
+    "fx": [
+      {
+        "x": 19,
+        "y": 8,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionUnittent_Building_Level9": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionUnittent_Building_Level6_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 161,
+        "h": 104,
+        "rx": 940,
+        "ry": 968
+      }
+    ],
+    "fx": [
+      {
+        "x": 19,
+        "y": 8,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionUnittent_Building_Level10": {
+    "pid": 2,
+    "url": "x768/Buildings/BuildingsShared/FactionUnittent_Building_Level6_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 161,
+        "h": 104,
+        "rx": 940,
+        "ry": 968
+      }
+    ],
+    "fx": [
+      {
+        "x": 19,
+        "y": 8,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
   },
   "Glassboost_Building_Level_3": {
     "pid": 2,
@@ -18728,6 +19423,43 @@
       }
     ]
   },
+  "FactionPUnittent_Building_Level1": {
+    "pid": 2,
+    "url": "x768/Buildings/Faction/FactionPUnittent_Building_Level1/FactionPUnittent_Building_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 121,
+        "rx": 943,
+        "ry": 970
+      }
+    ],
+    "fx": [
+      {
+        "x": 17,
+        "y": 62,
+        "scale": 0.4,
+        "name": "fx_campfire",
+        "rotation": 0
+      },
+      {
+        "x": -3,
+        "y": 20,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      },
+      {
+        "x": 66,
+        "y": 34,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
   "FactionStable_Building_Level1": {
     "pid": 1,
     "url": "x768/Buildings/Faction/FactionStable_Building_Level1/FactionStable_Building_Level1.png",
@@ -18798,6 +19530,36 @@
       {
         "x": 21,
         "y": -6,
+        "scale": 0.5,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "FactionUnittent_Building_Level1": {
+    "pid": 1,
+    "url": "x768/Buildings/Faction/FactionUnittent_Building_Level1/FactionUnittent_Building_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 104,
+        "rx": 940,
+        "ry": 974
+      }
+    ],
+    "fx": [
+      {
+        "x": 27,
+        "y": 41,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      },
+      {
+        "x": 21,
+        "y": 28,
         "scale": 0.5,
         "name": "flagHolderStatic",
         "rotation": 0
@@ -31142,6 +31904,21 @@
     ],
     "fx": []
   },
+  "Jade_Castle_Landscape": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/DetailView_Background/Jade_Castle_Landscape.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1002,
+        "h": 1754,
+        "rx": 899,
+        "ry": 122
+      }
+    ],
+    "fx": []
+  },
   "Maya_Castle_Landscape_Classic_Dungeon": {
     "pid": 2,
     "url": "x768/CastleDetailView/DetailView_BackgroundShared/Maya_Castle_Landscape.png",
@@ -37547,6 +38324,141 @@
         "h": 113,
         "rx": 1226,
         "ry": 1085
+      }
+    ],
+    "fx": []
+  },
+  "Jade_CastlePart_Gate": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_CastlePart_Gate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 127,
+        "rx": 1241,
+        "ry": 1167
+      }
+    ],
+    "fx": []
+  },
+  "Jade_CastlePart_Moat": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_CastlePart_Moat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 526,
+        "h": 130,
+        "rx": 1133,
+        "ry": 1192
+      }
+    ],
+    "fx": []
+  },
+  "Jade_CastleParts_BackWall_Left": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_CastleParts_BackWall_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 96,
+        "rx": 1180,
+        "ry": 1174
+      }
+    ],
+    "fx": []
+  },
+  "Jade_CastleParts_BackWall_Right": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_CastleParts_BackWall_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 96,
+        "rx": 1527,
+        "ry": 1175
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Citadel_1": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_Citadel_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 204,
+        "h": 177,
+        "rx": 1295,
+        "ry": 1085
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Citadel_2": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_Citadel_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 204,
+        "h": 223,
+        "rx": 1296,
+        "ry": 1039
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Citadel_3": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_Citadel_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 225,
+        "h": 234,
+        "rx": 1285,
+        "ry": 1028
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Citadel_4": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_Citadel_4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 259,
+        "h": 243,
+        "rx": 1262,
+        "ry": 1019
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Citadel_5": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_Citadel_5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 271,
+        "h": 253,
+        "rx": 1262,
+        "ry": 1010
       }
     ],
     "fx": []
@@ -46606,6 +47518,607 @@
       }
     ],
     "fx": []
+  },
+  "Jade_Basic_Castlewall_Level1_NE": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Castlewall_Level1_NE.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 100,
+        "rx": 1005,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Castlewall_Level1_SE": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Castlewall_Level1_SE.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 95,
+        "rx": 1009,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Castlewall_Transparent_NE": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Castlewall_Transparent_NE.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 103,
+        "rx": 998,
+        "ry": 914
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Castlewall_Transparent_SE": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Castlewall_Transparent_SE.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 94,
+        "rx": 998,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Gate_Level1": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Gate_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 156,
+        "rx": 953,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Gate_Transparent": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Gate_Transparent.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 126,
+        "rx": 953,
+        "ry": 937
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Tower_CornerLevel1_0": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Tower_CornerLevel1_0.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 166,
+        "rx": 976,
+        "ry": 875
+      }
+    ],
+    "fx": [
+      {
+        "x": -10,
+        "y": 29,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 9,
+        "y": 34,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -15,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -15,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 5,
+        "y": 34,
+        "scale": 2,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 7,
+        "y": 30,
+        "scale": 2,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 7,
+        "y": 30,
+        "scale": 2,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 5,
+        "y": 34,
+        "scale": 2,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 0,
+        "y": 30,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 6,
+        "y": -1,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -1,
+        "y": 12,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 15,
+        "y": 26,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -17,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -11,
+        "y": 29,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 9,
+        "y": 34,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      }
+    ]
+  },
+  "Jade_Basic_Tower_CornerLevel1_1": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Tower_CornerLevel1_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 167,
+        "rx": 976,
+        "ry": 874
+      }
+    ],
+    "fx": [
+      {
+        "x": -10,
+        "y": 29,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -15,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -15,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -17,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 0,
+        "y": 30,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 6,
+        "y": -2,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -1,
+        "y": 12,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -17,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -11,
+        "y": 29,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      }
+    ]
+  },
+  "Jade_Basic_Tower_CornerLevel1_2": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Tower_CornerLevel1_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 167,
+        "rx": 976,
+        "ry": 874
+      }
+    ],
+    "fx": [
+      {
+        "x": -10,
+        "y": 29,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 9,
+        "y": 34,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -15,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -15,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 5,
+        "y": 34,
+        "scale": 2,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 7,
+        "y": 30,
+        "scale": 2,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 7,
+        "y": 30,
+        "scale": 2,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 5,
+        "y": 34,
+        "scale": 2,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 0,
+        "y": 30,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 6,
+        "y": -1,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -1,
+        "y": 12,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 15,
+        "y": 26,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -17,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -11,
+        "y": 29,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 9,
+        "y": 34,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      }
+    ]
+  },
+  "Jade_Basic_Tower_CornerLevel1_3": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Tower_CornerLevel1_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 166,
+        "rx": 976,
+        "ry": 875
+      }
+    ],
+    "fx": [
+      {
+        "x": 9,
+        "y": 34,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -15,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -15,
+        "y": 21,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 0,
+        "y": 30,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 6,
+        "y": -2,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": -1,
+        "y": 12,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 15,
+        "y": 26,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      },
+      {
+        "x": 9,
+        "y": 34,
+        "scale": 1,
+        "name": "flag0",
+        "rotation": 0
+      }
+    ]
+  },
+  "Jade_Basic_Tower_Transparent": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Tower_Transparent.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 83,
+        "rx": 972,
+        "ry": 893
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Towerbase_Level1": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Towerbase_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 118,
+        "rx": 976,
+        "ry": 923
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Towerbase_Transparent": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Basic_Towerbase_Transparent.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 111,
+        "rx": 975,
+        "ry": 933
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Castlewall_Defence_Level1": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Castlewall_Defence_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 118,
+        "rx": 966,
+        "ry": 922
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Guard_Tower_Level1": {
+    "pid": 2,
+    "url": "x768/Castlewall/Castlewall_Jade/Jade_Guard_Tower_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 159,
+        "rx": 978,
+        "ry": 791
+      }
+    ],
+    "fx": [
+      {
+        "x": 20,
+        "y": -189,
+        "scale": 0.5,
+        "name": "flagHolder",
+        "rotation": 0
+      },
+      {
+        "x": 25,
+        "y": -94,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
   },
   "Lookout_Tower_Level1": {
     "pid": 2,
@@ -111709,6 +113222,21 @@
     ],
     "fx": []
   },
+  "icon_are_rewards_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_are_rewards_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 93,
+        "rx": 959,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
   "icon_are_rules_tab": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_are_rules_tab.png",
@@ -111720,6 +113248,21 @@
         "h": 95,
         "rx": 951,
         "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "icon_are_tab_activity_rewards_small": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_are_tab_activity_rewards_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 71,
+        "rx": 966,
+        "ry": 964
       }
     ],
     "fx": []
@@ -111769,6 +113312,21 @@
     ],
     "fx": []
   },
+  "icon_are_tab_defeat_rewards_small": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_are_tab_defeat_rewards_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 72,
+        "rx": 970,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
   "icon_are_tab_defeat_rewards": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_are_tab_defeat_rewards.png",
@@ -111780,6 +113338,21 @@
         "h": 112,
         "rx": 954,
         "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_are_tab_rewards": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_are_tab_rewards.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 117,
+        "rx": 948,
+        "ry": 941
       }
     ],
     "fx": []
@@ -115920,6 +117493,21 @@
         "h": 54,
         "rx": 967,
         "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_small_133": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_event_small_133.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 47,
+        "rx": 973,
+        "ry": 976
       }
     ],
     "fx": []
@@ -156588,6 +158176,96 @@
     ],
     "fx": []
   },
+  "Jade_BackgroundResource_Classic_Food_Level3": {
+    "pid": 2,
+    "url": "x768/Resources/ResourcesShared/Jade_BackgroundResource_Classic_Food_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 539,
+        "h": 321,
+        "rx": 860,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "Jade_BackgroundResource_Classic_Food_Level2": {
+    "pid": 2,
+    "url": "x768/Resources/ResourcesShared/Jade_BackgroundResource_Classic_Food_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 539,
+        "h": 321,
+        "rx": 860,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "Jade_BackgroundResource_Classic_Food_Level1": {
+    "pid": 2,
+    "url": "x768/Resources/ResourcesShared/Jade_BackgroundResource_Classic_Food_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 539,
+        "h": 321,
+        "rx": 860,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "Jade_BackgroundResource_Classic_Stone_Level3": {
+    "pid": 2,
+    "url": "x768/Resources/ResourcesShared/Jade_BackgroundResource_Classic_Stone_Level1_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 466,
+        "h": 263,
+        "rx": 684,
+        "ry": 993
+      }
+    ],
+    "fx": []
+  },
+  "Jade_BackgroundResource_Classic_Stone_Level2": {
+    "pid": 2,
+    "url": "x768/Resources/ResourcesShared/Jade_BackgroundResource_Classic_Stone_Level1_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 466,
+        "h": 263,
+        "rx": 684,
+        "ry": 993
+      }
+    ],
+    "fx": []
+  },
+  "Jade_BackgroundResource_Classic_Stone_Level1": {
+    "pid": 2,
+    "url": "x768/Resources/ResourcesShared/Jade_BackgroundResource_Classic_Stone_Level1_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 466,
+        "h": 263,
+        "rx": 684,
+        "ry": 993
+      }
+    ],
+    "fx": []
+  },
   "WinterOffensive_BackgroundResource_Classic_Food_Level3": {
     "pid": 1,
     "url": "x768/Resources/ResourcesShared/WinterOffensive_BackgroundResource_Classic_Food_Shared.png",
@@ -166995,6 +168673,261 @@
     ],
     "fx": []
   },
+  "Jade_Background_Mapobject_Piece0_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Background_Mapobject_Piece0_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 838,
+        "h": 837,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Bush1x1_1_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Bush1x1_1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 58,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Bush1x1_2_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Bush1x1_2_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 53,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Bush1x2_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Bush1x2_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 117,
+        "rx": 999,
+        "ry": 1000
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Bush2x1_Classic": {
+    "pid": 0,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Bush2x1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 48,
+        "rx": 997,
+        "ry": 1003
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Bush2x2_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Bush2x2_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 115,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Forest2x2_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Forest2x2_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 95,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Gras1x1_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Gras1x1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 54,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Gras2x2_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Gras2x2_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 117,
+        "rx": 1004,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Gras3x1_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Gras3x1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 116,
+        "h": 56,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Mountain1x1_1_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Mountain1x1_1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 52,
+        "rx": 1000,
+        "ry": 1001
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Mountain2x2_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Mountain2x2_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 126,
+        "h": 127,
+        "rx": 1000,
+        "ry": 1001
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Wood1x1_1_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Wood1x1_1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 63,
+        "rx": 1007,
+        "ry": 1001
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Wood1x1_2_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Wood1x1_2_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 65,
+        "rx": 995,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Wood1x1_3_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Wood1x1_3_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 71,
+        "rx": 1003,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Wood1x1_4_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Wood1x1_4_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 64,
+        "rx": 1002,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Empty_Mapobject_Wood1x1_5_Classic": {
+    "pid": 2,
+    "url": "x768/Worldmap/Jade_WorldmapAssets_Classic/Jade_Empty_Mapobject_Wood1x1_5_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 48,
+        "rx": 997,
+        "ry": 1003
+      }
+    ],
+    "fx": []
+  },
   "Maya_Background_Mapobject_Piece0_Classic": {
     "pid": 2,
     "url": "x768/Worldmap/Maya_WorldmapAssets_Classic/Maya_Background_Mapobject_Piece0_Classic.png",
@@ -174737,6 +176670,121 @@
       }
     ],
     "fx": []
+  },
+  "Citadel_Mapobject_Level1": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Landmarks/Citadel_Mapobject_Level1/Citadel_Mapobject_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 115,
+        "rx": 975,
+        "ry": 974
+      }
+    ],
+    "fx": [
+      {
+        "x": 6,
+        "y": 0,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Citadel_Mapobject_Level2": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Landmarks/Citadel_Mapobject_Level2/Citadel_Mapobject_Level2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 130,
+        "rx": 975,
+        "ry": 959
+      }
+    ],
+    "fx": [
+      {
+        "x": 6,
+        "y": -10,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Citadel_Mapobject_Level3": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Landmarks/Citadel_Mapobject_Level3/Citadel_Mapobject_Level3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 142,
+        "rx": 975,
+        "ry": 947
+      }
+    ],
+    "fx": [
+      {
+        "x": 2,
+        "y": -21,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Citadel_Mapobject_Level4": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Landmarks/Citadel_Mapobject_Level4/Citadel_Mapobject_Level4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 150,
+        "rx": 975,
+        "ry": 937
+      }
+    ],
+    "fx": [
+      {
+        "x": 6,
+        "y": -32,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Citadel_Mapobject_Level5": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Landmarks/Citadel_Mapobject_Level5/Citadel_Mapobject_Level5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 156,
+        "rx": 975,
+        "ry": 931
+      }
+    ],
+    "fx": [
+      {
+        "x": 6,
+        "y": -38,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
   },
   "Royal_Tower_Classic": {
     "pid": 0,

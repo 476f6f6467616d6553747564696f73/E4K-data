@@ -160378,7 +160378,6 @@
     "comment2": "Lootbox T1",
     "lootBox": "35+1",
     "units": "214+6000#204+6000",
-    "addRiftQuestTicket": 2,
     "hiddenMead": 60000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -160389,7 +160388,6 @@
     "comment2": "Lootbox T1",
     "lootBox": "35+1",
     "units": "214+30000#204+30000",
-    "addRiftQuestTicket": 2,
     "hiddenMead": 300000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -160427,7 +160425,6 @@
     "units": "214+100000#204+100000",
     "addAshiraToken": 35,
     "hiddenMead": 1000000,
-    "addRiftQuestTicket": 2,
     "grantType": 2,
     "ignoreResourceStorageCapacity": 1
   },
@@ -160440,7 +160437,6 @@
     "units": "214+125000#204+125000",
     "addGenXP15000": 65,
     "hiddenMead": 1250000,
-    "addRiftQuestTicket": 2,
     "grantType": 2,
     "ignoreResourceStorageCapacity": 1
   },
@@ -160453,7 +160449,6 @@
     "units": "214+150000#204+150000",
     "addPlaster": 55,
     "hiddenMead": 1500000,
-    "addRiftQuestTicket": 2,
     "grantType": 2,
     "ignoreResourceStorageCapacity": 1
   },
@@ -160464,7 +160459,6 @@
     "lootBox": "37+1",
     "addRiftCoin": 6200,
     "addAshiraToken": 40,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -160474,7 +160468,6 @@
     "lootBox": "37+1",
     "addRiftCoin": 9000,
     "addGenXP15000": 80,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -160493,7 +160486,6 @@
     "lootBox": "37+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -160502,8 +160494,7 @@
     "comment2": "Lootbox T3 + General Exp",
     "addRiftCoin": 12000,
     "lootBox": "37+1",
-    "addGenXP15000": 80,
-    "addRiftQuestTicket": 2
+    "addGenXP15000": 80
   },
   {
     "rewardID": 20367,
@@ -160511,8 +160502,7 @@
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
-    "addPlaster": 350,
-    "addRiftQuestTicket": 2
+    "addPlaster": 350
   },
   {
     "rewardID": 20368,
@@ -160520,8 +160510,7 @@
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
-    "addPlaster": 350,
-    "addRiftQuestTicket": 2
+    "addPlaster": 350
   },
   {
     "rewardID": 20369,
@@ -160529,8 +160518,7 @@
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
-    "addPlaster": 350,
-    "addRiftQuestTicket": 2
+    "addPlaster": 350
   },
   {
     "rewardID": 20370,
@@ -160538,8 +160526,7 @@
     "comment2": "Lootbox T3 + General Exp",
     "addRiftCoin": 12000,
     "lootBox": "37+1",
-    "addGenXP15000": 80,
-    "addRiftQuestTicket": 2
+    "addGenXP15000": 80
   },
   {
     "rewardID": 20371,
@@ -160547,8 +160534,7 @@
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
-    "addPlaster": 350,
-    "addRiftQuestTicket": 2
+    "addPlaster": 350
   },
   {
     "rewardID": 20372,
@@ -160556,8 +160542,7 @@
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
-    "addPlaster": 350,
-    "addRiftQuestTicket": 2
+    "addPlaster": 350
   },
   {
     "rewardID": 20373,
@@ -160565,8 +160550,7 @@
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
-    "addPlaster": 350,
-    "addRiftQuestTicket": 2
+    "addPlaster": 350
   },
   {
     "rewardID": 20374,
@@ -160574,8 +160558,7 @@
     "comment2": "Lootbox T3 + General Exp",
     "addRiftCoin": 12000,
     "lootBox": "37+1",
-    "addGenXP15000": 80,
-    "addRiftQuestTicket": 2
+    "addGenXP15000": 80
   },
   {
     "rewardID": 9412,
@@ -161211,7 +161194,6 @@
     "comment2": "Lootbox T1",
     "lootBox": "41+1",
     "units": "214+3000#204+3000",
-    "addRiftQuestTicket": 2,
     "hiddenMead": 30000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -161222,7 +161204,6 @@
     "comment2": "Lootbox T1",
     "lootBox": "41+1",
     "units": "214+15000#204+15000",
-    "addRiftQuestTicket": 2,
     "hiddenMead": 150000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -161234,7 +161215,6 @@
     "lootBox": "41+1",
     "addRiftCoin": 100,
     "units": "214+17000#204+17000",
-    "addRiftQuestTicket": 2,
     "hiddenMead": 170000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -161246,7 +161226,6 @@
     "lootBox": "41+1",
     "addRiftCoin": 630,
     "units": "214+25000#204+25000",
-    "addRiftQuestTicket": 2,
     "hiddenMead": 250000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -161260,7 +161239,6 @@
     "units": "214+50000#204+50000",
     "addAshiraToken": 35,
     "hiddenMead": 500000,
-    "addRiftQuestTicket": 2,
     "grantType": 2,
     "ignoreResourceStorageCapacity": 1
   },
@@ -161273,7 +161251,6 @@
     "units": "214+62500#204+62500",
     "addGenXP15000": 65,
     "hiddenMead": 625000,
-    "addRiftQuestTicket": 2,
     "grantType": 2,
     "ignoreResourceStorageCapacity": 1
   },
@@ -161286,7 +161263,6 @@
     "units": "214+75000#204+75000",
     "addPlaster": 55,
     "hiddenMead": 750000,
-    "addRiftQuestTicket": 2,
     "grantType": 2,
     "ignoreResourceStorageCapacity": 1
   },
@@ -161297,7 +161273,6 @@
     "lootBox": "42+1",
     "addRiftCoin": 6200,
     "addAshiraToken": 40,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -161307,7 +161282,6 @@
     "lootBox": "43+1",
     "addRiftCoin": 9000,
     "addGenXP15000": 80,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -161326,7 +161300,6 @@
     "lootBox": "43+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -161336,7 +161309,6 @@
     "lootBox": "43+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -161346,7 +161318,6 @@
     "addImperialDucat": 10,
     "addRiftCoin": 12000,
     "addPlaster": 350,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -161356,7 +161327,6 @@
     "addImperialDucat": 10,
     "addRiftCoin": 12000,
     "addPlaster": 350,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -161366,7 +161336,6 @@
     "lootBox": "43+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -161376,7 +161345,6 @@
     "addImperialDucat": 10,
     "addRiftCoin": 12000,
     "addPlaster": 350,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -161386,7 +161354,6 @@
     "addImperialDucat": 10,
     "addRiftCoin": 12000,
     "addPlaster": 350,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -161396,7 +161363,6 @@
     "lootBox": "43+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -161406,7 +161372,6 @@
     "addImperialDucat": 10,
     "addRiftCoin": 12000,
     "addPlaster": 350,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -161416,7 +161381,6 @@
     "lootBox": "43+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 80,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162181,7 +162145,6 @@
     "comment2": "Lootbox T1",
     "lootBox": "44+1",
     "units": "214+9000#204+9000",
-    "addRiftQuestTicket": 2,
     "hiddenMead": 90000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -162192,7 +162155,6 @@
     "comment2": "Lootbox T1",
     "lootBox": "44+1",
     "units": "214+40000#204+40000",
-    "addRiftQuestTicket": 2,
     "hiddenMead": 400000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -162204,7 +162166,6 @@
     "lootBox": "45+1",
     "addRiftCoin": 100,
     "units": "214+45000#204+45000",
-    "addRiftQuestTicket": 2,
     "hiddenMead": 450000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -162216,7 +162177,6 @@
     "lootBox": "45+1",
     "addRiftCoin": 630,
     "units": "214+50000#204+50000",
-    "addRiftQuestTicket": 2,
     "hiddenMead": 500000,
     "ignoreResourceStorageCapacity": 1,
     "grantType": 2
@@ -162230,7 +162190,6 @@
     "units": "214+100000#204+100000",
     "addAshiraToken": 35,
     "hiddenMead": 1000000,
-    "addRiftQuestTicket": 2,
     "grantType": 2,
     "ignoreResourceStorageCapacity": 1
   },
@@ -162243,7 +162202,6 @@
     "units": "214+125000#204+125000",
     "addGenXP15000": 65,
     "hiddenMead": 1250000,
-    "addRiftQuestTicket": 2,
     "grantType": 2,
     "ignoreResourceStorageCapacity": 1
   },
@@ -162256,7 +162214,6 @@
     "units": "214+150000#204+150000",
     "addPlaster": 55,
     "hiddenMead": 1500000,
-    "addRiftQuestTicket": 2,
     "grantType": 2,
     "ignoreResourceStorageCapacity": 1
   },
@@ -162267,7 +162224,6 @@
     "lootBox": "46+1",
     "addRiftCoin": 6200,
     "addAshiraToken": 40,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162277,7 +162233,6 @@
     "lootBox": "46+1",
     "addRiftCoin": 9000,
     "addGenXP15000": 80,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162296,7 +162251,6 @@
     "lootBox": "46+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 120,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162306,7 +162260,6 @@
     "lootBox": "46+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 120,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162316,7 +162269,6 @@
     "addDragonScaleSplinters": 700,
     "addRiftCoin": 12000,
     "addDragonScaleTile": 250,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162326,7 +162278,6 @@
     "addDragonScaleSplinters": 1400,
     "addRiftCoin": 12000,
     "addDragonScaleTile": 250,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162336,7 +162287,6 @@
     "lootBox": "46+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 120,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162346,7 +162296,6 @@
     "addDragonScaleSplinters": 1400,
     "addRiftCoin": 12000,
     "addDragonScaleTile": 250,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162356,7 +162305,6 @@
     "addDragonScaleSplinters": 2100,
     "addRiftCoin": 12000,
     "addDragonScaleTile": 250,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162366,7 +162314,6 @@
     "lootBox": "46+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 120,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162376,7 +162323,6 @@
     "addImperialDucat": 70,
     "addRiftCoin": 12000,
     "addPlaster": 2500,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -162386,7 +162332,6 @@
     "lootBox": "46+1",
     "addRiftCoin": 12000,
     "addGenXP15000": 120,
-    "addRiftQuestTicket": 2,
     "grantType": 2
   },
   {
@@ -163672,6 +163617,1036 @@
     "comment2": "Bronze1",
     "allianceCoatLayout": "16+604800",
     "grantType": 1
+  },
+  {
+    "rewardID": 9747,
+    "comment1": "RewardSet [X] - Activity Reward 1",
+    "comment2": "Wall T1 Tool + Gate T1 Tool",
+    "units": "568+29#570+10"
+  },
+  {
+    "rewardID": 9748,
+    "comment1": "RewardSet [X] - Activity Reward 2",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 84,
+    "addLegendaryMaterial": 50
+  },
+  {
+    "rewardID": 9964,
+    "comment1": "RewardSet [X] - Activity Reward 3",
+    "comment2": "Mead Level 10 Ranged + Mead Level 10 Melee",
+    "units": "204+600#214+600",
+    "hiddenMead": 6000
+  },
+  {
+    "rewardID": 9971,
+    "comment1": "RewardSet [X] - Activity Reward 4",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 30
+  },
+  {
+    "rewardID": 9972,
+    "comment1": "RewardSet [X] - Activity Reward 5",
+    "comment2": "WaveNumber EQ 1063 + FungalSwarm Wall Delay Weak All",
+    "equipmentIDs": 1063,
+    "units": "967+1"
+  },
+  {
+    "rewardID": 9973,
+    "comment1": "RewardSet [X] - Activity Reward 6",
+    "comment2": "Wall T1 Tool + Gate T1 Tool",
+    "units": "568+29#570+10"
+  },
+  {
+    "rewardID": 9974,
+    "comment1": "RewardSet [X] - Activity Reward 7",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 84,
+    "addLegendaryMaterial": 50
+  },
+  {
+    "rewardID": 9975,
+    "comment1": "RewardSet [X] - Activity Reward 8",
+    "comment2": "Mead Level 10 Ranged + Mead Level 10 Melee",
+    "units": "204+600#214+600",
+    "hiddenMead": 6000
+  },
+  {
+    "rewardID": 9976,
+    "comment1": "RewardSet [X] - Activity Reward 9",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 30
+  },
+  {
+    "rewardID": 9977,
+    "comment1": "RewardSet [X] - Activity Reward 10",
+    "comment2": "FungalSwarm Wall Delay Weak All + Wall T1 Tool",
+    "units": "967+1#568+28"
+  },
+  {
+    "rewardID": 9978,
+    "comment1": "RewardSet [X] - Activity Reward 11",
+    "comment2": "Gate T1 Tool + Rift Coin",
+    "units": "570+10",
+    "addRiftCoin": 83
+  },
+  {
+    "rewardID": 9979,
+    "comment1": "RewardSet [X] - Activity Reward 12",
+    "comment2": "LM + Mead Level 10 Ranged",
+    "addLegendaryMaterial": 50,
+    "units": "204+600",
+    "hiddenMead": 6000
+  },
+  {
+    "rewardID": 9980,
+    "comment1": "RewardSet [X] - Activity Reward 13",
+    "comment2": "Mead Level 10 Melee + Rift Coin",
+    "units": "214+600",
+    "addRiftCoin": 100,
+    "hiddenMead": 6000
+  },
+  {
+    "rewardID": 9981,
+    "comment1": "RewardSet [X] - Activity Reward 14",
+    "comment2": "LT + FungalSwarm Wall Delay Weak All",
+    "addLegendaryToken": 30,
+    "units": "967+1"
+  },
+  {
+    "rewardID": 9982,
+    "comment1": "RewardSet [X] - Activity Reward 15",
+    "comment2": "Wall T1 Tool + Gate T1 Tool",
+    "units": "568+28#570+10"
+  },
+  {
+    "rewardID": 9983,
+    "comment1": "RewardSet [X] - Activity Reward 16",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 83,
+    "addLegendaryMaterial": 50
+  },
+  {
+    "rewardID": 9984,
+    "comment1": "RewardSet [X] - Activity Reward 17",
+    "comment2": "Mead Level 10 Ranged + Mead Level 10 Melee",
+    "units": "204+600#214+600",
+    "hiddenMead": 6000
+  },
+  {
+    "rewardID": 9985,
+    "comment1": "RewardSet [X] - Activity Reward 18",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 100,
+    "addLegendaryToken": 30
+  },
+  {
+    "rewardID": 9986,
+    "comment1": "RewardSet [X] - Activity Reward 19",
+    "comment2": "FungalSwarm Wall Delay Weak All + Wall T1 Tool",
+    "units": "568+28"
+  },
+  {
+    "rewardID": 9987,
+    "comment1": "RewardSet [X] - Activity Reward 20",
+    "comment2": "Gate T1 Tool + Rift Coin",
+    "units": "570+10",
+    "addRiftCoin": 83
+  },
+  {
+    "rewardID": 9988,
+    "comment1": "RewardSet [X] - Activity Reward 21",
+    "comment2": "LM + Mead Level 10 Ranged",
+    "addLegendaryMaterial": 50,
+    "units": "204+600",
+    "hiddenMead": 6000
+  },
+  {
+    "rewardID": 9989,
+    "comment1": "RewardSet [X] - Activity Reward 22",
+    "comment2": "Mead Level 10 Melee + Rift Coin",
+    "units": "214+600",
+    "addRiftCoin": 100,
+    "hiddenMead": 6000
+  },
+  {
+    "rewardID": 9990,
+    "comment1": "RewardSet [X] - Activity Reward 23",
+    "comment2": "LT + FungalSwarm Wall Delay Weak All",
+    "addLegendaryToken": 30,
+    "units": "967+1"
+  },
+  {
+    "rewardID": 9991,
+    "comment1": "RewardSet [X] - Activity Reward 24",
+    "comment2": "Wall T1 Tool + Gate T1 Tool",
+    "units": "568+28#570+10"
+  },
+  {
+    "rewardID": 9992,
+    "comment1": "RewardSet [X] - Activity Reward 25",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 83,
+    "addLegendaryMaterial": 50
+  },
+  {
+    "rewardID": 9993,
+    "comment1": "RewardSet [X] - Activity Reward 26",
+    "comment2": "Wall T2 Tool + Gate T2 Tool",
+    "units": "583+150#588+50"
+  },
+  {
+    "rewardID": 9994,
+    "comment1": "RewardSet [X] - Activity Reward 27",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 84
+  },
+  {
+    "rewardID": 9995,
+    "comment1": "RewardSet [X] - Activity Reward 28",
+    "comment2": "Mead Level 10 Ranged + Mead Level 10 Melee",
+    "units": "204+1200#214+1200",
+    "hiddenMead": 12000
+  },
+  {
+    "rewardID": 9996,
+    "comment1": "RewardSet [X] - Activity Reward 29",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 120,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 9997,
+    "comment1": "RewardSet [X] - Activity Reward 30",
+    "comment2": "Melee Strength CI 30403 + Weak Infection Rate Boost",
+    "constructionItemIDs": "30403+1",
+    "units": "579+1"
+  },
+  {
+    "rewardID": 9998,
+    "comment1": "RewardSet [X] - Activity Reward 31",
+    "comment2": "Wall T2 Tool + Gate T2 Tool",
+    "units": "583+150#588+50"
+  },
+  {
+    "rewardID": 9999,
+    "comment1": "RewardSet [X] - Activity Reward 32",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 84
+  },
+  {
+    "rewardID": 10047,
+    "comment1": "RewardSet [X] - Activity Reward 33",
+    "comment2": "Mead Level 10 Ranged + Mead Level 10 Melee",
+    "units": "204+1200#214+1200",
+    "hiddenMead": 12000
+  },
+  {
+    "rewardID": 10048,
+    "comment1": "RewardSet [X] - Activity Reward 34",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 120,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 10049,
+    "comment1": "RewardSet [X] - Activity Reward 35",
+    "comment2": "Melee Strength CI 30403 + Weak Infection Rate Boost",
+    "constructionItemIDs": "30403+1",
+    "units": "579+1"
+  },
+  {
+    "rewardID": 10093,
+    "comment1": "RewardSet [X] - Activity Reward 36",
+    "comment2": "Wall T2 Tool + Gate T2 Tool",
+    "units": "583+150#588+50"
+  },
+  {
+    "rewardID": 10094,
+    "comment1": "RewardSet [X] - Activity Reward 37",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 83
+  },
+  {
+    "rewardID": 10095,
+    "comment1": "RewardSet [X] - Activity Reward 38",
+    "comment2": "Mead Level 10 Ranged + Mead Level 10 Melee",
+    "units": "204+1200#214+1200",
+    "hiddenMead": 12000
+  },
+  {
+    "rewardID": 10096,
+    "comment1": "RewardSet [X] - Activity Reward 39",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 120,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 10097,
+    "comment1": "RewardSet [X] - Activity Reward 40",
+    "comment2": "Weak Infection Rate Boost + Wall T2 Tool",
+    "units": "579+1#583+150"
+  },
+  {
+    "rewardID": 10098,
+    "comment1": "RewardSet [X] - Activity Reward 41",
+    "comment2": "Gate T2 Tool + Rift Coin",
+    "units": "588+50",
+    "addRiftCoin": 100
+  },
+  {
+    "rewardID": 10099,
+    "comment1": "RewardSet [X] - Activity Reward 42",
+    "comment2": "LM + Mead Level 10 Ranged",
+    "addLegendaryMaterial": 83,
+    "units": "204+1200",
+    "hiddenMead": 12000
+  },
+  {
+    "rewardID": 10147,
+    "comment1": "RewardSet [X] - Activity Reward 43",
+    "comment2": "Mead Level 10 Melee + Rift Coin",
+    "units": "214+1200",
+    "addRiftCoin": 120,
+    "hiddenMead": 12000
+  },
+  {
+    "rewardID": 10148,
+    "comment1": "RewardSet [X] - Activity Reward 44",
+    "comment2": "LT + Weak Infection Rate Boost",
+    "addLegendaryToken": 50,
+    "units": "579+1"
+  },
+  {
+    "rewardID": 10149,
+    "comment1": "RewardSet [X] - Activity Reward 45",
+    "comment2": "Wall T2 Tool + Gate T2 Tool",
+    "units": "583+150#588+50"
+  },
+  {
+    "rewardID": 10197,
+    "comment1": "RewardSet [X] - Activity Reward 46",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 83
+  },
+  {
+    "rewardID": 10198,
+    "comment1": "RewardSet [X] - Activity Reward 47",
+    "comment2": "Mead Level 10 Ranged + Mead Level 10 Melee",
+    "units": "204+1200#214+1200",
+    "hiddenMead": 12000
+  },
+  {
+    "rewardID": 10199,
+    "comment1": "RewardSet [X] - Activity Reward 48",
+    "comment2": "Rift Coin + LT",
+    "addRiftCoin": 120,
+    "addLegendaryToken": 50
+  },
+  {
+    "rewardID": 10200,
+    "comment1": "RewardSet [X] - Activity Reward 49",
+    "comment2": "Wall T2 Tool + Gate T2 Tool",
+    "units": "583+150#588+50"
+  },
+  {
+    "rewardID": 10277,
+    "comment1": "RewardSet [X] - Activity Reward 50",
+    "comment2": "Rift Coin + LM",
+    "addRiftCoin": 100,
+    "addLegendaryMaterial": 83
+  },
+  {
+    "rewardID": 10278,
+    "comment1": "RewardSet [X] - Activity Reward 51",
+    "comment2": "Lootbox ID 33 + Medium Infection Rate Boost",
+    "lootBox": "33+2",
+    "units": "580+6"
+  },
+  {
+    "rewardID": 10279,
+    "comment1": "RewardSet [X] - Activity Reward 52",
+    "comment2": "Rift Coin + Nomad Booster",
+    "addRiftCoin": 117,
+    "units": "405+1667"
+  },
+  {
+    "rewardID": 10280,
+    "comment1": "RewardSet [X] - Activity Reward 53",
+    "comment2": "Ranged Strength CI 30493 + FungalSwarm Wall Delay Medium All",
+    "constructionItemIDs": "30493+1",
+    "units": "971+1"
+  },
+  {
+    "rewardID": 10281,
+    "comment1": "RewardSet [X] - Activity Reward 54",
+    "comment2": "Dragon Melee Debuff Weak + Dragon Ranged Debuff Weak",
+    "units": "807+20#810+20"
+  },
+  {
+    "rewardID": 10282,
+    "comment1": "RewardSet [X] - Activity Reward 55",
+    "comment2": "Bronze PO Deco + Samurai Booster",
+    "buildingWodID": 4436,
+    "units": "511+1667"
+  },
+  {
+    "rewardID": 10319,
+    "comment1": "RewardSet [X] - Activity Reward 56",
+    "comment2": "Lootbox ID 33 + Medium Infection Rate Boost",
+    "lootBox": "33+2",
+    "units": "580+6"
+  },
+  {
+    "rewardID": 10320,
+    "comment1": "RewardSet [X] - Activity Reward 57",
+    "comment2": "Rift Coin + Nomad Booster",
+    "addRiftCoin": 117,
+    "units": "405+1667"
+  },
+  {
+    "rewardID": 10321,
+    "comment1": "RewardSet [X] - Activity Reward 58",
+    "comment2": "Ranged Strength CI 30493 + FungalSwarm Wall Delay Medium All",
+    "constructionItemIDs": "30493+1",
+    "units": "971+1"
+  },
+  {
+    "rewardID": 10322,
+    "comment1": "RewardSet [X] - Activity Reward 59",
+    "comment2": "Dragon Melee Debuff Weak + Dragon Ranged Debuff Weak",
+    "units": "807+20#810+20"
+  },
+  {
+    "rewardID": 10323,
+    "comment1": "RewardSet [X] - Activity Reward 60",
+    "comment2": "Samurai Booster + Lootbox ID 33",
+    "units": "511+1667",
+    "lootBox": "33+1"
+  },
+  {
+    "rewardID": 10324,
+    "comment1": "RewardSet [X] - Activity Reward 61",
+    "comment2": "Medium Infection Rate Boost + Rift Coin",
+    "units": "580+6",
+    "addRiftCoin": 117
+  },
+  {
+    "rewardID": 10361,
+    "comment1": "RewardSet [X] - Activity Reward 62",
+    "comment2": "Nomad Booster + FungalSwarm Wall Delay Medium All",
+    "units": "405+1667"
+  },
+  {
+    "rewardID": 10362,
+    "comment1": "RewardSet [X] - Activity Reward 63",
+    "comment2": "Dragon Melee Debuff Weak + Dragon Ranged Debuff Weak",
+    "units": "807+20#810+20"
+  },
+  {
+    "rewardID": 10379,
+    "comment1": "RewardSet [X] - Activity Reward 64",
+    "comment2": "Samurai Booster + Lootbox ID 33",
+    "units": "511+1667",
+    "lootBox": "33+1"
+  },
+  {
+    "rewardID": 10380,
+    "comment1": "RewardSet [X] - Activity Reward 65",
+    "comment2": "Medium Infection Rate Boost + Rift Coin",
+    "units": "580+6",
+    "addRiftCoin": 117
+  },
+  {
+    "rewardID": 10381,
+    "comment1": "RewardSet [X] - Activity Reward 66",
+    "comment2": "Nomad Booster + FungalSwarm Wall Delay Medium All",
+    "units": "405+1667"
+  },
+  {
+    "rewardID": 10382,
+    "comment1": "RewardSet [X] - Activity Reward 67",
+    "comment2": "Dragon Melee Debuff Weak + Dragon Ranged Debuff Weak",
+    "units": "807+20#810+20"
+  },
+  {
+    "rewardID": 10383,
+    "comment1": "RewardSet [X] - Activity Reward 68",
+    "comment2": "Samurai Booster + Lootbox ID 33",
+    "units": "511+1667",
+    "lootBox": "33+1"
+  },
+  {
+    "rewardID": 10384,
+    "comment1": "RewardSet [X] - Activity Reward 69",
+    "comment2": "Medium Infection Rate Boost + Rift Coin",
+    "units": "580+6",
+    "addRiftCoin": 116
+  },
+  {
+    "rewardID": 10385,
+    "comment1": "RewardSet [X] - Activity Reward 70",
+    "comment2": "Nomad Booster + FungalSwarm Wall Delay Medium All",
+    "units": "405+1666"
+  },
+  {
+    "rewardID": 10386,
+    "comment1": "RewardSet [X] - Activity Reward 71",
+    "comment2": "Dragon Melee Debuff Weak + Dragon Ranged Debuff Weak",
+    "units": "807+20#810+20"
+  },
+  {
+    "rewardID": 10387,
+    "comment1": "RewardSet [X] - Activity Reward 72",
+    "comment2": "Samurai Booster + Lootbox ID 33",
+    "units": "511+1666",
+    "lootBox": "33+1"
+  },
+  {
+    "rewardID": 10388,
+    "comment1": "RewardSet [X] - Activity Reward 73",
+    "comment2": "Medium Infection Rate Boost + Rift Coin",
+    "units": "580+5",
+    "addRiftCoin": 116
+  },
+  {
+    "rewardID": 10389,
+    "comment1": "RewardSet [X] - Activity Reward 74",
+    "comment2": "Nomad Booster + Dragon Melee Debuff Weak",
+    "units": "405+1666#807+20"
+  },
+  {
+    "rewardID": 10390,
+    "comment1": "RewardSet [X] - Activity Reward 75",
+    "comment2": "Dragon Ranged Debuff Weak + Samurai Booster",
+    "units": "810+20#511+1666"
+  },
+  {
+    "rewardID": 10391,
+    "comment1": "RewardSet [X] - Activity Reward 76",
+    "comment2": "Lootbox ID 33 + Medium Infection Rate Boost",
+    "lootBox": "33+2",
+    "units": "580+5"
+  },
+  {
+    "rewardID": 10392,
+    "comment1": "RewardSet [X] - Activity Reward 77",
+    "comment2": "Rift Coin + Ashira Token",
+    "addRiftCoin": 229,
+    "addAshiraToken": 3
+  },
+  {
+    "rewardID": 10393,
+    "comment1": "RewardSet [X] - Activity Reward 78",
+    "comment2": "Melee Debuff Medium + Ranged Debuff Medium",
+    "units": "808+10#811+10"
+  },
+  {
+    "rewardID": 10394,
+    "comment1": "RewardSet [X] - Activity Reward 79",
+    "comment2": "Courtyard Strength C 30422 + Ashira Token",
+    "constructionItemIDs": "30422+1",
+    "addAshiraToken": 5
+  },
+  {
+    "rewardID": 10395,
+    "comment1": "RewardSet [X] - Activity Reward 80",
+    "comment2": "Silver PO Deco + Flank Amount CI 30560",
+    "buildingWodID": 4437,
+    "constructionItemIDs": 30560
+  },
+  {
+    "rewardID": 10396,
+    "comment1": "RewardSet [X] - Activity Reward 81",
+    "comment2": "Lootbox ID 33 + Medium Infection Rate Boost",
+    "lootBox": "33+2",
+    "units": "580+5"
+  },
+  {
+    "rewardID": 10397,
+    "comment1": "RewardSet [X] - Activity Reward 82",
+    "comment2": "Rift Coin + Ashira Token",
+    "addRiftCoin": 229,
+    "addAshiraToken": 3
+  },
+  {
+    "rewardID": 10398,
+    "comment1": "RewardSet [X] - Activity Reward 83",
+    "comment2": "Melee Debuff Medium + Ranged Debuff Medium",
+    "units": "808+10#811+10"
+  },
+  {
+    "rewardID": 10399,
+    "comment1": "RewardSet [X] - Activity Reward 84",
+    "comment2": "Courtyard Strength C 30422 + Ashira Token",
+    "constructionItemIDs": "30422+1",
+    "addAshiraToken": 5
+  },
+  {
+    "rewardID": 10400,
+    "comment1": "RewardSet [X] - Activity Reward 85",
+    "comment2": "Lootbox ID 33 + Medium Infection Rate Boost",
+    "lootBox": "33+2",
+    "units": "580+5"
+  },
+  {
+    "rewardID": 10401,
+    "comment1": "RewardSet [X] - Activity Reward 86",
+    "comment2": "Rift Coin + Ashira Token",
+    "addRiftCoin": 229,
+    "addAshiraToken": 3
+  },
+  {
+    "rewardID": 10402,
+    "comment1": "RewardSet [X] - Activity Reward 87",
+    "comment2": "Melee Debuff Medium + Ranged Debuff Medium",
+    "units": "808+10#811+10"
+  },
+  {
+    "rewardID": 10403,
+    "comment1": "RewardSet [X] - Activity Reward 88",
+    "comment2": "Ashira Token + Lootbox ID 33",
+    "addAshiraToken": 5,
+    "lootBox": "33+2"
+  },
+  {
+    "rewardID": 10404,
+    "comment1": "RewardSet [X] - Activity Reward 89",
+    "comment2": "Medium Infection Rate Boost + Rift Coin",
+    "units": "580+5",
+    "addRiftCoin": 229
+  },
+  {
+    "rewardID": 10405,
+    "comment1": "RewardSet [X] - Activity Reward 90",
+    "comment2": "Ashira Token + Melee Debuff Medium",
+    "addAshiraToken": 3,
+    "units": "808+10"
+  },
+  {
+    "rewardID": 10406,
+    "comment1": "RewardSet [X] - Activity Reward 91",
+    "comment2": "Ranged Debuff Medium + Ashira Token",
+    "units": "811+10",
+    "addAshiraToken": 5
+  },
+  {
+    "rewardID": 10407,
+    "comment1": "RewardSet [X] - Activity Reward 92",
+    "comment2": "Lootbox ID 33 + Medium Infection Rate Boost",
+    "lootBox": "33+2",
+    "units": "580+5"
+  },
+  {
+    "rewardID": 10408,
+    "comment1": "RewardSet [X] - Activity Reward 93",
+    "comment2": "Rift Coin + Ashira Token",
+    "addRiftCoin": 228,
+    "addAshiraToken": 3
+  },
+  {
+    "rewardID": 10409,
+    "comment1": "RewardSet [X] - Activity Reward 94",
+    "comment2": "Melee Debuff Medium + Ranged Debuff Medium",
+    "units": "808+10#811+10"
+  },
+  {
+    "rewardID": 10410,
+    "comment1": "RewardSet [X] - Activity Reward 95",
+    "comment2": "Ashira Token + Lootbox ID 33",
+    "addAshiraToken": 5,
+    "lootBox": "33+1"
+  },
+  {
+    "rewardID": 10411,
+    "comment1": "RewardSet [X] - Activity Reward 96",
+    "comment2": "Medium Infection Rate Boost + Rift Coin",
+    "units": "580+5",
+    "addRiftCoin": 228
+  },
+  {
+    "rewardID": 10412,
+    "comment1": "RewardSet [X] - Activity Reward 97",
+    "comment2": "Ashira Token + Melee Debuff Medium",
+    "addAshiraToken": 3,
+    "units": "808+10"
+  },
+  {
+    "rewardID": 10413,
+    "comment1": "RewardSet [X] - Activity Reward 98",
+    "comment2": "Ranged Debuff Medium + Ashira Token",
+    "units": "811+10",
+    "addAshiraToken": 5
+  },
+  {
+    "rewardID": 10414,
+    "comment1": "RewardSet [X] - Activity Reward 99",
+    "comment2": "Lootbox ID 33 + Medium Infection Rate Boost",
+    "lootBox": "33+1",
+    "units": "580+5"
+  },
+  {
+    "rewardID": 10415,
+    "comment1": "RewardSet [X] - Activity Reward 100",
+    "comment2": "Rift Coin + Ashira Token",
+    "addRiftCoin": 228,
+    "addAshiraToken": 2
+  },
+  {
+    "rewardID": 10416,
+    "comment1": "RewardSet [X] - Activity Reward 101",
+    "comment2": "GenXP 15000 + Sceat",
+    "addGenXP15000": 5,
+    "addSceatToken": 167
+  },
+  {
+    "rewardID": 10417,
+    "comment1": "RewardSet [X] - Activity Reward 102",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 167,
+    "addImperialDucat": 9
+  },
+  {
+    "rewardID": 10418,
+    "comment1": "RewardSet [X] - Activity Reward 103",
+    "comment2": "HoL SmallBox ID 33 + Front Amount CI 30453",
+    "lootBox": "33+3",
+    "constructionItemIDs": 30453
+  },
+  {
+    "rewardID": 10419,
+    "comment1": "RewardSet [X] - Activity Reward 104",
+    "comment2": "GenXP 15000 + Plaster",
+    "addGenXP15000": 7,
+    "addPlaster": 167
+  },
+  {
+    "rewardID": 10420,
+    "comment1": "RewardSet [X] - Activity Reward 105",
+    "comment2": "Rift Coin + Gold PO Deco",
+    "addRiftCoin": 167,
+    "buildingWodID": 4438
+  },
+  {
+    "rewardID": 10421,
+    "comment1": "RewardSet [X] - Activity Reward 106",
+    "comment2": "GenXP 15000 + Sceat",
+    "addGenXP15000": 4,
+    "addSceatToken": 167
+  },
+  {
+    "rewardID": 10422,
+    "comment1": "RewardSet [X] - Activity Reward 107",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 167,
+    "addImperialDucat": 9
+  },
+  {
+    "rewardID": 10423,
+    "comment1": "RewardSet [X] - Activity Reward 108",
+    "comment2": "HoL SmallBox ID 33 + GenXP 15000",
+    "lootBox": "33+3",
+    "addGenXP15000": 7
+  },
+  {
+    "rewardID": 10424,
+    "comment1": "RewardSet [X] - Activity Reward 109",
+    "comment2": "Plaster + Rift Coin",
+    "addPlaster": 167,
+    "addRiftCoin": 167
+  },
+  {
+    "rewardID": 10425,
+    "comment1": "RewardSet [X] - Activity Reward 110",
+    "comment2": "GenXP 15000 + Sceat",
+    "addGenXP15000": 4,
+    "addSceatToken": 167
+  },
+  {
+    "rewardID": 10426,
+    "comment1": "RewardSet [X] - Activity Reward 111",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 167,
+    "addImperialDucat": 8
+  },
+  {
+    "rewardID": 10427,
+    "comment1": "RewardSet [X] - Activity Reward 112",
+    "comment2": "HoL SmallBox ID 33 + GenXP 15000",
+    "lootBox": "33+3",
+    "addGenXP15000": 7
+  },
+  {
+    "rewardID": 10428,
+    "comment1": "RewardSet [X] - Activity Reward 113",
+    "comment2": "Plaster + Rift Coin",
+    "addPlaster": 167,
+    "addRiftCoin": 167
+  },
+  {
+    "rewardID": 10429,
+    "comment1": "RewardSet [X] - Activity Reward 114",
+    "comment2": "GenXP 15000 + Sceat",
+    "addGenXP15000": 4,
+    "addSceatToken": 167
+  },
+  {
+    "rewardID": 10430,
+    "comment1": "RewardSet [X] - Activity Reward 115",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 167,
+    "addImperialDucat": 8
+  },
+  {
+    "rewardID": 10431,
+    "comment1": "RewardSet [X] - Activity Reward 116",
+    "comment2": "HoL SmallBox ID 33 + GenXP 15000",
+    "lootBox": "33+2",
+    "addGenXP15000": 7
+  },
+  {
+    "rewardID": 10432,
+    "comment1": "RewardSet [X] - Activity Reward 117",
+    "comment2": "Plaster + Rift Coin",
+    "addPlaster": 167,
+    "addRiftCoin": 167
+  },
+  {
+    "rewardID": 10433,
+    "comment1": "RewardSet [X] - Activity Reward 118",
+    "comment2": "GenXP 15000 + Sceat",
+    "addGenXP15000": 4,
+    "addSceatToken": 166
+  },
+  {
+    "rewardID": 10434,
+    "comment1": "RewardSet [X] - Activity Reward 119",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 166,
+    "addImperialDucat": 8
+  },
+  {
+    "rewardID": 10435,
+    "comment1": "RewardSet [X] - Activity Reward 120",
+    "comment2": "HoL SmallBox ID 33 + GenXP 15000",
+    "lootBox": "33+2",
+    "addGenXP15000": 6
+  },
+  {
+    "rewardID": 10436,
+    "comment1": "RewardSet [X] - Activity Reward 121",
+    "comment2": "Plaster + Rift Coin",
+    "addPlaster": 166,
+    "addRiftCoin": 166
+  },
+  {
+    "rewardID": 10437,
+    "comment1": "RewardSet [X] - Activity Reward 122",
+    "comment2": "GenXP 15000 + Sceat",
+    "addGenXP15000": 4,
+    "addSceatToken": 166
+  },
+  {
+    "rewardID": 10672,
+    "comment1": "RewardSet [X] - Activity Reward 123",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 166,
+    "addImperialDucat": 8
+  },
+  {
+    "rewardID": 10673,
+    "comment1": "RewardSet [X] - Activity Reward 124",
+    "comment2": "HoL SmallBox ID 33 + GenXP 15000",
+    "lootBox": "33+2",
+    "addGenXP15000": 6
+  },
+  {
+    "rewardID": 10674,
+    "comment1": "RewardSet [X] - Activity Reward 125",
+    "comment2": "Plaster + Rift Coin",
+    "addPlaster": 166,
+    "addRiftCoin": 166
+  },
+  {
+    "rewardID": 10675,
+    "comment1": "RewardSet [X] - Activity Reward 126",
+    "comment2": "GenXP 15000 + Plaster",
+    "addGenXP15000": 8,
+    "addPlaster": 204
+  },
+  {
+    "rewardID": 10676,
+    "comment1": "RewardSet [X] - Activity Reward 127",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 158,
+    "addImperialDucat": 11
+  },
+  {
+    "rewardID": 10677,
+    "comment1": "RewardSet [X] - Activity Reward 128",
+    "comment2": "HoL LargeBox ID 34 + Rift Coin",
+    "lootBox": "34+1",
+    "addRiftCoin": 158
+  },
+  {
+    "rewardID": 10678,
+    "comment1": "RewardSet [X] - Activity Reward 129",
+    "comment2": "Dragon Tile + Dragon Scale",
+    "addDragonScaleTile": 572,
+    "addDragonScaleSplinters": 500
+  },
+  {
+    "rewardID": 10679,
+    "comment1": "RewardSet [X] - Activity Reward 130",
+    "comment2": "Diamond PO Deco + GenXP 15000",
+    "buildingWodID": 4439,
+    "addGenXP15000": 8
+  },
+  {
+    "rewardID": 10680,
+    "comment1": "RewardSet [X] - Activity Reward 131",
+    "comment2": "Plaster + Rift Coin",
+    "addPlaster": 204,
+    "addRiftCoin": 157
+  },
+  {
+    "rewardID": 10681,
+    "comment1": "RewardSet [X] - Activity Reward 132",
+    "comment2": "Ducat + Rift Coin",
+    "addImperialDucat": 11,
+    "addRiftCoin": 157
+  },
+  {
+    "rewardID": 10682,
+    "comment1": "RewardSet [X] - Activity Reward 133",
+    "comment2": "Dragon Tile + Dragon Scale",
+    "addDragonScaleTile": 572,
+    "addDragonScaleSplinters": 500
+  },
+  {
+    "rewardID": 10683,
+    "comment1": "RewardSet [X] - Activity Reward 134",
+    "comment2": "GenXP 15000 + Plaster",
+    "addGenXP15000": 8,
+    "addPlaster": 214
+  },
+  {
+    "rewardID": 10684,
+    "comment1": "RewardSet [X] - Activity Reward 135",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 157,
+    "addImperialDucat": 11
+  },
+  {
+    "rewardID": 10685,
+    "comment1": "RewardSet [X] - Activity Reward 136",
+    "comment2": "Rift Coin + Dragon Tile",
+    "addRiftCoin": 157,
+    "addDragonScaleTile": 572
+  },
+  {
+    "rewardID": 10686,
+    "comment1": "RewardSet [X] - Activity Reward 137",
+    "comment2": "Dragon Scale + GenXP 15000",
+    "addDragonScaleSplinters": 500,
+    "addGenXP15000": 8
+  },
+  {
+    "rewardID": 10687,
+    "comment1": "RewardSet [X] - Activity Reward 138",
+    "comment2": "Plaster + Rift Coin",
+    "addPlaster": 214,
+    "addRiftCoin": 157
+  },
+  {
+    "rewardID": 10688,
+    "comment1": "RewardSet [X] - Activity Reward 139",
+    "comment2": "Ducat + Rift Coin",
+    "addImperialDucat": 11,
+    "addRiftCoin": 157
+  },
+  {
+    "rewardID": 10689,
+    "comment1": "RewardSet [X] - Activity Reward 140",
+    "comment2": "Dragon Tile + Dragon Scale",
+    "addDragonScaleTile": 571,
+    "addDragonScaleSplinters": 500
+  },
+  {
+    "rewardID": 10690,
+    "comment1": "RewardSet [X] - Activity Reward 141",
+    "comment2": "GenXP 15000 + Plaster",
+    "addGenXP15000": 8,
+    "addPlaster": 214
+  },
+  {
+    "rewardID": 10691,
+    "comment1": "RewardSet [X] - Activity Reward 142",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 157,
+    "addImperialDucat": 11
+  },
+  {
+    "rewardID": 10692,
+    "comment1": "RewardSet [X] - Activity Reward 143",
+    "comment2": "Rift Coin + Dragon Tile",
+    "addRiftCoin": 157,
+    "addDragonScaleTile": 571
+  },
+  {
+    "rewardID": 10693,
+    "comment1": "RewardSet [X] - Activity Reward 144",
+    "comment2": "Dragon Scale + GenXP 15000",
+    "addDragonScaleSplinters": 500,
+    "addGenXP15000": 8
+  },
+  {
+    "rewardID": 10694,
+    "comment1": "RewardSet [X] - Activity Reward 145",
+    "comment2": "Plaster + Rift Coin",
+    "addPlaster": 214,
+    "addRiftCoin": 157
+  },
+  {
+    "rewardID": 10695,
+    "comment1": "RewardSet [X] - Activity Reward 146",
+    "comment2": "Ducat + Rift Coin",
+    "addImperialDucat": 10,
+    "addRiftCoin": 157
+  },
+  {
+    "rewardID": 10696,
+    "comment1": "RewardSet [X] - Activity Reward 147",
+    "comment2": "Dragon Tile + Dragon Scale",
+    "addDragonScaleTile": 571,
+    "addDragonScaleSplinters": 500
+  },
+  {
+    "rewardID": 10697,
+    "comment1": "RewardSet [X] - Activity Reward 148",
+    "comment2": "GenXP 15000 + Plaster",
+    "addGenXP15000": 7,
+    "addPlaster": 214
+  },
+  {
+    "rewardID": 10698,
+    "comment1": "RewardSet [X] - Activity Reward 149",
+    "comment2": "Rift Coin + Ducat",
+    "addRiftCoin": 157,
+    "addImperialDucat": 10
+  },
+  {
+    "rewardID": 10699,
+    "comment1": "RewardSet [X] - Activity Reward 150",
+    "comment2": "Rift Coin + Dragon Tile",
+    "addRiftCoin": 157,
+    "addDragonScaleTile": 571
   },
   {
     "rewardID": 20001,
