@@ -1505,6 +1505,7 @@ export interface Language {
         "ci_secondary_unboostedFoodProduction_premium": string;
         "ci_secondary_unboostedHoneyProduction_premium": string;
         "ci_secondary_unboostedMeadProduction_premium": string;
+        "citadel": string;
         "coalboost_name": string;
         "coalboost_short_info": string;
         "coalboost_upgrade_info": string;
@@ -2748,6 +2749,7 @@ export interface Language {
         "bonusFusionXPChance_chance": string;
         "bossDungeon_attackAble_in": string;
         "btn_connectToFacebook": string;
+        "btn_join_bth2": string;
         "btn_login": string;
         "btn_play": string;
         "btn_send": string;
@@ -4612,6 +4614,19 @@ export interface Language {
         "dialog_bountyhunter_title_won": string;
         "dialog_bribetaxcollector2_copy": string;
         "dialog_bribetaxcollector_copy": string;
+        "dialog_bth2_allianceLimit_reached_desc": string;
+        "dialog_bth2_castleTransport_desc": string;
+        "dialog_bth2_castleTransport_startingLevel": string;
+        "dialog_bth2_castleTransport_subtitle": string;
+        "dialog_bth2_journeyProgress_title": string;
+        "dialog_bth2_main_allianceLimit_subtitle": string;
+        "dialog_bth2_main_journey_desc": string;
+        "dialog_bth2_main_journey_hiddenProgress": string;
+        "dialog_bth2_main_journey_subtitle": string;
+        "dialog_bth2_main_overview_title": string;
+        "dialog_bth2_preEnter_desc": string;
+        "dialog_bth2_start_header": string;
+        "dialog_bth2_start_openHelpInfo": string;
         "dialog_bugreport_description": string;
         "dialog_bugreport_title": string;
         "dialog_bugreport_yourtext": string;
@@ -11288,6 +11303,7 @@ export interface Language {
         "loc_bladecoast_tower_Hidden": string;
         "loc_capital": string;
         "loc_castle": string;
+        "loc_citadel": string;
         "loc_dialog_underworld_finalboss": string;
         "loc_dialog_underworld_surrounding": string;
         "loc_dialog_underworld_tower": string;
@@ -20627,6 +20643,7 @@ export interface Language {
         "bribe_taxcollector": string;
         "bribe_taxcollector_copy": string;
         "bribe_taxcollector_tooltipp": string;
+        "bth2_eventName_short_title": string;
         "btn_discord_loginScreen_desc": string;
         "btn_ignoredPlayers": string;
         "btn_joinBeyondTheHorizon_Maya": string;
