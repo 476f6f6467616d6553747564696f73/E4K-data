@@ -846,7 +846,8 @@
     "errorCode_454": "No se puede iniciar una misión mientras otra está activa.",
     "errorCode_455": "No se puede iniciar la misión mientras está en tiempo de espera.",
     "errorCode_459": "Esta misión está actualmente ocupada por otro jugador",
-    "errorCode_400": "La información de la misión ha cambiado."
+    "errorCode_400": "La información de la misión ha cambiado.",
+    "errorCode_398": "No puedes hacer donaciones a los fondos de la alianza porque se ha alcanzado la capacidad máxima."
   },
   "buildings_and_decorations": {
     "bakery_name": "Panadería",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Tu Alianza completa permanece como un equipo para el evento.\nA continuación puedes ver el número de miembros de la Alianza que ya se han unido, así como tu Rango dentro de la Alianza en el evento.",
     "dialog_bth2_start_header": "Bienvenido al Desierto de Jade",
     "dialog_bth2_start_openHelpInfo": "Aprovecha la oportunidad y únete al Desierto de Jade",
-    "loc_citadel": "Las Ciudadelas de Alianza son el ancla de tu alianza en el mapa. Tu alianza solo puede reunir y reclutar dentro del territorio que la ciudadela proyecta a su alrededor. Mejora la ciudadela para expandir ese territorio. Una ciudadela siempre pertenece a su alianza, pero un ataque exitoso la degrada y reduce su alcance."
+    "loc_citadel": "Las Ciudadelas de Alianza son el ancla de tu alianza en el mapa. Tu alianza solo puede reunir y reclutar dentro del territorio que la ciudadela proyecta a su alrededor. Mejora la ciudadela para expandir ese territorio. Una ciudadela siempre pertenece a su alianza, pero un ataque exitoso la degrada y reduce su alcance.",
+    "dialog_bth2_castleTransport_title": "Conjuro del Castillo",
+    "dialog_bth2_main_missingConditions_info": "Aún falta: {0}",
+    "dialog_bth2_main_overview_desc": "¡Agua y sombra, señor!\n[NPC name], maestro de caravana, a su servicio.\nHe cruzado el Desierto de Jade y he vuelto para contarlo.\nCastillos que permanecen vacíos excepto por sus guardias de piedra. Oasis que aún comercian con quienes demuestran su valía.\n\nSeñores de castillos de todo el mundo ya están en camino. Nadie cruza esas arenas solo.\n\n¿Debo ser su guía allá?",
+    "dialog_bth2_start_desc1_desc": "Breve descripción de la primera función que ve el jugador [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Título de función 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Descripción breve de la segunda característica [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Título de función 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Descripción breve de la tercera característica [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Título de función 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de fuerza de combate de la unidad al atacar",

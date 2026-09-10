@@ -846,7 +846,8 @@
     "errorCode_454": "无法在另一个任务处于活动状态时启动任务。",
     "errorCode_455": "在冷却期间无法开始任务。",
     "errorCode_459": "此任务当前被另一名玩家占用",
-    "errorCode_400": "任务信息已更改。"
+    "errorCode_400": "任务信息已更改。",
+    "errorCode_398": "您无法向联盟基金捐款，因为您已经抵达了最大捐赠容量。"
   },
   "buildings_and_decorations": {
     "bakery_name": "面包房",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "你的整个联盟在此事件中保持为一个团队。\n下方你可以看到已加入的联盟成员数量，以及你在联盟内的事件级别。",
     "dialog_bth2_start_header": "欢迎来到翡翠沙漠",
     "dialog_bth2_start_openHelpInfo": "抓住机会，加入翡翠沙漠",
-    "loc_citadel": "联盟堡垒是你的联盟在地图上的锚点。你的联盟只能在堡垒周围投射的领土内集结和招募。升级堡垒以扩展该领土。堡垒始终属于其联盟，但成功的进攻会将其降级并缩小其范围。"
+    "loc_citadel": "联盟堡垒是你的联盟在地图上的锚点。你的联盟只能在堡垒周围投射的领土内集结和招募。升级堡垒以扩展该领土。堡垒始终属于其联盟，但成功的进攻会将其降级并缩小其范围。",
+    "dialog_bth2_castleTransport_title": "城堡魔法",
+    "dialog_bth2_main_missingConditions_info": "仍缺少: {0}",
+    "dialog_bth2_main_overview_desc": "水与阴影，我的主人！\n[NPC name]，商队之主，为您效劳。\n我已穿越翡翠沙漠并归来讲述其中故事。\n堡垒空无一人，只有石头卫兵守卫。绿洲仍与那些证明自己价值的人进行贸易。\n\n来自世界各地的城堡领主已经上路。没有人独自穿越那片沙漠。\n\n我可以做您的向导吗？",
+    "dialog_bth2_start_desc1_desc": "玩家看到的第一个功能的简短描述 [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "功能标题 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "第二个功能的简短描述 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "功能标题 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "第三个功能的简短描述 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "功能标题3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 单位在攻击时的战斗力",

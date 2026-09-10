@@ -846,7 +846,8 @@
     "errorCode_454": "無法在另一個任務處於活動狀態時啟動任務。",
     "errorCode_455": "在冷卻期間無法開始任務。",
     "errorCode_459": "此任務目前被其他玩家佔據",
-    "errorCode_400": "任務資訊已更改。"
+    "errorCode_400": "任務資訊已更改。",
+    "errorCode_398": "您無法捐獻同盟基金，因為您的捐獻已達上限。"
   },
   "buildings_and_decorations": {
     "bakery_name": "麵包房",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "你的整個同盟在此事件中保持為一個團隊。\n下方你可以看到已加入的同盟成員數量，以及你在同盟內的事件等級。",
     "dialog_bth2_start_header": "歡迎來到翡翠沙漠",
     "dialog_bth2_start_openHelpInfo": "抓住機會，加入翡翠沙漠",
-    "loc_citadel": "同盟堡壘是你的同盟在地圖上的錨點。你的同盟只能在堡壘周圍投射的領土內集結和招募。升級堡壘以擴展該領土。堡壘始終屬於其同盟，但成功的進攻會將其降級並縮小其範圍。"
+    "loc_citadel": "同盟堡壘是你的同盟在地圖上的錨點。你的同盟只能在堡壘周圍投射的領土內集結和招募。升級堡壘以擴展該領土。堡壘始終屬於其同盟，但成功的進攻會將其降級並縮小其範圍。",
+    "dialog_bth2_castleTransport_title": "城堡魔法",
+    "dialog_bth2_main_missingConditions_info": "仍缺少: {0}",
+    "dialog_bth2_main_overview_desc": "水與陰影，我的主人！\n[NPC name]，商隊之主，為您效勞。\n我已穿越翡翠沙漠並歸來講述其中故事。\n堡壘空無一人，只有石頭衛兵守衛。綠洲仍與那些證明自己價值的人進行貿易。\n\n來自世界各地的城堡領主已經上路。沒有人獨自穿越那片沙漠。\n\n我可以做您的嚮導嗎？",
+    "dialog_bth2_start_desc1_desc": "玩家看到的第一個功能的簡短描述 [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "功能標題 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "第二個功能的簡短描述 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "功能標題 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "第三個功能的簡短描述 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "功能標題3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 單位攻擊時的戰鬥力",

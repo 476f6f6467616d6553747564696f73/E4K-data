@@ -846,7 +846,8 @@
     "errorCode_454": "Non puoi avviare una missione mentre unaltra è attiva.",
     "errorCode_455": "Impossibile avviare la missione mentre è in cooldown.",
     "errorCode_459": "Questa missione è attualmente occupata da un altro giocatore",
-    "errorCode_400": "Le informazioni sulla missione sono cambiate."
+    "errorCode_400": "Le informazioni sulla missione sono cambiate.",
+    "errorCode_398": "Non puoi effettuare donazioni nelle casse della coalizione poiché è stata raggiunta la capacità massima."
   },
   "buildings_and_decorations": {
     "bakery_name": "Fornaio",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Lintera Coalizione rimane come una sola squadra per levento.\nDi seguito puoi vedere il numero di membri della Coalizione che si sono già uniti, nonché il tuo Rango allinterno della Coalizione per questo evento.",
     "dialog_bth2_start_header": "Benvenuto nel Deserto di Giada",
     "dialog_bth2_start_openHelpInfo": "Cogli loccasione e unisciti al Deserto di Giada",
-    "loc_citadel": "Le Cittadelle di Coalizione sono lancora della tua coalizione sulla mappa. La tua coalizione può raccogliere e reclutare solo nel territorio che la cittadella proietta intorno a sé. Potenzia la cittadella per espandere quel territorio. Una cittadella appartiene sempre alla sua coalizione, ma un attacco riuscito la degrada e riduce la sua portata."
+    "loc_citadel": "Le Cittadelle di Coalizione sono lancora della tua coalizione sulla mappa. La tua coalizione può raccogliere e reclutare solo nel territorio che la cittadella proietta intorno a sé. Potenzia la cittadella per espandere quel territorio. Una cittadella appartiene sempre alla sua coalizione, ma un attacco riuscito la degrada e riduce la sua portata.",
+    "dialog_bth2_castleTransport_title": "Incantesimo del Castello",
+    "dialog_bth2_main_missingConditions_info": "Ancora mancante: {0}",
+    "dialog_bth2_main_overview_desc": "Acqua e ombra, signore!\n[NPC name], maestro di caravana, al vostro servizio.\nHo attraversato il Deserto di Giada e sono tornato per raccontarlo.\nCastelli che rimangono vuoti se non per le loro guardie di pietra. Oasi che ancora commerciano con coloro che provano il loro valore.\n\nSignori di castelli da tutto il mondo sono già in cammino. Nessuno attraversa quelle sabbie da solo.\n\nPosso essere la vostra guida laggiù?",
+    "dialog_bth2_start_desc1_desc": "Breve descrizione della prima funzione che il giocatore vede [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Titolo funzione 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Breve descrizione della seconda funzione [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Titolo funzione 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Breve descrizione della terza funzione [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Titolo funzione 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% di forza di combattimento dellunità in attacco",

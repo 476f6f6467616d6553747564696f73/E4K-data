@@ -846,7 +846,8 @@
     "errorCode_454": "Kan inte starta en uppdrag medan en annan uppdrag är aktiv.",
     "errorCode_455": "Kan inte starta uppdrag medan det är i cooldown.",
     "errorCode_459": "Detta uppdrag är för närvarande upptaget av en annan spelare",
-    "errorCode_400": "Questinformationen har ändrats."
+    "errorCode_400": "Questinformationen har ändrats.",
+    "errorCode_398": "Du kan inte donera till allianskassan eftersom den nått sin maxkapacitet."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bageri",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Din hela Allians förblir som ett lag för evenemanget.\nNedan kan du se antalet Allians-medlemmar som redan har anslutit sig, samt din Rang inom Alliansen för evenemanget.",
     "dialog_bth2_start_header": "Välkommen till Jadöknen",
     "dialog_bth2_start_openHelpInfo": "Ta chansen och gå med i Jadöknen",
-    "loc_citadel": "Alliance Citadeler är ankaret för din allians på kartan. Din allians kan bara samla och rekrytera inom det område som citadellet projicerar omkring sig. Uppgradera citadellet för att utöka det området. En citadel tillhör alltid sin allians, men en framgångsrik attack nedgraderar den och minskar dess räckvidd."
+    "loc_citadel": "Alliance Citadeler är ankaret för din allians på kartan. Din allians kan bara samla och rekrytera inom det område som citadellet projicerar omkring sig. Uppgradera citadellet för att utöka det området. En citadel tillhör alltid sin allians, men en framgångsrik attack nedgraderar den och minskar dess räckvidd.",
+    "dialog_bth2_castleTransport_title": "Borgens Trolldom",
+    "dialog_bth2_main_missingConditions_info": "Fortfarande saknas: {0}",
+    "dialog_bth2_main_overview_desc": "Vatten och skugga, min herre!\n[NPC name], karavanledare, till er tjänst.\nJag har korsat Jadöknen och återvänt för att berätta om det.\nBorgar som står tomma förutom deras stenväktare. Oaser som fortfarande handlar med de som bevisar sitt värde.\n\nSlotsherrar från hela världen är redan på väg. Ingen korsar dessa sander ensam.\n\nSka jag vara er guide dit?",
+    "dialog_bth2_start_desc1_desc": "Kort beskrivning av den första funktionen som spelaren ser [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Funktionstitel 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Kort beskrivning av andra funktionen [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Funktionstitel 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Kort beskrivning av tredje funktionen [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Funktionstitel 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens stridskraft vid angrepp",

@@ -846,7 +846,8 @@
     "errorCode_454": "Kan ikke starte et oppdrag mens et annet oppdrag er aktivt.",
     "errorCode_455": "Kan ikke starte oppdrag når det er på avkjøling.",
     "errorCode_459": "Dette oppdraget er for øyeblikket opptatt av en annen spiller",
-    "errorCode_400": "Quest-informasjonen har endret seg."
+    "errorCode_400": "Quest-informasjonen har endret seg.",
+    "errorCode_398": "Du kan ikke donere til alliansekassa, for den har nådd maksimal kapasitet."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakeri",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Din hele Allianse forblir som ett lag for arrangementet.\nNedenfor kan du se antallet av Allianse-medlemmer som allerede har sluttet seg til, samt din Rang innen Alliansen for arrangementet.",
     "dialog_bth2_start_header": "Velkommen til Jadørkenen",
     "dialog_bth2_start_openHelpInfo": "Ta sjansen og bli med i Jadørkenen",
-    "loc_citadel": "Alliance Citadeler er ankeret for alliansen din på kartet. Alliansen din kan bare samle og rekruttere innenfor territoriet som citadellet projiserer rundt seg. Oppgrader citadellet for å utvide det territoriet. En citadel tilhører alltid sin allianse, men et vellykket angrip nedgraderer det og krymper rekkevidden."
+    "loc_citadel": "Alliance Citadeler er ankeret for alliansen din på kartet. Alliansen din kan bare samle og rekruttere innenfor territoriet som citadellet projiserer rundt seg. Oppgrader citadellet for å utvide det territoriet. En citadel tilhører alltid sin allianse, men et vellykket angrip nedgraderer det og krymper rekkevidden.",
+    "dialog_bth2_castleTransport_title": "Slottets Trylleri",
+    "dialog_bth2_main_missingConditions_info": "Fortsatt manglende: {0}",
+    "dialog_bth2_main_overview_desc": "Vann og skygge, min herre!\n[NPC name], karavanfører, til deres tjeneste.\nJeg har krysset Jadørkenen og kommet tilbake for å fortelle om det.\nSlott som står tomme bortsett fra steinvaktene deres. Oaser som fortsatt handler med de som beviser sin verdi.\n\nSlottsherrer fra hele verden er allerede på vei. Ingen krysser disse sandene alene.\n\nSkal jeg være deres guide dit?",
+    "dialog_bth2_start_desc1_desc": "Kort beskrivelse av den første funksjonen som spilleren ser [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Funksjonstitel 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Kort beskrivelse av andre funksjon [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Funksjonstitel 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Kort beskrivelse av tredje funksjon [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Funksjonstitel 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens kampstyrke ved angrep",

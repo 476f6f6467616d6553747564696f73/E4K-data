@@ -846,7 +846,8 @@
     "errorCode_454": "Nie można rozpocząć misji, gdy inna misja jest aktywna.",
     "errorCode_455": "Nie można rozpocząć zadania, gdy jest w czasie odnowienia.",
     "errorCode_459": "To zadanie jest obecnie zajęte przez innego gracza",
-    "errorCode_400": "Informacje o zadaniu się zmieniły."
+    "errorCode_400": "Informacje o zadaniu się zmieniły.",
+    "errorCode_398": "Nie możesz przekazać więcej zasobów do skarbca sojuszu, ponieważ osiągnąłeś już limit."
   },
   "buildings_and_decorations": {
     "bakery_name": "Piekarnia",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Cały twój Sojusz pozostaje jako jeden zespół na to wydarzenie.\nPoniżej możesz zobaczyć liczbę członków Sojuszu, którzy już dołączyli, a także twoją Pozycję w Sojuszu na tym wydarzeniu.",
     "dialog_bth2_start_header": "Witaj na Pustyni Jadeit",
     "dialog_bth2_start_openHelpInfo": "Skorzystaj z okazji i dołącz do Pustynii Jadeit",
-    "loc_citadel": "Cytadele Sojuszu są kotwicą twojego sojuszu na mapie. Twój sojusz może zbierać i rekrutować tylko na terenie, który cytadela projektuje wokół siebie. Ulepsz cytadelę, aby rozszerzyć ten teren. Cytadela zawsze należy do swojego sojuszu, ale udany atak ją degraduje i zmniejsza jej zasięg."
+    "loc_citadel": "Cytadele Sojuszu są kotwicą twojego sojuszu na mapie. Twój sojusz może zbierać i rekrutować tylko na terenie, który cytadela projektuje wokół siebie. Ulepsz cytadelę, aby rozszerzyć ten teren. Cytadela zawsze należy do swojego sojuszu, ale udany atak ją degraduje i zmniejsza jej zasięg.",
+    "dialog_bth2_castleTransport_title": "Czar Zamku",
+    "dialog_bth2_main_missingConditions_info": "Wciąż brakuje: {0}",
+    "dialog_bth2_main_overview_desc": "Woda i cień, panie!\n[NPC name], przewodnik karawany, do waszych usług.\nPrzekroczyłem Pustynię Jadeit i wróciłem, aby o niej opowiedzieć.\nZamki stojące puste, oprócz ich kamiennych strażników. Oazy, które wciąż handlują z tymi, którzy udowadniają swoją wartość.\n\nPanowie zamków z całego świata są już w drodze. Nikt nie przekracza tych piasków sam.\n\nCzy mogę być waszym przewodnikiem tam?",
+    "dialog_bth2_start_desc1_desc": "Krótki opis pierwszej funkcji widocznej dla gracza [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Tytuł funkcji 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Krótki opis drugiej funkcji [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Tytuł funkcji 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Krótki opis trzeciej funkcji [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Tytuł funkcji 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły bojowej jednostki podczas ataku",

@@ -846,7 +846,8 @@
     "errorCode_454": "Nem lehet küldetést indítani, miközben egy másik aktív.",
     "errorCode_455": "Nem indítható a küldetés, miközben az újratöltési időn van.",
     "errorCode_459": "Ez a küldetés jelenleg egy másik játékos által van elfoglalva",
-    "errorCode_400": "A küldetés információi megváltoztak."
+    "errorCode_400": "A küldetés információi megváltoztak.",
+    "errorCode_398": "Nem adományozhatsz a szövetségi kasszába, mivel elérted a maximális kapacitását."
   },
   "buildings_and_decorations": {
     "bakery_name": "Pékség",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Az egész Szövetséged egy csapatként marad az eseményen.\nAlább láthatod a Szövetséghez már csatlakozott tagok számát, valamint a Szövetségen belüli Rangodat az eseményen.",
     "dialog_bth2_start_header": "Üdvözöljük a Jádé Sivatagban",
     "dialog_bth2_start_openHelpInfo": "Ragadd meg a lehetőséget és csatlakozz a Jádé Sivataghoz",
-    "loc_citadel": "A Szövetség Citadelláik a szövetséged horgonyai a térképen. A szövetséged csak a citadella körül kivetített területen gyűjthet és toborozhat. Fejleszd a citadellát a terület bővítéséhez. A citadella mindig a szövetségéhez tartozik, de egy sikeres támadás lefokozza és csökkenti annak hatótávolságát."
+    "loc_citadel": "A Szövetség Citadelláik a szövetséged horgonyai a térképen. A szövetséged csak a citadella körül kivetített területen gyűjthet és toborozhat. Fejleszd a citadellát a terület bővítéséhez. A citadella mindig a szövetségéhez tartozik, de egy sikeres támadás lefokozza és csökkenti annak hatótávolságát.",
+    "dialog_bth2_castleTransport_title": "Kastély Varázslat",
+    "dialog_bth2_main_missingConditions_info": "Még hiányzik: {0}",
+    "dialog_bth2_main_overview_desc": "Víz és árnyék, uram!\n[NPC name], karavánvezető, az Ön szolgálatában.\nÁtkeltem a Jádé Sivatagon és visszatértem, hogy beszámoljak róla.\nVárak, amelyek üresen állnak, csak kőből készült őreikkel. Oázisok, amelyek még mindig kereskednek azokkal, akik bizonyítják érdemességüket.\n\nVárurak a világ minden tájáról már úton vannak. Senki sem keresztezi ezeket a homokokat egyedül.\n\nLegyek az Ön vezetője ott?",
+    "dialog_bth2_start_desc1_desc": "A játékos által látott első funkció rövid leírása [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Funkció címe 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "A második funkció rövid leírása [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Funkció címe 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "A harmadik funkció rövid leírása [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Funkció címe 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% egység harciereje támadáskor",

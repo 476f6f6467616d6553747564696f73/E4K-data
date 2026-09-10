@@ -846,7 +846,8 @@
     "errorCode_454": "Não é possível iniciar uma missão enquanto outra está ativa.",
     "errorCode_455": "Não é possível iniciar a missão enquanto está em tempo de espera.",
     "errorCode_459": "Esta missão está atualmente ocupada por outro jogador",
-    "errorCode_400": "As informações da missão mudaram."
+    "errorCode_400": "As informações da missão mudaram.",
+    "errorCode_398": "Você não pode doar para os fundos da sua aliança porque já atingiu a capacidade máxima."
   },
   "buildings_and_decorations": {
     "bakery_name": "Padaria",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Sua Aliança inteira permanece como um time para o evento.\nAbaixo você pode ver o número de membros da Aliança que já se juntaram, bem como sua Patente dentro da Aliança no evento.",
     "dialog_bth2_start_header": "Bem-vindo ao Deserto de Jade",
     "dialog_bth2_start_openHelpInfo": "Aproveite a chance e junte-se ao Deserto de Jade",
-    "loc_citadel": "As Cidadelas de Aliança são a âncora de sua aliança no mapa. Sua aliança só pode reunir e recrutar dentro do território que a cidadela projeta ao seu redor. Melhore a cidadela para expandir esse território. Uma cidadela sempre pertence à sua aliança, mas um ataque bem-sucedido a degrada e reduz seu alcance."
+    "loc_citadel": "As Cidadelas de Aliança são a âncora de sua aliança no mapa. Sua aliança só pode reunir e recrutar dentro do território que a cidadela projeta ao seu redor. Melhore a cidadela para expandir esse território. Uma cidadela sempre pertence à sua aliança, mas um ataque bem-sucedido a degrada e reduz seu alcance.",
+    "dialog_bth2_castleTransport_title": "Conjuração do Castelo",
+    "dialog_bth2_main_missingConditions_info": "Ainda faltando: {0}",
+    "dialog_bth2_main_overview_desc": "Água e sombra, meu senhor!\n[NPC name], mestre de caravana, ao seu serviço.\nAtravessei o Deserto de Jade e voltei para contar.\nCastelos que permanecem vazios, exceto por seus guardas de pedra. Oásis que ainda comerciam com aqueles que provam seu valor.\n\nSenhores de castelos de todo o mundo já estão a caminho. Ninguém atravessa essas areias sozinho.\n\nDevo ser seu guia lá?",
+    "dialog_bth2_start_desc1_desc": "Breve descrição do primeiro recurso que o jogador vê [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Título do recurso 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Breve descrição do segundo recurso [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Título do recurso 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Breve descrição do terceiro recurso [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Título do recurso 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de força de combate da unidade ao atacar",

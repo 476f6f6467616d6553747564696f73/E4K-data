@@ -846,7 +846,8 @@
     "errorCode_454": "Kann eine Quest nicht starten, während eine andere aktiv ist.",
     "errorCode_455": "Kann Quest nicht starten, während es abkühlt.",
     "errorCode_459": "Diese Quest ist derzeit von einem anderen Spieler besetzt",
-    "errorCode_400": "Quest-Informationen haben sich geändert."
+    "errorCode_400": "Quest-Informationen haben sich geändert.",
+    "errorCode_398": "Ihr könnt Eurer Allianzkasse nichts mehr spenden, da Ihr das Maximum erreicht habt."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bäckerei",
@@ -13887,14 +13888,23 @@
     "dialog_bth2_castleTransport_subtitle": "Deine Burg verlegen",
     "dialog_bth2_journeyProgress_title": "Reisefortschritt",
     "dialog_bth2_main_allianceLimit_subtitle": "Nur eine begrenzte Anzahl von Allianzen kann teilnehmen",
-    "dialog_bth2_main_journey_desc": "Die Jadewüste ist ein Allianz-Event in den Sanden, die einst von den Jade-Kaisern beherrscht wurden, wo Allianzen aus der ganzen Welt um das konkurrieren, was sie hinterlassen haben.\n\nDeine Allianz spawnt um ihre Allianz-Zitadel, die das Gebiet definiert, das du nutzen kannst. Plündere Palast Festungen darin für Handwerksmaterialien und antike Jadestätten, dann stelle Werkzeuge her, um sie in Oasen-Siedlungen gegen Truppen und wiederhergestellte Jadestätten zu handeln.\n\nInvestiere antike Statuetten, um deine Zitadel auszubauen und deinen Einflussbereich zu erweitern. In der zweiten Phase fallen die Grenzen und jede Zitadel kann angegriffen werden.\n\nDie Allianz mit den meisten wiederhergestellten Statuetten gewinnt.",
+    "dialog_bth2_main_journey_desc": "Die Jadewüste ist ein Allianz-Event in den Sanden, die einst von den Jade-Kaisern beherrscht wurden, wo Allianzen aus der ganzen Welt um das konkurrieren, was sie hinterlassen haben.\n\nDeine Allianz spawnt um ihre Allianz-Zitadel, die das Gebiet definiert, das du nutzen kannst. Plündere Palast Festungen darin für Handwerksmaterialien und antike  Jade-Statuetten, dann stelle Werkzeuge her, um sie in Oasen-Siedlungen gegen Truppen und wiederhergestellte  Jade-Statuetten zu handeln.\n\nInvestiere antike Statuetten, um deine Zitadel auszubauen und deinen Einflussbereich zu erweitern. In der zweiten Phase fallen die Grenzen und jede Zitadel kann angegriffen werden.\n\nDie Allianz mit den meisten wiederhergestellten Statuetten gewinnt.",
     "dialog_bth2_main_journey_hiddenProgress": "Reisen Sie in die Jadewüste, um Ihren aktuellen Fortschritt zu sehen.",
     "dialog_bth2_main_journey_subtitle": "Zwei Wege zur Macht",
     "dialog_bth2_main_overview_title": "Übersicht",
     "dialog_bth2_preEnter_desc": "Deine gesamte Allianz bleibt als ein Team für das Event zusammen.\nUnten kannst du die Anzahl der Allianz-Mitglieder sehen, die bereits beigetreten sind, sowie deinen Rang innerhalb der Allianz für dieses Event.",
     "dialog_bth2_start_header": "Willkommen in der Jadewüste",
     "dialog_bth2_start_openHelpInfo": "Nutze die Chance und tritt der Jadewüste bei",
-    "loc_citadel": "Allianz-Zitadellen sind der Anker deiner Allianz auf der Karte. Deine Allianz kann nur innerhalb des Territoriums sammeln und rekrutieren, das die Zitadel um sich herum projiziert. Baue die Zitadel aus, um dieses Territorium zu erweitern. Eine Zitadel gehört immer ihrer Allianz, aber ein erfolgreicher Angriff stuft sie herab und verringert ihre Reichweite."
+    "loc_citadel": "Allianz-Zitadellen sind der Anker deiner Allianz auf der Karte. Deine Allianz kann nur innerhalb des Territoriums sammeln und rekrutieren, das die Zitadel um sich herum projiziert. Baue die Zitadel aus, um dieses Territorium zu erweitern. Eine Zitadel gehört immer ihrer Allianz, aber ein erfolgreicher Angriff stuft sie herab und verringert ihre Reichweite.",
+    "dialog_bth2_castleTransport_title": "Burgenzauber",
+    "dialog_bth2_main_missingConditions_info": "Noch erforderlich: {0}",
+    "dialog_bth2_main_overview_desc": "Wasser und Schatten, mein Herr!\n[NPC name], Karawanenführer, zu Ihren Diensten.\nIch habe die Jadewüste durchquert und bin zurückgekehrt, um davon zu berichten.\nBurgen, die leer stehen, nur bewacht von ihren steinernen Wächtern. Oasen, die noch immer mit denen handeln, die sich ihrer würdig erweisen.\n\nBurgherren aus aller Welt sind bereits unterwegs. Niemand durchquert diese Sande allein.\n\nSoll ich Ihr Führer dorthin sein?",
+    "dialog_bth2_start_desc1_desc": "Kurzbeschreibung der ersten Funktion, die der Spieler sieht [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Funktionstitel 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Kurzbeschreibung der zweiten Funktion [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Funktionstitel 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Kurzbeschreibung der dritten Funktion [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Funktionstitel 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Einheit Kampfkraft beim Angreifen",

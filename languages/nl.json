@@ -846,7 +846,8 @@
     "errorCode_454": "Je kunt geen quest starten terwijl een andere quest actief is.",
     "errorCode_455": "Kan de quest niet starten terwijl deze op cooldown staat.",
     "errorCode_459": "Deze quest is momenteel bezet door een andere speler",
-    "errorCode_400": "Quest-informatie is gewijzigd."
+    "errorCode_400": "Quest-informatie is gewijzigd.",
+    "errorCode_398": "Je kunt niet aan je bondgenootschapskas doneren omdat je de maximum capaciteit hebt bereikt."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakkerij",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Je hele Bondgenootschap blijft als één team voor het evenement.\nHieronder kun je het aantal Bondgenootschapsleden zien dat al is toegetreden, evenals je Rang binnen het Bondgenootschap voor dit evenement.",
     "dialog_bth2_start_header": "Welkom in de Jadewoestijn",
     "dialog_bth2_start_openHelpInfo": "Grijp je kans en sluit je aan bij de Jadewoestijn",
-    "loc_citadel": "Alliance Citadels zijn het anker van je bondgenootschap op de kaart. Je bondgenootschap kan alleen verzamelen en rekruteren binnen het grondgebied dat de citadel om zich heen projecteert. Upgrade de citadel om dat grondgebied uit te breiden. Een citadel behoort altijd tot zijn bondgenootschap, maar een succesvolle aanval degradeert het en verkleint zijn bereik."
+    "loc_citadel": "Alliance Citadels zijn het anker van je bondgenootschap op de kaart. Je bondgenootschap kan alleen verzamelen en rekruteren binnen het grondgebied dat de citadel om zich heen projecteert. Upgrade de citadel om dat grondgebied uit te breiden. Een citadel behoort altijd tot zijn bondgenootschap, maar een succesvolle aanval degradeert het en verkleint zijn bereik.",
+    "dialog_bth2_castleTransport_title": "Kasteeltoverspreuk",
+    "dialog_bth2_main_missingConditions_info": "Nog steeds ontbrekend: {0}",
+    "dialog_bth2_main_overview_desc": "Water en schaduw, mijn heer!\n[NPC name], karavanmeester, tot uw dienst.\nIk heb de Jadewoestijn doorkruist en ben teruggekeerd om erover te vertellen.\nKastelen die leeg staan, behalve voor hun stenen wachters. Oases die nog steeds handelen met degenen die hun waarde bewijzen.\n\nKasteelheren van over de hele wereld zijn al onderweg. Niemand steekt die zanden alleen over.\n\nMag ik uw gids daarheen zijn?",
+    "dialog_bth2_start_desc1_desc": "Korte beschrijving van de eerste functie die de speler ziet [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Functietitel 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Korte beschrijving van de tweede functie [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Functietitel 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Korte beschrijving van de derde functie [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Functietitel 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% eenheid vechtkracht bij aanvallen",

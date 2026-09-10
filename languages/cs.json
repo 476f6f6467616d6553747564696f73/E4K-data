@@ -846,7 +846,8 @@
     "errorCode_454": "Nelze zahájit úkol, když je aktivní jiný úkol.",
     "errorCode_455": "Nelze zahájit úkol, když je na odpočinku.",
     "errorCode_459": "Tento úkol je momentálně obsazen jiným hráčem",
-    "errorCode_400": "Informace o úkolu se změnily."
+    "errorCode_400": "Informace o úkolu se změnily.",
+    "errorCode_398": "Alianční pokladna nepřijímá další příspěvky z důvodu naplnění kapacity."
   },
   "buildings_and_decorations": {
     "bakery_name": "Pekařství",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Vaše celá Aliance zůstává jako jeden tým pro akci.\nNíže vidíte počet členů Aliance, kteří se již připojili, a také vaši Hodnost v rámci Aliance v této akci.",
     "dialog_bth2_start_header": "Vítejte v Jadeitové poušti",
     "dialog_bth2_start_openHelpInfo": "Chopte se příležitosti a připojte se k Jadeitové poušti",
-    "loc_citadel": "Aliance Citadely jsou kotvou vaší aliance na mapě. Vaše aliance může shromažďovat a verbovat pouze v území, které citadela kolem sebe vytváří. Vylepšete citadelu, abyste rozšířili toto území. Citadela vždy patří své aliance, ale úspěšný útok ji degraduje a zmenší její dosah."
+    "loc_citadel": "Aliance Citadely jsou kotvou vaší aliance na mapě. Vaše aliance může shromažďovat a verbovat pouze v území, které citadela kolem sebe vytváří. Vylepšete citadelu, abyste rozšířili toto území. Citadela vždy patří své aliance, ale úspěšný útok ji degraduje a zmenší její dosah.",
+    "dialog_bth2_castleTransport_title": "Kouzlo Hradu",
+    "dialog_bth2_main_missingConditions_info": "Stále chybí: {0}",
+    "dialog_bth2_main_overview_desc": "Voda a stín, pane!\n[NPC name], vedoucí karavany, vám k službám.\nPřekročil jsem Jadeitovou poušť a vrátil jsem se, abych o ní vyprávěl.\nHrady stojící prázdné, jen s jejich kamenými strážci. Oázy, které stále obchodují s těmi, kteří si to zaslouží.\n\nPáni hradů z celého světa jsou již na cestě. Nikdo nepřekročí ty písky sám.\n\nMohu vám být průvodcem tam?",
+    "dialog_bth2_start_desc1_desc": "Krátký popis první funkce, kterou hráč vidí [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Název funkce 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Krátký popis druhé funkce [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Název funkce 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Krátký popis třetí funkce [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Název funkce 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% bojová síla jednotky při útoku",

@@ -846,7 +846,8 @@
     "errorCode_454": "別のクエストがアクティブな間はクエストを開始できません。",
     "errorCode_455": "クエストはクールダウン中は開始できません。",
     "errorCode_459": "このクエストは現在他のプレイヤーによって占有されています",
-    "errorCode_400": "クエスト情報が変更されました。"
+    "errorCode_400": "クエスト情報が変更されました。",
+    "errorCode_398": "同盟資金に寄付できる量の上限に達しているため、これ以上は寄付できません。"
   },
   "buildings_and_decorations": {
     "bakery_name": "パン屋",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "あなたの同盟全体がイベントのために1つのチームとして留まります。\n以下では、既に参加している同盟メンバーの数と、同盟内でのあなたのイベント階級を確認できます。",
     "dialog_bth2_start_header": "翡翠の砂漠へようこそ",
     "dialog_bth2_start_openHelpInfo": "チャンスをつかんで翡翠の砂漠に参加しよう",
-    "loc_citadel": "同盟シタデルはマップ上のあなたの同盟の錨です。あなたの同盟はシタデルが周囲に投影する領土内でのみ集結と採用ができます。シタデルをアップグレードしてその領土を拡大してください。シタデルは常にその同盟に属していますが、成功した攻撃によってダウングレードされ、その範囲が縮小します。"
+    "loc_citadel": "同盟シタデルはマップ上のあなたの同盟の錨です。あなたの同盟はシタデルが周囲に投影する領土内でのみ集結と採用ができます。シタデルをアップグレードしてその領土を拡大してください。シタデルは常にその同盟に属していますが、成功した攻撃によってダウングレードされ、その範囲が縮小します。",
+    "dialog_bth2_castleTransport_title": "城の魔法",
+    "dialog_bth2_main_missingConditions_info": "まだ不足: {0}",
+    "dialog_bth2_main_overview_desc": "水と影よ、我が君よ!\n[NPC name]、隊商の長、お仕えいたします。\n翡翠の砂漠を渡り、その話をするために戻ってまいりました。\n石の番人たちを除いて空っぽの城塞。価値を証明する者たちとまだ取引をしているオアシス。\n\n世界中の城主たちはすでに道を進んでいます。誰もあの砂漠を一人では渡りません。\n\nそこへの案内人になりましょうか?",
+    "dialog_bth2_start_desc1_desc": "プレイヤーが最初に見る機能の簡潔な説明 [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "機能タイトル1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "第2の機能の簡潔な説明 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "機能タイトル 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "3番目の機能の簡単な説明 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "機能タイトル3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% ユニットの攻撃時の戦闘力",

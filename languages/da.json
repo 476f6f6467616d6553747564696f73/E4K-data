@@ -846,7 +846,8 @@
     "errorCode_454": "Kan ikke starte en quest, mens en anden quest er aktiv.",
     "errorCode_455": "Kan ikke starte quest, mens det er i cooldown.",
     "errorCode_459": "Denne quest er i øjeblikket optaget af en anden spiller",
-    "errorCode_400": "Questinfo er ændret."
+    "errorCode_400": "Questinfo er ændret.",
+    "errorCode_398": "Du kan ikke donere til alliancemidlerne, da du har nået den maksimale kapacitet."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bageri",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Din hele Alliance forbliver som ét hold til arrangementet.\nNedenfor kan du se antallet af Alliance-medlemmer, der allerede er tilmeldt, samt din Rang inden for Alliance til arrangementet.",
     "dialog_bth2_start_header": "Velkommen til Jadørken",
     "dialog_bth2_start_openHelpInfo": "Tag chancen og slut dig til Jadørken",
-    "loc_citadel": "Alliance Citadeler er ankeret for din alliance på kortet. Din alliance kan kun samle og rekruttere inden for det område, som citadellet projicerer omkring sig. Opgradér citadellet for at udvide det område. En citadel tilhører altid sin alliance, men et vellykket angreb nedgraderer det og formindsker dets rækkevidde."
+    "loc_citadel": "Alliance Citadeler er ankeret for din alliance på kortet. Din alliance kan kun samle og rekruttere inden for det område, som citadellet projicerer omkring sig. Opgradér citadellet for at udvide det område. En citadel tilhører altid sin alliance, men et vellykket angreb nedgraderer det og formindsker dets rækkevidde.",
+    "dialog_bth2_castleTransport_title": "Borgens Tryllekunst",
+    "dialog_bth2_main_missingConditions_info": "Stadig manglende: {0}",
+    "dialog_bth2_main_overview_desc": "Vand og skygge, min herre!\n[NPC name], karavanmester, til din tjeneste.\nJeg har krydset Jadørken og vendt tilbage for at fortælle om det.\nBorge, der står tomme bortset fra deres stenvagter. Oaser, der stadig handler med dem, der beviser deres værdighed.\n\nSlotsherrer fra hele verden er allerede på vej. Ingen krydser disse sande alene.\n\nSkal jeg være din guide derhen?",
+    "dialog_bth2_start_desc1_desc": "Kort beskrivelse af den første funktion, som spilleren ser [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Funktionstitel 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Kort beskrivelse af anden funktion [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Funktionstitel 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Kort beskrivelse af tredje funktion [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Funktionstitel 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhedens kampstyrke ved angreb",

@@ -846,7 +846,8 @@
     "errorCode_454": "Cant start a quest while another quest is active.",
     "errorCode_455": "Cant start quest while its on cooldown.",
     "errorCode_459": "This quest is currently occupied by another player.",
-    "errorCode_400": "Quest info has changed."
+    "errorCode_400": "Quest info has changed.",
+    "errorCode_398": "You cannot donate into your alliance funds because you reached its maximum capacity."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakery",
@@ -13895,7 +13896,16 @@
     "dialog_bth2_preEnter_desc": "Your entire alliance stays as one team for the event.\nBelow you can see the number of alliance members who have already joined, and also your event rank within the alliance.",
     "dialog_bth2_start_header": "Welcome to the Jade Desert",
     "dialog_bth2_start_openHelpInfo": "Take the chance and join the Jade Desert",
-    "loc_citadel": "Alliance Citadels are the anchor of your alliance on the map. Your alliance can only gather and recruit inside the territory the citadel projects around it. Upgrade the citadel to expand that territory. A citadel always belongs to its alliance, but a successful attack downgrades it and shrinks its reach."
+    "loc_citadel": "Alliance Citadels are the anchor of your alliance on the map. Your alliance can only gather and recruit inside the territory the citadel projects around it. Upgrade the citadel to expand that territory. A citadel always belongs to its alliance, but a successful attack downgrades it and shrinks its reach.",
+    "dialog_bth2_castleTransport_title": "Castle Conjuring",
+    "dialog_bth2_main_missingConditions_info": "Still missing: {0}",
+    "dialog_bth2_main_overview_desc": "Water and shade, mlord!\n[NPC name], caravan master, at your service.\nI have crossed the Jade Desert and come back to tell of it.\nFortresses standing empty but for their stone guards. Oases that still trade with those who prove worthy.\n\nCastle lords from across the world are already on the road. No one crosses those sands alone.\n\nShall I guide you there?",
+    "dialog_bth2_start_desc1_desc": "Short description of the first feature the player sees [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Feature title 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Short description of the second feature [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Feature title 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Short description of the third feature [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Feature title 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",

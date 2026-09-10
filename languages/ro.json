@@ -846,7 +846,8 @@
     "errorCode_454": "Nu poți începe o misiune în timp ce o altă misiune este activă.",
     "errorCode_455": "Nu se poate începe misiunea în timp ce este în perioada de așteptare.",
     "errorCode_459": "Această misiune este în prezent ocupată de un alt jucător",
-    "errorCode_400": "Informațiile despre misiune s-au schimbat."
+    "errorCode_400": "Informațiile despre misiune s-au schimbat.",
+    "errorCode_398": "Nu poți dona în fondurile alianţei tale deoarece ai atins capacitatea sa maximă."
   },
   "buildings_and_decorations": {
     "bakery_name": "Brutărie",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Întreaga ta Alianţă rămâne ca o singură echipă pentru eveniment.\nMai jos poți vedea numărul de membri ai Alianţei care s-au alăturat deja, precum și Rangul tău în cadrul Alianţei pentru acest eveniment.",
     "dialog_bth2_start_header": "Bun venit în Deșertul de Jad",
     "dialog_bth2_start_openHelpInfo": "Profită de șansă și alătură-te Deșertului de Jad",
-    "loc_citadel": "Citadelele Alianţei sunt ancora alianţei tale pe hartă. Alianţa ta poate aduna și recruta doar în teritoriul pe care citadela îl proiectează în jurul ei. Modernizează citadela pentru a extinde acel teritoriu. O citadelă aparține întotdeauna alianţei sale, dar un atac reușit o retrogradeaza și îi micșorează raza de acțiune."
+    "loc_citadel": "Citadelele Alianţei sunt ancora alianţei tale pe hartă. Alianţa ta poate aduna și recruta doar în teritoriul pe care citadela îl proiectează în jurul ei. Modernizează citadela pentru a extinde acel teritoriu. O citadelă aparține întotdeauna alianţei sale, dar un atac reușit o retrogradeaza și îi micșorează raza de acțiune.",
+    "dialog_bth2_castleTransport_title": "Vraja Castelului",
+    "dialog_bth2_main_missingConditions_info": "Încă lipsă: {0}",
+    "dialog_bth2_main_overview_desc": "Apă și umbră, domnule!\n[NPC name], maestrul caravanei, la serviciul dumneavoastră.\nAm traversat Deșertul de Jad și m-am întors pentru a povesti despre el.\nCasteluri care stau goale, cu excepția gărzilor lor de piatră. Oaze care încă mai comercializează cu cei care și-au dovedit valoarea.\n\nSeniori de casteluri din întreaga lume sunt deja pe drum. Nimeni nu traversează acele nisipuri singur.\n\nPot fi ghidul dumneavoastră acolo?",
+    "dialog_bth2_start_desc1_desc": "Descriere scurtă a primei funcții pe care o vede jucătorul [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Titlul funcției 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Descriere scurtă a celei de-a doua funcții [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Titlul funcției 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Descriere scurtă a celei de-a treia funcții [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Titlul funcției 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% puterea de luptă a unității în atac",

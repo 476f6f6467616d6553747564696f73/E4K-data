@@ -846,7 +846,8 @@
     "errorCode_454": "Impossible de commencer une quête tant quune autre est active.",
     "errorCode_455": "Impossible de commencer la quête pendant son temps de recharge.",
     "errorCode_459": "Cette quête est actuellement occupée par un autre joueur",
-    "errorCode_400": "Les informations de quête ont changé."
+    "errorCode_400": "Les informations de quête ont changé.",
+    "errorCode_398": "Vous ne pouvez pas faire de dons à la trésorerie de lalliance car vous avez atteint sa capacité maximale."
   },
   "buildings_and_decorations": {
     "bakery_name": "Boulangerie",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Toute votre Alliance reste comme une seule équipe pour lévénement.\nCi-dessous, vous pouvez voir le nombre de membres de lAlliance qui ont déjà rejoint, ainsi que votre Grade au sein de lAlliance pour cet événement.",
     "dialog_bth2_start_header": "Bienvenue au Désert de Jade",
     "dialog_bth2_start_openHelpInfo": "Saisissez loccasion et rejoignez le Désert de Jade",
-    "loc_citadel": "Les Citadelles dAlliance sont lancre de votre alliance sur la carte. Votre alliance ne peut rassembler et recruter que dans le territoire que la citadelle projette autour delle. Améliorez la citadelle pour étendre ce territoire. Une citadelle appartient toujours à son alliance, mais une attaque réussie la rétrograde et réduit sa portée."
+    "loc_citadel": "Les Citadelles dAlliance sont lancre de votre alliance sur la carte. Votre alliance ne peut rassembler et recruter que dans le territoire que la citadelle projette autour delle. Améliorez la citadelle pour étendre ce territoire. Une citadelle appartient toujours à son alliance, mais une attaque réussie la rétrograde et réduit sa portée.",
+    "dialog_bth2_castleTransport_title": "Enchantement du Château",
+    "dialog_bth2_main_missingConditions_info": "Toujours manquant: {0}",
+    "dialog_bth2_main_overview_desc": "Eau et ombre, mon seigneur!\n[NPC name], maître de caravane, à votre service.\nJai traversé le Désert de Jade et suis revenu pour en témoigner.\nDes châteaux qui se dressent vides, gardés seulement par leurs sentinelles de pierre. Des oasis qui commercent toujours avec ceux qui font preuve de valeur.\n\nDes seigneurs de châteaux du monde entier sont déjà en route. Personne ne traverse ces sables seul.\n\nPuis-je être votre guide là-bas?",
+    "dialog_bth2_start_desc1_desc": "Brève description de la première fonction que le joueur voit [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Titre de fonction 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Brève description de la deuxième fonctionnalité [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Titre de fonction 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Brève description de la troisième fonctionnalité [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Titre de la fonction 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",

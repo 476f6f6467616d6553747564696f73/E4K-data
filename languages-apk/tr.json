@@ -846,7 +846,8 @@
     "errorCode_454": "Başka bir görev aktifken bir görevi başlatamazsınız.",
     "errorCode_455": "Bekleme süresindeyken görevi başlatamazsınız.",
     "errorCode_459": "Bu görev şu anda başka bir oyuncu tarafından işgal edilmektedir",
-    "errorCode_400": "Görev bilgileri değişti."
+    "errorCode_400": "Görev bilgileri değişti.",
+    "errorCode_398": "İttifak kasana bağış yapamazsın çünkü maksimum kapasitesine ulaştın."
   },
   "buildings_and_decorations": {
     "bakery_name": "Fırın",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Tüm İttifakın etkinlik için bir takım olarak kalır.\nAşağıda İttifaka katılan üyelerin sayısını ve İttifak içindeki etkinlik Sıranızı görebilirsiniz.",
     "dialog_bth2_start_header": "Yeşim Çölüne Hoş Geldiniz",
     "dialog_bth2_start_openHelpInfo": "Fırsatı kaçırma ve Yeşim Çölüne katıl",
-    "loc_citadel": "İttifak Kaleleri haritada ittifakınızın demiridir. İttifakınız, kalenin etrafında yansıttığı bölge içinde yalnızca toplayabilir ve işe alabilir. Kaleyi yükseltip o bölgeyi genişletin. Bir kale her zaman ittifakına aittir, ancak başarılı bir saldırı onu düşürür ve erişim alanını küçültür."
+    "loc_citadel": "İttifak Kaleleri haritada ittifakınızın demiridir. İttifakınız, kalenin etrafında yansıttığı bölge içinde yalnızca toplayabilir ve işe alabilir. Kaleyi yükseltip o bölgeyi genişletin. Bir kale her zaman ittifakına aittir, ancak başarılı bir saldırı onu düşürür ve erişim alanını küçültür.",
+    "dialog_bth2_castleTransport_title": "Kale Büyüsü",
+    "dialog_bth2_main_missingConditions_info": "Hala eksik: {0}",
+    "dialog_bth2_main_overview_desc": "Su ve gölge, efendim!\n[NPC name], kervan başkanı, hizmetinizde.\nYeşim Çölünü geçtim ve bunu anlatmak için geri döndüm.\nTaş bekçileri dışında boş duran kaleler. Değerlerini kanıtlayanlarla hala ticaret yapan vahalar.\n\nDünyanın dört bir yanından kale beyleri zaten yolda. Kimse bu kumları yalnız geçmez.\n\nOrada sizin rehberiniz olabilir miyim?",
+    "dialog_bth2_start_desc1_desc": "Oyuncunun gördüğü ilk özelliğin kısa açıklaması [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Özellik Başlığı 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "İkinci özelliğin kısa açıklaması [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Özellik Başlığı 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Üçüncü özelliğin kısa açıklaması [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Özellik Başlığı 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",

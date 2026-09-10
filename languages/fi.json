@@ -846,7 +846,8 @@
     "errorCode_454": "Et voi aloittaa tehtävää, kun toinen tehtävä on aktiivinen.",
     "errorCode_455": "Ei voi aloittaa tehtävää, kun se on jäähdytyksessä.",
     "errorCode_459": "Tämä tehtävä on tällä hetkellä varattu toiselta pelaajalta",
-    "errorCode_400": "Tehtävän tiedot ovat muuttuneet."
+    "errorCode_400": "Tehtävän tiedot ovat muuttuneet.",
+    "errorCode_398": "Et voi lahjoittaa liittouman kassaan, koska sen maksimikapasiteetti on saavutettu."
   },
   "buildings_and_decorations": {
     "bakery_name": "Leipomo",
@@ -13894,7 +13895,16 @@
     "dialog_bth2_preEnter_desc": "Koko Liittumasi pysyy yhtenä joukkueena tapahtumassa.\nAlla näet Liittumaasi kuuluvien jäsenten määrän, jotka ovat jo liittyneet, sekä sijoituksesi Liittumaasi sisällä tapahtumassa.",
     "dialog_bth2_start_header": "Tervetuloa Jadekivi-aavikkoon",
     "dialog_bth2_start_openHelpInfo": "Ota tilaisuus ja liity Jadekivi-aavikkoon",
-    "loc_citadel": "Liittouman Linnoitukset ovat liittoutumasi ankkuri kartalla. Liittoutumasi voi kerätä ja värväillä vain alueella, jonka linnoitus projisoi ympärilleen. Päivitä linnoitus laajentaaksesi aluetta. Linnoitus kuuluu aina liittoutumallensa, mutta onnistunut hyökkäys alentaa sen ja pienentää sen ulottuvuutta."
+    "loc_citadel": "Liittouman Linnoitukset ovat liittoutumasi ankkuri kartalla. Liittoutumasi voi kerätä ja värväillä vain alueella, jonka linnoitus projisoi ympärilleen. Päivitä linnoitus laajentaaksesi aluetta. Linnoitus kuuluu aina liittoutumallensa, mutta onnistunut hyökkäys alentaa sen ja pienentää sen ulottuvuutta.",
+    "dialog_bth2_castleTransport_title": "Linnan Loitsu",
+    "dialog_bth2_main_missingConditions_info": "Vielä puuttuu: {0}",
+    "dialog_bth2_main_overview_desc": "Vettä ja varjoa, herrani!\n[NPC name], karavaanijohtaja, palveluksessanne.\nOlen ylittänyt Jadekivi-aavikon ja palunnut kertoakseni siitä.\nLinnat, jotka seisovat tyhjinä paitsi kivisten vartijoiden osalta. Keidas, jotka edelleen käyvät kauppaa niiden kanssa, jotka osoittavat arvonsa.\n\nLinnanherrat ympäri maailmaa ovat jo matkalla. Kukaan ei ylitä näitä hiekkoja yksin.\n\nSaanko olla oppaaksenne siellä?",
+    "dialog_bth2_start_desc1_desc": "Lyhyt kuvaus ensimmäisestä ominaisuudesta, jonka pelaaja näkee [PLACEHOLDER]",
+    "dialog_bth2_start_desc1_title": "Ominaisuuden otsikko 1 [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_desc": "Lyhyt kuvaus toisesta ominaisuudesta [PLACEHOLDER]",
+    "dialog_bth2_start_desc2_title": "Ominaisuuden otsikko 2 [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_desc": "Kolmannen ominaisuuden lyhyt kuvaus [PLACEHOLDER]",
+    "dialog_bth2_start_desc3_title": "Ominaisuuden otsikko 3 [PLACEHOLDER]"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% yksikön taisteluvoima hyökkäyksessä",
