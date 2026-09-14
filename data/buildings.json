@@ -24327,7 +24327,7 @@
     "height": 5,
     "kIDs": "0,1,2,3",
     "shopCategory": "MILITARY",
-    "constructionItemGroupIDs": "2018,2040,3046,3059,3070,2076,3099,3170,3171,3173,3194,3251,197,283,290,3388",
+    "constructionItemGroupIDs": "2018,2040,3046,3059,3070,2076,3099,3170,3171,3173,3194,3251,197,283,290,3388,3397",
     "buildingGroundType": "MILITARY",
     "costWood": 400,
     "costStone": 340,
@@ -24358,7 +24358,7 @@
     "width": 5,
     "height": 5,
     "kIDs": "0,1,2,3",
-    "constructionItemGroupIDs": "2018,2040,3046,3059,3070,2076,3099,3170,3171,3173,3194,3251,197,283,290,3388",
+    "constructionItemGroupIDs": "2018,2040,3046,3059,3070,2076,3099,3170,3171,3173,3194,3251,197,283,290,3388,3397",
     "buildingGroundType": "MILITARY",
     "costC2": 8900,
     "buildDuration": 14820,
@@ -24388,7 +24388,7 @@
     "width": 5,
     "height": 5,
     "kIDs": "0,1,2,3",
-    "constructionItemGroupIDs": "2018,2040,3046,3059,3070,2076,3099,3170,3171,3173,3194,3251,197,283,290,3388",
+    "constructionItemGroupIDs": "2018,2040,3046,3059,3070,2076,3099,3170,3171,3173,3194,3251,197,283,290,3388,3397",
     "buildingGroundType": "MILITARY",
     "costC2": 15300,
     "buildDuration": 43750,
@@ -26298,7 +26298,7 @@
     "kIDs": 0,
     "onlyInAreaTypes": 1,
     "shopCategory": "CIVIL",
-    "constructionItemGroupIDs": "3184,3185,3186,3205,3224,3225,3227,212",
+    "constructionItemGroupIDs": "3184,3185,3186,3205,3224,3225,3227,212,3396",
     "buildingGroundType": "CIVIL",
     "costWood": 29900,
     "costStone": 34600,
@@ -26334,7 +26334,7 @@
     "height": 5,
     "kIDs": 0,
     "onlyInAreaTypes": 1,
-    "constructionItemGroupIDs": "3184,3185,3186,3205,3224,3225,3227,212",
+    "constructionItemGroupIDs": "3184,3185,3186,3205,3224,3225,3227,212,3396",
     "buildingGroundType": "CIVIL",
     "costC2": 35000,
     "buildDuration": 129145,
@@ -26367,7 +26367,7 @@
     "height": 5,
     "kIDs": 0,
     "onlyInAreaTypes": 1,
-    "constructionItemGroupIDs": "3184,3185,3186,3205,3224,3225,3227,212",
+    "constructionItemGroupIDs": "3184,3185,3186,3205,3224,3225,3227,212,3396",
     "buildingGroundType": "CIVIL",
     "costC2": 48000,
     "buildDuration": 222000,
@@ -26505,7 +26505,7 @@
     "height": 5,
     "kIDs": "0,1,2,3,4",
     "shopCategory": "MILITARY",
-    "constructionItemGroupIDs": "3174,3175,3176,3206,3236,3237,3255,3256,3257,3258,3259",
+    "constructionItemGroupIDs": "3174,3175,3176,3206,3236,3237,3255,3256,3257,3258,3259,3398",
     "buildingGroundType": "MILITARY",
     "costWood": 175,
     "costStone": 130,
@@ -26542,7 +26542,7 @@
     "width": 5,
     "height": 5,
     "kIDs": "0,1,2,3,4",
-    "constructionItemGroupIDs": "3174,3175,3176,3206,3236,3237,3255,3256,3257,3258,3259",
+    "constructionItemGroupIDs": "3174,3175,3176,3206,3236,3237,3255,3256,3257,3258,3259,3398",
     "buildingGroundType": "MILITARY",
     "costWood": 3011,
     "costStone": 4218,
@@ -26577,7 +26577,7 @@
     "width": 5,
     "height": 5,
     "kIDs": "0,1,2,3,4",
-    "constructionItemGroupIDs": "3174,3175,3176,3206,3236,3237,3255,3256,3257,3258,3259",
+    "constructionItemGroupIDs": "3174,3175,3176,3206,3236,3237,3255,3256,3257,3258,3259,3398",
     "buildingGroundType": "MILITARY",
     "costC2": 15000,
     "buildDuration": 44375,
@@ -26608,7 +26608,7 @@
     "width": 5,
     "height": 5,
     "kIDs": "0,1,2,3,4",
-    "constructionItemGroupIDs": "3174,3175,3176,3206,3236,3237,3255,3256,3257,3258,3259",
+    "constructionItemGroupIDs": "3174,3175,3176,3206,3236,3237,3255,3256,3257,3258,3259,3398",
     "buildingGroundType": "MILITARY",
     "costC2": 24500,
     "buildDuration": 68250,
@@ -26638,7 +26638,7 @@
     "width": 5,
     "height": 5,
     "kIDs": "0,1,2,3,4",
-    "constructionItemGroupIDs": "3174,3175,3176,3206,3236,3237,3255,3256,3257,3258,3259",
+    "constructionItemGroupIDs": "3174,3175,3176,3206,3236,3237,3255,3256,3257,3258,3259,3398",
     "buildingGroundType": "MILITARY",
     "costC2": 37000,
     "buildDuration": 100000,
@@ -66165,7 +66165,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1719,
@@ -66196,7 +66196,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1720,
@@ -66227,7 +66227,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1721,
@@ -66258,7 +66258,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1722,
@@ -66289,7 +66289,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1704,
@@ -66320,7 +66320,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1705,
@@ -66351,7 +66351,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1706,
@@ -66382,7 +66382,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1707,
@@ -66413,7 +66413,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1708,
@@ -66444,7 +66444,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1709,
@@ -66476,7 +66476,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1710,
@@ -66508,7 +66508,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1711,
@@ -66540,7 +66540,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1712,
@@ -66572,7 +66572,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1713,
@@ -66604,7 +66604,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1714,
@@ -66637,7 +66637,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1715,
@@ -66670,7 +66670,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1716,
@@ -66703,7 +66703,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1717,
@@ -66736,7 +66736,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1718,
@@ -66770,7 +66770,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3020,
@@ -66806,7 +66806,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3021,
@@ -66842,7 +66842,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3022,
@@ -66878,7 +66878,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3023,
@@ -66914,7 +66914,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3024,
@@ -66950,7 +66950,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3025,
@@ -66986,7 +66986,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3026,
@@ -67022,7 +67022,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3027,
@@ -67058,7 +67058,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3028,
@@ -67094,7 +67094,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3029,
@@ -67130,7 +67130,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3030,
@@ -67166,7 +67166,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3031,
@@ -67202,7 +67202,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3032,
@@ -67238,7 +67238,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3033,
@@ -67274,7 +67274,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3034,
@@ -67310,7 +67310,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3035,
@@ -67346,7 +67346,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3036,
@@ -67382,7 +67382,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3037,
@@ -67418,7 +67418,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3038,
@@ -67454,7 +67454,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3039,
@@ -67489,7 +67489,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1898,
@@ -67521,7 +67521,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1899,
@@ -67553,7 +67553,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1900,
@@ -67585,7 +67585,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1901,
@@ -67617,7 +67617,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1902,
@@ -67649,7 +67649,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1903,
@@ -67681,7 +67681,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1904,
@@ -67713,7 +67713,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1905,
@@ -67745,7 +67745,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1906,
@@ -67777,7 +67777,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1907,
@@ -67809,7 +67809,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1908,
@@ -67842,7 +67842,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1909,
@@ -67875,7 +67875,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1910,
@@ -67908,7 +67908,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1911,
@@ -67941,7 +67941,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1912,
@@ -67974,7 +67974,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1913,
@@ -68008,7 +68008,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1914,
@@ -68042,7 +68042,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1915,
@@ -68076,7 +68076,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1916,
@@ -68110,7 +68110,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 1917,
@@ -68145,7 +68145,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3040,
@@ -68181,7 +68181,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3041,
@@ -68217,7 +68217,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3042,
@@ -68253,7 +68253,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3043,
@@ -68289,7 +68289,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3044,
@@ -68325,7 +68325,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3045,
@@ -68361,7 +68361,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3046,
@@ -68397,7 +68397,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3047,
@@ -68433,7 +68433,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3048,
@@ -68469,7 +68469,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3049,
@@ -68505,7 +68505,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3050,
@@ -68541,7 +68541,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3051,
@@ -68577,7 +68577,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3052,
@@ -68613,7 +68613,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3053,
@@ -68649,7 +68649,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3054,
@@ -68685,7 +68685,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3055,
@@ -68721,7 +68721,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3056,
@@ -68757,7 +68757,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3057,
@@ -68793,7 +68793,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3058,
@@ -68829,7 +68829,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 3059,
@@ -68864,7 +68864,7 @@
     "isRelicBuilding": 1,
     "potionable": 1,
     "maximumCount": 2,
-    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275"
+    "constructionItemGroupIDs": "7,8,36,37,249,250,251,252,275,3394"
   },
   {
     "wodID": 121,
@@ -74704,7 +74704,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 11.2,
-    "constructionItemGroupIDs": "47,48,266,59,307",
+    "constructionItemGroupIDs": "47,48,266,59,307,3395",
     "tempServerCostWood": 2000,
     "tempServerCostStone": 2000,
     "tempServerTime": 3600,
@@ -74744,7 +74744,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 22.2,
-    "constructionItemGroupIDs": "47,48,266,59,307",
+    "constructionItemGroupIDs": "47,48,266,59,307,3395",
     "tempServerCostWood": 2500,
     "tempServerCostStone": 2500,
     "tempServerTime": 3600
@@ -74782,7 +74782,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 33.1,
-    "constructionItemGroupIDs": "47,48,266,59,307",
+    "constructionItemGroupIDs": "47,48,266,59,307,3395",
     "tempServerCostWood": 3000,
     "tempServerCostStone": 3000,
     "tempServerTime": 3600
@@ -74820,7 +74820,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 44.1,
-    "constructionItemGroupIDs": "47,48,266,59,307",
+    "constructionItemGroupIDs": "47,48,266,59,307,3395",
     "tempServerCostWood": 4000,
     "tempServerCostStone": 4000,
     "tempServerTime": 3600
@@ -74858,7 +74858,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 55.1,
-    "constructionItemGroupIDs": "47,48,266,59,307",
+    "constructionItemGroupIDs": "47,48,266,59,307,3395",
     "tempServerCostWood": 5000,
     "tempServerCostStone": 5000,
     "tempServerTime": 3600
@@ -74896,7 +74896,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 60.1,
-    "constructionItemGroupIDs": "47,48,266,59,307",
+    "constructionItemGroupIDs": "47,48,266,59,307,3395",
     "tempServerCostWood": 6000,
     "tempServerCostStone": 6000,
     "tempServerTime": 3600
@@ -74934,7 +74934,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 60.1,
-    "constructionItemGroupIDs": "47,48,266,59,307",
+    "constructionItemGroupIDs": "47,48,266,59,307,3395",
     "tempServerCostWood": 6000,
     "tempServerCostStone": 6000,
     "tempServerTime": 3600,
@@ -74973,7 +74973,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 60.1,
-    "constructionItemGroupIDs": "47,48,266,59,307",
+    "constructionItemGroupIDs": "47,48,266,59,307,3395",
     "tempServerCostWood": 6000,
     "tempServerCostStone": 6000,
     "tempServerTime": 3600
@@ -75011,7 +75011,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 11.2,
-    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381",
+    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381,3393",
     "tempServerCostWood": 2000,
     "tempServerCostStone": 2000,
     "tempServerTime": 3600,
@@ -75051,7 +75051,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 22.2,
-    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381",
+    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381,3393",
     "tempServerCostWood": 2500,
     "tempServerCostStone": 2500,
     "tempServerTime": 3600
@@ -75089,7 +75089,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 33.1,
-    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381",
+    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381,3393",
     "tempServerCostWood": 3000,
     "tempServerCostStone": 3000,
     "tempServerTime": 3600
@@ -75127,7 +75127,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 44.1,
-    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381",
+    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381,3393",
     "tempServerCostWood": 4000,
     "tempServerCostStone": 4000,
     "tempServerTime": 3600
@@ -75165,7 +75165,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 55.1,
-    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381",
+    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381,3393",
     "tempServerCostWood": 5000,
     "tempServerCostStone": 5000,
     "tempServerTime": 3600
@@ -75203,7 +75203,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 60.1,
-    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381",
+    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381,3393",
     "tempServerCostWood": 6000,
     "tempServerCostStone": 6000,
     "tempServerTime": 3600
@@ -75241,7 +75241,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 60.1,
-    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381",
+    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381,3393",
     "tempServerCostWood": 6000,
     "tempServerCostStone": 6000,
     "tempServerTime": 3600,
@@ -75280,7 +75280,7 @@
     "isRelicBuilding": 1,
     "maximumCount": 1,
     "sortOrder": 60.1,
-    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381",
+    "constructionItemGroupIDs": "49,50,267,299,312,3373,3381,3393",
     "tempServerCostWood": 6000,
     "tempServerCostStone": 6000,
     "tempServerTime": 3600
@@ -118387,6 +118387,162 @@
     "isFusionTarget": 1,
     "sellC1": 200000,
     "areaSpecificEffects": "415&amp;15,413&amp;150,414&amp;5",
+    "tempServerDestructable": 1
+  },
+  {
+    "wodID": 4504,
+    "comment1": "Custom",
+    "comment2": "Oktoberfest Sales 2026",
+    "group": "Building",
+    "type": "ExaltedGreenOktoberfestBeerMill",
+    "width": 20,
+    "height": 20,
+    "storeable": 1,
+    "kIDs": "0,1,2,3,4",
+    "name": "Deco",
+    "level": 1,
+    "buildDuration": 600,
+    "mightValue": 8000,
+    "destructable": 0,
+    "burnable": 0,
+    "tempServerBurnable": 1,
+    "smashable": 0,
+    "decoPoints": 36800,
+    "initialFusionLevel": 7340,
+    "isFusionSource": 0,
+    "isFusionTarget": 0,
+    "sellC1": 1600000,
+    "areaSpecificEffects": "362&amp;412500,361&amp;41250,360&amp;41250",
+    "tempServerDestructable": 1
+  },
+  {
+    "wodID": 4505,
+    "comment1": "Custom",
+    "comment2": "Oktoberfest Sales 2026",
+    "group": "Building",
+    "type": "ExaltedRedOktoberfestBeerMill",
+    "width": 20,
+    "height": 20,
+    "storeable": 1,
+    "kIDs": "0,1,2,3,4",
+    "name": "Deco",
+    "level": 1,
+    "buildDuration": 600,
+    "mightValue": 8000,
+    "destructable": 0,
+    "burnable": 0,
+    "tempServerBurnable": 1,
+    "smashable": 0,
+    "decoPoints": 36800,
+    "initialFusionLevel": 7340,
+    "isFusionSource": 0,
+    "isFusionTarget": 0,
+    "sellC1": 1600000,
+    "areaSpecificEffects": "371&amp;131250,387&amp;120,370&amp;99",
+    "tempServerDestructable": 1
+  },
+  {
+    "wodID": 4506,
+    "comment1": "Custom",
+    "comment2": "Oktoberfest Sales 2026",
+    "group": "Building",
+    "type": "ExaltedPurpleOktoberfestBeerMill",
+    "width": 20,
+    "height": 20,
+    "storeable": 1,
+    "kIDs": "0,1,2,3,4",
+    "name": "Deco",
+    "level": 1,
+    "buildDuration": 600,
+    "mightValue": 8000,
+    "destructable": 0,
+    "burnable": 0,
+    "tempServerBurnable": 1,
+    "smashable": 0,
+    "decoPoints": 36800,
+    "initialFusionLevel": 7340,
+    "isFusionSource": 0,
+    "isFusionTarget": 0,
+    "sellC1": 1600000,
+    "areaSpecificEffects": "413&amp;3375,415&amp;336,414&amp;15",
+    "tempServerDestructable": 1
+  },
+  {
+    "wodID": 4507,
+    "comment1": "Custom",
+    "comment2": "Oktoberfest Sales 2026",
+    "group": "Building",
+    "type": "ExaltedGreenOktoberfestSwingRide",
+    "width": 20,
+    "height": 20,
+    "storeable": 1,
+    "kIDs": "0,1,2,3,4",
+    "name": "Deco",
+    "level": 1,
+    "buildDuration": 600,
+    "mightValue": 6000,
+    "destructable": 0,
+    "burnable": 0,
+    "tempServerBurnable": 1,
+    "smashable": 0,
+    "decoPoints": 34500,
+    "initialFusionLevel": 6880,
+    "isFusionSource": 0,
+    "isFusionTarget": 0,
+    "sellC1": 1600000,
+    "areaSpecificEffects": "362&amp;206250,361&amp;20625,360&amp;20625",
+    "tempServerDestructable": 1
+  },
+  {
+    "wodID": 4508,
+    "comment1": "Custom",
+    "comment2": "Oktoberfest Sales 2026",
+    "group": "Building",
+    "type": "ExaltedRedOktoberfestSwingRide",
+    "width": 20,
+    "height": 20,
+    "storeable": 1,
+    "kIDs": "0,1,2,3,4",
+    "name": "Deco",
+    "level": 1,
+    "buildDuration": 600,
+    "mightValue": 6000,
+    "destructable": 0,
+    "burnable": 0,
+    "tempServerBurnable": 1,
+    "smashable": 0,
+    "decoPoints": 34500,
+    "initialFusionLevel": 6880,
+    "isFusionSource": 0,
+    "isFusionTarget": 0,
+    "sellC1": 1600000,
+    "areaSpecificEffects": "371&amp;65625,387&amp;60,370&amp;49",
+    "tempServerDestructable": 1
+  },
+  {
+    "wodID": 4509,
+    "comment1": "Custom",
+    "comment2": "Oktoberfest Sales 2026",
+    "group": "Building",
+    "type": "ExaltedPurpleOktoberfestSwingRide",
+    "width": 20,
+    "height": 20,
+    "storeable": 1,
+    "kIDs": "0,1,2,3,4",
+    "name": "Deco",
+    "level": 1,
+    "buildDuration": 600,
+    "mightValue": 6000,
+    "destructable": 0,
+    "burnable": 0,
+    "tempServerBurnable": 1,
+    "smashable": 0,
+    "decoPoints": 34500,
+    "initialFusionLevel": 6880,
+    "isFusionSource": 0,
+    "isFusionTarget": 0,
+    "sellC1": 1600000,
+    "areaSpecificEffects": "413&amp;1687,415&amp;168,414&amp;7",
     "tempServerDestructable": 1
   },
   {

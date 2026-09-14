@@ -37565,6 +37565,7 @@
     "relationIDs": "999,418",
     "packagePriceC2": 700,
     "addImperialPatronageCharter": 35,
+    "minLevel": 70,
     "stock": 5
   },
   {
@@ -37576,6 +37577,7 @@
     "relationIDs": "999,418",
     "packagePriceC2": 800,
     "addImperialPatronageCharter": 35,
+    "minLevel": 70,
     "stock": 10
   },
   {
@@ -37587,6 +37589,7 @@
     "relationIDs": "999,418",
     "packagePriceC2": 900,
     "addImperialPatronageCharter": 35,
+    "minLevel": 70,
     "stock": 50
   },
   {
@@ -37598,6 +37601,7 @@
     "relationIDs": "999,418",
     "packagePriceC2": 7000,
     "addImperialPatronageCharter": 325,
+    "minLevel": 70,
     "stock": 3
   },
   {
@@ -37609,6 +37613,7 @@
     "relationIDs": "999,418",
     "packagePriceC2": 7900,
     "addImperialPatronageCharter": 325,
+    "minLevel": 70,
     "stock": 10
   },
   {
@@ -37620,6 +37625,7 @@
     "relationIDs": "999,418",
     "packagePriceC2": 8800,
     "addImperialPatronageCharter": 325,
+    "minLevel": 70,
     "stock": 50
   },
   {
@@ -37631,6 +37637,7 @@
     "relationIDs": "999,418",
     "packagePriceC2": 70000,
     "addImperialPatronageCharter": 3250,
+    "minLevel": 70,
     "stock": 1
   },
   {
@@ -37642,6 +37649,7 @@
     "relationIDs": "999,418",
     "packagePriceC2": 79000,
     "addImperialPatronageCharter": 3250,
+    "minLevel": 70,
     "stock": 2
   },
   {
@@ -37653,6 +37661,7 @@
     "relationIDs": "999,418",
     "packagePriceC2": 85000,
     "addImperialPatronageCharter": 3250,
+    "minLevel": 70,
     "stock": 3
   },
   {
@@ -37664,6 +37673,7 @@
     "relationIDs": "999,418",
     "packagePriceC2": 650000,
     "addImperialPatronageCharter": 32500,
+    "minLevel": 70,
     "stock": 1
   },
   {
@@ -37674,7 +37684,8 @@
     "sortOrder": 11,
     "relationIDs": "999,418",
     "packagePriceC2": 35,
-    "addImperialPatronageCharter": 1
+    "addImperialPatronageCharter": 1,
+    "minLevel": 70
   },
   {
     "packageID": 10779,
@@ -74163,7 +74174,8 @@
     "comment2": "Offering Shard -&gt; Carnival Gacha",
     "costOfferingShard": 5000,
     "addCarnivalMask": 100,
-    "relationIDs": "999,423"
+    "relationIDs": "999,423",
+    "minLevel": 70
   },
   {
     "packageID": 5285,
@@ -74172,7 +74184,8 @@
     "comment2": "Offering Shard -&gt; Easter Gacha",
     "costOfferingShard": 5000,
     "addHollowMoonEgg": 100,
-    "relationIDs": "999,423"
+    "relationIDs": "999,423",
+    "minLevel": 70
   },
   {
     "packageID": 5286,
@@ -74181,7 +74194,8 @@
     "comment2": "Offering Shard -&gt; Summer Gacha",
     "costOfferingShard": 5000,
     "addOrange": 100,
-    "relationIDs": "999,423"
+    "relationIDs": "999,423",
+    "minLevel": 70
   },
   {
     "packageID": 5287,
@@ -74190,7 +74204,8 @@
     "comment2": "Offering Shard -&gt; Anniversary Gacha",
     "costOfferingShard": 5000,
     "addLuckySlice": 100,
-    "relationIDs": "999,423"
+    "relationIDs": "999,423",
+    "minLevel": 70
   },
   {
     "packageID": 5554,
@@ -74199,7 +74214,8 @@
     "comment2": "Offering Shard -&gt; Anniversary Gacha",
     "costOfferingShard": 150000,
     "addLuckySlice": 100,
-    "relationIDs": "999,423"
+    "relationIDs": "999,423",
+    "minLevel": 70
   },
   {
     "packageID": 5288,
@@ -74208,7 +74224,8 @@
     "comment2": "Offering Shard -&gt; Halloween Gacha",
     "costOfferingShard": 5000,
     "addSweetTreat": 100,
-    "relationIDs": "999,423"
+    "relationIDs": "999,423",
+    "minLevel": 70
   },
   {
     "packageID": 5289,
@@ -74217,7 +74234,8 @@
     "comment2": "Offering Shard -&gt; Black Friday Gacha",
     "costOfferingShard": 5000,
     "addMerchantsKey": 100,
-    "relationIDs": "999,423"
+    "relationIDs": "999,423",
+    "minLevel": 70
   },
   {
     "packageID": 5290,
@@ -74226,7 +74244,8 @@
     "comment2": "Offering Shard -&gt; Christmas Gacha",
     "costOfferingShard": 5000,
     "addFrozenCarrot": 100,
-    "relationIDs": "999,423"
+    "relationIDs": "999,423",
+    "minLevel": 70
   },
   {
     "packageID": 5291,

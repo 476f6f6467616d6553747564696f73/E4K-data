@@ -9572,6 +9572,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenOktoberfestBeerMill": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenOktoberfestBeerMill/Deco_Building_ExaltedGreenOktoberfestBeerMill.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 381,
+        "h": 222,
+        "rx": 818,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenOktoberfestGarden": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenOktoberfestGarden/Deco_Building_ExaltedGreenOktoberfestGarden.png",
@@ -9583,6 +9598,21 @@
         "h": 259,
         "rx": 810,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenOktoberfestSwingRide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenOktoberfestSwingRide/Deco_Building_ExaltedGreenOktoberfestSwingRide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 388,
+        "h": 237,
+        "rx": 816,
+        "ry": 949
       }
     ],
     "fx": []
@@ -10397,6 +10427,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleOktoberfestBeerMill": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleOktoberfestBeerMill/Deco_Building_ExaltedPurpleOktoberfestBeerMill.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 381,
+        "h": 222,
+        "rx": 818,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleOktoberfestGarden": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleOktoberfestGarden/Deco_Building_ExaltedPurpleOktoberfestGarden.png",
@@ -10408,6 +10453,21 @@
         "h": 259,
         "rx": 810,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleOktoberfestSwingRide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleOktoberfestSwingRide/Deco_Building_ExaltedPurpleOktoberfestSwingRide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 389,
+        "h": 237,
+        "rx": 815,
+        "ry": 949
       }
     ],
     "fx": []
@@ -11102,6 +11162,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedOktoberfestBeerMill": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedOktoberfestBeerMill/Deco_Building_ExaltedRedOktoberfestBeerMill.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 381,
+        "h": 222,
+        "rx": 818,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedOktoberfestGarden": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedOktoberfestGarden/Deco_Building_ExaltedRedOktoberfestGarden.png",
@@ -11113,6 +11188,21 @@
         "h": 259,
         "rx": 810,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedOktoberfestSwingRide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedOktoberfestSwingRide/Deco_Building_ExaltedRedOktoberfestSwingRide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 388,
+        "h": 237,
+        "rx": 817,
+        "ry": 949
       }
     ],
     "fx": []
@@ -30516,6 +30606,282 @@
       {
         "x": 8,
         "y": -10,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftBarrelWorkshop": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftBarrelWorkshop/RiftBarrelWorkshop.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 173,
+        "rx": 955,
+        "ry": 867
+      }
+    ],
+    "fx": [
+      {
+        "x": 25,
+        "y": -63,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftBarrelWorkshopPremium": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftBarrelWorkshopPremium/RiftBarrelWorkshopPremium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 172,
+        "rx": 955,
+        "ry": 868
+      }
+    ],
+    "fx": [
+      {
+        "x": 25,
+        "y": -63,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftGreenhouse": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftGreenhouse/RiftGreenhouse.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 154,
+        "rx": 903,
+        "ry": 914
+      }
+    ],
+    "fx": [
+      {
+        "x": 8,
+        "y": -53,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftGreenhousePremium": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftGreenhousePremium/RiftGreenhousePremium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 154,
+        "rx": 903,
+        "ry": 914
+      }
+    ],
+    "fx": [
+      {
+        "x": 8,
+        "y": -53,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftHoneyGardens": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftHoneyGardens/RiftHoneyGardens.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 181,
+        "rx": 963,
+        "ry": 867
+      }
+    ],
+    "fx": [
+      {
+        "x": 18,
+        "y": -85,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftHoneyGardensPremium": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftHoneyGardensPremium/RiftHoneyGardensPremium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 177,
+        "rx": 963,
+        "ry": 867
+      }
+    ],
+    "fx": [
+      {
+        "x": 18,
+        "y": -85,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftHuntingLodge": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftHuntingLodge/RiftHuntingLodge.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 106,
+        "rx": 952,
+        "ry": 945
+      }
+    ],
+    "fx": [
+      {
+        "x": -1,
+        "y": -50,
+        "scale": 0.25,
+        "name": "smokeHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftHuntingLodgePremium": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftHuntingLodgePremium/RiftHuntingLodgePremium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 107,
+        "rx": 952,
+        "ry": 944
+      }
+    ],
+    "fx": [
+      {
+        "x": -1,
+        "y": -50,
+        "scale": 0.25,
+        "name": "smokeHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftStables": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftStables/RiftStables.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 125,
+        "rx": 949,
+        "ry": 917
+      }
+    ],
+    "fx": [
+      {
+        "x": 11,
+        "y": -41,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftStablesPremium": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftStablesPremium/RiftStablesPremium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 125,
+        "rx": 949,
+        "ry": 917
+      }
+    ],
+    "fx": [
+      {
+        "x": 11,
+        "y": -41,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftStronghold": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftStronghold/RiftStronghold.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 109,
+        "rx": 970,
+        "ry": 934
+      }
+    ],
+    "fx": [
+      {
+        "x": -3,
+        "y": -34,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "RiftStrongholdPremium": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/RiftStrongholdPremium/RiftStrongholdPremium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 108,
+        "rx": 970,
+        "ry": 934
+      }
+    ],
+    "fx": [
+      {
+        "x": -3,
+        "y": -34,
         "scale": 0.25,
         "name": "damageHolder",
         "rotation": 0
@@ -94712,6 +95078,21 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_are": {
+    "pid": 2,
+    "url": "x384/Icons/CI_Icons/icon_ci_effect_are.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 43,
+        "rx": 976,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_autumn": {
     "pid": 2,
     "url": "x384/Icons/CI_Icons/icon_ci_effect_autumn.png",
@@ -148292,6 +148673,21 @@
     ],
     "fx": []
   },
+  "global_primetime_background_Oktoberfest2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Oktoberfest2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 867,
+        "rx": 615,
+        "ry": 566
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_background_Spring2024": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Spring2024.png",
@@ -148370,6 +148766,21 @@
   "global_primetime_hub_teaser_generic3": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_generic3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 667,
+        "rx": 615,
+        "ry": 666
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_hub_teaser_Oktoberfest2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Oktoberfest2024.png",
     "frames": [
       {
         "x": 0,
@@ -148498,6 +148909,21 @@
         "h": 493,
         "rx": 687,
         "ry": 753
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_Oktoberfest2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Oktoberfest2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 651,
+        "h": 587,
+        "rx": 674,
+        "ry": 706
       }
     ],
     "fx": []
@@ -149390,6 +149816,21 @@
   "Teaser_OffersHub_Big_WhaleChest_15": {
     "pid": 1,
     "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_15.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 333,
+        "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_16": {
+    "pid": 1,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_16.png",
     "frames": [
       {
         "x": 0,
@@ -154025,6 +154466,510 @@
         "h": 51,
         "rx": 956,
         "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Moat_Bridge_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Basic_Moat_Classic/Jade_Basic_Moat_Bridge_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 58,
+        "rx": 969,
+        "ry": 992
+      }
+    ],
+    "fx": [
+      {
+        "x": 48,
+        "y": -5,
+        "scale": 0.25,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "Jade_Basic_Moat_Corner0_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Basic_Moat_Classic/Jade_Basic_Moat_Corner0_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 50,
+        "rx": 970,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Moat_Corner1_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Basic_Moat_Classic/Jade_Basic_Moat_Corner1_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 47,
+        "rx": 969,
+        "ry": 1009
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Moat_Corner2_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Basic_Moat_Classic/Jade_Basic_Moat_Corner2_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 62,
+        "rx": 989,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Moat_Corner3_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Basic_Moat_Classic/Jade_Basic_Moat_Corner3_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 62,
+        "rx": 937,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Moat_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Basic_Moat_Classic/Jade_Basic_Moat_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 50,
+        "rx": 960,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Moat_Level1_Detail0_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Basic_Moat_Classic/Jade_Basic_Moat_Level1_Detail0_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 11,
+        "h": 12,
+        "rx": 1038,
+        "ry": 1023
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Moat_Level1_Detail1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Basic_Moat_Classic/Jade_Basic_Moat_Level1_Detail1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 11,
+        "h": 11,
+        "rx": 1038,
+        "ry": 1025
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Moat_Level1_Detail2_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Basic_Moat_Classic/Jade_Basic_Moat_Level1_Detail2_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 7,
+        "h": 12,
+        "rx": 1043,
+        "ry": 1017
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Moat_Part0_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Basic_Moat_Classic/Jade_Basic_Moat_Part0_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 31,
+        "rx": 1019,
+        "ry": 1009
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Basic_Moat_Part1_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Basic_Moat_Classic/Jade_Basic_Moat_Part1_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 30,
+        "rx": 1019,
+        "ry": 1009
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Buildinglot_Moat_Bridge_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Buildinglot_Moat_Classic/Jade_Buildinglot_Moat_Bridge_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 48,
+        "rx": 969,
+        "ry": 999
+      }
+    ],
+    "fx": [
+      {
+        "x": 41,
+        "y": 3,
+        "scale": 0.25,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "Jade_Buildinglot_Moat_Corner0_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Buildinglot_Moat_Classic/Jade_Buildinglot_Moat_Corner0_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 50,
+        "rx": 965,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Buildinglot_Moat_Corner1_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Buildinglot_Moat_Classic/Jade_Buildinglot_Moat_Corner1_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 43,
+        "rx": 969,
+        "ry": 1009
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Buildinglot_Moat_Corner2_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Buildinglot_Moat_Classic/Jade_Buildinglot_Moat_Corner2_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 59,
+        "rx": 983,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Buildinglot_Moat_Corner3_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Buildinglot_Moat_Classic/Jade_Buildinglot_Moat_Corner3_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 59,
+        "rx": 936,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Buildinglot_Moat_Part_Detail0_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Buildinglot_Moat_Classic/Jade_Buildinglot_Moat_Part_Detail0_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 10,
+        "rx": 1047,
+        "ry": 1023
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Buildinglot_Moat_Part_Detail1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Buildinglot_Moat_Classic/Jade_Buildinglot_Moat_Part_Detail1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 13,
+        "rx": 1043,
+        "ry": 1019
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Buildinglot_Moat_Part_Detail2_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Buildinglot_Moat_Classic/Jade_Buildinglot_Moat_Part_Detail2_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 6,
+        "h": 9,
+        "rx": 1061,
+        "ry": 1023
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Buildinglot_Moat_Part0_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Buildinglot_Moat_Classic/Jade_Buildinglot_Moat_Part0_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 27,
+        "rx": 1019,
+        "ry": 1009
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Buildinglot_Moat_Part1_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Buildinglot_Moat_Classic/Jade_Buildinglot_Moat_Part1_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 28,
+        "rx": 1019,
+        "ry": 1009
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Premium_Moat_Bridge_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Premium_Moat_Classic/Jade_Premium_Moat_Bridge_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 56,
+        "rx": 969,
+        "ry": 992
+      }
+    ],
+    "fx": [
+      {
+        "x": 51,
+        "y": -5,
+        "scale": 0.25,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
+  },
+  "Jade_Premium_Moat_Corner0_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Premium_Moat_Classic/Jade_Premium_Moat_Corner0_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 51,
+        "rx": 966,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Premium_Moat_Corner1_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Premium_Moat_Classic/Jade_Premium_Moat_Corner1_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 44,
+        "rx": 969,
+        "ry": 1009
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Premium_Moat_Corner2_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Premium_Moat_Classic/Jade_Premium_Moat_Corner2_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 59,
+        "rx": 984,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Premium_Moat_Corner3_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Premium_Moat_Classic/Jade_Premium_Moat_Corner3_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 59,
+        "rx": 947,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Premium_Moat_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Premium_Moat_Classic/Jade_Premium_Moat_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 51,
+        "rx": 960,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Premium_Moat_Level1_Detail0_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Premium_Moat_Classic/Jade_Premium_Moat_Level1_Detail0_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 10,
+        "rx": 1039,
+        "ry": 1024
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Premium_Moat_Level1_Detail1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Premium_Moat_Classic/Jade_Premium_Moat_Level1_Detail1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 10,
+        "rx": 1040,
+        "ry": 1024
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Premium_Moat_Level1_Detail2_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Premium_Moat_Classic/Jade_Premium_Moat_Level1_Detail2_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 14,
+        "rx": 1039,
+        "ry": 1020
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Premium_Moat_Part0_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Premium_Moat_Classic/Jade_Premium_Moat_Part0_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 29,
+        "rx": 1019,
+        "ry": 1009
+      }
+    ],
+    "fx": []
+  },
+  "Jade_Premium_Moat_Part1_Level1_Classic": {
+    "pid": 2,
+    "url": "x384/Moat/Jade_Premium_Moat_Classic/Jade_Premium_Moat_Part1_Level1_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 29,
+        "rx": 1019,
+        "ry": 1009
       }
     ],
     "fx": []
@@ -172395,6 +173340,21 @@
     ],
     "fx": []
   },
+  "Jade_Castlepart_Moat_Classic": {
+    "pid": 2,
+    "url": "x384/WorldmapObjects/Castles/Castle/Jade_Castlepart_Moat_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 29,
+        "rx": 999,
+        "ry": 1020
+      }
+    ],
+    "fx": []
+  },
   "WolfKing_Mapobject": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Castles/Castle/WolfKing_Mapobject.png",
@@ -172709,6 +173669,21 @@
         "h": 51,
         "rx": 1018,
         "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "Jade_MapObjectBackground_Classic": {
+    "pid": 2,
+    "url": "x384/WorldmapObjects/Common/Jade_MapObjectBackground_Classic/Jade_MapObjectBackground_Classic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 25,
+        "rx": 1002,
+        "ry": 1021
       }
     ],
     "fx": []

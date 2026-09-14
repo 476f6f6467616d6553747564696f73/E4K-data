@@ -5145,6 +5145,54 @@
     "areaTypeID": 2
   },
   {
+    "effectID": 782,
+    "crossplayID": 782,
+    "name": "raidBossWallRegenerationDelayLeftCapped",
+    "effectTypeID": 209,
+    "capID": 2124,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 783,
+    "crossplayID": 783,
+    "name": "raidBossWallRegenerationDelayFrontCapped",
+    "effectTypeID": 210,
+    "capID": 2124,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 784,
+    "crossplayID": 784,
+    "name": "raidBossWallRegenerationDelayRightCapped",
+    "effectTypeID": 211,
+    "capID": 2124,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 785,
+    "crossplayID": 785,
+    "name": "raidBossWallRegenerationDelayAllCapped",
+    "effectTypeID": 212,
+    "capID": 2124,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 499,
+    "crossplayID": 499,
+    "name": "oktoberfestAREWallProtectionDebuff",
+    "effectTypeID": 19,
+    "capID": 99,
+    "areaTypeID": 43
+  },
+  {
+    "effectID": 500,
+    "crossplayID": 500,
+    "name": "oktoberfestAREGateProtectionDebuff",
+    "effectTypeID": 20,
+    "capID": 99,
+    "areaTypeID": 43
+  },
+  {
     "effectID": 2101,
     "name": "relicOffensiveMeleeBonus",
     "effectTypeID": 23,

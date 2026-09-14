@@ -2776,6 +2776,7 @@ export interface Quest {
     "add30MinSkip"?: number;
     "add60MinSkip"?: number;
     "addApprenticeToken"?: number;
+    "addBaronAdvisorToken"?: number;
     "addDecoCatalyst4"?: number;
     "addDecoDust"?: number;
     "addFusionCurrency"?: number;
@@ -2820,7 +2821,6 @@ export interface Quest {
     "numberOfQuestsInSeries"?: number;
     "oil"?: number;
     "onlyBattleGroundScoringID"?: number;
-    "paymentDoppler"?: number;
     "questGiverID"?: number;
     "questID": number;
     "questSeriesID"?: number;

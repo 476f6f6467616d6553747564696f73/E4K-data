@@ -160374,7 +160374,7 @@
   },
   {
     "rewardID": 20355,
-    "comment1": "Necromancer Defeat Reward 1",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 1",
     "comment2": "Lootbox T1",
     "lootBox": "35+1",
     "units": "214+6000#204+6000",
@@ -160384,7 +160384,7 @@
   },
   {
     "rewardID": 20356,
-    "comment1": "Necromancer Defeat Reward 2",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 2",
     "comment2": "Lootbox T1",
     "lootBox": "35+1",
     "units": "214+30000#204+30000",
@@ -160394,7 +160394,7 @@
   },
   {
     "rewardID": 20357,
-    "comment1": "Necromancer Defeat Reward 3",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 3",
     "comment2": "Lootbox T1",
     "lootBox": "35+1",
     "addRiftCoin": 100,
@@ -160406,7 +160406,7 @@
   },
   {
     "rewardID": 20358,
-    "comment1": "Necromancer Defeat Reward 4",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 4",
     "comment2": "Lootbox T2 + Rift Coin",
     "lootBox": "36+1",
     "addRiftCoin": 630,
@@ -160418,7 +160418,7 @@
   },
   {
     "rewardID": 20359,
-    "comment1": "Necromancer Defeat Reward 5",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 5",
     "comment2": "Lootbox T2 + Ashira Offering",
     "lootBox": "36+1",
     "addRiftCoin": 1750,
@@ -160430,7 +160430,7 @@
   },
   {
     "rewardID": 20360,
-    "comment1": "Necromancer Defeat Reward 6",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 6",
     "comment2": "Lootbox T2 + General Exp",
     "lootBox": "36+1",
     "addRiftCoin": 2500,
@@ -160442,7 +160442,7 @@
   },
   {
     "rewardID": 20361,
-    "comment1": "Necromancer Defeat Reward 7",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 7",
     "comment2": "Lootbox T2 + Plaster",
     "lootBox": "36+1",
     "addRiftCoin": 3610,
@@ -160454,7 +160454,7 @@
   },
   {
     "rewardID": 20362,
-    "comment1": "Necromancer Defeat Reward 8",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 8",
     "comment2": "Lootbox T3 + Ashira Offering",
     "lootBox": "37+1",
     "addRiftCoin": 6200,
@@ -160463,7 +160463,7 @@
   },
   {
     "rewardID": 20363,
-    "comment1": "Necromancer Defeat Reward 9",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 9",
     "comment2": "Lootbox T3 + General Exp",
     "lootBox": "37+1",
     "addRiftCoin": 9000,
@@ -160472,7 +160472,7 @@
   },
   {
     "rewardID": 20364,
-    "comment1": "Necromancer Defeat Reward 10",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 10",
     "comment2": "Lootbox T3 + Plaster",
     "lootBox": "37+1",
     "addRiftCoin": 12000,
@@ -160481,7 +160481,7 @@
   },
   {
     "rewardID": 20365,
-    "comment1": "Necromancer Defeat Reward 11",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 11",
     "comment2": "Lootbox T3 + General Exp",
     "lootBox": "37+1",
     "addRiftCoin": 12000,
@@ -160490,7 +160490,7 @@
   },
   {
     "rewardID": 20366,
-    "comment1": "Necromancer Defeat Reward 12",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 12",
     "comment2": "Lootbox T3 + General Exp",
     "addRiftCoin": 12000,
     "lootBox": "37+1",
@@ -160498,7 +160498,7 @@
   },
   {
     "rewardID": 20367,
-    "comment1": "Necromancer Defeat Reward 13",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 13",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
@@ -160506,7 +160506,7 @@
   },
   {
     "rewardID": 20368,
-    "comment1": "Necromancer Defeat Reward 14",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 14",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
@@ -160514,7 +160514,7 @@
   },
   {
     "rewardID": 20369,
-    "comment1": "Necromancer Defeat Reward 15",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 15",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
@@ -160522,7 +160522,7 @@
   },
   {
     "rewardID": 20370,
-    "comment1": "Necromancer Defeat Reward 16",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 16",
     "comment2": "Lootbox T3 + General Exp",
     "addRiftCoin": 12000,
     "lootBox": "37+1",
@@ -160530,7 +160530,7 @@
   },
   {
     "rewardID": 20371,
-    "comment1": "Necromancer Defeat Reward 17",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 17",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
@@ -160538,7 +160538,7 @@
   },
   {
     "rewardID": 20372,
-    "comment1": "Necromancer Defeat Reward 18",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 18",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
@@ -160546,7 +160546,7 @@
   },
   {
     "rewardID": 20373,
-    "comment1": "Necromancer Defeat Reward 19",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 19",
     "comment2": "Ducat + Plaster",
     "addRiftCoin": 12000,
     "addImperialDucat": 10,
@@ -160554,7 +160554,7 @@
   },
   {
     "rewardID": 20374,
-    "comment1": "Necromancer Defeat Reward 20",
+    "comment1": "(REMOVED) Necromancer Defeat Reward 20",
     "comment2": "Lootbox T3 + General Exp",
     "addRiftCoin": 12000,
     "lootBox": "37+1",
@@ -161190,7 +161190,7 @@
   },
   {
     "rewardID": 20375,
-    "comment1": "Fungal Swarm Defeat Reward 1",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 1",
     "comment2": "Lootbox T1",
     "lootBox": "41+1",
     "units": "214+3000#204+3000",
@@ -161200,7 +161200,7 @@
   },
   {
     "rewardID": 20376,
-    "comment1": "Fungal Swarm Defeat Reward 2",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 2",
     "comment2": "Lootbox T1",
     "lootBox": "41+1",
     "units": "214+15000#204+15000",
@@ -161210,7 +161210,7 @@
   },
   {
     "rewardID": 20377,
-    "comment1": "Fungal Swarm Defeat Reward 3",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 3",
     "comment2": "Lootbox T1",
     "lootBox": "41+1",
     "addRiftCoin": 100,
@@ -161221,7 +161221,7 @@
   },
   {
     "rewardID": 20378,
-    "comment1": "Fungal Swarm Defeat Reward 4",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 4",
     "comment2": "Lootbox T2 + Rift Coin",
     "lootBox": "41+1",
     "addRiftCoin": 630,
@@ -161232,7 +161232,7 @@
   },
   {
     "rewardID": 20379,
-    "comment1": "Fungal Swarm Defeat Reward 5",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 5",
     "comment2": "Lootbox T2 + Ashira Offering",
     "lootBox": "41+1",
     "addRiftCoin": 1750,
@@ -161244,7 +161244,7 @@
   },
   {
     "rewardID": 20380,
-    "comment1": "Fungal Swarm Defeat Reward 6",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 6",
     "comment2": "Lootbox T2 + General Exp",
     "lootBox": "42+1",
     "addRiftCoin": 2500,
@@ -161256,7 +161256,7 @@
   },
   {
     "rewardID": 20381,
-    "comment1": "Fungal Swarm Defeat Reward 7",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 7",
     "comment2": "Lootbox T2 + Plaster",
     "lootBox": "42+1",
     "addRiftCoin": 3610,
@@ -161268,7 +161268,7 @@
   },
   {
     "rewardID": 20382,
-    "comment1": "Fungal Swarm Defeat Reward 8",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 8",
     "comment2": "Lootbox T3 + Ashira Offering",
     "lootBox": "42+1",
     "addRiftCoin": 6200,
@@ -161277,7 +161277,7 @@
   },
   {
     "rewardID": 20383,
-    "comment1": "Fungal Swarm Defeat Reward 9",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 9",
     "comment2": "Lootbox T3 + General Exp",
     "lootBox": "43+1",
     "addRiftCoin": 9000,
@@ -161286,7 +161286,7 @@
   },
   {
     "rewardID": 20384,
-    "comment1": "Fungal Swarm Defeat Reward 10",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 10",
     "comment2": "Lootbox T3 + General Exp",
     "lootBox": "43+1",
     "addRiftCoin": 12000,
@@ -161295,7 +161295,7 @@
   },
   {
     "rewardID": 20385,
-    "comment1": "Fungal Swarm Defeat Reward 11",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 11",
     "comment2": "Lootbox T3 + General Exp",
     "lootBox": "43+1",
     "addRiftCoin": 12000,
@@ -161304,7 +161304,7 @@
   },
   {
     "rewardID": 20386,
-    "comment1": "Fungal Swarm Defeat Reward 12",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 12",
     "comment2": "T3 Lootbox + Gen Exp",
     "lootBox": "43+1",
     "addRiftCoin": 12000,
@@ -161313,7 +161313,7 @@
   },
   {
     "rewardID": 20387,
-    "comment1": "Fungal Swarm Defeat Reward 13",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 13",
     "comment2": "Ducat + Plaster",
     "addImperialDucat": 10,
     "addRiftCoin": 12000,
@@ -161322,7 +161322,7 @@
   },
   {
     "rewardID": 20388,
-    "comment1": "Fungal Swarm Defeat Reward 14",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 14",
     "comment2": "Ducat + Plaster",
     "addImperialDucat": 10,
     "addRiftCoin": 12000,
@@ -161331,7 +161331,7 @@
   },
   {
     "rewardID": 20389,
-    "comment1": "Fungal Swarm Defeat Reward 15",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 15",
     "comment2": "T3 Lootbox + Gen Exp",
     "lootBox": "43+1",
     "addRiftCoin": 12000,
@@ -161340,7 +161340,7 @@
   },
   {
     "rewardID": 20390,
-    "comment1": "Fungal Swarm Defeat Reward 16",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 16",
     "comment2": "Ducat + Plaster",
     "addImperialDucat": 10,
     "addRiftCoin": 12000,
@@ -161349,7 +161349,7 @@
   },
   {
     "rewardID": 20391,
-    "comment1": "Fungal Swarm Defeat Reward 17",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 17",
     "comment2": "Ducat + Plaster",
     "addImperialDucat": 10,
     "addRiftCoin": 12000,
@@ -161358,7 +161358,7 @@
   },
   {
     "rewardID": 20392,
-    "comment1": "Fungal Swarm Defeat Reward 18",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 18",
     "comment2": "T3 Lootbox + Gen Exp",
     "lootBox": "43+1",
     "addRiftCoin": 12000,
@@ -161367,7 +161367,7 @@
   },
   {
     "rewardID": 20393,
-    "comment1": "Fungal Swarm Defeat Reward 19",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 19",
     "comment2": "Ducat + Plaster",
     "addImperialDucat": 10,
     "addRiftCoin": 12000,
@@ -161376,7 +161376,7 @@
   },
   {
     "rewardID": 20394,
-    "comment1": "Fungal Swarm Defeat Reward 20",
+    "comment1": "(REMOVED) Fungal Swarm Defeat Reward 20",
     "comment2": "T3 Lootbox + Gen Exp",
     "lootBox": "43+1",
     "addRiftCoin": 12000,
@@ -162141,7 +162141,7 @@
   },
   {
     "rewardID": 20395,
-    "comment1": "Legendary Dragon Defeat Reward 1",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 1",
     "comment2": "Lootbox T1",
     "lootBox": "44+1",
     "units": "214+9000#204+9000",
@@ -162151,7 +162151,7 @@
   },
   {
     "rewardID": 20396,
-    "comment1": "Legendary Dragon Defeat Reward 2",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 2",
     "comment2": "Lootbox T1",
     "lootBox": "44+1",
     "units": "214+40000#204+40000",
@@ -162161,7 +162161,7 @@
   },
   {
     "rewardID": 20397,
-    "comment1": "Legendary Dragon Defeat Reward 3",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 3",
     "comment2": "Lootbox T1",
     "lootBox": "45+1",
     "addRiftCoin": 100,
@@ -162172,7 +162172,7 @@
   },
   {
     "rewardID": 20398,
-    "comment1": "Legendary Dragon Defeat Reward 4",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 4",
     "comment2": "Lootbox T2 + Rift Coin",
     "lootBox": "45+1",
     "addRiftCoin": 630,
@@ -162183,7 +162183,7 @@
   },
   {
     "rewardID": 20399,
-    "comment1": "Legendary Dragon Defeat Reward 5",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 5",
     "comment2": "Lootbox T2 + Ashira Offering",
     "lootBox": "45+1",
     "addRiftCoin": 1750,
@@ -162195,7 +162195,7 @@
   },
   {
     "rewardID": 20400,
-    "comment1": "Legendary Dragon Defeat Reward 6",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 6",
     "comment2": "Lootbox T2 + General Exp",
     "lootBox": "45+1",
     "addRiftCoin": 2500,
@@ -162207,7 +162207,7 @@
   },
   {
     "rewardID": 20401,
-    "comment1": "Legendary Dragon Defeat Reward 7",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 7",
     "comment2": "Lootbox T2 + Plaster",
     "lootBox": "46+1",
     "addRiftCoin": 3610,
@@ -162219,7 +162219,7 @@
   },
   {
     "rewardID": 20402,
-    "comment1": "Legendary Dragon Defeat Reward 8",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 8",
     "comment2": "Lootbox T3 + Ashira Offering",
     "lootBox": "46+1",
     "addRiftCoin": 6200,
@@ -162228,7 +162228,7 @@
   },
   {
     "rewardID": 20403,
-    "comment1": "Legendary Dragon Defeat Reward 9",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 9",
     "comment2": "Lootbox T3 + General Exp",
     "lootBox": "46+1",
     "addRiftCoin": 9000,
@@ -162237,7 +162237,7 @@
   },
   {
     "rewardID": 20404,
-    "comment1": "Legendary Dragon Defeat Reward 10",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 10",
     "comment2": "Lootbox T3 + General Exp",
     "lootBox": "46+1",
     "addRiftCoin": 12000,
@@ -162246,7 +162246,7 @@
   },
   {
     "rewardID": 20405,
-    "comment1": "Legendary Dragon Defeat Reward 11",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 11",
     "comment2": "Lootbox T3 + General Exp",
     "lootBox": "46+1",
     "addRiftCoin": 12000,
@@ -162255,7 +162255,7 @@
   },
   {
     "rewardID": 20406,
-    "comment1": "Legendary Dragon Defeat Reward 12",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 12",
     "comment2": "T3 Lootbox + Gen Exp",
     "lootBox": "46+1",
     "addRiftCoin": 12000,
@@ -162264,7 +162264,7 @@
   },
   {
     "rewardID": 20407,
-    "comment1": "Legendary Dragon Defeat Reward 13",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 13",
     "comment2": "Dragon Scales + Tiles",
     "addDragonScaleSplinters": 700,
     "addRiftCoin": 12000,
@@ -162273,7 +162273,7 @@
   },
   {
     "rewardID": 20408,
-    "comment1": "Legendary Dragon Defeat Reward 14",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 14",
     "comment2": "Dragon Scales + Tiles",
     "addDragonScaleSplinters": 1400,
     "addRiftCoin": 12000,
@@ -162282,7 +162282,7 @@
   },
   {
     "rewardID": 20409,
-    "comment1": "Legendary Dragon Defeat Reward 15",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 15",
     "comment2": "Lootbox + Gen Exp",
     "lootBox": "46+1",
     "addRiftCoin": 12000,
@@ -162291,7 +162291,7 @@
   },
   {
     "rewardID": 20410,
-    "comment1": "Legendary Dragon Defeat Reward 16",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 16",
     "comment2": "Dragon Scales + Tiles",
     "addDragonScaleSplinters": 1400,
     "addRiftCoin": 12000,
@@ -162300,7 +162300,7 @@
   },
   {
     "rewardID": 20411,
-    "comment1": "Legendary Dragon Defeat Reward 17",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 17",
     "comment2": "Dragon Scales + Tiles",
     "addDragonScaleSplinters": 2100,
     "addRiftCoin": 12000,
@@ -162309,7 +162309,7 @@
   },
   {
     "rewardID": 20412,
-    "comment1": "Legendary Dragon Defeat Reward 18",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 18",
     "comment2": "Lootbox + Gen Exp",
     "lootBox": "46+1",
     "addRiftCoin": 12000,
@@ -162318,7 +162318,7 @@
   },
   {
     "rewardID": 20413,
-    "comment1": "Legendary Dragon Defeat Reward 19",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 19",
     "comment2": "Ducat + Plaster",
     "addImperialDucat": 70,
     "addRiftCoin": 12000,
@@ -162327,7 +162327,7 @@
   },
   {
     "rewardID": 20414,
-    "comment1": "Legendary Dragon Defeat Reward 20",
+    "comment1": "(REMOVED) Legendary Dragon Defeat Reward 20",
     "comment2": "Lootbox + Gen Exp",
     "lootBox": "46+1",
     "addRiftCoin": 12000,

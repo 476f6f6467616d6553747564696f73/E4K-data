@@ -51438,12 +51438,12 @@
     "numberOfQuestsInSeries": 1,
     "requiredLevel": 70,
     "questGiverID": 4,
-    "conditions": "gainLTPEPoints+1503",
+    "conditions": "gainLTPEPoints+6000",
     "maxRepeatCount": 1,
     "eventID": 83,
     "shownKingdomID": 0,
     "triggerKingdomID": 0,
-    "paymentDoppler": 1
+    "addBaronAdvisorToken": 1
   },
   {
     "questID": 2105,
