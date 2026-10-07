@@ -19141,5 +19141,31 @@
     "mightValue": 0,
     "canSlotGem": 0,
     "skinID": 129
+  },
+  {
+    "equipmentID": 1591,
+    "crossplayID": 1591,
+    "comment1": "Halloween Sales 2026",
+    "comment2": "Forsaken Warlord Crest",
+    "wearerID": 2,
+    "slotID": 5,
+    "effects": "24&amp;8,334&amp;25,66&amp;10",
+    "duration": 120,
+    "mightValue": 0,
+    "canSlotGem": 0,
+    "skinID": 168
+  },
+  {
+    "equipmentID": 1592,
+    "crossplayID": 1592,
+    "comment1": "Halloween Sales 2026",
+    "comment2": "Forsaken Warden Crest",
+    "wearerID": 1,
+    "slotID": 5,
+    "effects": "335&amp;45,37&amp;25000",
+    "duration": 120,
+    "mightValue": 0,
+    "canSlotGem": 0,
+    "skinID": 169
   }
 ]
