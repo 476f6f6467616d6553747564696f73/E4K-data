@@ -77878,7 +77878,7 @@
     "comment1": "October LTPE Shop - 2026 Lvl 1020",
     "comment2": "Mead Range Offensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 204,
+    "unitID": 214,
     "unitAmount": 100,
     "minLegendLevel": 950,
     "hiddenMead": 180000,
@@ -77890,9 +77890,9 @@
     "packageID": 5569,
     "packageType": "tool",
     "comment1": "October LTPE Shop - 2026 Lvl 1020",
-    "comment2": "Mead Meele Offensive 10",
+    "comment2": "Mead Melee Offensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 205,
+    "unitID": 204,
     "unitAmount": 100,
     "minLegendLevel": 950,
     "hiddenMead": 180000,
@@ -77906,7 +77906,7 @@
     "comment1": "October LTPE Shop - 2026 Lvl 1020",
     "comment2": "Mead Range Defensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 227,
+    "unitID": 238,
     "unitAmount": 100,
     "minLegendLevel": 950,
     "hiddenMead": 180000,
@@ -77918,9 +77918,9 @@
     "packageID": 5571,
     "packageType": "tool",
     "comment1": "October LTPE Shop - 2026 Lvl 1020",
-    "comment2": "Mead Meele Defensive 10",
+    "comment2": "Mead Melee Defensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 238,
+    "unitID": 227,
     "unitAmount": 100,
     "minLegendLevel": 950,
     "hiddenMead": 180000,
@@ -78144,7 +78144,7 @@
     "comment1": "October LTPE Shop - 2026 Lvl 720-1019",
     "comment2": "Mead Range Offensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 204,
+    "unitID": 214,
     "unitAmount": 100,
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
@@ -78157,9 +78157,9 @@
     "packageID": 5589,
     "packageType": "tool",
     "comment1": "October LTPE Shop - 2026 Lvl 720-1019",
-    "comment2": "Mead Meele Offensive 10",
+    "comment2": "Mead Melee Offensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 205,
+    "unitID": 204,
     "unitAmount": 100,
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
@@ -78174,7 +78174,7 @@
     "comment1": "October LTPE Shop - 2026 Lvl 720-1019",
     "comment2": "Mead Range Defensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 227,
+    "unitID": 238,
     "unitAmount": 100,
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
@@ -78187,9 +78187,9 @@
     "packageID": 5591,
     "packageType": "tool",
     "comment1": "October LTPE Shop - 2026 Lvl 720-1019",
-    "comment2": "Mead Meele Defensive 10",
+    "comment2": "Mead Melee Defensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 238,
+    "unitID": 227,
     "unitAmount": 100,
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
@@ -78418,7 +78418,7 @@
     "comment1": "October LTPE Shop - 2026 Lvl 270-719",
     "comment2": "Mead Range Offensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 204,
+    "unitID": 214,
     "unitAmount": 100,
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
@@ -78431,9 +78431,9 @@
     "packageID": 5609,
     "packageType": "tool",
     "comment1": "October LTPE Shop - 2026 Lvl 270-719",
-    "comment2": "Mead Meele Offensive 10",
+    "comment2": "Mead Melee Offensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 205,
+    "unitID": 204,
     "unitAmount": 100,
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
@@ -78448,7 +78448,7 @@
     "comment1": "October LTPE Shop - 2026 Lvl 270-719",
     "comment2": "Mead Range Defensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 227,
+    "unitID": 238,
     "unitAmount": 100,
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
@@ -78461,9 +78461,9 @@
     "packageID": 5611,
     "packageType": "tool",
     "comment1": "October LTPE Shop - 2026 Lvl 270-719",
-    "comment2": "Mead Meele Defensive 10",
+    "comment2": "Mead Melee Defensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 238,
+    "unitID": 227,
     "unitAmount": 100,
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
@@ -78692,7 +78692,7 @@
     "comment1": "October LTPE Shop - 2026 Lvl 70-269",
     "comment2": "Mead Range Offensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 204,
+    "unitID": 214,
     "unitAmount": 100,
     "minLevel": 70,
     "maxLegendLevel": 199,
@@ -78705,9 +78705,9 @@
     "packageID": 5629,
     "packageType": "tool",
     "comment1": "October LTPE Shop - 2026 Lvl 70-269",
-    "comment2": "Mead Meele Offensive 10",
+    "comment2": "Mead Melee Offensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 205,
+    "unitID": 204,
     "unitAmount": 100,
     "minLevel": 70,
     "maxLegendLevel": 199,
@@ -78722,7 +78722,7 @@
     "comment1": "October LTPE Shop - 2026 Lvl 70-269",
     "comment2": "Mead Range Defensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 227,
+    "unitID": 238,
     "unitAmount": 100,
     "minLevel": 70,
     "maxLegendLevel": 199,
@@ -78735,9 +78735,9 @@
     "packageID": 5631,
     "packageType": "tool",
     "comment1": "October LTPE Shop - 2026 Lvl 70-269",
-    "comment2": "Mead Meele Defensive 10",
+    "comment2": "Mead Melee Defensive 10",
     "costHalloweenLTPEToken": 100,
-    "unitID": 238,
+    "unitID": 227,
     "unitAmount": 100,
     "minLevel": 70,
     "maxLegendLevel": 199,
@@ -78966,7 +78966,7 @@
     "comment1": "November LTPE Shop - 2026 Lvl 1020",
     "comment2": "Mead Range Offensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 204,
+    "unitID": 214,
     "unitAmount": 100,
     "minLegendLevel": 950,
     "hiddenMead": 180000,
@@ -78978,9 +78978,9 @@
     "packageID": 5658,
     "packageType": "tool",
     "comment1": "November LTPE Shop - 2026 Lvl 1020",
-    "comment2": "Mead Meele Offensive 10",
+    "comment2": "Mead Melee Offensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 214,
+    "unitID": 204,
     "unitAmount": 100,
     "minLegendLevel": 950,
     "hiddenMead": 180000,
@@ -78994,7 +78994,7 @@
     "comment1": "November LTPE Shop - 2026 Lvl 1020",
     "comment2": "Mead Range Defensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 227,
+    "unitID": 238,
     "unitAmount": 100,
     "minLegendLevel": 950,
     "hiddenMead": 180000,
@@ -79006,9 +79006,9 @@
     "packageID": 5660,
     "packageType": "tool",
     "comment1": "November LTPE Shop - 2026 Lvl 1020",
-    "comment2": "Mead Meele Defensive 10",
+    "comment2": "Mead Melee Defensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 238,
+    "unitID": 227,
     "unitAmount": 100,
     "minLegendLevel": 950,
     "hiddenMead": 180000,
@@ -79232,7 +79232,7 @@
     "comment1": "November LTPE Shop - 2026 Lvl 720-1019",
     "comment2": "Mead Range Offensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 204,
+    "unitID": 214,
     "unitAmount": 100,
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
@@ -79245,9 +79245,9 @@
     "packageID": 5678,
     "packageType": "tool",
     "comment1": "November LTPE Shop - 2026 Lvl 720-1019",
-    "comment2": "Mead Meele Offensive 10",
+    "comment2": "Mead Melee Offensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 214,
+    "unitID": 204,
     "unitAmount": 100,
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
@@ -79262,7 +79262,7 @@
     "comment1": "November LTPE Shop - 2026 Lvl 720-1019",
     "comment2": "Mead Range Defensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 227,
+    "unitID": 238,
     "unitAmount": 100,
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
@@ -79275,9 +79275,9 @@
     "packageID": 5680,
     "packageType": "tool",
     "comment1": "November LTPE Shop - 2026 Lvl 720-1019",
-    "comment2": "Mead Meele Defensive 10",
+    "comment2": "Mead Melee Defensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 238,
+    "unitID": 227,
     "unitAmount": 100,
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
@@ -79506,7 +79506,7 @@
     "comment1": "November LTPE Shop - 2026 Lvl 270-719",
     "comment2": "Mead Range Offensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 204,
+    "unitID": 214,
     "unitAmount": 100,
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
@@ -79519,9 +79519,9 @@
     "packageID": 5698,
     "packageType": "tool",
     "comment1": "November LTPE Shop - 2026 Lvl 270-719",
-    "comment2": "Mead Meele Offensive 10",
+    "comment2": "Mead Melee Offensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 214,
+    "unitID": 204,
     "unitAmount": 100,
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
@@ -79536,7 +79536,7 @@
     "comment1": "November LTPE Shop - 2026 Lvl 270-719",
     "comment2": "Mead Range Defensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 227,
+    "unitID": 238,
     "unitAmount": 100,
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
@@ -79549,9 +79549,9 @@
     "packageID": 5700,
     "packageType": "tool",
     "comment1": "November LTPE Shop - 2026 Lvl 270-719",
-    "comment2": "Mead Meele Defensive 10",
+    "comment2": "Mead Melee Defensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 238,
+    "unitID": 227,
     "unitAmount": 100,
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
@@ -79780,7 +79780,7 @@
     "comment1": "November LTPE Shop - 2026 Lvl 70-269",
     "comment2": "Mead Range Offensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 204,
+    "unitID": 214,
     "unitAmount": 100,
     "minLevel": 70,
     "maxLegendLevel": 199,
@@ -79793,9 +79793,9 @@
     "packageID": 5718,
     "packageType": "tool",
     "comment1": "November LTPE Shop - 2026 Lvl 70-269",
-    "comment2": "Mead Meele Offensive 10",
+    "comment2": "Mead Melee Offensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 213,
+    "unitID": 204,
     "unitAmount": 100,
     "minLevel": 70,
     "maxLegendLevel": 199,
@@ -79810,7 +79810,7 @@
     "comment1": "November LTPE Shop - 2026 Lvl 70-269",
     "comment2": "Mead Range Defensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 227,
+    "unitID": 238,
     "unitAmount": 100,
     "minLevel": 70,
     "maxLegendLevel": 199,
@@ -79823,9 +79823,9 @@
     "packageID": 5720,
     "packageType": "tool",
     "comment1": "November LTPE Shop - 2026 Lvl 70-269",
-    "comment2": "Mead Meele Defensive 10",
+    "comment2": "Mead Melee Defensive 10",
     "costDragonriderLTPEToken": 100,
-    "unitID": 238,
+    "unitID": 227,
     "unitAmount": 100,
     "minLevel": 70,
     "maxLegendLevel": 199,
@@ -79898,7 +79898,7 @@
     "minLegendLevel": 950,
     "toDecoGlobalStorage": 1,
     "sortOrder": 1,
-    "relationIDs": "999,416",
+    "relationIDs": "999,404",
     "validKingdoms": "0,1,2,3,4"
   },
   {
@@ -79912,7 +79912,7 @@
     "stock": 1,
     "minLegendLevel": 950,
     "sortOrder": 2,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5727,
@@ -79925,7 +79925,7 @@
     "stock": 2,
     "minLegendLevel": 950,
     "sortOrder": 3,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5728,
@@ -79937,7 +79937,7 @@
     "stock": 1,
     "minLegendLevel": 950,
     "sortOrder": 4,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5729,
@@ -79949,7 +79949,7 @@
     "stock": 1,
     "minLegendLevel": 950,
     "sortOrder": 5,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5730,
@@ -79961,7 +79961,7 @@
     "stock": 1,
     "minLegendLevel": 950,
     "sortOrder": 6,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5731,
@@ -79973,7 +79973,7 @@
     "stock": 2,
     "minLegendLevel": 950,
     "sortOrder": 7,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5732,
@@ -79985,7 +79985,7 @@
     "stock": 2,
     "minLegendLevel": 950,
     "sortOrder": 8,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5733,
@@ -79997,7 +79997,7 @@
     "stock": 1,
     "minLegendLevel": 950,
     "sortOrder": 9,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5734,
@@ -80009,7 +80009,7 @@
     "stock": 5,
     "minLegendLevel": 950,
     "sortOrder": 10,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5735,
@@ -80021,7 +80021,7 @@
     "stock": 5,
     "minLegendLevel": 950,
     "sortOrder": 11,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5736,
@@ -80033,7 +80033,7 @@
     "stock": 1,
     "minLegendLevel": 950,
     "sortOrder": 12,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5737,
@@ -80046,7 +80046,7 @@
     "minLegendLevel": 950,
     "ignoreCurrencySoftCap": 1,
     "sortOrder": 13,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5738,
@@ -80054,27 +80054,27 @@
     "comment1": "December LTPE Shop - 2026 Lvl 1020",
     "comment2": "Mead Range Offensive 10",
     "costXmasLTPEToken": 100,
-    "unitID": 204,
-    "unitAmount": 100,
-    "minLegendLevel": 950,
-    "hiddenMead": 180000,
-    "ignoreResourceStorageCapacity": 1,
-    "sortOrder": 14,
-    "relationIDs": "999,416"
-  },
-  {
-    "packageID": 5739,
-    "packageType": "tool",
-    "comment1": "December LTPE Shop - 2026 Lvl 1020",
-    "comment2": "Mead Meele Offensive 10",
-    "costXmasLTPEToken": 100,
     "unitID": 214,
     "unitAmount": 100,
     "minLegendLevel": 950,
     "hiddenMead": 180000,
     "ignoreResourceStorageCapacity": 1,
+    "sortOrder": 14,
+    "relationIDs": "999,404"
+  },
+  {
+    "packageID": 5739,
+    "packageType": "tool",
+    "comment1": "December LTPE Shop - 2026 Lvl 1020",
+    "comment2": "Mead Melee Offensive 10",
+    "costXmasLTPEToken": 100,
+    "unitID": 204,
+    "unitAmount": 100,
+    "minLegendLevel": 950,
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1,
     "sortOrder": 15,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5740,
@@ -80082,27 +80082,27 @@
     "comment1": "December LTPE Shop - 2026 Lvl 1020",
     "comment2": "Mead Range Defensive 10",
     "costXmasLTPEToken": 100,
-    "unitID": 227,
-    "unitAmount": 100,
-    "minLegendLevel": 950,
-    "hiddenMead": 180000,
-    "ignoreResourceStorageCapacity": 1,
-    "sortOrder": 16,
-    "relationIDs": "999,416"
-  },
-  {
-    "packageID": 5741,
-    "packageType": "tool",
-    "comment1": "December LTPE Shop - 2026 Lvl 1020",
-    "comment2": "Mead Meele Defensive 10",
-    "costXmasLTPEToken": 100,
     "unitID": 238,
     "unitAmount": 100,
     "minLegendLevel": 950,
     "hiddenMead": 180000,
     "ignoreResourceStorageCapacity": 1,
+    "sortOrder": 16,
+    "relationIDs": "999,404"
+  },
+  {
+    "packageID": 5741,
+    "packageType": "tool",
+    "comment1": "December LTPE Shop - 2026 Lvl 1020",
+    "comment2": "Mead Melee Defensive 10",
+    "costXmasLTPEToken": 100,
+    "unitID": 227,
+    "unitAmount": 100,
+    "minLegendLevel": 950,
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1,
     "sortOrder": 17,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5742,
@@ -80114,7 +80114,7 @@
     "unitAmount": 100,
     "minLegendLevel": 950,
     "sortOrder": 18,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5743,
@@ -80126,7 +80126,7 @@
     "unitAmount": 100,
     "minLegendLevel": 950,
     "sortOrder": 19,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5744,
@@ -80138,7 +80138,7 @@
     "unitAmount": 100,
     "minLegendLevel": 950,
     "sortOrder": 20,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5745,
@@ -80150,7 +80150,7 @@
     "unitAmount": 100,
     "minLegendLevel": 950,
     "sortOrder": 21,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5746,
@@ -80165,7 +80165,7 @@
     "maxLegendLevel": 949,
     "toDecoGlobalStorage": 1,
     "sortOrder": 1,
-    "relationIDs": "999,416",
+    "relationIDs": "999,404",
     "validKingdoms": "0,1,2,3,4"
   },
   {
@@ -80180,7 +80180,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 2,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5748,
@@ -80194,7 +80194,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 3,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5749,
@@ -80207,7 +80207,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 4,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5750,
@@ -80220,7 +80220,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 5,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5751,
@@ -80233,7 +80233,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 6,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5752,
@@ -80246,7 +80246,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 7,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5753,
@@ -80259,7 +80259,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 8,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5754,
@@ -80272,7 +80272,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 9,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5755,
@@ -80285,7 +80285,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 10,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5756,
@@ -80298,7 +80298,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 11,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5757,
@@ -80312,7 +80312,7 @@
     "maxLegendLevel": 949,
     "ignoreCurrencySoftCap": 1,
     "sortOrder": 12,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5758,
@@ -80320,29 +80320,29 @@
     "comment1": "December LTPE Shop - 2026 Lvl 720-1019",
     "comment2": "Mead Range Offensive 10",
     "costXmasLTPEToken": 100,
-    "unitID": 204,
-    "unitAmount": 100,
-    "minLegendLevel": 650,
-    "maxLegendLevel": 949,
-    "hiddenMead": 180000,
-    "ignoreResourceStorageCapacity": 1,
-    "sortOrder": 13,
-    "relationIDs": "999,416"
-  },
-  {
-    "packageID": 5759,
-    "packageType": "tool",
-    "comment1": "December LTPE Shop - 2026 Lvl 720-1019",
-    "comment2": "Mead Meele Offensive 10",
-    "costXmasLTPEToken": 100,
     "unitID": 214,
     "unitAmount": 100,
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "hiddenMead": 180000,
     "ignoreResourceStorageCapacity": 1,
+    "sortOrder": 13,
+    "relationIDs": "999,404"
+  },
+  {
+    "packageID": 5759,
+    "packageType": "tool",
+    "comment1": "December LTPE Shop - 2026 Lvl 720-1019",
+    "comment2": "Mead Melee Offensive 10",
+    "costXmasLTPEToken": 100,
+    "unitID": 204,
+    "unitAmount": 100,
+    "minLegendLevel": 650,
+    "maxLegendLevel": 949,
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1,
     "sortOrder": 14,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5760,
@@ -80350,29 +80350,29 @@
     "comment1": "December LTPE Shop - 2026 Lvl 720-1019",
     "comment2": "Mead Range Defensive 10",
     "costXmasLTPEToken": 100,
-    "unitID": 227,
-    "unitAmount": 100,
-    "minLegendLevel": 650,
-    "maxLegendLevel": 949,
-    "hiddenMead": 180000,
-    "ignoreResourceStorageCapacity": 1,
-    "sortOrder": 15,
-    "relationIDs": "999,416"
-  },
-  {
-    "packageID": 5761,
-    "packageType": "tool",
-    "comment1": "December LTPE Shop - 2026 Lvl 720-1019",
-    "comment2": "Mead Meele Defensive 10",
-    "costXmasLTPEToken": 100,
     "unitID": 238,
     "unitAmount": 100,
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "hiddenMead": 180000,
     "ignoreResourceStorageCapacity": 1,
+    "sortOrder": 15,
+    "relationIDs": "999,404"
+  },
+  {
+    "packageID": 5761,
+    "packageType": "tool",
+    "comment1": "December LTPE Shop - 2026 Lvl 720-1019",
+    "comment2": "Mead Melee Defensive 10",
+    "costXmasLTPEToken": 100,
+    "unitID": 227,
+    "unitAmount": 100,
+    "minLegendLevel": 650,
+    "maxLegendLevel": 949,
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1,
     "sortOrder": 16,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5762,
@@ -80385,7 +80385,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 17,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5763,
@@ -80398,7 +80398,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 18,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5764,
@@ -80411,7 +80411,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 19,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5765,
@@ -80424,7 +80424,7 @@
     "minLegendLevel": 650,
     "maxLegendLevel": 949,
     "sortOrder": 20,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5766,
@@ -80439,7 +80439,7 @@
     "maxLegendLevel": 649,
     "toDecoGlobalStorage": 1,
     "sortOrder": 1,
-    "relationIDs": "999,416",
+    "relationIDs": "999,404",
     "validKingdoms": "0,1,2,3,4"
   },
   {
@@ -80454,7 +80454,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 2,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5768,
@@ -80468,7 +80468,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 3,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5769,
@@ -80481,7 +80481,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 4,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5770,
@@ -80494,7 +80494,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 5,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5771,
@@ -80507,7 +80507,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 6,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5772,
@@ -80520,7 +80520,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 7,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5773,
@@ -80533,7 +80533,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 8,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5774,
@@ -80546,7 +80546,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 9,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5775,
@@ -80559,7 +80559,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 10,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5776,
@@ -80572,7 +80572,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 11,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5777,
@@ -80586,7 +80586,7 @@
     "maxLegendLevel": 649,
     "ignoreCurrencySoftCap": 1,
     "sortOrder": 12,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5778,
@@ -80594,29 +80594,29 @@
     "comment1": "December LTPE Shop - 2026 Lvl 270-719",
     "comment2": "Mead Range Offensive 10",
     "costXmasLTPEToken": 100,
-    "unitID": 204,
-    "unitAmount": 100,
-    "minLegendLevel": 200,
-    "maxLegendLevel": 649,
-    "hiddenMead": 180000,
-    "ignoreResourceStorageCapacity": 1,
-    "sortOrder": 13,
-    "relationIDs": "999,416"
-  },
-  {
-    "packageID": 5779,
-    "packageType": "tool",
-    "comment1": "December LTPE Shop - 2026 Lvl 270-719",
-    "comment2": "Mead Meele Offensive 10",
-    "costXmasLTPEToken": 100,
     "unitID": 214,
     "unitAmount": 100,
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "hiddenMead": 180000,
     "ignoreResourceStorageCapacity": 1,
+    "sortOrder": 13,
+    "relationIDs": "999,404"
+  },
+  {
+    "packageID": 5779,
+    "packageType": "tool",
+    "comment1": "December LTPE Shop - 2026 Lvl 270-719",
+    "comment2": "Mead Melee Offensive 10",
+    "costXmasLTPEToken": 100,
+    "unitID": 204,
+    "unitAmount": 100,
+    "minLegendLevel": 200,
+    "maxLegendLevel": 649,
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1,
     "sortOrder": 14,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5780,
@@ -80624,29 +80624,29 @@
     "comment1": "December LTPE Shop - 2026 Lvl 270-719",
     "comment2": "Mead Range Defensive 10",
     "costXmasLTPEToken": 100,
-    "unitID": 227,
-    "unitAmount": 100,
-    "minLegendLevel": 200,
-    "maxLegendLevel": 649,
-    "hiddenMead": 180000,
-    "ignoreResourceStorageCapacity": 1,
-    "sortOrder": 15,
-    "relationIDs": "999,416"
-  },
-  {
-    "packageID": 5781,
-    "packageType": "tool",
-    "comment1": "December LTPE Shop - 2026 Lvl 270-719",
-    "comment2": "Mead Meele Defensive 10",
-    "costXmasLTPEToken": 100,
     "unitID": 238,
     "unitAmount": 100,
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "hiddenMead": 180000,
     "ignoreResourceStorageCapacity": 1,
+    "sortOrder": 15,
+    "relationIDs": "999,404"
+  },
+  {
+    "packageID": 5781,
+    "packageType": "tool",
+    "comment1": "December LTPE Shop - 2026 Lvl 270-719",
+    "comment2": "Mead Melee Defensive 10",
+    "costXmasLTPEToken": 100,
+    "unitID": 227,
+    "unitAmount": 100,
+    "minLegendLevel": 200,
+    "maxLegendLevel": 649,
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1,
     "sortOrder": 16,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5782,
@@ -80659,7 +80659,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 17,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5783,
@@ -80672,7 +80672,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 18,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5784,
@@ -80685,7 +80685,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 19,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5785,
@@ -80698,7 +80698,7 @@
     "minLegendLevel": 200,
     "maxLegendLevel": 649,
     "sortOrder": 20,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5786,
@@ -80713,7 +80713,7 @@
     "maxLegendLevel": 199,
     "toDecoGlobalStorage": 1,
     "sortOrder": 1,
-    "relationIDs": "999,416",
+    "relationIDs": "999,404",
     "validKingdoms": "0,1,2,3,4"
   },
   {
@@ -80728,7 +80728,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 2,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5788,
@@ -80742,7 +80742,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 3,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5789,
@@ -80755,7 +80755,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 4,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5790,
@@ -80768,7 +80768,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 5,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5791,
@@ -80781,7 +80781,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 6,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5792,
@@ -80794,7 +80794,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 7,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5793,
@@ -80807,7 +80807,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 8,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5794,
@@ -80820,7 +80820,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 9,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5795,
@@ -80833,7 +80833,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 10,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5796,
@@ -80846,7 +80846,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 11,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5797,
@@ -80860,7 +80860,7 @@
     "maxLegendLevel": 199,
     "ignoreCurrencySoftCap": 1,
     "sortOrder": 12,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5798,
@@ -80868,29 +80868,29 @@
     "comment1": "December LTPE Shop - 2026 Lvl 70-269",
     "comment2": "Mead Range Offensive 10",
     "costXmasLTPEToken": 100,
-    "unitID": 204,
-    "unitAmount": 100,
-    "minLevel": 70,
-    "maxLegendLevel": 199,
-    "hiddenMead": 180000,
-    "ignoreResourceStorageCapacity": 1,
-    "sortOrder": 13,
-    "relationIDs": "999,416"
-  },
-  {
-    "packageID": 5799,
-    "packageType": "tool",
-    "comment1": "December LTPE Shop - 2026 Lvl 70-269",
-    "comment2": "Mead Meele Offensive 10",
-    "costXmasLTPEToken": 100,
     "unitID": 214,
     "unitAmount": 100,
     "minLevel": 70,
     "maxLegendLevel": 199,
     "hiddenMead": 180000,
     "ignoreResourceStorageCapacity": 1,
+    "sortOrder": 13,
+    "relationIDs": "999,404"
+  },
+  {
+    "packageID": 5799,
+    "packageType": "tool",
+    "comment1": "December LTPE Shop - 2026 Lvl 70-269",
+    "comment2": "Mead Melee Offensive 10",
+    "costXmasLTPEToken": 100,
+    "unitID": 204,
+    "unitAmount": 100,
+    "minLevel": 70,
+    "maxLegendLevel": 199,
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1,
     "sortOrder": 14,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5800,
@@ -80898,29 +80898,29 @@
     "comment1": "December LTPE Shop - 2026 Lvl 70-269",
     "comment2": "Mead Range Defensive 10",
     "costXmasLTPEToken": 100,
-    "unitID": 227,
-    "unitAmount": 100,
-    "minLevel": 70,
-    "maxLegendLevel": 199,
-    "hiddenMead": 180000,
-    "ignoreResourceStorageCapacity": 1,
-    "sortOrder": 15,
-    "relationIDs": "999,416"
-  },
-  {
-    "packageID": 5801,
-    "packageType": "tool",
-    "comment1": "December LTPE Shop - 2026 Lvl 70-269",
-    "comment2": "Mead Meele Defensive 10",
-    "costXmasLTPEToken": 100,
     "unitID": 238,
     "unitAmount": 100,
     "minLevel": 70,
     "maxLegendLevel": 199,
     "hiddenMead": 180000,
     "ignoreResourceStorageCapacity": 1,
+    "sortOrder": 15,
+    "relationIDs": "999,404"
+  },
+  {
+    "packageID": 5801,
+    "packageType": "tool",
+    "comment1": "December LTPE Shop - 2026 Lvl 70-269",
+    "comment2": "Mead Melee Defensive 10",
+    "costXmasLTPEToken": 100,
+    "unitID": 227,
+    "unitAmount": 100,
+    "minLevel": 70,
+    "maxLegendLevel": 199,
+    "hiddenMead": 180000,
+    "ignoreResourceStorageCapacity": 1,
     "sortOrder": 16,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5802,
@@ -80933,7 +80933,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 17,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5803,
@@ -80946,7 +80946,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 18,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5804,
@@ -80959,7 +80959,7 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 19,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   },
   {
     "packageID": 5805,
@@ -80972,6 +80972,6 @@
     "minLevel": 70,
     "maxLegendLevel": 199,
     "sortOrder": 20,
-    "relationIDs": "999,416"
+    "relationIDs": "999,404"
   }
 ]

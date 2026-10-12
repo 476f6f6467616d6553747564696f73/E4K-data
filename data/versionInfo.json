@@ -1,6 +1,6 @@
 {
-  "version": "787.RC.01",
-  "date": "06/10/2026 13:15:25",
+  "version": "787.RC.03",
+  "date": "07/10/2026 14:18:10",
   "included": {
     "features": "Live,Leviathan,-,CIGroupIDChanges,DonationEvent_October,FloralGachaExtension,BurnableBuildingsFix,RemainingARMERemoval,Generals_Aeryn,LTPE_October,LTPE_November,LTPE_December,OctoberSales,OctoberGacha,UnitMightFix"
   }
