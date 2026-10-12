@@ -771,5 +771,15 @@
     "skinID": 167,
     "crossplayID": 167,
     "name": "AnniversaryWardenBulwark"
+  },
+  {
+    "skinID": 168,
+    "crossplayID": 168,
+    "name": "ForsakenWarlordCrest"
+  },
+  {
+    "skinID": 169,
+    "crossplayID": 169,
+    "name": "ForsakenWardenCrest"
   }
 ]

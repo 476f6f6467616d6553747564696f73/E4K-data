@@ -514,5 +514,21 @@
     "isPreview": 0,
     "isNPCGeneral": 1,
     "isHiddenInOverview": 1
+  },
+  {
+    "generalID": 137,
+    "crossplayID": 137,
+    "generalName": "Aeryn",
+    "attackSlots": "101371,101372,101373,101374",
+    "defenseSlots": "101376,101377,101378,101379",
+    "generalRarityID": 4,
+    "maxLevel": 100,
+    "maxStarLevel": 10,
+    "unlockCurrencyID": 10011,
+    "upgradeCurrencyIDs": "10000,10011",
+    "bgColor": "0x4999DA",
+    "bgColorPreview": "0xC8D7DC",
+    "isPreview": 0,
+    "isNPCGeneral": 0
   }
 ]

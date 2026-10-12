@@ -905,8 +905,10 @@ export interface ConstructionItemRecipe {
 }
 
 export interface ConstructionItem {
+    "Beefreduction"?: number;
     "Coalproduction"?: number;
     "Foodproduction"?: number;
+    "Foodreduction"?: number;
     "Glassproduction"?: number;
     "Ironproduction"?: number;
     "Meadreduction"?: number;
@@ -2431,6 +2433,7 @@ export interface Package {
     "add5HourSkip"?: number;
     "add5MinSkip"?: number;
     "add60MinSkip"?: number;
+    "addAerynToken"?: number;
     "addAshiraToken"?: number;
     "addBalloonsBoosterKey"?: number;
     "addBeadBowlBoosterKey"?: number;
@@ -2604,6 +2607,7 @@ export interface Package {
     "hiddenFood"?: number;
     "hiddenMead"?: number;
     "hideInShop"?: number;
+    "ignoreCurrencySoftCap"?: number;
     "ignoreMinuteSkipCapacity"?: number;
     "ignoreResourceStorageCapacity"?: number;
     "isBannerPackage"?: number;
@@ -2635,6 +2639,7 @@ export interface Package {
     "specialGemOfLevelID"?: number;
     "specialHeroOfRarenessID"?: number;
     "stock"?: number;
+    "toDecoGlobalStorage"?: number;
     "unitAmount"?: number;
     "unitID"?: number;
     "validKingdoms"?: number | string;
@@ -3061,6 +3066,7 @@ export interface Reward {
     "add5HourSkip"?: number;
     "add5MinSkip"?: number;
     "add60MinSkip"?: number;
+    "addAerynToken"?: number;
     "addAnniversaryToken"?: number;
     "addApprenticeToken"?: number;
     "addAshiraToken"?: number;
@@ -3158,10 +3164,10 @@ export interface Reward {
     "addRefinedStone"?: number;
     "addRelicFragment"?: number;
     "addRiftCoin"?: number;
-    "addRiftQuestTicket"?: number;
     "addSaleDaysLuckyWheelTicket"?: number;
     "addSasakiToken"?: number;
     "addSceatToken"?: number;
+    "addShardAeryn"?: number;
     "addShardAlice"?: number;
     "addShardAlyssa"?: number;
     "addShardAshira"?: number;

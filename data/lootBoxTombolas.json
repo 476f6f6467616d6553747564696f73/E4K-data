@@ -36576,6 +36576,8550 @@
     "shares": 100
   },
   {
+    "entryID": 5320,
+    "crossplayID": 5320,
+    "tombolaID": 145,
+    "rewardCategory": 1,
+    "rewardIDs": 11657,
+    "shares": 5000
+  },
+  {
+    "entryID": 5321,
+    "crossplayID": 5321,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11658,
+    "shares": 5000
+  },
+  {
+    "entryID": 5322,
+    "crossplayID": 5322,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11659,
+    "shares": 5000
+  },
+  {
+    "entryID": 5323,
+    "crossplayID": 5323,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11660,
+    "shares": 5000
+  },
+  {
+    "entryID": 5324,
+    "crossplayID": 5324,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11661,
+    "shares": 5000
+  },
+  {
+    "entryID": 5325,
+    "crossplayID": 5325,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11662,
+    "shares": 5000
+  },
+  {
+    "entryID": 5326,
+    "crossplayID": 5326,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11663,
+    "shares": 5000
+  },
+  {
+    "entryID": 5327,
+    "crossplayID": 5327,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11664,
+    "shares": 5000
+  },
+  {
+    "entryID": 5328,
+    "crossplayID": 5328,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11665,
+    "shares": 5000
+  },
+  {
+    "entryID": 5329,
+    "crossplayID": 5329,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11666,
+    "shares": 5000
+  },
+  {
+    "entryID": 5330,
+    "crossplayID": 5330,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11667,
+    "shares": 5000
+  },
+  {
+    "entryID": 5331,
+    "crossplayID": 5331,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11668,
+    "shares": 5000
+  },
+  {
+    "entryID": 5332,
+    "crossplayID": 5332,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11669,
+    "shares": 5000
+  },
+  {
+    "entryID": 5333,
+    "crossplayID": 5333,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11670,
+    "shares": 4200
+  },
+  {
+    "entryID": 5334,
+    "crossplayID": 5334,
+    "tombolaID": 145,
+    "rewardCategory": 1,
+    "rewardIDs": 11671,
+    "shares": 3800
+  },
+  {
+    "entryID": 5335,
+    "crossplayID": 5335,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11674,
+    "shares": 3800
+  },
+  {
+    "entryID": 5336,
+    "crossplayID": 5336,
+    "tombolaID": 145,
+    "rewardCategory": 1,
+    "rewardIDs": 11672,
+    "shares": 2500
+  },
+  {
+    "entryID": 5337,
+    "crossplayID": 5337,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11675,
+    "shares": 2500
+  },
+  {
+    "entryID": 5338,
+    "crossplayID": 5338,
+    "tombolaID": 145,
+    "rewardCategory": 1,
+    "rewardIDs": 11673,
+    "shares": 1900
+  },
+  {
+    "entryID": 5339,
+    "crossplayID": 5339,
+    "tombolaID": 145,
+    "rewardCategory": 3,
+    "rewardIDs": 11684,
+    "shares": 1400
+  },
+  {
+    "entryID": 5340,
+    "crossplayID": 5340,
+    "tombolaID": 145,
+    "rewardCategory": 3,
+    "rewardIDs": 11685,
+    "shares": 1400
+  },
+  {
+    "entryID": 5341,
+    "crossplayID": 5341,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11678,
+    "shares": 1300
+  },
+  {
+    "entryID": 5342,
+    "crossplayID": 5342,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11679,
+    "shares": 1300
+  },
+  {
+    "entryID": 5343,
+    "crossplayID": 5343,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11680,
+    "shares": 1300
+  },
+  {
+    "entryID": 5344,
+    "crossplayID": 5344,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11681,
+    "shares": 1300
+  },
+  {
+    "entryID": 5345,
+    "crossplayID": 5345,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11682,
+    "shares": 1300
+  },
+  {
+    "entryID": 5346,
+    "crossplayID": 5346,
+    "tombolaID": 145,
+    "rewardCategory": 2,
+    "rewardIDs": 11683,
+    "shares": 1300
+  },
+  {
+    "entryID": 5347,
+    "crossplayID": 5347,
+    "tombolaID": 145,
+    "rewardCategory": 3,
+    "rewardIDs": 11686,
+    "shares": 1300
+  },
+  {
+    "entryID": 5348,
+    "crossplayID": 5348,
+    "tombolaID": 145,
+    "rewardCategory": 3,
+    "rewardIDs": 11687,
+    "shares": 1300
+  },
+  {
+    "entryID": 5349,
+    "crossplayID": 5349,
+    "tombolaID": 145,
+    "rewardCategory": 1,
+    "rewardIDs": 11676,
+    "shares": 900
+  },
+  {
+    "entryID": 5350,
+    "crossplayID": 5350,
+    "tombolaID": 145,
+    "rewardCategory": 1,
+    "rewardIDs": 11677,
+    "shares": 900
+  },
+  {
+    "entryID": 5351,
+    "crossplayID": 5351,
+    "tombolaID": 145,
+    "rewardCategory": 4,
+    "rewardIDs": 11653,
+    "shares": 900
+  },
+  {
+    "entryID": 5352,
+    "crossplayID": 5352,
+    "tombolaID": 145,
+    "rewardCategory": 4,
+    "rewardIDs": 11688,
+    "shares": 800
+  },
+  {
+    "entryID": 5353,
+    "crossplayID": 5353,
+    "tombolaID": 145,
+    "rewardCategory": 4,
+    "rewardIDs": 11689,
+    "shares": 100
+  },
+  {
+    "entryID": 5354,
+    "crossplayID": 5354,
+    "tombolaID": 146,
+    "rewardCategory": 1,
+    "rewardIDs": 11690,
+    "shares": 26200
+  },
+  {
+    "entryID": 5355,
+    "crossplayID": 5355,
+    "tombolaID": 146,
+    "rewardCategory": 1,
+    "rewardIDs": 11657,
+    "shares": 26200
+  },
+  {
+    "entryID": 5356,
+    "crossplayID": 5356,
+    "tombolaID": 146,
+    "rewardCategory": 3,
+    "rewardIDs": 11686,
+    "shares": 20100
+  },
+  {
+    "entryID": 5357,
+    "crossplayID": 5357,
+    "tombolaID": 146,
+    "rewardCategory": 3,
+    "rewardIDs": 11687,
+    "shares": 20100
+  },
+  {
+    "entryID": 5358,
+    "crossplayID": 5358,
+    "tombolaID": 146,
+    "rewardCategory": 3,
+    "rewardIDs": 11691,
+    "shares": 20100
+  },
+  {
+    "entryID": 5359,
+    "crossplayID": 5359,
+    "tombolaID": 146,
+    "rewardCategory": 3,
+    "rewardIDs": 11684,
+    "shares": 18700
+  },
+  {
+    "entryID": 5360,
+    "crossplayID": 5360,
+    "tombolaID": 146,
+    "rewardCategory": 3,
+    "rewardIDs": 11685,
+    "shares": 18700
+  },
+  {
+    "entryID": 5361,
+    "crossplayID": 5361,
+    "tombolaID": 146,
+    "rewardCategory": 3,
+    "rewardIDs": 11692,
+    "shares": 18700
+  },
+  {
+    "entryID": 5362,
+    "crossplayID": 5362,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11693,
+    "shares": 16400
+  },
+  {
+    "entryID": 5363,
+    "crossplayID": 5363,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11694,
+    "shares": 16400
+  },
+  {
+    "entryID": 5364,
+    "crossplayID": 5364,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11695,
+    "shares": 16400
+  },
+  {
+    "entryID": 5365,
+    "crossplayID": 5365,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11696,
+    "shares": 16400
+  },
+  {
+    "entryID": 5366,
+    "crossplayID": 5366,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11697,
+    "shares": 16400
+  },
+  {
+    "entryID": 5367,
+    "crossplayID": 5367,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11698,
+    "shares": 16400
+  },
+  {
+    "entryID": 5368,
+    "crossplayID": 5368,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11699,
+    "shares": 16400
+  },
+  {
+    "entryID": 5369,
+    "crossplayID": 5369,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11700,
+    "shares": 16400
+  },
+  {
+    "entryID": 5370,
+    "crossplayID": 5370,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11678,
+    "shares": 16400
+  },
+  {
+    "entryID": 5371,
+    "crossplayID": 5371,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11679,
+    "shares": 16400
+  },
+  {
+    "entryID": 5372,
+    "crossplayID": 5372,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11680,
+    "shares": 16400
+  },
+  {
+    "entryID": 5373,
+    "crossplayID": 5373,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11681,
+    "shares": 16400
+  },
+  {
+    "entryID": 5374,
+    "crossplayID": 5374,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11682,
+    "shares": 16400
+  },
+  {
+    "entryID": 5375,
+    "crossplayID": 5375,
+    "tombolaID": 146,
+    "rewardCategory": 2,
+    "rewardIDs": 11683,
+    "shares": 16400
+  },
+  {
+    "entryID": 5376,
+    "crossplayID": 5376,
+    "tombolaID": 146,
+    "rewardCategory": 4,
+    "rewardIDs": 11689,
+    "shares": 1300
+  },
+  {
+    "entryID": 5377,
+    "crossplayID": 5377,
+    "tombolaID": 146,
+    "rewardCategory": 4,
+    "rewardIDs": 11701,
+    "shares": 700
+  },
+  {
+    "entryID": 5378,
+    "crossplayID": 5378,
+    "tombolaID": 146,
+    "rewardCategory": 4,
+    "rewardIDs": 11702,
+    "shares": 100
+  },
+  {
+    "entryID": 5379,
+    "crossplayID": 5379,
+    "tombolaID": 147,
+    "rewardCategory": 1,
+    "rewardIDs": 11657,
+    "shares": 26000
+  },
+  {
+    "entryID": 5380,
+    "crossplayID": 5380,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11658,
+    "shares": 26000
+  },
+  {
+    "entryID": 5381,
+    "crossplayID": 5381,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11659,
+    "shares": 26000
+  },
+  {
+    "entryID": 5382,
+    "crossplayID": 5382,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11660,
+    "shares": 26000
+  },
+  {
+    "entryID": 5383,
+    "crossplayID": 5383,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11661,
+    "shares": 26000
+  },
+  {
+    "entryID": 5384,
+    "crossplayID": 5384,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11662,
+    "shares": 26000
+  },
+  {
+    "entryID": 5385,
+    "crossplayID": 5385,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11663,
+    "shares": 26000
+  },
+  {
+    "entryID": 5386,
+    "crossplayID": 5386,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11664,
+    "shares": 26000
+  },
+  {
+    "entryID": 5387,
+    "crossplayID": 5387,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11665,
+    "shares": 26000
+  },
+  {
+    "entryID": 5388,
+    "crossplayID": 5388,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11666,
+    "shares": 26000
+  },
+  {
+    "entryID": 5389,
+    "crossplayID": 5389,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11667,
+    "shares": 26000
+  },
+  {
+    "entryID": 5390,
+    "crossplayID": 5390,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11668,
+    "shares": 26000
+  },
+  {
+    "entryID": 5391,
+    "crossplayID": 5391,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11669,
+    "shares": 26000
+  },
+  {
+    "entryID": 5392,
+    "crossplayID": 5392,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11670,
+    "shares": 21600
+  },
+  {
+    "entryID": 5393,
+    "crossplayID": 5393,
+    "tombolaID": 147,
+    "rewardCategory": 1,
+    "rewardIDs": 11671,
+    "shares": 19500
+  },
+  {
+    "entryID": 5394,
+    "crossplayID": 5394,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11674,
+    "shares": 19500
+  },
+  {
+    "entryID": 5395,
+    "crossplayID": 5395,
+    "tombolaID": 147,
+    "rewardCategory": 1,
+    "rewardIDs": 11672,
+    "shares": 13000
+  },
+  {
+    "entryID": 5396,
+    "crossplayID": 5396,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11675,
+    "shares": 13000
+  },
+  {
+    "entryID": 5397,
+    "crossplayID": 5397,
+    "tombolaID": 147,
+    "rewardCategory": 1,
+    "rewardIDs": 11673,
+    "shares": 9700
+  },
+  {
+    "entryID": 5398,
+    "crossplayID": 5398,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11706,
+    "shares": 8700
+  },
+  {
+    "entryID": 5399,
+    "crossplayID": 5399,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11707,
+    "shares": 8700
+  },
+  {
+    "entryID": 5400,
+    "crossplayID": 5400,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11708,
+    "shares": 8700
+  },
+  {
+    "entryID": 5401,
+    "crossplayID": 5401,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11709,
+    "shares": 8700
+  },
+  {
+    "entryID": 5402,
+    "crossplayID": 5402,
+    "tombolaID": 147,
+    "rewardCategory": 1,
+    "rewardIDs": 11703,
+    "shares": 7800
+  },
+  {
+    "entryID": 5403,
+    "crossplayID": 5403,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11684,
+    "shares": 7100
+  },
+  {
+    "entryID": 5404,
+    "crossplayID": 5404,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11685,
+    "shares": 7100
+  },
+  {
+    "entryID": 5405,
+    "crossplayID": 5405,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11710,
+    "shares": 7100
+  },
+  {
+    "entryID": 5406,
+    "crossplayID": 5406,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11711,
+    "shares": 7100
+  },
+  {
+    "entryID": 5407,
+    "crossplayID": 5407,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11712,
+    "shares": 7100
+  },
+  {
+    "entryID": 5408,
+    "crossplayID": 5408,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11713,
+    "shares": 7100
+  },
+  {
+    "entryID": 5409,
+    "crossplayID": 5409,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11678,
+    "shares": 6500
+  },
+  {
+    "entryID": 5410,
+    "crossplayID": 5410,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11679,
+    "shares": 6500
+  },
+  {
+    "entryID": 5411,
+    "crossplayID": 5411,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11680,
+    "shares": 6500
+  },
+  {
+    "entryID": 5412,
+    "crossplayID": 5412,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11681,
+    "shares": 6500
+  },
+  {
+    "entryID": 5413,
+    "crossplayID": 5413,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11682,
+    "shares": 6500
+  },
+  {
+    "entryID": 5414,
+    "crossplayID": 5414,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11683,
+    "shares": 6500
+  },
+  {
+    "entryID": 5415,
+    "crossplayID": 5415,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11686,
+    "shares": 6500
+  },
+  {
+    "entryID": 5416,
+    "crossplayID": 5416,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11687,
+    "shares": 6500
+  },
+  {
+    "entryID": 5417,
+    "crossplayID": 5417,
+    "tombolaID": 147,
+    "rewardCategory": 3,
+    "rewardIDs": 11705,
+    "shares": 5200
+  },
+  {
+    "entryID": 5418,
+    "crossplayID": 5418,
+    "tombolaID": 147,
+    "rewardCategory": 1,
+    "rewardIDs": 11676,
+    "shares": 4900
+  },
+  {
+    "entryID": 5419,
+    "crossplayID": 5419,
+    "tombolaID": 147,
+    "rewardCategory": 1,
+    "rewardIDs": 11677,
+    "shares": 4900
+  },
+  {
+    "entryID": 5420,
+    "crossplayID": 5420,
+    "tombolaID": 147,
+    "rewardCategory": 2,
+    "rewardIDs": 11704,
+    "shares": 4900
+  },
+  {
+    "entryID": 5421,
+    "crossplayID": 5421,
+    "tombolaID": 147,
+    "rewardCategory": 4,
+    "rewardIDs": 11653,
+    "shares": 4900
+  },
+  {
+    "entryID": 5422,
+    "crossplayID": 5422,
+    "tombolaID": 147,
+    "rewardCategory": 4,
+    "rewardIDs": 11688,
+    "shares": 1900
+  },
+  {
+    "entryID": 5423,
+    "crossplayID": 5423,
+    "tombolaID": 147,
+    "rewardCategory": 4,
+    "rewardIDs": 11715,
+    "shares": 1900
+  },
+  {
+    "entryID": 5424,
+    "crossplayID": 5424,
+    "tombolaID": 147,
+    "rewardCategory": 4,
+    "rewardIDs": 11689,
+    "shares": 500
+  },
+  {
+    "entryID": 5425,
+    "crossplayID": 5425,
+    "tombolaID": 147,
+    "rewardCategory": 4,
+    "rewardIDs": 11714,
+    "shares": 500
+  },
+  {
+    "entryID": 5426,
+    "crossplayID": 5426,
+    "tombolaID": 148,
+    "rewardCategory": 4,
+    "rewardIDs": 11716,
+    "shares": 224600
+  },
+  {
+    "entryID": 5427,
+    "crossplayID": 5427,
+    "tombolaID": 148,
+    "rewardCategory": 4,
+    "rewardIDs": 11717,
+    "shares": 112300
+  },
+  {
+    "entryID": 5428,
+    "crossplayID": 5428,
+    "tombolaID": 148,
+    "rewardCategory": 4,
+    "rewardIDs": 11718,
+    "shares": 49900
+  },
+  {
+    "entryID": 5429,
+    "crossplayID": 5429,
+    "tombolaID": 148,
+    "rewardCategory": 2,
+    "rewardIDs": 11719,
+    "shares": 53900
+  },
+  {
+    "entryID": 5430,
+    "crossplayID": 5430,
+    "tombolaID": 148,
+    "rewardCategory": 3,
+    "rewardIDs": 11720,
+    "shares": 33700
+  },
+  {
+    "entryID": 5431,
+    "crossplayID": 5431,
+    "tombolaID": 148,
+    "rewardCategory": 3,
+    "rewardIDs": 11721,
+    "shares": 33700
+  },
+  {
+    "entryID": 5432,
+    "crossplayID": 5432,
+    "tombolaID": 148,
+    "rewardCategory": 3,
+    "rewardIDs": 11722,
+    "shares": 33700
+  },
+  {
+    "entryID": 5433,
+    "crossplayID": 5433,
+    "tombolaID": 148,
+    "rewardCategory": 3,
+    "rewardIDs": 11723,
+    "shares": 27000
+  },
+  {
+    "entryID": 5434,
+    "crossplayID": 5434,
+    "tombolaID": 148,
+    "rewardCategory": 2,
+    "rewardIDs": 11724,
+    "shares": 31200
+  },
+  {
+    "entryID": 5435,
+    "crossplayID": 5435,
+    "tombolaID": 149,
+    "rewardCategory": 1,
+    "rewardIDs": 11657,
+    "shares": 17800
+  },
+  {
+    "entryID": 5436,
+    "crossplayID": 5436,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11658,
+    "shares": 17800
+  },
+  {
+    "entryID": 5437,
+    "crossplayID": 5437,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11659,
+    "shares": 17800
+  },
+  {
+    "entryID": 5438,
+    "crossplayID": 5438,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11660,
+    "shares": 17800
+  },
+  {
+    "entryID": 5439,
+    "crossplayID": 5439,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11661,
+    "shares": 17800
+  },
+  {
+    "entryID": 5440,
+    "crossplayID": 5440,
+    "tombolaID": 149,
+    "rewardCategory": 1,
+    "rewardIDs": 11671,
+    "shares": 13400
+  },
+  {
+    "entryID": 5441,
+    "crossplayID": 5441,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11674,
+    "shares": 13400
+  },
+  {
+    "entryID": 5442,
+    "crossplayID": 5442,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11662,
+    "shares": 8900
+  },
+  {
+    "entryID": 5443,
+    "crossplayID": 5443,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11663,
+    "shares": 8900
+  },
+  {
+    "entryID": 5444,
+    "crossplayID": 5444,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11664,
+    "shares": 8900
+  },
+  {
+    "entryID": 5445,
+    "crossplayID": 5445,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11665,
+    "shares": 8900
+  },
+  {
+    "entryID": 5446,
+    "crossplayID": 5446,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11666,
+    "shares": 8900
+  },
+  {
+    "entryID": 5447,
+    "crossplayID": 5447,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11667,
+    "shares": 8900
+  },
+  {
+    "entryID": 5448,
+    "crossplayID": 5448,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11668,
+    "shares": 8900
+  },
+  {
+    "entryID": 5449,
+    "crossplayID": 5449,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11669,
+    "shares": 8900
+  },
+  {
+    "entryID": 5450,
+    "crossplayID": 5450,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11670,
+    "shares": 8900
+  },
+  {
+    "entryID": 5451,
+    "crossplayID": 5451,
+    "tombolaID": 149,
+    "rewardCategory": 1,
+    "rewardIDs": 11672,
+    "shares": 8900
+  },
+  {
+    "entryID": 5452,
+    "crossplayID": 5452,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11675,
+    "shares": 8900
+  },
+  {
+    "entryID": 5453,
+    "crossplayID": 5453,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11706,
+    "shares": 8900
+  },
+  {
+    "entryID": 5454,
+    "crossplayID": 5454,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11707,
+    "shares": 8900
+  },
+  {
+    "entryID": 5455,
+    "crossplayID": 5455,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11708,
+    "shares": 8900
+  },
+  {
+    "entryID": 5456,
+    "crossplayID": 5456,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11709,
+    "shares": 8900
+  },
+  {
+    "entryID": 5457,
+    "crossplayID": 5457,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11710,
+    "shares": 8900
+  },
+  {
+    "entryID": 5458,
+    "crossplayID": 5458,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11711,
+    "shares": 8900
+  },
+  {
+    "entryID": 5459,
+    "crossplayID": 5459,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11712,
+    "shares": 8900
+  },
+  {
+    "entryID": 5460,
+    "crossplayID": 5460,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11713,
+    "shares": 8900
+  },
+  {
+    "entryID": 5461,
+    "crossplayID": 5461,
+    "tombolaID": 149,
+    "rewardCategory": 1,
+    "rewardIDs": 11673,
+    "shares": 6700
+  },
+  {
+    "entryID": 5462,
+    "crossplayID": 5462,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11725,
+    "shares": 6700
+  },
+  {
+    "entryID": 5463,
+    "crossplayID": 5463,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11726,
+    "shares": 6700
+  },
+  {
+    "entryID": 5464,
+    "crossplayID": 5464,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11727,
+    "shares": 6700
+  },
+  {
+    "entryID": 5465,
+    "crossplayID": 5465,
+    "tombolaID": 149,
+    "rewardCategory": 1,
+    "rewardIDs": 11703,
+    "shares": 5300
+  },
+  {
+    "entryID": 5466,
+    "crossplayID": 5466,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11684,
+    "shares": 4900
+  },
+  {
+    "entryID": 5467,
+    "crossplayID": 5467,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11685,
+    "shares": 4900
+  },
+  {
+    "entryID": 5468,
+    "crossplayID": 5468,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11678,
+    "shares": 4500
+  },
+  {
+    "entryID": 5469,
+    "crossplayID": 5469,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11679,
+    "shares": 4500
+  },
+  {
+    "entryID": 5470,
+    "crossplayID": 5470,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11680,
+    "shares": 4500
+  },
+  {
+    "entryID": 5471,
+    "crossplayID": 5471,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11681,
+    "shares": 4500
+  },
+  {
+    "entryID": 5472,
+    "crossplayID": 5472,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11682,
+    "shares": 4500
+  },
+  {
+    "entryID": 5473,
+    "crossplayID": 5473,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11683,
+    "shares": 4500
+  },
+  {
+    "entryID": 5474,
+    "crossplayID": 5474,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11686,
+    "shares": 4500
+  },
+  {
+    "entryID": 5475,
+    "crossplayID": 5475,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11687,
+    "shares": 4500
+  },
+  {
+    "entryID": 5476,
+    "crossplayID": 5476,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11728,
+    "shares": 3800
+  },
+  {
+    "entryID": 5477,
+    "crossplayID": 5477,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11705,
+    "shares": 3600
+  },
+  {
+    "entryID": 5478,
+    "crossplayID": 5478,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11730,
+    "shares": 3600
+  },
+  {
+    "entryID": 5479,
+    "crossplayID": 5479,
+    "tombolaID": 149,
+    "rewardCategory": 3,
+    "rewardIDs": 11731,
+    "shares": 3600
+  },
+  {
+    "entryID": 5480,
+    "crossplayID": 5480,
+    "tombolaID": 149,
+    "rewardCategory": 1,
+    "rewardIDs": 11676,
+    "shares": 3300
+  },
+  {
+    "entryID": 5481,
+    "crossplayID": 5481,
+    "tombolaID": 149,
+    "rewardCategory": 1,
+    "rewardIDs": 11677,
+    "shares": 3300
+  },
+  {
+    "entryID": 5482,
+    "crossplayID": 5482,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11704,
+    "shares": 3300
+  },
+  {
+    "entryID": 5483,
+    "crossplayID": 5483,
+    "tombolaID": 149,
+    "rewardCategory": 4,
+    "rewardIDs": 11653,
+    "shares": 3300
+  },
+  {
+    "entryID": 5484,
+    "crossplayID": 5484,
+    "tombolaID": 149,
+    "rewardCategory": 2,
+    "rewardIDs": 11729,
+    "shares": 2700
+  },
+  {
+    "entryID": 5485,
+    "crossplayID": 5485,
+    "tombolaID": 149,
+    "rewardCategory": 4,
+    "rewardIDs": 11688,
+    "shares": 1300
+  },
+  {
+    "entryID": 5486,
+    "crossplayID": 5486,
+    "tombolaID": 149,
+    "rewardCategory": 4,
+    "rewardIDs": 11715,
+    "shares": 1300
+  },
+  {
+    "entryID": 5487,
+    "crossplayID": 5487,
+    "tombolaID": 149,
+    "rewardCategory": 4,
+    "rewardIDs": 11689,
+    "shares": 1100
+  },
+  {
+    "entryID": 5488,
+    "crossplayID": 5488,
+    "tombolaID": 149,
+    "rewardCategory": 4,
+    "rewardIDs": 11714,
+    "shares": 900
+  },
+  {
+    "entryID": 5489,
+    "crossplayID": 5489,
+    "tombolaID": 149,
+    "rewardCategory": 4,
+    "rewardIDs": 11734,
+    "shares": 700
+  },
+  {
+    "entryID": 5490,
+    "crossplayID": 5490,
+    "tombolaID": 149,
+    "rewardCategory": 4,
+    "rewardIDs": 11735,
+    "shares": 700
+  },
+  {
+    "entryID": 5491,
+    "crossplayID": 5491,
+    "tombolaID": 149,
+    "rewardCategory": 4,
+    "rewardIDs": 11702,
+    "shares": 700
+  },
+  {
+    "entryID": 5492,
+    "crossplayID": 5492,
+    "tombolaID": 149,
+    "rewardCategory": 4,
+    "rewardIDs": 11733,
+    "shares": 500
+  },
+  {
+    "entryID": 5493,
+    "crossplayID": 5493,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11737,
+    "shares": 22700
+  },
+  {
+    "entryID": 5494,
+    "crossplayID": 5494,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11738,
+    "shares": 22700
+  },
+  {
+    "entryID": 5495,
+    "crossplayID": 5495,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11739,
+    "shares": 22700
+  },
+  {
+    "entryID": 5496,
+    "crossplayID": 5496,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11740,
+    "shares": 21200
+  },
+  {
+    "entryID": 5497,
+    "crossplayID": 5497,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11741,
+    "shares": 21200
+  },
+  {
+    "entryID": 5498,
+    "crossplayID": 5498,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11742,
+    "shares": 21200
+  },
+  {
+    "entryID": 5499,
+    "crossplayID": 5499,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11743,
+    "shares": 21200
+  },
+  {
+    "entryID": 5500,
+    "crossplayID": 5500,
+    "tombolaID": 150,
+    "rewardCategory": 3,
+    "rewardIDs": 11705,
+    "shares": 21200
+  },
+  {
+    "entryID": 5501,
+    "crossplayID": 5501,
+    "tombolaID": 150,
+    "rewardCategory": 3,
+    "rewardIDs": 11730,
+    "shares": 21200
+  },
+  {
+    "entryID": 5502,
+    "crossplayID": 5502,
+    "tombolaID": 150,
+    "rewardCategory": 3,
+    "rewardIDs": 11731,
+    "shares": 21200
+  },
+  {
+    "entryID": 5503,
+    "crossplayID": 5503,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11744,
+    "shares": 21200
+  },
+  {
+    "entryID": 5504,
+    "crossplayID": 5504,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11745,
+    "shares": 21200
+  },
+  {
+    "entryID": 5505,
+    "crossplayID": 5505,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11746,
+    "shares": 21200
+  },
+  {
+    "entryID": 5506,
+    "crossplayID": 5506,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11747,
+    "shares": 21200
+  },
+  {
+    "entryID": 5507,
+    "crossplayID": 5507,
+    "tombolaID": 150,
+    "rewardCategory": 2,
+    "rewardIDs": 11736,
+    "shares": 19900
+  },
+  {
+    "entryID": 5508,
+    "crossplayID": 5508,
+    "tombolaID": 150,
+    "rewardCategory": 4,
+    "rewardIDs": 11653,
+    "shares": 19900
+  },
+  {
+    "entryID": 5509,
+    "crossplayID": 5509,
+    "tombolaID": 150,
+    "rewardCategory": 4,
+    "rewardIDs": 11715,
+    "shares": 15900
+  },
+  {
+    "entryID": 5510,
+    "crossplayID": 5510,
+    "tombolaID": 150,
+    "rewardCategory": 4,
+    "rewardIDs": 11734,
+    "shares": 10600
+  },
+  {
+    "entryID": 5511,
+    "crossplayID": 5511,
+    "tombolaID": 150,
+    "rewardCategory": 4,
+    "rewardIDs": 11735,
+    "shares": 10600
+  },
+  {
+    "entryID": 5512,
+    "crossplayID": 5512,
+    "tombolaID": 150,
+    "rewardCategory": 4,
+    "rewardIDs": 11749,
+    "shares": 6400
+  },
+  {
+    "entryID": 5513,
+    "crossplayID": 5513,
+    "tombolaID": 150,
+    "rewardCategory": 4,
+    "rewardIDs": 11750,
+    "shares": 6400
+  },
+  {
+    "entryID": 5514,
+    "crossplayID": 5514,
+    "tombolaID": 150,
+    "rewardCategory": 4,
+    "rewardIDs": 11751,
+    "shares": 6400
+  },
+  {
+    "entryID": 5515,
+    "crossplayID": 5515,
+    "tombolaID": 150,
+    "rewardCategory": 4,
+    "rewardIDs": 11748,
+    "shares": 3200
+  },
+  {
+    "entryID": 5516,
+    "crossplayID": 5516,
+    "tombolaID": 151,
+    "rewardCategory": 1,
+    "rewardIDs": 11657,
+    "shares": 48200
+  },
+  {
+    "entryID": 5517,
+    "crossplayID": 5517,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11658,
+    "shares": 48200
+  },
+  {
+    "entryID": 5518,
+    "crossplayID": 5518,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11659,
+    "shares": 48200
+  },
+  {
+    "entryID": 5519,
+    "crossplayID": 5519,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11660,
+    "shares": 48200
+  },
+  {
+    "entryID": 5520,
+    "crossplayID": 5520,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11661,
+    "shares": 48200
+  },
+  {
+    "entryID": 5521,
+    "crossplayID": 5521,
+    "tombolaID": 151,
+    "rewardCategory": 1,
+    "rewardIDs": 11671,
+    "shares": 36100
+  },
+  {
+    "entryID": 5522,
+    "crossplayID": 5522,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11674,
+    "shares": 36100
+  },
+  {
+    "entryID": 5523,
+    "crossplayID": 5523,
+    "tombolaID": 151,
+    "rewardCategory": 1,
+    "rewardIDs": 11672,
+    "shares": 24100
+  },
+  {
+    "entryID": 5524,
+    "crossplayID": 5524,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11675,
+    "shares": 24100
+  },
+  {
+    "entryID": 5525,
+    "crossplayID": 5525,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11706,
+    "shares": 24100
+  },
+  {
+    "entryID": 5526,
+    "crossplayID": 5526,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11707,
+    "shares": 24100
+  },
+  {
+    "entryID": 5527,
+    "crossplayID": 5527,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11708,
+    "shares": 24100
+  },
+  {
+    "entryID": 5528,
+    "crossplayID": 5528,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11709,
+    "shares": 24100
+  },
+  {
+    "entryID": 5529,
+    "crossplayID": 5529,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11710,
+    "shares": 24100
+  },
+  {
+    "entryID": 5530,
+    "crossplayID": 5530,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11711,
+    "shares": 24100
+  },
+  {
+    "entryID": 5531,
+    "crossplayID": 5531,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11712,
+    "shares": 24100
+  },
+  {
+    "entryID": 5532,
+    "crossplayID": 5532,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11713,
+    "shares": 24100
+  },
+  {
+    "entryID": 5533,
+    "crossplayID": 5533,
+    "tombolaID": 151,
+    "rewardCategory": 1,
+    "rewardIDs": 11673,
+    "shares": 18100
+  },
+  {
+    "entryID": 5534,
+    "crossplayID": 5534,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11725,
+    "shares": 18100
+  },
+  {
+    "entryID": 5535,
+    "crossplayID": 5535,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11726,
+    "shares": 18100
+  },
+  {
+    "entryID": 5536,
+    "crossplayID": 5536,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11727,
+    "shares": 18100
+  },
+  {
+    "entryID": 5537,
+    "crossplayID": 5537,
+    "tombolaID": 151,
+    "rewardCategory": 1,
+    "rewardIDs": 11703,
+    "shares": 14500
+  },
+  {
+    "entryID": 5538,
+    "crossplayID": 5538,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11684,
+    "shares": 13100
+  },
+  {
+    "entryID": 5539,
+    "crossplayID": 5539,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11685,
+    "shares": 13100
+  },
+  {
+    "entryID": 5540,
+    "crossplayID": 5540,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11678,
+    "shares": 12000
+  },
+  {
+    "entryID": 5541,
+    "crossplayID": 5541,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11679,
+    "shares": 12000
+  },
+  {
+    "entryID": 5542,
+    "crossplayID": 5542,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11680,
+    "shares": 12000
+  },
+  {
+    "entryID": 5543,
+    "crossplayID": 5543,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11681,
+    "shares": 12000
+  },
+  {
+    "entryID": 5544,
+    "crossplayID": 5544,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11682,
+    "shares": 12000
+  },
+  {
+    "entryID": 5545,
+    "crossplayID": 5545,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11683,
+    "shares": 12000
+  },
+  {
+    "entryID": 5546,
+    "crossplayID": 5546,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11686,
+    "shares": 12000
+  },
+  {
+    "entryID": 5547,
+    "crossplayID": 5547,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11687,
+    "shares": 12000
+  },
+  {
+    "entryID": 5548,
+    "crossplayID": 5548,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11728,
+    "shares": 10300
+  },
+  {
+    "entryID": 5549,
+    "crossplayID": 5549,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11752,
+    "shares": 10300
+  },
+  {
+    "entryID": 5550,
+    "crossplayID": 5550,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11753,
+    "shares": 10300
+  },
+  {
+    "entryID": 5551,
+    "crossplayID": 5551,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11754,
+    "shares": 10300
+  },
+  {
+    "entryID": 5552,
+    "crossplayID": 5552,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11755,
+    "shares": 10300
+  },
+  {
+    "entryID": 5553,
+    "crossplayID": 5553,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11705,
+    "shares": 9600
+  },
+  {
+    "entryID": 5554,
+    "crossplayID": 5554,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11730,
+    "shares": 9600
+  },
+  {
+    "entryID": 5555,
+    "crossplayID": 5555,
+    "tombolaID": 151,
+    "rewardCategory": 3,
+    "rewardIDs": 11731,
+    "shares": 9600
+  },
+  {
+    "entryID": 5556,
+    "crossplayID": 5556,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11662,
+    "shares": 9000
+  },
+  {
+    "entryID": 5557,
+    "crossplayID": 5557,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11663,
+    "shares": 9000
+  },
+  {
+    "entryID": 5558,
+    "crossplayID": 5558,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11664,
+    "shares": 9000
+  },
+  {
+    "entryID": 5559,
+    "crossplayID": 5559,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11665,
+    "shares": 9000
+  },
+  {
+    "entryID": 5560,
+    "crossplayID": 5560,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11666,
+    "shares": 9000
+  },
+  {
+    "entryID": 5561,
+    "crossplayID": 5561,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11667,
+    "shares": 9000
+  },
+  {
+    "entryID": 5562,
+    "crossplayID": 5562,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11668,
+    "shares": 9000
+  },
+  {
+    "entryID": 5563,
+    "crossplayID": 5563,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11669,
+    "shares": 9000
+  },
+  {
+    "entryID": 5564,
+    "crossplayID": 5564,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11670,
+    "shares": 9000
+  },
+  {
+    "entryID": 5565,
+    "crossplayID": 5565,
+    "tombolaID": 151,
+    "rewardCategory": 1,
+    "rewardIDs": 11676,
+    "shares": 9000
+  },
+  {
+    "entryID": 5566,
+    "crossplayID": 5566,
+    "tombolaID": 151,
+    "rewardCategory": 1,
+    "rewardIDs": 11677,
+    "shares": 9000
+  },
+  {
+    "entryID": 5567,
+    "crossplayID": 5567,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11704,
+    "shares": 9000
+  },
+  {
+    "entryID": 5568,
+    "crossplayID": 5568,
+    "tombolaID": 151,
+    "rewardCategory": 4,
+    "rewardIDs": 11653,
+    "shares": 9000
+  },
+  {
+    "entryID": 5569,
+    "crossplayID": 5569,
+    "tombolaID": 151,
+    "rewardCategory": 2,
+    "rewardIDs": 11729,
+    "shares": 7200
+  },
+  {
+    "entryID": 5570,
+    "crossplayID": 5570,
+    "tombolaID": 151,
+    "rewardCategory": 4,
+    "rewardIDs": 11688,
+    "shares": 3600
+  },
+  {
+    "entryID": 5571,
+    "crossplayID": 5571,
+    "tombolaID": 151,
+    "rewardCategory": 4,
+    "rewardIDs": 11715,
+    "shares": 3600
+  },
+  {
+    "entryID": 5572,
+    "crossplayID": 5572,
+    "tombolaID": 151,
+    "rewardCategory": 4,
+    "rewardIDs": 11689,
+    "shares": 3600
+  },
+  {
+    "entryID": 5573,
+    "crossplayID": 5573,
+    "tombolaID": 151,
+    "rewardCategory": 4,
+    "rewardIDs": 11714,
+    "shares": 3600
+  },
+  {
+    "entryID": 5574,
+    "crossplayID": 5574,
+    "tombolaID": 151,
+    "rewardCategory": 4,
+    "rewardIDs": 11734,
+    "shares": 3600
+  },
+  {
+    "entryID": 5575,
+    "crossplayID": 5575,
+    "tombolaID": 151,
+    "rewardCategory": 4,
+    "rewardIDs": 11735,
+    "shares": 3600
+  },
+  {
+    "entryID": 5576,
+    "crossplayID": 5576,
+    "tombolaID": 151,
+    "rewardCategory": 4,
+    "rewardIDs": 11702,
+    "shares": 3600
+  },
+  {
+    "entryID": 5577,
+    "crossplayID": 5577,
+    "tombolaID": 151,
+    "rewardCategory": 4,
+    "rewardIDs": 11733,
+    "shares": 2400
+  },
+  {
+    "entryID": 5578,
+    "crossplayID": 5578,
+    "tombolaID": 151,
+    "rewardCategory": 4,
+    "rewardIDs": 11756,
+    "shares": 2100
+  },
+  {
+    "entryID": 5579,
+    "crossplayID": 5579,
+    "tombolaID": 151,
+    "rewardCategory": 4,
+    "rewardIDs": 11749,
+    "shares": 1400
+  },
+  {
+    "entryID": 5580,
+    "crossplayID": 5580,
+    "tombolaID": 152,
+    "rewardCategory": 3,
+    "rewardIDs": 11706,
+    "shares": 172700
+  },
+  {
+    "entryID": 5581,
+    "crossplayID": 5581,
+    "tombolaID": 152,
+    "rewardCategory": 3,
+    "rewardIDs": 11707,
+    "shares": 172700
+  },
+  {
+    "entryID": 5582,
+    "crossplayID": 5582,
+    "tombolaID": 152,
+    "rewardCategory": 3,
+    "rewardIDs": 11708,
+    "shares": 172700
+  },
+  {
+    "entryID": 5583,
+    "crossplayID": 5583,
+    "tombolaID": 152,
+    "rewardCategory": 3,
+    "rewardIDs": 11709,
+    "shares": 172700
+  },
+  {
+    "entryID": 5584,
+    "crossplayID": 5584,
+    "tombolaID": 152,
+    "rewardCategory": 3,
+    "rewardIDs": 11710,
+    "shares": 74000
+  },
+  {
+    "entryID": 5585,
+    "crossplayID": 5585,
+    "tombolaID": 152,
+    "rewardCategory": 3,
+    "rewardIDs": 11711,
+    "shares": 74000
+  },
+  {
+    "entryID": 5586,
+    "crossplayID": 5586,
+    "tombolaID": 152,
+    "rewardCategory": 3,
+    "rewardIDs": 11712,
+    "shares": 74000
+  },
+  {
+    "entryID": 5587,
+    "crossplayID": 5587,
+    "tombolaID": 152,
+    "rewardCategory": 3,
+    "rewardIDs": 11713,
+    "shares": 74000
+  },
+  {
+    "entryID": 5588,
+    "crossplayID": 5588,
+    "tombolaID": 152,
+    "rewardCategory": 4,
+    "rewardIDs": 11757,
+    "shares": 13000
+  },
+  {
+    "entryID": 5589,
+    "crossplayID": 5589,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11658,
+    "shares": 55500
+  },
+  {
+    "entryID": 5590,
+    "crossplayID": 5590,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11659,
+    "shares": 55500
+  },
+  {
+    "entryID": 5591,
+    "crossplayID": 5591,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11660,
+    "shares": 55500
+  },
+  {
+    "entryID": 5592,
+    "crossplayID": 5592,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11661,
+    "shares": 55500
+  },
+  {
+    "entryID": 5593,
+    "crossplayID": 5593,
+    "tombolaID": 153,
+    "rewardCategory": 1,
+    "rewardIDs": 11671,
+    "shares": 41700
+  },
+  {
+    "entryID": 5594,
+    "crossplayID": 5594,
+    "tombolaID": 153,
+    "rewardCategory": 1,
+    "rewardIDs": 11672,
+    "shares": 27800
+  },
+  {
+    "entryID": 5595,
+    "crossplayID": 5595,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11706,
+    "shares": 27800
+  },
+  {
+    "entryID": 5596,
+    "crossplayID": 5596,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11707,
+    "shares": 27800
+  },
+  {
+    "entryID": 5597,
+    "crossplayID": 5597,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11708,
+    "shares": 27800
+  },
+  {
+    "entryID": 5598,
+    "crossplayID": 5598,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11709,
+    "shares": 27800
+  },
+  {
+    "entryID": 5599,
+    "crossplayID": 5599,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11710,
+    "shares": 27800
+  },
+  {
+    "entryID": 5600,
+    "crossplayID": 5600,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11711,
+    "shares": 27800
+  },
+  {
+    "entryID": 5601,
+    "crossplayID": 5601,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11712,
+    "shares": 27800
+  },
+  {
+    "entryID": 5602,
+    "crossplayID": 5602,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11713,
+    "shares": 27800
+  },
+  {
+    "entryID": 5603,
+    "crossplayID": 5603,
+    "tombolaID": 153,
+    "rewardCategory": 1,
+    "rewardIDs": 11673,
+    "shares": 20800
+  },
+  {
+    "entryID": 5604,
+    "crossplayID": 5604,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11725,
+    "shares": 20800
+  },
+  {
+    "entryID": 5605,
+    "crossplayID": 5605,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11726,
+    "shares": 20800
+  },
+  {
+    "entryID": 5606,
+    "crossplayID": 5606,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11727,
+    "shares": 20800
+  },
+  {
+    "entryID": 5607,
+    "crossplayID": 5607,
+    "tombolaID": 153,
+    "rewardCategory": 1,
+    "rewardIDs": 11703,
+    "shares": 16700
+  },
+  {
+    "entryID": 5608,
+    "crossplayID": 5608,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11758,
+    "shares": 16700
+  },
+  {
+    "entryID": 5609,
+    "crossplayID": 5609,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11684,
+    "shares": 15100
+  },
+  {
+    "entryID": 5610,
+    "crossplayID": 5610,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11685,
+    "shares": 15100
+  },
+  {
+    "entryID": 5611,
+    "crossplayID": 5611,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11678,
+    "shares": 13900
+  },
+  {
+    "entryID": 5612,
+    "crossplayID": 5612,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11679,
+    "shares": 13900
+  },
+  {
+    "entryID": 5613,
+    "crossplayID": 5613,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11680,
+    "shares": 13900
+  },
+  {
+    "entryID": 5614,
+    "crossplayID": 5614,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11681,
+    "shares": 13900
+  },
+  {
+    "entryID": 5615,
+    "crossplayID": 5615,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11682,
+    "shares": 13900
+  },
+  {
+    "entryID": 5616,
+    "crossplayID": 5616,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11683,
+    "shares": 13900
+  },
+  {
+    "entryID": 5617,
+    "crossplayID": 5617,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11686,
+    "shares": 13900
+  },
+  {
+    "entryID": 5618,
+    "crossplayID": 5618,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11687,
+    "shares": 13900
+  },
+  {
+    "entryID": 5619,
+    "crossplayID": 5619,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11728,
+    "shares": 11900
+  },
+  {
+    "entryID": 5620,
+    "crossplayID": 5620,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11752,
+    "shares": 11900
+  },
+  {
+    "entryID": 5621,
+    "crossplayID": 5621,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11753,
+    "shares": 11900
+  },
+  {
+    "entryID": 5622,
+    "crossplayID": 5622,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11754,
+    "shares": 11900
+  },
+  {
+    "entryID": 5623,
+    "crossplayID": 5623,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11755,
+    "shares": 11900
+  },
+  {
+    "entryID": 5624,
+    "crossplayID": 5624,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11759,
+    "shares": 11900
+  },
+  {
+    "entryID": 5625,
+    "crossplayID": 5625,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11705,
+    "shares": 11100
+  },
+  {
+    "entryID": 5626,
+    "crossplayID": 5626,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11730,
+    "shares": 11100
+  },
+  {
+    "entryID": 5627,
+    "crossplayID": 5627,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11731,
+    "shares": 11100
+  },
+  {
+    "entryID": 5628,
+    "crossplayID": 5628,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11744,
+    "shares": 11100
+  },
+  {
+    "entryID": 5629,
+    "crossplayID": 5629,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11745,
+    "shares": 11100
+  },
+  {
+    "entryID": 5630,
+    "crossplayID": 5630,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11746,
+    "shares": 11100
+  },
+  {
+    "entryID": 5631,
+    "crossplayID": 5631,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11747,
+    "shares": 11100
+  },
+  {
+    "entryID": 5632,
+    "crossplayID": 5632,
+    "tombolaID": 153,
+    "rewardCategory": 1,
+    "rewardIDs": 11676,
+    "shares": 10400
+  },
+  {
+    "entryID": 5633,
+    "crossplayID": 5633,
+    "tombolaID": 153,
+    "rewardCategory": 1,
+    "rewardIDs": 11677,
+    "shares": 10400
+  },
+  {
+    "entryID": 5634,
+    "crossplayID": 5634,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11704,
+    "shares": 10400
+  },
+  {
+    "entryID": 5635,
+    "crossplayID": 5635,
+    "tombolaID": 153,
+    "rewardCategory": 4,
+    "rewardIDs": 11653,
+    "shares": 10400
+  },
+  {
+    "entryID": 5636,
+    "crossplayID": 5636,
+    "tombolaID": 153,
+    "rewardCategory": 2,
+    "rewardIDs": 11729,
+    "shares": 8300
+  },
+  {
+    "entryID": 5637,
+    "crossplayID": 5637,
+    "tombolaID": 153,
+    "rewardCategory": 4,
+    "rewardIDs": 11688,
+    "shares": 4200
+  },
+  {
+    "entryID": 5638,
+    "crossplayID": 5638,
+    "tombolaID": 153,
+    "rewardCategory": 4,
+    "rewardIDs": 11715,
+    "shares": 4200
+  },
+  {
+    "entryID": 5639,
+    "crossplayID": 5639,
+    "tombolaID": 153,
+    "rewardCategory": 4,
+    "rewardIDs": 11734,
+    "shares": 4200
+  },
+  {
+    "entryID": 5640,
+    "crossplayID": 5640,
+    "tombolaID": 153,
+    "rewardCategory": 4,
+    "rewardIDs": 11735,
+    "shares": 4200
+  },
+  {
+    "entryID": 5641,
+    "crossplayID": 5641,
+    "tombolaID": 153,
+    "rewardCategory": 3,
+    "rewardIDs": 11760,
+    "shares": 4200
+  },
+  {
+    "entryID": 5642,
+    "crossplayID": 5642,
+    "tombolaID": 153,
+    "rewardCategory": 4,
+    "rewardIDs": 11733,
+    "shares": 2800
+  },
+  {
+    "entryID": 5643,
+    "crossplayID": 5643,
+    "tombolaID": 153,
+    "rewardCategory": 4,
+    "rewardIDs": 11756,
+    "shares": 2400
+  },
+  {
+    "entryID": 5644,
+    "crossplayID": 5644,
+    "tombolaID": 153,
+    "rewardCategory": 4,
+    "rewardIDs": 11749,
+    "shares": 1700
+  },
+  {
+    "entryID": 5645,
+    "crossplayID": 5645,
+    "tombolaID": 153,
+    "rewardCategory": 4,
+    "rewardIDs": 11762,
+    "shares": 1200
+  },
+  {
+    "entryID": 5646,
+    "crossplayID": 5646,
+    "tombolaID": 153,
+    "rewardCategory": 4,
+    "rewardIDs": 11761,
+    "shares": 200
+  },
+  {
+    "entryID": 5647,
+    "crossplayID": 5647,
+    "tombolaID": 154,
+    "rewardCategory": 4,
+    "rewardIDs": 11689,
+    "shares": 335100
+  },
+  {
+    "entryID": 5648,
+    "crossplayID": 5648,
+    "tombolaID": 154,
+    "rewardCategory": 4,
+    "rewardIDs": 11701,
+    "shares": 321700
+  },
+  {
+    "entryID": 5649,
+    "crossplayID": 5649,
+    "tombolaID": 154,
+    "rewardCategory": 4,
+    "rewardIDs": 11702,
+    "shares": 107200
+  },
+  {
+    "entryID": 5650,
+    "crossplayID": 5650,
+    "tombolaID": 154,
+    "rewardCategory": 4,
+    "rewardIDs": 11733,
+    "shares": 107200
+  },
+  {
+    "entryID": 5651,
+    "crossplayID": 5651,
+    "tombolaID": 154,
+    "rewardCategory": 4,
+    "rewardIDs": 11756,
+    "shares": 64300
+  },
+  {
+    "entryID": 5652,
+    "crossplayID": 5652,
+    "tombolaID": 154,
+    "rewardCategory": 4,
+    "rewardIDs": 11761,
+    "shares": 64300
+  },
+  {
+    "entryID": 5653,
+    "crossplayID": 5653,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11763,
+    "shares": 55400
+  },
+  {
+    "entryID": 5654,
+    "crossplayID": 5654,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11764,
+    "shares": 55400
+  },
+  {
+    "entryID": 5655,
+    "crossplayID": 5655,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11765,
+    "shares": 55400
+  },
+  {
+    "entryID": 5656,
+    "crossplayID": 5656,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11766,
+    "shares": 55400
+  },
+  {
+    "entryID": 5657,
+    "crossplayID": 5657,
+    "tombolaID": 155,
+    "rewardCategory": 1,
+    "rewardIDs": 11767,
+    "shares": 41500
+  },
+  {
+    "entryID": 5658,
+    "crossplayID": 5658,
+    "tombolaID": 155,
+    "rewardCategory": 1,
+    "rewardIDs": 11768,
+    "shares": 27700
+  },
+  {
+    "entryID": 5659,
+    "crossplayID": 5659,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11706,
+    "shares": 27700
+  },
+  {
+    "entryID": 5660,
+    "crossplayID": 5660,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11707,
+    "shares": 27700
+  },
+  {
+    "entryID": 5661,
+    "crossplayID": 5661,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11708,
+    "shares": 27700
+  },
+  {
+    "entryID": 5662,
+    "crossplayID": 5662,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11709,
+    "shares": 27700
+  },
+  {
+    "entryID": 5663,
+    "crossplayID": 5663,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11710,
+    "shares": 27700
+  },
+  {
+    "entryID": 5664,
+    "crossplayID": 5664,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11711,
+    "shares": 27700
+  },
+  {
+    "entryID": 5665,
+    "crossplayID": 5665,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11712,
+    "shares": 27700
+  },
+  {
+    "entryID": 5666,
+    "crossplayID": 5666,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11713,
+    "shares": 27700
+  },
+  {
+    "entryID": 5667,
+    "crossplayID": 5667,
+    "tombolaID": 155,
+    "rewardCategory": 1,
+    "rewardIDs": 11673,
+    "shares": 20800
+  },
+  {
+    "entryID": 5668,
+    "crossplayID": 5668,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11725,
+    "shares": 20800
+  },
+  {
+    "entryID": 5669,
+    "crossplayID": 5669,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11770,
+    "shares": 20800
+  },
+  {
+    "entryID": 5670,
+    "crossplayID": 5670,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11771,
+    "shares": 20800
+  },
+  {
+    "entryID": 5671,
+    "crossplayID": 5671,
+    "tombolaID": 155,
+    "rewardCategory": 1,
+    "rewardIDs": 11703,
+    "shares": 16600
+  },
+  {
+    "entryID": 5672,
+    "crossplayID": 5672,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11772,
+    "shares": 16600
+  },
+  {
+    "entryID": 5673,
+    "crossplayID": 5673,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11684,
+    "shares": 15100
+  },
+  {
+    "entryID": 5674,
+    "crossplayID": 5674,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11685,
+    "shares": 15100
+  },
+  {
+    "entryID": 5675,
+    "crossplayID": 5675,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11678,
+    "shares": 13800
+  },
+  {
+    "entryID": 5676,
+    "crossplayID": 5676,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11679,
+    "shares": 13800
+  },
+  {
+    "entryID": 5677,
+    "crossplayID": 5677,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11680,
+    "shares": 13800
+  },
+  {
+    "entryID": 5678,
+    "crossplayID": 5678,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11681,
+    "shares": 13800
+  },
+  {
+    "entryID": 5679,
+    "crossplayID": 5679,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11682,
+    "shares": 13800
+  },
+  {
+    "entryID": 5680,
+    "crossplayID": 5680,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11683,
+    "shares": 13800
+  },
+  {
+    "entryID": 5681,
+    "crossplayID": 5681,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11686,
+    "shares": 13800
+  },
+  {
+    "entryID": 5682,
+    "crossplayID": 5682,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11687,
+    "shares": 13800
+  },
+  {
+    "entryID": 5683,
+    "crossplayID": 5683,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11728,
+    "shares": 11900
+  },
+  {
+    "entryID": 5684,
+    "crossplayID": 5684,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11752,
+    "shares": 11900
+  },
+  {
+    "entryID": 5685,
+    "crossplayID": 5685,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11753,
+    "shares": 11900
+  },
+  {
+    "entryID": 5686,
+    "crossplayID": 5686,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11754,
+    "shares": 11900
+  },
+  {
+    "entryID": 5687,
+    "crossplayID": 5687,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11755,
+    "shares": 11900
+  },
+  {
+    "entryID": 5688,
+    "crossplayID": 5688,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11773,
+    "shares": 11900
+  },
+  {
+    "entryID": 5689,
+    "crossplayID": 5689,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11705,
+    "shares": 11100
+  },
+  {
+    "entryID": 5690,
+    "crossplayID": 5690,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11730,
+    "shares": 11100
+  },
+  {
+    "entryID": 5691,
+    "crossplayID": 5691,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11731,
+    "shares": 11100
+  },
+  {
+    "entryID": 5692,
+    "crossplayID": 5692,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11744,
+    "shares": 11100
+  },
+  {
+    "entryID": 5693,
+    "crossplayID": 5693,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11745,
+    "shares": 11100
+  },
+  {
+    "entryID": 5694,
+    "crossplayID": 5694,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11746,
+    "shares": 11100
+  },
+  {
+    "entryID": 5695,
+    "crossplayID": 5695,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11747,
+    "shares": 11100
+  },
+  {
+    "entryID": 5696,
+    "crossplayID": 5696,
+    "tombolaID": 155,
+    "rewardCategory": 1,
+    "rewardIDs": 11676,
+    "shares": 10400
+  },
+  {
+    "entryID": 5697,
+    "crossplayID": 5697,
+    "tombolaID": 155,
+    "rewardCategory": 1,
+    "rewardIDs": 11677,
+    "shares": 10400
+  },
+  {
+    "entryID": 5698,
+    "crossplayID": 5698,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11704,
+    "shares": 10400
+  },
+  {
+    "entryID": 5699,
+    "crossplayID": 5699,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11653,
+    "shares": 10400
+  },
+  {
+    "entryID": 5700,
+    "crossplayID": 5700,
+    "tombolaID": 155,
+    "rewardCategory": 2,
+    "rewardIDs": 11729,
+    "shares": 8300
+  },
+  {
+    "entryID": 5701,
+    "crossplayID": 5701,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11688,
+    "shares": 4200
+  },
+  {
+    "entryID": 5702,
+    "crossplayID": 5702,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11715,
+    "shares": 4200
+  },
+  {
+    "entryID": 5703,
+    "crossplayID": 5703,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11734,
+    "shares": 4200
+  },
+  {
+    "entryID": 5704,
+    "crossplayID": 5704,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11735,
+    "shares": 4200
+  },
+  {
+    "entryID": 5705,
+    "crossplayID": 5705,
+    "tombolaID": 155,
+    "rewardCategory": 3,
+    "rewardIDs": 11760,
+    "shares": 4200
+  },
+  {
+    "entryID": 5706,
+    "crossplayID": 5706,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11733,
+    "shares": 2800
+  },
+  {
+    "entryID": 5707,
+    "crossplayID": 5707,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11756,
+    "shares": 2400
+  },
+  {
+    "entryID": 5708,
+    "crossplayID": 5708,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11749,
+    "shares": 1700
+  },
+  {
+    "entryID": 5709,
+    "crossplayID": 5709,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11762,
+    "shares": 1200
+  },
+  {
+    "entryID": 5710,
+    "crossplayID": 5710,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11774,
+    "shares": 1000
+  },
+  {
+    "entryID": 5711,
+    "crossplayID": 5711,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11775,
+    "shares": 1000
+  },
+  {
+    "entryID": 5712,
+    "crossplayID": 5712,
+    "tombolaID": 155,
+    "rewardCategory": 4,
+    "rewardIDs": 11761,
+    "shares": 1000
+  },
+  {
+    "entryID": 5713,
+    "crossplayID": 5713,
+    "tombolaID": 156,
+    "rewardCategory": 1,
+    "rewardIDs": 11779,
+    "shares": 290200
+  },
+  {
+    "entryID": 5714,
+    "crossplayID": 5714,
+    "tombolaID": 156,
+    "rewardCategory": 1,
+    "rewardIDs": 11780,
+    "shares": 193500
+  },
+  {
+    "entryID": 5715,
+    "crossplayID": 5715,
+    "tombolaID": 156,
+    "rewardCategory": 1,
+    "rewardIDs": 11781,
+    "shares": 96700
+  },
+  {
+    "entryID": 5716,
+    "crossplayID": 5716,
+    "tombolaID": 156,
+    "rewardCategory": 2,
+    "rewardIDs": 11782,
+    "shares": 116100
+  },
+  {
+    "entryID": 5717,
+    "crossplayID": 5717,
+    "tombolaID": 156,
+    "rewardCategory": 2,
+    "rewardIDs": 11783,
+    "shares": 58000
+  },
+  {
+    "entryID": 5718,
+    "crossplayID": 5718,
+    "tombolaID": 156,
+    "rewardCategory": 2,
+    "rewardIDs": 11784,
+    "shares": 46400
+  },
+  {
+    "entryID": 5719,
+    "crossplayID": 5719,
+    "tombolaID": 156,
+    "rewardCategory": 3,
+    "rewardIDs": 11785,
+    "shares": 82900
+  },
+  {
+    "entryID": 5720,
+    "crossplayID": 5720,
+    "tombolaID": 156,
+    "rewardCategory": 3,
+    "rewardIDs": 11786,
+    "shares": 58000
+  },
+  {
+    "entryID": 5721,
+    "crossplayID": 5721,
+    "tombolaID": 156,
+    "rewardCategory": 4,
+    "rewardIDs": 11787,
+    "shares": 58000
+  },
+  {
+    "entryID": 5722,
+    "crossplayID": 5722,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11763,
+    "shares": 55100
+  },
+  {
+    "entryID": 5723,
+    "crossplayID": 5723,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11764,
+    "shares": 55100
+  },
+  {
+    "entryID": 5724,
+    "crossplayID": 5724,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11765,
+    "shares": 55100
+  },
+  {
+    "entryID": 5725,
+    "crossplayID": 5725,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11766,
+    "shares": 55100
+  },
+  {
+    "entryID": 5726,
+    "crossplayID": 5726,
+    "tombolaID": 157,
+    "rewardCategory": 1,
+    "rewardIDs": 11767,
+    "shares": 41300
+  },
+  {
+    "entryID": 5727,
+    "crossplayID": 5727,
+    "tombolaID": 157,
+    "rewardCategory": 1,
+    "rewardIDs": 11768,
+    "shares": 27500
+  },
+  {
+    "entryID": 5728,
+    "crossplayID": 5728,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11706,
+    "shares": 27500
+  },
+  {
+    "entryID": 5729,
+    "crossplayID": 5729,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11707,
+    "shares": 27500
+  },
+  {
+    "entryID": 5730,
+    "crossplayID": 5730,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11708,
+    "shares": 27500
+  },
+  {
+    "entryID": 5731,
+    "crossplayID": 5731,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11709,
+    "shares": 27500
+  },
+  {
+    "entryID": 5732,
+    "crossplayID": 5732,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11710,
+    "shares": 27500
+  },
+  {
+    "entryID": 5733,
+    "crossplayID": 5733,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11711,
+    "shares": 27500
+  },
+  {
+    "entryID": 5734,
+    "crossplayID": 5734,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11712,
+    "shares": 27500
+  },
+  {
+    "entryID": 5735,
+    "crossplayID": 5735,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11713,
+    "shares": 27500
+  },
+  {
+    "entryID": 5736,
+    "crossplayID": 5736,
+    "tombolaID": 157,
+    "rewardCategory": 1,
+    "rewardIDs": 11673,
+    "shares": 20700
+  },
+  {
+    "entryID": 5737,
+    "crossplayID": 5737,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11725,
+    "shares": 20700
+  },
+  {
+    "entryID": 5738,
+    "crossplayID": 5738,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11770,
+    "shares": 20700
+  },
+  {
+    "entryID": 5739,
+    "crossplayID": 5739,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11771,
+    "shares": 20700
+  },
+  {
+    "entryID": 5740,
+    "crossplayID": 5740,
+    "tombolaID": 157,
+    "rewardCategory": 1,
+    "rewardIDs": 11703,
+    "shares": 16500
+  },
+  {
+    "entryID": 5741,
+    "crossplayID": 5741,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11772,
+    "shares": 16500
+  },
+  {
+    "entryID": 5742,
+    "crossplayID": 5742,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11684,
+    "shares": 15000
+  },
+  {
+    "entryID": 5743,
+    "crossplayID": 5743,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11685,
+    "shares": 15000
+  },
+  {
+    "entryID": 5744,
+    "crossplayID": 5744,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11678,
+    "shares": 13800
+  },
+  {
+    "entryID": 5745,
+    "crossplayID": 5745,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11679,
+    "shares": 13800
+  },
+  {
+    "entryID": 5746,
+    "crossplayID": 5746,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11680,
+    "shares": 13800
+  },
+  {
+    "entryID": 5747,
+    "crossplayID": 5747,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11681,
+    "shares": 13800
+  },
+  {
+    "entryID": 5748,
+    "crossplayID": 5748,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11682,
+    "shares": 13800
+  },
+  {
+    "entryID": 5749,
+    "crossplayID": 5749,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11683,
+    "shares": 13800
+  },
+  {
+    "entryID": 5750,
+    "crossplayID": 5750,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11686,
+    "shares": 13800
+  },
+  {
+    "entryID": 5751,
+    "crossplayID": 5751,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11687,
+    "shares": 13800
+  },
+  {
+    "entryID": 5752,
+    "crossplayID": 5752,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11728,
+    "shares": 11800
+  },
+  {
+    "entryID": 5753,
+    "crossplayID": 5753,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11752,
+    "shares": 11800
+  },
+  {
+    "entryID": 5754,
+    "crossplayID": 5754,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11753,
+    "shares": 11800
+  },
+  {
+    "entryID": 5755,
+    "crossplayID": 5755,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11754,
+    "shares": 11800
+  },
+  {
+    "entryID": 5756,
+    "crossplayID": 5756,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11755,
+    "shares": 11800
+  },
+  {
+    "entryID": 5757,
+    "crossplayID": 5757,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11773,
+    "shares": 11800
+  },
+  {
+    "entryID": 5758,
+    "crossplayID": 5758,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11705,
+    "shares": 11000
+  },
+  {
+    "entryID": 5759,
+    "crossplayID": 5759,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11730,
+    "shares": 11000
+  },
+  {
+    "entryID": 5760,
+    "crossplayID": 5760,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11731,
+    "shares": 11000
+  },
+  {
+    "entryID": 5761,
+    "crossplayID": 5761,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11744,
+    "shares": 11000
+  },
+  {
+    "entryID": 5762,
+    "crossplayID": 5762,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11745,
+    "shares": 11000
+  },
+  {
+    "entryID": 5763,
+    "crossplayID": 5763,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11746,
+    "shares": 11000
+  },
+  {
+    "entryID": 5764,
+    "crossplayID": 5764,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11747,
+    "shares": 11000
+  },
+  {
+    "entryID": 5765,
+    "crossplayID": 5765,
+    "tombolaID": 157,
+    "rewardCategory": 1,
+    "rewardIDs": 11676,
+    "shares": 10300
+  },
+  {
+    "entryID": 5766,
+    "crossplayID": 5766,
+    "tombolaID": 157,
+    "rewardCategory": 1,
+    "rewardIDs": 11677,
+    "shares": 10300
+  },
+  {
+    "entryID": 5767,
+    "crossplayID": 5767,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11704,
+    "shares": 10300
+  },
+  {
+    "entryID": 5768,
+    "crossplayID": 5768,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11653,
+    "shares": 10300
+  },
+  {
+    "entryID": 5769,
+    "crossplayID": 5769,
+    "tombolaID": 157,
+    "rewardCategory": 2,
+    "rewardIDs": 11729,
+    "shares": 8300
+  },
+  {
+    "entryID": 5770,
+    "crossplayID": 5770,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11688,
+    "shares": 4100
+  },
+  {
+    "entryID": 5771,
+    "crossplayID": 5771,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11715,
+    "shares": 4100
+  },
+  {
+    "entryID": 5772,
+    "crossplayID": 5772,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11734,
+    "shares": 4100
+  },
+  {
+    "entryID": 5773,
+    "crossplayID": 5773,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11735,
+    "shares": 4100
+  },
+  {
+    "entryID": 5774,
+    "crossplayID": 5774,
+    "tombolaID": 157,
+    "rewardCategory": 3,
+    "rewardIDs": 11760,
+    "shares": 4100
+  },
+  {
+    "entryID": 5775,
+    "crossplayID": 5775,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11733,
+    "shares": 2800
+  },
+  {
+    "entryID": 5776,
+    "crossplayID": 5776,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11756,
+    "shares": 2400
+  },
+  {
+    "entryID": 5777,
+    "crossplayID": 5777,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11749,
+    "shares": 2100
+  },
+  {
+    "entryID": 5778,
+    "crossplayID": 5778,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11762,
+    "shares": 1700
+  },
+  {
+    "entryID": 5779,
+    "crossplayID": 5779,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11774,
+    "shares": 1400
+  },
+  {
+    "entryID": 5780,
+    "crossplayID": 5780,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11775,
+    "shares": 1400
+  },
+  {
+    "entryID": 5781,
+    "crossplayID": 5781,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11761,
+    "shares": 1400
+  },
+  {
+    "entryID": 5782,
+    "crossplayID": 5782,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11776,
+    "shares": 1200
+  },
+  {
+    "entryID": 5783,
+    "crossplayID": 5783,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11777,
+    "shares": 1200
+  },
+  {
+    "entryID": 5784,
+    "crossplayID": 5784,
+    "tombolaID": 157,
+    "rewardCategory": 4,
+    "rewardIDs": 11778,
+    "shares": 1200
+  },
+  {
+    "entryID": 5785,
+    "crossplayID": 5785,
+    "tombolaID": 158,
+    "rewardCategory": 4,
+    "rewardIDs": 11762,
+    "shares": 196700
+  },
+  {
+    "entryID": 5786,
+    "crossplayID": 5786,
+    "tombolaID": 158,
+    "rewardCategory": 4,
+    "rewardIDs": 11774,
+    "shares": 172100
+  },
+  {
+    "entryID": 5787,
+    "crossplayID": 5787,
+    "tombolaID": 158,
+    "rewardCategory": 4,
+    "rewardIDs": 11775,
+    "shares": 172100
+  },
+  {
+    "entryID": 5788,
+    "crossplayID": 5788,
+    "tombolaID": 158,
+    "rewardCategory": 4,
+    "rewardIDs": 11776,
+    "shares": 153000
+  },
+  {
+    "entryID": 5789,
+    "crossplayID": 5789,
+    "tombolaID": 158,
+    "rewardCategory": 4,
+    "rewardIDs": 11777,
+    "shares": 153000
+  },
+  {
+    "entryID": 5790,
+    "crossplayID": 5790,
+    "tombolaID": 158,
+    "rewardCategory": 4,
+    "rewardIDs": 11778,
+    "shares": 153000
+  },
+  {
+    "entryID": 5791,
+    "crossplayID": 5791,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11763,
+    "shares": 55100
+  },
+  {
+    "entryID": 5792,
+    "crossplayID": 5792,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11764,
+    "shares": 55100
+  },
+  {
+    "entryID": 5793,
+    "crossplayID": 5793,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11765,
+    "shares": 55100
+  },
+  {
+    "entryID": 5794,
+    "crossplayID": 5794,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11766,
+    "shares": 55100
+  },
+  {
+    "entryID": 5795,
+    "crossplayID": 5795,
+    "tombolaID": 159,
+    "rewardCategory": 1,
+    "rewardIDs": 11767,
+    "shares": 41300
+  },
+  {
+    "entryID": 5796,
+    "crossplayID": 5796,
+    "tombolaID": 159,
+    "rewardCategory": 1,
+    "rewardIDs": 11768,
+    "shares": 27500
+  },
+  {
+    "entryID": 5797,
+    "crossplayID": 5797,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11706,
+    "shares": 27500
+  },
+  {
+    "entryID": 5798,
+    "crossplayID": 5798,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11707,
+    "shares": 27500
+  },
+  {
+    "entryID": 5799,
+    "crossplayID": 5799,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11708,
+    "shares": 27500
+  },
+  {
+    "entryID": 5800,
+    "crossplayID": 5800,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11709,
+    "shares": 27500
+  },
+  {
+    "entryID": 5801,
+    "crossplayID": 5801,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11710,
+    "shares": 27500
+  },
+  {
+    "entryID": 5802,
+    "crossplayID": 5802,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11711,
+    "shares": 27500
+  },
+  {
+    "entryID": 5803,
+    "crossplayID": 5803,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11712,
+    "shares": 27500
+  },
+  {
+    "entryID": 5804,
+    "crossplayID": 5804,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11713,
+    "shares": 27500
+  },
+  {
+    "entryID": 5805,
+    "crossplayID": 5805,
+    "tombolaID": 159,
+    "rewardCategory": 1,
+    "rewardIDs": 11673,
+    "shares": 20700
+  },
+  {
+    "entryID": 5806,
+    "crossplayID": 5806,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11725,
+    "shares": 20700
+  },
+  {
+    "entryID": 5807,
+    "crossplayID": 5807,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11770,
+    "shares": 20700
+  },
+  {
+    "entryID": 5808,
+    "crossplayID": 5808,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11771,
+    "shares": 20700
+  },
+  {
+    "entryID": 5809,
+    "crossplayID": 5809,
+    "tombolaID": 159,
+    "rewardCategory": 1,
+    "rewardIDs": 11703,
+    "shares": 16500
+  },
+  {
+    "entryID": 5810,
+    "crossplayID": 5810,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11772,
+    "shares": 16500
+  },
+  {
+    "entryID": 5811,
+    "crossplayID": 5811,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11684,
+    "shares": 15000
+  },
+  {
+    "entryID": 5812,
+    "crossplayID": 5812,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11685,
+    "shares": 15000
+  },
+  {
+    "entryID": 5813,
+    "crossplayID": 5813,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11678,
+    "shares": 13800
+  },
+  {
+    "entryID": 5814,
+    "crossplayID": 5814,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11679,
+    "shares": 13800
+  },
+  {
+    "entryID": 5815,
+    "crossplayID": 5815,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11680,
+    "shares": 13800
+  },
+  {
+    "entryID": 5816,
+    "crossplayID": 5816,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11681,
+    "shares": 13800
+  },
+  {
+    "entryID": 5817,
+    "crossplayID": 5817,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11682,
+    "shares": 13800
+  },
+  {
+    "entryID": 5818,
+    "crossplayID": 5818,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11683,
+    "shares": 13800
+  },
+  {
+    "entryID": 5819,
+    "crossplayID": 5819,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11686,
+    "shares": 13800
+  },
+  {
+    "entryID": 5820,
+    "crossplayID": 5820,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11687,
+    "shares": 13800
+  },
+  {
+    "entryID": 5821,
+    "crossplayID": 5821,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11728,
+    "shares": 11800
+  },
+  {
+    "entryID": 5822,
+    "crossplayID": 5822,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11752,
+    "shares": 11800
+  },
+  {
+    "entryID": 5823,
+    "crossplayID": 5823,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11753,
+    "shares": 11800
+  },
+  {
+    "entryID": 5824,
+    "crossplayID": 5824,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11754,
+    "shares": 11800
+  },
+  {
+    "entryID": 5825,
+    "crossplayID": 5825,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11755,
+    "shares": 11800
+  },
+  {
+    "entryID": 5826,
+    "crossplayID": 5826,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11773,
+    "shares": 11800
+  },
+  {
+    "entryID": 5827,
+    "crossplayID": 5827,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11705,
+    "shares": 11000
+  },
+  {
+    "entryID": 5828,
+    "crossplayID": 5828,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11730,
+    "shares": 11000
+  },
+  {
+    "entryID": 5829,
+    "crossplayID": 5829,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11731,
+    "shares": 11000
+  },
+  {
+    "entryID": 5830,
+    "crossplayID": 5830,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11744,
+    "shares": 11000
+  },
+  {
+    "entryID": 5831,
+    "crossplayID": 5831,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11745,
+    "shares": 11000
+  },
+  {
+    "entryID": 5832,
+    "crossplayID": 5832,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11746,
+    "shares": 11000
+  },
+  {
+    "entryID": 5833,
+    "crossplayID": 5833,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11747,
+    "shares": 11000
+  },
+  {
+    "entryID": 5834,
+    "crossplayID": 5834,
+    "tombolaID": 159,
+    "rewardCategory": 1,
+    "rewardIDs": 11676,
+    "shares": 10300
+  },
+  {
+    "entryID": 5835,
+    "crossplayID": 5835,
+    "tombolaID": 159,
+    "rewardCategory": 1,
+    "rewardIDs": 11677,
+    "shares": 10300
+  },
+  {
+    "entryID": 5836,
+    "crossplayID": 5836,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11704,
+    "shares": 10300
+  },
+  {
+    "entryID": 5837,
+    "crossplayID": 5837,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11653,
+    "shares": 10300
+  },
+  {
+    "entryID": 5838,
+    "crossplayID": 5838,
+    "tombolaID": 159,
+    "rewardCategory": 2,
+    "rewardIDs": 11729,
+    "shares": 8300
+  },
+  {
+    "entryID": 5839,
+    "crossplayID": 5839,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11688,
+    "shares": 4100
+  },
+  {
+    "entryID": 5840,
+    "crossplayID": 5840,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11715,
+    "shares": 4100
+  },
+  {
+    "entryID": 5841,
+    "crossplayID": 5841,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11734,
+    "shares": 4100
+  },
+  {
+    "entryID": 5842,
+    "crossplayID": 5842,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11735,
+    "shares": 4100
+  },
+  {
+    "entryID": 5843,
+    "crossplayID": 5843,
+    "tombolaID": 159,
+    "rewardCategory": 3,
+    "rewardIDs": 11760,
+    "shares": 4100
+  },
+  {
+    "entryID": 5844,
+    "crossplayID": 5844,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11733,
+    "shares": 2800
+  },
+  {
+    "entryID": 5845,
+    "crossplayID": 5845,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11756,
+    "shares": 2400
+  },
+  {
+    "entryID": 5846,
+    "crossplayID": 5846,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11749,
+    "shares": 2100
+  },
+  {
+    "entryID": 5847,
+    "crossplayID": 5847,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11762,
+    "shares": 1700
+  },
+  {
+    "entryID": 5848,
+    "crossplayID": 5848,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11774,
+    "shares": 1400
+  },
+  {
+    "entryID": 5849,
+    "crossplayID": 5849,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11775,
+    "shares": 1400
+  },
+  {
+    "entryID": 5850,
+    "crossplayID": 5850,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11761,
+    "shares": 1400
+  },
+  {
+    "entryID": 5851,
+    "crossplayID": 5851,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11776,
+    "shares": 1200
+  },
+  {
+    "entryID": 5852,
+    "crossplayID": 5852,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11777,
+    "shares": 1200
+  },
+  {
+    "entryID": 5853,
+    "crossplayID": 5853,
+    "tombolaID": 159,
+    "rewardCategory": 4,
+    "rewardIDs": 11778,
+    "shares": 1200
+  },
+  {
+    "entryID": 5854,
+    "crossplayID": 5854,
+    "tombolaID": 160,
+    "rewardCategory": 1,
+    "rewardIDs": 11795,
+    "shares": 5000
+  },
+  {
+    "entryID": 5855,
+    "crossplayID": 5855,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11796,
+    "shares": 5000
+  },
+  {
+    "entryID": 5856,
+    "crossplayID": 5856,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11797,
+    "shares": 5000
+  },
+  {
+    "entryID": 5857,
+    "crossplayID": 5857,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11798,
+    "shares": 5000
+  },
+  {
+    "entryID": 5858,
+    "crossplayID": 5858,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11799,
+    "shares": 5000
+  },
+  {
+    "entryID": 5859,
+    "crossplayID": 5859,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11800,
+    "shares": 5000
+  },
+  {
+    "entryID": 5860,
+    "crossplayID": 5860,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11801,
+    "shares": 5000
+  },
+  {
+    "entryID": 5861,
+    "crossplayID": 5861,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11802,
+    "shares": 5000
+  },
+  {
+    "entryID": 5862,
+    "crossplayID": 5862,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11803,
+    "shares": 5000
+  },
+  {
+    "entryID": 5863,
+    "crossplayID": 5863,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11804,
+    "shares": 5000
+  },
+  {
+    "entryID": 5864,
+    "crossplayID": 5864,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11805,
+    "shares": 5000
+  },
+  {
+    "entryID": 5865,
+    "crossplayID": 5865,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11806,
+    "shares": 5000
+  },
+  {
+    "entryID": 5866,
+    "crossplayID": 5866,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11807,
+    "shares": 5000
+  },
+  {
+    "entryID": 5867,
+    "crossplayID": 5867,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11808,
+    "shares": 4200
+  },
+  {
+    "entryID": 5868,
+    "crossplayID": 5868,
+    "tombolaID": 160,
+    "rewardCategory": 1,
+    "rewardIDs": 11809,
+    "shares": 3800
+  },
+  {
+    "entryID": 5869,
+    "crossplayID": 5869,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11812,
+    "shares": 3800
+  },
+  {
+    "entryID": 5870,
+    "crossplayID": 5870,
+    "tombolaID": 160,
+    "rewardCategory": 1,
+    "rewardIDs": 11810,
+    "shares": 2500
+  },
+  {
+    "entryID": 5871,
+    "crossplayID": 5871,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11813,
+    "shares": 2500
+  },
+  {
+    "entryID": 5872,
+    "crossplayID": 5872,
+    "tombolaID": 160,
+    "rewardCategory": 1,
+    "rewardIDs": 11811,
+    "shares": 1900
+  },
+  {
+    "entryID": 5873,
+    "crossplayID": 5873,
+    "tombolaID": 160,
+    "rewardCategory": 3,
+    "rewardIDs": 11822,
+    "shares": 1400
+  },
+  {
+    "entryID": 5874,
+    "crossplayID": 5874,
+    "tombolaID": 160,
+    "rewardCategory": 3,
+    "rewardIDs": 11823,
+    "shares": 1400
+  },
+  {
+    "entryID": 5875,
+    "crossplayID": 5875,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11816,
+    "shares": 1300
+  },
+  {
+    "entryID": 5876,
+    "crossplayID": 5876,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11817,
+    "shares": 1300
+  },
+  {
+    "entryID": 5877,
+    "crossplayID": 5877,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11818,
+    "shares": 1300
+  },
+  {
+    "entryID": 5878,
+    "crossplayID": 5878,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11819,
+    "shares": 1300
+  },
+  {
+    "entryID": 5879,
+    "crossplayID": 5879,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11820,
+    "shares": 1300
+  },
+  {
+    "entryID": 5880,
+    "crossplayID": 5880,
+    "tombolaID": 160,
+    "rewardCategory": 2,
+    "rewardIDs": 11821,
+    "shares": 1300
+  },
+  {
+    "entryID": 5881,
+    "crossplayID": 5881,
+    "tombolaID": 160,
+    "rewardCategory": 3,
+    "rewardIDs": 11824,
+    "shares": 1300
+  },
+  {
+    "entryID": 5882,
+    "crossplayID": 5882,
+    "tombolaID": 160,
+    "rewardCategory": 3,
+    "rewardIDs": 11825,
+    "shares": 1300
+  },
+  {
+    "entryID": 5883,
+    "crossplayID": 5883,
+    "tombolaID": 160,
+    "rewardCategory": 1,
+    "rewardIDs": 11814,
+    "shares": 900
+  },
+  {
+    "entryID": 5884,
+    "crossplayID": 5884,
+    "tombolaID": 160,
+    "rewardCategory": 1,
+    "rewardIDs": 11815,
+    "shares": 900
+  },
+  {
+    "entryID": 5885,
+    "crossplayID": 5885,
+    "tombolaID": 160,
+    "rewardCategory": 4,
+    "rewardIDs": 11791,
+    "shares": 900
+  },
+  {
+    "entryID": 5886,
+    "crossplayID": 5886,
+    "tombolaID": 160,
+    "rewardCategory": 4,
+    "rewardIDs": 11826,
+    "shares": 800
+  },
+  {
+    "entryID": 5887,
+    "crossplayID": 5887,
+    "tombolaID": 160,
+    "rewardCategory": 4,
+    "rewardIDs": 11827,
+    "shares": 100
+  },
+  {
+    "entryID": 5888,
+    "crossplayID": 5888,
+    "tombolaID": 161,
+    "rewardCategory": 1,
+    "rewardIDs": 11828,
+    "shares": 26200
+  },
+  {
+    "entryID": 5889,
+    "crossplayID": 5889,
+    "tombolaID": 161,
+    "rewardCategory": 1,
+    "rewardIDs": 11795,
+    "shares": 26200
+  },
+  {
+    "entryID": 5890,
+    "crossplayID": 5890,
+    "tombolaID": 161,
+    "rewardCategory": 3,
+    "rewardIDs": 11824,
+    "shares": 20100
+  },
+  {
+    "entryID": 5891,
+    "crossplayID": 5891,
+    "tombolaID": 161,
+    "rewardCategory": 3,
+    "rewardIDs": 11825,
+    "shares": 20100
+  },
+  {
+    "entryID": 5892,
+    "crossplayID": 5892,
+    "tombolaID": 161,
+    "rewardCategory": 3,
+    "rewardIDs": 11829,
+    "shares": 20100
+  },
+  {
+    "entryID": 5893,
+    "crossplayID": 5893,
+    "tombolaID": 161,
+    "rewardCategory": 3,
+    "rewardIDs": 11822,
+    "shares": 18700
+  },
+  {
+    "entryID": 5894,
+    "crossplayID": 5894,
+    "tombolaID": 161,
+    "rewardCategory": 3,
+    "rewardIDs": 11823,
+    "shares": 18700
+  },
+  {
+    "entryID": 5895,
+    "crossplayID": 5895,
+    "tombolaID": 161,
+    "rewardCategory": 3,
+    "rewardIDs": 11830,
+    "shares": 18700
+  },
+  {
+    "entryID": 5896,
+    "crossplayID": 5896,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11831,
+    "shares": 16400
+  },
+  {
+    "entryID": 5897,
+    "crossplayID": 5897,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11832,
+    "shares": 16400
+  },
+  {
+    "entryID": 5898,
+    "crossplayID": 5898,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11833,
+    "shares": 16400
+  },
+  {
+    "entryID": 5899,
+    "crossplayID": 5899,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11834,
+    "shares": 16400
+  },
+  {
+    "entryID": 5900,
+    "crossplayID": 5900,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11835,
+    "shares": 16400
+  },
+  {
+    "entryID": 5901,
+    "crossplayID": 5901,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11836,
+    "shares": 16400
+  },
+  {
+    "entryID": 5902,
+    "crossplayID": 5902,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11837,
+    "shares": 16400
+  },
+  {
+    "entryID": 5903,
+    "crossplayID": 5903,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11838,
+    "shares": 16400
+  },
+  {
+    "entryID": 5904,
+    "crossplayID": 5904,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11816,
+    "shares": 16400
+  },
+  {
+    "entryID": 5905,
+    "crossplayID": 5905,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11817,
+    "shares": 16400
+  },
+  {
+    "entryID": 5906,
+    "crossplayID": 5906,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11818,
+    "shares": 16400
+  },
+  {
+    "entryID": 5907,
+    "crossplayID": 5907,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11819,
+    "shares": 16400
+  },
+  {
+    "entryID": 5908,
+    "crossplayID": 5908,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11820,
+    "shares": 16400
+  },
+  {
+    "entryID": 5909,
+    "crossplayID": 5909,
+    "tombolaID": 161,
+    "rewardCategory": 2,
+    "rewardIDs": 11821,
+    "shares": 16400
+  },
+  {
+    "entryID": 5910,
+    "crossplayID": 5910,
+    "tombolaID": 161,
+    "rewardCategory": 4,
+    "rewardIDs": 11827,
+    "shares": 1300
+  },
+  {
+    "entryID": 5911,
+    "crossplayID": 5911,
+    "tombolaID": 161,
+    "rewardCategory": 4,
+    "rewardIDs": 11839,
+    "shares": 700
+  },
+  {
+    "entryID": 5912,
+    "crossplayID": 5912,
+    "tombolaID": 161,
+    "rewardCategory": 4,
+    "rewardIDs": 11840,
+    "shares": 100
+  },
+  {
+    "entryID": 5913,
+    "crossplayID": 5913,
+    "tombolaID": 162,
+    "rewardCategory": 1,
+    "rewardIDs": 11795,
+    "shares": 26000
+  },
+  {
+    "entryID": 5914,
+    "crossplayID": 5914,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11796,
+    "shares": 26000
+  },
+  {
+    "entryID": 5915,
+    "crossplayID": 5915,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11797,
+    "shares": 26000
+  },
+  {
+    "entryID": 5916,
+    "crossplayID": 5916,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11798,
+    "shares": 26000
+  },
+  {
+    "entryID": 5917,
+    "crossplayID": 5917,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11799,
+    "shares": 26000
+  },
+  {
+    "entryID": 5918,
+    "crossplayID": 5918,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11800,
+    "shares": 26000
+  },
+  {
+    "entryID": 5919,
+    "crossplayID": 5919,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11801,
+    "shares": 26000
+  },
+  {
+    "entryID": 5920,
+    "crossplayID": 5920,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11802,
+    "shares": 26000
+  },
+  {
+    "entryID": 5921,
+    "crossplayID": 5921,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11803,
+    "shares": 26000
+  },
+  {
+    "entryID": 5922,
+    "crossplayID": 5922,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11804,
+    "shares": 26000
+  },
+  {
+    "entryID": 5923,
+    "crossplayID": 5923,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11805,
+    "shares": 26000
+  },
+  {
+    "entryID": 5924,
+    "crossplayID": 5924,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11806,
+    "shares": 26000
+  },
+  {
+    "entryID": 5925,
+    "crossplayID": 5925,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11807,
+    "shares": 26000
+  },
+  {
+    "entryID": 5926,
+    "crossplayID": 5926,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11808,
+    "shares": 21600
+  },
+  {
+    "entryID": 5927,
+    "crossplayID": 5927,
+    "tombolaID": 162,
+    "rewardCategory": 1,
+    "rewardIDs": 11809,
+    "shares": 19500
+  },
+  {
+    "entryID": 5928,
+    "crossplayID": 5928,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11812,
+    "shares": 19500
+  },
+  {
+    "entryID": 5929,
+    "crossplayID": 5929,
+    "tombolaID": 162,
+    "rewardCategory": 1,
+    "rewardIDs": 11810,
+    "shares": 13000
+  },
+  {
+    "entryID": 5930,
+    "crossplayID": 5930,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11813,
+    "shares": 13000
+  },
+  {
+    "entryID": 5931,
+    "crossplayID": 5931,
+    "tombolaID": 162,
+    "rewardCategory": 1,
+    "rewardIDs": 11811,
+    "shares": 9700
+  },
+  {
+    "entryID": 5932,
+    "crossplayID": 5932,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11844,
+    "shares": 8700
+  },
+  {
+    "entryID": 5933,
+    "crossplayID": 5933,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11845,
+    "shares": 8700
+  },
+  {
+    "entryID": 5934,
+    "crossplayID": 5934,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11846,
+    "shares": 8700
+  },
+  {
+    "entryID": 5935,
+    "crossplayID": 5935,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11847,
+    "shares": 8700
+  },
+  {
+    "entryID": 5936,
+    "crossplayID": 5936,
+    "tombolaID": 162,
+    "rewardCategory": 1,
+    "rewardIDs": 11841,
+    "shares": 7800
+  },
+  {
+    "entryID": 5937,
+    "crossplayID": 5937,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11822,
+    "shares": 7100
+  },
+  {
+    "entryID": 5938,
+    "crossplayID": 5938,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11823,
+    "shares": 7100
+  },
+  {
+    "entryID": 5939,
+    "crossplayID": 5939,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11848,
+    "shares": 7100
+  },
+  {
+    "entryID": 5940,
+    "crossplayID": 5940,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11849,
+    "shares": 7100
+  },
+  {
+    "entryID": 5941,
+    "crossplayID": 5941,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11850,
+    "shares": 7100
+  },
+  {
+    "entryID": 5942,
+    "crossplayID": 5942,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11851,
+    "shares": 7100
+  },
+  {
+    "entryID": 5943,
+    "crossplayID": 5943,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11816,
+    "shares": 6500
+  },
+  {
+    "entryID": 5944,
+    "crossplayID": 5944,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11817,
+    "shares": 6500
+  },
+  {
+    "entryID": 5945,
+    "crossplayID": 5945,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11818,
+    "shares": 6500
+  },
+  {
+    "entryID": 5946,
+    "crossplayID": 5946,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11819,
+    "shares": 6500
+  },
+  {
+    "entryID": 5947,
+    "crossplayID": 5947,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11820,
+    "shares": 6500
+  },
+  {
+    "entryID": 5948,
+    "crossplayID": 5948,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11821,
+    "shares": 6500
+  },
+  {
+    "entryID": 5949,
+    "crossplayID": 5949,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11824,
+    "shares": 6500
+  },
+  {
+    "entryID": 5950,
+    "crossplayID": 5950,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11825,
+    "shares": 6500
+  },
+  {
+    "entryID": 5951,
+    "crossplayID": 5951,
+    "tombolaID": 162,
+    "rewardCategory": 3,
+    "rewardIDs": 11843,
+    "shares": 5200
+  },
+  {
+    "entryID": 5952,
+    "crossplayID": 5952,
+    "tombolaID": 162,
+    "rewardCategory": 1,
+    "rewardIDs": 11814,
+    "shares": 4900
+  },
+  {
+    "entryID": 5953,
+    "crossplayID": 5953,
+    "tombolaID": 162,
+    "rewardCategory": 1,
+    "rewardIDs": 11815,
+    "shares": 4900
+  },
+  {
+    "entryID": 5954,
+    "crossplayID": 5954,
+    "tombolaID": 162,
+    "rewardCategory": 2,
+    "rewardIDs": 11842,
+    "shares": 4900
+  },
+  {
+    "entryID": 5955,
+    "crossplayID": 5955,
+    "tombolaID": 162,
+    "rewardCategory": 4,
+    "rewardIDs": 11791,
+    "shares": 4900
+  },
+  {
+    "entryID": 5956,
+    "crossplayID": 5956,
+    "tombolaID": 162,
+    "rewardCategory": 4,
+    "rewardIDs": 11826,
+    "shares": 1900
+  },
+  {
+    "entryID": 5957,
+    "crossplayID": 5957,
+    "tombolaID": 162,
+    "rewardCategory": 4,
+    "rewardIDs": 11853,
+    "shares": 1900
+  },
+  {
+    "entryID": 5958,
+    "crossplayID": 5958,
+    "tombolaID": 162,
+    "rewardCategory": 4,
+    "rewardIDs": 11827,
+    "shares": 500
+  },
+  {
+    "entryID": 5959,
+    "crossplayID": 5959,
+    "tombolaID": 162,
+    "rewardCategory": 4,
+    "rewardIDs": 11852,
+    "shares": 500
+  },
+  {
+    "entryID": 5960,
+    "crossplayID": 5960,
+    "tombolaID": 163,
+    "rewardCategory": 4,
+    "rewardIDs": 11854,
+    "shares": 224600
+  },
+  {
+    "entryID": 5961,
+    "crossplayID": 5961,
+    "tombolaID": 163,
+    "rewardCategory": 4,
+    "rewardIDs": 11855,
+    "shares": 112300
+  },
+  {
+    "entryID": 5962,
+    "crossplayID": 5962,
+    "tombolaID": 163,
+    "rewardCategory": 4,
+    "rewardIDs": 11856,
+    "shares": 49900
+  },
+  {
+    "entryID": 5963,
+    "crossplayID": 5963,
+    "tombolaID": 163,
+    "rewardCategory": 2,
+    "rewardIDs": 11857,
+    "shares": 53900
+  },
+  {
+    "entryID": 5964,
+    "crossplayID": 5964,
+    "tombolaID": 163,
+    "rewardCategory": 3,
+    "rewardIDs": 11858,
+    "shares": 33700
+  },
+  {
+    "entryID": 5965,
+    "crossplayID": 5965,
+    "tombolaID": 163,
+    "rewardCategory": 3,
+    "rewardIDs": 11859,
+    "shares": 33700
+  },
+  {
+    "entryID": 5966,
+    "crossplayID": 5966,
+    "tombolaID": 163,
+    "rewardCategory": 3,
+    "rewardIDs": 11860,
+    "shares": 33700
+  },
+  {
+    "entryID": 5967,
+    "crossplayID": 5967,
+    "tombolaID": 163,
+    "rewardCategory": 3,
+    "rewardIDs": 11861,
+    "shares": 27000
+  },
+  {
+    "entryID": 5968,
+    "crossplayID": 5968,
+    "tombolaID": 163,
+    "rewardCategory": 2,
+    "rewardIDs": 11862,
+    "shares": 31200
+  },
+  {
+    "entryID": 5969,
+    "crossplayID": 5969,
+    "tombolaID": 164,
+    "rewardCategory": 1,
+    "rewardIDs": 11795,
+    "shares": 17800
+  },
+  {
+    "entryID": 5970,
+    "crossplayID": 5970,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11796,
+    "shares": 17800
+  },
+  {
+    "entryID": 5971,
+    "crossplayID": 5971,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11797,
+    "shares": 17800
+  },
+  {
+    "entryID": 5972,
+    "crossplayID": 5972,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11798,
+    "shares": 17800
+  },
+  {
+    "entryID": 5973,
+    "crossplayID": 5973,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11799,
+    "shares": 17800
+  },
+  {
+    "entryID": 5974,
+    "crossplayID": 5974,
+    "tombolaID": 164,
+    "rewardCategory": 1,
+    "rewardIDs": 11809,
+    "shares": 13400
+  },
+  {
+    "entryID": 5975,
+    "crossplayID": 5975,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11812,
+    "shares": 13400
+  },
+  {
+    "entryID": 5976,
+    "crossplayID": 5976,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11800,
+    "shares": 8900
+  },
+  {
+    "entryID": 5977,
+    "crossplayID": 5977,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11801,
+    "shares": 8900
+  },
+  {
+    "entryID": 5978,
+    "crossplayID": 5978,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11802,
+    "shares": 8900
+  },
+  {
+    "entryID": 5979,
+    "crossplayID": 5979,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11803,
+    "shares": 8900
+  },
+  {
+    "entryID": 5980,
+    "crossplayID": 5980,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11804,
+    "shares": 8900
+  },
+  {
+    "entryID": 5981,
+    "crossplayID": 5981,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11805,
+    "shares": 8900
+  },
+  {
+    "entryID": 5982,
+    "crossplayID": 5982,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11806,
+    "shares": 8900
+  },
+  {
+    "entryID": 5983,
+    "crossplayID": 5983,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11807,
+    "shares": 8900
+  },
+  {
+    "entryID": 5984,
+    "crossplayID": 5984,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11808,
+    "shares": 8900
+  },
+  {
+    "entryID": 5985,
+    "crossplayID": 5985,
+    "tombolaID": 164,
+    "rewardCategory": 1,
+    "rewardIDs": 11810,
+    "shares": 8900
+  },
+  {
+    "entryID": 5986,
+    "crossplayID": 5986,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11813,
+    "shares": 8900
+  },
+  {
+    "entryID": 5987,
+    "crossplayID": 5987,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11844,
+    "shares": 8900
+  },
+  {
+    "entryID": 5988,
+    "crossplayID": 5988,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11845,
+    "shares": 8900
+  },
+  {
+    "entryID": 5989,
+    "crossplayID": 5989,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11846,
+    "shares": 8900
+  },
+  {
+    "entryID": 5990,
+    "crossplayID": 5990,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11847,
+    "shares": 8900
+  },
+  {
+    "entryID": 5991,
+    "crossplayID": 5991,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11848,
+    "shares": 8900
+  },
+  {
+    "entryID": 5992,
+    "crossplayID": 5992,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11849,
+    "shares": 8900
+  },
+  {
+    "entryID": 5993,
+    "crossplayID": 5993,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11850,
+    "shares": 8900
+  },
+  {
+    "entryID": 5994,
+    "crossplayID": 5994,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11851,
+    "shares": 8900
+  },
+  {
+    "entryID": 5995,
+    "crossplayID": 5995,
+    "tombolaID": 164,
+    "rewardCategory": 1,
+    "rewardIDs": 11811,
+    "shares": 6700
+  },
+  {
+    "entryID": 5996,
+    "crossplayID": 5996,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11863,
+    "shares": 6700
+  },
+  {
+    "entryID": 5997,
+    "crossplayID": 5997,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11864,
+    "shares": 6700
+  },
+  {
+    "entryID": 5998,
+    "crossplayID": 5998,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11865,
+    "shares": 6700
+  },
+  {
+    "entryID": 5999,
+    "crossplayID": 5999,
+    "tombolaID": 164,
+    "rewardCategory": 1,
+    "rewardIDs": 11841,
+    "shares": 5300
+  },
+  {
+    "entryID": 6000,
+    "crossplayID": 6000,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11822,
+    "shares": 4900
+  },
+  {
+    "entryID": 6001,
+    "crossplayID": 6001,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11823,
+    "shares": 4900
+  },
+  {
+    "entryID": 6002,
+    "crossplayID": 6002,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11816,
+    "shares": 4500
+  },
+  {
+    "entryID": 6003,
+    "crossplayID": 6003,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11817,
+    "shares": 4500
+  },
+  {
+    "entryID": 6004,
+    "crossplayID": 6004,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11818,
+    "shares": 4500
+  },
+  {
+    "entryID": 6005,
+    "crossplayID": 6005,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11819,
+    "shares": 4500
+  },
+  {
+    "entryID": 6006,
+    "crossplayID": 6006,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11820,
+    "shares": 4500
+  },
+  {
+    "entryID": 6007,
+    "crossplayID": 6007,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11821,
+    "shares": 4500
+  },
+  {
+    "entryID": 6008,
+    "crossplayID": 6008,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11824,
+    "shares": 4500
+  },
+  {
+    "entryID": 6009,
+    "crossplayID": 6009,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11825,
+    "shares": 4500
+  },
+  {
+    "entryID": 6010,
+    "crossplayID": 6010,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11866,
+    "shares": 3800
+  },
+  {
+    "entryID": 6011,
+    "crossplayID": 6011,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11843,
+    "shares": 3600
+  },
+  {
+    "entryID": 6012,
+    "crossplayID": 6012,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11868,
+    "shares": 3600
+  },
+  {
+    "entryID": 6013,
+    "crossplayID": 6013,
+    "tombolaID": 164,
+    "rewardCategory": 3,
+    "rewardIDs": 11869,
+    "shares": 3600
+  },
+  {
+    "entryID": 6014,
+    "crossplayID": 6014,
+    "tombolaID": 164,
+    "rewardCategory": 1,
+    "rewardIDs": 11814,
+    "shares": 3300
+  },
+  {
+    "entryID": 6015,
+    "crossplayID": 6015,
+    "tombolaID": 164,
+    "rewardCategory": 1,
+    "rewardIDs": 11815,
+    "shares": 3300
+  },
+  {
+    "entryID": 6016,
+    "crossplayID": 6016,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11842,
+    "shares": 3300
+  },
+  {
+    "entryID": 6017,
+    "crossplayID": 6017,
+    "tombolaID": 164,
+    "rewardCategory": 4,
+    "rewardIDs": 11791,
+    "shares": 3300
+  },
+  {
+    "entryID": 6018,
+    "crossplayID": 6018,
+    "tombolaID": 164,
+    "rewardCategory": 2,
+    "rewardIDs": 11867,
+    "shares": 2700
+  },
+  {
+    "entryID": 6019,
+    "crossplayID": 6019,
+    "tombolaID": 164,
+    "rewardCategory": 4,
+    "rewardIDs": 11826,
+    "shares": 1300
+  },
+  {
+    "entryID": 6020,
+    "crossplayID": 6020,
+    "tombolaID": 164,
+    "rewardCategory": 4,
+    "rewardIDs": 11853,
+    "shares": 1300
+  },
+  {
+    "entryID": 6021,
+    "crossplayID": 6021,
+    "tombolaID": 164,
+    "rewardCategory": 4,
+    "rewardIDs": 11827,
+    "shares": 1100
+  },
+  {
+    "entryID": 6022,
+    "crossplayID": 6022,
+    "tombolaID": 164,
+    "rewardCategory": 4,
+    "rewardIDs": 11852,
+    "shares": 900
+  },
+  {
+    "entryID": 6023,
+    "crossplayID": 6023,
+    "tombolaID": 164,
+    "rewardCategory": 4,
+    "rewardIDs": 11872,
+    "shares": 700
+  },
+  {
+    "entryID": 6024,
+    "crossplayID": 6024,
+    "tombolaID": 164,
+    "rewardCategory": 4,
+    "rewardIDs": 11873,
+    "shares": 700
+  },
+  {
+    "entryID": 6025,
+    "crossplayID": 6025,
+    "tombolaID": 164,
+    "rewardCategory": 4,
+    "rewardIDs": 11840,
+    "shares": 700
+  },
+  {
+    "entryID": 6026,
+    "crossplayID": 6026,
+    "tombolaID": 164,
+    "rewardCategory": 4,
+    "rewardIDs": 11871,
+    "shares": 500
+  },
+  {
+    "entryID": 6027,
+    "crossplayID": 6027,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11875,
+    "shares": 22700
+  },
+  {
+    "entryID": 6028,
+    "crossplayID": 6028,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11876,
+    "shares": 22700
+  },
+  {
+    "entryID": 6029,
+    "crossplayID": 6029,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11877,
+    "shares": 22700
+  },
+  {
+    "entryID": 6030,
+    "crossplayID": 6030,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11878,
+    "shares": 21200
+  },
+  {
+    "entryID": 6031,
+    "crossplayID": 6031,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11879,
+    "shares": 21200
+  },
+  {
+    "entryID": 6032,
+    "crossplayID": 6032,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11880,
+    "shares": 21200
+  },
+  {
+    "entryID": 6033,
+    "crossplayID": 6033,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11881,
+    "shares": 21200
+  },
+  {
+    "entryID": 6034,
+    "crossplayID": 6034,
+    "tombolaID": 165,
+    "rewardCategory": 3,
+    "rewardIDs": 11843,
+    "shares": 21200
+  },
+  {
+    "entryID": 6035,
+    "crossplayID": 6035,
+    "tombolaID": 165,
+    "rewardCategory": 3,
+    "rewardIDs": 11868,
+    "shares": 21200
+  },
+  {
+    "entryID": 6036,
+    "crossplayID": 6036,
+    "tombolaID": 165,
+    "rewardCategory": 3,
+    "rewardIDs": 11869,
+    "shares": 21200
+  },
+  {
+    "entryID": 6037,
+    "crossplayID": 6037,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11882,
+    "shares": 21200
+  },
+  {
+    "entryID": 6038,
+    "crossplayID": 6038,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11883,
+    "shares": 21200
+  },
+  {
+    "entryID": 6039,
+    "crossplayID": 6039,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11884,
+    "shares": 21200
+  },
+  {
+    "entryID": 6040,
+    "crossplayID": 6040,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11885,
+    "shares": 21200
+  },
+  {
+    "entryID": 6041,
+    "crossplayID": 6041,
+    "tombolaID": 165,
+    "rewardCategory": 2,
+    "rewardIDs": 11874,
+    "shares": 19900
+  },
+  {
+    "entryID": 6042,
+    "crossplayID": 6042,
+    "tombolaID": 165,
+    "rewardCategory": 4,
+    "rewardIDs": 11791,
+    "shares": 19900
+  },
+  {
+    "entryID": 6043,
+    "crossplayID": 6043,
+    "tombolaID": 165,
+    "rewardCategory": 4,
+    "rewardIDs": 11853,
+    "shares": 15900
+  },
+  {
+    "entryID": 6044,
+    "crossplayID": 6044,
+    "tombolaID": 165,
+    "rewardCategory": 4,
+    "rewardIDs": 11872,
+    "shares": 10600
+  },
+  {
+    "entryID": 6045,
+    "crossplayID": 6045,
+    "tombolaID": 165,
+    "rewardCategory": 4,
+    "rewardIDs": 11873,
+    "shares": 10600
+  },
+  {
+    "entryID": 6046,
+    "crossplayID": 6046,
+    "tombolaID": 165,
+    "rewardCategory": 4,
+    "rewardIDs": 11887,
+    "shares": 6400
+  },
+  {
+    "entryID": 6047,
+    "crossplayID": 6047,
+    "tombolaID": 165,
+    "rewardCategory": 4,
+    "rewardIDs": 11888,
+    "shares": 6400
+  },
+  {
+    "entryID": 6048,
+    "crossplayID": 6048,
+    "tombolaID": 165,
+    "rewardCategory": 4,
+    "rewardIDs": 11889,
+    "shares": 6400
+  },
+  {
+    "entryID": 6049,
+    "crossplayID": 6049,
+    "tombolaID": 165,
+    "rewardCategory": 4,
+    "rewardIDs": 11886,
+    "shares": 3200
+  },
+  {
+    "entryID": 6050,
+    "crossplayID": 6050,
+    "tombolaID": 166,
+    "rewardCategory": 1,
+    "rewardIDs": 11795,
+    "shares": 48200
+  },
+  {
+    "entryID": 6051,
+    "crossplayID": 6051,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11796,
+    "shares": 48200
+  },
+  {
+    "entryID": 6052,
+    "crossplayID": 6052,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11797,
+    "shares": 48200
+  },
+  {
+    "entryID": 6053,
+    "crossplayID": 6053,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11798,
+    "shares": 48200
+  },
+  {
+    "entryID": 6054,
+    "crossplayID": 6054,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11799,
+    "shares": 48200
+  },
+  {
+    "entryID": 6055,
+    "crossplayID": 6055,
+    "tombolaID": 166,
+    "rewardCategory": 1,
+    "rewardIDs": 11809,
+    "shares": 36100
+  },
+  {
+    "entryID": 6056,
+    "crossplayID": 6056,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11812,
+    "shares": 36100
+  },
+  {
+    "entryID": 6057,
+    "crossplayID": 6057,
+    "tombolaID": 166,
+    "rewardCategory": 1,
+    "rewardIDs": 11810,
+    "shares": 24100
+  },
+  {
+    "entryID": 6058,
+    "crossplayID": 6058,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11813,
+    "shares": 24100
+  },
+  {
+    "entryID": 6059,
+    "crossplayID": 6059,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11844,
+    "shares": 24100
+  },
+  {
+    "entryID": 6060,
+    "crossplayID": 6060,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11845,
+    "shares": 24100
+  },
+  {
+    "entryID": 6061,
+    "crossplayID": 6061,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11846,
+    "shares": 24100
+  },
+  {
+    "entryID": 6062,
+    "crossplayID": 6062,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11847,
+    "shares": 24100
+  },
+  {
+    "entryID": 6063,
+    "crossplayID": 6063,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11848,
+    "shares": 24100
+  },
+  {
+    "entryID": 6064,
+    "crossplayID": 6064,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11849,
+    "shares": 24100
+  },
+  {
+    "entryID": 6065,
+    "crossplayID": 6065,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11850,
+    "shares": 24100
+  },
+  {
+    "entryID": 6066,
+    "crossplayID": 6066,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11851,
+    "shares": 24100
+  },
+  {
+    "entryID": 6067,
+    "crossplayID": 6067,
+    "tombolaID": 166,
+    "rewardCategory": 1,
+    "rewardIDs": 11811,
+    "shares": 18100
+  },
+  {
+    "entryID": 6068,
+    "crossplayID": 6068,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11863,
+    "shares": 18100
+  },
+  {
+    "entryID": 6069,
+    "crossplayID": 6069,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11864,
+    "shares": 18100
+  },
+  {
+    "entryID": 6070,
+    "crossplayID": 6070,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11865,
+    "shares": 18100
+  },
+  {
+    "entryID": 6071,
+    "crossplayID": 6071,
+    "tombolaID": 166,
+    "rewardCategory": 1,
+    "rewardIDs": 11841,
+    "shares": 14500
+  },
+  {
+    "entryID": 6072,
+    "crossplayID": 6072,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11822,
+    "shares": 13100
+  },
+  {
+    "entryID": 6073,
+    "crossplayID": 6073,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11823,
+    "shares": 13100
+  },
+  {
+    "entryID": 6074,
+    "crossplayID": 6074,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11816,
+    "shares": 12000
+  },
+  {
+    "entryID": 6075,
+    "crossplayID": 6075,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11817,
+    "shares": 12000
+  },
+  {
+    "entryID": 6076,
+    "crossplayID": 6076,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11818,
+    "shares": 12000
+  },
+  {
+    "entryID": 6077,
+    "crossplayID": 6077,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11819,
+    "shares": 12000
+  },
+  {
+    "entryID": 6078,
+    "crossplayID": 6078,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11820,
+    "shares": 12000
+  },
+  {
+    "entryID": 6079,
+    "crossplayID": 6079,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11821,
+    "shares": 12000
+  },
+  {
+    "entryID": 6080,
+    "crossplayID": 6080,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11824,
+    "shares": 12000
+  },
+  {
+    "entryID": 6081,
+    "crossplayID": 6081,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11825,
+    "shares": 12000
+  },
+  {
+    "entryID": 6082,
+    "crossplayID": 6082,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11866,
+    "shares": 10300
+  },
+  {
+    "entryID": 6083,
+    "crossplayID": 6083,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11890,
+    "shares": 10300
+  },
+  {
+    "entryID": 6084,
+    "crossplayID": 6084,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11891,
+    "shares": 10300
+  },
+  {
+    "entryID": 6085,
+    "crossplayID": 6085,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11892,
+    "shares": 10300
+  },
+  {
+    "entryID": 6086,
+    "crossplayID": 6086,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11893,
+    "shares": 10300
+  },
+  {
+    "entryID": 6087,
+    "crossplayID": 6087,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11843,
+    "shares": 9600
+  },
+  {
+    "entryID": 6088,
+    "crossplayID": 6088,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11868,
+    "shares": 9600
+  },
+  {
+    "entryID": 6089,
+    "crossplayID": 6089,
+    "tombolaID": 166,
+    "rewardCategory": 3,
+    "rewardIDs": 11869,
+    "shares": 9600
+  },
+  {
+    "entryID": 6090,
+    "crossplayID": 6090,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11800,
+    "shares": 9000
+  },
+  {
+    "entryID": 6091,
+    "crossplayID": 6091,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11801,
+    "shares": 9000
+  },
+  {
+    "entryID": 6092,
+    "crossplayID": 6092,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11802,
+    "shares": 9000
+  },
+  {
+    "entryID": 6093,
+    "crossplayID": 6093,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11803,
+    "shares": 9000
+  },
+  {
+    "entryID": 6094,
+    "crossplayID": 6094,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11804,
+    "shares": 9000
+  },
+  {
+    "entryID": 6095,
+    "crossplayID": 6095,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11805,
+    "shares": 9000
+  },
+  {
+    "entryID": 6096,
+    "crossplayID": 6096,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11806,
+    "shares": 9000
+  },
+  {
+    "entryID": 6097,
+    "crossplayID": 6097,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11807,
+    "shares": 9000
+  },
+  {
+    "entryID": 6098,
+    "crossplayID": 6098,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11808,
+    "shares": 9000
+  },
+  {
+    "entryID": 6099,
+    "crossplayID": 6099,
+    "tombolaID": 166,
+    "rewardCategory": 1,
+    "rewardIDs": 11814,
+    "shares": 9000
+  },
+  {
+    "entryID": 6100,
+    "crossplayID": 6100,
+    "tombolaID": 166,
+    "rewardCategory": 1,
+    "rewardIDs": 11815,
+    "shares": 9000
+  },
+  {
+    "entryID": 6101,
+    "crossplayID": 6101,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11842,
+    "shares": 9000
+  },
+  {
+    "entryID": 6102,
+    "crossplayID": 6102,
+    "tombolaID": 166,
+    "rewardCategory": 4,
+    "rewardIDs": 11791,
+    "shares": 9000
+  },
+  {
+    "entryID": 6103,
+    "crossplayID": 6103,
+    "tombolaID": 166,
+    "rewardCategory": 2,
+    "rewardIDs": 11867,
+    "shares": 7200
+  },
+  {
+    "entryID": 6104,
+    "crossplayID": 6104,
+    "tombolaID": 166,
+    "rewardCategory": 4,
+    "rewardIDs": 11826,
+    "shares": 3600
+  },
+  {
+    "entryID": 6105,
+    "crossplayID": 6105,
+    "tombolaID": 166,
+    "rewardCategory": 4,
+    "rewardIDs": 11853,
+    "shares": 3600
+  },
+  {
+    "entryID": 6106,
+    "crossplayID": 6106,
+    "tombolaID": 166,
+    "rewardCategory": 4,
+    "rewardIDs": 11827,
+    "shares": 3600
+  },
+  {
+    "entryID": 6107,
+    "crossplayID": 6107,
+    "tombolaID": 166,
+    "rewardCategory": 4,
+    "rewardIDs": 11852,
+    "shares": 3600
+  },
+  {
+    "entryID": 6108,
+    "crossplayID": 6108,
+    "tombolaID": 166,
+    "rewardCategory": 4,
+    "rewardIDs": 11872,
+    "shares": 3600
+  },
+  {
+    "entryID": 6109,
+    "crossplayID": 6109,
+    "tombolaID": 166,
+    "rewardCategory": 4,
+    "rewardIDs": 11873,
+    "shares": 3600
+  },
+  {
+    "entryID": 6110,
+    "crossplayID": 6110,
+    "tombolaID": 166,
+    "rewardCategory": 4,
+    "rewardIDs": 11840,
+    "shares": 3600
+  },
+  {
+    "entryID": 6111,
+    "crossplayID": 6111,
+    "tombolaID": 166,
+    "rewardCategory": 4,
+    "rewardIDs": 11871,
+    "shares": 2400
+  },
+  {
+    "entryID": 6112,
+    "crossplayID": 6112,
+    "tombolaID": 166,
+    "rewardCategory": 4,
+    "rewardIDs": 11894,
+    "shares": 2100
+  },
+  {
+    "entryID": 6113,
+    "crossplayID": 6113,
+    "tombolaID": 166,
+    "rewardCategory": 4,
+    "rewardIDs": 11887,
+    "shares": 1400
+  },
+  {
+    "entryID": 6114,
+    "crossplayID": 6114,
+    "tombolaID": 167,
+    "rewardCategory": 3,
+    "rewardIDs": 11844,
+    "shares": 172700
+  },
+  {
+    "entryID": 6115,
+    "crossplayID": 6115,
+    "tombolaID": 167,
+    "rewardCategory": 3,
+    "rewardIDs": 11845,
+    "shares": 172700
+  },
+  {
+    "entryID": 6116,
+    "crossplayID": 6116,
+    "tombolaID": 167,
+    "rewardCategory": 3,
+    "rewardIDs": 11846,
+    "shares": 172700
+  },
+  {
+    "entryID": 6117,
+    "crossplayID": 6117,
+    "tombolaID": 167,
+    "rewardCategory": 3,
+    "rewardIDs": 11847,
+    "shares": 172700
+  },
+  {
+    "entryID": 6118,
+    "crossplayID": 6118,
+    "tombolaID": 167,
+    "rewardCategory": 3,
+    "rewardIDs": 11848,
+    "shares": 74000
+  },
+  {
+    "entryID": 6119,
+    "crossplayID": 6119,
+    "tombolaID": 167,
+    "rewardCategory": 3,
+    "rewardIDs": 11849,
+    "shares": 74000
+  },
+  {
+    "entryID": 6120,
+    "crossplayID": 6120,
+    "tombolaID": 167,
+    "rewardCategory": 3,
+    "rewardIDs": 11850,
+    "shares": 74000
+  },
+  {
+    "entryID": 6121,
+    "crossplayID": 6121,
+    "tombolaID": 167,
+    "rewardCategory": 3,
+    "rewardIDs": 11851,
+    "shares": 74000
+  },
+  {
+    "entryID": 6122,
+    "crossplayID": 6122,
+    "tombolaID": 167,
+    "rewardCategory": 4,
+    "rewardIDs": 11895,
+    "shares": 13000
+  },
+  {
+    "entryID": 6123,
+    "crossplayID": 6123,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11796,
+    "shares": 55500
+  },
+  {
+    "entryID": 6124,
+    "crossplayID": 6124,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11797,
+    "shares": 55500
+  },
+  {
+    "entryID": 6125,
+    "crossplayID": 6125,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11798,
+    "shares": 55500
+  },
+  {
+    "entryID": 6126,
+    "crossplayID": 6126,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11799,
+    "shares": 55500
+  },
+  {
+    "entryID": 6127,
+    "crossplayID": 6127,
+    "tombolaID": 168,
+    "rewardCategory": 1,
+    "rewardIDs": 11809,
+    "shares": 41700
+  },
+  {
+    "entryID": 6128,
+    "crossplayID": 6128,
+    "tombolaID": 168,
+    "rewardCategory": 1,
+    "rewardIDs": 11810,
+    "shares": 27800
+  },
+  {
+    "entryID": 6129,
+    "crossplayID": 6129,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11844,
+    "shares": 27800
+  },
+  {
+    "entryID": 6130,
+    "crossplayID": 6130,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11845,
+    "shares": 27800
+  },
+  {
+    "entryID": 6131,
+    "crossplayID": 6131,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11846,
+    "shares": 27800
+  },
+  {
+    "entryID": 6132,
+    "crossplayID": 6132,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11847,
+    "shares": 27800
+  },
+  {
+    "entryID": 6133,
+    "crossplayID": 6133,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11848,
+    "shares": 27800
+  },
+  {
+    "entryID": 6134,
+    "crossplayID": 6134,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11849,
+    "shares": 27800
+  },
+  {
+    "entryID": 6135,
+    "crossplayID": 6135,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11850,
+    "shares": 27800
+  },
+  {
+    "entryID": 6136,
+    "crossplayID": 6136,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11851,
+    "shares": 27800
+  },
+  {
+    "entryID": 6137,
+    "crossplayID": 6137,
+    "tombolaID": 168,
+    "rewardCategory": 1,
+    "rewardIDs": 11811,
+    "shares": 20800
+  },
+  {
+    "entryID": 6138,
+    "crossplayID": 6138,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11863,
+    "shares": 20800
+  },
+  {
+    "entryID": 6139,
+    "crossplayID": 6139,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11864,
+    "shares": 20800
+  },
+  {
+    "entryID": 6140,
+    "crossplayID": 6140,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11865,
+    "shares": 20800
+  },
+  {
+    "entryID": 6141,
+    "crossplayID": 6141,
+    "tombolaID": 168,
+    "rewardCategory": 1,
+    "rewardIDs": 11841,
+    "shares": 16700
+  },
+  {
+    "entryID": 6142,
+    "crossplayID": 6142,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11896,
+    "shares": 16700
+  },
+  {
+    "entryID": 6143,
+    "crossplayID": 6143,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11822,
+    "shares": 15100
+  },
+  {
+    "entryID": 6144,
+    "crossplayID": 6144,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11823,
+    "shares": 15100
+  },
+  {
+    "entryID": 6145,
+    "crossplayID": 6145,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11816,
+    "shares": 13900
+  },
+  {
+    "entryID": 6146,
+    "crossplayID": 6146,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11817,
+    "shares": 13900
+  },
+  {
+    "entryID": 6147,
+    "crossplayID": 6147,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11818,
+    "shares": 13900
+  },
+  {
+    "entryID": 6148,
+    "crossplayID": 6148,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11819,
+    "shares": 13900
+  },
+  {
+    "entryID": 6149,
+    "crossplayID": 6149,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11820,
+    "shares": 13900
+  },
+  {
+    "entryID": 6150,
+    "crossplayID": 6150,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11821,
+    "shares": 13900
+  },
+  {
+    "entryID": 6151,
+    "crossplayID": 6151,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11824,
+    "shares": 13900
+  },
+  {
+    "entryID": 6152,
+    "crossplayID": 6152,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11825,
+    "shares": 13900
+  },
+  {
+    "entryID": 6153,
+    "crossplayID": 6153,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11866,
+    "shares": 11900
+  },
+  {
+    "entryID": 6154,
+    "crossplayID": 6154,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11890,
+    "shares": 11900
+  },
+  {
+    "entryID": 6155,
+    "crossplayID": 6155,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11891,
+    "shares": 11900
+  },
+  {
+    "entryID": 6156,
+    "crossplayID": 6156,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11892,
+    "shares": 11900
+  },
+  {
+    "entryID": 6157,
+    "crossplayID": 6157,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11893,
+    "shares": 11900
+  },
+  {
+    "entryID": 6158,
+    "crossplayID": 6158,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11897,
+    "shares": 11900
+  },
+  {
+    "entryID": 6159,
+    "crossplayID": 6159,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11843,
+    "shares": 11100
+  },
+  {
+    "entryID": 6160,
+    "crossplayID": 6160,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11868,
+    "shares": 11100
+  },
+  {
+    "entryID": 6161,
+    "crossplayID": 6161,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11869,
+    "shares": 11100
+  },
+  {
+    "entryID": 6162,
+    "crossplayID": 6162,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11882,
+    "shares": 11100
+  },
+  {
+    "entryID": 6163,
+    "crossplayID": 6163,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11883,
+    "shares": 11100
+  },
+  {
+    "entryID": 6164,
+    "crossplayID": 6164,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11884,
+    "shares": 11100
+  },
+  {
+    "entryID": 6165,
+    "crossplayID": 6165,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11885,
+    "shares": 11100
+  },
+  {
+    "entryID": 6166,
+    "crossplayID": 6166,
+    "tombolaID": 168,
+    "rewardCategory": 1,
+    "rewardIDs": 11814,
+    "shares": 10400
+  },
+  {
+    "entryID": 6167,
+    "crossplayID": 6167,
+    "tombolaID": 168,
+    "rewardCategory": 1,
+    "rewardIDs": 11815,
+    "shares": 10400
+  },
+  {
+    "entryID": 6168,
+    "crossplayID": 6168,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11842,
+    "shares": 10400
+  },
+  {
+    "entryID": 6169,
+    "crossplayID": 6169,
+    "tombolaID": 168,
+    "rewardCategory": 4,
+    "rewardIDs": 11791,
+    "shares": 10400
+  },
+  {
+    "entryID": 6170,
+    "crossplayID": 6170,
+    "tombolaID": 168,
+    "rewardCategory": 2,
+    "rewardIDs": 11867,
+    "shares": 8300
+  },
+  {
+    "entryID": 6171,
+    "crossplayID": 6171,
+    "tombolaID": 168,
+    "rewardCategory": 4,
+    "rewardIDs": 11826,
+    "shares": 4200
+  },
+  {
+    "entryID": 6172,
+    "crossplayID": 6172,
+    "tombolaID": 168,
+    "rewardCategory": 4,
+    "rewardIDs": 11853,
+    "shares": 4200
+  },
+  {
+    "entryID": 6173,
+    "crossplayID": 6173,
+    "tombolaID": 168,
+    "rewardCategory": 4,
+    "rewardIDs": 11872,
+    "shares": 4200
+  },
+  {
+    "entryID": 6174,
+    "crossplayID": 6174,
+    "tombolaID": 168,
+    "rewardCategory": 4,
+    "rewardIDs": 11873,
+    "shares": 4200
+  },
+  {
+    "entryID": 6175,
+    "crossplayID": 6175,
+    "tombolaID": 168,
+    "rewardCategory": 3,
+    "rewardIDs": 11898,
+    "shares": 4200
+  },
+  {
+    "entryID": 6176,
+    "crossplayID": 6176,
+    "tombolaID": 168,
+    "rewardCategory": 4,
+    "rewardIDs": 11871,
+    "shares": 2800
+  },
+  {
+    "entryID": 6177,
+    "crossplayID": 6177,
+    "tombolaID": 168,
+    "rewardCategory": 4,
+    "rewardIDs": 11894,
+    "shares": 2400
+  },
+  {
+    "entryID": 6178,
+    "crossplayID": 6178,
+    "tombolaID": 168,
+    "rewardCategory": 4,
+    "rewardIDs": 11887,
+    "shares": 1700
+  },
+  {
+    "entryID": 6179,
+    "crossplayID": 6179,
+    "tombolaID": 168,
+    "rewardCategory": 4,
+    "rewardIDs": 11900,
+    "shares": 1200
+  },
+  {
+    "entryID": 6180,
+    "crossplayID": 6180,
+    "tombolaID": 168,
+    "rewardCategory": 4,
+    "rewardIDs": 11899,
+    "shares": 200
+  },
+  {
+    "entryID": 6181,
+    "crossplayID": 6181,
+    "tombolaID": 169,
+    "rewardCategory": 4,
+    "rewardIDs": 11827,
+    "shares": 335100
+  },
+  {
+    "entryID": 6182,
+    "crossplayID": 6182,
+    "tombolaID": 169,
+    "rewardCategory": 4,
+    "rewardIDs": 11839,
+    "shares": 321700
+  },
+  {
+    "entryID": 6183,
+    "crossplayID": 6183,
+    "tombolaID": 169,
+    "rewardCategory": 4,
+    "rewardIDs": 11840,
+    "shares": 107200
+  },
+  {
+    "entryID": 6184,
+    "crossplayID": 6184,
+    "tombolaID": 169,
+    "rewardCategory": 4,
+    "rewardIDs": 11871,
+    "shares": 107200
+  },
+  {
+    "entryID": 6185,
+    "crossplayID": 6185,
+    "tombolaID": 169,
+    "rewardCategory": 4,
+    "rewardIDs": 11894,
+    "shares": 64300
+  },
+  {
+    "entryID": 6186,
+    "crossplayID": 6186,
+    "tombolaID": 169,
+    "rewardCategory": 4,
+    "rewardIDs": 11899,
+    "shares": 64300
+  },
+  {
+    "entryID": 6187,
+    "crossplayID": 6187,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11901,
+    "shares": 55400
+  },
+  {
+    "entryID": 6188,
+    "crossplayID": 6188,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11902,
+    "shares": 55400
+  },
+  {
+    "entryID": 6189,
+    "crossplayID": 6189,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11903,
+    "shares": 55400
+  },
+  {
+    "entryID": 6190,
+    "crossplayID": 6190,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11904,
+    "shares": 55400
+  },
+  {
+    "entryID": 6191,
+    "crossplayID": 6191,
+    "tombolaID": 170,
+    "rewardCategory": 1,
+    "rewardIDs": 11905,
+    "shares": 41500
+  },
+  {
+    "entryID": 6192,
+    "crossplayID": 6192,
+    "tombolaID": 170,
+    "rewardCategory": 1,
+    "rewardIDs": 11906,
+    "shares": 27700
+  },
+  {
+    "entryID": 6193,
+    "crossplayID": 6193,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11844,
+    "shares": 27700
+  },
+  {
+    "entryID": 6194,
+    "crossplayID": 6194,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11845,
+    "shares": 27700
+  },
+  {
+    "entryID": 6195,
+    "crossplayID": 6195,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11846,
+    "shares": 27700
+  },
+  {
+    "entryID": 6196,
+    "crossplayID": 6196,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11847,
+    "shares": 27700
+  },
+  {
+    "entryID": 6197,
+    "crossplayID": 6197,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11848,
+    "shares": 27700
+  },
+  {
+    "entryID": 6198,
+    "crossplayID": 6198,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11849,
+    "shares": 27700
+  },
+  {
+    "entryID": 6199,
+    "crossplayID": 6199,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11850,
+    "shares": 27700
+  },
+  {
+    "entryID": 6200,
+    "crossplayID": 6200,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11851,
+    "shares": 27700
+  },
+  {
+    "entryID": 6201,
+    "crossplayID": 6201,
+    "tombolaID": 170,
+    "rewardCategory": 1,
+    "rewardIDs": 11811,
+    "shares": 20800
+  },
+  {
+    "entryID": 6202,
+    "crossplayID": 6202,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11863,
+    "shares": 20800
+  },
+  {
+    "entryID": 6203,
+    "crossplayID": 6203,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11908,
+    "shares": 20800
+  },
+  {
+    "entryID": 6204,
+    "crossplayID": 6204,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11909,
+    "shares": 20800
+  },
+  {
+    "entryID": 6205,
+    "crossplayID": 6205,
+    "tombolaID": 170,
+    "rewardCategory": 1,
+    "rewardIDs": 11841,
+    "shares": 16600
+  },
+  {
+    "entryID": 6206,
+    "crossplayID": 6206,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11910,
+    "shares": 16600
+  },
+  {
+    "entryID": 6207,
+    "crossplayID": 6207,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11822,
+    "shares": 15100
+  },
+  {
+    "entryID": 6208,
+    "crossplayID": 6208,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11823,
+    "shares": 15100
+  },
+  {
+    "entryID": 6209,
+    "crossplayID": 6209,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11816,
+    "shares": 13800
+  },
+  {
+    "entryID": 6210,
+    "crossplayID": 6210,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11817,
+    "shares": 13800
+  },
+  {
+    "entryID": 6211,
+    "crossplayID": 6211,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11818,
+    "shares": 13800
+  },
+  {
+    "entryID": 6212,
+    "crossplayID": 6212,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11819,
+    "shares": 13800
+  },
+  {
+    "entryID": 6213,
+    "crossplayID": 6213,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11820,
+    "shares": 13800
+  },
+  {
+    "entryID": 6214,
+    "crossplayID": 6214,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11821,
+    "shares": 13800
+  },
+  {
+    "entryID": 6215,
+    "crossplayID": 6215,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11824,
+    "shares": 13800
+  },
+  {
+    "entryID": 6216,
+    "crossplayID": 6216,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11825,
+    "shares": 13800
+  },
+  {
+    "entryID": 6217,
+    "crossplayID": 6217,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11866,
+    "shares": 11900
+  },
+  {
+    "entryID": 6218,
+    "crossplayID": 6218,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11890,
+    "shares": 11900
+  },
+  {
+    "entryID": 6219,
+    "crossplayID": 6219,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11891,
+    "shares": 11900
+  },
+  {
+    "entryID": 6220,
+    "crossplayID": 6220,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11892,
+    "shares": 11900
+  },
+  {
+    "entryID": 6221,
+    "crossplayID": 6221,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11893,
+    "shares": 11900
+  },
+  {
+    "entryID": 6222,
+    "crossplayID": 6222,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11911,
+    "shares": 11900
+  },
+  {
+    "entryID": 6223,
+    "crossplayID": 6223,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11843,
+    "shares": 11100
+  },
+  {
+    "entryID": 6224,
+    "crossplayID": 6224,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11868,
+    "shares": 11100
+  },
+  {
+    "entryID": 6225,
+    "crossplayID": 6225,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11869,
+    "shares": 11100
+  },
+  {
+    "entryID": 6226,
+    "crossplayID": 6226,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11882,
+    "shares": 11100
+  },
+  {
+    "entryID": 6227,
+    "crossplayID": 6227,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11883,
+    "shares": 11100
+  },
+  {
+    "entryID": 6228,
+    "crossplayID": 6228,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11884,
+    "shares": 11100
+  },
+  {
+    "entryID": 6229,
+    "crossplayID": 6229,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11885,
+    "shares": 11100
+  },
+  {
+    "entryID": 6230,
+    "crossplayID": 6230,
+    "tombolaID": 170,
+    "rewardCategory": 1,
+    "rewardIDs": 11814,
+    "shares": 10400
+  },
+  {
+    "entryID": 6231,
+    "crossplayID": 6231,
+    "tombolaID": 170,
+    "rewardCategory": 1,
+    "rewardIDs": 11815,
+    "shares": 10400
+  },
+  {
+    "entryID": 6232,
+    "crossplayID": 6232,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11842,
+    "shares": 10400
+  },
+  {
+    "entryID": 6233,
+    "crossplayID": 6233,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11791,
+    "shares": 10400
+  },
+  {
+    "entryID": 6234,
+    "crossplayID": 6234,
+    "tombolaID": 170,
+    "rewardCategory": 2,
+    "rewardIDs": 11867,
+    "shares": 8300
+  },
+  {
+    "entryID": 6235,
+    "crossplayID": 6235,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11826,
+    "shares": 4200
+  },
+  {
+    "entryID": 6236,
+    "crossplayID": 6236,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11853,
+    "shares": 4200
+  },
+  {
+    "entryID": 6237,
+    "crossplayID": 6237,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11872,
+    "shares": 4200
+  },
+  {
+    "entryID": 6238,
+    "crossplayID": 6238,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11873,
+    "shares": 4200
+  },
+  {
+    "entryID": 6239,
+    "crossplayID": 6239,
+    "tombolaID": 170,
+    "rewardCategory": 3,
+    "rewardIDs": 11898,
+    "shares": 4200
+  },
+  {
+    "entryID": 6240,
+    "crossplayID": 6240,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11871,
+    "shares": 2800
+  },
+  {
+    "entryID": 6241,
+    "crossplayID": 6241,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11894,
+    "shares": 2400
+  },
+  {
+    "entryID": 6242,
+    "crossplayID": 6242,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11887,
+    "shares": 1700
+  },
+  {
+    "entryID": 6243,
+    "crossplayID": 6243,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11900,
+    "shares": 1200
+  },
+  {
+    "entryID": 6244,
+    "crossplayID": 6244,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11912,
+    "shares": 1000
+  },
+  {
+    "entryID": 6245,
+    "crossplayID": 6245,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11913,
+    "shares": 1000
+  },
+  {
+    "entryID": 6246,
+    "crossplayID": 6246,
+    "tombolaID": 170,
+    "rewardCategory": 4,
+    "rewardIDs": 11899,
+    "shares": 1000
+  },
+  {
+    "entryID": 6247,
+    "crossplayID": 6247,
+    "tombolaID": 171,
+    "rewardCategory": 1,
+    "rewardIDs": 11917,
+    "shares": 290200
+  },
+  {
+    "entryID": 6248,
+    "crossplayID": 6248,
+    "tombolaID": 171,
+    "rewardCategory": 1,
+    "rewardIDs": 11918,
+    "shares": 193500
+  },
+  {
+    "entryID": 6249,
+    "crossplayID": 6249,
+    "tombolaID": 171,
+    "rewardCategory": 1,
+    "rewardIDs": 11919,
+    "shares": 96700
+  },
+  {
+    "entryID": 6250,
+    "crossplayID": 6250,
+    "tombolaID": 171,
+    "rewardCategory": 2,
+    "rewardIDs": 11920,
+    "shares": 116100
+  },
+  {
+    "entryID": 6251,
+    "crossplayID": 6251,
+    "tombolaID": 171,
+    "rewardCategory": 2,
+    "rewardIDs": 11921,
+    "shares": 58000
+  },
+  {
+    "entryID": 6252,
+    "crossplayID": 6252,
+    "tombolaID": 171,
+    "rewardCategory": 2,
+    "rewardIDs": 11922,
+    "shares": 46400
+  },
+  {
+    "entryID": 6253,
+    "crossplayID": 6253,
+    "tombolaID": 171,
+    "rewardCategory": 3,
+    "rewardIDs": 11923,
+    "shares": 82900
+  },
+  {
+    "entryID": 6254,
+    "crossplayID": 6254,
+    "tombolaID": 171,
+    "rewardCategory": 3,
+    "rewardIDs": 11924,
+    "shares": 58000
+  },
+  {
+    "entryID": 6255,
+    "crossplayID": 6255,
+    "tombolaID": 171,
+    "rewardCategory": 4,
+    "rewardIDs": 11925,
+    "shares": 58000
+  },
+  {
+    "entryID": 6256,
+    "crossplayID": 6256,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11901,
+    "shares": 55100
+  },
+  {
+    "entryID": 6257,
+    "crossplayID": 6257,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11902,
+    "shares": 55100
+  },
+  {
+    "entryID": 6258,
+    "crossplayID": 6258,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11903,
+    "shares": 55100
+  },
+  {
+    "entryID": 6259,
+    "crossplayID": 6259,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11904,
+    "shares": 55100
+  },
+  {
+    "entryID": 6260,
+    "crossplayID": 6260,
+    "tombolaID": 172,
+    "rewardCategory": 1,
+    "rewardIDs": 11905,
+    "shares": 41300
+  },
+  {
+    "entryID": 6261,
+    "crossplayID": 6261,
+    "tombolaID": 172,
+    "rewardCategory": 1,
+    "rewardIDs": 11906,
+    "shares": 27500
+  },
+  {
+    "entryID": 6262,
+    "crossplayID": 6262,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11844,
+    "shares": 27500
+  },
+  {
+    "entryID": 6263,
+    "crossplayID": 6263,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11845,
+    "shares": 27500
+  },
+  {
+    "entryID": 6264,
+    "crossplayID": 6264,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11846,
+    "shares": 27500
+  },
+  {
+    "entryID": 6265,
+    "crossplayID": 6265,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11847,
+    "shares": 27500
+  },
+  {
+    "entryID": 6266,
+    "crossplayID": 6266,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11848,
+    "shares": 27500
+  },
+  {
+    "entryID": 6267,
+    "crossplayID": 6267,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11849,
+    "shares": 27500
+  },
+  {
+    "entryID": 6268,
+    "crossplayID": 6268,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11850,
+    "shares": 27500
+  },
+  {
+    "entryID": 6269,
+    "crossplayID": 6269,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11851,
+    "shares": 27500
+  },
+  {
+    "entryID": 6270,
+    "crossplayID": 6270,
+    "tombolaID": 172,
+    "rewardCategory": 1,
+    "rewardIDs": 11811,
+    "shares": 20700
+  },
+  {
+    "entryID": 6271,
+    "crossplayID": 6271,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11863,
+    "shares": 20700
+  },
+  {
+    "entryID": 6272,
+    "crossplayID": 6272,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11908,
+    "shares": 20700
+  },
+  {
+    "entryID": 6273,
+    "crossplayID": 6273,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11909,
+    "shares": 20700
+  },
+  {
+    "entryID": 6274,
+    "crossplayID": 6274,
+    "tombolaID": 172,
+    "rewardCategory": 1,
+    "rewardIDs": 11841,
+    "shares": 16500
+  },
+  {
+    "entryID": 6275,
+    "crossplayID": 6275,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11910,
+    "shares": 16500
+  },
+  {
+    "entryID": 6276,
+    "crossplayID": 6276,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11822,
+    "shares": 15000
+  },
+  {
+    "entryID": 6277,
+    "crossplayID": 6277,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11823,
+    "shares": 15000
+  },
+  {
+    "entryID": 6278,
+    "crossplayID": 6278,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11816,
+    "shares": 13800
+  },
+  {
+    "entryID": 6279,
+    "crossplayID": 6279,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11817,
+    "shares": 13800
+  },
+  {
+    "entryID": 6280,
+    "crossplayID": 6280,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11818,
+    "shares": 13800
+  },
+  {
+    "entryID": 6281,
+    "crossplayID": 6281,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11819,
+    "shares": 13800
+  },
+  {
+    "entryID": 6282,
+    "crossplayID": 6282,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11820,
+    "shares": 13800
+  },
+  {
+    "entryID": 6283,
+    "crossplayID": 6283,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11821,
+    "shares": 13800
+  },
+  {
+    "entryID": 6284,
+    "crossplayID": 6284,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11824,
+    "shares": 13800
+  },
+  {
+    "entryID": 6285,
+    "crossplayID": 6285,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11825,
+    "shares": 13800
+  },
+  {
+    "entryID": 6286,
+    "crossplayID": 6286,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11866,
+    "shares": 11800
+  },
+  {
+    "entryID": 6287,
+    "crossplayID": 6287,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11890,
+    "shares": 11800
+  },
+  {
+    "entryID": 6288,
+    "crossplayID": 6288,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11891,
+    "shares": 11800
+  },
+  {
+    "entryID": 6289,
+    "crossplayID": 6289,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11892,
+    "shares": 11800
+  },
+  {
+    "entryID": 6290,
+    "crossplayID": 6290,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11893,
+    "shares": 11800
+  },
+  {
+    "entryID": 6291,
+    "crossplayID": 6291,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11911,
+    "shares": 11800
+  },
+  {
+    "entryID": 6292,
+    "crossplayID": 6292,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11843,
+    "shares": 11000
+  },
+  {
+    "entryID": 6293,
+    "crossplayID": 6293,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11868,
+    "shares": 11000
+  },
+  {
+    "entryID": 6294,
+    "crossplayID": 6294,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11869,
+    "shares": 11000
+  },
+  {
+    "entryID": 6295,
+    "crossplayID": 6295,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11882,
+    "shares": 11000
+  },
+  {
+    "entryID": 6296,
+    "crossplayID": 6296,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11883,
+    "shares": 11000
+  },
+  {
+    "entryID": 6297,
+    "crossplayID": 6297,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11884,
+    "shares": 11000
+  },
+  {
+    "entryID": 6298,
+    "crossplayID": 6298,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11885,
+    "shares": 11000
+  },
+  {
+    "entryID": 6299,
+    "crossplayID": 6299,
+    "tombolaID": 172,
+    "rewardCategory": 1,
+    "rewardIDs": 11814,
+    "shares": 10300
+  },
+  {
+    "entryID": 6300,
+    "crossplayID": 6300,
+    "tombolaID": 172,
+    "rewardCategory": 1,
+    "rewardIDs": 11815,
+    "shares": 10300
+  },
+  {
+    "entryID": 6301,
+    "crossplayID": 6301,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11842,
+    "shares": 10300
+  },
+  {
+    "entryID": 6302,
+    "crossplayID": 6302,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11791,
+    "shares": 10300
+  },
+  {
+    "entryID": 6303,
+    "crossplayID": 6303,
+    "tombolaID": 172,
+    "rewardCategory": 2,
+    "rewardIDs": 11867,
+    "shares": 8300
+  },
+  {
+    "entryID": 6304,
+    "crossplayID": 6304,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11826,
+    "shares": 4100
+  },
+  {
+    "entryID": 6305,
+    "crossplayID": 6305,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11853,
+    "shares": 4100
+  },
+  {
+    "entryID": 6306,
+    "crossplayID": 6306,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11872,
+    "shares": 4100
+  },
+  {
+    "entryID": 6307,
+    "crossplayID": 6307,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11873,
+    "shares": 4100
+  },
+  {
+    "entryID": 6308,
+    "crossplayID": 6308,
+    "tombolaID": 172,
+    "rewardCategory": 3,
+    "rewardIDs": 11898,
+    "shares": 4100
+  },
+  {
+    "entryID": 6309,
+    "crossplayID": 6309,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11871,
+    "shares": 2800
+  },
+  {
+    "entryID": 6310,
+    "crossplayID": 6310,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11894,
+    "shares": 2400
+  },
+  {
+    "entryID": 6311,
+    "crossplayID": 6311,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11887,
+    "shares": 2100
+  },
+  {
+    "entryID": 6312,
+    "crossplayID": 6312,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11900,
+    "shares": 1700
+  },
+  {
+    "entryID": 6313,
+    "crossplayID": 6313,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11912,
+    "shares": 1400
+  },
+  {
+    "entryID": 6314,
+    "crossplayID": 6314,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11913,
+    "shares": 1400
+  },
+  {
+    "entryID": 6315,
+    "crossplayID": 6315,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11899,
+    "shares": 1400
+  },
+  {
+    "entryID": 6316,
+    "crossplayID": 6316,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11914,
+    "shares": 1200
+  },
+  {
+    "entryID": 6317,
+    "crossplayID": 6317,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11915,
+    "shares": 1200
+  },
+  {
+    "entryID": 6318,
+    "crossplayID": 6318,
+    "tombolaID": 172,
+    "rewardCategory": 4,
+    "rewardIDs": 11916,
+    "shares": 1200
+  },
+  {
+    "entryID": 6319,
+    "crossplayID": 6319,
+    "tombolaID": 173,
+    "rewardCategory": 4,
+    "rewardIDs": 11900,
+    "shares": 196700
+  },
+  {
+    "entryID": 6320,
+    "crossplayID": 6320,
+    "tombolaID": 173,
+    "rewardCategory": 4,
+    "rewardIDs": 11912,
+    "shares": 172100
+  },
+  {
+    "entryID": 6321,
+    "crossplayID": 6321,
+    "tombolaID": 173,
+    "rewardCategory": 4,
+    "rewardIDs": 11913,
+    "shares": 172100
+  },
+  {
+    "entryID": 6322,
+    "crossplayID": 6322,
+    "tombolaID": 173,
+    "rewardCategory": 4,
+    "rewardIDs": 11914,
+    "shares": 153000
+  },
+  {
+    "entryID": 6323,
+    "crossplayID": 6323,
+    "tombolaID": 173,
+    "rewardCategory": 4,
+    "rewardIDs": 11915,
+    "shares": 153000
+  },
+  {
+    "entryID": 6324,
+    "crossplayID": 6324,
+    "tombolaID": 173,
+    "rewardCategory": 4,
+    "rewardIDs": 11916,
+    "shares": 153000
+  },
+  {
+    "entryID": 6325,
+    "crossplayID": 6325,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11901,
+    "shares": 55100
+  },
+  {
+    "entryID": 6326,
+    "crossplayID": 6326,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11902,
+    "shares": 55100
+  },
+  {
+    "entryID": 6327,
+    "crossplayID": 6327,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11903,
+    "shares": 55100
+  },
+  {
+    "entryID": 6328,
+    "crossplayID": 6328,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11904,
+    "shares": 55100
+  },
+  {
+    "entryID": 6329,
+    "crossplayID": 6329,
+    "tombolaID": 174,
+    "rewardCategory": 1,
+    "rewardIDs": 11905,
+    "shares": 41300
+  },
+  {
+    "entryID": 6330,
+    "crossplayID": 6330,
+    "tombolaID": 174,
+    "rewardCategory": 1,
+    "rewardIDs": 11906,
+    "shares": 27500
+  },
+  {
+    "entryID": 6331,
+    "crossplayID": 6331,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11844,
+    "shares": 27500
+  },
+  {
+    "entryID": 6332,
+    "crossplayID": 6332,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11845,
+    "shares": 27500
+  },
+  {
+    "entryID": 6333,
+    "crossplayID": 6333,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11846,
+    "shares": 27500
+  },
+  {
+    "entryID": 6334,
+    "crossplayID": 6334,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11847,
+    "shares": 27500
+  },
+  {
+    "entryID": 6335,
+    "crossplayID": 6335,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11848,
+    "shares": 27500
+  },
+  {
+    "entryID": 6336,
+    "crossplayID": 6336,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11849,
+    "shares": 27500
+  },
+  {
+    "entryID": 6337,
+    "crossplayID": 6337,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11850,
+    "shares": 27500
+  },
+  {
+    "entryID": 6338,
+    "crossplayID": 6338,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11851,
+    "shares": 27500
+  },
+  {
+    "entryID": 6339,
+    "crossplayID": 6339,
+    "tombolaID": 174,
+    "rewardCategory": 1,
+    "rewardIDs": 11811,
+    "shares": 20700
+  },
+  {
+    "entryID": 6340,
+    "crossplayID": 6340,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11863,
+    "shares": 20700
+  },
+  {
+    "entryID": 6341,
+    "crossplayID": 6341,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11908,
+    "shares": 20700
+  },
+  {
+    "entryID": 6342,
+    "crossplayID": 6342,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11909,
+    "shares": 20700
+  },
+  {
+    "entryID": 6343,
+    "crossplayID": 6343,
+    "tombolaID": 174,
+    "rewardCategory": 1,
+    "rewardIDs": 11841,
+    "shares": 16500
+  },
+  {
+    "entryID": 6344,
+    "crossplayID": 6344,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11910,
+    "shares": 16500
+  },
+  {
+    "entryID": 6345,
+    "crossplayID": 6345,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11822,
+    "shares": 15000
+  },
+  {
+    "entryID": 6346,
+    "crossplayID": 6346,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11823,
+    "shares": 15000
+  },
+  {
+    "entryID": 6347,
+    "crossplayID": 6347,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11816,
+    "shares": 13800
+  },
+  {
+    "entryID": 6348,
+    "crossplayID": 6348,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11817,
+    "shares": 13800
+  },
+  {
+    "entryID": 6349,
+    "crossplayID": 6349,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11818,
+    "shares": 13800
+  },
+  {
+    "entryID": 6350,
+    "crossplayID": 6350,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11819,
+    "shares": 13800
+  },
+  {
+    "entryID": 6351,
+    "crossplayID": 6351,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11820,
+    "shares": 13800
+  },
+  {
+    "entryID": 6352,
+    "crossplayID": 6352,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11821,
+    "shares": 13800
+  },
+  {
+    "entryID": 6353,
+    "crossplayID": 6353,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11824,
+    "shares": 13800
+  },
+  {
+    "entryID": 6354,
+    "crossplayID": 6354,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11825,
+    "shares": 13800
+  },
+  {
+    "entryID": 6355,
+    "crossplayID": 6355,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11866,
+    "shares": 11800
+  },
+  {
+    "entryID": 6356,
+    "crossplayID": 6356,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11890,
+    "shares": 11800
+  },
+  {
+    "entryID": 6357,
+    "crossplayID": 6357,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11891,
+    "shares": 11800
+  },
+  {
+    "entryID": 6358,
+    "crossplayID": 6358,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11892,
+    "shares": 11800
+  },
+  {
+    "entryID": 6359,
+    "crossplayID": 6359,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11893,
+    "shares": 11800
+  },
+  {
+    "entryID": 6360,
+    "crossplayID": 6360,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11911,
+    "shares": 11800
+  },
+  {
+    "entryID": 6361,
+    "crossplayID": 6361,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11843,
+    "shares": 11000
+  },
+  {
+    "entryID": 6362,
+    "crossplayID": 6362,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11868,
+    "shares": 11000
+  },
+  {
+    "entryID": 6363,
+    "crossplayID": 6363,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11869,
+    "shares": 11000
+  },
+  {
+    "entryID": 6364,
+    "crossplayID": 6364,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11882,
+    "shares": 11000
+  },
+  {
+    "entryID": 6365,
+    "crossplayID": 6365,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11883,
+    "shares": 11000
+  },
+  {
+    "entryID": 6366,
+    "crossplayID": 6366,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11884,
+    "shares": 11000
+  },
+  {
+    "entryID": 6367,
+    "crossplayID": 6367,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11885,
+    "shares": 11000
+  },
+  {
+    "entryID": 6368,
+    "crossplayID": 6368,
+    "tombolaID": 174,
+    "rewardCategory": 1,
+    "rewardIDs": 11814,
+    "shares": 10300
+  },
+  {
+    "entryID": 6369,
+    "crossplayID": 6369,
+    "tombolaID": 174,
+    "rewardCategory": 1,
+    "rewardIDs": 11815,
+    "shares": 10300
+  },
+  {
+    "entryID": 6370,
+    "crossplayID": 6370,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11842,
+    "shares": 10300
+  },
+  {
+    "entryID": 6371,
+    "crossplayID": 6371,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11791,
+    "shares": 10300
+  },
+  {
+    "entryID": 6372,
+    "crossplayID": 6372,
+    "tombolaID": 174,
+    "rewardCategory": 2,
+    "rewardIDs": 11867,
+    "shares": 8300
+  },
+  {
+    "entryID": 6373,
+    "crossplayID": 6373,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11826,
+    "shares": 4100
+  },
+  {
+    "entryID": 6374,
+    "crossplayID": 6374,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11853,
+    "shares": 4100
+  },
+  {
+    "entryID": 6375,
+    "crossplayID": 6375,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11872,
+    "shares": 4100
+  },
+  {
+    "entryID": 6376,
+    "crossplayID": 6376,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11873,
+    "shares": 4100
+  },
+  {
+    "entryID": 6377,
+    "crossplayID": 6377,
+    "tombolaID": 174,
+    "rewardCategory": 3,
+    "rewardIDs": 11898,
+    "shares": 4100
+  },
+  {
+    "entryID": 6378,
+    "crossplayID": 6378,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11871,
+    "shares": 2800
+  },
+  {
+    "entryID": 6379,
+    "crossplayID": 6379,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11894,
+    "shares": 2400
+  },
+  {
+    "entryID": 6380,
+    "crossplayID": 6380,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11887,
+    "shares": 2100
+  },
+  {
+    "entryID": 6381,
+    "crossplayID": 6381,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11900,
+    "shares": 1700
+  },
+  {
+    "entryID": 6382,
+    "crossplayID": 6382,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11912,
+    "shares": 1400
+  },
+  {
+    "entryID": 6383,
+    "crossplayID": 6383,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11913,
+    "shares": 1400
+  },
+  {
+    "entryID": 6384,
+    "crossplayID": 6384,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11899,
+    "shares": 1400
+  },
+  {
+    "entryID": 6385,
+    "crossplayID": 6385,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11914,
+    "shares": 1200
+  },
+  {
+    "entryID": 6386,
+    "crossplayID": 6386,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11915,
+    "shares": 1200
+  },
+  {
+    "entryID": 6387,
+    "crossplayID": 6387,
+    "tombolaID": 174,
+    "rewardCategory": 4,
+    "rewardIDs": 11916,
+    "shares": 1200
+  },
+  {
     "entryID": 1001,
     "crossplayID": 1001,
     "tombolaID": 10001,
@@ -42109,6 +50653,398 @@
     "tombolaID": 10016,
     "rewardCategory": 2,
     "rewardIDs": 70257,
+    "shares": 6000
+  },
+  {
+    "entryID": 5271,
+    "crossplayID": 5271,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70164,
+    "shares": 5000
+  },
+  {
+    "entryID": 5272,
+    "crossplayID": 5272,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70165,
+    "shares": 3000
+  },
+  {
+    "entryID": 5273,
+    "crossplayID": 5273,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70166,
+    "shares": 3000
+  },
+  {
+    "entryID": 5274,
+    "crossplayID": 5274,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70167,
+    "shares": 3000
+  },
+  {
+    "entryID": 5275,
+    "crossplayID": 5275,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70168,
+    "shares": 3000
+  },
+  {
+    "entryID": 5276,
+    "crossplayID": 5276,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70169,
+    "shares": 1500
+  },
+  {
+    "entryID": 5277,
+    "crossplayID": 5277,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70170,
+    "shares": 1500
+  },
+  {
+    "entryID": 5278,
+    "crossplayID": 5278,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70171,
+    "shares": 1500
+  },
+  {
+    "entryID": 5279,
+    "crossplayID": 5279,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70172,
+    "shares": 1500
+  },
+  {
+    "entryID": 5280,
+    "crossplayID": 5280,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70173,
+    "shares": 1500
+  },
+  {
+    "entryID": 5281,
+    "crossplayID": 5281,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70174,
+    "shares": 1500
+  },
+  {
+    "entryID": 5282,
+    "crossplayID": 5282,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70175,
+    "shares": 1500
+  },
+  {
+    "entryID": 5283,
+    "crossplayID": 5283,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70176,
+    "shares": 1500
+  },
+  {
+    "entryID": 5284,
+    "crossplayID": 5284,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70177,
+    "shares": 1500
+  },
+  {
+    "entryID": 5285,
+    "crossplayID": 5285,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70178,
+    "shares": 1500
+  },
+  {
+    "entryID": 5286,
+    "crossplayID": 5286,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70179,
+    "shares": 1500
+  },
+  {
+    "entryID": 5287,
+    "crossplayID": 5287,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70180,
+    "shares": 1500
+  },
+  {
+    "entryID": 5288,
+    "crossplayID": 5288,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70181,
+    "shares": 1000
+  },
+  {
+    "entryID": 5289,
+    "crossplayID": 5289,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70182,
+    "shares": 1000
+  },
+  {
+    "entryID": 5290,
+    "crossplayID": 5290,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70183,
+    "shares": 1000
+  },
+  {
+    "entryID": 5291,
+    "crossplayID": 5291,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70184,
+    "shares": 1000
+  },
+  {
+    "entryID": 5292,
+    "crossplayID": 5292,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70185,
+    "shares": 10000
+  },
+  {
+    "entryID": 5293,
+    "crossplayID": 5293,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70186,
+    "shares": 7000
+  },
+  {
+    "entryID": 5294,
+    "crossplayID": 5294,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70187,
+    "shares": 1000
+  },
+  {
+    "entryID": 5295,
+    "crossplayID": 5295,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70188,
+    "shares": 2000
+  },
+  {
+    "entryID": 5296,
+    "crossplayID": 5296,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70189,
+    "shares": 800
+  },
+  {
+    "entryID": 5297,
+    "crossplayID": 5297,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70190,
+    "shares": 800
+  },
+  {
+    "entryID": 5298,
+    "crossplayID": 5298,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70191,
+    "shares": 800
+  },
+  {
+    "entryID": 5299,
+    "crossplayID": 5299,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70192,
+    "shares": 1500
+  },
+  {
+    "entryID": 5300,
+    "crossplayID": 5300,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70193,
+    "shares": 600
+  },
+  {
+    "entryID": 5301,
+    "crossplayID": 5301,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70194,
+    "shares": 2000
+  },
+  {
+    "entryID": 5302,
+    "crossplayID": 5302,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70195,
+    "shares": 800
+  },
+  {
+    "entryID": 5303,
+    "crossplayID": 5303,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70196,
+    "shares": 200
+  },
+  {
+    "entryID": 5304,
+    "crossplayID": 5304,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70197,
+    "shares": 1000
+  },
+  {
+    "entryID": 5305,
+    "crossplayID": 5305,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70198,
+    "shares": 1000
+  },
+  {
+    "entryID": 5306,
+    "crossplayID": 5306,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70199,
+    "shares": 1000
+  },
+  {
+    "entryID": 5307,
+    "crossplayID": 5307,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70200,
+    "shares": 1000
+  },
+  {
+    "entryID": 5308,
+    "crossplayID": 5308,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70201,
+    "shares": 1000
+  },
+  {
+    "entryID": 5309,
+    "crossplayID": 5309,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70202,
+    "shares": 1000
+  },
+  {
+    "entryID": 5310,
+    "crossplayID": 5310,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70203,
+    "shares": 1000
+  },
+  {
+    "entryID": 5311,
+    "crossplayID": 5311,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70204,
+    "shares": 1000
+  },
+  {
+    "entryID": 5312,
+    "crossplayID": 5312,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70205,
+    "shares": 8000
+  },
+  {
+    "entryID": 5313,
+    "crossplayID": 5313,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70206,
+    "shares": 5000
+  },
+  {
+    "entryID": 5314,
+    "crossplayID": 5314,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70207,
+    "shares": 3000
+  },
+  {
+    "entryID": 5315,
+    "crossplayID": 5315,
+    "tombolaID": 10018,
+    "rewardCategory": 1,
+    "rewardIDs": 70263,
+    "shares": 500
+  },
+  {
+    "entryID": 5316,
+    "crossplayID": 5316,
+    "tombolaID": 10018,
+    "rewardCategory": 4,
+    "rewardIDs": 70259,
+    "shares": 200
+  },
+  {
+    "entryID": 5317,
+    "crossplayID": 5317,
+    "tombolaID": 10018,
+    "rewardCategory": 3,
+    "rewardIDs": 70260,
+    "shares": 800
+  },
+  {
+    "entryID": 5318,
+    "crossplayID": 5318,
+    "tombolaID": 10018,
+    "rewardCategory": 2,
+    "rewardIDs": 70261,
+    "shares": 2000
+  },
+  {
+    "entryID": 5319,
+    "crossplayID": 5319,
+    "tombolaID": 10018,
+    "rewardCategory": 2,
+    "rewardIDs": 70262,
     "shares": 6000
   }
 ]

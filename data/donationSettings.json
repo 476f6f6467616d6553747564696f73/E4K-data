@@ -70,5 +70,11 @@
     "crossplayID": 12,
     "donationItemSetID": 12,
     "rewardSetID": 12
+  },
+  {
+    "donationSettingID": 13,
+    "crossplayID": 13,
+    "donationItemSetID": 13,
+    "rewardSetID": 13
   }
 ]

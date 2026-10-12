@@ -32,7 +32,7 @@
     "crossplayID": 3,
     "name": "gamblingPrincess",
     "spinRarities": "1,1,1,2",
-    "tombolas": "6003+10003#6004+10004#6012+10015",
+    "tombolas": "6003+10003#6004+10004#6012+10015#6015+10018",
     "coolDownInSeconds": 1296000,
     "maxFreeOpenings": 1,
     "freeOpeningTombolaID": 10003,

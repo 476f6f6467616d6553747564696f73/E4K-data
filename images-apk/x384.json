@@ -8627,6 +8627,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_DeathsFountain": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_DeathsFountain/Deco_Building_DeathsFountain.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 67,
+        "rx": 979,
+        "ry": 963
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_DessertKingdomScorpionTomb": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_DessertKingdomScorpionTomb/Deco_Building_DessertKingdomScorpionTomb.png",
@@ -9437,6 +9452,96 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenHalloweenCauldron": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenHalloweenCauldron/Deco_Building_ExaltedGreenHalloweenCauldron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 395,
+        "h": 229,
+        "rx": 814,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenHalloweenCemetery": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenHalloweenCemetery/Deco_Building_ExaltedGreenHalloweenCemetery.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 394,
+        "h": 270,
+        "rx": 818,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenHalloweenMausoleum": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenHalloweenMausoleum/Deco_Building_ExaltedGreenHalloweenMausoleum.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 215,
+        "rx": 818,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenHalloweenScarecrowEffigy": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenHalloweenScarecrowEffigy/Deco_Building_ExaltedGreenHalloweenScarecrowEffigy.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 137,
+        "rx": 906,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenHalloweenScarecrowShrine": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenHalloweenScarecrowShrine/Deco_Building_ExaltedGreenHalloweenScarecrowShrine.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 137,
+        "rx": 906,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenHalloweenScarecrowVigil": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenHalloweenScarecrowVigil/Deco_Building_ExaltedGreenHalloweenScarecrowVigil.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 137,
+        "rx": 906,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenHutoftheInfernalShaman": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenHutoftheInfernalShaman/Deco_Building_ExaltedGreenHutoftheInfernalShaman.png",
@@ -9673,6 +9778,21 @@
         "h": 151,
         "rx": 912,
         "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenRockyHorror": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenRockyHorror/Deco_Building_ExaltedGreenRockyHorror.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 186,
+        "rx": 920,
+        "ry": 882
       }
     ],
     "fx": []
@@ -10337,6 +10457,66 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleHalloweenCauldron": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleHalloweenCauldron/Deco_Building_ExaltedPurpleHalloweenCauldron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 395,
+        "h": 229,
+        "rx": 814,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleHalloweenCemetery": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleHalloweenCemetery/Deco_Building_ExaltedPurpleHalloweenCemetery.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 393,
+        "h": 270,
+        "rx": 819,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleHalloweenMausoleum": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleHalloweenMausoleum/Deco_Building_ExaltedPurpleHalloweenMausoleum.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 215,
+        "rx": 818,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleHalloweenScarecrowShrine": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleHalloweenScarecrowShrine/Deco_Building_ExaltedPurpleHalloweenScarecrowShrine.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 137,
+        "rx": 906,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleKegForest": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleKegForest/Deco_Building_ExaltedPurpleKegForest.png",
@@ -10513,6 +10693,21 @@
         "h": 151,
         "rx": 912,
         "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleRockyHorror": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleRockyHorror/Deco_Building_ExaltedPurpleRockyHorror.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 186,
+        "rx": 920,
+        "ry": 882
       }
     ],
     "fx": []
@@ -11057,6 +11252,66 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedHalloweenCauldron": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedHalloweenCauldron/Deco_Building_ExaltedRedHalloweenCauldron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 395,
+        "h": 229,
+        "rx": 814,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedHalloweenCemetery": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedHalloweenCemetery/Deco_Building_ExaltedRedHalloweenCemetery.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 393,
+        "h": 270,
+        "rx": 819,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedHalloweenMausoleum": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedHalloweenMausoleum/Deco_Building_ExaltedRedHalloweenMausoleum.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 215,
+        "rx": 818,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedHalloweenScarecrowShrine": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedHalloweenScarecrowShrine/Deco_Building_ExaltedRedHalloweenScarecrowShrine.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 134,
+        "rx": 906,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedHutoftheInfernalShaman": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedHutoftheInfernalShaman/Deco_Building_ExaltedRedHutoftheInfernalShaman.png",
@@ -11248,6 +11503,21 @@
         "h": 151,
         "rx": 912,
         "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedRockyHorror": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedRockyHorror/Deco_Building_ExaltedRedRockyHorror.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 183,
+        "rx": 920,
+        "ry": 885
       }
     ],
     "fx": []
@@ -13715,6 +13985,21 @@
         "h": 107,
         "rx": 915,
         "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_PoolOfBerimondKings": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_PoolOfBerimondKings/Deco_Building_PoolOfBerimondKings.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 152,
+        "rx": 920,
+        "ry": 912
       }
     ],
     "fx": []
@@ -28382,6 +28667,151 @@
     ],
     "fx": []
   },
+  "CursedApiary": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/CursedApiary/CursedApiary.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 180,
+        "rx": 950,
+        "ry": 867
+      }
+    ],
+    "fx": [
+      {
+        "x": 20,
+        "y": -71,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "CursedDrillground": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/CursedDrillground/CursedDrillground.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 120,
+        "rx": 911,
+        "ry": 943
+      }
+    ],
+    "fx": [
+      {
+        "x": 34,
+        "y": -24,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "CursedDwelling": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/CursedDwelling/CursedDwelling.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 145,
+        "rx": 952,
+        "ry": 901
+      }
+    ],
+    "fx": [
+      {
+        "x": -16,
+        "y": -74,
+        "scale": 0.25,
+        "name": "flagHolder",
+        "rotation": 0
+      },
+      {
+        "x": 22,
+        "y": -45,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "CursedEncampment": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/CursedEncampment/CursedEncampment.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 142,
+        "rx": 953,
+        "ry": 915
+      }
+    ],
+    "fx": [
+      {
+        "x": 19,
+        "y": -43,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "CursedFlourMill": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/CursedFlourMill/CursedFlourMill.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 171,
+        "h": 187,
+        "rx": 902,
+        "ry": 883
+      }
+    ],
+    "fx": [
+      {
+        "x": 34,
+        "y": -12,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "CursedSawmill": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/CursedSawmill/CursedSawmill.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 127,
+        "rx": 921,
+        "ry": 937
+      }
+    ],
+    "fx": [
+      {
+        "x": -27,
+        "y": -33,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "daffodilWorkshop": {
     "pid": 0,
     "url": "x384/BuildingSkins/daffodilWorkshop/daffodilWorkshop.png",
@@ -28937,6 +29367,151 @@
         "y": -63,
         "scale": 0.25,
         "name": "smokeHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "HauntedApiary": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/HauntedApiary/HauntedApiary.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 180,
+        "rx": 950,
+        "ry": 866
+      }
+    ],
+    "fx": [
+      {
+        "x": 20,
+        "y": -71,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "HauntedDrillground": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/HauntedDrillground/HauntedDrillground.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 122,
+        "rx": 912,
+        "ry": 941
+      }
+    ],
+    "fx": [
+      {
+        "x": 34,
+        "y": -24,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "HauntedDwelling": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/HauntedDwelling/HauntedDwelling.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 149,
+        "rx": 952,
+        "ry": 897
+      }
+    ],
+    "fx": [
+      {
+        "x": -16,
+        "y": -74,
+        "scale": 0.25,
+        "name": "flagHolder",
+        "rotation": 0
+      },
+      {
+        "x": 22,
+        "y": -45,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "HauntedEncampment": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/HauntedEncampment/HauntedEncampment.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 144,
+        "rx": 953,
+        "ry": 914
+      }
+    ],
+    "fx": [
+      {
+        "x": 19,
+        "y": -43,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "HauntedFlourMill": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/HauntedFlourMill/HauntedFlourMill.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 171,
+        "h": 187,
+        "rx": 902,
+        "ry": 883
+      }
+    ],
+    "fx": [
+      {
+        "x": 34,
+        "y": -12,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "HauntedSawmill": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/HauntedSawmill/HauntedSawmill.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 128,
+        "rx": 921,
+        "ry": 936
+      }
+    ],
+    "fx": [
+      {
+        "x": -27,
+        "y": -33,
+        "scale": 0.25,
+        "name": "damageHolder",
         "rotation": 0
       }
     ]
@@ -32270,9 +32845,9 @@
     ],
     "fx": []
   },
-  "Jade_Castle_Landscape": {
+  "Jade_Castle_Landscape_Classic": {
     "pid": 2,
-    "url": "x384/CastleDetailView/DetailView_Background/Jade_Castle_Landscape.png",
+    "url": "x384/CastleDetailView/DetailView_Background/Jade_Castle_Landscape_Classic.png",
     "frames": [
       {
         "x": 0,
@@ -52993,6 +53568,456 @@
     ],
     "fx": []
   },
+  "General_Aeryn_Arm_Left": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 137,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Arm_Right": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 139,
+        "h": 101,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Bag": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Bag.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 64,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Belt_Ending": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Belt_Ending.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 68,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Belt_Long": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Belt_Long.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 147,
+        "h": 111,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Belt_Loop": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Belt_Loop.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 85,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Belt_With_Hoop": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Belt_With_Hoop.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 41,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Belt": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 49,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Body": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Body.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 76,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Cape_Back_Right": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Cape_Back_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 387,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Cape_Back": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Cape_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 261,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Cape_Front_Small": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Cape_Front_Small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 132,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Cape_Front": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Cape_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 116,
+        "h": 266,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Chest": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 149,
+        "h": 123,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Eyes_Open": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Eyes_Open.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 13,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Foot_Left": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Foot_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 126,
+        "h": 170,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Foot_Right": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Foot_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 234,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Fur_Front": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Fur_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 64,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Hair": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Hair.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 25,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Hand_Axe": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Hand_Axe.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 137,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Hand_Left": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 133,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Head": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 142,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Leg_Left": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Leg_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 147,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Leg_Right": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Leg_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 197,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Loincloth": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Loincloth.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 151,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Ribbon_Left": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Ribbon_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 35,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Ribbon_Right": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Ribbon_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 46,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Shadow": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 278,
+        "h": 30,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Tree": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Tree.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 205,
+        "h": 140,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Aeryn_Weapon": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/General_Aeryn/General_Aeryn_Weapon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 432,
+        "h": 224,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "General_Alice_Arm_Left": {
     "pid": 1,
     "url": "x384/Characters/Generals/General_Alice/General_Alice_Arm_Left.png",
@@ -62593,6 +63618,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Aeryn": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Aeryn.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1217,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Alice": {
     "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Alice.png",
@@ -62857,6 +63897,21 @@
         "y": 0,
         "w": 1212,
         "h": 1217,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Preview_Aeryn": {
+    "pid": 2,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Aeryn.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1218,
         "rx": 999,
         "ry": 999
       }
@@ -82440,6 +83495,36 @@
     ],
     "fx": []
   },
+  "items_unique_1591": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1591_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1592": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1592_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "items_unique_2005": {
     "pid": 0,
     "url": "x384/Equipment/EquipmentShared/items_unique_2004_Shared.png",
@@ -96053,6 +97138,111 @@
     ],
     "fx": []
   },
+  "icon_currency_AerynToken_big_ds": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_AerynToken_big_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 59,
+        "rx": 971,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AerynToken_big": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_AerynToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 57,
+        "rx": 972,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AerynToken_ds": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_AerynToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 37,
+        "rx": 982,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AerynToken_medium_ds": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_AerynToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 47,
+        "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AerynToken_medium": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_AerynToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 46,
+        "rx": 977,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AerynToken_small": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_AerynToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 18,
+        "rx": 991,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AerynToken": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_AerynToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 35,
+        "rx": 983,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_AllianceCoin_big": {
     "pid": 0,
     "url": "x384/Icons/CurrencyIcons/icon_currency_AllianceCoin_big.png",
@@ -105143,6 +106333,36 @@
     ],
     "fx": []
   },
+  "icon_currency_ShardAeryn_xl": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_ShardAeryn_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 101,
+        "rx": 950,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardAeryn": {
+    "pid": 2,
+    "url": "x384/Icons/CurrencyIcons/icon_currency_ShardAeryn.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_ShardAlice_xl": {
     "pid": 1,
     "url": "x384/Icons/CurrencyIcons/icon_currency_ShardAlice_xl.png",
@@ -108368,6 +109588,51 @@
     ],
     "fx": []
   },
+  "icon_general_Aeryn_xl": {
+    "pid": 2,
+    "url": "x384/Icons/GeneralIcons/icon_general_Aeryn_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 107,
+        "rx": 950,
+        "ry": 946
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Aeryn_xxl": {
+    "pid": 2,
+    "url": "x384/Icons/GeneralIcons/icon_general_Aeryn_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 137,
+        "rx": 941,
+        "ry": 933
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Aeryn": {
+    "pid": 2,
+    "url": "x384/Icons/GeneralIcons/icon_general_Aeryn.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 71,
+        "rx": 966,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
   "icon_general_Alice_xl": {
     "pid": 2,
     "url": "x384/Icons/GeneralIcons/icon_general_Alice_xl.png",
@@ -108544,6 +109809,21 @@
         "h": 69,
         "rx": 966,
         "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_Aeryn": {
+    "pid": 2,
+    "url": "x384/Icons/GeneralIcons/icon_general_attack_avatar_Aeryn.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 197,
+        "rx": 920,
+        "ry": 901
       }
     ],
     "fx": []
@@ -109729,6 +111009,51 @@
         "h": 47,
         "rx": 976,
         "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Aeryn_xl": {
+    "pid": 2,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Aeryn_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 107,
+        "rx": 951,
+        "ry": 946
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Aeryn_xxl": {
+    "pid": 2,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Aeryn_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 139,
+        "rx": 940,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Aeryn": {
+    "pid": 2,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Aeryn.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 71,
+        "rx": 967,
+        "ry": 964
       }
     ],
     "fx": []
@@ -111458,6 +112783,21 @@
     ],
     "fx": []
   },
+  "icon_squared_general_Aeryn": {
+    "pid": 2,
+    "url": "x384/Icons/GeneralIcons/icon_squared_general_Aeryn.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 60,
+        "rx": 970,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
   "icon_squared_general_Alice": {
     "pid": 2,
     "url": "x384/Icons/GeneralIcons/icon_squared_general_Alice.png",
@@ -112174,6 +113514,21 @@
         "h": 95,
         "rx": 963,
         "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_battle_ground_citadel_xl": {
+    "pid": 2,
+    "url": "x384/Icons/Icons/icon_alliance_battle_ground_citadel_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 106,
+        "rx": 949,
+        "ry": 947
       }
     ],
     "fx": []
@@ -120304,6 +121659,21 @@
         "h": 39,
         "rx": 980,
         "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "icon_indicator_dove_peace": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_indicator_dove_peace.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 25,
+        "rx": 978,
+        "ry": 987
       }
     ],
     "fx": []
@@ -149903,6 +151273,21 @@
     ],
     "fx": []
   },
+  "Teaser_OffersHub_Big_WhaleChest_25": {
+    "pid": 1,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_25.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 333,
+        "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
   "Teaser_OffersHub_Medium_1": {
     "pid": 0,
     "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Medium_1.png",
@@ -164473,6 +165858,36 @@
     ],
     "fx": []
   },
+  "Eventtool_Unit_BerimondAntiBundleT2": {
+    "pid": 1,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_BerimondAntiBundleT2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 44,
+        "rx": 965,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_BerimondAntiBundleT3": {
+    "pid": 1,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_BerimondAntiBundleT3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 44,
+        "rx": 966,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
   "Eventtool_Unit_BerimondAntiLadder": {
     "pid": 0,
     "url": "x384/Units/UnitAssets/Eventtool_Unit_BerimondAntiLadder.png",
@@ -164484,6 +165899,36 @@
         "h": 69,
         "rx": 977,
         "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_BerimondAntiLadderT2": {
+    "pid": 1,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_BerimondAntiLadderT2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 68,
+        "rx": 977,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_BerimondAntiLadderT3": {
+    "pid": 1,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_BerimondAntiLadderT3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 68,
+        "rx": 976,
+        "ry": 966
       }
     ],
     "fx": []
@@ -164503,6 +165948,36 @@
     ],
     "fx": []
   },
+  "Eventtool_Unit_BerimondAntiRamT2": {
+    "pid": 1,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_BerimondAntiRamT2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 65,
+        "rx": 968,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_BerimondAntiRamT3": {
+    "pid": 1,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_BerimondAntiRamT3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 61,
+        "rx": 966,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
   "Eventtool_Unit_BerimondAntiShields": {
     "pid": 0,
     "url": "x384/Units/UnitAssets/Eventtool_Unit_BerimondAntiShields.png",
@@ -164514,6 +165989,36 @@
         "h": 67,
         "rx": 972,
         "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_BerimondAntiShieldsT2": {
+    "pid": 1,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_BerimondAntiShieldsT2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 69,
+        "rx": 973,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_BerimondAntiShieldsT3": {
+    "pid": 1,
+    "url": "x384/Units/UnitAssets/Eventtool_Unit_BerimondAntiShieldsT3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 69,
+        "rx": 974,
+        "ry": 965
       }
     ],
     "fx": []
@@ -166629,6 +168134,36 @@
         "h": 102,
         "rx": 961,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_ForlornSniper": {
+    "pid": 1,
+    "url": "x384/Units/UnitAssets/Eventunit_Unit_ForlornSniper.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 97,
+        "rx": 958,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_ForsakenProtector": {
+    "pid": 1,
+    "url": "x384/Units/UnitAssets/Eventunit_Unit_ForsakenProtector.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 99,
+        "rx": 957,
+        "ry": 955
       }
     ],
     "fx": []
@@ -172058,6 +173593,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_ForsakenWardenCrest": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_ForsakenWardenCrest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 43,
+        "rx": 1000,
+        "ry": 997
+      }
+    ],
+    "fx": [
+      {
+        "x": 14,
+        "y": 0,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_FreshTea": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_FreshTea.png",
@@ -176453,6 +178011,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_ForsakenWardenCrest": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_ForsakenWardenCrest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 91,
+        "rx": 986,
+        "ry": 960
+      }
+    ],
+    "fx": [
+      {
+        "x": 0,
+        "y": -20,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_FreshTea": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_FreshTea.png",
@@ -178880,6 +180461,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_ForsakenWardenCrest": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_ForsakenWardenCrest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70,
+        "rx": 986,
+        "ry": 989
+      }
+    ],
+    "fx": [
+      {
+        "x": 8,
+        "y": -8,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_FreshTea": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_FreshTea.png",
@@ -181078,6 +182682,29 @@
       {
         "x": 18,
         "y": -3,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_ForsakenWardenCrest": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_ForsakenWardenCrest/Outpost_Mapobject_Level_Special_ForsakenWardenCrest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 38,
+        "rx": 1006,
+        "ry": 997
+      }
+    ],
+    "fx": [
+      {
+        "x": 23,
+        "y": 2,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -183762,6 +185389,21 @@
         "h": 106,
         "rx": 971,
         "ry": 956
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_ForsakenWardenCrest": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_ForsakenWardenCrest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 84,
+        "rx": 982,
+        "ry": 979
       }
     ],
     "fx": []

@@ -763,6 +763,13 @@
     "assetName": "EdricToken"
   },
   {
+    "currencyID": 6015,
+    "crossplayID": 6015,
+    "Name": "AerynToken",
+    "JSONKey": "AET",
+    "assetName": "AerynToken"
+  },
+  {
     "currencyID": 10000,
     "crossplayID": 10000,
     "Name": "ShardUniversal",
@@ -880,6 +887,13 @@
     "Name": "ShardEdric",
     "JSONKey": "SDR",
     "assetName": "ShardEdric"
+  },
+  {
+    "currencyID": 10011,
+    "crossplayID": 10011,
+    "Name": "ShardAeryn",
+    "JSONKey": "SAE",
+    "assetName": "ShardAeryn"
   },
   {
     "currencyID": 9999,

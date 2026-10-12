@@ -478,5 +478,45 @@
     "slotID": 101266,
     "crossplayID": 101266,
     "abilityGroupIDs": "1026,1016"
+  },
+  {
+    "slotID": 101371,
+    "crossplayID": 101371,
+    "abilityGroupIDs": "1020,1027"
+  },
+  {
+    "slotID": 101372,
+    "crossplayID": 101372,
+    "abilityGroupIDs": "1002,1022"
+  },
+  {
+    "slotID": 101373,
+    "crossplayID": 101373,
+    "abilityGroupIDs": "1015,1030,1029"
+  },
+  {
+    "slotID": 101374,
+    "crossplayID": 101374,
+    "abilityGroupIDs": "1013,1003"
+  },
+  {
+    "slotID": 101376,
+    "crossplayID": 101376,
+    "abilityGroupIDs": "1020,1027"
+  },
+  {
+    "slotID": 101377,
+    "crossplayID": 101377,
+    "abilityGroupIDs": "1002,1022"
+  },
+  {
+    "slotID": 101378,
+    "crossplayID": 101378,
+    "abilityGroupIDs": "1015,1030,1029"
+  },
+  {
+    "slotID": 101379,
+    "crossplayID": 101379,
+    "abilityGroupIDs": "1013,1003"
   }
 ]

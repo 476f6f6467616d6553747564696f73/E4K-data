@@ -880,5 +880,11 @@
     "currencyID": 91,
     "minCurrencyAmount": 1,
     "rewardID": 9965
+  },
+  {
+    "currencyClearCompensationID": 153,
+    "currencyID": 92,
+    "minCurrencyAmount": 6,
+    "rewardID": 9965
   }
 ]
