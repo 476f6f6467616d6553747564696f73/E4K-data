@@ -5193,6 +5193,14 @@
     "areaTypeID": 43
   },
   {
+    "effectID": 539,
+    "crossplayID": 539,
+    "name": "AREAttackBoost",
+    "effectTypeID": 36,
+    "capID": 99,
+    "areaTypeID": 43
+  },
+  {
     "effectID": 2101,
     "name": "relicOffensiveMeleeBonus",
     "effectTypeID": 23,

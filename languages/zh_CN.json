@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "崇高红色万圣节墓地",
     "deco_ExaltedRedHalloweenMausoleum_name": "崇高红色万圣节陵墓",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "崇高的红色万圣节稻草人神社",
-    "deco_deathsfountain_name": "死神喷泉"
+    "deco_deathsfountain_name": "死神喷泉",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "崇高的绿色万圣节陵墓"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "来自贝里蒙德学院的令牌，为同时为狮子和熊而战的人们而封印。使用它来激活贝里蒙德顾问，对敌方瞭望塔进行连续攻击。该顾问可增加额外的士气。更多的士气意味着更强的部队和更多的伤害。",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "需要堡垒 级别 {0}",
     "dialog_chestOffer_desc_halloween": "用万圣节宝箱解锁恐怖奖励!",
     "dialog_chestOffer_title_halloween": "万圣节宝箱",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "沙漠中的联盟正在逼近堡垒等级 {0}!一旦足够多的联盟到达,第2阶段开始:联盟堡垒变得可攻击,你的部队可以在地图上的任何地方进行攻击。采集仍限于你自己的领地。加强你的堡垒并准备你的部队!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "足够的联盟已达到堡垒等级{0}！在第2阶段开始前只有短暂的准备时间：联盟堡垒变为可攻击状态，你的军队可以在地图上任何地方进攻。采集仍限于你自己的领地。加强你的堡垒并准备你的部队！",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "足够的联盟已达到堡垒等级 {0}。第 2 阶段已开始！联盟堡垒现在可以被攻击，你的军队可以在地图上的任何地方进行攻击。采集仍限于你自己的领土。保护你的古代小雕像，向你的对手进军！",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "经济竞争已结束！联盟堡垒现在可以被攻击，你的军队可以在地图上的任何地方发动攻击。资源收集仍限于你自己的领土。保护你的古代玉石雕像，向你的对手进军！",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "翡翠沙漠：第2阶段开始！",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "新服务器等待中",
-    "push_1039_content": "立即加入，开启你的新篇章"
+    "push_1039_content": "立即加入，开启你的新篇章",
+    "push_1052_content": "第2阶段即将到来。准备好你的堡垒和部队!",
+    "push_1052_title": "翡翠沙漠：战争即将来临！",
+    "push_1053_content": "在地图上任何地方发动攻击，向对手进军！",
+    "push_1053_title": "翡翠沙漠：第2阶段开始！"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "可以收税了 - 立刻收集金币！",

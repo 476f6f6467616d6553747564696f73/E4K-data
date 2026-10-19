@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Cimitir Halloween roșu exaltat",
     "deco_ExaltedRedHalloweenMausoleum_name": "Mauzolejul Halloween roșu exaltat",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Sanctuar Roșu Exaltat de Ciocan Halloween",
-    "deco_deathsfountain_name": "Fântâna Morții"
+    "deco_deathsfountain_name": "Fântâna Morții",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Mauzolejul Halloween verde exaltat"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Un jeton din Academia Berimond, sigilat pentru cei care luptă pentru Leoni și Urși. Folosește-l pentru a activa Consilierul Berimond și execută atacuri consecutive pe turnurile de veghe inamice. Acest consilier acordă Moral suplimentar. Mai mult Moral înseamnă Trupe mai puternice și mai mult rău.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Necesită Citadelă nivel {0}",
     "dialog_chestOffer_desc_halloween": "Deblochează recompense înfricoșătoare cu Cufarul Halloween!",
     "dialog_chestOffer_title_halloween": "Cufăr Halloween",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Alianţele peste deșert se apropie de Citadelă nivel {0}! Odată ce suficiente dintre ele o ating, Faza 2 începe: Citadelele Alianţei devin atacabile și Trupele tale pot lovi oriunde pe hartă. Adunarea rămâne limitată la teritoriul tău. Întărește-ți Citadelă și pregătește-ți Trupele!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Suficiente alianțe au atins nivelul citadelei {0}! Rămâne doar puțin timp de pregătire înainte ca Faza 2 să înceapă: Citadelele alianței devin atacabile și armatele tale pot lovi oriunde pe hartă. Strângerea rămâne limitată la propriul tău teritoriu. Întărește citadela ta și pregătește-ți trupele!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Suficiente alianțe au atins nivelul citadelei {0}. Faza 2 a început! Citadelele alianței pot fi acum atacate și armatele tale pot lovi oriunde pe hartă. Adunarea rămâne limitată la propriul tău teritoriu. Păzește-ți statuetele antice și marchează spre rivalii tăi!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "Cursa economică s-a încheiat! Citadelele Alianţei pot fi acum atacate și armatele tale pot lovi oriunde pe hartă. Colectarea resurselor rămâne limitată la teritoriul tău. Apără statuetele tale de jad antice și marșaluiește spre rivalii tăi!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Deșertul Jad: Faza 2 a început!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "Un nou server te așteaptă",
-    "push_1039_content": "Alătură-te acum și revendică un nou început"
+    "push_1039_content": "Alătură-te acum și revendică un nou început",
+    "push_1052_content": "Faza 2 vine. Pregătește-ți Citadelă și Trupe!",
+    "push_1052_title": "Deșertul Jade: Războiul se apropie!",
+    "push_1053_content": "Atacă oriunde pe hartă și mărșăluiește către rivalii tăi!",
+    "push_1053_title": "Deșertul Jade: Faza 2 a început!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Biruri gata de colectare - colectează-ţi monedele acum!",

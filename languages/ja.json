@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "高貴な赤いハロウィン墓地",
     "deco_ExaltedRedHalloweenMausoleum_name": "高貴な赤いハロウィンの霊廟",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "高貴な赤いハロウィンかかし神社",
-    "deco_deathsfountain_name": "死神の泉"
+    "deco_deathsfountain_name": "死神の泉",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "高貴な緑のハロウィン霊廟"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "ベリモンド学院のトークン。ライオンとクマの両方のために戦う者たちのために封印されています。ベリモンド顧問を起動し、敵の見張り塔への連続攻撃を実行するために使用してください。この顧問は追加のモラルを付与します。モラルが多いほど、部隊が強くなり、ダメージが増加します。",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "シタデル レベル {0} が必要",
     "dialog_chestOffer_desc_halloween": "ハロウィンチェストで不気味な報酬をアンロック!",
     "dialog_chestOffer_title_halloween": "ハロウィンチェスト",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "砂漠を越えた同盟がシタデルレベル {0} に接近しています!十分な数が到達すると、フェーズ2が始まります:同盟シタデルが攻撃可能になり、あなたの部隊はマップ上のどこでも攻撃できます。採集は自分の領土に限定されたままです。シタデルを強化し、部隊を準備してください!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "十分な同盟がシタデルレベル{0}に到達しました！フェーズ2が始まるまで、準備時間はわずかです：同盟シタデルが攻撃可能になり、あなたの軍隊はマップ上のどこでも攻撃できます。採集は自分の領土に限定されたままです。シタデルを強化し、部隊を準備してください！",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "十分な数の同盟がシタデルレベル {0} に到達しました。フェーズ 2 が始まりました！同盟シタデルは攻撃できるようになり、あなたの軍隊はマップ上のどこでも攻撃できます。採集は自分の領土に限定されたままです。古代の小像を守り、ライバルに向かって進軍しましょう！",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "経済競争が終了しました！同盟シタデルは攻撃可能になり、あなたの軍隊はマップ上のどこでも攻撃できます。資源の採集は自分の領土に限定されたままです。古代の翡翠像を守り、ライバルに向かって進軍しましょう！",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "ヒスイ砂漠：フェーズ2開始！",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "新しいサーバーが待っています",
-    "push_1039_content": "今すぐ参加して、新たな始まりを手に入れよう"
+    "push_1039_content": "今すぐ参加して、新たな始まりを手に入れよう",
+    "push_1052_content": "フェーズ2が来ます。シタデルと部隊を準備してください!",
+    "push_1052_title": "ジェイド砂漠：戦争が迫る！",
+    "push_1053_content": "マップ上のどこでも攻撃し、ライバルに向かって進軍しよう!",
+    "push_1053_title": "ヒスイの砂漠：フェーズ2開始！"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "税金が徴収できます - 今すぐコインを集めましょう！",

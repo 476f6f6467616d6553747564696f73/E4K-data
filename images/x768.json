@@ -97453,6 +97453,81 @@
     ],
     "fx": []
   },
+  "icon_currency_AncientJadeStatuette_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_AncientJadeStatuette_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 111,
+        "rx": 951,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AncientJadeStatuette_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_AncientJadeStatuette_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 89,
+        "rx": 961,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AncientJadeStatuette_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_AncientJadeStatuette_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 45,
+        "rx": 980,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AncientJadeStatuette_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_AncientJadeStatuette_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 173,
+        "h": 201,
+        "rx": 913,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AncientJadeStatuette": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_AncientJadeStatuette.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 67,
+        "rx": 970,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_AnniversaryToken_big": {
     "pid": 1,
     "url": "x768/Icons/CurrencyIcons/icon_currency_AnniversaryToken_big.png",
@@ -98694,6 +98769,156 @@
         "h": 56,
         "rx": 967,
         "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_CaravanIngnot_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 81,
+        "rx": 944,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_CaravanIngnot_ds_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_ds_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 87,
+        "rx": 941,
+        "ry": 956
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_CaravanIngnot_ds_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_ds_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 69,
+        "rx": 953,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_CaravanIngnot_ds_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_ds_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 37,
+        "rx": 975,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_CaravanIngnot_ds_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_ds_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 210,
+        "h": 155,
+        "rx": 895,
+        "ry": 922
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_CaravanIngnot_ds": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 53,
+        "rx": 964,
+        "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_CaravanIngnot_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 65,
+        "rx": 955,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_CaravanIngnot_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 33,
+        "rx": 977,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_CaravanIngnot_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 147,
+        "rx": 899,
+        "ry": 926
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_CaravanIngnot": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 49,
+        "rx": 966,
+        "ry": 975
       }
     ],
     "fx": []
@@ -102913,6 +103138,156 @@
     ],
     "fx": []
   },
+  "icon_currency_JadeArrowheads_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_JadeArrowheads_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 103,
+        "rx": 944,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_JadeArrowheads_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_JadeArrowheads_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 83,
+        "rx": 955,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_JadeArrowheads_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_JadeArrowheads_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 42,
+        "rx": 977,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_JadeArrowheads_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_JadeArrowheads_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 186,
+        "rx": 899,
+        "ry": 907
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_JadeArrowheads": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_JadeArrowheads.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 63,
+        "rx": 966,
+        "ry": 968
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_JadeBlades_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_JadeBlades_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 111,
+        "rx": 943,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_JadeBlades_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_JadeBlades_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 89,
+        "rx": 954,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_JadeBlades_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_JadeBlades_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 45,
+        "rx": 976,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_JadeBlades_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_JadeBlades_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 203,
+        "h": 200,
+        "rx": 898,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_JadeBlades": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_JadeBlades.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 67,
+        "rx": 965,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_KaelrithToken_big": {
     "pid": 0,
     "url": "x768/Icons/CurrencyIcons/icon_currency_KaelrithToken_big.png",
@@ -104668,6 +105043,81 @@
     ],
     "fx": []
   },
+  "icon_currency_PolishedJade_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_PolishedJade_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PolishedJade_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_PolishedJade_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 89,
+        "rx": 955,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PolishedJade_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_PolishedJade_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 45,
+        "rx": 977,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PolishedJade_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_PolishedJade_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 202,
+        "h": 201,
+        "rx": 899,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PolishedJade": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_PolishedJade.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_PrincessToken_big_ds": {
     "pid": 0,
     "url": "x768/Icons/CurrencyIcons/icon_currency_PrincessToken_big_ds.png",
@@ -105148,6 +105598,156 @@
     ],
     "fx": []
   },
+  "icon_currency_RawJadeite_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RawJadeite_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 100,
+        "rx": 944,
+        "ry": 950
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RawJadeite_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RawJadeite_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 81,
+        "rx": 955,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RawJadeite_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RawJadeite_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 41,
+        "rx": 977,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RawJadeite_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RawJadeite_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 181,
+        "rx": 899,
+        "ry": 909
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RawJadeite": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RawJadeite.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 61,
+        "rx": 966,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RawSilk_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RawSilk_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 103,
+        "rx": 944,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RawSilk_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RawSilk_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 83,
+        "rx": 955,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RawSilk_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RawSilk_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 42,
+        "rx": 977,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RawSilk_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RawSilk_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 186,
+        "rx": 899,
+        "ry": 907
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RawSilk": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RawSilk.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 63,
+        "rx": 966,
+        "ry": 968
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_RefinedLumber_big": {
     "pid": 1,
     "url": "x768/Icons/CurrencyIcons/icon_currency_RefinedLumber_big.png",
@@ -105384,6 +105984,81 @@
         "h": 55,
         "rx": 972,
         "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RestoredJadeStatuette_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RestoredJadeStatuette_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 111,
+        "rx": 950,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RestoredJadeStatuette_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RestoredJadeStatuette_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 89,
+        "rx": 960,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RestoredJadeStatuette_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RestoredJadeStatuette_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 45,
+        "rx": 979,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RestoredJadeStatuette_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RestoredJadeStatuette_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 179,
+        "h": 201,
+        "rx": 910,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RestoredJadeStatuette": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RestoredJadeStatuette.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 67,
+        "rx": 969,
+        "ry": 966
       }
     ],
     "fx": []
@@ -107003,6 +107678,156 @@
         "w": 43,
         "h": 61,
         "rx": 978,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SilkCoat_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_SilkCoat_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 99,
+        "rx": 944,
+        "ry": 950
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SilkCoat_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_SilkCoat_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 80,
+        "rx": 955,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SilkCoat_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_SilkCoat_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 41,
+        "rx": 977,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SilkCoat_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_SilkCoat_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 179,
+        "rx": 899,
+        "ry": 910
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SilkCoat": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_SilkCoat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 61,
+        "rx": 966,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SilkVeil_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_SilkVeil_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 100,
+        "rx": 944,
+        "ry": 950
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SilkVeil_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_SilkVeil_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 80,
+        "rx": 955,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SilkVeil_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_SilkVeil_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 41,
+        "rx": 977,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SilkVeil_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_SilkVeil_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 180,
+        "rx": 899,
+        "ry": 910
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SilkVeil": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_SilkVeil.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 61,
+        "rx": 966,
         "ry": 969
       }
     ],
@@ -108703,6 +109528,81 @@
     ],
     "fx": []
   },
+  "icon_currency_Varnish_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_Varnish_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 105,
+        "rx": 944,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_Varnish_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_Varnish_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 85,
+        "rx": 955,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_Varnish_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_Varnish_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 43,
+        "rx": 977,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_Varnish_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_Varnish_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 190,
+        "rx": 899,
+        "ry": 905
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_Varnish": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_Varnish.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 64,
+        "rx": 966,
+        "ry": 968
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_VigorDoubloon_medium": {
     "pid": 1,
     "url": "x768/Icons/CurrencyIcons/icon_currency_VigorDoubloon_medium.png",
@@ -108954,6 +109854,81 @@
         "h": 51,
         "rx": 955,
         "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_WovenSilk_big": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_WovenSilk_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 99,
+        "rx": 944,
+        "ry": 950
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_WovenSilk_medium": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_WovenSilk_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 80,
+        "rx": 955,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_WovenSilk_small": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_WovenSilk_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 41,
+        "rx": 977,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_WovenSilk_xl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_WovenSilk_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 179,
+        "rx": 899,
+        "ry": 910
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_WovenSilk": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_WovenSilk.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 60,
+        "rx": 966,
+        "ry": 970
       }
     ],
     "fx": []
@@ -113454,6 +114429,66 @@
         "h": 83,
         "rx": 958,
         "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_battle_ground_AllianceJade_big": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_alliance_battle_ground_AllianceJade_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 103,
+        "rx": 941,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_battle_ground_AllianceJade_medium": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_alliance_battle_ground_AllianceJade_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 79,
+        "rx": 955,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_battle_ground_AllianceJade_small": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_alliance_battle_ground_AllianceJade_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 59,
+        "rx": 966,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_battle_ground_AllianceJade": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_alliance_battle_ground_AllianceJade.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 103,
+        "rx": 941,
+        "ry": 948
       }
     ],
     "fx": []
@@ -118918,6 +119953,21 @@
     ],
     "fx": []
   },
+  "icon_event_113_AllianceJade": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_event_113_AllianceJade.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 83,
+        "rx": 953,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
   "icon_event_113": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_event_113.png",
@@ -119199,6 +120249,21 @@
         "h": 58,
         "rx": 971,
         "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_small_113_AllianceJade": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_event_small_113_AllianceJade.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 44,
+        "rx": 975,
+        "ry": 978
       }
     ],
     "fx": []
@@ -135178,6 +136243,36 @@
     ],
     "fx": []
   },
+  "icon_event_xl_113_AllianceJade": {
+    "pid": 2,
+    "url": "x768/Icons/IconsShared/icon_event_xl_113_AllianceJade_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 211,
+        "h": 184,
+        "rx": 894,
+        "ry": 908
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_battle_ground_AllianceJade_xl": {
+    "pid": 2,
+    "url": "x768/Icons/IconsShared/icon_event_xl_113_AllianceJade_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 211,
+        "h": 184,
+        "rx": 894,
+        "ry": 908
+      }
+    ],
+    "fx": []
+  },
   "icon_event_xl_113": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_event_xl_113_Shared.png",
@@ -140503,6 +141598,21 @@
     ],
     "fx": []
   },
+  "icon_message_special_event_113_AllianceJade": {
+    "pid": 2,
+    "url": "x768/Kingdoms/Kingdoms/icon_message_special_event_113_AllianceJade.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 61,
+        "rx": 966,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
   "icon_message_special_event_113": {
     "pid": 1,
     "url": "x768/Kingdoms/Kingdoms/icon_message_special_event_113.png",
@@ -145494,6 +146604,246 @@
         "h": 413,
         "rx": 389,
         "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "background_alliance_battle_ground_citadel": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/background_alliance_battle_ground_citadel.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 2024,
+        "rx": 231,
+        "ry": 0
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_1_big": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_1_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 401,
+        "h": 396,
+        "rx": 799,
+        "ry": 802
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_1_xl": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_1_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 601,
+        "h": 592,
+        "rx": 699,
+        "ry": 704
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_1": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 163,
+        "rx": 918,
+        "ry": 919
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_2_big": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_2_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 401,
+        "h": 446,
+        "rx": 799,
+        "ry": 777
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_2_xl": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_2_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 601,
+        "h": 668,
+        "rx": 699,
+        "ry": 666
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_2": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 183,
+        "rx": 918,
+        "ry": 909
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_3_big": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_3_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 401,
+        "h": 490,
+        "rx": 799,
+        "ry": 755
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_3_xl": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_3_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 601,
+        "h": 734,
+        "rx": 699,
+        "ry": 633
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_3": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 201,
+        "rx": 918,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_4_big": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_4_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 401,
+        "h": 500,
+        "rx": 799,
+        "ry": 750
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_4_xl": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_4_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 601,
+        "h": 752,
+        "rx": 699,
+        "ry": 624
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_4": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 205,
+        "rx": 918,
+        "ry": 898
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_5_big": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_5_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 401,
+        "h": 522,
+        "rx": 799,
+        "ry": 739
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_5_xl": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_5_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 601,
+        "h": 782,
+        "rx": 699,
+        "ry": 609
+      }
+    ],
+    "fx": []
+  },
+  "preview_alliance_battle_ground_citadel_5": {
+    "pid": 2,
+    "url": "x768/Misc/AllianceBattleGroundAssets/preview_alliance_battle_ground_citadel_5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 214,
+        "rx": 918,
+        "ry": 893
       }
     ],
     "fx": []
@@ -175397,8 +176747,23 @@
     "fx": []
   },
   "AutoSpyLayer": {
-    "pid": 1,
-    "url": "x768/WorldmapObjects/Common/SpyLayer/AutoSpyLayer.png",
+    "pid": 0,
+    "url": "x768/WorldmapObjects/WorldmapObjectsShared/AutoSpyLayer.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 30,
+        "rx": 1032,
+        "ry": 1035
+      }
+    ],
+    "fx": []
+  },
+  "NomadKhanAutoSpyLayer": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/WorldmapObjectsShared/AutoSpyLayer.png",
     "frames": [
       {
         "x": 0,

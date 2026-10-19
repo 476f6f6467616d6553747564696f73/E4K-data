@@ -116804,432 +116804,480 @@
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1323,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addPlaster": 10000,
-    "addDragonScaleSplinters": 70000
+    "addDragonScaleSplinters": 70000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23414,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1323,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addPlaster": 9500,
-    "addDragonScaleSplinters": 65000
+    "addDragonScaleSplinters": 65000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23415,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1323,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addPlaster": 9000,
-    "addDragonScaleSplinters": 60000
+    "addDragonScaleSplinters": 60000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23416,
     "comment1": "Rank 4-7",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1324,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addPlaster": 8500,
-    "addDragonScaleSplinters": 55000
+    "addDragonScaleSplinters": 55000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23417,
     "comment1": "Rank 8-15",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1325,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addPlaster": 8000,
-    "addDragonScaleSplinters": 50000
+    "addDragonScaleSplinters": 50000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23418,
     "comment1": "Rank 16-30",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1326,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addPlaster": 7500,
-    "addDragonScaleSplinters": 45000
+    "addDragonScaleSplinters": 45000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23419,
     "comment1": "Rank 31-75",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1327,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 7000,
-    "addDragonScaleSplinters": 42500
+    "addDragonScaleSplinters": 42500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23420,
     "comment1": "Rank 76-150",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1328,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 6500,
-    "addDragonScaleSplinters": 40000
+    "addDragonScaleSplinters": 40000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23421,
     "comment1": "Rank 151-225",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1329,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 6000,
-    "addDragonScaleSplinters": 37500
+    "addDragonScaleSplinters": 37500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23422,
     "comment1": "Rank 226-450",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1330,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 5500,
-    "addDragonScaleSplinters": 35000
+    "addDragonScaleSplinters": 35000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23423,
     "comment1": "Rank 451-900",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1331,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 5000,
-    "addDragonScaleSplinters": 32500
+    "addDragonScaleSplinters": 32500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23424,
     "comment1": "Rank 901-1500",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 1020",
     "equipmentIDs": 1332,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 4500,
-    "addDragonScaleSplinters": 30000
+    "addDragonScaleSplinters": 30000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23425,
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1323,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addLegendaryToken": 5000,
-    "addLegendaryMaterial": 10000
+    "addLegendaryMaterial": 10000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23426,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1323,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addLegendaryToken": 3750,
-    "addLegendaryMaterial": 7500
+    "addLegendaryMaterial": 7500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23427,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1323,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addLegendaryToken": 2813,
-    "addLegendaryMaterial": 5626
+    "addLegendaryMaterial": 5626,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23428,
     "comment1": "Rank 4-5",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1324,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addLegendaryToken": 2250,
-    "addLegendaryMaterial": 4500
+    "addLegendaryMaterial": 4500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23429,
     "comment1": "Rank 6-10",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1325,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addLegendaryToken": 1800,
-    "addLegendaryMaterial": 3600
+    "addLegendaryMaterial": 3600,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23430,
     "comment1": "Rank 11-20",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1326,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addLegendaryToken": 1530,
-    "addLegendaryMaterial": 3060
+    "addLegendaryMaterial": 3060,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23431,
     "comment1": "Rank 21-40",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1327,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1301,
-    "addLegendaryMaterial": 2602
+    "addLegendaryMaterial": 2602,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23432,
     "comment1": "Rank 41-70",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1328,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1106,
-    "addLegendaryMaterial": 2212
+    "addLegendaryMaterial": 2212,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23433,
     "comment1": "Rank 71-120",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1329,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 940,
-    "addLegendaryMaterial": 1880
+    "addLegendaryMaterial": 1880,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23434,
     "comment1": "Rank 121-200",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1330,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 846,
-    "addLegendaryMaterial": 1692
+    "addLegendaryMaterial": 1692,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23435,
     "comment1": "Rank 201-300",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1331,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 761,
-    "addLegendaryMaterial": 1522
+    "addLegendaryMaterial": 1522,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23436,
     "comment1": "Rank 301-500",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 720-1019",
     "equipmentIDs": 1332,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 741,
-    "addLegendaryMaterial": 1482
+    "addLegendaryMaterial": 1482,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23437,
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1323,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addLegendaryToken": 5000,
-    "addLegendaryMaterial": 10000
+    "addLegendaryMaterial": 10000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23438,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1323,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addLegendaryToken": 3750,
-    "addLegendaryMaterial": 7500
+    "addLegendaryMaterial": 7500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23439,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1323,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addLegendaryToken": 2813,
-    "addLegendaryMaterial": 5626
+    "addLegendaryMaterial": 5626,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23440,
     "comment1": "Rank 4-5",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1324,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addLegendaryToken": 2250,
-    "addLegendaryMaterial": 4500
+    "addLegendaryMaterial": 4500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23441,
     "comment1": "Rank 6-10",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1325,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addLegendaryToken": 1800,
-    "addLegendaryMaterial": 3600
+    "addLegendaryMaterial": 3600,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23442,
     "comment1": "Rank 11-20",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1326,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addLegendaryToken": 1530,
-    "addLegendaryMaterial": 3060
+    "addLegendaryMaterial": 3060,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23443,
     "comment1": "Rank 51",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1327,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1301,
-    "addLegendaryMaterial": 2602
+    "addLegendaryMaterial": 2602,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23444,
     "comment1": "Rank 51-100",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1328,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1106,
-    "addLegendaryMaterial": 2212
+    "addLegendaryMaterial": 2212,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23445,
     "comment1": "Rank 101-150",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1329,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 940,
-    "addLegendaryMaterial": 1880
+    "addLegendaryMaterial": 1880,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23446,
     "comment1": "Rank 151-300",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1330,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 846,
-    "addLegendaryMaterial": 1692
+    "addLegendaryMaterial": 1692,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23447,
     "comment1": "Rank 301-600",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1331,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 761,
-    "addLegendaryMaterial": 1522
+    "addLegendaryMaterial": 1522,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23448,
     "comment1": "Rank 601-1000",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 270-719",
     "equipmentIDs": 1332,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 741,
-    "addLegendaryMaterial": 1482
+    "addLegendaryMaterial": 1482,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23449,
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1323,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addLegendaryToken": 5000,
-    "addLegendaryMaterial": 10000
+    "addLegendaryMaterial": 10000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23450,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1323,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addLegendaryToken": 3750,
-    "addLegendaryMaterial": 7500
+    "addLegendaryMaterial": 7500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23451,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1323,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addLegendaryToken": 2813,
-    "addLegendaryMaterial": 5626
+    "addLegendaryMaterial": 5626,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23452,
     "comment1": "Rank 4-5",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1324,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addLegendaryToken": 2250,
-    "addLegendaryMaterial": 4500
+    "addLegendaryMaterial": 4500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23453,
     "comment1": "Rank 6-10",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1325,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addLegendaryToken": 1800,
-    "addLegendaryMaterial": 3600
+    "addLegendaryMaterial": 3600,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23454,
     "comment1": "Rank 11-20",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1326,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addLegendaryToken": 1530,
-    "addLegendaryMaterial": 3060
+    "addLegendaryMaterial": 3060,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23455,
     "comment1": "Rank 51",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1327,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1301,
-    "addLegendaryMaterial": 2602
+    "addLegendaryMaterial": 2602,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23456,
     "comment1": "Rank 51-100",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1328,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1106,
-    "addLegendaryMaterial": 2212
+    "addLegendaryMaterial": 2212,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23457,
     "comment1": "Rank 101-150",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1329,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 940,
-    "addLegendaryMaterial": 1880
+    "addLegendaryMaterial": 1880,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23458,
     "comment1": "Rank 151-300",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1330,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 846,
-    "addLegendaryMaterial": 1692
+    "addLegendaryMaterial": 1692,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23459,
     "comment1": "Rank 301-600",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1331,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 761,
-    "addLegendaryMaterial": 1522
+    "addLegendaryMaterial": 1522,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23460,
     "comment1": "Rank 601-1000",
     "comment2": "Leaderboard Reward LTPE October 2026 Lvl 70-269",
     "equipmentIDs": 1332,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 741,
-    "addLegendaryMaterial": 1482
+    "addLegendaryMaterial": 1482,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23461,
@@ -117515,7 +117563,8 @@
     "rewardID": 23506,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE October 2026 Lvl 1020",
-    "addHalloweenLTPEToken": 225
+    "addHalloweenLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 23507,
@@ -118015,7 +118064,8 @@
     "rewardID": 23586,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE October 2026 Lvl 720-1019",
-    "addHalloweenLTPEToken": 225
+    "addHalloweenLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 23587,
@@ -118520,7 +118570,8 @@
     "rewardID": 23666,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE October 2026 Lvl 270-719",
-    "addHalloweenLTPEToken": 225
+    "addHalloweenLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 23667,
@@ -119025,7 +119076,8 @@
     "rewardID": 23746,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE October 2026 Lvl 70-269",
-    "addHalloweenLTPEToken": 225
+    "addHalloweenLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 23747,
@@ -142257,6 +142309,897 @@
     "comment2": "Berimond Kingdom",
     "addPlaster": 1500,
     "addImperialDucat": 75,
+    "ignoreCurrencySoftCap": 1
+  },
+  {
+    "rewardID": 10700,
+    "comment1": "Berimond 15-69 Reward 1 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "addLegendaryToken": 20
+  },
+  {
+    "rewardID": 10701,
+    "comment1": "Berimond 15-69 Reward 2 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "addLegendaryMaterial": 40
+  },
+  {
+    "rewardID": 10702,
+    "comment1": "Berimond 15-69 Reward 3 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "addLegendaryToken": 20
+  },
+  {
+    "rewardID": 10703,
+    "comment1": "Berimond 15-69 Reward 4 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "addLegendaryMaterial": 40
+  },
+  {
+    "rewardID": 10704,
+    "comment1": "Berimond 15-69 Reward 5 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "addLegendaryToken": 20
+  },
+  {
+    "rewardID": 10705,
+    "comment1": "Berimond 15-69 Reward 6 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10706,
+    "comment1": "Berimond 15-69 Reward 7 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10707,
+    "comment1": "Berimond 15-69 Reward 8 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10708,
+    "comment1": "Berimond 15-69 Reward 9 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10709,
+    "comment1": "Berimond 15-69 Reward 10 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "add5MinSkip": 12
+  },
+  {
+    "rewardID": 10710,
+    "comment1": "Berimond 15-69 Reward 11 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "addLegendaryMaterial": 40
+  },
+  {
+    "rewardID": 10711,
+    "comment1": "Berimond 15-69 Reward 12 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "addLegendaryToken": 20
+  },
+  {
+    "rewardID": 10712,
+    "comment1": "Berimond 15-69 Reward 13 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "addLegendaryMaterial": 40
+  },
+  {
+    "rewardID": 10713,
+    "comment1": "Berimond 15-69 Reward 14 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "addLegendaryToken": 20
+  },
+  {
+    "rewardID": 10714,
+    "comment1": "Berimond 15-69 Reward 15 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "addLegendaryMaterial": 40
+  },
+  {
+    "rewardID": 10715,
+    "comment1": "Berimond 15-69 Reward 16 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10716,
+    "comment1": "Berimond 15-69 Reward 17 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10717,
+    "comment1": "Berimond 15-69 Reward 18 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10718,
+    "comment1": "Berimond 15-69 Reward 19 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10719,
+    "comment1": "Berimond 15-69 Reward 20 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "add60MinSkip": 12
+  },
+  {
+    "rewardID": 10720,
+    "comment1": "Berimond 15-69 Reward 21 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10721,
+    "comment1": "Berimond 15-69 Reward 22 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10722,
+    "comment1": "Berimond 15-69 Reward 23 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10723,
+    "comment1": "Berimond 15-69 Reward 24 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10724,
+    "comment1": "Berimond 15-69 Reward 25 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10725,
+    "comment1": "Berimond 15-69 Reward 26 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10726,
+    "comment1": "Berimond 15-69 Reward 27 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10727,
+    "comment1": "Berimond 15-69 Reward 28 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10728,
+    "comment1": "Berimond 15-69 Reward 29 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10729,
+    "comment1": "Berimond 15-69 Reward 30 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "add5HourSkip": 3
+  },
+  {
+    "rewardID": 10730,
+    "comment1": "Berimond 15-69 Reward 31 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10731,
+    "comment1": "Berimond 15-69 Reward 32 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10732,
+    "comment1": "Berimond 15-69 Reward 33 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10733,
+    "comment1": "Berimond 15-69 Reward 34 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10734,
+    "comment1": "Berimond 15-69 Reward 35 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10735,
+    "comment1": "Berimond 15-69 Reward 36 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10736,
+    "comment1": "Berimond 15-69 Reward 37 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10737,
+    "comment1": "Berimond 15-69 Reward 38 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10738,
+    "comment1": "Berimond 15-69 Reward 39 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10739,
+    "comment1": "Berimond 15-69 Reward 40 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "add24HourSkip": 1
+  },
+  {
+    "rewardID": 10740,
+    "comment1": "Berimond 15-69 Reward 41 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10741,
+    "comment1": "Berimond 15-69 Reward 42 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10742,
+    "comment1": "Berimond 15-69 Reward 43 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10743,
+    "comment1": "Berimond 15-69 Reward 44 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10744,
+    "comment1": "Berimond 15-69 Reward 45 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10745,
+    "comment1": "Berimond 15-69 Reward 46 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10746,
+    "comment1": "Berimond 15-69 Reward 47 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10747,
+    "comment1": "Berimond 15-69 Reward 48 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10748,
+    "comment1": "Berimond 15-69 Reward 49 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10749,
+    "comment1": "Berimond 15-69 Reward 50 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10750,
+    "comment1": "Berimond 15-69 Reward 51 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10751,
+    "comment1": "Berimond 15-69 Reward 52 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10752,
+    "comment1": "Berimond 15-69 Reward 53 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10753,
+    "comment1": "Berimond 15-69 Reward 54 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10754,
+    "comment1": "Berimond 15-69 Reward 55 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 720
+  },
+  {
+    "rewardID": 10755,
+    "comment1": "Berimond 15-69 Reward 56 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 720
+  },
+  {
+    "rewardID": 10756,
+    "comment1": "Berimond 15-69 Reward 57 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1080
+  },
+  {
+    "rewardID": 10757,
+    "comment1": "Berimond 15-69 Reward 58 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1080
+  },
+  {
+    "rewardID": 10758,
+    "comment1": "Berimond 15-69 Reward 59 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1080
+  },
+  {
+    "rewardID": 10759,
+    "comment1": "Berimond 15-69 Reward 60 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1440
+  },
+  {
+    "rewardID": 10760,
+    "comment1": "Berimond 15-69 Reward 61 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1800
+  },
+  {
+    "rewardID": 10761,
+    "comment1": "Berimond 15-69 Reward 62 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1800
+  },
+  {
+    "rewardID": 10770,
+    "comment1": "Berimond 15-69 Reward 63 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 3600
+  },
+  {
+    "rewardID": 10771,
+    "comment1": "Top X1 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addLuckyWheelTicket": 900
+  },
+  {
+    "rewardID": 10772,
+    "comment1": "Top X2 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "decoWodID": 4510,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 10773,
+    "comment1": "Top 1 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "decoWodID": 4510,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 10863,
+    "comment1": "Berimond 70+ Reward 1 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10864,
+    "comment1": "Berimond 70+ Reward 2 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10865,
+    "comment1": "Berimond 70+ Reward 3 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10866,
+    "comment1": "Berimond 70+ Reward 4 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10867,
+    "comment1": "Berimond 70+ Reward 5 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10868,
+    "comment1": "Berimond 70+ Reward 6 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10869,
+    "comment1": "Berimond 70+ Reward 7 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10870,
+    "comment1": "Berimond 70+ Reward 8 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10871,
+    "comment1": "Berimond 70+ Reward 9 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10872,
+    "comment1": "Berimond 70+ Reward 10 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "add5MinSkip": 12
+  },
+  {
+    "rewardID": 10873,
+    "comment1": "Berimond 70+ Reward 11 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10874,
+    "comment1": "Berimond 70+ Reward 12 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10875,
+    "comment1": "Berimond 70+ Reward 13 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10876,
+    "comment1": "Berimond 70+ Reward 14 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90,
+    "relicEquipments": "13102@70,100"
+  },
+  {
+    "rewardID": 10877,
+    "comment1": "Berimond 70+ Reward 15 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10878,
+    "comment1": "Berimond 70+ Reward 16 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10879,
+    "comment1": "Berimond 70+ Reward 17 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 90
+  },
+  {
+    "rewardID": 10880,
+    "comment1": "Berimond 70+ Reward 18 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10881,
+    "comment1": "Berimond 70+ Reward 19 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "decoWodID": 4510,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 10882,
+    "comment1": "Berimond 70+ Reward 20 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "add60MinSkip": 12
+  },
+  {
+    "rewardID": 10883,
+    "comment1": "Berimond 70+ Reward 21 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10884,
+    "comment1": "Berimond 70+ Reward 22 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10885,
+    "comment1": "Berimond 70+ Reward 23 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10886,
+    "comment1": "Berimond 70+ Reward 24 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addPlaster": 30,
+    "relicEquipments": "10002@70,100"
+  },
+  {
+    "rewardID": 10887,
+    "comment1": "Berimond 70+ Reward 25 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10888,
+    "comment1": "Berimond 70+ Reward 26 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10889,
+    "comment1": "Berimond 70+ Reward 27 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10890,
+    "comment1": "Berimond 70+ Reward 28 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10891,
+    "comment1": "Berimond 70+ Reward 29 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "addPlaster": 110
+  },
+  {
+    "rewardID": 10892,
+    "comment1": "Berimond 70+ Reward 30 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "add5HourSkip": 3
+  },
+  {
+    "rewardID": 10893,
+    "comment1": "Berimond 70+ Reward 31 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "relicEquipments": "10102@70,100"
+  },
+  {
+    "rewardID": 10894,
+    "comment1": "Berimond 70+ Reward 32 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10895,
+    "comment1": "Berimond 70+ Reward 33 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10896,
+    "comment1": "Berimond 70+ Reward 34 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "decoWodID": 4510,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 10897,
+    "comment1": "Berimond 70+ Reward 35 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10898,
+    "comment1": "Berimond 70+ Reward 36 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10899,
+    "comment1": "Berimond 70+ Reward 37 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10900,
+    "comment1": "Berimond 70+ Reward 38 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10901,
+    "comment1": "Berimond 70+ Reward 39 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "relicEquipments": "13102@70,100"
+  },
+  {
+    "rewardID": 10902,
+    "comment1": "Berimond 70+ Reward 40 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "add24HourSkip": 1
+  },
+  {
+    "rewardID": 10903,
+    "comment1": "Berimond 70+ Reward 41 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "addPlaster": 165
+  },
+  {
+    "rewardID": 10904,
+    "comment1": "Berimond 70+ Reward 42 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10905,
+    "comment1": "Berimond 70+ Reward 43 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10906,
+    "comment1": "Berimond 70+ Reward 44 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10800,
+    "comment1": "Berimond 70+ Reward 45 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10808,
+    "comment1": "Berimond 70+ Reward 46 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180,
+    "relicEquipments": "10202@70,100"
+  },
+  {
+    "rewardID": 10809,
+    "comment1": "Berimond 70+ Reward 47 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 180
+  },
+  {
+    "rewardID": 10810,
+    "comment1": "Berimond 70+ Reward 48 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10811,
+    "comment1": "Berimond 70+ Reward 49 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10812,
+    "comment1": "Berimond 70+ Reward 50 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10813,
+    "comment1": "Berimond 70+ Reward 51 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360,
+    "relicEquipments": "10302@70,100"
+  },
+  {
+    "rewardID": 10814,
+    "comment1": "Berimond 70+ Reward 52 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10815,
+    "comment1": "Berimond 70+ Reward 53 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10816,
+    "comment1": "Berimond 70+ Reward 54 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 360
+  },
+  {
+    "rewardID": 10817,
+    "comment1": "Berimond 70+ Reward 55 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 720
+  },
+  {
+    "rewardID": 10818,
+    "comment1": "Berimond 70+ Reward 56 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addImperialDucat": 20,
+    "ignoreCurrencySoftCap": 1,
+    "decoWodID": 4510,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 10819,
+    "comment1": "Berimond 70+ Reward 57 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1080
+  },
+  {
+    "rewardID": 10820,
+    "comment1": "Berimond 70+ Reward 58 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1080
+  },
+  {
+    "rewardID": 10821,
+    "comment1": "Berimond 70+ Reward 59 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1080
+  },
+  {
+    "rewardID": 10822,
+    "comment1": "Berimond 70+ Reward 60 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1440,
+    "relicEquipments": "16102@80,100"
+  },
+  {
+    "rewardID": 10823,
+    "comment1": "Berimond 70+ Reward 61 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1500
+  },
+  {
+    "rewardID": 10824,
+    "comment1": "Berimond 70+ Reward 62 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1500
+  },
+  {
+    "rewardID": 10825,
+    "comment1": "Berimond 70+ Reward 63 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1500
+  },
+  {
+    "rewardID": 10826,
+    "comment1": "Berimond 70+ Reward 64 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1500
+  },
+  {
+    "rewardID": 10827,
+    "comment1": "Berimond 70+ Reward 65 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1500
+  },
+  {
+    "rewardID": 10828,
+    "comment1": "Berimond 70+ Reward 66 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1500
+  },
+  {
+    "rewardID": 10829,
+    "comment1": "Berimond 70+ Reward 67 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 2500,
+    "addPlaster": 200
+  },
+  {
+    "rewardID": 10830,
+    "comment1": "Berimond 70+ Reward 68 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1800
+  },
+  {
+    "rewardID": 10831,
+    "comment1": "Berimond 70+ Reward 69 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1800
+  },
+  {
+    "rewardID": 10832,
+    "comment1": "Berimond 70+ Reward 70 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1800
+  },
+  {
+    "rewardID": 10833,
+    "comment1": "Berimond 70+ Reward 71 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 1800,
+    "addPlaster": 400
+  },
+  {
+    "rewardID": 10834,
+    "comment1": "Berimond 70+ Reward 72 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addSilverToken": 4000,
+    "addImperialDucat": 25
+  },
+  {
+    "rewardID": 10835,
+    "comment1": "Top X1 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addPlaster": 110,
+    "addImperialDucat": 30,
+    "ignoreCurrencySoftCap": 1
+  },
+  {
+    "rewardID": 10836,
+    "comment1": "Top X2 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addPlaster": 220,
+    "addImperialDucat": 55,
+    "ignoreCurrencySoftCap": 1
+  },
+  {
+    "rewardID": 10837,
+    "comment1": "Top 1 (2026 Update)",
+    "comment2": "Berimond Kingdom",
+    "addPlaster": 1650,
+    "addImperialDucat": 80,
     "ignoreCurrencySoftCap": 1
   },
   {

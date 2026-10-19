@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Yükseltilmiş Kırmızı Halloween Mezarlığı",
     "deco_ExaltedRedHalloweenMausoleum_name": "Yükseltilmiş Kırmızı Halloween Mozolesi",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Yükseltilmiş Kırmızı Cadılar Bayramı Korkuluk Tapınağı",
-    "deco_deathsfountain_name": "Ölüm Çeşmesi"
+    "deco_deathsfountain_name": "Ölüm Çeşmesi",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Yükseltilmiş yeşil Halloween Mauzoleyum"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Berimond Akademisinden bir jeton, Aslanlar ve Ayılar için savaşanlar için mühürlenmiş. Berimond Danışmanını etkinleştirmek ve düşman gözetleme kulelerine ardışık saldırılar gerçekleştirmek için kullanın. Bu danışman ekstra Savaş azmi verir. Daha fazla Savaş azmi, daha güçlü Askerler ve daha fazla hasar anlamına gelir.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Kale seviye {0} gerekli",
     "dialog_chestOffer_desc_halloween": "Halloween Sandığı ile korkunç ödülleri açın!",
     "dialog_chestOffer_title_halloween": "Cadılar Bayramı Sandığı",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Çöl üzerindeki İttifaklar Kale seviye {0}e yaklaşıyor! Yeterli sayıda ulaştığında, Faz 2 başlar: İttifak Kaleleri saldırıya açık hale gelir ve Askerleriniz harita üzerinde her yerde saldırabilir. Toplama kendi bölgenizle sınırlı kalır. Kalenizi güçlendirin ve Askerlerinizi hazırlayın!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Yeterli ittifak kale seviyesi {0}a ulaştı! Faz 2 başlamadan önce sadece kısa bir hazırlık süresi kaldı: İttifak kaleleri saldırıya açık hale gelir ve ordularınız harita üzerinde her yerde saldırabilir. Toplama kendi bölgenizle sınırlı kalır. Kalenizi güçlendirin ve askerlerinizi hazırlayın!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Yeterli sayıda ittifak, kale seviyesi {0}a ulaştı. Faz 2 başladı! İttifak kaleleri artık saldırılabilir ve ordularınız harita üzerinde her yerde saldırabilir. Toplama kendi bölgenizle sınırlı kalır. Antik heykelleri koruyun ve rakiplerinize doğru ilerleyin!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "Ekonomik yarış sona erdi! İttifak Kaleseri artık saldırılabilir ve ordularınız haritanın herhangi bir yerinde saldırabilir. Kaynak toplama kendi bölgenizle sınırlı kalır. Eski yeşim heykellerinizi koruyun ve rakiplerinize doğru yürüyün!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Yeşim Çölü: Faz 2 Başladı!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "Yeni bir sunucu seni bekliyor",
-    "push_1039_content": "Hemen katıl ve yeni başlangıcını talep et"
+    "push_1039_content": "Hemen katıl ve yeni başlangıcını talep et",
+    "push_1052_content": "Faz 2 geliyor. Kalenizi ve Askerlerinizi hazırlayın!",
+    "push_1052_title": "Jade Çölü: Savaş yaklaşıyor!",
+    "push_1053_content": "Haritada her yerde saldırın ve rakiplerinize doğru yürüyün!",
+    "push_1053_title": "Yeşim Çölü: Faz 2 başladı!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Vergiler toplanmaya hazır - Madeni paraları şimdi topla!",

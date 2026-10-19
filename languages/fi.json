@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Ylevöity punainen Halloween-hautausmaa",
     "deco_ExaltedRedHalloweenMausoleum_name": "Ylevä punainen Halloween-mausoleum",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Ylevä punainen Halloween-pelletynnä-pyhäkkö",
-    "deco_deathsfountain_name": "Kuoleman suihkulähde"
+    "deco_deathsfountain_name": "Kuoleman suihkulähde",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Ylevä vihreä Halloween-mausoleum"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Berimondin akatemian merkki, sinetöity niille, jotka taistelevat Leijonien ja Karhujen puolesta. Käytä sitä Berimondin neuvonantajan aktivoimiseen ja peräkkäisten hyökkäysten suorittamiseen vihollisen vartiointorneille. Tämä neuvonantaja antaa lisää Moraalia. Enemmän Moraalia tarkoittaa vahvempia Joukkoja ja enemmän vahinkoa.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Vaatii Linnoitus taso {0}",
     "dialog_chestOffer_desc_halloween": "Avaa kammottavia palkintoja Halloween-arkulla!",
     "dialog_chestOffer_title_halloween": "Halloween-arkku",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Liittumat yli aavikon lähestyvät Linnoitusta tasolla {0}! Kun tarpeeksi niistä saavuttaa sen, alkaa Vaihe 2: Liittuman Linnoitukset tulevat hyökkäystä vastaan alttiiksi ja joukosi voivat hyökätä missä tahansa kartalla. Kerääminen pysyy rajoitettuna omalle alueellesi. Vahvista Linnoitustasi ja valmistele Joukkoasi!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Tarpeeksi liittoumiaan on saavuttanut linnoituksen tason {0}! Vain lyhyt aika valmistautumista jää jäljelle ennen kuin Vaihe 2 alkaa: Liittoumin linnoitukset tulevat hyökkäystä vastaan ja armeijasi voivat hyökätä missä tahansa kartalla. Kerääminen pysyy rajoitettuna omalle alueellesi. Vahvista linnoitustasi ja valmistele joukkoasi!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Tarpeeksi liittoumia on saavuttanut linnoituksen tason {0}. Vaihe 2 on alkanut! Liittouman linnoituksia voidaan nyt hyökätä ja armeijasi voivat iskeä missä tahansa kartalla. Kerääminen pysyy rajoitettuna omalle alueellesi. Suojaa muinaiset patsaasi ja marssi kohti kilpailijoitasi!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "Taloudellinen kilpailu on ohi! Liittouman linnoituksia voidaan nyt hyökätä ja armeijasi voivat iskeä missä tahansa kartalla. Resurssien kerääminen pysyy rajoitettuna omalle alueellesi. Suojaa muinaiset jadeveistoksesi ja marssii kohti kilpailijoitasi!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Jaden aavikko: Vaihe 2 alkoi!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "Uusi palvelin odottaa",
-    "push_1039_content": "Liity nyt ja lunasta uusi alku"
+    "push_1039_content": "Liity nyt ja lunasta uusi alku",
+    "push_1052_content": "Vaihe 2 tulee. Valmistele Linnoituksesi ja Joukot!",
+    "push_1052_title": "Jade-aavikko: Sota lähestyy!",
+    "push_1053_content": "Hyökkää missä tahansa kartalla ja marssi kohti kilpailijoitasi!",
+    "push_1053_title": "Jade-aavikko: Vaihe 2 alkoi!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Verosi ovat valmiina kerättäväksi – kerää kolikkosi nyt!",

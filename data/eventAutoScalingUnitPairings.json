@@ -20142,5 +20142,69 @@
     "maxDifficultyID": 311,
     "playerWodID": 493,
     "mappingWodID": 959
+  },
+  {
+    "unitPairID": 2519,
+    "eventID": 71,
+    "minDifficultyID": 1,
+    "maxDifficultyID": 11,
+    "playerWodID": 508,
+    "mappingWodID": 235
+  },
+  {
+    "unitPairID": 2520,
+    "eventID": 72,
+    "minDifficultyID": 301,
+    "maxDifficultyID": 311,
+    "playerWodID": 508,
+    "mappingWodID": 919
+  },
+  {
+    "unitPairID": 2521,
+    "eventID": 80,
+    "minDifficultyID": 201,
+    "maxDifficultyID": 211,
+    "playerWodID": 508,
+    "mappingWodID": 839
+  },
+  {
+    "unitPairID": 2522,
+    "eventID": 103,
+    "minDifficultyID": 101,
+    "maxDifficultyID": 111,
+    "playerWodID": 508,
+    "mappingWodID": 235
+  },
+  {
+    "unitPairID": 2523,
+    "eventID": 71,
+    "minDifficultyID": 1,
+    "maxDifficultyID": 11,
+    "playerWodID": 507,
+    "mappingWodID": 235
+  },
+  {
+    "unitPairID": 2524,
+    "eventID": 72,
+    "minDifficultyID": 301,
+    "maxDifficultyID": 311,
+    "playerWodID": 507,
+    "mappingWodID": 919
+  },
+  {
+    "unitPairID": 2525,
+    "eventID": 80,
+    "minDifficultyID": 201,
+    "maxDifficultyID": 211,
+    "playerWodID": 507,
+    "mappingWodID": 839
+  },
+  {
+    "unitPairID": 2526,
+    "eventID": 103,
+    "minDifficultyID": 101,
+    "maxDifficultyID": 111,
+    "playerWodID": 507,
+    "mappingWodID": 235
   }
 ]

@@ -647,6 +647,7 @@ export interface BuildingPosition {
 export interface Building {
     "Beefboost"?: number;
     "Beefproduction"?: number;
+    "Beefreduction"?: number;
     "Coalboost"?: number;
     "Coalproduction"?: number;
     "Foodboost"?: number;
@@ -3434,7 +3435,9 @@ export interface SpecialCamp {
     "dungeonPTools"?: number;
     "dungeonlevel": number;
     "laneID"?: number;
+    "lootBeef"?: number;
     "lootFood": number;
+    "lootMead"?: number;
     "lootStone": number;
     "lootValueModifier"?: number;
     "lootWood": number;

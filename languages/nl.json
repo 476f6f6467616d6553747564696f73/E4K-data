@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Verheven rood Halloween-kerkhof",
     "deco_ExaltedRedHalloweenMausoleum_name": "Verheven rood Halloween mausoleum",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Verheven rood Halloween-vogelvershrikkingssanctum",
-    "deco_deathsfountain_name": "Doodsfontein"
+    "deco_deathsfountain_name": "Doodsfontein",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Verheven groen Halloween-mausoleum"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Een token van de Berimond-academie, verzegeld voor degenen die voor Leeuwen en Beren strijden. Gebruik het om de Berimond-adviseur te activeren en voer opeenvolgende aanvallen uit op vijandelijke wachttorens. Deze adviseur verleent extra Moreel. Meer Moreel betekent sterkere Troepen en meer schade.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Vereist Citadel level {0}",
     "dialog_chestOffer_desc_halloween": "Ontgrendel griezelige beloningen met de Halloween-kist!",
     "dialog_chestOffer_title_halloween": "Halloween Kist",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Bondgenootschappen over de woestijn naderen Citadel niveau {0}! Zodra genoeg van hen het bereiken, begint Fase 2: Bondgenootschap Citadellen worden aanvallend en je Troepen kunnen overal op de kaart toeslaan. Verzamelen blijft beperkt tot je eigen grondgebied. Versterk je Citadel en bereid je Troepen voor!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Genoeg bondgenootschappen hebben citadelsniveau {0} bereikt! Er blijft slechts korte tijd voor voorbereiding over voordat Fase 2 begint: Bondgenootschapscitadels worden aanvallend en je legers kunnen overal op de kaart toeslaan. Verzamelen blijft beperkt tot je eigen grondgebied. Versterk je citadel en bereid je troepen voor!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Genoeg bondgenootschappen hebben citadelsniveau {0} bereikt. Fase 2 is begonnen! Bondgenootschapscitadels kunnen nu worden aangevallen en je legers kunnen overal op de kaart toeslaan. Verzamelen blijft beperkt tot je eigen grondgebied. Bescherm je oude beeldjes en marcheer naar je rivalen!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "De economische race is voorbij! Bondgenootschapscitadelels kunnen nu worden aangevallen en je legers kunnen overal op de kaart toeslaan. Hulpbronnen verzamelen blijft beperkt tot je eigen grondgebied. Bescherm je oude jadebeeldjes en marcheer naar je rivalen!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Jadewoestijn: Fase 2 is begonnen!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "Een nieuwe server wacht",
-    "push_1039_content": "Word nu lid en claim je nieuwe begin"
+    "push_1039_content": "Word nu lid en claim je nieuwe begin",
+    "push_1052_content": "Fase 2 komt eraan. Bereid je Citadel en Troepen voor!",
+    "push_1052_title": "Jade Woestijn: Oorlog nadert!",
+    "push_1053_content": "Val overal op de kaart aan en marcheer naar je rivalen!",
+    "push_1053_title": "Jade Woestijn: Fase 2 begonnen!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "De belasting kan opgehaald worden - haal snel je munten op!",

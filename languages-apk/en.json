@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Exalted Red Halloween Cemetery",
     "deco_ExaltedRedHalloweenMausoleum_name": "Exalted Red Halloween Mausoleum",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Exalted Red Halloween Scarecrow Shrine",
-    "deco_deathsfountain_name": "Deaths fountain"
+    "deco_deathsfountain_name": "Deaths fountain",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Exalted Green Halloween Mausoleum"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "A token from the Berimond Academy, sealed for those who fight for both Lions and Bears. Use it to activate the Berimond Advisor and chain consecutive attacks on enemy watchtowers. This advisor grants extra morale. More morale means stronger troops and more damage.",
@@ -13996,7 +13997,7 @@
     "ringmenu_upgradeCitadel": "Requires Citadel level {0}",
     "dialog_chestOffer_desc_halloween": "Unlock ghoulish rewards with the Halloween Chest!",
     "dialog_chestOffer_title_halloween": "Halloween Chest",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Alliances across the desert are closing in on citadel level {0}! Once enough of them reach it, Phase 2 begins: Alliance Citadels become attackable and your armies can strike anywhere on the map. Gathering stays limited to your own territory. Strengthen your citadel and prepare your troops!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Enough alliances have reached citadel level {0}! Only a short time of preparation remains before Phase 2 begins: Alliance Citadels become attackable and your armies can strike anywhere on the map. Gathering stays limited to your own territory. Strengthen your citadel and prepare your troops!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Enough alliances have reached citadel level {0}. Phase 2 has begun! Alliance Citadels can now be attacked and your armies can strike anywhere on the map. Gathering stays limited to your own territory. Guard your Ancient Statuettes and march towards your rivals!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "The economic race is over! Alliance Citadels can now be attacked and your armies can strike anywhere on the map. Gathering stays limited to your own territory. Guard your Ancient Jade Statuettes and march towards your rivals!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Jade Desert: Phase 2 Has Begun!",
@@ -23429,7 +23430,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "A New Server Awaits",
-    "push_1039_content": "Join now and claim your new beginning"
+    "push_1039_content": "Join now and claim your new beginning",
+    "push_1052_content": "Phase 2 is coming. Prepare your citadel and troops!",
+    "push_1052_title": "Jade Desert: War draws near!",
+    "push_1053_content": "Strike anywhere on the map and march towards your rivals!",
+    "push_1053_title": "Jade Desert: Phase 2 has begun!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Taxes ready for collection - collect your coins now!",

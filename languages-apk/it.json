@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Cimitero Halloween Rosso Esaltato",
     "deco_ExaltedRedHalloweenMausoleum_name": "Mausoleo Halloween Rosso Esaltato",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Santuario di Spaventapasseri Rosso Esaltato di Halloween",
-    "deco_deathsfountain_name": "Fontana della Morte"
+    "deco_deathsfountain_name": "Fontana della Morte",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Mausoleo Halloween verde esaltato"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Un gettone dellAccademia Berimond, sigillato per coloro che combattono per Leoni e Orsi. Usalo per attivare il Consigliere Berimond ed eseguire attacchi consecutivi sulle torri di guardia nemiche. Questo consigliere concede Morale aggiuntivo. Più Morale significa Truppe più forti e più danno.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Richiede Cittadella livello {0}",
     "dialog_chestOffer_desc_halloween": "Sblocca ricompense spaventose con il Forziere di Halloween!",
     "dialog_chestOffer_title_halloween": "Forziere Halloween",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Le Coalizioni attraverso il deserto si stanno avvicinando alla Cittadella livello {0}! Una volta che abbastanza di loro la raggiungono, inizia la Fase 2: Le Cittadelle della Coalizione diventano attaccabili e le tue Truppe possono colpire ovunque sulla mappa. La raccolta rimane limitata al tuo territorio. Rafforza la tua Cittadella e prepara le tue Truppe!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Abbastanza coalizioni hanno raggiunto il livello di cittadella {0}! Rimane solo poco tempo di preparazione prima che inizi la Fase 2: Le cittadelle della coalizione diventano attaccabili e i tuoi eserciti possono colpire ovunque sulla mappa. La raccolta rimane limitata al tuo territorio. Rafforza la tua cittadella e prepara le tue truppe!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Abbastanza coalizioni hanno raggiunto il livello di cittadella {0}. La Fase 2 è iniziata! Le cittadelle della coalizione possono ora essere attaccate e i tuoi eserciti possono colpire ovunque sulla mappa. La raccolta rimane limitata al tuo territorio. Proteggi le tue statuette antiche e marcia verso i tuoi rivali!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "La corsa economica è finita! Le Cittadelle della Coalizione possono ora essere attaccate e i tuoi eserciti possono colpire ovunque sulla mappa. La raccolta di risorse rimane limitata al tuo territorio. Proteggi le tue statuette di giada antiche e marcia verso i tuoi rivali!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Deserto di Giada: Fase 2 è iniziata!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "Un nuovo server ti attende",
-    "push_1039_content": "Unisciti ora e rivendica il tuo nuovo inizio"
+    "push_1039_content": "Unisciti ora e rivendica il tuo nuovo inizio",
+    "push_1052_content": "La Fase 2 arriva. Prepara la tua Cittadella e Truppe!",
+    "push_1052_title": "Deserto di Giada: La guerra si avvicina!",
+    "push_1053_content": "Attacca ovunque sulla mappa e marcia verso i tuoi rivali!",
+    "push_1053_title": "Deserto di Giada: Fase 2 iniziata!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Tasse pronte per la riscossione. Prendi subito le tue monete!",

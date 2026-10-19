@@ -293,7 +293,6 @@
     "areaTypes": 15,
     "eventType": "FactionArmorer",
     "hubType": "Trader",
-    "packageIDs": "385+386+387+388+389+390+391",
     "merchantID": 17,
     "minLevel": 15,
     "maxLevel": 99
@@ -322,7 +321,7 @@
   {
     "eventID": 27,
     "comment2": "Armorer",
-    "kIDs": "0,1,2,3,4,10",
+    "kIDs": "0,1,2,3,4",
     "areaTypes": "1,3,4,12,15,22",
     "eventType": "Armorer",
     "hubType": "Trader",

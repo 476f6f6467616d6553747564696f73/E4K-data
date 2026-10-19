@@ -1654,6 +1654,7 @@ export interface Language {
         "deco_ExaltedGreenGuardianOfRenewal_name": string;
         "deco_ExaltedGreenHalloweenCauldron_name": string;
         "deco_ExaltedGreenHalloweenCemetery_name": string;
+        "deco_ExaltedGreenHalloweenMausoleum_name": string;
         "deco_ExaltedGreenHalloweenScarecrowEffigy_name": string;
         "deco_ExaltedGreenHalloweenScarecrowShrine_name": string;
         "deco_ExaltedGreenHalloweenScarecrowVigil_name": string;
@@ -24097,6 +24098,10 @@ export interface Language {
     "pushnotifications_android": {
         "push_1039_content": string;
         "push_1039_title": string;
+        "push_1052_content": string;
+        "push_1052_title": string;
+        "push_1053_content": string;
+        "push_1053_title": string;
     };
     "pushnotifications_ios": {
         "push_1000_banner": string;

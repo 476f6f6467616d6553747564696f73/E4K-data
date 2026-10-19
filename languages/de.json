@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Erhabener roter Halloween-Friedhof",
     "deco_ExaltedRedHalloweenMausoleum_name": "Erhabenes rotes Halloween-Mausoleum",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Erhabenes rotes Halloween-Vogelscheuchen-Heiligtum",
-    "deco_deathsfountain_name": "Todesbrunnen"
+    "deco_deathsfountain_name": "Todesbrunnen",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Erhabenes grünes Halloween-Mausoleum"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Ein Token der Berimond-Akademie, versiegelt für diejenigen, die für Löwen und Bären kämpfen. Nutze ihn, um den Berimond-Berater zu aktivieren und führe aufeinanderfolgende Angriffe auf feindliche Wachtürme durch. Dieser Berater gewährt zusätzliche Kampfmoral. Mehr Kampfmoral bedeutet stärkere Truppen und mehr Schaden.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Erfordert Zitadelle Level {0}",
     "dialog_chestOffer_desc_halloween": "Schalte gruselige Belohnungen mit der Halloween-Truhe frei!",
     "dialog_chestOffer_title_halloween": "Halloween-Truhe",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Allianzen in der Wüste nähern sich der Zitadellenstufe {0}! Sobald genug von ihnen sie erreichen, beginnt Phase 2: Allianz-Zitadellen werden angreifbar und deine Truppen können überall auf der Karte zuschlagen. Sammeln bleibt auf dein eigenes Gebiet beschränkt. Stärke deine Zitadelle und bereite deine Truppen vor!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Genug Allianzen haben Zitadellenebene {0} erreicht! Es bleibt nur noch kurze Zeit zur Vorbereitung, bevor Phase 2 beginnt: Allianz-Zitadellen werden angreifbar und deine Armeen können überall auf der Karte zuschlagen. Sammeln bleibt auf dein eigenes Territorium beschränkt. Stärke deine Zitadelle und bereite deine Truppen vor!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Genug Allianzen haben Zitadellenebene {0} erreicht. Phase 2 hat begonnen! Allianz-Zitadellen können nun angegriffen werden und deine Armeen können überall auf der Karte zuschlagen. Das Sammeln bleibt auf dein eigenes Territorium beschränkt. Schütze deine antiken Statuetten und marschiere auf deine Rivalen zu!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "Das Wirtschaftsrennen ist vorbei! Allianz-Zitadellen können nun angegriffen werden und deine Armeen können überall auf der Karte zuschlagen. Ressourcensammlung bleibt auf dein eigenes Territorium beschränkt. Schütze deine antiken Jadestatuetten und marschiere auf deine Rivalen zu!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Jadewüste: Phase 2 hat begonnen!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "Ein neuer Server erwartet dich",
-    "push_1039_content": "Jetzt beitreten und deinen Neuanfang beanspruchen"
+    "push_1039_content": "Jetzt beitreten und deinen Neuanfang beanspruchen",
+    "push_1052_content": "Phase 2 kommt. Bereite deine Zitadelle und Truppen vor!",
+    "push_1052_title": "Jade-Wüste: Krieg naht!",
+    "push_1053_content": "Greife überall auf der Karte an und marschiere gegen deine Rivalen!",
+    "push_1053_title": "Jade-Wüste: Phase 2 hat begonnen!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Steuern bereit zum Abholen - Sammelt jetzt Eure Münzen ein!",
