@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "고귀한 빨간 할로윈 묘지",
     "deco_ExaltedRedHalloweenMausoleum_name": "고귀한 빨간 할로윈 영묘",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "숭고한 빨간 할로윈 허수아비 신사",
-    "deco_deathsfountain_name": "죽음의 분수"
+    "deco_deathsfountain_name": "죽음의 분수",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "숭고한 초록색 할로윈 영묘"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "베리몬드 학원의 토큰으로, 사자와 곰을 위해 싸우는 자들을 위해 봉인되어 있습니다. 베리몬드 고문을 활성화하고 적의 감시탑에 연속 공격을 실행하는 데 사용하세요. 이 고문은 추가 사기를 부여합니다. 사기가 높을수록 군대가 강해지고 피해가 증가합니다.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "시타델 레벨 {0} 필요",
     "dialog_chestOffer_desc_halloween": "할로윈 상자로 섬뜩한 보상을 잠금 해제하세요!",
     "dialog_chestOffer_title_halloween": "할로윈 상자",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "사막을 가로질러 동맹들이 시타델 레벨 {0}에 접근하고 있습니다! 충분한 수가 도달하면 페이즈 2가 시작됩니다: 동맹 시타델이 공격 가능해지고 당신의 군대는 지도 어디서나 공격할 수 있습니다. 채집은 자신의 영토로 제한됩니다. 시타델을 강화하고 군대를 준비하세요!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "충분한 동맹이 시타델 레벨 {0}에 도달했습니다! 페이즈 2가 시작되기 전에 준비 시간이 거의 남지 않았습니다: 동맹 시타델이 공격 가능해지고 당신의 군대는 지도 어디서나 공격할 수 있습니다. 채집은 자신의 영토로 제한됩니다. 시타델을 강화하고 군대를 준비하세요!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "충분한 수의 동맹이 시타델 레벨 {0}에 도달했습니다. 페이즈 2가 시작되었습니다! 동맹 시타델을 이제 공격할 수 있으며 당신의 군대는 지도 어디서나 공격할 수 있습니다. 채집은 자신의 영토로 제한됩니다. 고대 소상을 지키고 라이벌을 향해 진군하세요!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "경제 경쟁이 끝났습니다! 동맹 시타델을 이제 공격할 수 있으며 당신의 군대는 지도의 어디서나 공격할 수 있습니다. 자원 수집은 자신의 영토로 제한됩니다. 고대 옥 조각상을 지키고 라이벌을 향해 진군하세요!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "옥 사막: 2단계 시작!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "새로운 서버가 기다립니다",
-    "push_1039_content": "지금 가입하고 새로운 시작을 맞이하세요"
+    "push_1039_content": "지금 가입하고 새로운 시작을 맞이하세요",
+    "push_1052_content": "페이즈 2가 옵니다. 시타델과 군대를 준비하세요!",
+    "push_1052_title": "옥 사막: 전쟁이 다가온다!",
+    "push_1053_content": "지도 어디서나 공격하고 라이벌을 향해 진군하세요!",
+    "push_1053_title": "옥 사막: 2단계 시작!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "세금 수집 준비가 되었습니다. 금화를 수집하십시오!",

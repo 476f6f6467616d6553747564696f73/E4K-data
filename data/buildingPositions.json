@@ -1822,6 +1822,17 @@
     "preBuiltCastleID": 2
   },
   {
+    "buildingPositionID": 1934,
+    "crossplayID": 1934,
+    "areaTypes": 15,
+    "spaceIDs": 10,
+    "buildingWodID": 269,
+    "x": 220,
+    "y": 235,
+    "rotation": 0,
+    "preBuiltCastleID": 2
+  },
+  {
     "buildingPositionID": 186,
     "crossplayID": 186,
     "areaTypes": 15,
@@ -2665,6 +2676,17 @@
     "buildingWodID": 246,
     "x": 206,
     "y": 200,
+    "rotation": 0,
+    "preBuiltCastleID": 3
+  },
+  {
+    "buildingPositionID": 1935,
+    "crossplayID": 1935,
+    "areaTypes": 15,
+    "spaceIDs": 10,
+    "buildingWodID": 269,
+    "x": 220,
+    "y": 235,
     "rotation": 0,
     "preBuiltCastleID": 3
   },

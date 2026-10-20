@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Cemitério Halloween Vermelho Exaltado",
     "deco_ExaltedRedHalloweenMausoleum_name": "Mausoléu Halloween Vermelho Exaltado",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Santuário de Espantalho Vermelho Exaltado de Halloween",
-    "deco_deathsfountain_name": "Fonte da Morte"
+    "deco_deathsfountain_name": "Fonte da Morte",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Mausoléu Halloween verde exaltado"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Um token da Academia Berimond, selado para aqueles que lutam por Leões e Ursos. Use-o para ativar o Conselheiro Berimond e executar ataques consecutivos nas torres de vigia inimigas. Este conselheiro concede Moral adicional. Mais Moral significa Tropas mais fortes e mais dano.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Requer Cidadela nível {0}",
     "dialog_chestOffer_desc_halloween": "Desbloqueie recompensas assustadoras com o Baú de Halloween!",
     "dialog_chestOffer_title_halloween": "Baú de Halloween",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "As Alianças através do deserto estão se aproximando da Cidadela nível {0}! Quando o suficiente delas chegar, a Fase 2 começa: As Cidadelas de Aliança se tornam atacáveis e seus Tropas podem atacar em qualquer lugar do mapa. A coleta permanece limitada ao seu território. Fortaleça sua Cidadela e prepare suas Tropas!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Alianças suficientes atingiram o nível de cidadela {0}! Apenas um curto tempo de preparação permanece antes da Fase 2 começar: Cidadelas de aliança se tornam atacáveis e seus exércitos podem atacar em qualquer lugar do mapa. A coleta permanece limitada ao seu próprio território. Fortaleça sua cidadela e prepare suas tropas!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Alianças suficientes atingiram o nível de cidadela {0}. A Fase 2 começou! As cidadelas da aliança agora podem ser atacadas e seus exércitos podem atacar em qualquer lugar do mapa. A coleta permanece limitada ao seu próprio território. Guarde suas estatuetas antigas e marche em direção aos seus rivais!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "A corrida econômica terminou! As Cidadelas da Aliança agora podem ser atacadas e seus exércitos podem atacar em qualquer lugar do mapa. A coleta de recursos permanece limitada ao seu próprio território. Proteja suas estatuetas de jade antigas e marche em direção aos seus rivais!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Deserto de Jade: Fase 2 começou!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "Um novo servidor aguarda",
-    "push_1039_content": "Junte-se agora e reivindique seu novo começo"
+    "push_1039_content": "Junte-se agora e reivindique seu novo começo",
+    "push_1052_content": "A Fase 2 chega. Prepare sua Cidadela e Tropas!",
+    "push_1052_title": "Deserto de Jade: A guerra se aproxima!",
+    "push_1053_content": "Ataque em qualquer lugar do mapa e marche contra seus rivais!",
+    "push_1053_title": "Deserto de Jade: Fase 2 começou!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Impostos prontos para coletar - colete suas moedas agora!",

@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "崇高紅色萬聖節墓地",
     "deco_ExaltedRedHalloweenMausoleum_name": "崇高紅色萬聖節陵墓",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "崇高的紅色萬聖節稻草人神社",
-    "deco_deathsfountain_name": "死神噴泉"
+    "deco_deathsfountain_name": "死神噴泉",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "崇高的綠色萬聖節陵墓"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "來自貝里蒙德學院的令牌，為同時為獅子和熊而戰的人們而封印。使用它來激活貝里蒙德顧問，對敵方瞭望塔進行連續攻擊。該顧問可增加額外的士氣。更多的士氣意味著更強的部隊和更多的傷害。",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "需要堡壘 等級 {0}",
     "dialog_chestOffer_desc_halloween": "用萬聖節寶箱解鎖恐怖獎勵!",
     "dialog_chestOffer_title_halloween": "萬聖節寶箱",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "沙漠中的同盟正在逼近堡壘等級 {0}!一旦足夠多的同盟到達,第2階段開始:同盟堡壘變得可攻擊,你的部隊可以在地圖上的任何地方進行攻擊。採集仍限於你自己的領地。加強你的堡壘並準備你的部隊!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "足夠的同盟已達到堡壘等級{0}！在第2階段開始前只有短暫的準備時間：同盟堡壘變為可攻擊狀態，你的軍隊可以在地圖上任何地方進攻。採集仍限於你自己的領地。加強你的堡壘並準備你的部隊！",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "足夠的同盟已達到堡壘等級 {0}。第 2 階段已開始！同盟堡壘現在可以被攻擊，你的軍隊可以在地圖上的任何地方進行攻擊。採集仍限於你自己的領土。保護你的古代小雕像，向你的對手進軍！",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "經濟競爭已結束！同盟堡壘現在可以被攻擊，你的軍隊可以在地圖上的任何地方發動攻擊。資源收集仍限於你自己的領土。保護你的古代玉石雕像，向你的對手進軍！",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "翡翠沙漠：第2階段開始！",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "新伺服器等待中",
-    "push_1039_content": "立即加入，開啟你的新篇章"
+    "push_1039_content": "立即加入，開啟你的新篇章",
+    "push_1052_content": "第2階段即將到來。準備好你的堡壘和部隊!",
+    "push_1052_title": "翡翠沙漠：戰爭即將來臨！",
+    "push_1053_content": "在地圖上任何地方發動攻擊，向對手進軍！",
+    "push_1053_title": "翡翠沙漠：第2階段開始！"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "可以開始收稅了 - 馬上去收集您的錢幣！",

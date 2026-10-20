@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Cimetière Halloween Rouge Exalté",
     "deco_ExaltedRedHalloweenMausoleum_name": "Mausolée Halloween Rouge Exalté",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Sanctuaire dÉpouvantail Rouge Exalté dHalloween",
-    "deco_deathsfountain_name": "Fontaine de la Mort"
+    "deco_deathsfountain_name": "Fontaine de la Mort",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Mausolée Halloween vert exalté"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Un jeton de lAcadémie Berimond, scellé pour ceux qui combattent pour les Lions et les Ours. Utilisez-le pour activer le Conseiller Berimond et effectuer des attaques consécutives sur les tours de guet ennemies. Ce conseiller accorde un Moral supplémentaire. Plus de Moral signifie des Troupes plus fortes et plus de dégâts.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Nécessite Citadelle niveau {0}",
     "dialog_chestOffer_desc_halloween": "Débloquez des récompenses horrifiques avec le Coffre Halloween!",
     "dialog_chestOffer_title_halloween": "Coffre Halloween",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Les Alliances à travers le désert se rapprochent de la Citadelle niveau {0}! Une fois que suffisamment dentre elles latteindront, la Phase 2 commence: Les Citadelles dAlliance deviennent attaquables et vos Troupes peuvent frapper nimporte où sur la carte. La collecte reste limitée à votre territoire. Renforcez votre Citadelle et préparez vos Troupes!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Assez dalliances ont atteint le niveau de citadelle {0}! Il ne reste que peu de temps de préparation avant que la Phase 2 ne commence : Les citadelles dalliance deviennent attaquables et vos armées peuvent frapper nimporte où sur la carte. La collecte reste limitée à votre propre territoire. Renforcez votre citadelle et préparez vos troupes!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Assez dalliances ont atteint le niveau de citadelle {0}. La Phase 2 a commencé ! Les citadelles dalliance peuvent maintenant être attaquées et vos armées peuvent frapper nimporte où sur la carte. La collecte reste limitée à votre propre territoire. Gardez vos statuettes anciennes et marchez vers vos rivaux !",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "La course économique est terminée ! Les Citadelles de lAlliance peuvent maintenant être attaquées et tes armées peuvent frapper nimporte où sur la carte. La collecte de ressources reste limitée à ton propre territoire. Protège tes statuettes de jade antiques et marche vers tes rivaux !",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Désert de Jade : Phase 2 a commencé!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "Un nouveau serveur vous attend",
-    "push_1039_content": "Rejoignez-nous maintenant et réclamez votre nouveau départ"
+    "push_1039_content": "Rejoignez-nous maintenant et réclamez votre nouveau départ",
+    "push_1052_content": "La Phase 2 arrive. Préparez votre Citadelle et Troupes!",
+    "push_1052_title": "Désert de Jade: La guerre approche!",
+    "push_1053_content": "Frappez nimporte où sur la carte et marchez vers vos rivaux!",
+    "push_1053_title": "Désert de Jade : Phase 2 a commencé !"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Taxes prêtes à être collectées. Collectez vos pièces maintenant !",

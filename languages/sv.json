@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Upphöjd röd Halloween-kyrkogård",
     "deco_ExaltedRedHalloweenMausoleum_name": "Upphöjd röd Halloween mausoleum",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Upphöjd röd Halloween-fågelskremselshelgedom",
-    "deco_deathsfountain_name": "Dödens fontän"
+    "deco_deathsfountain_name": "Dödens fontän",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Upphöjd grön Halloween-mausoleum"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "En token från Berimond-akademien, förseglade för dem som kämpar för både Lejon och Björnar. Använd den för att aktivera Berimond-rådgivaren och utför på varandra följande attacker på fiendens vakttorn. Denna rådgivare ger extra Moral. Mer Moral betyder starkare Trupper och mer skada.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Kräver Citadel nivå {0}",
     "dialog_chestOffer_desc_halloween": "Lås upp kusliga belöningar med Halloween-lådan!",
     "dialog_chestOffer_title_halloween": "Halloween Kista",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Allianser över öknen närmar sig Citadel nivå {0}! När tillräckligt många av dem når det börjar Fas 2: Alliansens Citadeller blir attackerbara och dina Trupper kan slå var som helst på kartan. Insamling förblir begränsad till ditt eget område. Stärk din Citadel och förbered dina Trupper!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Tillräckligt många allianser har nått citadelns nivå {0}! Det återstår bara kort tid för förberedelser innan Fas 2 börjar: Alliansens citadeller blir attackerbara och dina arméer kan slå var som helst på kartan. Insamling förblir begränsad till ditt eget territorium. Stärk din citadel och förbered dina trupper!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Tillräckligt många allianser har nått citadelns nivå {0}. Fas 2 har börjat! Alliansens citadeler kan nu attackeras och dina arméer kan slå var som helst på kartan. Insamling förblir begränsad till ditt eget territorium. Skydda dina gamla statyer och marschera mot dina rivaler!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "Det ekonomiska loppet är över! Allians-citadelerna kan nu attackeras och dina arméer kan slå var som helst på kartan. Resurssamling förblir begränsad till ditt eget territorium. Skydda dina gamla jadestätyetter och marschera mot dina rivaler!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Jadöknen: Fas 2 har börjat!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "En ny server väntar",
-    "push_1039_content": "Gå med nu och ta din nya början"
+    "push_1039_content": "Gå med nu och ta din nya början",
+    "push_1052_content": "Fas 2 kommer. Förbered din Citadel och Trupper!",
+    "push_1052_title": "Jade-öknen: Krig närmar sig!",
+    "push_1053_content": "Attackera var som helst på kartan och marschera mot dina rivaler!",
+    "push_1053_title": "Jade-öknen: Fas 2 har börjat!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Skatter redo för indrivning – driv in dina mynt nu!",

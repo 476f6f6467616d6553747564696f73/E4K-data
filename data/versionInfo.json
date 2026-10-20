@@ -1,7 +1,7 @@
 {
-  "version": "787.RC.03",
-  "date": "07/10/2026 14:18:10",
+  "version": "788.RC.02",
+  "date": "14/10/2026 11:32:49",
   "included": {
-    "features": "Live,Leviathan,-,CIGroupIDChanges,DonationEvent_October,FloralGachaExtension,BurnableBuildingsFix,RemainingARMERemoval,Generals_Aeryn,LTPE_October,LTPE_November,LTPE_December,OctoberSales,OctoberGacha,UnitMightFix"
+    "features": "Live,Leviathan,-,RewardPoolUpdate_Berimond,BerimondCamp,LTPEFixes_October,BerimondPillar3,BeriArmorerRemoval,BeriArmorerPackageRemoval,Berimond_WatchtowerPriceFixes"
   }
 }

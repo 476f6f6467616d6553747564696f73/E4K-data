@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Felmagasztalt piros Halloween temető",
     "deco_ExaltedRedHalloweenMausoleum_name": "Felmagasztalt piros Halloween mauzóleum",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Felmagasztalt vörös Halloween-madárijesztő szentély",
-    "deco_deathsfountain_name": "Halál kútja"
+    "deco_deathsfountain_name": "Halál kútja",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Felmagasztalt zöld Halloween mauzóleum"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "A Berimond Akadémia jelzése, lezárva azok számára, akik az Oroszlánok és Medvék mellett harcolnak. Használd az aktiváláshoz a Berimond tanácsadót és végezz egymást követő támadásokat az ellenség őrtornyaira. Ez a tanácsadó extra Morálisan rugalmas biztosít. Több Morálisan rugalmas erősebb Csapatokat és több sebzést jelent.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Citadella szint {0} szükséges",
     "dialog_chestOffer_desc_halloween": "Nyisd fel a szörnyű jutalmakat a Halloween ládával!",
     "dialog_chestOffer_title_halloween": "Halloween Láda",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Az Szövetségek a sivatagon keresztül közelednek a Citadella szint {0} felé! Amint elég sok eléri, kezdődik a 2. fázis: A Szövetség Citadelláit megtámadhatóvá válnak és a Csapataid bárhol támadhatnak a térképen. A gyűjtés az saját területedre korlátozódik. Erősítsd meg a Citadelládat és készítsd fel a Csapataidat!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Elég szövetség érte el a citadella szintjét {0}! Csak rövid felkészülési idő marad hátra, mielőtt a 2. fázis kezdődik: A szövetség citadellái támadhatóvá válnak, és a csapataid bárhol támadhatnak a térképen. A gyűjtés a saját területedre korlátozódik. Erősítsd meg a citadelládat és készítsd fel a csapataidat!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Elég szövetség elérte a citadella szintjét {0}. A 2. fázis megkezdődött! A szövetség citadelláit most már meg lehet támadni, és a hadseregeid bárhol támadhatnak a térképen. A gyűjtés a saját területedre korlátozódik. Védd meg az ősi szobrocskáidat és vonulj a riválisaid felé!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "A gazdasági verseny véget ért! A Szövetség Citadelláit most már megtámadhatod és hadseregeid bárhol csaphatnak a térképen. Az erőforrások gyűjtése a saját területedre korlátozódik. Védd meg az ősi jádé szobrocskáidat és vonulj a vetélytársaid felé!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Jádé-sivatag: 2. fázis elkezdődött!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "Új szerver vár rád",
-    "push_1039_content": "Csatlakozz most, és kezdd újra!"
+    "push_1039_content": "Csatlakozz most, és kezdd újra!",
+    "push_1052_content": "A 2. fázis érkezik. Készítsd fel a Citadelládat és Csapataidat!",
+    "push_1052_title": "Jade-sivatag: A háború közeledik!",
+    "push_1053_content": "Támadj bárhol a térképen és vonulj ellenséged felé!",
+    "push_1053_title": "Jade Sivatag: 2. fázis kezdődött!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Az adók beszedhetők - gyűjtsd be a pénzt most!",

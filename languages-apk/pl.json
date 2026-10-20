@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Wyniosła czerwona cmentarz Halloween",
     "deco_ExaltedRedHalloweenMausoleum_name": "Wyniosły czerwony mauzolejum Halloween",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Wyniosła Czerwona Świątynia Stracha na Wróble Halloween",
-    "deco_deathsfountain_name": "Fontanna Śmierci"
+    "deco_deathsfountain_name": "Fontanna Śmierci",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Wyniosły zielony mauzolejum Halloween"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Token z Akademii Berimond, zapieczętowany dla tych, którzy walczą dla Lwów i Niedźwiedzi. Użyj go, aby aktywować Doradcę Berimond i wykonać kolejne ataki na wrogich wieżach obserwacyjnych. Ten doradca udziela dodatkowego Morale. Więcej Morale oznacza silniejsze Wojska i więcej obrażeń.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Wymaga Cytadela poziom {0}",
     "dialog_chestOffer_desc_halloween": "Odblokuj przerażające nagrody za pomocą Skrzyni Halloween!",
     "dialog_chestOffer_title_halloween": "Skrzynia Halloween",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Sojusze przez pustynię zbliżają się do Cytadeli poziom {0}! Gdy wystarczająco wiele ich dotrze, rozpoczyna się Faza 2: Cytadele Sojuszu stają się atakowane i twoje Wojska mogą uderzyć gdziekolwiek na mapie. Zbieranie pozostaje ograniczone do twojego terytorium. Wzmocnij swoją Cytadelę i przygotuj swoje Wojska!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Wystarczająco wiele sojuszów osiągnęło poziom cytadeli {0}! Pozostaje tylko krótki czas przygotowań, zanim rozpocznie się Faza 2: Cytadele sojuszu stają się atakowane, a twoje armie mogą uderzyć gdziekolwiek na mapie. Zbieranie pozostaje ograniczone do twojego własnego terytorium. Wzmocnij swoją cytadelę i przygotuj swoje wojska!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Wystarczająco wiele sojuszów osiągnęło poziom cytadeli {0}. Faza 2 się rozpoczęła! Cytadele sojuszu mogą być teraz atakowane, a twoje armie mogą uderzyć gdziekolwiek na mapie. Zbieranie pozostaje ograniczone do twojego własnego terytorium. Strzeż swoich starożytnych statuetek i maszeruj w stronę swoich rywali!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "Wyścig ekonomiczny dobiegł końca! Cytadele Sojuszu mogą być teraz atakowane, a twoje armie mogą uderzyć gdziekolwiek na mapie. Zbieranie zasobów pozostaje ograniczone do twojego terytorium. Strzeż starożytnych statuetek z jadeit i maszeruj w stronę swoich rywali!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Pustynia Jadeit: Faza 2 się zaczęła!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "Nowy serwer czeka",
-    "push_1039_content": "Dołącz teraz i zacznij od nowa"
+    "push_1039_content": "Dołącz teraz i zacznij od nowa",
+    "push_1052_content": "Faza 2 nadchodzi. Przygotuj swoją Cytadelę i Wojska!",
+    "push_1052_title": "Pustynia Jade: Wojna się zbliża!",
+    "push_1053_content": "Atakuj gdziekolwiek na mapie i maszeruj ku swoim rywalem!",
+    "push_1053_title": "Pustynia Jadeit: Faza 2 rozpoczęła się!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Podatki czekają na odebranie - zbierz swoje monety teraz!",

@@ -5392,48 +5392,44 @@
     "packageType": "tool",
     "comment1": "BerimondAntiRam",
     "comment2": "Berimond Armorer",
-    "sortOrder": 8,
-    "relationIDs": "150,157,159",
-    "packagePriceC2": 96,
+    "packagePriceC2": 22,
     "unitID": 775,
-    "unitAmount": 1,
-    "minLevel": 10
+    "relationIDs": "150,157,159",
+    "sortOrder": 8,
+    "unitAmount": 1
   },
   {
     "packageID": 386,
     "packageType": "tool",
     "comment1": "BerimondAntiLadder",
     "comment2": "Berimond Armorer",
-    "sortOrder": 7,
-    "relationIDs": "150,156,159",
-    "packagePriceC2": 81,
+    "packagePriceC2": 19,
     "unitID": 776,
-    "unitAmount": 1,
-    "minLevel": 10
+    "relationIDs": "150,156,159",
+    "sortOrder": 7,
+    "unitAmount": 1
   },
   {
     "packageID": 387,
     "packageType": "tool",
     "comment1": "BerimondAntiBundle",
     "comment2": "Berimond Armorer",
-    "sortOrder": 9,
-    "relationIDs": "150,158,159",
-    "packagePriceC2": 108,
+    "packagePriceC2": 24,
     "unitID": 777,
-    "unitAmount": 1,
-    "minLevel": 15
+    "relationIDs": "150,158,159",
+    "sortOrder": 9,
+    "unitAmount": 1
   },
   {
     "packageID": 388,
     "packageType": "tool",
     "comment1": "BerimondAntiShields",
     "comment2": "Berimond Armorer",
-    "sortOrder": 6,
-    "relationIDs": "150,155,159",
-    "packagePriceC2": 102,
+    "packagePriceC2": 21,
     "unitID": 778,
-    "unitAmount": 1,
-    "minLevel": 15
+    "relationIDs": "150,155,159",
+    "sortOrder": 6,
+    "unitAmount": 1
   },
   {
     "packageID": 389,
@@ -78797,6 +78793,94 @@
     "maxLegendLevel": 199,
     "sortOrder": 20,
     "relationIDs": "999,409"
+  },
+  {
+    "packageID": 5636,
+    "packageType": "tool",
+    "comment1": "BerimondAntiRamT2",
+    "comment2": "Berimond Armorer",
+    "packagePriceC2": 44,
+    "unitID": 509,
+    "relationIDs": "150,157,159",
+    "sortOrder": 8,
+    "unitAmount": 1
+  },
+  {
+    "packageID": 5637,
+    "packageType": "tool",
+    "comment1": "BerimondAntiLadderT2",
+    "comment2": "Berimond Armorer",
+    "packagePriceC2": 40,
+    "unitID": 582,
+    "relationIDs": "150,156,159",
+    "sortOrder": 7,
+    "unitAmount": 1
+  },
+  {
+    "packageID": 5638,
+    "packageType": "tool",
+    "comment1": "BerimondAntiBundleT2",
+    "comment2": "Berimond Armorer",
+    "packagePriceC2": 45,
+    "unitID": 599,
+    "relationIDs": "150,158,159",
+    "sortOrder": 9,
+    "unitAmount": 1
+  },
+  {
+    "packageID": 5639,
+    "packageType": "tool",
+    "comment1": "BerimondAntiShieldsT2",
+    "comment2": "Berimond Armorer",
+    "packagePriceC2": 42,
+    "unitID": 600,
+    "relationIDs": "150,155,159",
+    "sortOrder": 6,
+    "unitAmount": 1
+  },
+  {
+    "packageID": 5640,
+    "packageType": "tool",
+    "comment1": "BerimondAntiRamT3",
+    "comment2": "Berimond Armorer",
+    "packagePriceC2": 56,
+    "unitID": 621,
+    "relationIDs": "150,157,159",
+    "sortOrder": 8,
+    "unitAmount": 1
+  },
+  {
+    "packageID": 5641,
+    "packageType": "tool",
+    "comment1": "BerimondAntiLadderT3",
+    "comment2": "Berimond Armorer",
+    "packagePriceC2": 52,
+    "unitID": 681,
+    "relationIDs": "150,156,159",
+    "sortOrder": 7,
+    "unitAmount": 1
+  },
+  {
+    "packageID": 5642,
+    "packageType": "tool",
+    "comment1": "BerimondAntiBundleT3",
+    "comment2": "Berimond Armorer",
+    "packagePriceC2": 59,
+    "unitID": 682,
+    "relationIDs": "150,158,159",
+    "sortOrder": 9,
+    "unitAmount": 1
+  },
+  {
+    "packageID": 5643,
+    "packageType": "tool",
+    "comment1": "BerimondAntiShieldsT3",
+    "comment2": "Berimond Armorer",
+    "packagePriceC2": 54,
+    "unitID": 683,
+    "relationIDs": "150,155,159",
+    "sortOrder": 6,
+    "unitAmount": 1
   },
   {
     "packageID": 5644,

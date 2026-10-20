@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Opphøyet rødt Halloween-gravlund",
     "deco_ExaltedRedHalloweenMausoleum_name": "Opphøyet rødt Halloween mausoleum",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Ophøyet rødt Halloween-fugleskremsel helligdom",
-    "deco_deathsfountain_name": "Dødens fontene"
+    "deco_deathsfountain_name": "Dødens fontene",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Opphøyet grønt Halloween-mausoleum"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Et token fra Berimond-akademiet, forseglet for dem som kjemper for både Løver og Bjørner. Bruk det til å aktivere Berimond-rådgiver og utfør påfølgende angrep på fiendens vakttårn. Denne rådgiveren gir ekstra Moral. Mer Moral betyr sterkere Tropper og mer skade.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Krever Citadel nivå {0}",
     "dialog_chestOffer_desc_halloween": "Lås opp uhyggelige belønninger med Halloween-kisten!",
     "dialog_chestOffer_title_halloween": "Halloween Kiste",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Allianser over ørkenen nærmer seg Citadel nivå {0}! Når nok av dem når det, begynner Fase 2: Allianse Citadeller blir angripelige og dine Tropper kan angripe hvor som helst på kartet. Innsamling forblir begrenset til ditt eget område. Styrk din Citadel og forbered dine Tropper!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Nok allianser har nådd citadelens nivå {0}! Det gjenstår bare kort tid til forberedelse før Fase 2 begynner: Alliansecitadeler blir angripelige, og armeene dine kan angripe hvor som helst på kartet. Innsamling forblir begrenset til ditt eget territorium. Styrk citadelen din og forbered troppene dine!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Nok allianser har nådd citadelens nivå {0}. Fase 2 har begynt! Alliansecitadeler kan nå angribes og armeene dine kan slå hvor som helst på kartet. Innsamling forblir begrenset til ditt eget territorium. Vern dine gamle statuer og march mot rivalene dine!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "Det økonomiske løpet er over! Allianse-sitateller kan nå angripes og armeene dine kan slå til hvor som helst på kartet. Ressursinnsamling forblir begrenset til ditt eget område. Vern dine gamle jadestykker og march mot rivalene dine!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Jade-ørkenen: Fase 2 har startet!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "En ny server venter",
-    "push_1039_content": "Bli med nå og krev din nye begynnelse"
+    "push_1039_content": "Bli med nå og krev din nye begynnelse",
+    "push_1052_content": "Fase 2 kommer. Forbered din Citadel og Tropper!",
+    "push_1052_title": "Jade-ørkenen: Krig nærmer seg!",
+    "push_1053_content": "Angrip hvor som helst på kartet og mars mot dine rivaler!",
+    "push_1053_title": "Jade-ørkenen: Fase 2 har startet!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Skatter er klare for innkreving – hent myntene dine nå!",

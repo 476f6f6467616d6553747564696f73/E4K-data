@@ -2478,7 +2478,8 @@
     "deco_ExaltedRedHalloweenCemetery_name": "Vyvýšený červený halloweenský hřbitov",
     "deco_ExaltedRedHalloweenMausoleum_name": "Vyvýšená červená halloweenská hrobka",
     "deco_ExaltedRedHalloweenScarecrowShrine_name": "Vyvýšená červená halloweenská strašidla svatyně",
-    "deco_deathsfountain_name": "Fontána smrti"
+    "deco_deathsfountain_name": "Fontána smrti",
+    "deco_ExaltedGreenHalloweenMausoleum_name": "Vyvýšená zelená halloweenská hrobka"
   },
   "currency_descriptions": {
     "webshop_currency_description_BerimondAdvisorToken": "Žeton z Akademie Berimond, zapečetěný pro ty, kteří bojují za Lvy i Medvědy. Použijte jej k aktivaci Poradce Berimond a proveďte po sobě jdoucí útoky na nepřátelské hlásné věže. Tento poradce poskytuje dodatečnou Morálku. Více Morálky znamená silnější Jednotky a větší poškození.",
@@ -13995,7 +13996,7 @@
     "ringmenu_upgradeCitadel": "Vyžaduje Citadelu úroveň {0}",
     "dialog_chestOffer_desc_halloween": "Odemkněte strašidelné odměny s Halloween truhlou!",
     "dialog_chestOffer_title_halloween": "Halloweenský Truhlice",
-    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Aliance přes poušť se blíží k Citadele úroveň {0}! Jakmile jich bude dost, začíná Fáze 2: Citadely Aliance se stanou napadatelnými a vaše jednotky mohou útočit kdekoli na mapě. Sběr zůstává omezen na vaše území. Posílete svou Citadelu a připravte své Jednotky!",
+    "dialog_beyondTheHorizon_phaseSwitch_warning_desc_progression_AllianceJade": "Dostatek aliancí dosáhlo úrovně citadely {0}! Zbývá jen krátká doba přípravy, než začne Fáze 2: Citadely aliancí se stanou napadatelnými a vaše armády mohou útočit kdekoli na mapě. Sběr zůstává omezen na vaše vlastní území. Posílete svou citadelu a připravte své jednotky!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_progression_AllianceJade": "Dostatek aliancí dosáhlo úrovně citadely {0}. Fáze 2 začala! Citadely aliancí lze nyní útočit a vaše armády mohou útočit kdekoli na mapě. Sběr zůstává omezen na vaše vlastní území. Chraňte své staré sošky a pochodujte směrem ke svým rivalům!",
     "dialog_beyondTheHorizon_phaseSwitch_started_desc_timer_AllianceJade": "Ekonomické závodění skončilo! Citadely Aliance lze nyní útočit a tvoje armády mohou útočit kdekoli na mapě. Sběr zdrojů zůstává omezen na vaše vlastní území. Střez staré jadeové sošky a pochoduj směrem ke svým rivalům!",
     "dialog_beyondTheHorizon_phaseSwitch_started_title_AllianceJade": "Jadová poušť: Fáze 2 začala!",
@@ -23428,7 +23429,11 @@
   },
   "pushnotifications_android": {
     "push_1039_title": "Nový server čeká",
-    "push_1039_content": "Přidejte se nyní a získejte nový začátek"
+    "push_1039_content": "Přidejte se nyní a získejte nový začátek",
+    "push_1052_content": "Fáze 2 se blíží. Připravte svou Citadelu a Jednotky!",
+    "push_1052_title": "Pouště Jade: Válka se blíží!",
+    "push_1053_content": "Zaútočte kdekoli na mapě a pochodujte proti svým rivalům!",
+    "push_1053_title": "Pouště Jade: Fáze 2 začala!"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Daně jsou připravené - rychle si zlaťáky vyzvedněte!",
