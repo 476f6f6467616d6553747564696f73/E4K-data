@@ -1,6 +1,6 @@
 {
-  "version": "788.RC.02",
-  "date": "14/10/2026 11:32:49",
+  "version": "788.RC.03",
+  "date": "23/10/2026 13:31:58",
   "included": {
     "features": "Live,Leviathan,-,RewardPoolUpdate_Berimond,BerimondCamp,LTPEFixes_October,BerimondPillar3,BeriArmorerRemoval,BeriArmorerPackageRemoval,Berimond_WatchtowerPriceFixes"
   }
