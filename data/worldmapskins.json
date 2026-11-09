@@ -781,5 +781,20 @@
     "skinID": 169,
     "crossplayID": 169,
     "name": "ForsakenWardenCrest"
+  },
+  {
+    "skinID": 170,
+    "crossplayID": 170,
+    "name": "TravellingStall"
+  },
+  {
+    "skinID": 171,
+    "crossplayID": 171,
+    "name": "LuxuriousMarket"
+  },
+  {
+    "skinID": 172,
+    "crossplayID": 172,
+    "name": "AstrolabeKnight"
   }
 ]

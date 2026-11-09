@@ -40768,6 +40768,2994 @@
     "addGenXP15000": 25
   },
   {
+    "rewardID": 20415,
+    "crossplayID": 20415,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Gold PvE Hero, TopX Gacha Commander",
+    "equipmentIDs": "1609#1593"
+  },
+  {
+    "rewardID": 20416,
+    "crossplayID": 20416,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Silver PvE Hero, TopX Gacha Commander",
+    "equipmentIDs": "1604#1593"
+  },
+  {
+    "rewardID": 20417,
+    "crossplayID": 20417,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "TopX Gacha Castellan",
+    "equipmentIDs": 1594
+  },
+  {
+    "rewardID": 20418,
+    "crossplayID": 20418,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Stonemason (Hybrid)",
+    "constructionItemIDs": 1338
+  },
+  {
+    "rewardID": 20419,
+    "crossplayID": 20419,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Black Friday Gacha Currency",
+    "addMerchantsKey": 300
+  },
+  {
+    "rewardID": 20420,
+    "crossplayID": 20420,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 10
+  },
+  {
+    "rewardID": 20421,
+    "crossplayID": 20421,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Black Friday Beef Deco",
+    "decoWodID": 4537,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20422,
+    "crossplayID": 20422,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "The Fallen Colossus",
+    "decoWodID": 4544,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20423,
+    "crossplayID": 20423,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Winter Troop Melee Off",
+    "units": "485+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20424,
+    "crossplayID": 20424,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Winter Troop Melee Def",
+    "units": "487+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20425,
+    "crossplayID": 20425,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Winter Troop Ranged Off",
+    "units": "486+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20426,
+    "crossplayID": 20426,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Winter Troop Ranged Def",
+    "units": "488+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20427,
+    "crossplayID": 20427,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 1 (Bronze)",
+    "gemIDs": 526
+  },
+  {
+    "rewardID": 20428,
+    "crossplayID": 20428,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 2 (Bronze)",
+    "gemIDs": 527
+  },
+  {
+    "rewardID": 20429,
+    "crossplayID": 20429,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 3 (Bronze)",
+    "gemIDs": 528
+  },
+  {
+    "rewardID": 20430,
+    "crossplayID": 20430,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 4 (Bronze)",
+    "gemIDs": 529
+  },
+  {
+    "rewardID": 20431,
+    "crossplayID": 20431,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Helmet (Bronze)",
+    "equipmentIDs": 1595
+  },
+  {
+    "rewardID": 20432,
+    "crossplayID": 20432,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Armor (Bronze)",
+    "equipmentIDs": 1596
+  },
+  {
+    "rewardID": 20433,
+    "crossplayID": 20433,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Weapon (Bronze)",
+    "equipmentIDs": 1597
+  },
+  {
+    "rewardID": 20434,
+    "crossplayID": 20434,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Artifact (Bronze)",
+    "equipmentIDs": 1598
+  },
+  {
+    "rewardID": 20435,
+    "crossplayID": 20435,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Hero (Bronze)",
+    "equipmentIDs": 1599
+  },
+  {
+    "rewardID": 20436,
+    "crossplayID": 20436,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 15
+  },
+  {
+    "rewardID": 20437,
+    "crossplayID": 20437,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 5
+  },
+  {
+    "rewardID": 20438,
+    "crossplayID": 20438,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 10
+  },
+  {
+    "rewardID": 20439,
+    "crossplayID": 20439,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 5
+  },
+  {
+    "rewardID": 20440,
+    "crossplayID": 20440,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Gen XP1000",
+    "addGenXP1000": 10
+  },
+  {
+    "rewardID": 20441,
+    "crossplayID": 20441,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Black Friday 2024 Sales Deco",
+    "decoWodID": 4354,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20442,
+    "crossplayID": 20442,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "The Fallen Colossus (Hybrid)",
+    "decoWodID": 4539,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20443,
+    "crossplayID": 20443,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Dwelling",
+    "constructionItemIDs": 1329
+  },
+  {
+    "rewardID": 20444,
+    "crossplayID": 20444,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Greenhouse",
+    "constructionItemIDs": 1330
+  },
+  {
+    "rewardID": 20445,
+    "crossplayID": 20445,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Hall of Legends",
+    "constructionItemIDs": 1331
+  },
+  {
+    "rewardID": 20446,
+    "crossplayID": 20446,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Barracks",
+    "constructionItemIDs": 1332
+  },
+  {
+    "rewardID": 20447,
+    "crossplayID": 20447,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Estate",
+    "constructionItemIDs": 1333
+  },
+  {
+    "rewardID": 20448,
+    "crossplayID": 20448,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Bakery",
+    "constructionItemIDs": 1334
+  },
+  {
+    "rewardID": 20449,
+    "crossplayID": 20449,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Stonemason",
+    "constructionItemIDs": 1335
+  },
+  {
+    "rewardID": 20450,
+    "crossplayID": 20450,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Windmill",
+    "constructionItemIDs": 1336
+  },
+  {
+    "rewardID": 20451,
+    "crossplayID": 20451,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Quarry",
+    "constructionItemIDs": 1337
+  },
+  {
+    "rewardID": 20452,
+    "crossplayID": 20452,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Baron - Luxury Stone",
+    "equipmentIDs": 1611
+  },
+  {
+    "rewardID": 20453,
+    "crossplayID": 20453,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Baron - Cloudmaker",
+    "equipmentIDs": 2016
+  },
+  {
+    "rewardID": 20454,
+    "crossplayID": 20454,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Commander - Luxury Banner",
+    "equipmentIDs": 1610
+  },
+  {
+    "rewardID": 20455,
+    "crossplayID": 20455,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Commander - Demon Scepter",
+    "equipmentIDs": 2015
+  },
+  {
+    "rewardID": 20456,
+    "crossplayID": 20456,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Giant Stone Knight wShield (Hybrid)",
+    "decoWodID": 4535,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20457,
+    "crossplayID": 20457,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Giant Stone Knight wSword (Hybrid)",
+    "decoWodID": 4536,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20458,
+    "crossplayID": 20458,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Commander - Harvest feast gobbler",
+    "equipmentIDs": 1385
+  },
+  {
+    "rewardID": 20459,
+    "crossplayID": 20459,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Baron - Autumn Egg",
+    "equipmentIDs": 2011
+  },
+  {
+    "rewardID": 20460,
+    "crossplayID": 20460,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Giant Stone Knight wShield (Economy)",
+    "decoWodID": 4531,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20461,
+    "crossplayID": 20461,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Giant Stone Knight wSword (Economy)",
+    "decoWodID": 4532,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20462,
+    "crossplayID": 20462,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Giant Stone Knight wShield (Combat)",
+    "decoWodID": 4533,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20463,
+    "crossplayID": 20463,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Giant Stone Knight wSword (Combat)",
+    "decoWodID": 4534,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20464,
+    "crossplayID": 20464,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 1 (Silver)",
+    "gemIDs": 530
+  },
+  {
+    "rewardID": 20465,
+    "crossplayID": 20465,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 2 (Silver)",
+    "gemIDs": 531
+  },
+  {
+    "rewardID": 20466,
+    "crossplayID": 20466,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 3 (Silver)",
+    "gemIDs": 532
+  },
+  {
+    "rewardID": 20467,
+    "crossplayID": 20467,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 4 (Silver)",
+    "gemIDs": 533
+  },
+  {
+    "rewardID": 20468,
+    "crossplayID": 20468,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Helmet (Silver)",
+    "equipmentIDs": 1600
+  },
+  {
+    "rewardID": 20469,
+    "crossplayID": 20469,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Armor (Silver)",
+    "equipmentIDs": 1601
+  },
+  {
+    "rewardID": 20470,
+    "crossplayID": 20470,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Weapon (Silver)",
+    "equipmentIDs": 1602
+  },
+  {
+    "rewardID": 20471,
+    "crossplayID": 20471,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Artifact (Silver)",
+    "equipmentIDs": 1603
+  },
+  {
+    "rewardID": 20472,
+    "crossplayID": 20472,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Gen XP5000",
+    "addGenXP5000": 10
+  },
+  {
+    "rewardID": 20473,
+    "crossplayID": 20473,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Windmill (Economy 1)",
+    "constructionItemIDs": 1339
+  },
+  {
+    "rewardID": 20474,
+    "crossplayID": 20474,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "The Fallen Colossus (Green 1)",
+    "decoWodID": 4540,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20475,
+    "crossplayID": 20475,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 150
+  },
+  {
+    "rewardID": 20476,
+    "crossplayID": 20476,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 100
+  },
+  {
+    "rewardID": 20477,
+    "crossplayID": 20477,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 50
+  },
+  {
+    "rewardID": 20478,
+    "crossplayID": 20478,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 25
+  },
+  {
+    "rewardID": 20479,
+    "crossplayID": 20479,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 50
+  },
+  {
+    "rewardID": 20480,
+    "crossplayID": 20480,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 50
+  },
+  {
+    "rewardID": 20481,
+    "crossplayID": 20481,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 50
+  },
+  {
+    "rewardID": 20482,
+    "crossplayID": 20482,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 10
+  },
+  {
+    "rewardID": 20483,
+    "crossplayID": 20483,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 15
+  },
+  {
+    "rewardID": 20484,
+    "crossplayID": 20484,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 2
+  },
+  {
+    "rewardID": 20485,
+    "crossplayID": 20485,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 2
+  },
+  {
+    "rewardID": 20486,
+    "crossplayID": 20486,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 2
+  },
+  {
+    "rewardID": 20487,
+    "crossplayID": 20487,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Gen XP10000",
+    "addGenXP10000": 10
+  },
+  {
+    "rewardID": 20488,
+    "crossplayID": 20488,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Windmill (Economy 2)",
+    "constructionItemIDs": 1340
+  },
+  {
+    "rewardID": 20489,
+    "crossplayID": 20489,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Windmill (Economy 3)",
+    "constructionItemIDs": 1341
+  },
+  {
+    "rewardID": 20490,
+    "crossplayID": 20490,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "The Fallen Colossus (Red)",
+    "decoWodID": 4538,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20491,
+    "crossplayID": 20491,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxurious Market (Hybrid)",
+    "decoWodID": 4529,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20492,
+    "crossplayID": 20492,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Pavillion With Waterfall (Hybrid)",
+    "decoWodID": 4530,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20493,
+    "crossplayID": 20493,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Stonemason (Combat 1)",
+    "constructionItemIDs": 1342
+  },
+  {
+    "rewardID": 20494,
+    "crossplayID": 20494,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Stonemason (Combat 2)",
+    "constructionItemIDs": 1343
+  },
+  {
+    "rewardID": 20495,
+    "crossplayID": 20495,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Stonemason (Combat 3)",
+    "constructionItemIDs": 1344
+  },
+  {
+    "rewardID": 20496,
+    "crossplayID": 20496,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Stonemason (Combat 4)",
+    "constructionItemIDs": 1345
+  },
+  {
+    "rewardID": 20497,
+    "crossplayID": 20497,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Greenhouse (Hybrid)",
+    "constructionItemIDs": 1046
+  },
+  {
+    "rewardID": 20498,
+    "crossplayID": 20498,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Greenhouse (Economy 1)",
+    "constructionItemIDs": 1047
+  },
+  {
+    "rewardID": 20499,
+    "crossplayID": 20499,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Greenhouse (Economy 2)",
+    "constructionItemIDs": 1048
+  },
+  {
+    "rewardID": 20500,
+    "crossplayID": 20500,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Greenhouse (Economy 3)",
+    "constructionItemIDs": 1049
+  },
+  {
+    "rewardID": 20501,
+    "crossplayID": 20501,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Dwelling (Combat 1)",
+    "constructionItemIDs": 1050
+  },
+  {
+    "rewardID": 20502,
+    "crossplayID": 20502,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Dwelling (Combat 2)",
+    "constructionItemIDs": 1051
+  },
+  {
+    "rewardID": 20503,
+    "crossplayID": 20503,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Dwelling (Combat 3)",
+    "constructionItemIDs": 1052
+  },
+  {
+    "rewardID": 20504,
+    "crossplayID": 20504,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxury Dwelling (Combat 4)",
+    "constructionItemIDs": 1053
+  },
+  {
+    "rewardID": 20505,
+    "crossplayID": 20505,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Gen XP12500",
+    "addGenXP12500": 10
+  },
+  {
+    "rewardID": 20506,
+    "crossplayID": 20506,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "The Fallen Colossus (Green 2)",
+    "decoWodID": 4541,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20507,
+    "crossplayID": 20507,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "The Fallen Colossus (Green 3)",
+    "decoWodID": 4542,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20508,
+    "crossplayID": 20508,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Exalted Green Spring of elation (Green)",
+    "decoWodID": 4543,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20509,
+    "crossplayID": 20509,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxurious Market (Economy)",
+    "decoWodID": 4525,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20510,
+    "crossplayID": 20510,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Pavillion With Waterfall (Economy)",
+    "decoWodID": 4526,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20511,
+    "crossplayID": 20511,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 2
+  },
+  {
+    "rewardID": 20512,
+    "crossplayID": 20512,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 1
+  },
+  {
+    "rewardID": 20513,
+    "crossplayID": 20513,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 20
+  },
+  {
+    "rewardID": 20514,
+    "crossplayID": 20514,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Luxurious Market (Red)",
+    "decoWodID": 4527,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20515,
+    "crossplayID": 20515,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Pavillion With Waterfall (Red)",
+    "decoWodID": 4528,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20516,
+    "crossplayID": 20516,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 1 (Gold)",
+    "gemIDs": 534
+  },
+  {
+    "rewardID": 20517,
+    "crossplayID": 20517,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 2 (Gold)",
+    "gemIDs": 535
+  },
+  {
+    "rewardID": 20518,
+    "crossplayID": 20518,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 3 (Gold)",
+    "gemIDs": 536
+  },
+  {
+    "rewardID": 20519,
+    "crossplayID": 20519,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Gem 4 (Gold)",
+    "gemIDs": 537
+  },
+  {
+    "rewardID": 20520,
+    "crossplayID": 20520,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Helmet (Gold)",
+    "equipmentIDs": 1605
+  },
+  {
+    "rewardID": 20521,
+    "crossplayID": 20521,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Armor (Gold)",
+    "equipmentIDs": 1606
+  },
+  {
+    "rewardID": 20522,
+    "crossplayID": 20522,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Weapon (Gold)",
+    "equipmentIDs": 1607
+  },
+  {
+    "rewardID": 20523,
+    "crossplayID": 20523,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "PvE Artifact (Gold)",
+    "equipmentIDs": 1608
+  },
+  {
+    "rewardID": 20524,
+    "crossplayID": 20524,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "WMO PvE (4 Waves)",
+    "equipmentIDs": 1613
+  },
+  {
+    "rewardID": 20525,
+    "crossplayID": 20525,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "WMO PvE Gem",
+    "gemIDs": 538
+  },
+  {
+    "rewardID": 20526,
+    "crossplayID": 20526,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Silver PvE Hero Loot",
+    "equipmentIDs": 1604
+  },
+  {
+    "rewardID": 20527,
+    "crossplayID": 20527,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Winter Troop Melee Off",
+    "units": "485+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20528,
+    "crossplayID": 20528,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Winter Troop Melee Def",
+    "units": "487+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20529,
+    "crossplayID": 20529,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Winter Troop Ranged Off",
+    "units": "486+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20530,
+    "crossplayID": 20530,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Winter Troop Ranged Def",
+    "units": "488+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20531,
+    "crossplayID": 20531,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 30
+  },
+  {
+    "rewardID": 20532,
+    "crossplayID": 20532,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 15
+  },
+  {
+    "rewardID": 20533,
+    "crossplayID": 20533,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 10
+  },
+  {
+    "rewardID": 20534,
+    "crossplayID": 20534,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 10
+  },
+  {
+    "rewardID": 20535,
+    "crossplayID": 20535,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 10
+  },
+  {
+    "rewardID": 20536,
+    "crossplayID": 20536,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 10
+  },
+  {
+    "rewardID": 20537,
+    "crossplayID": 20537,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 5
+  },
+  {
+    "rewardID": 20538,
+    "crossplayID": 20538,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 5
+  },
+  {
+    "rewardID": 20539,
+    "crossplayID": 20539,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "WMO PvE (6 Waves)",
+    "equipmentIDs": 1614
+  },
+  {
+    "rewardID": 20540,
+    "crossplayID": 20540,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "GenXP250",
+    "addGenXP250": 100
+  },
+  {
+    "rewardID": 20541,
+    "crossplayID": 20541,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "GenXP500",
+    "addGenXP500": 75
+  },
+  {
+    "rewardID": 20542,
+    "crossplayID": 20542,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "GenXP1000",
+    "addGenXP1000": 75
+  },
+  {
+    "rewardID": 20543,
+    "crossplayID": 20543,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "GenXP2500",
+    "addGenXP2500": 50
+  },
+  {
+    "rewardID": 20544,
+    "crossplayID": 20544,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "GenXP5000",
+    "addGenXP5000": 50
+  },
+  {
+    "rewardID": 20545,
+    "crossplayID": 20545,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "GenXP7500",
+    "addGenXP7500": 50
+  },
+  {
+    "rewardID": 20546,
+    "crossplayID": 20546,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "GenXP10000",
+    "addGenXP10000": 25
+  },
+  {
+    "rewardID": 20547,
+    "crossplayID": 20547,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "GenXP12500",
+    "addGenXP12500": 25
+  },
+  {
+    "rewardID": 20548,
+    "crossplayID": 20548,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "GenXP15000",
+    "addGenXP15000": 25
+  },
+  {
+    "rewardID": 20549,
+    "crossplayID": 20549,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "WMO PvE (7 Waves)",
+    "equipmentIDs": 1615
+  },
+  {
+    "rewardID": 20550,
+    "crossplayID": 20550,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Gold PvE Hero Loot",
+    "equipmentIDs": 1609
+  },
+  {
+    "rewardID": 20551,
+    "crossplayID": 20551,
+    "comment1": "Black Friday Gacha 26 - PvE Commander",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 50
+  },
+  {
+    "rewardID": 20552,
+    "crossplayID": 20552,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Gold PvP Hero, TopX Gacha Commander",
+    "equipmentIDs": "1475#1593"
+  },
+  {
+    "rewardID": 20553,
+    "crossplayID": 20553,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Silver PvP Hero, TopX Gacha Commander",
+    "equipmentIDs": "1470#1593"
+  },
+  {
+    "rewardID": 20554,
+    "crossplayID": 20554,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "TopX Gacha Castellan",
+    "equipmentIDs": 1594
+  },
+  {
+    "rewardID": 20555,
+    "crossplayID": 20555,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Stonemason (Hybrid)",
+    "constructionItemIDs": 1338
+  },
+  {
+    "rewardID": 20556,
+    "crossplayID": 20556,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Black Friday Gacha Currency",
+    "addMerchantsKey": 300
+  },
+  {
+    "rewardID": 20557,
+    "crossplayID": 20557,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 10
+  },
+  {
+    "rewardID": 20558,
+    "crossplayID": 20558,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Black Friday Beef Deco",
+    "decoWodID": 4537,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20559,
+    "crossplayID": 20559,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "The Fallen Colossus",
+    "decoWodID": 4544,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20560,
+    "crossplayID": 20560,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Winter Troop Melee Off",
+    "units": "485+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20561,
+    "crossplayID": 20561,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Winter Troop Melee Def",
+    "units": "487+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20562,
+    "crossplayID": 20562,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Winter Troop Ranged Off",
+    "units": "486+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20563,
+    "crossplayID": 20563,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Winter Troop Ranged Def",
+    "units": "488+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20564,
+    "crossplayID": 20564,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Gem 1 (Bronze)",
+    "gemIDs": 490
+  },
+  {
+    "rewardID": 20565,
+    "crossplayID": 20565,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Gem 2 (Bronze)",
+    "gemIDs": 491
+  },
+  {
+    "rewardID": 20566,
+    "crossplayID": 20566,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Gem 3 (Bronze)",
+    "gemIDs": 492
+  },
+  {
+    "rewardID": 20567,
+    "crossplayID": 20567,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvPGem 4 (Bronze)",
+    "gemIDs": 493
+  },
+  {
+    "rewardID": 20568,
+    "crossplayID": 20568,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Helmet (Bronze)",
+    "equipmentIDs": 1461
+  },
+  {
+    "rewardID": 20569,
+    "crossplayID": 20569,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Armor (Bronze)",
+    "equipmentIDs": 1462
+  },
+  {
+    "rewardID": 20570,
+    "crossplayID": 20570,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Weapon (Bronze)",
+    "equipmentIDs": 1463
+  },
+  {
+    "rewardID": 20571,
+    "crossplayID": 20571,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Artifact (Bronze)",
+    "equipmentIDs": 1464
+  },
+  {
+    "rewardID": 20572,
+    "crossplayID": 20572,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Hero (Bronze)",
+    "equipmentIDs": 1465
+  },
+  {
+    "rewardID": 20573,
+    "crossplayID": 20573,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 15
+  },
+  {
+    "rewardID": 20574,
+    "crossplayID": 20574,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 5
+  },
+  {
+    "rewardID": 20575,
+    "crossplayID": 20575,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 10
+  },
+  {
+    "rewardID": 20576,
+    "crossplayID": 20576,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 5
+  },
+  {
+    "rewardID": 20577,
+    "crossplayID": 20577,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Gen XP1000",
+    "addGenXP1000": 10
+  },
+  {
+    "rewardID": 20578,
+    "crossplayID": 20578,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Black Friday 2024 Sales Deco",
+    "decoWodID": 4354,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20579,
+    "crossplayID": 20579,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "The Fallen Colossus (Hybrid)",
+    "decoWodID": 4539,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20580,
+    "crossplayID": 20580,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Dwelling",
+    "constructionItemIDs": 1329
+  },
+  {
+    "rewardID": 20581,
+    "crossplayID": 20581,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Greenhouse",
+    "constructionItemIDs": 1330
+  },
+  {
+    "rewardID": 20582,
+    "crossplayID": 20582,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Hall of Legends",
+    "constructionItemIDs": 1331
+  },
+  {
+    "rewardID": 20583,
+    "crossplayID": 20583,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Barracks",
+    "constructionItemIDs": 1332
+  },
+  {
+    "rewardID": 20584,
+    "crossplayID": 20584,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Estate",
+    "constructionItemIDs": 1333
+  },
+  {
+    "rewardID": 20585,
+    "crossplayID": 20585,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Bakery",
+    "constructionItemIDs": 1334
+  },
+  {
+    "rewardID": 20586,
+    "crossplayID": 20586,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Stonemason",
+    "constructionItemIDs": 1335
+  },
+  {
+    "rewardID": 20587,
+    "crossplayID": 20587,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Windmill",
+    "constructionItemIDs": 1336
+  },
+  {
+    "rewardID": 20588,
+    "crossplayID": 20588,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Quarry",
+    "constructionItemIDs": 1337
+  },
+  {
+    "rewardID": 20589,
+    "crossplayID": 20589,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Baron - Luxury Stone",
+    "equipmentIDs": 1611
+  },
+  {
+    "rewardID": 20590,
+    "crossplayID": 20590,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Baron - Cloudmaker",
+    "equipmentIDs": 2016
+  },
+  {
+    "rewardID": 20591,
+    "crossplayID": 20591,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Commander - Luxury Banner",
+    "equipmentIDs": 1610
+  },
+  {
+    "rewardID": 20592,
+    "crossplayID": 20592,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Commander - Demon Scepter",
+    "equipmentIDs": 2015
+  },
+  {
+    "rewardID": 20593,
+    "crossplayID": 20593,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Giant Stone Knight wShield (Hybrid)",
+    "decoWodID": 4535,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20594,
+    "crossplayID": 20594,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Giant Stone Knight wSword (Hybrid)",
+    "decoWodID": 4536,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20595,
+    "crossplayID": 20595,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Commander - Harvest feast gobbler",
+    "equipmentIDs": 1385
+  },
+  {
+    "rewardID": 20596,
+    "crossplayID": 20596,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Baron - Autumn Egg",
+    "equipmentIDs": 2011
+  },
+  {
+    "rewardID": 20597,
+    "crossplayID": 20597,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Giant Stone Knight wShield (Economy)",
+    "decoWodID": 4531,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20598,
+    "crossplayID": 20598,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Giant Stone Knight wSword (Economy)",
+    "decoWodID": 4532,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20599,
+    "crossplayID": 20599,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Giant Stone Knight wShield (Combat)",
+    "decoWodID": 4533,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20600,
+    "crossplayID": 20600,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Giant Stone Knight wSword (Combat)",
+    "decoWodID": 4534,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20601,
+    "crossplayID": 20601,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Gem 1 (Silver)",
+    "gemIDs": 494
+  },
+  {
+    "rewardID": 20602,
+    "crossplayID": 20602,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Gem 2 (Silver)",
+    "gemIDs": 495
+  },
+  {
+    "rewardID": 20603,
+    "crossplayID": 20603,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Gem 3 (Silver)",
+    "gemIDs": 496
+  },
+  {
+    "rewardID": 20604,
+    "crossplayID": 20604,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Gem 4 (Silver)",
+    "gemIDs": 497
+  },
+  {
+    "rewardID": 20605,
+    "crossplayID": 20605,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Helmet (Silver)",
+    "equipmentIDs": 1466
+  },
+  {
+    "rewardID": 20606,
+    "crossplayID": 20606,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Armor (Silver)",
+    "equipmentIDs": 1467
+  },
+  {
+    "rewardID": 20607,
+    "crossplayID": 20607,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Weapon (Silver)",
+    "equipmentIDs": 1468
+  },
+  {
+    "rewardID": 20608,
+    "crossplayID": 20608,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Artifact (Silver)",
+    "equipmentIDs": 1469
+  },
+  {
+    "rewardID": 20609,
+    "crossplayID": 20609,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Gen XP5000",
+    "addGenXP5000": 10
+  },
+  {
+    "rewardID": 20610,
+    "crossplayID": 20610,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Windmill (Economy 1)",
+    "constructionItemIDs": 1339
+  },
+  {
+    "rewardID": 20611,
+    "crossplayID": 20611,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "The Fallen Colossus (Green 1)",
+    "decoWodID": 4540,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20612,
+    "crossplayID": 20612,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 150
+  },
+  {
+    "rewardID": 20613,
+    "crossplayID": 20613,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 100
+  },
+  {
+    "rewardID": 20614,
+    "crossplayID": 20614,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 50
+  },
+  {
+    "rewardID": 20615,
+    "crossplayID": 20615,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 25
+  },
+  {
+    "rewardID": 20616,
+    "crossplayID": 20616,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 50
+  },
+  {
+    "rewardID": 20617,
+    "crossplayID": 20617,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 50
+  },
+  {
+    "rewardID": 20618,
+    "crossplayID": 20618,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 50
+  },
+  {
+    "rewardID": 20619,
+    "crossplayID": 20619,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 10
+  },
+  {
+    "rewardID": 20620,
+    "crossplayID": 20620,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 15
+  },
+  {
+    "rewardID": 20621,
+    "crossplayID": 20621,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 2
+  },
+  {
+    "rewardID": 20622,
+    "crossplayID": 20622,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 2
+  },
+  {
+    "rewardID": 20623,
+    "crossplayID": 20623,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 2
+  },
+  {
+    "rewardID": 20624,
+    "crossplayID": 20624,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Gen XP10000",
+    "addGenXP10000": 10
+  },
+  {
+    "rewardID": 20625,
+    "crossplayID": 20625,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Windmill (Economy 2)",
+    "constructionItemIDs": 1340
+  },
+  {
+    "rewardID": 20626,
+    "crossplayID": 20626,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Windmill (Economy 3)",
+    "constructionItemIDs": 1341
+  },
+  {
+    "rewardID": 20627,
+    "crossplayID": 20627,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "The Fallen Colossus (Red)",
+    "decoWodID": 4538,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20628,
+    "crossplayID": 20628,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxurious Market (Hybrid)",
+    "decoWodID": 4529,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20629,
+    "crossplayID": 20629,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Pavillion With Waterfall (Hybrid)",
+    "decoWodID": 4530,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20630,
+    "crossplayID": 20630,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Stonemason (Combat 1)",
+    "constructionItemIDs": 1342
+  },
+  {
+    "rewardID": 20631,
+    "crossplayID": 20631,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Stonemason (Combat 2)",
+    "constructionItemIDs": 1343
+  },
+  {
+    "rewardID": 20632,
+    "crossplayID": 20632,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Stonemason (Combat 3)",
+    "constructionItemIDs": 1344
+  },
+  {
+    "rewardID": 20633,
+    "crossplayID": 20633,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Stonemason (Combat 4)",
+    "constructionItemIDs": 1345
+  },
+  {
+    "rewardID": 20634,
+    "crossplayID": 20634,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Greenhouse (Hybrid)",
+    "constructionItemIDs": 1046
+  },
+  {
+    "rewardID": 20635,
+    "crossplayID": 20635,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Greenhouse (Economy 1)",
+    "constructionItemIDs": 1047
+  },
+  {
+    "rewardID": 20636,
+    "crossplayID": 20636,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Greenhouse (Economy 2)",
+    "constructionItemIDs": 1048
+  },
+  {
+    "rewardID": 20637,
+    "crossplayID": 20637,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Greenhouse (Economy 3)",
+    "constructionItemIDs": 1049
+  },
+  {
+    "rewardID": 20638,
+    "crossplayID": 20638,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Dwelling (Combat 1)",
+    "constructionItemIDs": 1050
+  },
+  {
+    "rewardID": 20639,
+    "crossplayID": 20639,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Dwelling (Combat 2)",
+    "constructionItemIDs": 1051
+  },
+  {
+    "rewardID": 20640,
+    "crossplayID": 20640,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Dwelling (Combat 3)",
+    "constructionItemIDs": 1052
+  },
+  {
+    "rewardID": 20641,
+    "crossplayID": 20641,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxury Dwelling (Combat 4)",
+    "constructionItemIDs": 1053
+  },
+  {
+    "rewardID": 20642,
+    "crossplayID": 20642,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Gen XP12500",
+    "addGenXP12500": 10
+  },
+  {
+    "rewardID": 20643,
+    "crossplayID": 20643,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "The Fallen Colossus (Green 2)",
+    "decoWodID": 4541,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20644,
+    "crossplayID": 20644,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "The Fallen Colossus (Green 3)",
+    "decoWodID": 4542,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20645,
+    "crossplayID": 20645,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Exalted Green Spring of elation (Green)",
+    "decoWodID": 4543,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20646,
+    "crossplayID": 20646,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxurious Market (Economy)",
+    "decoWodID": 4525,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20647,
+    "crossplayID": 20647,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Pavillion With Waterfall (Economy)",
+    "decoWodID": 4526,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20648,
+    "crossplayID": 20648,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 2
+  },
+  {
+    "rewardID": 20649,
+    "crossplayID": 20649,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 1
+  },
+  {
+    "rewardID": 20650,
+    "crossplayID": 20650,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 20
+  },
+  {
+    "rewardID": 20651,
+    "crossplayID": 20651,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Luxurious Market (Red)",
+    "decoWodID": 4527,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20652,
+    "crossplayID": 20652,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Pavillion With Waterfall (Red)",
+    "decoWodID": 4528,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20653,
+    "crossplayID": 20653,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Gem 1 (Gold)",
+    "gemIDs": 498
+  },
+  {
+    "rewardID": 20654,
+    "crossplayID": 20654,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Gem 2 (Gold)",
+    "gemIDs": 499
+  },
+  {
+    "rewardID": 20655,
+    "crossplayID": 20655,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Gem 3 (Gold)",
+    "gemIDs": 500
+  },
+  {
+    "rewardID": 20656,
+    "crossplayID": 20656,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Gem 4 (Gold)",
+    "gemIDs": 501
+  },
+  {
+    "rewardID": 20657,
+    "crossplayID": 20657,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Helmet (Gold)",
+    "equipmentIDs": 1471
+  },
+  {
+    "rewardID": 20658,
+    "crossplayID": 20658,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Armor (Gold)",
+    "equipmentIDs": 1472
+  },
+  {
+    "rewardID": 20659,
+    "crossplayID": 20659,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Weapon (Gold)",
+    "equipmentIDs": 1473
+  },
+  {
+    "rewardID": 20660,
+    "crossplayID": 20660,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "PvP Artifact (Gold)",
+    "equipmentIDs": 1474
+  },
+  {
+    "rewardID": 20661,
+    "crossplayID": 20661,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "WMO PvE (4 Waves)",
+    "equipmentIDs": 1613
+  },
+  {
+    "rewardID": 20662,
+    "crossplayID": 20662,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "WMO PvE Gem",
+    "gemIDs": 538
+  },
+  {
+    "rewardID": 20663,
+    "crossplayID": 20663,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Silver PvP Hero Loot",
+    "equipmentIDs": 1470
+  },
+  {
+    "rewardID": 20664,
+    "crossplayID": 20664,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Winter Troop Melee Off",
+    "units": "485+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20665,
+    "crossplayID": 20665,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Winter Troop Melee Def",
+    "units": "487+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20666,
+    "crossplayID": 20666,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Winter Troop Ranged Off",
+    "units": "486+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20667,
+    "crossplayID": 20667,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Winter Troop Ranged Def",
+    "units": "488+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20668,
+    "crossplayID": 20668,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 30
+  },
+  {
+    "rewardID": 20669,
+    "crossplayID": 20669,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 15
+  },
+  {
+    "rewardID": 20670,
+    "crossplayID": 20670,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 10
+  },
+  {
+    "rewardID": 20671,
+    "crossplayID": 20671,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 10
+  },
+  {
+    "rewardID": 20672,
+    "crossplayID": 20672,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 10
+  },
+  {
+    "rewardID": 20673,
+    "crossplayID": 20673,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 10
+  },
+  {
+    "rewardID": 20674,
+    "crossplayID": 20674,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 5
+  },
+  {
+    "rewardID": 20675,
+    "crossplayID": 20675,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 5
+  },
+  {
+    "rewardID": 20676,
+    "crossplayID": 20676,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "WMO PvE (6 Waves)",
+    "equipmentIDs": 1614
+  },
+  {
+    "rewardID": 20677,
+    "crossplayID": 20677,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "GenXP250",
+    "addGenXP250": 100
+  },
+  {
+    "rewardID": 20678,
+    "crossplayID": 20678,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "GenXP500",
+    "addGenXP500": 75
+  },
+  {
+    "rewardID": 20679,
+    "crossplayID": 20679,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "GenXP1000",
+    "addGenXP1000": 75
+  },
+  {
+    "rewardID": 20680,
+    "crossplayID": 20680,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "GenXP2500",
+    "addGenXP2500": 50
+  },
+  {
+    "rewardID": 20681,
+    "crossplayID": 20681,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "GenXP5000",
+    "addGenXP5000": 50
+  },
+  {
+    "rewardID": 20682,
+    "crossplayID": 20682,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "GenXP7500",
+    "addGenXP7500": 50
+  },
+  {
+    "rewardID": 20683,
+    "crossplayID": 20683,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "GenXP10000",
+    "addGenXP10000": 25
+  },
+  {
+    "rewardID": 20684,
+    "crossplayID": 20684,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "GenXP12500",
+    "addGenXP12500": 25
+  },
+  {
+    "rewardID": 20685,
+    "crossplayID": 20685,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "GenXP15000",
+    "addGenXP15000": 25
+  },
+  {
+    "rewardID": 20686,
+    "crossplayID": 20686,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "WMO PvE (7 Waves)",
+    "equipmentIDs": 1615
+  },
+  {
+    "rewardID": 20687,
+    "crossplayID": 20687,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Gold PvP Hero Loot",
+    "equipmentIDs": 1475
+  },
+  {
+    "rewardID": 20688,
+    "crossplayID": 20688,
+    "comment1": "Black Friday Gacha 26 - PvP Commander",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 50
+  },
+  {
+    "rewardID": 20689,
+    "crossplayID": 20689,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Gold PvP Hero, TopX Gacha Commander",
+    "equipmentIDs": "1542#1593"
+  },
+  {
+    "rewardID": 20690,
+    "crossplayID": 20690,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Silver PvP Hero, TopX Gacha Commander",
+    "equipmentIDs": "1537#1593"
+  },
+  {
+    "rewardID": 20691,
+    "crossplayID": 20691,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "TopX Gacha Castellan",
+    "equipmentIDs": 1594
+  },
+  {
+    "rewardID": 20692,
+    "crossplayID": 20692,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Stonemason (Hybrid)",
+    "constructionItemIDs": 1338
+  },
+  {
+    "rewardID": 20693,
+    "crossplayID": 20693,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Black Friday Gacha Currency",
+    "addMerchantsKey": 300
+  },
+  {
+    "rewardID": 20694,
+    "crossplayID": 20694,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 10
+  },
+  {
+    "rewardID": 20695,
+    "crossplayID": 20695,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Black Friday Beef Deco",
+    "decoWodID": 4537,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20696,
+    "crossplayID": 20696,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "The Fallen Colossus",
+    "decoWodID": 4544,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20697,
+    "crossplayID": 20697,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Winter Troop Melee Off",
+    "units": "485+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20698,
+    "crossplayID": 20698,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Winter Troop Melee Def",
+    "units": "487+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20699,
+    "crossplayID": 20699,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Winter Troop Ranged Off",
+    "units": "486+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20700,
+    "crossplayID": 20700,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Winter Troop Ranged Def",
+    "units": "488+1500",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20701,
+    "crossplayID": 20701,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Gem 1 (Bronze)",
+    "gemIDs": 514
+  },
+  {
+    "rewardID": 20702,
+    "crossplayID": 20702,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Gem 2 (Bronze)",
+    "gemIDs": 515
+  },
+  {
+    "rewardID": 20703,
+    "crossplayID": 20703,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Gem 3 (Bronze)",
+    "gemIDs": 516
+  },
+  {
+    "rewardID": 20704,
+    "crossplayID": 20704,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvPGem 4 (Bronze)",
+    "gemIDs": 517
+  },
+  {
+    "rewardID": 20705,
+    "crossplayID": 20705,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Helmet (Bronze)",
+    "equipmentIDs": 1528
+  },
+  {
+    "rewardID": 20706,
+    "crossplayID": 20706,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Armor (Bronze)",
+    "equipmentIDs": 1529
+  },
+  {
+    "rewardID": 20707,
+    "crossplayID": 20707,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Weapon (Bronze)",
+    "equipmentIDs": 1530
+  },
+  {
+    "rewardID": 20708,
+    "crossplayID": 20708,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Artifact (Bronze)",
+    "equipmentIDs": 1531
+  },
+  {
+    "rewardID": 20709,
+    "crossplayID": 20709,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Hero (Bronze)",
+    "equipmentIDs": 1532
+  },
+  {
+    "rewardID": 20710,
+    "crossplayID": 20710,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 15
+  },
+  {
+    "rewardID": 20711,
+    "crossplayID": 20711,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 5
+  },
+  {
+    "rewardID": 20712,
+    "crossplayID": 20712,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 10
+  },
+  {
+    "rewardID": 20713,
+    "crossplayID": 20713,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 5
+  },
+  {
+    "rewardID": 20714,
+    "crossplayID": 20714,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Gen XP1000",
+    "addGenXP1000": 10
+  },
+  {
+    "rewardID": 20715,
+    "crossplayID": 20715,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Black Friday 2024 Sales Deco",
+    "decoWodID": 4354,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20716,
+    "crossplayID": 20716,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "The Fallen Colossus (Hybrid)",
+    "decoWodID": 4539,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20717,
+    "crossplayID": 20717,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Dwelling",
+    "constructionItemIDs": 1329
+  },
+  {
+    "rewardID": 20718,
+    "crossplayID": 20718,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Greenhouse",
+    "constructionItemIDs": 1330
+  },
+  {
+    "rewardID": 20719,
+    "crossplayID": 20719,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Hall of Legends",
+    "constructionItemIDs": 1331
+  },
+  {
+    "rewardID": 20720,
+    "crossplayID": 20720,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Barracks",
+    "constructionItemIDs": 1332
+  },
+  {
+    "rewardID": 20721,
+    "crossplayID": 20721,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Estate",
+    "constructionItemIDs": 1333
+  },
+  {
+    "rewardID": 20722,
+    "crossplayID": 20722,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Bakery",
+    "constructionItemIDs": 1334
+  },
+  {
+    "rewardID": 20723,
+    "crossplayID": 20723,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Stonemason",
+    "constructionItemIDs": 1335
+  },
+  {
+    "rewardID": 20724,
+    "crossplayID": 20724,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Windmill",
+    "constructionItemIDs": 1336
+  },
+  {
+    "rewardID": 20725,
+    "crossplayID": 20725,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Quarry",
+    "constructionItemIDs": 1337
+  },
+  {
+    "rewardID": 20726,
+    "crossplayID": 20726,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Baron - Luxury Stone",
+    "equipmentIDs": 1611
+  },
+  {
+    "rewardID": 20727,
+    "crossplayID": 20727,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Baron - Cloudmaker",
+    "equipmentIDs": 2016
+  },
+  {
+    "rewardID": 20728,
+    "crossplayID": 20728,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Commander - Luxury Banner",
+    "equipmentIDs": 1610
+  },
+  {
+    "rewardID": 20729,
+    "crossplayID": 20729,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Commander - Demon Scepter",
+    "equipmentIDs": 2015
+  },
+  {
+    "rewardID": 20730,
+    "crossplayID": 20730,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Giant Stone Knight wShield (Hybrid)",
+    "decoWodID": 4535,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20731,
+    "crossplayID": 20731,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Giant Stone Knight wSword (Hybrid)",
+    "decoWodID": 4536,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20732,
+    "crossplayID": 20732,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Commander - Harvest feast gobbler",
+    "equipmentIDs": 1385
+  },
+  {
+    "rewardID": 20733,
+    "crossplayID": 20733,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Baron - Autumn Egg",
+    "equipmentIDs": 2011
+  },
+  {
+    "rewardID": 20734,
+    "crossplayID": 20734,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Giant Stone Knight wShield (Economy)",
+    "decoWodID": 4531,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20735,
+    "crossplayID": 20735,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Giant Stone Knight wSword (Economy)",
+    "decoWodID": 4532,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20736,
+    "crossplayID": 20736,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Giant Stone Knight wShield (Combat)",
+    "decoWodID": 4533,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20737,
+    "crossplayID": 20737,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Giant Stone Knight wSword (Combat)",
+    "decoWodID": 4534,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20738,
+    "crossplayID": 20738,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Gem 1 (Silver)",
+    "gemIDs": 518
+  },
+  {
+    "rewardID": 20739,
+    "crossplayID": 20739,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Gem 2 (Silver)",
+    "gemIDs": 519
+  },
+  {
+    "rewardID": 20740,
+    "crossplayID": 20740,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Gem 3 (Silver)",
+    "gemIDs": 520
+  },
+  {
+    "rewardID": 20741,
+    "crossplayID": 20741,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Gem 4 (Silver)",
+    "gemIDs": 521
+  },
+  {
+    "rewardID": 20742,
+    "crossplayID": 20742,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Helmet (Silver)",
+    "equipmentIDs": 1533
+  },
+  {
+    "rewardID": 20743,
+    "crossplayID": 20743,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Armor (Silver)",
+    "equipmentIDs": 1534
+  },
+  {
+    "rewardID": 20744,
+    "crossplayID": 20744,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Weapon (Silver)",
+    "equipmentIDs": 1535
+  },
+  {
+    "rewardID": 20745,
+    "crossplayID": 20745,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Artifact (Silver)",
+    "equipmentIDs": 1536
+  },
+  {
+    "rewardID": 20746,
+    "crossplayID": 20746,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Gen XP5000",
+    "addGenXP5000": 10
+  },
+  {
+    "rewardID": 20747,
+    "crossplayID": 20747,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Windmill (Economy 1)",
+    "constructionItemIDs": 1339
+  },
+  {
+    "rewardID": 20748,
+    "crossplayID": 20748,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "The Fallen Colossus (Green 1)",
+    "decoWodID": 4540,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20749,
+    "crossplayID": 20749,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 150
+  },
+  {
+    "rewardID": 20750,
+    "crossplayID": 20750,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 100
+  },
+  {
+    "rewardID": 20751,
+    "crossplayID": 20751,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 50
+  },
+  {
+    "rewardID": 20752,
+    "crossplayID": 20752,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 25
+  },
+  {
+    "rewardID": 20753,
+    "crossplayID": 20753,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 50
+  },
+  {
+    "rewardID": 20754,
+    "crossplayID": 20754,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 50
+  },
+  {
+    "rewardID": 20755,
+    "crossplayID": 20755,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 50
+  },
+  {
+    "rewardID": 20756,
+    "crossplayID": 20756,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 10
+  },
+  {
+    "rewardID": 20757,
+    "crossplayID": 20757,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 15
+  },
+  {
+    "rewardID": 20758,
+    "crossplayID": 20758,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 2
+  },
+  {
+    "rewardID": 20759,
+    "crossplayID": 20759,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 2
+  },
+  {
+    "rewardID": 20760,
+    "crossplayID": 20760,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 2
+  },
+  {
+    "rewardID": 20761,
+    "crossplayID": 20761,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Gen XP10000",
+    "addGenXP10000": 10
+  },
+  {
+    "rewardID": 20762,
+    "crossplayID": 20762,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Windmill (Economy 2)",
+    "constructionItemIDs": 1340
+  },
+  {
+    "rewardID": 20763,
+    "crossplayID": 20763,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Windmill (Economy 3)",
+    "constructionItemIDs": 1341
+  },
+  {
+    "rewardID": 20764,
+    "crossplayID": 20764,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "The Fallen Colossus (Red)",
+    "decoWodID": 4538,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20765,
+    "crossplayID": 20765,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxurious Market (Hybrid)",
+    "decoWodID": 4529,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20766,
+    "crossplayID": 20766,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Pavillion With Waterfall (Hybrid)",
+    "decoWodID": 4530,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20767,
+    "crossplayID": 20767,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Stonemason (Combat 1)",
+    "constructionItemIDs": 1342
+  },
+  {
+    "rewardID": 20768,
+    "crossplayID": 20768,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Stonemason (Combat 2)",
+    "constructionItemIDs": 1343
+  },
+  {
+    "rewardID": 20769,
+    "crossplayID": 20769,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Stonemason (Combat 3)",
+    "constructionItemIDs": 1344
+  },
+  {
+    "rewardID": 20770,
+    "crossplayID": 20770,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Stonemason (Combat 4)",
+    "constructionItemIDs": 1345
+  },
+  {
+    "rewardID": 20771,
+    "crossplayID": 20771,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Greenhouse (Hybrid)",
+    "constructionItemIDs": 1046
+  },
+  {
+    "rewardID": 20772,
+    "crossplayID": 20772,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Greenhouse (Economy 1)",
+    "constructionItemIDs": 1047
+  },
+  {
+    "rewardID": 20773,
+    "crossplayID": 20773,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Greenhouse (Economy 2)",
+    "constructionItemIDs": 1048
+  },
+  {
+    "rewardID": 20774,
+    "crossplayID": 20774,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Greenhouse (Economy 3)",
+    "constructionItemIDs": 1049
+  },
+  {
+    "rewardID": 20775,
+    "crossplayID": 20775,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Dwelling (Combat 1)",
+    "constructionItemIDs": 1050
+  },
+  {
+    "rewardID": 20776,
+    "crossplayID": 20776,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Dwelling (Combat 2)",
+    "constructionItemIDs": 1051
+  },
+  {
+    "rewardID": 20777,
+    "crossplayID": 20777,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Dwelling (Combat 3)",
+    "constructionItemIDs": 1052
+  },
+  {
+    "rewardID": 20778,
+    "crossplayID": 20778,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxury Dwelling (Combat 4)",
+    "constructionItemIDs": 1053
+  },
+  {
+    "rewardID": 20779,
+    "crossplayID": 20779,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Gen XP12500",
+    "addGenXP12500": 10
+  },
+  {
+    "rewardID": 20780,
+    "crossplayID": 20780,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "The Fallen Colossus (Green 2)",
+    "decoWodID": 4541,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20781,
+    "crossplayID": 20781,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "The Fallen Colossus (Green 3)",
+    "decoWodID": 4542,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20782,
+    "crossplayID": 20782,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Exalted Green Spring of elation (Green)",
+    "decoWodID": 4543,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20783,
+    "crossplayID": 20783,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxurious Market (Economy)",
+    "decoWodID": 4525,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20784,
+    "crossplayID": 20784,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Pavillion With Waterfall (Economy)",
+    "decoWodID": 4526,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20785,
+    "crossplayID": 20785,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 2
+  },
+  {
+    "rewardID": 20786,
+    "crossplayID": 20786,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 1
+  },
+  {
+    "rewardID": 20787,
+    "crossplayID": 20787,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Gen XP15000",
+    "addGenXP15000": 20
+  },
+  {
+    "rewardID": 20788,
+    "crossplayID": 20788,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Luxurious Market (Red)",
+    "decoWodID": 4527,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20789,
+    "crossplayID": 20789,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Pavillion With Waterfall (Red)",
+    "decoWodID": 4528,
+    "toDecoGlobalStorage": 1
+  },
+  {
+    "rewardID": 20790,
+    "crossplayID": 20790,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Gem 1 (Gold)",
+    "gemIDs": 522
+  },
+  {
+    "rewardID": 20791,
+    "crossplayID": 20791,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Gem 2 (Gold)",
+    "gemIDs": 523
+  },
+  {
+    "rewardID": 20792,
+    "crossplayID": 20792,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Gem 3 (Gold)",
+    "gemIDs": 524
+  },
+  {
+    "rewardID": 20793,
+    "crossplayID": 20793,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Gem 4 (Gold)",
+    "gemIDs": 525
+  },
+  {
+    "rewardID": 20794,
+    "crossplayID": 20794,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Helmet (Gold)",
+    "equipmentIDs": 1538
+  },
+  {
+    "rewardID": 20795,
+    "crossplayID": 20795,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Armor (Gold)",
+    "equipmentIDs": 1539
+  },
+  {
+    "rewardID": 20796,
+    "crossplayID": 20796,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Weapon (Gold)",
+    "equipmentIDs": 1540
+  },
+  {
+    "rewardID": 20797,
+    "crossplayID": 20797,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "PvP Artifact (Gold)",
+    "equipmentIDs": 1541
+  },
+  {
+    "rewardID": 20798,
+    "crossplayID": 20798,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "WMO PvE (4 Waves)",
+    "equipmentIDs": 1613
+  },
+  {
+    "rewardID": 20799,
+    "crossplayID": 20799,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "WMO PvE Gem",
+    "gemIDs": 538
+  },
+  {
+    "rewardID": 20800,
+    "crossplayID": 20800,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Silver PvP Hero Loot",
+    "equipmentIDs": 1537
+  },
+  {
+    "rewardID": 20801,
+    "crossplayID": 20801,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Winter Troop Melee Off",
+    "units": "485+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20802,
+    "crossplayID": 20802,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Winter Troop Melee Def",
+    "units": "487+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20803,
+    "crossplayID": 20803,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Winter Troop Ranged Off",
+    "units": "486+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20804,
+    "crossplayID": 20804,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Winter Troop Ranged Def",
+    "units": "488+3000",
+    "hiddenMead": 36000,
+    "ignoreResourceStorageCapacity": 1
+  },
+  {
+    "rewardID": 20805,
+    "crossplayID": 20805,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Fat King",
+    "addFatKingToken": 30
+  },
+  {
+    "rewardID": 20806,
+    "crossplayID": 20806,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Knight",
+    "addKnightToken": 15
+  },
+  {
+    "rewardID": 20807,
+    "crossplayID": 20807,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Princess",
+    "addPrincessToken": 10
+  },
+  {
+    "rewardID": 20808,
+    "crossplayID": 20808,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Tizi Offerings",
+    "addTiziToken": 10
+  },
+  {
+    "rewardID": 20809,
+    "crossplayID": 20809,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Barin Offerings",
+    "addBarinToken": 10
+  },
+  {
+    "rewardID": 20810,
+    "crossplayID": 20810,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Diana Offerings",
+    "addDianaToken": 10
+  },
+  {
+    "rewardID": 20811,
+    "crossplayID": 20811,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Sasaki Offerings",
+    "addSasakiToken": 5
+  },
+  {
+    "rewardID": 20812,
+    "crossplayID": 20812,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Kael Offerings",
+    "addKaelrithToken": 5
+  },
+  {
+    "rewardID": 20813,
+    "crossplayID": 20813,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "WMO PvE (6 Waves)",
+    "equipmentIDs": 1614
+  },
+  {
+    "rewardID": 20814,
+    "crossplayID": 20814,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "GenXP250",
+    "addGenXP250": 100
+  },
+  {
+    "rewardID": 20815,
+    "crossplayID": 20815,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "GenXP500",
+    "addGenXP500": 75
+  },
+  {
+    "rewardID": 20816,
+    "crossplayID": 20816,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "GenXP1000",
+    "addGenXP1000": 75
+  },
+  {
+    "rewardID": 20817,
+    "crossplayID": 20817,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "GenXP2500",
+    "addGenXP2500": 50
+  },
+  {
+    "rewardID": 20818,
+    "crossplayID": 20818,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "GenXP5000",
+    "addGenXP5000": 50
+  },
+  {
+    "rewardID": 20819,
+    "crossplayID": 20819,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "GenXP7500",
+    "addGenXP7500": 50
+  },
+  {
+    "rewardID": 20820,
+    "crossplayID": 20820,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "GenXP10000",
+    "addGenXP10000": 25
+  },
+  {
+    "rewardID": 20821,
+    "crossplayID": 20821,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "GenXP12500",
+    "addGenXP12500": 25
+  },
+  {
+    "rewardID": 20822,
+    "crossplayID": 20822,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "GenXP15000",
+    "addGenXP15000": 25
+  },
+  {
+    "rewardID": 20823,
+    "crossplayID": 20823,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "WMO PvE (7 Waves)",
+    "equipmentIDs": 1615
+  },
+  {
+    "rewardID": 20824,
+    "crossplayID": 20824,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Gold PvP Hero Loot",
+    "equipmentIDs": 1542
+  },
+  {
+    "rewardID": 20825,
+    "crossplayID": 20825,
+    "comment1": "Black Friday Gacha 26 - PvP Castellan",
+    "comment2": "Offering to Hasan",
+    "addHasanToken": 50
+  },
+  {
     "rewardID": 1290,
     "comment2": "Drop Chance Normal",
     "currency1": 3750
@@ -119303,432 +122291,480 @@
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1334,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addPlaster": 10000,
-    "addDragonScaleSplinters": 70000
+    "addDragonScaleSplinters": 70000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23782,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1334,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addPlaster": 9500,
-    "addDragonScaleSplinters": 65000
+    "addDragonScaleSplinters": 65000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23783,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1334,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addPlaster": 9000,
-    "addDragonScaleSplinters": 60000
+    "addDragonScaleSplinters": 60000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23784,
     "comment1": "Rank 4-7",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1335,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addPlaster": 8500,
-    "addDragonScaleSplinters": 55000
+    "addDragonScaleSplinters": 55000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23785,
     "comment1": "Rank 8-15",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1336,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addPlaster": 8000,
-    "addDragonScaleSplinters": 50000
+    "addDragonScaleSplinters": 50000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23786,
     "comment1": "Rank 16-30",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1337,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addPlaster": 7500,
-    "addDragonScaleSplinters": 45000
+    "addDragonScaleSplinters": 45000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23787,
     "comment1": "Rank 31-75",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1338,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 7000,
-    "addDragonScaleSplinters": 42500
+    "addDragonScaleSplinters": 42500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23788,
     "comment1": "Rank 76-150",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1339,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 6500,
-    "addDragonScaleSplinters": 40000
+    "addDragonScaleSplinters": 40000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23789,
     "comment1": "Rank 151-225",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1340,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 6000,
-    "addDragonScaleSplinters": 37500
+    "addDragonScaleSplinters": 37500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23790,
     "comment1": "Rank 226-450",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1341,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 5500,
-    "addDragonScaleSplinters": 35000
+    "addDragonScaleSplinters": 35000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23791,
     "comment1": "Rank 451-900",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1342,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 5000,
-    "addDragonScaleSplinters": 32500
+    "addDragonScaleSplinters": 32500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23792,
     "comment1": "Rank 901-1500",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 1020",
     "equipmentIDs": 1343,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 4500,
-    "addDragonScaleSplinters": 30000
+    "addDragonScaleSplinters": 30000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23793,
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1334,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addLegendaryToken": 5000,
-    "addLegendaryMaterial": 10000
+    "addLegendaryMaterial": 10000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23794,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1334,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addLegendaryToken": 3750,
-    "addLegendaryMaterial": 7500
+    "addLegendaryMaterial": 7500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23795,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1334,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addLegendaryToken": 2813,
-    "addLegendaryMaterial": 5626
+    "addLegendaryMaterial": 5626,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23796,
     "comment1": "Rank 4-5",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1335,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addLegendaryToken": 2250,
-    "addLegendaryMaterial": 4500
+    "addLegendaryMaterial": 4500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23797,
     "comment1": "Rank 6-10",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1336,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addLegendaryToken": 1800,
-    "addLegendaryMaterial": 3600
+    "addLegendaryMaterial": 3600,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23798,
     "comment1": "Rank 11-20",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1337,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addLegendaryToken": 1530,
-    "addLegendaryMaterial": 3060
+    "addLegendaryMaterial": 3060,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23799,
     "comment1": "Rank 21-40",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1338,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1301,
-    "addLegendaryMaterial": 2602
+    "addLegendaryMaterial": 2602,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23800,
     "comment1": "Rank 41-70",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1339,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1106,
-    "addLegendaryMaterial": 2212
+    "addLegendaryMaterial": 2212,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23801,
     "comment1": "Rank 71-120",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1340,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 940,
-    "addLegendaryMaterial": 1880
+    "addLegendaryMaterial": 1880,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23802,
     "comment1": "Rank 121-200",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1341,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 846,
-    "addLegendaryMaterial": 1692
+    "addLegendaryMaterial": 1692,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23803,
     "comment1": "Rank 201-300",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1342,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 761,
-    "addLegendaryMaterial": 1522
+    "addLegendaryMaterial": 1522,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23804,
     "comment1": "Rank 301-500",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 720-1019",
     "equipmentIDs": 1343,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 741,
-    "addLegendaryMaterial": 1482
+    "addLegendaryMaterial": 1482,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23805,
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1334,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addLegendaryToken": 5000,
-    "addLegendaryMaterial": 10000
+    "addLegendaryMaterial": 10000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23806,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1334,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addLegendaryToken": 3750,
-    "addLegendaryMaterial": 7500
+    "addLegendaryMaterial": 7500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23807,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1334,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addLegendaryToken": 2813,
-    "addLegendaryMaterial": 5626
+    "addLegendaryMaterial": 5626,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23808,
     "comment1": "Rank 4-5",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1335,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addLegendaryToken": 2250,
-    "addLegendaryMaterial": 4500
+    "addLegendaryMaterial": 4500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23809,
     "comment1": "Rank 6-10",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1336,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addLegendaryToken": 1800,
-    "addLegendaryMaterial": 3600
+    "addLegendaryMaterial": 3600,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23810,
     "comment1": "Rank 11-20",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1337,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addLegendaryToken": 1530,
-    "addLegendaryMaterial": 3060
+    "addLegendaryMaterial": 3060,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23811,
     "comment1": "Rank 51",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1338,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1301,
-    "addLegendaryMaterial": 2602
+    "addLegendaryMaterial": 2602,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23812,
     "comment1": "Rank 51-100",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1339,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1106,
-    "addLegendaryMaterial": 2212
+    "addLegendaryMaterial": 2212,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23813,
     "comment1": "Rank 101-150",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1340,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 940,
-    "addLegendaryMaterial": 1880
+    "addLegendaryMaterial": 1880,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23814,
     "comment1": "Rank 151-300",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1341,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 846,
-    "addLegendaryMaterial": 1692
+    "addLegendaryMaterial": 1692,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23815,
     "comment1": "Rank 301-600",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1342,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 761,
-    "addLegendaryMaterial": 1522
+    "addLegendaryMaterial": 1522,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23816,
     "comment1": "Rank 601-1000",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 270-719",
     "equipmentIDs": 1343,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 741,
-    "addLegendaryMaterial": 1482
+    "addLegendaryMaterial": 1482,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23817,
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1334,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addLegendaryToken": 5000,
-    "addLegendaryMaterial": 10000
+    "addLegendaryMaterial": 10000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23818,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1334,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addLegendaryToken": 3750,
-    "addLegendaryMaterial": 7500
+    "addLegendaryMaterial": 7500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23819,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1334,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addLegendaryToken": 2813,
-    "addLegendaryMaterial": 5626
+    "addLegendaryMaterial": 5626,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23820,
     "comment1": "Rank 4-5",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1335,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addLegendaryToken": 2250,
-    "addLegendaryMaterial": 4500
+    "addLegendaryMaterial": 4500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23821,
     "comment1": "Rank 6-10",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1336,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addLegendaryToken": 1800,
-    "addLegendaryMaterial": 3600
+    "addLegendaryMaterial": 3600,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23822,
     "comment1": "Rank 11-20",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1337,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addLegendaryToken": 1530,
-    "addLegendaryMaterial": 3060
+    "addLegendaryMaterial": 3060,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23823,
     "comment1": "Rank 51",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1338,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1301,
-    "addLegendaryMaterial": 2602
+    "addLegendaryMaterial": 2602,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23824,
     "comment1": "Rank 51-100",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1339,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1106,
-    "addLegendaryMaterial": 2212
+    "addLegendaryMaterial": 2212,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23825,
     "comment1": "Rank 101-150",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1340,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 940,
-    "addLegendaryMaterial": 1880
+    "addLegendaryMaterial": 1880,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23826,
     "comment1": "Rank 151-300",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1341,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 846,
-    "addLegendaryMaterial": 1692
+    "addLegendaryMaterial": 1692,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23827,
     "comment1": "Rank 301-600",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1342,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 761,
-    "addLegendaryMaterial": 1522
+    "addLegendaryMaterial": 1522,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23828,
     "comment1": "Rank 601-1000",
     "comment2": "Leaderboard Reward LTPE November 2026 Lvl 70-269",
     "equipmentIDs": 1343,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 741,
-    "addLegendaryMaterial": 1482
+    "addLegendaryMaterial": 1482,
+    "addAerynToken": 30
   },
   {
     "rewardID": 23829,
@@ -120014,7 +123050,8 @@
     "rewardID": 23874,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE November 2026 Lvl 1020",
-    "addDragonriderLTPEToken": 225
+    "addDragonriderLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 23875,
@@ -120514,7 +123551,8 @@
     "rewardID": 23954,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE November 2026 Lvl 720-1019",
-    "addDragonriderLTPEToken": 225
+    "addDragonriderLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 23955,
@@ -121019,7 +124057,8 @@
     "rewardID": 24034,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE November 2026 Lvl 270-719",
-    "addDragonriderLTPEToken": 225
+    "addDragonriderLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 24035,
@@ -121524,7 +124563,8 @@
     "rewardID": 24114,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE November 2026 Lvl 70-269",
-    "addDragonriderLTPEToken": 225
+    "addDragonriderLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 24115,
@@ -121750,432 +124790,480 @@
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1345,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addPlaster": 10000,
-    "addDragonScaleSplinters": 70000
+    "addDragonScaleSplinters": 70000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24150,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1345,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addPlaster": 9500,
-    "addDragonScaleSplinters": 65000
+    "addDragonScaleSplinters": 65000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24151,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1345,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addPlaster": 9000,
-    "addDragonScaleSplinters": 60000
+    "addDragonScaleSplinters": 60000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24152,
     "comment1": "Rank 4-7",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1346,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addPlaster": 8500,
-    "addDragonScaleSplinters": 55000
+    "addDragonScaleSplinters": 55000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24153,
     "comment1": "Rank 8-15",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1347,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addPlaster": 8000,
-    "addDragonScaleSplinters": 50000
+    "addDragonScaleSplinters": 50000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24154,
     "comment1": "Rank 16-30",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1348,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addPlaster": 7500,
-    "addDragonScaleSplinters": 45000
+    "addDragonScaleSplinters": 45000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24155,
     "comment1": "Rank 31-75",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1349,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 7000,
-    "addDragonScaleSplinters": 42500
+    "addDragonScaleSplinters": 42500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24156,
     "comment1": "Rank 76-150",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1350,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 6500,
-    "addDragonScaleSplinters": 40000
+    "addDragonScaleSplinters": 40000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24157,
     "comment1": "Rank 151-225",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1351,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 6000,
-    "addDragonScaleSplinters": 37500
+    "addDragonScaleSplinters": 37500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24158,
     "comment1": "Rank 226-450",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1352,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 5500,
-    "addDragonScaleSplinters": 35000
+    "addDragonScaleSplinters": 35000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24159,
     "comment1": "Rank 451-900",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1353,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 5000,
-    "addDragonScaleSplinters": 32500
+    "addDragonScaleSplinters": 32500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24160,
     "comment1": "Rank 901-1500",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 1020",
     "equipmentIDs": 1354,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addPlaster": 4500,
-    "addDragonScaleSplinters": 30000
+    "addDragonScaleSplinters": 30000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24161,
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1345,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addLegendaryToken": 5000,
-    "addLegendaryMaterial": 10000
+    "addLegendaryMaterial": 10000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24162,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1345,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addLegendaryToken": 3750,
-    "addLegendaryMaterial": 7500
+    "addLegendaryMaterial": 7500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24163,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1345,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addLegendaryToken": 2813,
-    "addLegendaryMaterial": 5626
+    "addLegendaryMaterial": 5626,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24164,
     "comment1": "Rank 4-5",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1346,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addLegendaryToken": 2250,
-    "addLegendaryMaterial": 4500
+    "addLegendaryMaterial": 4500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24165,
     "comment1": "Rank 6-10",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1347,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addLegendaryToken": 1800,
-    "addLegendaryMaterial": 3600
+    "addLegendaryMaterial": 3600,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24166,
     "comment1": "Rank 11-20",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1348,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addLegendaryToken": 1530,
-    "addLegendaryMaterial": 3060
+    "addLegendaryMaterial": 3060,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24167,
     "comment1": "Rank 21-40",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1349,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1301,
-    "addLegendaryMaterial": 2602
+    "addLegendaryMaterial": 2602,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24168,
     "comment1": "Rank 41-70",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1350,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1106,
-    "addLegendaryMaterial": 2212
+    "addLegendaryMaterial": 2212,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24169,
     "comment1": "Rank 71-120",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1351,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 940,
-    "addLegendaryMaterial": 1880
+    "addLegendaryMaterial": 1880,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24170,
     "comment1": "Rank 121-200",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1352,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 846,
-    "addLegendaryMaterial": 1692
+    "addLegendaryMaterial": 1692,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24171,
     "comment1": "Rank 201-300",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1353,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 761,
-    "addLegendaryMaterial": 1522
+    "addLegendaryMaterial": 1522,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24172,
     "comment1": "Rank 301-500",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 720-1019",
     "equipmentIDs": 1354,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 741,
-    "addLegendaryMaterial": 1482
+    "addLegendaryMaterial": 1482,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24173,
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1345,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addLegendaryToken": 5000,
-    "addLegendaryMaterial": 10000
+    "addLegendaryMaterial": 10000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24174,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1345,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addLegendaryToken": 3750,
-    "addLegendaryMaterial": 7500
+    "addLegendaryMaterial": 7500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24175,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1345,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addLegendaryToken": 2813,
-    "addLegendaryMaterial": 5626
+    "addLegendaryMaterial": 5626,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24176,
     "comment1": "Rank 4-5",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1346,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addLegendaryToken": 2250,
-    "addLegendaryMaterial": 4500
+    "addLegendaryMaterial": 4500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24177,
     "comment1": "Rank 6-10",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1347,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addLegendaryToken": 1800,
-    "addLegendaryMaterial": 3600
+    "addLegendaryMaterial": 3600,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24178,
     "comment1": "Rank 11-20",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1348,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addLegendaryToken": 1530,
-    "addLegendaryMaterial": 3060
+    "addLegendaryMaterial": 3060,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24179,
     "comment1": "Rank 51",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1349,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1301,
-    "addLegendaryMaterial": 2602
+    "addLegendaryMaterial": 2602,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24180,
     "comment1": "Rank 51-100",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1350,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1106,
-    "addLegendaryMaterial": 2212
+    "addLegendaryMaterial": 2212,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24181,
     "comment1": "Rank 101-150",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1351,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 940,
-    "addLegendaryMaterial": 1880
+    "addLegendaryMaterial": 1880,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24182,
     "comment1": "Rank 151-300",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1352,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 846,
-    "addLegendaryMaterial": 1692
+    "addLegendaryMaterial": 1692,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24183,
     "comment1": "Rank 301-600",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1353,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 761,
-    "addLegendaryMaterial": 1522
+    "addLegendaryMaterial": 1522,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24184,
     "comment1": "Rank 601-1000",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 270-719",
     "equipmentIDs": 1354,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 741,
-    "addLegendaryMaterial": 1482
+    "addLegendaryMaterial": 1482,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24185,
     "comment1": "Rank 1",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1345,
-    "addGenXP15000": 80,
+    "addGenXP15000": 50,
     "addLegendaryToken": 5000,
-    "addLegendaryMaterial": 10000
+    "addLegendaryMaterial": 10000,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24186,
     "comment1": "Rank 2",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1345,
-    "addGenXP15000": 75,
+    "addGenXP15000": 45,
     "addLegendaryToken": 3750,
-    "addLegendaryMaterial": 7500
+    "addLegendaryMaterial": 7500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24187,
     "comment1": "Rank 3",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1345,
-    "addGenXP15000": 70,
+    "addGenXP15000": 40,
     "addLegendaryToken": 2813,
-    "addLegendaryMaterial": 5626
+    "addLegendaryMaterial": 5626,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24188,
     "comment1": "Rank 4-5",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1346,
-    "addGenXP15000": 65,
+    "addGenXP15000": 35,
     "addLegendaryToken": 2250,
-    "addLegendaryMaterial": 4500
+    "addLegendaryMaterial": 4500,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24189,
     "comment1": "Rank 6-10",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1347,
-    "addGenXP15000": 60,
+    "addGenXP15000": 30,
     "addLegendaryToken": 1800,
-    "addLegendaryMaterial": 3600
+    "addLegendaryMaterial": 3600,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24190,
     "comment1": "Rank 11-20",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1348,
-    "addGenXP15000": 55,
+    "addGenXP15000": 25,
     "addLegendaryToken": 1530,
-    "addLegendaryMaterial": 3060
+    "addLegendaryMaterial": 3060,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24191,
     "comment1": "Rank 51",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1349,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1301,
-    "addLegendaryMaterial": 2602
+    "addLegendaryMaterial": 2602,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24192,
     "comment1": "Rank 51-100",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1350,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 1106,
-    "addLegendaryMaterial": 2212
+    "addLegendaryMaterial": 2212,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24193,
     "comment1": "Rank 101-150",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1351,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 940,
-    "addLegendaryMaterial": 1880
+    "addLegendaryMaterial": 1880,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24194,
     "comment1": "Rank 151-300",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1352,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 846,
-    "addLegendaryMaterial": 1692
+    "addLegendaryMaterial": 1692,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24195,
     "comment1": "Rank 301-600",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1353,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 761,
-    "addLegendaryMaterial": 1522
+    "addLegendaryMaterial": 1522,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24196,
     "comment1": "Rank 601-1000",
     "comment2": "Leaderboard Reward LTPE December 2026 Lvl 70-269",
     "equipmentIDs": 1354,
-    "addGenXP15000": 50,
+    "addGenXP15000": 20,
     "addLegendaryToken": 741,
-    "addLegendaryMaterial": 1482
+    "addLegendaryMaterial": 1482,
+    "addAerynToken": 30
   },
   {
     "rewardID": 24197,
@@ -122461,7 +125549,8 @@
     "rewardID": 24242,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE December 2026 Lvl 1020",
-    "addXmasLTPEToken": 225
+    "addXmasLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 24243,
@@ -122961,7 +126050,8 @@
     "rewardID": 24322,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE December 2026 Lvl 720-1019",
-    "addXmasLTPEToken": 225
+    "addXmasLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 24323,
@@ -123466,7 +126556,8 @@
     "rewardID": 24402,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE December 2026 Lvl 270-719",
-    "addXmasLTPEToken": 225
+    "addXmasLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 24403,
@@ -123971,7 +127062,8 @@
     "rewardID": 24482,
     "comment1": "Reward 46",
     "comment2": "Activity Reward LTPE December 2026 Lvl 70-269",
-    "addXmasLTPEToken": 225
+    "addXmasLTPEToken": 225,
+    "addAerynToken": 1
   },
   {
     "rewardID": 24483,

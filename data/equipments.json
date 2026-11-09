@@ -1886,6 +1886,7 @@
     "slotID": 5,
     "duration": 336,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -1942,6 +1943,7 @@
     "slotID": 5,
     "duration": 336,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 2
   },
   {
@@ -1998,6 +2000,7 @@
     "slotID": 5,
     "duration": 336,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 8
   },
   {
@@ -2067,6 +2070,7 @@
     "slotID": 5,
     "duration": 336,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 7
   },
   {
@@ -4824,6 +4828,7 @@
     "reuseAssetOfEquipmentID": 703,
     "duration": 168,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 17
   },
   {
@@ -5753,6 +5758,7 @@
     "effects": "24&amp;1,22&amp;10,23&amp;10",
     "duration": 336,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 4
   },
   {
@@ -5768,6 +5774,7 @@
     "effects": "24&amp;1,22&amp;15,23&amp;15",
     "duration": 336,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -5783,6 +5790,7 @@
     "effects": "24&amp;2,22&amp;20,23&amp;20",
     "duration": 336,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -5798,6 +5806,7 @@
     "effects": "24&amp;2,22&amp;25,23&amp;25",
     "duration": 336,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -5813,6 +5822,7 @@
     "effects": "24&amp;3,22&amp;30,23&amp;30",
     "duration": 336,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -5828,6 +5838,7 @@
     "effects": "24&amp;1",
     "duration": 336,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -5843,6 +5854,7 @@
     "effects": "24&amp;2",
     "duration": 336,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -5858,6 +5870,7 @@
     "effects": "24&amp;3",
     "duration": 336,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -5873,6 +5886,7 @@
     "effects": "24&amp;4",
     "duration": 336,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -5888,6 +5902,7 @@
     "effects": "24&amp;5",
     "duration": 336,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -6909,6 +6924,7 @@
     "slotID": 5,
     "duration": 720,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 4
   },
   {
@@ -6920,6 +6936,7 @@
     "slotID": 5,
     "duration": 168,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 4
   },
   {
@@ -6931,6 +6948,7 @@
     "slotID": 5,
     "duration": 168,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 5
   },
   {
@@ -6942,6 +6960,7 @@
     "slotID": 5,
     "duration": 2160,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 5
   },
   {
@@ -6953,6 +6972,7 @@
     "slotID": 5,
     "duration": 2160,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 4
   },
   {
@@ -6965,6 +6985,7 @@
     "effects": "365&amp;5",
     "duration": 216,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 17
   },
   {
@@ -6977,6 +6998,7 @@
     "effects": "365&amp;10",
     "duration": 24,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 17
   },
   {
@@ -7022,6 +7044,7 @@
     "effects": "366&amp;5",
     "duration": 216,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 20
   },
   {
@@ -7034,6 +7057,7 @@
     "effects": "366&amp;10",
     "duration": 24,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 20
   },
   {
@@ -7044,6 +7068,7 @@
     "wearerID": 2,
     "slotID": 5,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 21
   },
   {
@@ -7054,6 +7079,7 @@
     "wearerID": 1,
     "slotID": 5,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 22
   },
   {
@@ -7064,6 +7090,7 @@
     "wearerID": 2,
     "slotID": 5,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 20
   },
   {
@@ -7154,6 +7181,7 @@
     "effects": "367&amp;5",
     "duration": 216,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 24
   },
   {
@@ -7166,6 +7194,7 @@
     "effects": "367&amp;10",
     "duration": 24,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 24
   },
   {
@@ -7211,6 +7240,7 @@
     "effects": "368&amp;5",
     "duration": 216,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 27
   },
   {
@@ -7223,6 +7253,7 @@
     "effects": "368&amp;10",
     "duration": 24,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 27
   },
   {
@@ -7352,6 +7383,7 @@
     "effects": "369&amp;5",
     "duration": 216,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 35
   },
   {
@@ -7363,6 +7395,7 @@
     "effects": "369&amp;10",
     "duration": 24,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 35
   },
   {
@@ -7404,6 +7437,7 @@
     "effects": "371&amp;5",
     "duration": 216,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 69
   },
   {
@@ -7415,6 +7449,7 @@
     "effects": "371&amp;10",
     "duration": 24,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 69
   },
   {
@@ -7457,6 +7492,7 @@
     "effects": "370&amp;5",
     "duration": 216,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 45
   },
   {
@@ -7469,6 +7505,7 @@
     "effects": "370&amp;10",
     "duration": 24,
     "mightValue": 0,
+    "canSlotGem": 0,
     "skinID": 45
   },
   {
@@ -9301,6 +9338,7 @@
     "effects": "24&amp;1",
     "duration": 12,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9315,6 +9353,7 @@
     "effects": "24&amp;2",
     "duration": 12,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9329,6 +9368,7 @@
     "effects": "24&amp;3",
     "duration": 12,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9343,6 +9383,7 @@
     "effects": "24&amp;4",
     "duration": 12,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9357,6 +9398,7 @@
     "effects": "24&amp;5",
     "duration": 12,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9370,6 +9412,7 @@
     "effects": "24&amp;1,22&amp;10,23&amp;10",
     "duration": 12,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9384,6 +9427,7 @@
     "effects": "24&amp;1,22&amp;15,23&amp;15",
     "duration": 12,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9398,6 +9442,7 @@
     "effects": "24&amp;2,22&amp;20,23&amp;20",
     "duration": 12,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9412,6 +9457,7 @@
     "effects": "24&amp;2,22&amp;25,23&amp;25",
     "duration": 12,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9426,6 +9472,7 @@
     "effects": "24&amp;3,22&amp;30,23&amp;30",
     "duration": 12,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9439,6 +9486,7 @@
     "effects": "24&amp;1,22&amp;10",
     "duration": 12,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9453,6 +9501,7 @@
     "effects": "24&amp;1,22&amp;15",
     "duration": 12,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9467,6 +9516,7 @@
     "effects": "24&amp;2,22&amp;20",
     "duration": 12,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9481,6 +9531,7 @@
     "effects": "24&amp;2,22&amp;25",
     "duration": 12,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9495,6 +9546,7 @@
     "effects": "24&amp;3,22&amp;30",
     "duration": 12,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9509,6 +9561,7 @@
     "effects": "24&amp;1",
     "duration": 24,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9523,6 +9576,7 @@
     "effects": "24&amp;2",
     "duration": 24,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9537,6 +9591,7 @@
     "effects": "24&amp;3",
     "duration": 24,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9551,6 +9606,7 @@
     "effects": "24&amp;4",
     "duration": 24,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9565,6 +9621,7 @@
     "effects": "24&amp;5",
     "duration": 24,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9579,6 +9636,7 @@
     "effects": "24&amp;1,22&amp;10,23&amp;10",
     "duration": 24,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9593,6 +9651,7 @@
     "effects": "24&amp;1,22&amp;15,23&amp;15",
     "duration": 24,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9607,6 +9666,7 @@
     "effects": "24&amp;2,22&amp;20,23&amp;20",
     "duration": 24,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9621,6 +9681,7 @@
     "effects": "24&amp;2,22&amp;25,23&amp;25",
     "duration": 24,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9635,6 +9696,7 @@
     "effects": "24&amp;3,22&amp;30,23&amp;30",
     "duration": 168,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9649,6 +9711,7 @@
     "effects": "24&amp;1,22&amp;10",
     "duration": 24,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9663,6 +9726,7 @@
     "effects": "24&amp;1,22&amp;15",
     "duration": 24,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9677,6 +9741,7 @@
     "effects": "24&amp;2,22&amp;20",
     "duration": 24,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9691,6 +9756,7 @@
     "effects": "24&amp;2,22&amp;25",
     "duration": 24,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9705,6 +9771,7 @@
     "effects": "24&amp;3,22&amp;30",
     "duration": 168,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9719,6 +9786,7 @@
     "effects": "24&amp;1",
     "duration": 72,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9733,6 +9801,7 @@
     "effects": "24&amp;2",
     "duration": 72,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9747,6 +9816,7 @@
     "effects": "24&amp;3",
     "duration": 72,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9761,6 +9831,7 @@
     "effects": "24&amp;4",
     "duration": 72,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9775,6 +9846,7 @@
     "effects": "24&amp;5",
     "duration": 72,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9789,6 +9861,7 @@
     "effects": "24&amp;1,22&amp;10,23&amp;10",
     "duration": 72,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9803,6 +9876,7 @@
     "effects": "24&amp;1,22&amp;15,23&amp;15",
     "duration": 72,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9817,6 +9891,7 @@
     "effects": "24&amp;2,22&amp;20,23&amp;20",
     "duration": 72,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9831,6 +9906,7 @@
     "effects": "24&amp;2,22&amp;25,23&amp;25",
     "duration": 72,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9845,6 +9921,7 @@
     "effects": "24&amp;3,22&amp;30,23&amp;30",
     "duration": 72,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9859,6 +9936,7 @@
     "effects": "24&amp;1,22&amp;10",
     "duration": 72,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9873,6 +9951,7 @@
     "effects": "24&amp;1,22&amp;15",
     "duration": 72,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9887,6 +9966,7 @@
     "effects": "24&amp;2,22&amp;20",
     "duration": 72,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9901,6 +9981,7 @@
     "effects": "24&amp;2,22&amp;25",
     "duration": 72,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9915,6 +9996,7 @@
     "effects": "24&amp;3,22&amp;30",
     "duration": 72,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9929,6 +10011,7 @@
     "effects": "24&amp;1",
     "duration": 168,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9943,6 +10026,7 @@
     "effects": "24&amp;2",
     "duration": 168,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9957,6 +10041,7 @@
     "effects": "24&amp;3",
     "duration": 168,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9971,6 +10056,7 @@
     "effects": "24&amp;4",
     "duration": 168,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9985,6 +10071,7 @@
     "effects": "24&amp;5",
     "duration": 168,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -9999,6 +10086,7 @@
     "effects": "24&amp;1,22&amp;10,23&amp;10",
     "duration": 168,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -10013,6 +10101,7 @@
     "effects": "24&amp;1,22&amp;15,23&amp;15",
     "duration": 168,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -10027,6 +10116,7 @@
     "effects": "24&amp;2,22&amp;20,23&amp;20",
     "duration": 168,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -10041,6 +10131,7 @@
     "effects": "24&amp;2,22&amp;25,23&amp;25",
     "duration": 168,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -10055,6 +10146,7 @@
     "effects": "24&amp;3,22&amp;30,23&amp;30",
     "duration": 168,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -10069,6 +10161,7 @@
     "effects": "24&amp;1,22&amp;10",
     "duration": 168,
     "mightValue": 1000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -10083,6 +10176,7 @@
     "effects": "24&amp;1,22&amp;15",
     "duration": 168,
     "mightValue": 1250,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -10097,6 +10191,7 @@
     "effects": "24&amp;2,22&amp;20",
     "duration": 168,
     "mightValue": 1500,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -10111,6 +10206,7 @@
     "effects": "24&amp;2,22&amp;25",
     "duration": 168,
     "mightValue": 1750,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -10125,6 +10221,7 @@
     "effects": "24&amp;3,22&amp;30",
     "duration": 168,
     "mightValue": 2000,
+    "canSlotGem": 0,
     "skinID": 1
   },
   {
@@ -10506,6 +10603,7 @@
     "effects": "13&amp;20,335&amp;40,201&amp;10",
     "duration": 1008,
     "mightValue": 3000,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10518,6 +10616,7 @@
     "reuseAssetOfEquipmentID": 852,
     "effects": "37&amp;10000,38&amp;100",
     "mightValue": 1,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10530,6 +10629,7 @@
     "reuseAssetOfEquipmentID": 852,
     "effects": "39&amp;10000,40&amp;100",
     "mightValue": 1,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10542,6 +10642,7 @@
     "reuseAssetOfEquipmentID": 852,
     "effects": "41&amp;100000,42&amp;100000,43&amp;1+100",
     "mightValue": 1,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10557,6 +10658,7 @@
     "effects": "38&amp;1",
     "duration": 1008,
     "mightValue": 3000,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10572,6 +10674,7 @@
     "effects": "38&amp;1,37&amp;250",
     "duration": 1008,
     "mightValue": 3000,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10587,6 +10690,7 @@
     "effects": "38&amp;1,37&amp;250,40&amp;5",
     "duration": 1008,
     "mightValue": 3000,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10602,6 +10706,7 @@
     "effects": "38&amp;1,37&amp;250,40&amp;10",
     "duration": 1008,
     "mightValue": 3000,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10617,6 +10722,7 @@
     "effects": "38&amp;1,37&amp;500,40&amp;10",
     "duration": 1008,
     "mightValue": 3000,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10632,6 +10738,7 @@
     "effects": "38&amp;2,37&amp;500,40&amp;10",
     "duration": 1008,
     "mightValue": 3000,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10647,6 +10754,7 @@
     "effects": "38&amp;2,37&amp;500,40&amp;20",
     "duration": 1008,
     "mightValue": 3000,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10662,6 +10770,7 @@
     "effects": "38&amp;2,37&amp;1000,40&amp;20",
     "duration": 1008,
     "mightValue": 3000,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -10677,6 +10786,7 @@
     "effects": "38&amp;5,37&amp;1000,40&amp;20",
     "duration": 1008,
     "mightValue": 3000,
+    "canSlotGem": 0,
     "skinID": 52
   },
   {
@@ -19167,5 +19277,306 @@
     "mightValue": 0,
     "canSlotGem": 0,
     "skinID": 169
+  },
+  {
+    "equipmentID": 1593,
+    "crossplayID": 1593,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Travelling Stall",
+    "wearerID": 2,
+    "slotID": 5,
+    "effects": "24&amp;8,334&amp;25,66&amp;10",
+    "duration": 120,
+    "mightValue": 0,
+    "canSlotGem": 0,
+    "skinID": 170
+  },
+  {
+    "equipmentID": 1594,
+    "crossplayID": 1594,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Luxurious Market",
+    "wearerID": 1,
+    "slotID": 5,
+    "effects": "335&amp;45,37&amp;25000",
+    "duration": 120,
+    "mightValue": 0,
+    "canSlotGem": 0,
+    "skinID": 171
+  },
+  {
+    "equipmentID": 1595,
+    "crossplayID": 1595,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Bronze Astrolabe Helmet",
+    "setID": 1103,
+    "wearerID": 2,
+    "slotID": 3,
+    "sellOfferingShard": 1095,
+    "effects": "440&amp;140,441&amp;140,442&amp;90",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1596,
+    "crossplayID": 1596,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Bronze Astrolabe Armor",
+    "setID": 1103,
+    "wearerID": 2,
+    "slotID": 1,
+    "sellOfferingShard": 1095,
+    "effects": "440&amp;140,441&amp;140,442&amp;90",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1597,
+    "crossplayID": 1597,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Bronze Astrolabe Sword",
+    "setID": 1103,
+    "wearerID": 2,
+    "slotID": 2,
+    "sellOfferingShard": 1095,
+    "effects": "449&amp;10,450&amp;10,444&amp;12",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1598,
+    "crossplayID": 1598,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Bronze Astrolabe Artifact",
+    "setID": 1103,
+    "wearerID": 2,
+    "slotID": 4,
+    "sellOfferingShard": 1095,
+    "effects": "449&amp;10,450&amp;10,444&amp;12",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1599,
+    "crossplayID": 1599,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Astrolabe Apprentice",
+    "setID": 1103,
+    "wearerID": 2,
+    "slotID": 6,
+    "sellOfferingShard": 1310,
+    "effects": "454&amp;1,452&amp;12,443&amp;50",
+    "rarenessID": 10,
+    "picID": 1599,
+    "mightValue": 0,
+    "canSlotGem": 0
+  },
+  {
+    "equipmentID": 1600,
+    "crossplayID": 1600,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Silver Astrolabe Helmet",
+    "setID": 1104,
+    "wearerID": 2,
+    "slotID": 3,
+    "sellOfferingShard": 1685,
+    "effects": "440&amp;175,441&amp;175,442&amp;115",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1601,
+    "crossplayID": 1601,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Silver Astrolabe Armor",
+    "setID": 1104,
+    "wearerID": 2,
+    "slotID": 1,
+    "sellOfferingShard": 1685,
+    "effects": "440&amp;175,441&amp;175,442&amp;115",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1602,
+    "crossplayID": 1602,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Silver Astrolabe Sword",
+    "setID": 1104,
+    "wearerID": 2,
+    "slotID": 2,
+    "sellOfferingShard": 1685,
+    "effects": "449&amp;13,450&amp;13,444&amp;25",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1603,
+    "crossplayID": 1603,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Silver Astrolabe Artifact",
+    "setID": 1104,
+    "wearerID": 2,
+    "slotID": 4,
+    "sellOfferingShard": 1685,
+    "effects": "449&amp;13,450&amp;13,444&amp;25",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1604,
+    "crossplayID": 1604,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Astrolabe Scholar",
+    "setID": 1104,
+    "wearerID": 2,
+    "slotID": 6,
+    "sellOfferingShard": 337880,
+    "effects": "454&amp;1,452&amp;25,443&amp;75",
+    "rarenessID": 10,
+    "picID": 1604,
+    "mightValue": 0,
+    "canSlotGem": 0
+  },
+  {
+    "equipmentID": 1605,
+    "crossplayID": 1605,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Gold Astrolabe Helmet",
+    "setID": 1105,
+    "wearerID": 2,
+    "slotID": 3,
+    "sellOfferingShard": 100860,
+    "effects": "440&amp;210,441&amp;210,442&amp;135",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1606,
+    "crossplayID": 1606,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Gold Astrolabe Armor",
+    "setID": 1105,
+    "wearerID": 2,
+    "slotID": 1,
+    "sellOfferingShard": 100860,
+    "effects": "440&amp;210,441&amp;210,442&amp;135",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1607,
+    "crossplayID": 1607,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Gold Astrolabe Sword",
+    "setID": 1105,
+    "wearerID": 2,
+    "slotID": 2,
+    "sellOfferingShard": 100860,
+    "effects": "449&amp;15,450&amp;15,444&amp;38",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1608,
+    "crossplayID": 1608,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Gold Astrolabe Artifact",
+    "setID": 1105,
+    "wearerID": 2,
+    "slotID": 4,
+    "sellOfferingShard": 100860,
+    "effects": "449&amp;15,450&amp;15,444&amp;38",
+    "mightValue": 0,
+    "canSlotGem": 1
+  },
+  {
+    "equipmentID": 1609,
+    "crossplayID": 1609,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Astrolabe Sage",
+    "setID": 1105,
+    "wearerID": 2,
+    "slotID": 6,
+    "sellOfferingShard": 675770,
+    "effects": "454&amp;1,452&amp;38,443&amp;100",
+    "rarenessID": 10,
+    "picID": 1609,
+    "mightValue": 0,
+    "canSlotGem": 0
+  },
+  {
+    "equipmentID": 1610,
+    "crossplayID": 1610,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Luxury Banner",
+    "wearerID": 2,
+    "slotID": 5,
+    "reuseAssetOfEquipmentID": 1383,
+    "mightValue": 0,
+    "canSlotGem": 0,
+    "skinID": 134
+  },
+  {
+    "equipmentID": 1611,
+    "crossplayID": 1611,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Luxury Stone",
+    "wearerID": 1,
+    "slotID": 5,
+    "reuseAssetOfEquipmentID": 1384,
+    "mightValue": 0,
+    "canSlotGem": 0,
+    "skinID": 133
+  },
+  {
+    "equipmentID": 1612,
+    "crossplayID": 1612,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Astrolabe Knight",
+    "wearerID": 2,
+    "slotID": 5,
+    "mightValue": 0,
+    "canSlotGem": 1,
+    "skinID": 172
+  },
+  {
+    "equipmentID": 1613,
+    "crossplayID": 1613,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Astrolabe Knight",
+    "wearerID": 2,
+    "slotID": 5,
+    "effects": "454&amp;4,446&amp;5",
+    "duration": 120,
+    "mightValue": 0,
+    "canSlotGem": 1,
+    "skinID": 172
+  },
+  {
+    "equipmentID": 1614,
+    "crossplayID": 1614,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Astrolabe Knight",
+    "wearerID": 2,
+    "slotID": 5,
+    "effects": "454&amp;6,446&amp;10",
+    "duration": 120,
+    "mightValue": 0,
+    "canSlotGem": 1,
+    "skinID": 172
+  },
+  {
+    "equipmentID": 1615,
+    "crossplayID": 1615,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "Astrolabe Knight",
+    "wearerID": 2,
+    "slotID": 5,
+    "effects": "454&amp;7,446&amp;25",
+    "duration": 120,
+    "mightValue": 0,
+    "canSlotGem": 1,
+    "skinID": 172
   }
 ]

@@ -9332,6 +9332,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenFallenColossus": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenFallenColossus/Deco_Building_ExaltedGreenFallenColossus.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 226,
+        "rx": 835,
+        "ry": 908
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenFireworksSpire": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenFireworksSpire/Deco_Building_ExaltedGreenFireworksSpire.png",
@@ -9602,6 +9617,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenKnightlyFeastCourt": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenKnightlyFeastCourt/Deco_Building_ExaltedGreenKnightlyFeastCourt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 583,
+        "h": 452,
+        "rx": 621,
+        "ry": 829
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenLavaMountainOfWrath": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenLavaMountainOfWrath/Deco_Building_ExaltedGreenLavaMountainOfWrath.png",
@@ -9673,6 +9703,21 @@
         "h": 210,
         "rx": 820,
         "ry": 921
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenLuxuriousMarket": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenLuxuriousMarket/Deco_Building_ExaltedGreenLuxuriousMarket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 577,
+        "h": 421,
+        "rx": 641,
+        "ry": 858
       }
     ],
     "fx": []
@@ -9842,6 +9887,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenShieldKnight": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenShieldKnight/Deco_Building_ExaltedGreenShieldKnight.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 630,
+        "h": 510,
+        "rx": 605,
+        "ry": 788
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenSpookyCrypt": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenSpookyCrypt/Deco_Building_ExaltedGreenSpookyCrypt.png",
@@ -9902,6 +9962,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenSwordKnight": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenSwordKnight/Deco_Building_ExaltedGreenSwordKnight.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 604,
+        "h": 503,
+        "rx": 628,
+        "ry": 795
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenTamingofthewild": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenTamingofthewild/Deco_Building_ExaltedGreenTamingofthewild.png",
@@ -9943,6 +10018,21 @@
         "h": 296,
         "rx": 809,
         "ry": 836
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenWaterfallPavilion": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenWaterfallPavilion/Deco_Building_ExaltedGreenWaterfallPavilion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 564,
+        "h": 434,
+        "rx": 640,
+        "ry": 848
       }
     ],
     "fx": []
@@ -10337,6 +10427,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleFallenColossus": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleFallenColossus/Deco_Building_ExaltedPurpleFallenColossus.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 226,
+        "rx": 835,
+        "ry": 908
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleFireworksSpire": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleFireworksSpire/Deco_Building_ExaltedPurpleFireworksSpire.png",
@@ -10547,6 +10652,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleKnightlyFeastCourt": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleKnightlyFeastCourt/Deco_Building_ExaltedPurpleKnightlyFeastCourt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 583,
+        "h": 452,
+        "rx": 621,
+        "ry": 829
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleLavaMountainOfWrath": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleLavaMountainOfWrath/Deco_Building_ExaltedPurpleLavaMountainOfWrath.png",
@@ -10603,6 +10723,21 @@
         "h": 421,
         "rx": 632,
         "ry": 876
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleLuxuriousMarket": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleLuxuriousMarket/Deco_Building_ExaltedPurpleLuxuriousMarket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 577,
+        "h": 421,
+        "rx": 641,
+        "ry": 858
       }
     ],
     "fx": []
@@ -10742,6 +10877,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleShieldKnight": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleShieldKnight/Deco_Building_ExaltedPurpleShieldKnight.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 630,
+        "h": 510,
+        "rx": 605,
+        "ry": 788
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleSpookyCrypt": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleSpookyCrypt/Deco_Building_ExaltedPurpleSpookyCrypt.png",
@@ -10802,6 +10952,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleSwordKnight": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleSwordKnight/Deco_Building_ExaltedPurpleSwordKnight.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 604,
+        "h": 503,
+        "rx": 628,
+        "ry": 797
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleTamingofthewild": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleTamingofthewild/Deco_Building_ExaltedPurpleTamingofthewild.png",
@@ -10843,6 +11008,21 @@
         "h": 296,
         "rx": 809,
         "ry": 836
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleWaterfallPavilion": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleWaterfallPavilion/Deco_Building_ExaltedPurpleWaterfallPavilion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 564,
+        "h": 435,
+        "rx": 640,
+        "ry": 848
       }
     ],
     "fx": []
@@ -11132,6 +11312,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedFallenColossus": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedFallenColossus/Deco_Building_ExaltedRedFallenColossus.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 226,
+        "rx": 835,
+        "ry": 908
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedFireworksSpire": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedFireworksSpire/Deco_Building_ExaltedRedFireworksSpire.png",
@@ -11357,6 +11552,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedKnightlyFeastCourt": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedKnightlyFeastCourt/Deco_Building_ExaltedRedKnightlyFeastCourt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 583,
+        "h": 452,
+        "rx": 621,
+        "ry": 829
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedLavaMountainOfWrath": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedLavaMountainOfWrath/Deco_Building_ExaltedRedLavaMountainOfWrath.png",
@@ -11413,6 +11623,21 @@
         "h": 421,
         "rx": 632,
         "ry": 876
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedLuxuriousMarket": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedLuxuriousMarket/Deco_Building_ExaltedRedLuxuriousMarket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 577,
+        "h": 421,
+        "rx": 641,
+        "ry": 858
       }
     ],
     "fx": []
@@ -11552,6 +11777,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedShieldKnight": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedShieldKnight/Deco_Building_ExaltedRedShieldKnight.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 630,
+        "h": 510,
+        "rx": 605,
+        "ry": 788
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedSpookyCrypt": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedSpookyCrypt/Deco_Building_ExaltedRedSpookyCrypt.png",
@@ -11612,6 +11852,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedSwordKnight": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedSwordKnight/Deco_Building_ExaltedRedSwordKnight.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 604,
+        "h": 503,
+        "rx": 628,
+        "ry": 795
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedTamingofthewild": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedTamingofthewild/Deco_Building_ExaltedRedTamingofthewild.png",
@@ -11653,6 +11908,21 @@
         "h": 296,
         "rx": 809,
         "ry": 836
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedWaterfallPavilion": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedWaterfallPavilion/Deco_Building_ExaltedRedWaterfallPavilion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 564,
+        "h": 435,
+        "rx": 640,
+        "ry": 848
       }
     ],
     "fx": []
@@ -11848,6 +12118,21 @@
         "h": 295,
         "rx": 842,
         "ry": 835
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_FallenColossus": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_FallenColossus/Deco_Building_FallenColossus.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 267,
+        "h": 226,
+        "rx": 837,
+        "ry": 908
       }
     ],
     "fx": []
@@ -18978,6 +19263,29 @@
       {
         "x": 58,
         "y": 75,
+        "scale": 0.5,
+        "name": "fx_exclamationmark",
+        "rotation": 0
+      }
+    ]
+  },
+  "Event_Building_HorseColossusConstructor": {
+    "pid": 0,
+    "url": "x768/Buildings/Event/Event_Building_HorseColossusConstructor/Event_Building_HorseColossusConstructor.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 191,
+        "rx": 864,
+        "ry": 948
+      }
+    ],
+    "fx": [
+      {
+        "x": 46,
+        "y": 21,
         "scale": 0.5,
         "name": "fx_exclamationmark",
         "rotation": 0
@@ -39269,69 +39577,9 @@
     ],
     "fx": []
   },
-  "Jade_CastlePart_Gate": {
+  "JadeCitadel_1": {
     "pid": 2,
-    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_CastlePart_Gate.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 313,
-        "h": 127,
-        "rx": 1241,
-        "ry": 1167
-      }
-    ],
-    "fx": []
-  },
-  "Jade_CastlePart_Moat": {
-    "pid": 2,
-    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_CastlePart_Moat.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 526,
-        "h": 130,
-        "rx": 1133,
-        "ry": 1192
-      }
-    ],
-    "fx": []
-  },
-  "Jade_CastleParts_BackWall_Left": {
-    "pid": 2,
-    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_CastleParts_BackWall_Left.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 127,
-        "h": 96,
-        "rx": 1180,
-        "ry": 1174
-      }
-    ],
-    "fx": []
-  },
-  "Jade_CastleParts_BackWall_Right": {
-    "pid": 2,
-    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_CastleParts_BackWall_Right.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 90,
-        "h": 96,
-        "rx": 1527,
-        "ry": 1175
-      }
-    ],
-    "fx": []
-  },
-  "Jade_Citadel_1": {
-    "pid": 2,
-    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_Citadel_1.png",
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/JadeCitadel_1.png",
     "frames": [
       {
         "x": 0,
@@ -39344,9 +39592,9 @@
     ],
     "fx": []
   },
-  "Jade_Citadel_2": {
+  "JadeCitadel_2": {
     "pid": 2,
-    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_Citadel_2.png",
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/JadeCitadel_2.png",
     "frames": [
       {
         "x": 0,
@@ -39359,9 +39607,9 @@
     ],
     "fx": []
   },
-  "Jade_Citadel_3": {
+  "JadeCitadel_3": {
     "pid": 2,
-    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_Citadel_3.png",
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/JadeCitadel_3.png",
     "frames": [
       {
         "x": 0,
@@ -39374,9 +39622,9 @@
     ],
     "fx": []
   },
-  "Jade_Citadel_4": {
+  "JadeCitadel_4": {
     "pid": 2,
-    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_Citadel_4.png",
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/JadeCitadel_4.png",
     "frames": [
       {
         "x": 0,
@@ -39389,9 +39637,9 @@
     ],
     "fx": []
   },
-  "Jade_Citadel_5": {
+  "JadeCitadel_5": {
     "pid": 2,
-    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/Jade_Citadel_5.png",
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/JadeCitadel_5.png",
     "frames": [
       {
         "x": 0,
@@ -39400,6 +39648,141 @@
         "h": 253,
         "rx": 1262,
         "ry": 1010
+      }
+    ],
+    "fx": []
+  },
+  "JadeCitadel_CastlePart_Gate": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/JadeCitadel_CastlePart_Gate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 127,
+        "rx": 1241,
+        "ry": 1167
+      }
+    ],
+    "fx": []
+  },
+  "JadeCitadel_CastlePart_Moat": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/JadeCitadel_CastlePart_Moat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 526,
+        "h": 130,
+        "rx": 1133,
+        "ry": 1192
+      }
+    ],
+    "fx": []
+  },
+  "JadeCitadel_CastleParts_BackWall_Left": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/JadeCitadel_CastleParts_BackWall_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 96,
+        "rx": 1180,
+        "ry": 1174
+      }
+    ],
+    "fx": []
+  },
+  "JadeCitadel_CastleParts_BackWall_Right": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_Citadel/JadeCitadel_CastleParts_BackWall_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 96,
+        "rx": 1527,
+        "ry": 1175
+      }
+    ],
+    "fx": []
+  },
+  "JadePalaceFortress_CastlePart_Gate": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_PalaceFortress/JadePalaceFortress_CastlePart_Gate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 298,
+        "h": 145,
+        "rx": 1249,
+        "ry": 1151
+      }
+    ],
+    "fx": []
+  },
+  "JadePalaceFortress_CastlePart_Moat": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_PalaceFortress/JadePalaceFortress_CastlePart_Moat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 526,
+        "h": 130,
+        "rx": 1133,
+        "ry": 1192
+      }
+    ],
+    "fx": []
+  },
+  "JadePalaceFortress_CastleParts_BackWall_Left": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_PalaceFortress/JadePalaceFortress_CastleParts_BackWall_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 102,
+        "rx": 1171,
+        "ry": 1173
+      }
+    ],
+    "fx": []
+  },
+  "JadePalaceFortress_CastleParts_BackWall_Right": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_PalaceFortress/JadePalaceFortress_CastleParts_BackWall_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 158,
+        "h": 101,
+        "rx": 1462,
+        "ry": 1174
+      }
+    ],
+    "fx": []
+  },
+  "JadePalaceFortress_Keep": {
+    "pid": 2,
+    "url": "x768/CastleDetailView/Jade/Jade_DetailView_PalaceFortress/JadePalaceFortress_Keep.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 240,
+        "rx": 1249,
+        "ry": 1061
       }
     ],
     "fx": []
@@ -83525,6 +83908,276 @@
     ],
     "fx": []
   },
+  "items_unique_1593": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1593_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1594": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1594_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1595": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1595_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1596": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1596_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1597": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1597_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1598": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1598_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1600": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1600_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1601": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1601_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1602": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1602_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1603": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1603_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1605": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1605_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1606": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1606_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1607": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1607_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1608": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1608_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1615": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1612_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1614": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1612_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1613": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1612_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1612": {
+    "pid": 1,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1612_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "items_unique_2005": {
     "pid": 0,
     "url": "x768/Equipment/EquipmentShared/items_unique_2004_Shared.png",
@@ -86746,6 +87399,201 @@
         "h": 101,
         "rx": 944,
         "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_526": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_526.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 102,
+        "rx": 957,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_527": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_527.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 93,
+        "rx": 952,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_528": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_528.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 107,
+        "rx": 956,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_529": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_529.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 95,
+        "rx": 949,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_530": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_530.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 103,
+        "rx": 955,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_531": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_531.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 89,
+        "rx": 953,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_532": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_532.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 108,
+        "rx": 954,
+        "ry": 945
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_533": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_533.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 92,
+        "rx": 948,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_534": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_534.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 106,
+        "rx": 956,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_535": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_535.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 90,
+        "rx": 956,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_536": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_536.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 107,
+        "rx": 955,
+        "ry": 945
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_537": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_537.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 96,
+        "rx": 950,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "Item_Gem_Unique_538": {
+    "pid": 1,
+    "url": "x768/Equipment/UniqueGems/Item_Gem_Unique_538.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 103,
+        "rx": 955,
+        "ry": 947
       }
     ],
     "fx": []
@@ -91434,6 +92282,51 @@
         "h": 111,
         "rx": 944,
         "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "Hero_1599": {
+    "pid": 1,
+    "url": "x768/Heroes/Heroes/Hero_1599.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 107,
+        "rx": 949,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "Hero_1604": {
+    "pid": 1,
+    "url": "x768/Heroes/Heroes/Hero_1604.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 107,
+        "rx": 946,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "Hero_1609": {
+    "pid": 1,
+    "url": "x768/Heroes/Heroes/Hero_1609.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 109,
+        "rx": 946,
+        "ry": 946
       }
     ],
     "fx": []
@@ -96134,16 +97027,16 @@
     "fx": []
   },
   "icon_ci_effect_alien": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_alien.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 118,
+        "w": 119,
         "h": 115,
-        "rx": 941,
-        "ry": 943
+        "rx": 940,
+        "ry": 942
       }
     ],
     "fx": []
@@ -96194,7 +97087,7 @@
     "fx": []
   },
   "icon_ci_effect_beefproduction": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_beefproduction.png",
     "frames": [
       {
@@ -96239,7 +97132,7 @@
     "fx": []
   },
   "icon_ci_effect_christmas": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_christmas.png",
     "frames": [
       {
@@ -96254,7 +97147,7 @@
     "fx": []
   },
   "icon_ci_effect_dragonrider": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_dragonrider.png",
     "frames": [
       {
@@ -96269,7 +97162,7 @@
     "fx": []
   },
   "icon_ci_effect_easter": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_easter.png",
     "frames": [
       {
@@ -96359,7 +97252,7 @@
     "fx": []
   },
   "icon_ci_effect_hol": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_hol.png",
     "frames": [
       {
@@ -96374,7 +97267,7 @@
     "fx": []
   },
   "icon_ci_effect_indian": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_indian.png",
     "frames": [
       {
@@ -96404,7 +97297,7 @@
     "fx": []
   },
   "icon_ci_effect_mayan": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_mayan.png",
     "frames": [
       {
@@ -96464,7 +97357,7 @@
     "fx": []
   },
   "icon_ci_effect_newking": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_newking.png",
     "frames": [
       {
@@ -96479,7 +97372,7 @@
     "fx": []
   },
   "icon_ci_effect_nomads": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_nomads.png",
     "frames": [
       {
@@ -96494,7 +97387,7 @@
     "fx": []
   },
   "icon_ci_effect_octoberfest": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_octoberfest.png",
     "frames": [
       {
@@ -96524,7 +97417,7 @@
     "fx": []
   },
   "icon_ci_effect_refinery": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_refinery.png",
     "frames": [
       {
@@ -96539,7 +97432,7 @@
     "fx": []
   },
   "icon_ci_effect_samurai": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_samurai.png",
     "frames": [
       {
@@ -96569,7 +97462,7 @@
     "fx": []
   },
   "icon_ci_effect_stpatrick": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_stpatrick.png",
     "frames": [
       {
@@ -96599,7 +97492,7 @@
     "fx": []
   },
   "icon_ci_effect_toolsmith": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_toolsmith.png",
     "frames": [
       {
@@ -96629,16 +97522,16 @@
     "fx": []
   },
   "icon_ci_effect_venicecarnival": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_venicecarnival.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 90,
-        "h": 116,
+        "w": 91,
+        "h": 117,
         "rx": 954,
-        "ry": 942
+        "ry": 941
       }
     ],
     "fx": []
@@ -97509,6 +98402,36 @@
         "h": 201,
         "rx": 913,
         "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AncientJadeStatuette_xs": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_AncientJadeStatuette_xs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 33,
+        "rx": 985,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AncientJadeStatuette_xxl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_AncientJadeStatuette_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 345,
+        "h": 401,
+        "rx": 827,
+        "ry": 799
       }
     ],
     "fx": []
@@ -98773,9 +99696,9 @@
     ],
     "fx": []
   },
-  "icon_currency_CaravanIngnot_big": {
+  "icon_currency_CaravanIngot_big": {
     "pid": 1,
-    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_big.png",
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngot_big.png",
     "frames": [
       {
         "x": 0,
@@ -98788,9 +99711,9 @@
     ],
     "fx": []
   },
-  "icon_currency_CaravanIngnot_ds_big": {
+  "icon_currency_CaravanIngot_ds_big": {
     "pid": 1,
-    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_ds_big.png",
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngot_ds_big.png",
     "frames": [
       {
         "x": 0,
@@ -98803,9 +99726,9 @@
     ],
     "fx": []
   },
-  "icon_currency_CaravanIngnot_ds_medium": {
+  "icon_currency_CaravanIngot_ds_medium": {
     "pid": 1,
-    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_ds_medium.png",
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngot_ds_medium.png",
     "frames": [
       {
         "x": 0,
@@ -98818,9 +99741,9 @@
     ],
     "fx": []
   },
-  "icon_currency_CaravanIngnot_ds_small": {
+  "icon_currency_CaravanIngot_ds_small": {
     "pid": 1,
-    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_ds_small.png",
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngot_ds_small.png",
     "frames": [
       {
         "x": 0,
@@ -98833,9 +99756,9 @@
     ],
     "fx": []
   },
-  "icon_currency_CaravanIngnot_ds_xl": {
+  "icon_currency_CaravanIngot_ds_xl": {
     "pid": 1,
-    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_ds_xl.png",
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngot_ds_xl.png",
     "frames": [
       {
         "x": 0,
@@ -98848,9 +99771,9 @@
     ],
     "fx": []
   },
-  "icon_currency_CaravanIngnot_ds": {
+  "icon_currency_CaravanIngot_ds": {
     "pid": 1,
-    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_ds.png",
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngot_ds.png",
     "frames": [
       {
         "x": 0,
@@ -98863,9 +99786,9 @@
     ],
     "fx": []
   },
-  "icon_currency_CaravanIngnot_medium": {
+  "icon_currency_CaravanIngot_medium": {
     "pid": 1,
-    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_medium.png",
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngot_medium.png",
     "frames": [
       {
         "x": 0,
@@ -98878,9 +99801,9 @@
     ],
     "fx": []
   },
-  "icon_currency_CaravanIngnot_small": {
+  "icon_currency_CaravanIngot_small": {
     "pid": 1,
-    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_small.png",
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngot_small.png",
     "frames": [
       {
         "x": 0,
@@ -98893,9 +99816,9 @@
     ],
     "fx": []
   },
-  "icon_currency_CaravanIngnot_xl": {
+  "icon_currency_CaravanIngot_xl": {
     "pid": 1,
-    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot_xl.png",
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngot_xl.png",
     "frames": [
       {
         "x": 0,
@@ -98908,9 +99831,9 @@
     ],
     "fx": []
   },
-  "icon_currency_CaravanIngnot": {
+  "icon_currency_CaravanIngot": {
     "pid": 1,
-    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngnot.png",
+    "url": "x768/Icons/CurrencyIcons/icon_currency_CaravanIngot.png",
     "frames": [
       {
         "x": 0,
@@ -106044,6 +106967,21 @@
         "h": 201,
         "rx": 910,
         "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_RestoredJadeStatuette_xxl": {
+    "pid": 1,
+    "url": "x768/Icons/CurrencyIcons/icon_currency_RestoredJadeStatuette_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 355,
+        "h": 401,
+        "rx": 822,
+        "ry": 799
       }
     ],
     "fx": []
@@ -116503,6 +117441,21 @@
     ],
     "fx": []
   },
+  "icon_autoadd_flat": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_autoadd_flat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 83,
+        "rx": 955,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
   "icon_autoskip_costs_big": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_autoskip_costs_big.png",
@@ -119529,6 +120482,21 @@
         "h": 80,
         "rx": 953,
         "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "icon_downgrade": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_downgrade.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 52,
+        "rx": 966,
+        "ry": 974
       }
     ],
     "fx": []
@@ -140953,6 +141921,21 @@
     ],
     "fx": []
   },
+  "icon_greatempire_Jade": {
+    "pid": 2,
+    "url": "x768/Kingdoms/Kingdoms/icon_greatempire_Jade.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 61,
+        "rx": 966,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
   "icon_greatempire_Maya": {
     "pid": 1,
     "url": "x768/Kingdoms/Kingdoms/icon_greatempire_Maya.png",
@@ -140964,6 +141947,21 @@
         "h": 67,
         "rx": 968,
         "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_greatempire_paper_dark_Jade": {
+    "pid": 2,
+    "url": "x768/Kingdoms/Kingdoms/icon_greatempire_paper_dark_Jade.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 91,
+        "rx": 949,
+        "ry": 954
       }
     ],
     "fx": []
@@ -141929,7 +142927,7 @@
     "fx": []
   },
   "icon_message_advisor_nomad": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Kingdoms/KingdomsShared/icon_message_advisor_nomad_Shared.png",
     "frames": [
       {
@@ -141944,7 +142942,7 @@
     "fx": []
   },
   "icon_message_advisor_samurai": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Kingdoms/KingdomsShared/icon_message_advisor_samurai_Shared.png",
     "frames": [
       {
@@ -141959,7 +142957,7 @@
     "fx": []
   },
   "icon_message_special_event_83_6": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Kingdoms/KingdomsShared/icon_message_special_event_83_5_Shared.png",
     "frames": [
       {
@@ -146489,7 +147487,7 @@
     "fx": []
   },
   "teaser_advisor_samurai_activation": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/AdvisorTeasers/teaser_advisor_samurai_activation.png",
     "frames": [
       {
@@ -147344,8 +148342,8 @@
     "fx": []
   },
   "announcement_teaser_134": {
-    "pid": 0,
-    "url": "x768/Misc/EventTeasers/announcement_teaser_134.png",
+    "pid": 1,
+    "url": "x768/Misc/GenericTeasersShared/announcement_teaser_134_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -147458,6 +148456,36 @@
         "w": 1222,
         "h": 413,
         "rx": 388,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_allianceBattleGround_Jade_Trade_Complete": {
+    "pid": 2,
+    "url": "x768/Misc/EventTeasers/teaser_allianceBattleGround_Jade_Trade_Complete.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_allianceBattleGround_Jade_Trade_Failed": {
+    "pid": 2,
+    "url": "x768/Misc/EventTeasers/teaser_allianceBattleGround_Jade_Trade_Failed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
         "ry": 793
       }
     ],
@@ -148364,7 +149392,7 @@
     "fx": []
   },
   "teaser_donation_starter_1": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_donation_starter_1.png",
     "frames": [
       {
@@ -148379,7 +149407,7 @@
     "fx": []
   },
   "teaser_donation_starter_2": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_donation_starter_2.png",
     "frames": [
       {
@@ -148394,7 +149422,7 @@
     "fx": []
   },
   "teaser_donation_starter_3": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_donation_starter_3.png",
     "frames": [
       {
@@ -148439,13 +149467,13 @@
     "fx": []
   },
   "teaser_event_christmas": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_event_christmas.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 439,
+        "w": 437,
         "h": 257,
         "rx": 781,
         "ry": 871
@@ -148454,7 +149482,7 @@
     "fx": []
   },
   "teaser_event_dragonriders": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_event_dragonriders.png",
     "frames": [
       {
@@ -148484,7 +149512,7 @@
     "fx": []
   },
   "teaser_event_mayan": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_event_mayan.png",
     "frames": [
       {
@@ -148559,7 +149587,7 @@
     "fx": []
   },
   "teaser_event_pirates": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_event_pirates.png",
     "frames": [
       {
@@ -148724,7 +149752,7 @@
     "fx": []
   },
   "teaser_island_end": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_island_end.png",
     "frames": [
       {
@@ -148739,7 +149767,7 @@
     "fx": []
   },
   "teaser_island_introduction": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_island_introduction.png",
     "frames": [
       {
@@ -148754,7 +149782,7 @@
     "fx": []
   },
   "teaser_island_overview": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_island_overview.png",
     "frames": [
       {
@@ -148769,7 +149797,7 @@
     "fx": []
   },
   "teaser_island_starter_1": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_island_starter_1.png",
     "frames": [
       {
@@ -148784,7 +149812,7 @@
     "fx": []
   },
   "teaser_island_starter_2": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_island_starter_2.png",
     "frames": [
       {
@@ -148799,7 +149827,7 @@
     "fx": []
   },
   "teaser_island_starter_3": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_island_starter_3.png",
     "frames": [
       {
@@ -148814,7 +149842,7 @@
     "fx": []
   },
   "teaser_island_title_lost": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_island_title_lost.png",
     "frames": [
       {
@@ -148837,6 +149865,21 @@
         "y": 0,
         "w": 1209,
         "h": 542,
+        "rx": 395,
+        "ry": 729
+      }
+    ],
+    "fx": []
+  },
+  "teaser_questbook_allianceBattleGround_AllianceJade_Jade": {
+    "pid": 2,
+    "url": "x768/Misc/EventTeasers/teaser_questbook_allianceBattleGround_AllianceJade_Jade.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1209,
+        "h": 541,
         "rx": 395,
         "ry": 729
       }
@@ -148919,7 +149962,7 @@
     "fx": []
   },
   "teaser_seaqueen_splash": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_seaqueen_splash.png",
     "frames": [
       {
@@ -149174,7 +150217,7 @@
     "fx": []
   },
   "teaser_stormisland_splash": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_stormisland_splash.png",
     "frames": [
       {
@@ -149234,7 +150277,7 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_1_collector": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_1_collector.png",
     "frames": [
       {
@@ -149249,7 +150292,7 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_1_rankSwap": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_1_rankSwap.png",
     "frames": [
       {
@@ -149264,7 +150307,7 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_1": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_1.png",
     "frames": [
       {
@@ -149279,7 +150322,7 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_3_collector": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_3_collector.png",
     "frames": [
       {
@@ -149294,7 +150337,7 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_3_rankSwap": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_3_rankSwap.png",
     "frames": [
       {
@@ -149309,7 +150352,7 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_3": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_3.png",
     "frames": [
       {
@@ -149324,7 +150367,7 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_end_collector": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_end_collector.png",
     "frames": [
       {
@@ -149339,37 +150382,37 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_end_rankSwap": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_end_rankSwap.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 1221,
+        "w": 1219,
         "h": 413,
-        "rx": 389,
+        "rx": 390,
         "ry": 793
       }
     ],
     "fx": []
   },
   "teaser_tempserver_crossplay_end": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_end.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 1221,
+        "w": 1219,
         "h": 413,
-        "rx": 389,
+        "rx": 390,
         "ry": 793
       }
     ],
     "fx": []
   },
   "teaser_tempserver_crossplay_introduction_castleTransport": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_introduction_castleTransport.png",
     "frames": [
       {
@@ -149384,7 +150427,7 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_introduction_rankSwap": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_introduction_rankSwap.png",
     "frames": [
       {
@@ -149399,7 +150442,7 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_introduction": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_introduction.png",
     "frames": [
       {
@@ -149414,37 +150457,37 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_overview_collector": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_overview_collector.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
         "w": 759,
-        "h": 442,
+        "h": 443,
         "rx": 620,
-        "ry": 779
+        "ry": 778
       }
     ],
     "fx": []
   },
   "teaser_tempserver_crossplay_overview_rankSwap": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_overview_rankSwap.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 759,
+        "w": 758,
         "h": 441,
-        "rx": 620,
+        "rx": 621,
         "ry": 779
       }
     ],
     "fx": []
   },
   "teaser_tempserver_crossplay_overview": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_overview.png",
     "frames": [
       {
@@ -149459,7 +150502,7 @@
     "fx": []
   },
   "teaser_tempserver_end": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_end.png",
     "frames": [
       {
@@ -149474,7 +150517,7 @@
     "fx": []
   },
   "teaser_tempserver_introduction_castleTransport": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_introduction_castleTransport.png",
     "frames": [
       {
@@ -149489,7 +150532,7 @@
     "fx": []
   },
   "teaser_tempserver_introduction": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_introduction.png",
     "frames": [
       {
@@ -149504,7 +150547,7 @@
     "fx": []
   },
   "teaser_tempserver_overview_charge": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_overview_charge.png",
     "frames": [
       {
@@ -149519,7 +150562,7 @@
     "fx": []
   },
   "teaser_tempserver_overview": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_overview.png",
     "frames": [
       {
@@ -149534,7 +150577,7 @@
     "fx": []
   },
   "teaser_tempserver_rankup": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_rankup.png",
     "frames": [
       {
@@ -149549,7 +150592,7 @@
     "fx": []
   },
   "teaser_tempserver_scoring_charge": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_scoring_charge.png",
     "frames": [
       {
@@ -149564,7 +150607,7 @@
     "fx": []
   },
   "teaser_tempserver_scoring_collector": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_scoring_collector.png",
     "frames": [
       {
@@ -149579,7 +150622,7 @@
     "fx": []
   },
   "teaser_tempserver_scoring_might": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_scoring_might.png",
     "frames": [
       {
@@ -149594,7 +150637,7 @@
     "fx": []
   },
   "teaser_tempserver_scoring_rankSwap": {
-    "pid": 2,
+    "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_scoring_rankSwap.png",
     "frames": [
       {
@@ -150208,51 +151251,6 @@
     ],
     "fx": []
   },
-  "teaser_minigame_level_1": {
-    "pid": 0,
-    "url": "x768/Misc/GenericTeasers/teaser_minigame_level_1.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 429,
-        "h": 241,
-        "rx": 785,
-        "ry": 879
-      }
-    ],
-    "fx": []
-  },
-  "teaser_minigame_level_2": {
-    "pid": 0,
-    "url": "x768/Misc/GenericTeasers/teaser_minigame_level_2.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 429,
-        "h": 241,
-        "rx": 785,
-        "ry": 879
-      }
-    ],
-    "fx": []
-  },
-  "teaser_minigame_level_3": {
-    "pid": 0,
-    "url": "x768/Misc/GenericTeasers/teaser_minigame_level_3.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 429,
-        "h": 241,
-        "rx": 785,
-        "ry": 879
-      }
-    ],
-    "fx": []
-  },
   "teaser_samurai_bgmap": {
     "pid": 1,
     "url": "x768/Misc/GenericTeasers/teaser_samurai_bgmap.png",
@@ -150434,7 +151432,7 @@
     "fx": []
   },
   "teaser_crossplay_starter": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/GenericTeasersShared/announcement_teaser_106_Shared.png",
     "frames": [
       {
@@ -150449,7 +151447,7 @@
     "fx": []
   },
   "announcement_teaser_106": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/GenericTeasersShared/announcement_teaser_106_Shared.png",
     "frames": [
       {
@@ -150464,7 +151462,7 @@
     "fx": []
   },
   "announcement_teaser_123": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/Misc/GenericTeasersShared/announcement_teaser_123_Shared.png",
     "frames": [
       {
@@ -151333,17 +152331,17 @@
     ],
     "fx": []
   },
-  "global_primetime_background_Anniversary2024": {
+  "global_primetime_background_BlackFriday2024": {
     "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Anniversary2024.png",
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_BlackFriday2024.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 1536,
-        "h": 1733,
-        "rx": 230,
-        "ry": 133
+        "w": 1302,
+        "h": 1760,
+        "rx": 349,
+        "ry": 120
       }
     ],
     "fx": []
@@ -151393,16 +152391,16 @@
     ],
     "fx": []
   },
-  "global_primetime_background_Oktoberfest2024": {
+  "global_primetime_background_SinglesDays2024": {
     "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Oktoberfest2024.png",
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_SinglesDays2024.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
         "w": 1536,
         "h": 1731,
-        "rx": 230,
+        "rx": 231,
         "ry": 134
       }
     ],
@@ -151453,9 +152451,9 @@
     ],
     "fx": []
   },
-  "global_primetime_hub_teaser_Anniversary2024": {
+  "global_primetime_hub_teaser_BlackFriday2024": {
     "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Anniversary2024.png",
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_BlackFriday2024.png",
     "frames": [
       {
         "x": 0,
@@ -151498,9 +152496,9 @@
     ],
     "fx": []
   },
-  "global_primetime_hub_teaser_Oktoberfest2024": {
+  "global_primetime_hub_teaser_SinglesDay2024": {
     "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Oktoberfest2024.png",
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_SinglesDay2024.png",
     "frames": [
       {
         "x": 0,
@@ -151558,17 +152556,32 @@
     ],
     "fx": []
   },
-  "global_primetime_teaser_Anniversary2024": {
+  "global_primetime_teaser_BlackFriday2024": {
     "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Anniversary2024.png",
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_BlackFriday2024.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 1301,
-        "h": 1171,
-        "rx": 349,
-        "ry": 414
+        "w": 1502,
+        "h": 1416,
+        "rx": 248,
+        "ry": 299
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_BlackFriday2024Front": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_BlackFriday2024Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 240,
+        "rx": 231,
+        "ry": 860
       }
     ],
     "fx": []
@@ -151633,9 +152646,9 @@
     ],
     "fx": []
   },
-  "global_primetime_teaser_Oktoberfest2024": {
+  "global_primetime_teaser_SinglesDay2024": {
     "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Oktoberfest2024.png",
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SinglesDay2024.png",
     "frames": [
       {
         "x": 0,
@@ -152548,9 +153561,9 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_16": {
+  "Teaser_OffersHub_Big_WhaleChest_17": {
     "pid": 1,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_16.png",
+    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_17.png",
     "frames": [
       {
         "x": 0,
@@ -160162,7 +161175,7 @@
     "fx": []
   },
   "bottomBox_AutumnBox2022": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_AutumnBox2022.png",
     "frames": [
       {
@@ -160177,7 +161190,7 @@
     "fx": []
   },
   "bottomBox_HoL8BoxBig": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_HoL8BoxBig.png",
     "frames": [
       {
@@ -160192,7 +161205,7 @@
     "fx": []
   },
   "bottomBox_HoL8BoxLittle": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_HoL8BoxLittle.png",
     "frames": [
       {
@@ -160207,7 +161220,7 @@
     "fx": []
   },
   "bottomBox_MysteryBoxBronze": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_MysteryBoxBronze.png",
     "frames": [
       {
@@ -160222,7 +161235,7 @@
     "fx": []
   },
   "bottomBox_MysteryBoxGold": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_MysteryBoxGold.png",
     "frames": [
       {
@@ -160237,7 +161250,7 @@
     "fx": []
   },
   "bottomBox_MysteryBoxSilver": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_MysteryBoxSilver.png",
     "frames": [
       {
@@ -160252,7 +161265,7 @@
     "fx": []
   },
   "bottomBox_SalesBox2022": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_SalesBox2022.png",
     "frames": [
       {
@@ -160282,7 +161295,7 @@
     "fx": []
   },
   "bottomBox_SpringBox2023": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_SpringBox2023.png",
     "frames": [
       {
@@ -160297,7 +161310,7 @@
     "fx": []
   },
   "bottomBox_SummerBox2022": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_SummerBox2022.png",
     "frames": [
       {
@@ -160312,7 +161325,7 @@
     "fx": []
   },
   "bottomBox_WinterBox2022": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_WinterBox2022.png",
     "frames": [
       {
@@ -160327,7 +161340,7 @@
     "fx": []
   },
   "box_pedestal_1": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/box_pedestal_1.png",
     "frames": [
       {
@@ -160342,7 +161355,7 @@
     "fx": []
   },
   "box_pedestal_2": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/box_pedestal_2.png",
     "frames": [
       {
@@ -160357,7 +161370,7 @@
     "fx": []
   },
   "box_pedestal_3": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/box_pedestal_3.png",
     "frames": [
       {
@@ -160372,7 +161385,7 @@
     "fx": []
   },
   "box_pedestal_4": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/box_pedestal_4.png",
     "frames": [
       {
@@ -160522,7 +161535,7 @@
     "fx": []
   },
   "loot_box_AutumnBox2022_small": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_AutumnBox2022_small.png",
     "frames": [
       {
@@ -160537,7 +161550,7 @@
     "fx": []
   },
   "loot_box_AutumnBox2022_xs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_AutumnBox2022_xs.png",
     "frames": [
       {
@@ -160552,7 +161565,7 @@
     "fx": []
   },
   "loot_box_AutumnBox2022": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_AutumnBox2022.png",
     "frames": [
       {
@@ -160567,7 +161580,7 @@
     "fx": []
   },
   "loot_box_HoL8BoxBig_small": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_HoL8BoxBig_small.png",
     "frames": [
       {
@@ -160582,7 +161595,7 @@
     "fx": []
   },
   "loot_box_HoL8BoxBig_xs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_HoL8BoxBig_xs.png",
     "frames": [
       {
@@ -160597,7 +161610,7 @@
     "fx": []
   },
   "loot_box_HoL8BoxBig": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_HoL8BoxBig.png",
     "frames": [
       {
@@ -160612,7 +161625,7 @@
     "fx": []
   },
   "loot_box_HoL8BoxLittle_small": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_HoL8BoxLittle_small.png",
     "frames": [
       {
@@ -160627,7 +161640,7 @@
     "fx": []
   },
   "loot_box_HoL8BoxLittle_xs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_HoL8BoxLittle_xs.png",
     "frames": [
       {
@@ -160642,7 +161655,7 @@
     "fx": []
   },
   "loot_box_HoL8BoxLittle": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_HoL8BoxLittle.png",
     "frames": [
       {
@@ -160657,7 +161670,7 @@
     "fx": []
   },
   "loot_box_MysteryBoxBronze_small": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_MysteryBoxBronze_small.png",
     "frames": [
       {
@@ -160665,14 +161678,14 @@
         "y": 0,
         "w": 198,
         "h": 171,
-        "rx": 900,
+        "rx": 899,
         "ry": 914
       }
     ],
     "fx": []
   },
   "loot_box_MysteryBoxBronze_xs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_MysteryBoxBronze_xs.png",
     "frames": [
       {
@@ -160687,7 +161700,7 @@
     "fx": []
   },
   "loot_box_MysteryBoxBronze": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_MysteryBoxBronze.png",
     "frames": [
       {
@@ -160702,7 +161715,7 @@
     "fx": []
   },
   "loot_box_MysteryBoxGold_small": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_MysteryBoxGold_small.png",
     "frames": [
       {
@@ -160710,14 +161723,14 @@
         "y": 0,
         "w": 198,
         "h": 171,
-        "rx": 900,
+        "rx": 899,
         "ry": 914
       }
     ],
     "fx": []
   },
   "loot_box_MysteryBoxGold_xs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_MysteryBoxGold_xs.png",
     "frames": [
       {
@@ -160732,7 +161745,7 @@
     "fx": []
   },
   "loot_box_MysteryBoxGold": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_MysteryBoxGold.png",
     "frames": [
       {
@@ -160747,7 +161760,7 @@
     "fx": []
   },
   "loot_box_MysteryBoxSilver_small": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_MysteryBoxSilver_small.png",
     "frames": [
       {
@@ -160762,7 +161775,7 @@
     "fx": []
   },
   "loot_box_MysteryBoxSilver_xs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_MysteryBoxSilver_xs.png",
     "frames": [
       {
@@ -160777,7 +161790,7 @@
     "fx": []
   },
   "loot_box_MysteryBoxSilver": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_MysteryBoxSilver.png",
     "frames": [
       {
@@ -160972,7 +161985,7 @@
     "fx": []
   },
   "loot_box_SalesBox2022_small": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SalesBox2022_small.png",
     "frames": [
       {
@@ -160987,7 +162000,7 @@
     "fx": []
   },
   "loot_box_SalesBox2022_xs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SalesBox2022_xs.png",
     "frames": [
       {
@@ -161002,7 +162015,7 @@
     "fx": []
   },
   "loot_box_SalesBox2022": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SalesBox2022.png",
     "frames": [
       {
@@ -161017,22 +162030,22 @@
     "fx": []
   },
   "loot_box_SpringBox2023_small": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SpringBox2023_small.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 205,
+        "w": 204,
         "h": 174,
-        "rx": 896,
+        "rx": 897,
         "ry": 912
       }
     ],
     "fx": []
   },
   "loot_box_SpringBox2023_xs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SpringBox2023_xs.png",
     "frames": [
       {
@@ -161047,7 +162060,7 @@
     "fx": []
   },
   "loot_box_SpringBox2023": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SpringBox2023.png",
     "frames": [
       {
@@ -161062,22 +162075,22 @@
     "fx": []
   },
   "loot_box_SummerBox2022_small": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SummerBox2022_small.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 204,
+        "w": 205,
         "h": 168,
-        "rx": 897,
+        "rx": 896,
         "ry": 916
       }
     ],
     "fx": []
   },
   "loot_box_SummerBox2022_xs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SummerBox2022_xs.png",
     "frames": [
       {
@@ -161092,7 +162105,7 @@
     "fx": []
   },
   "loot_box_SummerBox2022": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SummerBox2022.png",
     "frames": [
       {
@@ -161107,7 +162120,7 @@
     "fx": []
   },
   "loot_box_WinterBox2022_small": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_WinterBox2022_small.png",
     "frames": [
       {
@@ -161122,30 +162135,30 @@
     "fx": []
   },
   "loot_box_WinterBox2022_xs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_WinterBox2022_xs.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 152,
-        "h": 129,
-        "rx": 922,
+        "w": 153,
+        "h": 130,
+        "rx": 921,
         "ry": 935
       }
     ],
     "fx": []
   },
   "loot_box_WinterBox2022": {
-    "pid": 0,
+    "pid": 1,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_WinterBox2022.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 247,
+        "w": 248,
         "h": 210,
-        "rx": 873,
+        "rx": 872,
         "ry": 895
       }
     ],
@@ -168843,6 +169856,111 @@
     ],
     "fx": []
   },
+  "Eventunit_Unit_BtHGatherer": {
+    "pid": 1,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_BtHGatherer.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 201,
+        "rx": 922,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_BthMeleeAttacker": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_BthMeleeAttacker.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 171,
+        "h": 201,
+        "rx": 914,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_BthMeleeDefender": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_BthMeleeDefender.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 171,
+        "h": 199,
+        "rx": 914,
+        "ry": 901
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_BthNPCMeleeDefender": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_BthNPCMeleeDefender.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 197,
+        "rx": 915,
+        "ry": 903
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_BthNPCRangeDefender": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_BthNPCRangeDefender.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 201,
+        "rx": 919,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_BthRangeAttacker": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_BthRangeAttacker.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 197,
+        "rx": 917,
+        "ry": 907
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_BthRangeDefender": {
+    "pid": 2,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_BthRangeDefender.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 171,
+        "h": 201,
+        "rx": 914,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
   "Eventunit_Unit_CaskMarksmann": {
     "pid": 0,
     "url": "x768/Units/UnitAssets/Eventunit_Unit_CaskMarksmann.png",
@@ -175349,6 +176467,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_LuxuriousMarket": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_LuxuriousMarket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 68,
+        "rx": 1001,
+        "ry": 991
+      }
+    ],
+    "fx": [
+      {
+        "x": 22,
+        "y": -6,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_MayaInsignia": {
     "pid": 2,
     "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_MayaInsignia.png",
@@ -177971,6 +179112,111 @@
     ],
     "fx": []
   },
+  "JadeOasis_Cooldown": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Events/JadeOasis_Cooldown/JadeOasis_Cooldown.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 74,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "JadeOasis_Mapobject": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Events/JadeOasis_Mapobjects/JadeOasis_Mapobject.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 74,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "JadePalaceFortress_FlamesLayer": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Events/JadePalaceFortress_Mapobjects/JadePalaceFortress_FlamesLayer.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 91,
+        "rx": 1013,
+        "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "JadePalaceFortress_Mapobjects": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Events/JadePalaceFortress_Mapobjects/JadePalaceFortress_Mapobjects.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 95,
+        "rx": 983,
+        "ry": 995
+      }
+    ],
+    "fx": []
+  },
+  "JadePalaceFortress_Resource_RawJadeite": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Events/JadePalaceFortress_Mapobjects/JadePalaceFortress_Resource_RawJadeite.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 91,
+        "rx": 986,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "JadePalaceFortress_Resource_RawSilk": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Events/JadePalaceFortress_Mapobjects/JadePalaceFortress_Resource_RawSilk.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 90,
+        "rx": 990,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "JadePalaceFortress_Resource_Varnish": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Events/JadePalaceFortress_Mapobjects/JadePalaceFortress_Resource_Varnish.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 88,
+        "rx": 992,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Nomad_Mapobject": {
     "pid": 1,
     "url": "x768/WorldmapObjects/Events/NomadInvasion_Mapobject/Nomad_Mapobject.png",
@@ -179776,6 +181022,29 @@
       {
         "x": -2,
         "y": -16,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Castle_Mapobject_Capital_Classic_Special_LuxuriousMarket": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_LuxuriousMarket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 135,
+        "rx": 973,
+        "ry": 949
+      }
+    ],
+    "fx": [
+      {
+        "x": 61,
+        "y": -18,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -182232,6 +183501,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_LuxuriousMarket": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_LuxuriousMarket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 104,
+        "rx": 988,
+        "ry": 972
+      }
+    ],
+    "fx": [
+      {
+        "x": 6,
+        "y": -3,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_MayaInsignia": {
     "pid": 2,
     "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_MayaInsignia.png",
@@ -184453,6 +185745,29 @@
       {
         "x": 27,
         "y": 8,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_LuxuriousMarket": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_LuxuriousMarket/Outpost_Mapobject_Level_Special_LuxuriousMarket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 50,
+        "rx": 1013,
+        "ry": 997
+      }
+    ],
+    "fx": [
+      {
+        "x": 35,
+        "y": -1,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -187024,6 +188339,21 @@
         "h": 124,
         "rx": 973,
         "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_LuxuriousMarket": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_LuxuriousMarket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 139,
+        "rx": 974,
+        "ry": 953
       }
     ],
     "fx": []
