@@ -574,50 +574,6 @@
     "effects": "78&amp;20"
   },
   {
-    "titleID": 114,
-    "crossplayID": 114,
-    "previousTitleID": 123,
-    "type": "FACTION",
-    "topX": 100,
-    "decay": 7,
-    "displayType": "prefix",
-    "mightValue": 100000,
-    "effects": "54&amp;70"
-  },
-  {
-    "titleID": 115,
-    "crossplayID": 115,
-    "previousTitleID": 124,
-    "type": "FACTION",
-    "topX": 50,
-    "decay": 7,
-    "displayType": "prefix",
-    "mightValue": 135000,
-    "effects": "504&amp;20"
-  },
-  {
-    "titleID": 116,
-    "crossplayID": 116,
-    "previousTitleID": 125,
-    "type": "FACTION",
-    "topX": 20,
-    "decay": 7,
-    "displayType": "prefix",
-    "mightValue": 175000,
-    "effects": "46&amp;508"
-  },
-  {
-    "titleID": 117,
-    "crossplayID": 117,
-    "previousTitleID": 126,
-    "type": "FACTION",
-    "topX": 1,
-    "decay": 7,
-    "displayType": "prefix",
-    "mightValue": 250000,
-    "effects": "539&amp;800"
-  },
-  {
     "titleID": 118,
     "crossplayID": 118,
     "previousTitleID": 113,
@@ -684,6 +640,17 @@
     "effects": "375&amp;15"
   },
   {
+    "titleID": 114,
+    "crossplayID": 114,
+    "previousTitleID": 123,
+    "type": "FACTION",
+    "topX": 100,
+    "decay": 7,
+    "displayType": "prefix",
+    "mightValue": 100000,
+    "effects": "54&amp;70"
+  },
+  {
     "titleID": 124,
     "crossplayID": 124,
     "previousTitleID": 114,
@@ -693,6 +660,17 @@
     "displayType": "prefix",
     "mightValue": 135000,
     "effects": "504&amp;10"
+  },
+  {
+    "titleID": 115,
+    "crossplayID": 115,
+    "previousTitleID": 124,
+    "type": "FACTION",
+    "topX": 50,
+    "decay": 7,
+    "displayType": "prefix",
+    "mightValue": 135000,
+    "effects": "504&amp;20"
   },
   {
     "titleID": 125,
@@ -706,6 +684,17 @@
     "effects": "503&amp;50"
   },
   {
+    "titleID": 116,
+    "crossplayID": 116,
+    "previousTitleID": 125,
+    "type": "FACTION",
+    "topX": 20,
+    "decay": 7,
+    "displayType": "prefix",
+    "mightValue": 175000,
+    "effects": "46&amp;508"
+  },
+  {
     "titleID": 126,
     "crossplayID": 126,
     "previousTitleID": 116,
@@ -715,5 +704,16 @@
     "displayType": "prefix",
     "mightValue": 250000,
     "effects": "46&amp;507"
+  },
+  {
+    "titleID": 117,
+    "crossplayID": 117,
+    "previousTitleID": 126,
+    "type": "FACTION",
+    "topX": 1,
+    "decay": 7,
+    "displayType": "prefix",
+    "mightValue": 250000,
+    "effects": "539&amp;800"
   }
 ]

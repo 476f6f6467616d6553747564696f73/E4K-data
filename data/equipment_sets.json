@@ -5049,5 +5049,197 @@
     "setID": 1102,
     "neededItems": 9,
     "effects": "276&amp;90000"
+  },
+  {
+    "ID": 684,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Bronze Set",
+    "setID": 1103,
+    "neededItems": 2,
+    "effects": "453&amp;1000"
+  },
+  {
+    "ID": 685,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Bronze Set",
+    "setID": 1103,
+    "neededItems": 3,
+    "effects": "459&amp;125"
+  },
+  {
+    "ID": 686,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Bronze Set",
+    "setID": 1103,
+    "neededItems": 4,
+    "effects": "461&amp;150"
+  },
+  {
+    "ID": 687,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Bronze Set",
+    "setID": 1103,
+    "neededItems": 5,
+    "effects": "458&amp;1500"
+  },
+  {
+    "ID": 688,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Bronze Set",
+    "setID": 1103,
+    "neededItems": 6,
+    "effects": "455&amp;1+150,456&amp;13+150"
+  },
+  {
+    "ID": 689,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Bronze Set",
+    "setID": 1103,
+    "neededItems": 7,
+    "effects": "460&amp;125"
+  },
+  {
+    "ID": 690,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Bronze Set",
+    "setID": 1103,
+    "neededItems": 8,
+    "effects": "457&amp;5"
+  },
+  {
+    "ID": 691,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Bronze Set",
+    "setID": 1103,
+    "neededItems": 9,
+    "effects": "454&amp;1"
+  },
+  {
+    "ID": 692,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Silver Set",
+    "setID": 1104,
+    "neededItems": 2,
+    "effects": "453&amp;1250"
+  },
+  {
+    "ID": 693,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Silver Set",
+    "setID": 1104,
+    "neededItems": 3,
+    "effects": "459&amp;150"
+  },
+  {
+    "ID": 694,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Silver Set",
+    "setID": 1104,
+    "neededItems": 4,
+    "effects": "461&amp;200"
+  },
+  {
+    "ID": 695,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Silver Set",
+    "setID": 1104,
+    "neededItems": 5,
+    "effects": "458&amp;2000"
+  },
+  {
+    "ID": 696,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Silver Set",
+    "setID": 1104,
+    "neededItems": 6,
+    "effects": "455&amp;1+200,456&amp;13+200"
+  },
+  {
+    "ID": 697,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Silver Set",
+    "setID": 1104,
+    "neededItems": 7,
+    "effects": "460&amp;150"
+  },
+  {
+    "ID": 698,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Silver Set",
+    "setID": 1104,
+    "neededItems": 8,
+    "effects": "457&amp;10"
+  },
+  {
+    "ID": 699,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Silver Set",
+    "setID": 1104,
+    "neededItems": 9,
+    "effects": "454&amp;2"
+  },
+  {
+    "ID": 700,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Gold Set",
+    "setID": 1105,
+    "neededItems": 2,
+    "effects": "453&amp;1500"
+  },
+  {
+    "ID": 701,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Gold Set",
+    "setID": 1105,
+    "neededItems": 3,
+    "effects": "459&amp;175"
+  },
+  {
+    "ID": 702,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Gold Set",
+    "setID": 1105,
+    "neededItems": 4,
+    "effects": "461&amp;350"
+  },
+  {
+    "ID": 703,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Gold Set",
+    "setID": 1105,
+    "neededItems": 5,
+    "effects": "458&amp;3500"
+  },
+  {
+    "ID": 704,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Gold Set",
+    "setID": 1105,
+    "neededItems": 6,
+    "effects": "455&amp;1+350,456&amp;13+350"
+  },
+  {
+    "ID": 705,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Gold Set",
+    "setID": 1105,
+    "neededItems": 7,
+    "effects": "460&amp;175"
+  },
+  {
+    "ID": 706,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Gold Set",
+    "setID": 1105,
+    "neededItems": 8,
+    "effects": "457&amp;15"
+  },
+  {
+    "ID": 707,
+    "comment1": "Black Friday Sales 2026",
+    "comment2": "PvE Commander - Gold Set",
+    "setID": 1105,
+    "neededItems": 9,
+    "effects": "454&amp;3"
   }
 ]

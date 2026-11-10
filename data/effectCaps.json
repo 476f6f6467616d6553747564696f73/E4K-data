@@ -1262,6 +1262,36 @@
     "maxTotalBonus": 15
   },
   {
+    "capID": 2014,
+    "crossplayID": 2014,
+    "maxTotalBonus": 75
+  },
+  {
+    "capID": 2015,
+    "crossplayID": 2015,
+    "maxTotalBonus": 1500
+  },
+  {
+    "capID": 2016,
+    "crossplayID": 2016,
+    "maxTotalBonus": 3500
+  },
+  {
+    "capID": 2017,
+    "crossplayID": 2017,
+    "maxTotalBonus": 175
+  },
+  {
+    "capID": 2018,
+    "crossplayID": 2018,
+    "maxTotalBonus": 175
+  },
+  {
+    "capID": 2019,
+    "crossplayID": 2019,
+    "maxTotalBonus": 350
+  },
+  {
     "capID": 2100,
     "crossplayID": 2100,
     "maxTotalBonus": 420

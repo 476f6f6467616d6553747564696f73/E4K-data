@@ -74244,6 +74244,16 @@
     "minLevel": 70
   },
   {
+    "packageID": 5807,
+    "packageType": "currency",
+    "comment1": "Gacha Recycling",
+    "comment2": "Offering Shard -&gt; Black Friday Gacha",
+    "costOfferingShard": 230000,
+    "addMerchantsKey": 100,
+    "relationIDs": "999,423",
+    "minLevel": 70
+  },
+  {
     "packageID": 5290,
     "packageType": "currency",
     "comment1": "Gacha Recycling",

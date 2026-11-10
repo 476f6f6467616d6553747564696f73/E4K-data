@@ -2445,6 +2445,174 @@
     "name": "newPVPAttackBonusUnitBeef"
   },
   {
+    "equipmentEffectID": 438,
+    "crossplayID": 438,
+    "effectID": 540,
+    "wearerID": 2,
+    "name": "newPVEOffensiveMeleeBonus"
+  },
+  {
+    "equipmentEffectID": 439,
+    "crossplayID": 439,
+    "effectID": 541,
+    "wearerID": 2,
+    "name": "newPVEOffensiveRangeBonus"
+  },
+  {
+    "equipmentEffectID": 440,
+    "crossplayID": 440,
+    "effectID": 542,
+    "wearerID": 2,
+    "name": "newPVEWallReduction"
+  },
+  {
+    "equipmentEffectID": 441,
+    "crossplayID": 441,
+    "effectID": 543,
+    "wearerID": 2,
+    "name": "newPVEGateReduction"
+  },
+  {
+    "equipmentEffectID": 442,
+    "crossplayID": 442,
+    "effectID": 544,
+    "wearerID": 2,
+    "name": "newPVEMoatReduction"
+  },
+  {
+    "equipmentEffectID": 443,
+    "crossplayID": 443,
+    "effectID": 545,
+    "wearerID": 2,
+    "name": "newPVESpeedBonus"
+  },
+  {
+    "equipmentEffectID": 444,
+    "crossplayID": 444,
+    "effectID": 546,
+    "wearerID": 2,
+    "name": "newPVELootBonus"
+  },
+  {
+    "equipmentEffectID": 445,
+    "crossplayID": 445,
+    "effectID": 547,
+    "wearerID": 2,
+    "name": "newPVEAttackUnitAmountFlank"
+  },
+  {
+    "equipmentEffectID": 446,
+    "crossplayID": 446,
+    "effectID": 548,
+    "wearerID": 2,
+    "name": "newPVEAttackBoostYard"
+  },
+  {
+    "equipmentEffectID": 447,
+    "crossplayID": 447,
+    "effectID": 549,
+    "wearerID": 2,
+    "name": "newPVEAttackUnitAmountFront"
+  },
+  {
+    "equipmentEffectID": 448,
+    "crossplayID": 448,
+    "effectID": 550,
+    "wearerID": 2,
+    "name": "newPVEAttackBonus"
+  },
+  {
+    "equipmentEffectID": 449,
+    "crossplayID": 449,
+    "effectID": 551,
+    "wearerID": 2,
+    "name": "newPVEAttackBoostFront"
+  },
+  {
+    "equipmentEffectID": 450,
+    "crossplayID": 450,
+    "effectID": 552,
+    "wearerID": 2,
+    "name": "newPVEAttackBoostFlank"
+  },
+  {
+    "equipmentEffectID": 451,
+    "crossplayID": 451,
+    "effectID": 553,
+    "wearerID": 2,
+    "name": "newPVEAttackSupportUnits"
+  },
+  {
+    "equipmentEffectID": 452,
+    "crossplayID": 452,
+    "effectID": 554,
+    "wearerID": 2,
+    "name": "newPVEReturnTravelBoost"
+  },
+  {
+    "equipmentEffectID": 453,
+    "crossplayID": 453,
+    "effectID": 555,
+    "wearerID": 2,
+    "name": "newPVEattackUnitAmountReinforcementBonus"
+  },
+  {
+    "equipmentEffectID": 454,
+    "crossplayID": 454,
+    "effectID": 556,
+    "wearerID": 2,
+    "name": "newPVEAdditionalWaves"
+  },
+  {
+    "equipmentEffectID": 455,
+    "crossplayID": 455,
+    "effectID": 557,
+    "wearerID": 2,
+    "name": "newPVEKhanTabletLootBoost"
+  },
+  {
+    "equipmentEffectID": 456,
+    "crossplayID": 456,
+    "effectID": 558,
+    "wearerID": 2,
+    "name": "newPVESamuraiMedalLootBoost"
+  },
+  {
+    "equipmentEffectID": 457,
+    "crossplayID": 457,
+    "effectID": 559,
+    "wearerID": 2,
+    "name": "newPVEcooldownReduction"
+  },
+  {
+    "equipmentEffectID": 458,
+    "crossplayID": 458,
+    "effectID": 562,
+    "wearerID": 2,
+    "name": "newPVEGloryBoost"
+  },
+  {
+    "equipmentEffectID": 459,
+    "crossplayID": 459,
+    "effectID": 563,
+    "wearerID": 2,
+    "name": "newPVECoinLootBoost"
+  },
+  {
+    "equipmentEffectID": 460,
+    "crossplayID": 460,
+    "effectID": 564,
+    "wearerID": 2,
+    "name": "newPVEAquamarineLootBonus"
+  },
+  {
+    "equipmentEffectID": 461,
+    "crossplayID": 461,
+    "effectID": 565,
+    "wearerID": 2,
+    "name": "newPVEGallantryBoost"
+  },
+  {
     "equipmentEffectID": 193,
     "crossplayID": 193,
     "effectID": 494,

@@ -4347,6 +4347,214 @@
     "sortOrder": "4.1.1"
   },
   {
+    "effectID": 540,
+    "crossplayID": 540,
+    "name": "newPVEOffensiveMeleeBonus",
+    "effectTypeID": 23,
+    "capID": 2000,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 541,
+    "crossplayID": 541,
+    "name": "newPVEOffensiveRangeBonus",
+    "effectTypeID": 24,
+    "capID": 2000,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 542,
+    "crossplayID": 542,
+    "name": "newPVEWallReduction",
+    "effectTypeID": 19,
+    "capID": 2001,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 543,
+    "crossplayID": 543,
+    "name": "newPVEGateReduction",
+    "effectTypeID": 20,
+    "capID": 2001,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 544,
+    "crossplayID": 544,
+    "name": "newPVEMoatReduction",
+    "effectTypeID": 21,
+    "capID": 2002,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 545,
+    "crossplayID": 545,
+    "name": "newPVESpeedBonus",
+    "effectTypeID": 15,
+    "capID": 2003,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 546,
+    "crossplayID": 546,
+    "name": "newPVELootBonus",
+    "effectTypeID": 16,
+    "capID": 2014,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 547,
+    "crossplayID": 547,
+    "name": "newPVEAttackUnitAmountFlank",
+    "effectTypeID": 28,
+    "capID": 2005,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 548,
+    "crossplayID": 548,
+    "name": "newPVEAttackBoostYard",
+    "effectTypeID": 33,
+    "capID": 2006,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 549,
+    "crossplayID": 549,
+    "name": "newPVEAttackUnitAmountFront",
+    "effectTypeID": 34,
+    "capID": 2005,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 550,
+    "crossplayID": 550,
+    "name": "newPVEAttackBonus",
+    "effectTypeID": 36,
+    "capID": 2007,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 551,
+    "crossplayID": 551,
+    "name": "newPVEAttackBoostFront",
+    "effectTypeID": 53,
+    "capID": 2007,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 552,
+    "crossplayID": 552,
+    "name": "newPVEAttackBoostFlank",
+    "effectTypeID": 54,
+    "capID": 2007,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 553,
+    "crossplayID": 553,
+    "name": "newPVEAttackSupportUnits",
+    "effectTypeID": 51,
+    "capID": 99,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 554,
+    "crossplayID": 554,
+    "name": "newPVEReturnTravelBoost",
+    "effectTypeID": 38,
+    "capID": 2010,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 555,
+    "crossplayID": 555,
+    "name": "newPVEattackUnitAmountReinforcementBonus",
+    "effectTypeID": 179,
+    "capID": 2015,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 556,
+    "crossplayID": 556,
+    "name": "newPVEAdditionalWaves",
+    "effectTypeID": 156,
+    "capID": 99,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 557,
+    "crossplayID": 557,
+    "name": "newPVEKhanTabletLootBoost",
+    "effectTypeID": 168,
+    "capID": 99,
+    "areaTypeID": "27,35"
+  },
+  {
+    "effectID": 558,
+    "crossplayID": 558,
+    "name": "newPVESamuraiMedalLootBoost",
+    "effectTypeID": 168,
+    "capID": 99,
+    "areaTypeID": "29,37"
+  },
+  {
+    "effectID": 559,
+    "crossplayID": 559,
+    "name": "newPVEcooldownReduction",
+    "effectTypeID": 27,
+    "capID": 2013,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 560,
+    "crossplayID": 560,
+    "name": "newPVEAttackUnitAmountFrontUncapped",
+    "effectTypeID": 34,
+    "capID": 99,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 561,
+    "crossplayID": 561,
+    "name": "newPVEAttackUnitAmountFlankUncapped",
+    "effectTypeID": 28,
+    "capID": 99,
+    "areaTypeID": "2,15,16,17,18,21,24,25,27,29,30,34,35,37"
+  },
+  {
+    "effectID": 562,
+    "crossplayID": 562,
+    "name": "newPVEGloryBoost",
+    "effectTypeID": 105,
+    "capID": 2016,
+    "areaTypeID": "21,34"
+  },
+  {
+    "effectID": 563,
+    "crossplayID": 563,
+    "name": "newPVECoinLootBoost",
+    "effectTypeID": 75,
+    "capID": 2017,
+    "areaTypeID": 2
+  },
+  {
+    "effectID": 564,
+    "crossplayID": 564,
+    "name": "newPVEAquamarineLootBonus",
+    "effectTypeID": 16,
+    "capID": 2018,
+    "areaTypeID": 25
+  },
+  {
+    "effectID": 565,
+    "crossplayID": 565,
+    "name": "newPVEGallantryBoost",
+    "effectTypeID": 76,
+    "capID": 2019,
+    "areaTypeID": "15,16,17,18,30"
+  },
+  {
     "effectID": 487,
     "crossplayID": 487,
     "name": "spawnReserveUnitLegendaryDragon",
