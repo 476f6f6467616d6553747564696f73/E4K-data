@@ -1,7 +1,7 @@
 {
-  "version": "789.RC.02",
-  "date": "09/11/2026 12:49:27",
+  "version": "789.RC.04",
+  "date": "19/11/2026 15:33:13",
   "included": {
-    "features": "Live,Naga,-,CIRarityFixes,BeriTrainingGroundsQueue,DonationEvent_November,LTPEFixes_November,LTPEFixes_December,PvECommanderEffects,NovemberSales,NovemberGacha,BerimondPillar3_Fixes,FatalFloraExtension,GemSlotFix,ColossusCampFix"
+    "features": "Live,Naga,-,NovemberGacha_Fixes"
   }
 }

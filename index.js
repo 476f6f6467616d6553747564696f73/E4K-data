@@ -30,4 +30,3 @@ readdirSync(__dirname + '/languages/').forEach(function (file) {
 });
 
 module.exports.network = require('./network/network.json');
-module.exports.networkPreClient = require('./network/77.json');
