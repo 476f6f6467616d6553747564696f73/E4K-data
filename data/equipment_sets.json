@@ -5056,7 +5056,7 @@
     "comment2": "PvE Commander - Bronze Set",
     "setID": 1103,
     "neededItems": 2,
-    "effects": "453&amp;1000"
+    "effects": "451&amp;214+1000"
   },
   {
     "ID": 685,
@@ -5120,7 +5120,7 @@
     "comment2": "PvE Commander - Silver Set",
     "setID": 1104,
     "neededItems": 2,
-    "effects": "453&amp;1250"
+    "effects": "451&amp;214+1250"
   },
   {
     "ID": 693,
@@ -5184,7 +5184,7 @@
     "comment2": "PvE Commander - Gold Set",
     "setID": 1105,
     "neededItems": 2,
-    "effects": "453&amp;1500"
+    "effects": "451&amp;214+1500"
   },
   {
     "ID": 701,
